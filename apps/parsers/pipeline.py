@@ -113,6 +113,15 @@ class IngestionPipeline:
         # Components
         self.parser = AkomaNtosoGeneratorV2()
         self.quality_calc = QualityCalculator()
+        
+        # DB Integration
+        try:
+            from ingestion.db_saver import DatabaseSaver
+            self.db_saver = DatabaseSaver()
+            print("✅ Database connection established")
+        except Exception as e:
+            print(f"⚠️  Database connection failed: {e}")
+            self.db_saver = None
     
     def ingest_law(self, 
                    law_metadata: Dict[str, Any],
@@ -174,6 +183,14 @@ class IngestionPipeline:
                 # Success!
                 result.success = True
                 result.duration_seconds = time.time() - start_time
+                
+                # Save to Database
+                if self.db_saver:
+                    try:
+                        self.db_saver.save_law_version(law_metadata, xml_path, pdf_path)
+                        print("✅ Metadata saved to database")
+                    except Exception as e:
+                        print(f"⚠️  Failed to save to DB: {e}")
                 
                 print(f"\n🎉 Success! {law_id} completed in {result.duration_seconds:.1f}s")
                 return result

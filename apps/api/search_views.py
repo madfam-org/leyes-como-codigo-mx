@@ -48,6 +48,7 @@ class SearchView(APIView):
                     "law": source.get('law_id'),
                     "article": f"Art. {source.get('article_id')}",
                     "snippet": highlight,
+                    "date": source.get('publication_date'),
                     "score": hit['_score']
                 })
 

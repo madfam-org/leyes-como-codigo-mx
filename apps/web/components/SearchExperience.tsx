@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import Link from 'next/link';
 
 export default function SearchExperience() {
     const [query, setQuery] = useState('');
@@ -46,19 +47,26 @@ export default function SearchExperience() {
 
             <div className="space-y-4">
                 {results.map((r: any) => (
-                    <Card key={r.id} className="hover:bg-accent/50 transition-colors">
-                        <CardHeader className="pb-2">
-                            <CardTitle className="text-lg font-bold text-primary">
-                                {r.law} - {r.article}
-                            </CardTitle>
-                        </CardHeader>
-                        <CardContent>
-                            <div
-                                className="text-sm text-muted-foreground prose dark:prose-invert max-w-none"
-                                dangerouslySetInnerHTML={{ __html: r.snippet }}
-                            />
-                        </CardContent>
-                    </Card>
+                    <Link key={r.id} href={`/laws/${r.law}`} className="block">
+                        <Card className="hover:bg-accent/50 transition-colors">
+                            <CardHeader className="pb-2">
+                                <CardTitle className="text-lg font-bold text-primary">
+                                    {r.law} - {r.article}
+                                    {r.date && (
+                                        <span className="ml-2 text-xs font-normal text-muted-foreground bg-secondary px-2 py-1 rounded">
+                                            Vigente desde: {new Date(r.date + 'T12:00:00').toLocaleDateString('es-MX')}
+                                        </span>
+                                    )}
+                                </CardTitle>
+                            </CardHeader>
+                            <CardContent>
+                                <div
+                                    className="text-sm text-muted-foreground prose dark:prose-invert max-w-none"
+                                    dangerouslySetInnerHTML={{ __html: r.snippet }}
+                                />
+                            </CardContent>
+                        </Card>
+                    </Link>
                 ))}
                 {results.length === 0 && !loading && query && (
                     <div className="text-center text-muted-foreground">No se encontraron resultados.</div>

@@ -79,6 +79,8 @@ def main():
                        help='Use existing PDFs, skip downloading')
     parser.add_argument('--output', type=str,
                        help='Save results to JSON file')
+    parser.add_argument('--force', action='store_true',
+                       help='Skip confirmation prompt')
     
     args = parser.parse_args()
     
@@ -130,7 +132,7 @@ def main():
     print(f"\n{'='*70}")
     
     # Confirm
-    if len(laws) > 3:
+    if len(laws) > 3 and not args.force:
         response = input(f"\nProcess {len(laws)} laws? [y/N]: ")
         if response.lower() != 'y':
             print("Cancelled.")

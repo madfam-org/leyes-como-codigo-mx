@@ -21,6 +21,7 @@ def create_indices(es):
                     "id": { "type": "keyword" },
                     "name": { "type": "text", "analyzer": "spanish" },
                     "category": { "type": "keyword" },
+                    "publication_date": { "type": "date" },
                     "status": { "type": "keyword" },
                     "total_articles": { "type": "integer" }
                 }
@@ -50,7 +51,8 @@ def create_indices(es):
                         "type": "text", 
                         "analyzer": "spanish_legal" 
                     },
-                    "tags": { "type": "keyword" }
+                    "tags": { "type": "keyword" },
+                    "publication_date": { "type": "date" }
                 }
             }
         })
@@ -66,13 +68,21 @@ def parse_law(xml_path):
     
     # 1. Index Law Metadata
     law_title = "Unknown Law"
+    pub_date = None
+    
     meta = root.find(".//akn:identification", ns)
     if meta is not None:
         work = meta.find(".//akn:FRBRWork", ns)
         if work is not None:
+            # Title
             title_node = work.find(".//akn:FRBRname", ns)
             if title_node is not None:
                 law_title = title_node.get("value")
+            
+            # Date
+            date_node = work.find(".//akn:FRBRdate", ns)
+            if date_node is not None:
+                pub_date = date_node.get("date")
 
     articles = root.findall(".//akn:article", ns)
     
@@ -82,7 +92,8 @@ def parse_law(xml_path):
         "_id": law_id,
         "id": law_id,
         "name": law_title,
-        "category": "federal", # Placeholder, should come from registry
+        "category": "federal", 
+        "publication_date": pub_date,
         "status": "active",
         "total_articles": len(articles)
     }
@@ -121,7 +132,8 @@ def parse_law(xml_path):
             "article_id": art_id,
             "order": idx,
             "text": text,
-            "tags": tags
+            "tags": tags,
+            "publication_date": pub_date
         }
 
 def main():
