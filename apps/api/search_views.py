@@ -45,24 +45,28 @@ class SearchView(APIView):
             # Add filter clauses
             filter_clauses = []
 
-            # Jurisdiction filter (via law_id prefix - federal laws are lowercase)
-            # Note: This is a simple heuristic. You may need to query the Law model
-            # for more accurate jurisdiction filtering
+            # Jurisdiction filter
             if jurisdiction and jurisdiction != "all":
                 jurisdictions = jurisdiction.split(',')
+                # If only one type is selected, filter by tier
                 if 'federal' in jurisdictions and 'state' not in jurisdictions:
-                    # Only federal - law IDs are typically lowercase abbreviations
-                    # This is a placeholder - you may want to query Law model instead
-                    pass  # For now, return all (most are federal anyway)
+                    filter_clauses.append({"term": {"tier.keyword": "federal"}})
                 elif 'state' in jurisdictions and 'federal' not in jurisdictions:
-                    # Only state laws - would need Law model query
-                    pass
+                    filter_clauses.append({"term": {"tier.keyword": "state"}})
 
-            # Category filter (would need to join with Law model - skipping for now)
-            # In a production system, you'd want to:
-            # 1. Query Law model for laws matching category
-            # 2. Filter by those law_ids
-            # For now, we'll skip category filtering at ES level
+            # Category filter
+            if category and category != "all":
+                filter_clauses.append({"term": {"category.keyword": category}})
+
+            # State filter
+            state_filter = request.query_params.get("state", None)
+            if state_filter and state_filter != "all":
+                # State ID prefix (e.g., "Colima" -> "colima_")
+                prefix = f"{state_filter.lower()}_"
+                filter_clauses.append({"prefix": {"law_id.keyword": prefix}})
+
+            # Search status (vigente/abrogado) - not fully indexed yet, placeholder
+            # if search_status and search_status != "all": ...
 
             # Build the full query
             es_query = {
@@ -114,8 +118,9 @@ class SearchView(APIView):
                 highlight = hit.get('highlight', {}).get('text', [source['text'][:200]])[0]
                 results.append({
                     "id": hit['_id'],
-                    "law": source.get('law_id'),
-                    "article": f"Art. {source.get('article_id')}",
+                    "law_id": source.get('law_id'),
+                    "law_name": source.get('law_name', source.get('law_id')), # Fallback to ID if name missing
+                    "article": f"Art. {source.get('article', source.get('article_id'))}",
                     "snippet": highlight,
                     "date": source.get('publication_date'),
                     "score": hit['_score']

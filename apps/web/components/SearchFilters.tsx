@@ -1,15 +1,18 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Label } from '@/components/ui/label';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { X, Filter } from 'lucide-react';
+import { api } from '@/lib/api';
 
 export interface SearchFilterState {
     jurisdiction: string[];
     category: string | null;
+    state: string | null;
     status: string;
     sort: string;
 }
@@ -51,18 +54,50 @@ const SORT_OPTIONS = [
 ];
 
 export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchFiltersProps) {
+    const [states, setStates] = useState<string[]>([]);
+    const [loadingStates, setLoadingStates] = useState(false);
+
+    useEffect(() => {
+        async function loadStates() {
+            if (filters.jurisdiction.includes('state')) {
+                try {
+                    setLoadingStates(true);
+                    const data = await api.getStates();
+                    setStates(data.states);
+                } catch (e) {
+                    console.error('Failed to load states', e);
+                } finally {
+                    setLoadingStates(false);
+                }
+            }
+        }
+        loadStates();
+    }, [filters.jurisdiction]); // Reload if jurisdiction changes to/from state locally? No, states list is static.
+    // Actually we only need to load once if needed.
+    // Better: load once on mount if likely needed, or just load when needed.
+    // Given the component structure, let's load on mount or when 'state' is selected.
+
+    // Actually, simple effect:
+    useEffect(() => {
+        api.getStates().then(data => setStates(data.states)).catch(console.error);
+    }, []);
+
     const toggleJurisdiction = (jurisdictionId: string) => {
         const newJurisdictions = filters.jurisdiction.includes(jurisdictionId)
             ? filters.jurisdiction.filter(j => j !== jurisdictionId)
             : [...filters.jurisdiction, jurisdictionId];
 
-        onFiltersChange({ ...filters, jurisdiction: newJurisdictions });
+        // If removing state, clear state selection
+        const newState = (!newJurisdictions.includes('state')) ? null : filters.state;
+
+        onFiltersChange({ ...filters, jurisdiction: newJurisdictions, state: newState });
     };
 
     const clearFilters = () => {
         onFiltersChange({
             jurisdiction: ['federal'], // Default to federal
             category: null,
+            state: null,
             status: 'all',
             sort: 'relevance',
         });
@@ -72,12 +107,14 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
         let count = 0;
         if (filters.jurisdiction.length !== 1 || !filters.jurisdiction.includes('federal')) count++;
         if (filters.category && filters.category !== 'all') count++;
+        if (filters.state && filters.state !== 'all') count++;
         if (filters.status !== 'all') count++;
         if (filters.sort !== 'relevance') count++;
         return count;
     };
 
     const activeCount = activeFilterCount();
+    const showStateSelector = filters.jurisdiction.includes('state');
 
     return (
         <Card className="mb-6">
@@ -137,6 +174,33 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                     </div>
                 </div>
 
+                {/* State Selector - Conditional */}
+                {showStateSelector && (
+                    <div className="animate-in fade-in slide-in-from-top-2 duration-200">
+                        <Label htmlFor="state" className="mb-2 block text-sm font-medium">
+                            Estado
+                        </Label>
+                        <Select
+                            value={filters.state || 'all'}
+                            onValueChange={(value) =>
+                                onFiltersChange({ ...filters, state: value === 'all' ? null : value })
+                            }
+                        >
+                            <SelectTrigger id="state">
+                                <SelectValue placeholder="Todos los estados" />
+                            </SelectTrigger>
+                            <SelectContent>
+                                <SelectItem value="all">Todos los estados</SelectItem>
+                                {states.map((state) => (
+                                    <SelectItem key={state} value={state}>
+                                        {state}
+                                    </SelectItem>
+                                ))}
+                            </SelectContent>
+                        </Select>
+                    </div>
+                )}
+
                 {/* Category */}
                 <div>
                     <Label htmlFor="category" className="mb-2 block text-sm font-medium">
@@ -164,7 +228,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 {/* Status */}
                 <div>
                     <Label htmlFor="status" className="mb-2 block text-sm font-medium">
-                        Estado
+                        Estado (Vigencia)
                     </Label>
                     <Select
                         value={filters.status}

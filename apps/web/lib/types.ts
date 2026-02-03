@@ -27,7 +27,8 @@ export interface LawListItem {
 
 export interface SearchResult {
     id: string;
-    law: string;
+    law_id: string;
+    law_name: string;
     article: string;
     snippet: string;
     score: number;

@@ -53,6 +53,13 @@ export const api = {
     },
 
     /**
+     * Get list of states
+     */
+    getStates: async (): Promise<{ states: string[] }> => {
+        return fetcher<{ states: string[] }>('/states/');
+    },
+
+    /**
      * Search laws and articles
      */
     search: async (
@@ -60,6 +67,7 @@ export const api = {
         options?: {
             jurisdiction?: string[];
             category?: string | null;
+            state?: string | null;
             status?: string;
             sort?: string;
             page?: number;
@@ -74,6 +82,9 @@ export const api = {
         }
         if (options?.category && options.category !== 'all') {
             params.append('category', options.category);
+        }
+        if (options?.state && options.state !== 'all') {
+            params.append('state', options.state);
         }
         if (options?.status && options.status !== 'all') {
             params.append('status', options.status);

@@ -1,8 +1,15 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+from rest_framework.decorators import api_view
 # from engines.openfisca.system import MexicanTaxSystem
 from .serializers import CalculationRequestSerializer
+from .models import Law
+from elasticsearch import Elasticsearch
+
+# Elasticsearch config
+ES_HOST = "http://elasticsearch:9200"
+INDEX_NAME = "articles"
 
 class CalculationView(APIView):
     def post(self, request):

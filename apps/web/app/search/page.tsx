@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { Search as SearchIcon, Loader2 } from 'lucide-react';
 import { useSearchParams, useRouter } from 'next/navigation';
+import Link from 'next/link';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
@@ -15,6 +16,7 @@ import type { SearchResult } from '@/lib/types';
 const DEFAULT_FILTERS: SearchFilterState = {
     jurisdiction: ['federal'],
     category: null,
+    state: null,
     status: 'all',
     sort: 'relevance',
 };
@@ -61,6 +63,7 @@ export default function SearchPage() {
             const data = await api.search(searchQuery, {
                 jurisdiction: searchFilters.jurisdiction,
                 category: searchFilters.category,
+                state: searchFilters.state,
                 status: searchFilters.status,
                 sort: searchFilters.sort,
                 page,
@@ -209,48 +212,59 @@ export default function SearchPage() {
                                     )}
                                 </div>
 
+// Add Link import at top (I will do this in a separate step or assume I can do it here if I include top of file but file is large)
+                                // I will just replace the iteration part.
+                                // But I need to add import.
+                                // Let's replace the whole iteration block.
+
                                 <div className="space-y-4">
                                     {results.map((result, index) => (
-                                        <Card key={result.id || index} className="transition-all hover:shadow-lg">
-                                            <CardContent className="p-6">
-                                                <div className="flex items-start justify-between gap-4">
-                                                    {/* Content */}
-                                                    <div className="flex-1">
-                                                        <div className="mb-2 flex items-center gap-2">
-                                                            <Badge variant="secondary" className="font-mono text-xs">
-                                                                {result.law.toUpperCase()}
-                                                            </Badge>
-                                                            {result.article && (
-                                                                <span className="text-sm text-muted-foreground">
-                                                                    {result.article}
-                                                                </span>
+                                        <Link
+                                            href={`/laws/${result.law_id}#article-${result.article.replace('Art. ', '')}`}
+                                            key={result.id || index}
+                                            className="block"
+                                        >
+                                            <Card className="transition-all hover:shadow-lg hover:border-primary/50 cursor-pointer">
+                                                <CardContent className="p-6">
+                                                    <div className="flex items-start justify-between gap-4">
+                                                        {/* Content */}
+                                                        <div className="flex-1">
+                                                            <div className="mb-2 flex flex-wrap items-center gap-2">
+                                                                <Badge variant="secondary" className="font-mono text-xs truncate max-w-[300px]">
+                                                                    {result.law_name}
+                                                                </Badge>
+                                                                {result.article && (
+                                                                    <span className="text-sm text-muted-foreground font-medium">
+                                                                        {result.article}
+                                                                    </span>
+                                                                )}
+                                                            </div>
+
+                                                            <div
+                                                                className="text-sm text-foreground line-clamp-3"
+                                                                dangerouslySetInnerHTML={{ __html: result.snippet }}
+                                                            />
+
+                                                            {result.date && (
+                                                                <div className="mt-3 text-xs text-muted-foreground">
+                                                                    Publicación: {new Date(result.date).toLocaleDateString('es-MX', { year: 'numeric', month: 'long', day: 'numeric' })}
+                                                                </div>
                                                             )}
                                                         </div>
 
-                                                        <div
-                                                            className="text-sm text-foreground"
-                                                            dangerouslySetInnerHTML={{ __html: result.snippet }}
-                                                        />
-
-                                                        {result.date && (
-                                                            <div className="mt-3 text-xs text-muted-foreground">
-                                                                Publicación: {new Date(result.date).toLocaleDateString('es-MX')}
+                                                        {/* Score */}
+                                                        {result.score && (
+                                                            <div className="text-right hidden sm:block">
+                                                                <div className="text-xs text-muted-foreground">Relevancia</div>
+                                                                <div className="font-display text-lg font-bold text-primary-600">
+                                                                    {result.score.toFixed(1)}
+                                                                </div>
                                                             </div>
                                                         )}
                                                     </div>
-
-                                                    {/* Score */}
-                                                    {result.score && (
-                                                        <div className="text-right">
-                                                            <div className="text-xs text-muted-foreground">Relevancia</div>
-                                                            <div className="font-display text-lg font-bold text-primary-600">
-                                                                {result.score.toFixed(1)}
-                                                            </div>
-                                                        </div>
-                                                    )}
-                                                </div>
-                                            </CardContent>
-                                        </Card>
+                                                </CardContent>
+                                            </Card>
+                                        </Link>
                                     ))}
                                 </div>
 
