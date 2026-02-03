@@ -5,7 +5,7 @@ import datetime
 # Add project root to path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from apps.bluebell_lite import BluebellLite
+from apps.parsers.bluebell import BluebellLite
 
 def ingest_cpeum():
     """
