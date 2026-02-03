@@ -1,4 +1,5 @@
 import TaxForm from "../components/TaxForm";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -10,6 +11,15 @@ export default function Home() {
         <p className="mt-4 text-lg text-gray-600">
           Un motor de reglas fiscales abierto, verificable y ejecutable.
         </p>
+
+        <div className="mt-6 flex gap-4 justify-center">
+          <Link
+            href="/laws"
+            className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-colors shadow-lg"
+          >
+            📚 Explorar Leyes Federales
+          </Link>
+        </div>
       </div>
 
       <div className="w-full max-w-lg">
