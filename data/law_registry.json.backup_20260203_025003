@@ -504,14 +504,11 @@
             "expected_articles": 130,
             "publication_date": "2014-08-11",
             "source": "chamber",
-            "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHidro.pdf",
+            "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LH.pdf",
             "priority": 2,
             "tier": "energy",
-            "status": "abrogated",
-            "category": "energy",
-            "remote_path": "pdf/LHidro.pdf",
-            "notes": " URL corrected 2026-02-03. Original: https://www.diputados.gob.mx/LeyesBiblio/pdf/LH.pdf Abrogated March 2025, replaced by LSH.",
-            "abrogation_date": "2025-03-18"
+            "status": "pending",
+            "category": "energy"
         },
         {
             "id": "lie",
@@ -555,9 +552,8 @@
             "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIMH.pdf",
             "priority": 2,
             "tier": "social",
-            "status": "invalid",
-            "category": "social",
-            "notes": "Law does not exist. Erroneous registry entry. Research confirmed no 'Ley General de la Industria Minero-Hidrocarburos' exists in Mexican legislation."
+            "status": "pending",
+            "category": "social"
         },
         {
             "id": "lgamvlv",
@@ -4456,21 +4452,6 @@
             "short_name": "REGLAMENTO para el Gobierno Interior del Congreso ...",
             "publication_date": "1934-03-20",
             "slug": "219"
-        },
-        {
-            "id": "lorcme",
-            "name": "Ley de los Órganos Reguladores Coordinados en Materia Energética",
-            "short_name": "LORCME",
-            "url": "https://www.diputados.gob.mx/LeyesBiblio/abro/lorcme/LORCME_abro.pdf",
-            "remote_path": "abro/lorcme/LORCME_abro.pdf",
-            "publication_date": "2014-08-11",
-            "status": "abrogated",
-            "abrogation_date": "2025-03-18",
-            "priority": 3,
-            "tier": "energy",
-            "category": "federal",
-            "slug": "lorcme",
-            "notes": "Abrogated March 2025 by energy sector reforms. Historical preservation. Source: Cámara de Diputados archive."
         }
     ],
     "categories": {
