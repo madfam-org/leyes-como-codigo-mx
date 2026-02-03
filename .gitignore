@@ -67,3 +67,9 @@ data/xml/states/
 logs/
 *.log
 nohup.out
+
+# State law processing outputs (large files)
+data/state_laws_processed/
+data/*_conversion*.json
+# Keep metadata for reference
+!data/state_laws_metadata.json
