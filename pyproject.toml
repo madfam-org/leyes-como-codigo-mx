@@ -11,6 +11,7 @@ packages = [{include = "apps"}]
 python = "^3.11"
 django = "^5.0"
 djangorestframework = "^3.14"
+django-cors-headers = "^4.3.1"
 celery = "^5.3"
 redis = "^5.0"
 # XML Processing
