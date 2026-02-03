@@ -15,15 +15,18 @@ from datetime import datetime
 import sys
 
 def main():
-    # Load state registry
-    registry_path = Path("data/state_registry.json")
+    # Load state registry (go up 2 levels from scripts/scraping)
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent.parent
+    registry_path = project_root / "data/state_registry.json"
+    
     with open(registry_path, 'r', encoding='utf-8') as f:
         registry = json.load(f)
     
     states = registry['states']
     
     # Setup logging
-    log_file = Path("data/state_laws/scraping_log.txt")
+    log_file = project_root / "data/state_laws/scraping_log.txt"
     log_file.parent.mkdir(parents=True, exist_ok=True)
     
     def log(message):
@@ -33,7 +36,7 @@ def main():
             f.write(f"{datetime.now().isoformat()} - {message}\n")
     
     # Initialize scraper
-    scraper = OJNScraper(output_dir="data/state_laws")
+    scraper = OJNScraper(output_dir=str(project_root / "data/state_laws"))
     
     # Overall statistics
     total_stats = {
@@ -91,7 +94,7 @@ def main():
             })
         
         # Save progress after each state
-        progress_file = Path("data/state_laws/scraping_progress.json")
+        progress_file = project_root / "data/state_laws/scraping_progress.json"
         with open(progress_file, 'w', encoding='utf-8') as f:
             json.dump(total_stats, f, indent=2, ensure_ascii=False)
     
@@ -111,7 +114,7 @@ def main():
     log("="*80)
     
     # Save final summary
-    summary_file = Path("data/state_laws/scraping_summary.json")
+    summary_file = project_root / "data/state_laws/scraping_summary.json"
     with open(summary_file, 'w', encoding='utf-8') as f:
         json.dump(total_stats, f, indent=2, ensure_ascii=False)
     

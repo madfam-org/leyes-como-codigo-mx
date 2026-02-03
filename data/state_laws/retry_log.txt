@@ -1,0 +1,22 @@
+2026-02-03T13:38:56.325983 - ================================================================================
+2026-02-03T13:38:56.326238 - 🔄 RETRY FAILED DOWNLOADS - STARTING
+2026-02-03T13:38:56.326378 - States with failures: 12
+2026-02-03T13:38:56.326513 - Total laws to retry: 783
+2026-02-03T13:38:56.326652 - Start time: 2026-02-03T13:38:56.326573
+2026-02-03T13:38:56.326782 - ================================================================================
+2026-02-03T13:38:56.326929 - 
+🔄 Retrying Baja California: 2 failures
+2026-02-03T13:38:56.327070 -    ⚠️  Baja California: 2 failures (manual review recommended)
+2026-02-03T13:38:56.327201 - 
+🔄 Retrying Campeche: 2 failures
+2026-02-03T13:38:56.327285 -    ⚠️  Campeche: 2 failures (manual review recommended)
+2026-02-03T13:38:56.327401 - 
+🔄 Retrying Guerrero: 26 failures
+2026-02-03T13:38:56.327531 -    ⚠️  Guerrero: 26 failures (manual review recommended)
+2026-02-03T13:38:56.327676 - 
+🔄 Retrying Estado de México: 141 failures
+2026-02-03T13:38:56.327811 -    Many failures - re-scraping entire state
+2026-02-03T14:18:00.436307 -    ✅ Estado de México: recovered 0/141
+2026-02-03T14:18:00.436405 - 
+🔄 Retrying Michoacán: 504 failures
+2026-02-03T14:18:00.436496 -    Many failures - re-scraping entire state
