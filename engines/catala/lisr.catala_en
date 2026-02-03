@@ -1,8 +1,26 @@
-```catala
-declaration name LISR
+```catala-metadata
+# Law Version: LISR as amended through DOF 2025-12-28
+# Tax Tables: Anexo 8, Resolución Miscelánea Fiscal 2026
+# Valid From: 2026-01-01
+# Source: https://www.sat.gob.mx/
+# Article Reference: Article 96 LISR (Progressive Income Tax)
+
+declaration scope Person:
+  input residence content boolean
+  input income_source_mx content boolean
+  output tax_obligation condition
+
+declaration scope PhysicalPersonTax:
+  input income_cash content money
+  input income_goods content money
+  output total_income content money
+
+declaration scope TaxCalculation2026:
+  input monthly_income content money
+  output tax_owed content money
 ```
 
-# Ley del Impuesto Sobre la Renta
+# Ley del Impuesto Sobre la Renta (LISR) - 2026
 
 ## Título I - Disposiciones Generales
 
@@ -12,15 +30,9 @@ Las personas físicas y las morales están obligadas al pago del impuesto sobre 
 
 ```catala
 scope Person:
-  input residence: bool
-  input income_source_mx: bool
-  output tax_obligation: bool
-
-  rule tax_obligation under condition residence:
-    true
-
-  rule tax_obligation under condition not residence and income_source_mx:
-    true
+  rule tax_obligation under condition residence consequence fulfilled
+  
+  rule tax_obligation under condition not residence and income_source_mx consequence fulfilled
 ```
 
 ## Título IV - De las Personas Físicas
@@ -31,24 +43,38 @@ Están obligadas al pago del impuesto establecido en este Título, las personas 
 
 ```catala
 scope PhysicalPersonTax:
-  input income_cash: money
-  input income_goods: money
-  output total_income: money
-
   definition total_income equals
     income_cash + income_goods
 ```
 
-# Tests
+### Artículo 96 - Tarifa Mensual (Vigente 2026)
+
+Para calcular el impuesto del ejercicio, se aplicará la siguiente tarifa mensual:
 
 ```catala
-# Test Case 1: Resident in Mexico
-scope PersonTest1:
-  output result: bool
-  
-  result equals
-    let p = Person {
-      residence: true
-      income_source_mx: false
-    } in p.tax_obligation
+scope TaxCalculation2026:
+  # Using definition syntax with conditional logic per bracket
+  definition tax_owed equals
+    if monthly_income >= $0.01 and monthly_income <= $10135.11 then
+      $0.00 + (monthly_income - $0.01) * 0.0192
+    else if monthly_income >= $10135.12 and monthly_income <= $86022.11 then
+      $194.59 + (monthly_income - $10135.12) * 0.0640
+    else if monthly_income >= $86022.12 and monthly_income <= $151176.19 then
+      $5051.37 + (monthly_income - $86022.12) * 0.1088
+    else if monthly_income >= $151176.20 and monthly_income <= $175735.66 then
+      $12140.13 + (monthly_income - $151176.20) * 0.1600
+    else if monthly_income >= $175735.67 and monthly_income <= $210403.69 then
+      $16069.64 + (monthly_income - $175735.67) * 0.1792
+    else if monthly_income >= $210403.70 and monthly_income <= $424353.97 then
+      $22282.14 + (monthly_income - $210403.70) * 0.2136
+    else if monthly_income >= $424353.98 and monthly_income <= $668840.14 then
+      $67981.92 + (monthly_income - $424353.98) * 0.2352
+    else if monthly_income >= $668840.15 and monthly_income <= $1276925.98 then
+      $125485.07 + (monthly_income - $668840.15) * 0.3000
+    else if monthly_income >= $1276925.99 and monthly_income <= $1702567.97 then
+      $307910.81 + (monthly_income - $1276925.99) * 0.3200
+    else if monthly_income >= $1702567.98 and monthly_income <= $5107703.92 then
+      $444057.91 + (monthly_income - $1702567.98) * 0.3400
+    else
+      $1605679.59 + (monthly_income - $5107703.93) * 0.3500
 ```

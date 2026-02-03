@@ -48,7 +48,18 @@ cd apps/web
 npm install
 npm run dev
 ```
+```
 Visit `http://localhost:3000` to access the Tax Calculator.
+
+### 3. Catala Compiler (Docker)
+```bash
+# Build the Docker image with Catala compiler
+docker-compose build api
+
+# Compile Catala source to Python
+docker-compose run --rm api ./scripts/compile_catala.sh
+```
+The Catala compiler is installed via `opam` in the Docker container and generates Python code from `.catala_en` source files.
 
 ## 🏗️ Architecture
 

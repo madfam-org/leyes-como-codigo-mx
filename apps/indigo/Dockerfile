@@ -15,9 +15,23 @@ ENV PATH="$POETRY_HOME/bin:$PATH"
 RUN apt-get update && apt-get install -y \
     curl \
     build-essential \
+    pkg-config \
+    libgmp-dev \
     libxml2-dev \
     libxslt-dev \
+    wget \
+    opam \
     && rm -rf /var/lib/apt/lists/*
+
+# Install Catala via Opam
+# Initialize Opam, create switch, and install catala
+RUN opam init --disable-sandboxing -y \
+    && opam switch create 4.14.1 \
+    && eval $(opam env) \
+    && opam install -y catala
+
+# Add opam env to PATH
+ENV PATH="/root/.opam/4.14.1/bin:$PATH"
 
 # Install Poetry
 RUN curl -sSL https://install.python-poetry.org | python3 -
