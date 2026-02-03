@@ -1,166 +1,216 @@
 import { notFound } from 'next/navigation';
-import { getLawById } from '@/lib/laws';
+import { api } from '@/lib/api';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Card } from '@/components/ui/card';
-import Link from 'next/link';
-import LawArticles from '@/components/LawArticles';
+import { Calendar, FileText, ExternalLink } from 'lucide-react';
 
-interface PageProps {
-    params: Promise<{
-        id: string;
-    }>;
-}
+export default async function LawDetailPage({
+    params
+}: {
+    params: { id: string }
+}) {
+    let law;
 
-export default async function LawDetailPage({ params }: PageProps) {
-    const { id } = await params;
-    const law = await getLawById(id);
-
-    if (!law) {
+    try {
+        law = await api.getLaw(params.id);
+    } catch (error) {
         notFound();
     }
 
-    const gradeColors = {
-        A: 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200',
-        B: 'bg-orange-100 text-orange-800 dark:bg-orange-900 dark:text-orange-200',
-        C: 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200'
-    };
-
     return (
-        <div className="min-h-screen bg-gradient-to-br from-gray-50 to-blue-50 dark:from-gray-900 dark:to-blue-950">
+        <div className="min-h-screen bg-background">
             {/* Header */}
-            <div className="bg-gradient-to-r from-blue-600 to-blue-800 dark:from-blue-800 dark:to-blue-950 text-white shadow-xl">
-                <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-                    <Link
-                        href="/laws"
-                        className="inline-flex items-center text-blue-100 hover:text-white mb-4 transition-colors"
-                    >
-                        ← Volver a todas las leyes
-                    </Link>
+            <div className="border-b border-border bg-gradient-to-br from-primary-500 to-primary-600 px-6 py-12">
+                <div className="mx-auto max-w-5xl">
+                    <div className="mb-4 flex items-center gap-3">
+                        <Badge variant="secondary" className="bg-white/20 text-white backdrop-blur-sm">
+                            {law.id}
+                        </Badge>
+                        {law.grade && (
+                            <Badge
+                                className={`
+                  ${law.grade === 'A' ? 'bg-grade-a' : ''}
+                  ${law.grade === 'B' ? 'bg-grade-b' : ''}
+                  ${law.grade === 'C' ? 'bg-grade-c' : ''}
+                  ${law.grade === 'D' ? 'bg-grade-d' : ''}
+                  ${law.grade === 'F' ? 'bg-grade-f' : ''}
+                  text-white
+                `}
+                            >
+                                Grado {law.grade}
+                            </Badge>
+                        )}
+                    </div>
 
-                    <h1 className="text-3xl font-bold mb-2">
-                        {law.fullName}
+                    <h1 className="font-display text-4xl font-bold text-white sm:text-5xl">
+                        {law.name}
                     </h1>
 
-                    <div className="flex gap-3 flex-wrap mt-4">
-                        <Badge className={`${gradeColors[law.grade]} text-sm`}>
-                            Grade {law.grade} ({law.score}%)
-                        </Badge>
-                        <Badge variant="outline" className="bg-white/10 text-white border-white/30">
-                            Prioridad {law.priority}
-                        </Badge>
-                        <Badge variant="outline" className="bg-white/10 text-white border-white/30">
-                            {law.tier}
-                        </Badge>
-                    </div>
+                    {law.short_name && law.short_name !== law.name && (
+                        <p className="mt-3 text-lg text-primary-100">
+                            {law.short_name}
+                        </p>
+                    )}
                 </div>
             </div>
 
             {/* Content */}
-            <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-                {/* Stats Card */}
-                <Card className="p-6 mb-8 bg-white dark:bg-gray-800">
-                    <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-                        <div>
-                            <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-                                Artículos
-                            </div>
-                            <div className="text-2xl font-bold text-gray-900 dark:text-white">
-                                {law.articles.toLocaleString()}
-                            </div>
-                        </div>
+            <div className="mx-auto max-w-5xl px-6 py-8">
+                <div className="grid gap-8 lg:grid-cols-[1fr_350px]">
+                    {/* Main Column */}
+                    <div className="space-y-6">
+                        {/* Metadata */}
+                        <Card>
+                            <CardHeader>
+                                <CardTitle>Información General</CardTitle>
+                            </CardHeader>
+                            <CardContent className="space-y-4">
+                                <div className="grid gap-4 sm:grid-cols-2">
+                                    {law.category && (
+                                        <div>
+                                            <div className="text-sm font-medium text-muted-foreground">Categoría</div>
+                                            <div className="mt-1 text-base">{law.category}</div>
+                                        </div>
+                                    )}
 
-                        <div>
-                            <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-                                Transitorios
-                            </div>
-                            <div className="text-2xl font-bold text-gray-900 dark:text-white">
-                                {law.transitorios}
-                            </div>
-                        </div>
+                                    {law.tier && (
+                                        <div>
+                                            <div className="text-sm font-medium text-muted-foreground">Nivel</div>
+                                            <div className="mt-1 text-base">Tier {law.tier}</div>
+                                        </div>
+                                    )}
 
-                        <div>
-                            <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-                                Calidad
-                            </div>
-                            <div className="text-2xl font-bold text-green-600 dark:text-green-400">
-                                {law.score}%
-                            </div>
-                        </div>
+                                    {law.articles !== undefined && (
+                                        <div>
+                                            <div className="text-sm font-medium text-muted-foreground">Artículos</div>
+                                            <div className="mt-1 flex items-center gap-2">
+                                                <FileText className="h-4 w-4 text-muted-foreground" />
+                                                <span className="text-base font-semibold">{law.articles.toLocaleString('es-MX')}</span>
+                                            </div>
+                                        </div>
+                                    )}
 
-                        <div>
-                            <div className="text-sm text-gray-600 dark:text-gray-400 mb-1">
-                                Formato
-                            </div>
-                            <div className="text-sm font-semibold text-gray-900 dark:text-white mt-2">
-                                Akoma Ntoso 3.0
-                            </div>
-                        </div>
+                                    {law.score !== undefined && (
+                                        <div>
+                                            <div className="text-sm font-medium text-muted-foreground">Calidad</div>
+                                            <div className="mt-1 text-base font-semibold text-primary-600">
+                                                {law.score}%
+                                            </div>
+                                        </div>
+                                    )}
+                                </div>
+                            </CardContent>
+                        </Card>
+
+                        {/* Version History */}
+                        <Card>
+                            <CardHeader>
+                                <CardTitle>Historial de Versiones</CardTitle>
+                            </CardHeader>
+                            <CardContent>
+                                {law.versions && law.versions.length > 0 ? (
+                                    <div className="space-y-4">
+                                        {law.versions.map((version, index) => (
+                                            <div
+                                                key={index}
+                                                className="flex items-start justify-between gap-4 rounded-lg border border-border p-4 transition-colors hover:bg-muted/50"
+                                            >
+                                                <div className="flex-1">
+                                                    <div className="flex items-center gap-2">
+                                                        <Calendar className="h-4 w-4 text-muted-foreground" />
+                                                        <span className="font-medium">
+                                                            {new Date(version.publication_date).toLocaleDateString('es-MX', {
+                                                                year: 'numeric',
+                                                                month: 'long',
+                                                                day: 'numeric'
+                                                            })}
+                                                        </span>
+                                                    </div>
+
+                                                    {version.valid_from && (
+                                                        <div className="mt-2 text-sm text-muted-foreground">
+                                                            Vigente desde: {new Date(version.valid_from).toLocaleDateString('es-MX')}
+                                                        </div>
+                                                    )}
+
+                                                    {version.xml_file && (
+                                                        <div className="mt-2 text-xs font-mono text-muted-foreground">
+                                                            {version.xml_file}
+                                                        </div>
+                                                    )}
+                                                </div>
+
+                                                {version.dof_url && (
+                                                    <a
+                                                        href={version.dof_url}
+                                                        target="_blank"
+                                                        rel="noopener noreferrer"
+                                                        className="flex items-center gap-1 text-sm text-primary-600 hover:text-primary-700"
+                                                    >
+                                                        DOF
+                                                        <ExternalLink className="h-3 w-3" />
+                                                    </a>
+                                                )}
+                                            </div>
+                                        ))}
+                                    </div>
+                                ) : (
+                                    <p className="text-muted-foreground">No hay versiones disponibles</p>
+                                )}
+                            </CardContent>
+                        </Card>
                     </div>
-                </Card>
 
-                {/* Articles */}
-                <LawArticles lawId={law.id} />
+                    {/* Sidebar */}
+                    <div className="space-y-6">
+                        <Card>
+                            <CardHeader>
+                                <CardTitle>Acciones</CardTitle>
+                            </CardHeader>
+                            <CardContent className="space-y-3">
+                                <a
+                                    href={`/api/v1/laws/${law.id}/`}
+                                    target="_blank"
+                                    className="flex w-full items-center justify-center gap-2 rounded-lg bg-primary-600 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-primary-700"
+                                >
+                                    <FileText className="h-4 w-4" />
+                                    Ver JSON
+                                </a>
 
-                {/* Download Section */}
-                <Card className="p-6 mt-8 bg-blue-50 dark:bg-blue-950/30 border-blue-200 dark:border-blue-800">
-                    <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-3">
-                        Descargar XML
-                    </h3>
-                    <p className="text-gray-600 dark:text-gray-400 mb-4">
-                        Archivo XML en formato Akoma Ntoso 3.0, listo para procesamiento automático.
-                    </p>
-                    <a
-                        href={`/data/federal/${law.file}`}
-                        download
-                        className="inline-flex items-center px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
-                    >
-                        📄 Descargar {law.file}
-                    </a>
-                </Card>
+                                {law.versions && law.versions[0]?.dof_url && (
+                                    <a
+                                        href={law.versions[0].dof_url}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="flex w-full items-center justify-center gap-2 rounded-lg border border-border px-4 py-2 text-sm font-medium transition-colors hover:bg-muted"
+                                    >
+                                        <ExternalLink className="h-4 w-4" />
+                                        Abrir en DOF
+                                    </a>
+                                )}
+                            </CardContent>
+                        </Card>
 
-                {/* Version History */}
-                {law.versions && law.versions.length > 0 && (
-                    <Card className="p-6 mt-8 bg-white dark:bg-gray-800">
-                        <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">
-                            Historial de Reformas
-                        </h3>
-                        <div className="overflow-x-auto">
-                            <table className="min-w-full divide-y divide-gray-200 dark:divide-gray-700">
-                                <thead>
-                                    <tr>
-                                        <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Fecha de Publicación</th>
-                                        <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Archivo XML</th>
-                                        <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Acciones</th>
-                                    </tr>
-                                </thead>
-                                <tbody className="divide-y divide-gray-200 dark:divide-gray-700">
-                                    {law.versions.map((ver, idx) => (
-                                        <tr key={idx}>
-                                            <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900 dark:text-white">
-                                                {new Date(ver.publication_date).toLocaleDateString('es-MX')}
-                                            </td>
-                                            <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                                {ver.xml_file || '-'}
-                                            </td>
-                                            <td className="px-6 py-4 whitespace-nowrap text-sm font-medium">
-                                                {ver.xml_file && (
-                                                    <a href={`/data/federal/${ver.xml_file}`} download className="text-blue-600 hover:text-blue-900 dark:text-blue-400 dark:hover:text-blue-300">
-                                                        Descargar
-                                                    </a>
-                                                )}
-                                                {ver.dof_url && (
-                                                    <a href={ver.dof_url} target="_blank" rel="noopener noreferrer" className="ml-4 text-blue-600 hover:text-blue-900 dark:text-blue-400 dark:hover:text-blue-300">
-                                                        Ver PDF
-                                                    </a>
-                                                )}
-                                            </td>
-                                        </tr>
-                                    ))}
-                                </tbody>
-                            </table>
-                        </div>
-                    </Card>
-                )}
+                        <Card>
+                            <CardHeader>
+                                <CardTitle>Estadísticas</CardTitle>
+                            </CardHeader>
+                            <CardContent className="space-y-3">
+                                <div>
+                                    <div className="text-sm text-muted-foreground">Versiones</div>
+                                    <div className="text-2xl font-bold">{law.versions?.length || 0}</div>
+                                </div>
+
+                                {law.grade && (
+                                    <div>
+                                        <div className="text-sm text-muted-foreground">Grado de Calidad</div>
+                                        <div className="text-2xl font-bold">{law.grade}</div>
+                                    </div>
+                                )}
+                            </CardContent>
+                        </Card>
+                    </div>
+                </div>
             </div>
         </div>
     );
