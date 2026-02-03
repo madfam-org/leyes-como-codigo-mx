@@ -23,6 +23,9 @@ out/
 .env.local
 .env.*.local
 *.log
+*.sqlite3
+db.sqlite3
+data/conversion_results.json
 
 # IDEs
 .vscode/
