@@ -5,7 +5,7 @@ description = "Mexican Open Law Engine"
 authors = ["madfam-org"]
 license = "AGPL-3.0"
 readme = "README.md"
-packages = [{include = "apps"}]
+packages = [{include = "apps"}, {include = "engines"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"

@@ -1,0 +1,14 @@
+{
+    "name": "leyes-como-codigo-mx-monorepo",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Monorepo root for Leyes Como Código México",
+    "workspaces": [
+        "apps/*"
+    ],
+    "scripts": {
+        "dev:web": "npm run dev --workspace=web",
+        "build:web": "npm run build --workspace=web",
+        "lint:web": "npm run lint --workspace=web"
+    }
+}
