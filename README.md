@@ -9,23 +9,26 @@
 
 ## Quick Start
 
-```bash
-# Clone repository
-git clone https://github.com/madfam-org/leyes-como-codigo-mx.git
-cd leyes-como-codigo-mx
+# Using Docker (Recommended)
+docker-compose up -d --build
 
-# Install dependencies
+# Manual Setup (Development)
+
+## Wrapper Script
+# We provide a unified shell for easy development (backend + frontend)
+./dev.sh
+
+## Backend
+cd apps/api
 pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
 
-# Ingest a single law
-python scripts/bulk_ingest.py --laws amparo --skip-download
+## Frontend
+cd apps/web
+npm install
+npm run dev
 
-# Ingest all laws
-python scripts/bulk_ingest.py --all --workers 8
-
-# View status
-python scripts/ingestion_status.py
-```
 
 ## Coverage
 

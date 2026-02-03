@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import type { Article } from './types';
-import { Link as LinkIcon, Check, Copy } from 'lucide-react';
+import { Link as LinkIcon, Check } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
 import { useInView } from 'react-intersection-observer';
@@ -10,15 +10,13 @@ import { useInView } from 'react-intersection-observer';
 interface ArticleViewerProps {
     articles: Article[];
     activeArticle: string | null;
-    onArticleChange: (articleId: string) => void;
 }
 
 export function ArticleViewer({
     articles,
-    activeArticle,
-    onArticleChange
+    activeArticle
 }: ArticleViewerProps) {
-    const articleRefs = useRef<Record<string, HTMLDivElement | null>>({});
+    const articleRefs = useRef<Record<string, HTMLElement | null>>({});
     const scrollingRef = useRef(false);
 
     // Handle active article visibility
@@ -69,10 +67,10 @@ function SingleArticle({
 }: {
     article: Article;
     isActive: boolean;
-    setRef: (el: HTMLDivElement | null) => void;
+    setRef: (el: HTMLElement | null) => void;
 }) {
     const [copied, setCopied] = useState(false);
-    const { ref, inView } = useInView({
+    const { ref } = useInView({
         threshold: 0.5,
         triggerOnce: false
     });

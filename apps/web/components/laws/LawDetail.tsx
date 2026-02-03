@@ -109,7 +109,6 @@ export function LawDetail({ lawId }: LawDetailProps) {
                     <ArticleViewer
                         articles={data.articles}
                         activeArticle={activeArticle}
-                        onArticleChange={setActiveArticle}
                     />
                 </main>
             </div>

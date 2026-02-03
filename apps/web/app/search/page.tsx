@@ -180,7 +180,7 @@ export default function SearchPage() {
                         {!loading && results.length === 0 && initialQuery && (
                             <div className="py-16 text-center">
                                 <p className="text-lg text-muted-foreground">
-                                    No se encontraron resultados para "{initialQuery}"
+                                    No se encontraron resultados para &quot;{initialQuery}&quot;
                                 </p>
                                 <p className="mt-2 text-sm text-muted-foreground">
                                     Intenta con otros términos de búsqueda o ajusta los filtros
@@ -212,11 +212,7 @@ export default function SearchPage() {
                                     )}
                                 </div>
 
-// Add Link import at top (I will do this in a separate step or assume I can do it here if I include top of file but file is large)
-                                // I will just replace the iteration part.
-                                // But I need to add import.
-                                // Let's replace the whole iteration block.
-
+                                {/* Results List */}
                                 <div className="space-y-4">
                                     {results.map((result, index) => (
                                         <Link
