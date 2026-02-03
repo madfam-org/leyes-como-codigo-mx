@@ -1,5 +1,6 @@
 import TaxForm from "../components/TaxForm";
 import Link from "next/link";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
@@ -15,12 +16,11 @@ export default function Home() {
         </p>
 
         <div className="mt-8 flex gap-4 justify-center">
-          <Link
-            href="/laws"
-            className="px-8 py-4 bg-crimson-600 hover:bg-crimson-700 text-white font-semibold rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-102 active:scale-98"
-          >
-            📚 Explorar Leyes Federales
-          </Link>
+          <Button asChild size="lg" className="px-8 py-6 text-lg bg-crimson-600 hover:bg-crimson-700 shadow-lg hover:shadow-xl transition-all hover:scale-105 active:scale-95">
+            <Link href="/laws">
+              📚 Explorar Leyes Federales
+            </Link>
+          </Button>
         </div>
       </div>
 

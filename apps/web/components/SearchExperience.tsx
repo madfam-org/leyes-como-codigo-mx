@@ -46,22 +46,22 @@ export default function SearchExperience() {
 
             <div className="space-y-4">
                 {results.map((r: any) => (
-                    <Card key={r.id} className="hover:bg-slate-50 transition-colors">
+                    <Card key={r.id} className="hover:bg-accent/50 transition-colors">
                         <CardHeader className="pb-2">
-                            <CardTitle className="text-lg font-bold text-blue-800">
+                            <CardTitle className="text-lg font-bold text-primary">
                                 {r.law} - {r.article}
                             </CardTitle>
                         </CardHeader>
                         <CardContent>
                             <div
-                                className="text-sm text-gray-600 prose"
+                                className="text-sm text-muted-foreground prose dark:prose-invert max-w-none"
                                 dangerouslySetInnerHTML={{ __html: r.snippet }}
                             />
                         </CardContent>
                     </Card>
                 ))}
                 {results.length === 0 && !loading && query && (
-                    <div className="text-center text-gray-500">No se encontraron resultados.</div>
+                    <div className="text-center text-muted-foreground">No se encontraron resultados.</div>
                 )}
             </div>
         </div>

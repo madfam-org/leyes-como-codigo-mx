@@ -5,7 +5,7 @@ from elasticsearch import Elasticsearch
 import os
 
 ES_HOST = os.getenv("ES_HOST", "http://elasticsearch:9200")
-INDEX_NAME = "laws"
+INDEX_NAME = "articles"
 
 class SearchView(APIView):
     def get(self, request):
@@ -24,7 +24,7 @@ class SearchView(APIView):
                 "query": {
                     "multi_match": {
                         "query": query,
-                        "fields": ["text", "law_title", "tags"],
+                        "fields": ["text", "tags"],
                         "fuzziness": "AUTO"
                     }
                 },
@@ -32,7 +32,8 @@ class SearchView(APIView):
                     "fields": {
                         "text": {}
                     }
-                }
+                },
+                "size": 20 # Limit results
             }
             
             res = es.search(index=INDEX_NAME, body=body)
@@ -44,8 +45,8 @@ class SearchView(APIView):
                 highlight = hit.get('highlight', {}).get('text', [source['text'][:200]])[0]
                 results.append({
                     "id": hit['_id'],
-                    "law": source['law_title'],
-                    "article": f"Art. {source['article_num']}",
+                    "law": source.get('law_id'),
+                    "article": f"Art. {source.get('article_id')}",
                     "snippet": highlight,
                     "score": hit['_score']
                 })

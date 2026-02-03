@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Input } from "@/components/ui/input"; // Just for types/styles reference if needed, but we use native select here
-import { RefreshCW, Play, XCircle, CheckCircle2 } from 'lucide-react';
+import { RefreshCw, Play, XCircle, CheckCircle2 } from 'lucide-react';
 
 export default function IngestionPage() {
     const [status, setStatus] = useState<any>(null);
@@ -67,7 +67,7 @@ export default function IngestionPage() {
                         {status ? (
                             <div className="space-y-4">
                                 <div className="flex items-center space-x-2">
-                                    {status.status === 'running' && <RefreshCW className="w-5 h-5 text-blue-500 animate-spin" />}
+                                    {status.status === 'running' && <RefreshCw className="w-5 h-5 text-blue-500 animate-spin" />}
                                     {status.status === 'completed' && <CheckCircle2 className="w-5 h-5 text-green-500" />}
                                     {status.status === 'failed' && <XCircle className="w-5 h-5 text-red-500" />}
                                     {status.status === 'idle' && <div className="w-5 h-5 bg-gray-300 rounded-full" />}
@@ -120,7 +120,7 @@ export default function IngestionPage() {
                             className="w-full"
                         >
                             {loading ? (
-                                <RefreshCW className="mr-2 h-4 w-4 animate-spin" />
+                                <RefreshCw className="mr-2 h-4 w-4 animate-spin" />
                             ) : (
                                 <Play className="mr-2 h-4 w-4" />
                             )}
