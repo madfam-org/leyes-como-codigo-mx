@@ -4,9 +4,10 @@ import { useEffect, useState, useRef } from 'react';
 import { api } from '@/lib/api';
 import { Card, CardHeader, CardTitle, CardContent, Badge } from "@leyesmx/ui";
 import { Loader2 } from 'lucide-react';
+import type { IngestionStatus } from '@leyesmx/lib';
 
 export default function JobMonitor() {
-    const [status, setStatus] = useState<any>(null);
+    const [status, setStatus] = useState<IngestionStatus | null>(null);
     const [loading, setLoading] = useState(true);
     const pollRef = useRef<NodeJS.Timeout | null>(null);
 

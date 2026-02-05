@@ -1,12 +1,15 @@
 import json
+import os
 
-from django.db.models import Count
+from django.conf import settings as django_settings
+from django.db import connection
+from django.db.models import Count, Max
 from django.http import JsonResponse
 from django.utils import timezone
 from django.views.decorators.http import require_http_methods
 
 from .ingestion_manager import IngestionManager
-from .models import Law
+from .models import Law, LawVersion
 
 
 @require_http_methods(["GET"])
@@ -120,3 +123,62 @@ def list_jobs(request):
         return JsonResponse({"jobs": jobs})
     except Exception as e:
         return JsonResponse({"error": str(e)}, status=500)
+
+
+@require_http_methods(["GET"])
+def system_config(request):
+    """
+    Returns read-only system configuration and service status.
+    """
+    db_engine = django_settings.DATABASES["default"]["ENGINE"]
+
+    # Elasticsearch status
+    es_host = os.getenv("ES_HOST", "http://elasticsearch:9200")
+    es_status = "unknown"
+    try:
+        from elasticsearch import Elasticsearch
+
+        es = Elasticsearch([es_host])
+        if es.ping():
+            es_status = "connected"
+        else:
+            es_status = "unreachable"
+    except Exception:
+        es_status = "unavailable"
+
+    # Database status
+    db_status = "unknown"
+    try:
+        connection.ensure_connection()
+        db_status = "connected"
+    except Exception:
+        db_status = "error"
+
+    # Latest version date
+    latest_version = LawVersion.objects.aggregate(latest=Max("publication_date"))
+    latest_date = latest_version["latest"]
+
+    return JsonResponse(
+        {
+            "environment": {
+                "debug": django_settings.DEBUG,
+                "allowed_hosts": django_settings.ALLOWED_HOSTS,
+                "language": django_settings.LANGUAGE_CODE,
+                "timezone": django_settings.TIME_ZONE,
+            },
+            "database": {
+                "engine": db_engine.rsplit(".", 1)[-1],
+                "status": db_status,
+                "name": django_settings.DATABASES["default"].get("NAME", ""),
+            },
+            "elasticsearch": {
+                "host": es_host,
+                "status": es_status,
+            },
+            "data": {
+                "total_laws": Law.objects.count(),
+                "total_versions": LawVersion.objects.count(),
+                "latest_publication": str(latest_date) if latest_date else None,
+            },
+        }
+    )

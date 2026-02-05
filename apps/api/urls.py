@@ -1,6 +1,6 @@
 from django.urls import path
 
-from .admin_views import health_check, job_status, list_jobs, system_metrics
+from .admin_views import health_check, job_status, list_jobs, system_config, system_metrics
 from .cross_reference_views import article_cross_references, law_cross_references
 from .law_views import (
     LawDetailView,
@@ -18,6 +18,7 @@ urlpatterns = [
     path("admin/metrics/", system_metrics, name="admin-metrics"),
     path("admin/jobs/", list_jobs, name="admin-jobs-list"),
     path("admin/jobs/status/", job_status, name="admin-job-status"),
+    path("admin/config/", system_config, name="admin-config"),
     path("calculate/", CalculationView.as_view(), name="calculate"),
     path("search/", SearchView.as_view(), name="search"),
     path("ingest/", IngestionView.as_view(), name="ingest"),

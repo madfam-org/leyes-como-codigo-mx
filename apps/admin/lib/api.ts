@@ -1,4 +1,4 @@
-import { IngestionStatus } from "@leyesmx/lib";
+import type { IngestionStatus } from "@leyesmx/lib";
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
@@ -37,22 +37,65 @@ async function fetcher<T>(endpoint: string, options?: RequestInit): Promise<T> {
     }
 }
 
+export interface SystemMetrics {
+    total_laws: number;
+    counts: { federal: number; state: number; municipal: number };
+    top_categories: { category: string; count: number }[];
+    quality_distribution: Record<string, number> | null;
+    last_updated: string;
+}
+
+export interface SystemConfig {
+    environment: {
+        debug: boolean;
+        allowed_hosts: string[];
+        language: string;
+        timezone: string;
+    };
+    database: {
+        engine: string;
+        status: string;
+        name: string;
+    };
+    elasticsearch: {
+        host: string;
+        status: string;
+    };
+    data: {
+        total_laws: number;
+        total_versions: number;
+        latest_publication: string | null;
+    };
+}
+
+export interface HealthCheck {
+    status: string;
+    database: string;
+    timestamp: string;
+}
+
 export const api = {
-    /**
-     * Get current ingestion status
-     */
     getIngestionStatus: async (): Promise<IngestionStatus> => {
         return fetcher<IngestionStatus>('/ingest/');
     },
 
-    /**
-     * Start ingestion process
-     */
     startIngestion: async (params: { mode: string; laws?: string; skip_download?: boolean }): Promise<IngestionStatus> => {
         return fetcher<IngestionStatus>('/ingest/', {
             method: 'POST',
             body: JSON.stringify(params),
         });
+    },
+
+    getMetrics: async (): Promise<SystemMetrics> => {
+        return fetcher<SystemMetrics>('/admin/metrics/');
+    },
+
+    getConfig: async (): Promise<SystemConfig> => {
+        return fetcher<SystemConfig>('/admin/config/');
+    },
+
+    getHealth: async (): Promise<HealthCheck> => {
+        return fetcher<HealthCheck>('/admin/health/');
     },
 };
 

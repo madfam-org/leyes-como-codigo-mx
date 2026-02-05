@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Database, Settings } from 'lucide-react';
+import { Database, Settings, BarChart3 } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@leyesmx/ui";
 
 export default function Home() {
@@ -9,39 +9,60 @@ export default function Home() {
 
                 {/* Ingestion Card */}
                 <Link href="/ingestion" className="block transition-transform hover:scale-105">
-                    <Card className="h-full hover:shadow-md transition-shadow cursor-pointer border-blue-200 dark:border-blue-900">
+                    <Card className="h-full hover:shadow-md transition-shadow cursor-pointer border-primary-200 dark:border-primary-900">
                         <CardHeader className="flex flex-row items-center space-y-0 pb-2">
-                            <div className="p-2 bg-blue-100 dark:bg-blue-900 rounded-full mr-4">
-                                <Database className="w-6 h-6 text-blue-600 dark:text-blue-300" />
+                            <div className="p-2 bg-primary-100 dark:bg-primary-900 rounded-full mr-4">
+                                <Database className="w-6 h-6 text-primary-600 dark:text-primary-300" />
                             </div>
                             <div className="flex flex-col">
-                                <CardTitle className="text-lg">Ingestion & Scraping</CardTitle>
+                                <CardTitle className="text-lg">Ingestión y Scraping</CardTitle>
                             </div>
                         </CardHeader>
                         <CardContent>
                             <CardDescription>
-                                Manage data sources, trigger indexing, and monitor scraping jobs.
+                                Gestionar fuentes de datos, disparar indexación y monitorear trabajos de scraping.
                             </CardDescription>
                         </CardContent>
                     </Card>
                 </Link>
 
-                {/* Placeholder for other admin tasks */}
-                <Card className="h-full opacity-60">
-                    <CardHeader className="flex flex-row items-center space-y-0 pb-2">
-                        <div className="p-2 bg-muted rounded-full mr-4">
-                            <Settings className="w-6 h-6 text-muted-foreground" />
-                        </div>
-                        <div className="flex flex-col">
-                            <CardTitle className="text-lg">Settings</CardTitle>
-                        </div>
-                    </CardHeader>
-                    <CardContent>
-                        <CardDescription>
-                            System configuration and user management (Coming soon).
-                        </CardDescription>
-                    </CardContent>
-                </Card>
+                {/* Metrics Card */}
+                <Link href="/metrics" className="block transition-transform hover:scale-105">
+                    <Card className="h-full hover:shadow-md transition-shadow cursor-pointer border-secondary-200 dark:border-secondary-900">
+                        <CardHeader className="flex flex-row items-center space-y-0 pb-2">
+                            <div className="p-2 bg-secondary-100 dark:bg-secondary-900 rounded-full mr-4">
+                                <BarChart3 className="w-6 h-6 text-secondary-600 dark:text-secondary-300" />
+                            </div>
+                            <div className="flex flex-col">
+                                <CardTitle className="text-lg">Métricas</CardTitle>
+                            </div>
+                        </CardHeader>
+                        <CardContent>
+                            <CardDescription>
+                                Estadísticas del sistema, distribución por jurisdicción y categorías.
+                            </CardDescription>
+                        </CardContent>
+                    </Card>
+                </Link>
+
+                {/* Settings Card */}
+                <Link href="/settings" className="block transition-transform hover:scale-105">
+                    <Card className="h-full hover:shadow-md transition-shadow cursor-pointer border-accent-200 dark:border-accent-900">
+                        <CardHeader className="flex flex-row items-center space-y-0 pb-2">
+                            <div className="p-2 bg-accent-100 dark:bg-accent-900 rounded-full mr-4">
+                                <Settings className="w-6 h-6 text-accent-600 dark:text-accent-300" />
+                            </div>
+                            <div className="flex flex-col">
+                                <CardTitle className="text-lg">Configuración</CardTitle>
+                            </div>
+                        </CardHeader>
+                        <CardContent>
+                            <CardDescription>
+                                Estado de servicios, base de datos, Elasticsearch y configuración del entorno.
+                            </CardDescription>
+                        </CardContent>
+                    </Card>
+                </Link>
 
             </div>
         </div>

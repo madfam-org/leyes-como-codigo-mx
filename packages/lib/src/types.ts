@@ -83,10 +83,18 @@ export interface LawArticleResponse {
 }
 
 // Admin / Ingestion Types
+export interface IngestionResults {
+    success_count: number;
+    total_laws: number;
+    duration_seconds?: number;
+}
+
 export interface IngestionStatus {
     status: 'idle' | 'running' | 'completed' | 'failed' | 'error';
     message: string;
     timestamp: string;
     progress?: number;
     params?: Record<string, unknown>;
+    results?: IngestionResults;
+    warning?: string;
 }

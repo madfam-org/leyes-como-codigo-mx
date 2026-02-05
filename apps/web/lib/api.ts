@@ -1,4 +1,14 @@
 import type { Law, LawListItem, SearchResponse, DashboardStats, LawArticleResponse, IngestionStatus } from "@leyesmx/lib";
+import {
+    LawSchema,
+    LawListItemSchema,
+    SearchResponseSchema,
+    DashboardStatsSchema,
+    LawArticleResponseSchema,
+    IngestionStatusSchema,
+    safeParseResponse,
+} from "@leyesmx/lib";
+import { z } from "zod";
 
 interface LawStructureNode {
     label: string;
@@ -22,7 +32,12 @@ class APIError extends Error {
     }
 }
 
-async function fetcher<T>(endpoint: string, options?: RequestInit): Promise<T> {
+/**
+ * Fetch data from the API and optionally validate against a Zod schema.
+ * In development, validation errors are logged as warnings.
+ * The raw data is always returned to avoid breaking the UI.
+ */
+async function fetcher<T>(endpoint: string, options?: RequestInit, schema?: z.ZodType<T>): Promise<T> {
     const url = `${API_BASE_URL}${endpoint}`;
 
     try {
@@ -41,7 +56,19 @@ async function fetcher<T>(endpoint: string, options?: RequestInit): Promise<T> {
             );
         }
 
-        return response.json();
+        const data = await response.json();
+
+        if (schema && process.env.NODE_ENV === 'development') {
+            const result = safeParseResponse(schema, data);
+            if (!result.success) {
+                console.warn(
+                    `[API] Validation warning for ${endpoint}:`,
+                    result.error.issues,
+                );
+            }
+        }
+
+        return data as T;
     } catch (error) {
         if (error instanceof APIError) {
             throw error;
@@ -55,14 +82,14 @@ export const api = {
      * Get all laws
      */
     getLaws: async (): Promise<LawListItem[]> => {
-        return fetcher<LawListItem[]>('/laws/');
+        return fetcher<LawListItem[]>('/laws/', undefined, z.array(LawListItemSchema));
     },
 
     /**
      * Get a single law by ID
      */
     getLaw: async (lawId: string): Promise<Law> => {
-        return fetcher<Law>(`/laws/${lawId}/`);
+        return fetcher<Law>(`/laws/${lawId}/`, undefined, LawSchema);
     },
 
     /**
@@ -76,7 +103,7 @@ export const api = {
      * Get global dashboard statistics
      */
     getStats: async (): Promise<DashboardStats> => {
-        return fetcher<DashboardStats>('/stats/');
+        return fetcher<DashboardStats>('/stats/', undefined, DashboardStatsSchema);
     },
 
     /**
@@ -128,7 +155,7 @@ export const api = {
         if (options?.page_size) {
             params.append('page_size', options.page_size.toString());
         }
-        
+
         // Structural filters
         if (options?.title) {
             params.append('title', options.title);
@@ -137,13 +164,13 @@ export const api = {
             params.append('chapter', options.chapter);
         }
 
-        return fetcher<SearchResponse>(`/search/?${params}`);
+        return fetcher<SearchResponse>(`/search/?${params}`, undefined, SearchResponseSchema);
     },
     /**
      * Get full text (articles) of a law
      */
     getLawArticles: async (lawId: string): Promise<LawArticleResponse> => {
-        return fetcher<LawArticleResponse>(`/laws/${lawId}/articles/`);
+        return fetcher<LawArticleResponse>(`/laws/${lawId}/articles/`, undefined, LawArticleResponseSchema);
     },
 
     /**
@@ -161,7 +188,7 @@ export const api = {
     },
 
     getJobStatus: async () => {
-        return fetcher<IngestionStatus>('/admin/jobs/status/');
+        return fetcher<IngestionStatus>('/admin/jobs/status/', undefined, IngestionStatusSchema);
     },
 
     listJobs: async () => {

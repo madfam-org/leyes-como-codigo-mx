@@ -16,6 +16,8 @@ LOG_FILE = DATA_DIR / "logs" / "ingestion.log"
 class IngestionManager:
     """
     Manages background ingestion processes and status tracking.
+
+    Uses Celery when available (production), falls back to threads (local dev).
     """
 
     @staticmethod
@@ -48,58 +50,37 @@ class IngestionManager:
     @staticmethod
     def start_ingestion(params=None):
         """
-        Start the ingestion process in a background thread/process.
+        Start the ingestion process.
 
-        params: dict of arguments (e.g., {'mode': 'all', 'laws': 'amparo'})
+        Tries Celery first; falls back to thread-based execution if
+        the broker is unavailable (e.g. local dev without Redis).
         """
         IngestionManager._ensure_paths()
 
         # Check if already running
         current_status = IngestionManager.get_status()
         if current_status.get("status") == "running":
-            # Check if process is actually alive (optional, simplistic for now)
-            # For now, just return error to prevent duplicates
             return False, "Ingestion already running"
 
-        # Prepare command
-        cmd = ["python", "scripts/ingestion/bulk_ingest.py"]
+        # Try Celery first
+        try:
+            from apps.api.tasks import run_ingestion
 
-        if params:
-            if params.get("mode") == "all":
-                cmd.append("--all")
-            elif params.get("mode") == "priority":
-                cmd.append("--priority")
-                cmd.append(str(params.get("priority_level", 1)))
-            elif params.get("mode") == "specific" and params.get("laws"):
-                cmd.append("--laws")
-                cmd.append(params["laws"])
-            elif params.get("mode") == "tier" and params.get("tier"):
-                cmd.append("--tier")
-                cmd.append(params["tier"])
-            else:
-                # Default to all if nothing specified? Or fail?
-                # Let's fail safe
-                pass
+            result = run_ingestion.delay(params)
+            return True, f"Ingestion started (task {result.id})"
+        except Exception:
+            # Celery/Redis unavailable — fall back to thread
+            pass
 
-        if params.get("skip_download"):
-            cmd.append("--skip-download")
-
-        workers = params.get("workers", 4)
-        cmd.extend(["--workers", str(workers)])
-
-        # Output to status file for the script to update?
-        # Actually the script doesn't currently update 'ingestion_status.json'.
-        # We need to wrap it or modify the script to update status.
-        # For this iteration, we will wrapp it in a thread here that updates status.
-
-        # Temporary results file
+        # Fallback: thread-based execution
+        cmd = IngestionManager._build_command(params)
         results_file = DATA_DIR / "latest_ingestion_results.json"
         cmd.extend(["--output", str(results_file)])
 
         # Write initial running status
         initial_status = {
             "status": "running",
-            "message": "Starting ingestion...",
+            "message": "Starting ingestion (thread fallback)...",
             "progress": 0,
             "total": 0,
             "timestamp": datetime.now().isoformat(),
@@ -108,23 +89,45 @@ class IngestionManager:
         with open(STATUS_FILE, "w") as f:
             json.dump(initial_status, f)
 
-        # Spawn thread to run command
         thread = threading.Thread(
             target=IngestionManager._run_process, args=(cmd, results_file)
         )
         thread.daemon = True
         thread.start()
 
-        return True, "Ingestion started"
+        return True, "Ingestion started (thread fallback)"
+
+    @staticmethod
+    def _build_command(params):
+        """Build the subprocess command from params."""
+        cmd = ["python", "scripts/ingestion/bulk_ingest.py"]
+
+        if params:
+            mode = params.get("mode", "all")
+            if mode == "all":
+                cmd.append("--all")
+            elif mode == "priority":
+                cmd.append("--priority")
+                cmd.append(str(params.get("priority_level", 1)))
+            elif mode == "specific" and params.get("laws"):
+                cmd.extend(["--laws", params["laws"]])
+            elif mode == "tier" and params.get("tier"):
+                cmd.extend(["--tier", params["tier"]])
+
+            if params.get("skip_download"):
+                cmd.append("--skip-download")
+
+            workers = params.get("workers", 4)
+            cmd.extend(["--workers", str(workers)])
+
+        return cmd
 
     @staticmethod
     def _run_process(cmd, results_file=None):
         """
-        Internal method to run the process and capture output.
-        In a real production system, this would be a Celery task.
+        Thread-based fallback for running ingestion when Celery is unavailable.
         """
         try:
-            # Open log file
             with open(LOG_FILE, "a") as log:
                 log.write(
                     f"\n\n--- Ingestion started at {datetime.now().isoformat()} ---\n"
@@ -140,26 +143,19 @@ class IngestionManager:
                     bufsize=1,
                 )
 
-                # Monitor output to update percentage (dumb parsing for now)
-                # Ideally the bulk_ingest.py should write partial status to json.
-                # For now, we just stay "running" until done.
-
                 for line in process.stdout:
                     log.write(line)
-                    # Simple heuristic status update
                     if "Indexing" in line:
                         IngestionManager._update_status_message(line.strip())
 
                 process.wait()
 
-            # Completion status
             status_data = {"timestamp": datetime.now().isoformat()}
 
             if process.returncode == 0:
                 status_data["status"] = "completed"
                 status_data["message"] = "Ingestion finished successfully"
 
-                # Try to read detailed results
                 if results_file and results_file.exists():
                     try:
                         with open(results_file, "r") as f:
@@ -202,5 +198,5 @@ class IngestionManager:
 
             with open(STATUS_FILE, "w") as f:
                 json.dump(data, f)
-        except:
+        except Exception:
             pass

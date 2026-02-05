@@ -14,8 +14,8 @@ export default function IngestionControl() {
             setLoading(true);
             await api.startIngestion({ mode });
             alert("Trabajo de ingestión iniciado");
-        } catch (error: any) {
-            alert(error.message || "Error al iniciar ingestión");
+        } catch (error) {
+            alert(error instanceof Error ? error.message : "Error al iniciar ingestión");
         } finally {
             setLoading(false);
         }
