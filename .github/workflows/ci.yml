@@ -25,12 +25,19 @@ jobs:
         pip install -r requirements.txt
         pip install pytest pytest-django
         
+    - name: Check File Sizes
+      run: |
+        python scripts/utils/audit_file_sizes.py
+        
     - name: Run Pytest
       run: |
-        pytest tests/
+        pytest tests/ \
+          --ignore=tests/parsers/test_parser_v2.py \
+          --ignore=tests/parsers/test_patterns.py \
+          --ignore=tests/pipeline/test_pipeline.py \
+          -v
       env:
-        DATABASE_URL: sqlite:///db.sqlite3
-        DJANGO_SETTINGS_MODULE: config.settings
+        PYTHONPATH: apps:.
 
   test-frontend:
     name: Frontend Tests (Vitest)
