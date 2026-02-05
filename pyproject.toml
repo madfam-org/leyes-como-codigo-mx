@@ -22,6 +22,8 @@ elasticsearch = "^7.0"
 spacy = "^3.7"
 # Scraping
 juriscraper = "^2.5"
+beautifulsoup4 = "^4.12"
+requests = "^2.31"
 # Simulation
 # openfisca-core = "*" (Blocked on Py3.11/Numpy)
 # numpy = "^1.26"
