@@ -39,6 +39,7 @@ export interface SearchResult {
     snippet: string;
     score: number;
     date?: string;
+    municipality?: string;
 }
 
 export interface SearchResponse {

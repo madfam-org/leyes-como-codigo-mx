@@ -10,46 +10,55 @@ jobs:
   test-backend:
     name: Backend Tests (Python)
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v4
-    
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        
-    - name: Install dependencies
+
+    - name: Install Poetry
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        pip install pytest pytest-django
-        
+        pip install poetry
+
+    - name: Install dependencies
+      run: poetry install --no-interaction
+
+    - name: Lint with black (check)
+      run: poetry run black --check apps/ tests/ scripts/
+
+    - name: Lint with isort (check)
+      run: poetry run isort --check-only apps/ tests/ scripts/
+
     - name: Check File Sizes
-      run: |
-        python scripts/utils/audit_file_sizes.py
-        
+      run: poetry run python scripts/utils/audit_file_sizes.py
+
     - name: Run Pytest
-      run: |
-        pytest tests/ -v
+      run: poetry run pytest tests/ -v
       env:
         PYTHONPATH: apps:.
 
   test-frontend:
     name: Frontend Tests (Vitest)
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v4
-    
+
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
         cache: 'npm'
-        
+
     - name: Install dependencies
       run: npm ci
-      
+
+    - name: Lint frontend
+      run: npm run lint --workspace=web
+
     - name: Run Vitest
       run: npm run test --workspace=web

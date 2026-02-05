@@ -13,9 +13,18 @@ services:
       - .:/app
     command: python manage.py runserver 0.0.0.0:8000
     environment:
-      - DEBUG=True
-      - ALLOWED_HOSTS=*
-      - CORS_ALLOWED_ORIGINS=http://localhost:3000
+      - DEBUG=${DEBUG:-False}
+      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:?Set DJANGO_SECRET_KEY in .env}
+      - ALLOWED_HOSTS=${ALLOWED_HOSTS:-*}
+      - CORS_ALLOWED_ORIGINS=${CORS_ALLOWED_ORIGINS:-http://localhost:3000,http://localhost:3001}
+      - DB_ENGINE=django.db.backends.postgresql
+      - DB_NAME=${DB_NAME:-leyes_mx}
+      - DB_USER=${DB_USER:-leyes_mx}
+      - DB_PASSWORD=${DB_PASSWORD:-leyes_mx_dev}
+      - DB_HOST=postgres
+      - DB_PORT=5432
+    depends_on:
+      - postgres
 
   # Frontend: Next.js
   web:
@@ -44,6 +53,19 @@ services:
     depends_on:
       - api
 
+  # Database: PostgreSQL
+  postgres:
+    image: postgres:16-alpine
+    container_name: leyes_mx_db
+    environment:
+      - POSTGRES_DB=${DB_NAME:-leyes_mx}
+      - POSTGRES_USER=${DB_USER:-leyes_mx}
+      - POSTGRES_PASSWORD=${DB_PASSWORD:-leyes_mx_dev}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
   # Search Engine: Elasticsearch
   elasticsearch:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.9
@@ -64,4 +86,5 @@ services:
       - es_data:/usr/share/elasticsearch/data
 
 volumes:
+  pg_data:
   es_data:

@@ -41,6 +41,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { ModeToggle } from "@/components/mode-toggle";
 import { ComparisonProvider } from "@/components/providers/ComparisonContext";
 import ComparisonFloatingBar from "@/components/ComparisonFloatingBar";
+import { ErrorBoundary } from "@/components/ErrorBoundary";
 
 export default function RootLayout({
   children,
@@ -58,13 +59,15 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <ComparisonProvider>
-            <div className="fixed top-3 right-3 sm:top-4 sm:right-4 z-50">
-              <ModeToggle />
-            </div>
-            {children}
-            <ComparisonFloatingBar />
-          </ComparisonProvider>
+          <ErrorBoundary>
+            <ComparisonProvider>
+              <div className="fixed top-3 right-3 sm:top-4 sm:right-4 z-50">
+                <ModeToggle />
+              </div>
+              {children}
+              <ComparisonFloatingBar />
+            </ComparisonProvider>
+          </ErrorBoundary>
         </ThemeProvider>
       </body>
     </html>

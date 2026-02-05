@@ -48,15 +48,9 @@ def system_metrics(request):
                          .annotate(count=Count('category'))
                          .order_by('-count')[:5])
                          
-        # Quality distribution (Mocked for now as we don't have a grade field yet)
-        # TODO: Implement actual quality scoring in parser pipeline
-        quality_distribution = {
-            "A": int(total_laws * 0.65),
-            "B": int(total_laws * 0.20),
-            "C": int(total_laws * 0.10),
-            "D": int(total_laws * 0.04),
-            "F": int(total_laws * 0.01),
-        }
+        # Quality distribution - not yet tracked per-law in the database.
+        # Returns null to signal the frontend that real data is unavailable.
+        quality_distribution = None
         
         return JsonResponse({
             "total_laws": total_laws,

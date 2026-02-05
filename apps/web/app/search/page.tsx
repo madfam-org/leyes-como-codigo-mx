@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import DOMPurify from 'isomorphic-dompurify';
 import { Search as SearchIcon, Loader2, Filter as FilterIcon } from 'lucide-react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
@@ -285,7 +286,7 @@ function SearchContent() {
 
                                                             <div
                                                                 className="text-sm text-foreground line-clamp-3"
-                                                                dangerouslySetInnerHTML={{ __html: result.snippet }}
+                                                                dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(result.snippet, { ALLOWED_TAGS: ['em', 'mark', 'b', 'strong'] }) }}
                                                             />
 
                                                             {result.date && (

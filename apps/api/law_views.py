@@ -1,3 +1,4 @@
+import re
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
@@ -5,6 +6,15 @@ from rest_framework.decorators import api_view
 from .models import Law, LawVersion
 from django.shortcuts import get_object_or_404
 from elasticsearch import Elasticsearch
+
+
+def _natural_sort_key(text: str):
+    """Generate a sort key that orders numbers numerically within strings.
+
+    'Art. 2' < 'Art. 10' (instead of alphanumeric '10' < '2')
+    """
+    parts = re.split(r'(\d+)', text or '')
+    return [int(p) if p.isdigit() else p.lower() for p in parts]
 
 # Elasticsearch config
 ES_HOST = "http://elasticsearch:9200"
@@ -41,9 +51,9 @@ class LawDetailView(APIView):
                 for v in versions
             ],
              # Fallback stats for UI compatibility
-            "articles": 0, # To be filled by ES count ideally
-            "grade": "A",
-            "score": 100
+            "articles": 0,
+            "grade": None,
+            "score": None
         }
         
         return Response(data)
@@ -93,7 +103,9 @@ def law_articles(request, law_id):
                 'article_id': source.get('article'),
                 'text': source.get('text'),
             })
-        
+
+        articles.sort(key=lambda a: _natural_sort_key(a.get('article_id', '')))
+
         return Response({
             'law_id': law_id,
             'law_name': law.name,
@@ -135,11 +147,11 @@ def law_structure(request, law_id):
         
         # Build Tree
         root = []
-        
+
         for hit in res['hits']['hits']:
             source = hit['_source']
             breadcrumbs = source.get('hierarchy', [])
-            
+
             # Navigate/Create tree nodes
             current_level = root
             for crumb in breadcrumbs:
@@ -149,7 +161,14 @@ def law_structure(request, law_id):
                     found = {'label': crumb, 'children': []}
                     current_level.append(found)
                 current_level = found['children']
-                
+
+        def _sort_tree(nodes):
+            nodes.sort(key=lambda n: _natural_sort_key(n['label']))
+            for node in nodes:
+                _sort_tree(node['children'])
+
+        _sort_tree(root)
+
         return Response({
             'law_id': law_id,
             'structure': root

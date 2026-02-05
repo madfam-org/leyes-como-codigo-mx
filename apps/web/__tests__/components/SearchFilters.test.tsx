@@ -15,6 +15,7 @@ describe('SearchFilters', () => {
         jurisdiction: ['federal'],
         category: null,
         state: null,
+        municipality: null,
         status: 'all',
         sort: 'relevance',
         title: '',

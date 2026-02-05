@@ -15,11 +15,13 @@ describe('ComparisonView', () => {
     const mockArticles1 = {
         law_id: 'law_1',
         law_name: 'Law 1',
+        total: 1,
         articles: [{ article_id: 'Art 1', text: 'Text 1' }],
     };
     const mockArticles2 = {
         law_id: 'law_2',
         law_name: 'Law 2',
+        total: 1,
         articles: [{ article_id: 'Art 1', text: 'Text 1 modified' }],
     };
     

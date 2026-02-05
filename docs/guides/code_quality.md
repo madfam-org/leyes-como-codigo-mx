@@ -45,4 +45,4 @@ As of 2026-02-04:
 - ✅ Only 1 file over 400 lines (`akn_generator_v2.py` at 433 lines)
 - ✅ Average file size: 88 lines
 
-See [`walkthrough.md`](file:///Users/aldoruizluna/.gemini/antigravity/brain/ea38a790-49e7-4368-8647-77b881c90633/walkthrough.md) for full audit details.
+Run `python scripts/utils/audit_file_sizes.py` for a full audit.

@@ -180,12 +180,10 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                                 variant={filters.jurisdiction.includes(jurisdiction.id) ? 'default' : 'outline'}
                                 size="sm"
                                 onClick={() => toggleJurisdiction(jurisdiction.id)}
-                                disabled={jurisdiction.disabled}
                                 className="transition-all"
                             >
                                 <span className="mr-1.5">{jurisdiction.icon}</span>
                                 {jurisdiction.name}
-                                {jurisdiction.disabled && <span className="ml-1 text-xs">(Próximamente)</span>}
                             </Button>
                         ))}
                     </div>
