@@ -1,45 +1,87 @@
+"""
+Guadalajara Municipal Scraper
+
+Scrapes regulations from Guadalajara's transparency portal.
+"""
+
 from typing import List, Dict, Optional
 from .base import MunicipalScraper
+from .config import get_config
 from bs4 import BeautifulSoup
-import re
+import logging
+
+logger = logging.getLogger(__name__)
+
 
 class GuadalajaraScraper(MunicipalScraper):
     def __init__(self):
-        # Official Transparency Portal - Article 8 (General Regulations)
-        # Dynamic portal, scraper needs to handle JS or specific sub-paths
-        super().__init__("Guadalajara", "https://transparencia.guadalajara.gob.mx/")
+        config = get_config('guadalajara')
+        super().__init__(config=config)
+        logger.info(f"Initialized {self.municipality} scraper - {self.base_url}")
 
     def scrape_catalog(self) -> List[Dict]:
-        html = self.fetch_page(self.base_url)
+        """
+        Scrape Guadalajara's regulations catalog.
+        
+        Returns list of law dictionaries with name, URL, category.
+        """
+        # Try catalog path from config
+        catalog_path = self.selectors.get('catalog_path', '/normatividad')
+        catalog_url = self.normalize_url(catalog_path)
+        
+        html = self.fetch_page(catalog_url)
         if not html:
+            logger.warning(f"Failed to fetch catalog from {catalog_url}")
             return []
         
         soup = BeautifulSoup(html, 'html.parser')
         laws = []
         
-        # This selector is a guess based on standard lists, needs adjustment
-        # Look for links that contain 'Reglamentos' or are inside a list
+        # Look for links containing "reglamento" or similar keywords
         for link in soup.find_all('a', href=True):
-            href = link['href']
+            href = link['href'].strip()
             text = link.get_text(strip=True)
             
-            if "reglamento" in text.lower() or "reglamento" in href.lower():
-                # Clean up URL
-                if not href.startswith('http'):
-                    href = self.base_url + href # Simplified join
-                    
-                laws.append({
-                    'name': text,
-                    'url': href,
-                    'municipality': self.municipality,
-                    'tier': 'municipal'
-                })
+            # Filter for regulation-related links
+            if not text or len(text) < 10:
+                continue
                 
+            if self._is_regulation_link(text, href):
+                # Normalize URL
+                absolute_url = self.normalize_url(href, base=catalog_url)
+                
+                law = {
+                    'name': text,
+                    'url': absolute_url,
+                    'municipality': self.municipality,
+                    'state': self.state,
+                    'tier': 'municipal',
+                    'category': self.extract_category(text)
+                }
+                
+                if self.validate_law_data(law):
+                    laws.append(law)
+                    logger.debug(f"Found regulation: {text}")
+        
+        logger.info(f"Scraped {len(laws)} regulations from {self.municipality}")
         return laws
+    
+    def _is_regulation_link(self, text: str, href: str) -> bool:
+        """Check if link appears to be a regulation."""
+        text_lower = text.lower()
+        href_lower = href.lower()
+        
+        keywords = ['reglamento', 'código', 'codigo', 'normativ', 'regla']
+        return any(keyword in text_lower or keyword in href_lower for keyword in keywords)
 
     def scrape_law_content(self, url: str) -> Optional[Dict]:
-        # Most likely PDFs
+        """
+        Fetch content of a specific law.
+        
+        Most Guadalajara regulations are PDFs.
+        """
         return {
             'url': url,
-            'file_type': 'pdf' if url.lower().endswith('.pdf') else 'html'
+            'file_type': 'pdf' if self.is_pdf(url) else 'html'
         }
+
