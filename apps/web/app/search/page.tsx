@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { Search as SearchIcon, Loader2 } from 'lucide-react';
+import { Search as SearchIcon, Loader2, Filter as FilterIcon } from 'lucide-react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Input, Button, Card, CardContent, Badge } from "@leyesmx/ui";
@@ -28,6 +28,8 @@ function SearchContent() {
     const router = useRouter();
     const searchParams = useSearchParams();
     const initialQuery = searchParams?.get('q') || '';
+    const [showFilters, setShowFilters] = useState(false);
+
 
     const [query, setQuery] = useState(initialQuery);
     const [filters, setFilters] = useState<SearchFilterState>({
@@ -143,42 +145,56 @@ function SearchContent() {
         <div className="min-h-screen bg-background">
             {/* Search Header */}
             <div className="border-b border-border bg-card">
-                <div className="mx-auto max-w-6xl px-6 py-8">
-                    <h1 className="mb-6 font-display text-3xl font-bold text-foreground">
+                <div className="mx-auto max-w-6xl px-4 sm:px-6 py-6 sm:py-8">
+                    <h1 className="mb-4 sm:mb-6 font-display text-2xl sm:text-3xl font-bold text-foreground">
                         Buscar Leyes
                     </h1>
-
-                    <form onSubmit={handleSubmit}>
-                        <div className="relative flex items-center gap-2 rounded-lg bg-background p-2 shadow-md ring-1 ring-border">
-                            <SearchIcon className="ml-2 h-5 w-5 text-muted-foreground" />
+                    {/* Search Bar */}
+                    <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 sm:gap-2">
+                        <div className="relative flex-1">
+                            <SearchIcon className="absolute left-3 top-1/2 h-4 w-4 sm:h-5 sm:w-5 -translate-y-1/2 text-muted-foreground" />
                             <Input
                                 type="text"
                                 value={query}
                                 onChange={(e) => setQuery(e.target.value)}
-                                placeholder="Buscar en 330 leyes federales..."
-                                className="flex-1 border-0 bg-transparent text-base focus-visible:outline-none focus-visible:ring-0"
-                                autoFocus
+                                placeholder="Buscar por artículo, título, contenido..."
+                                className="pl-10 bg-background text-sm sm:text-base"
                             />
-                            <Button type="submit" disabled={loading}>
-                                {loading ? (
-                                    <>
-                                        <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                                        Buscando...
-                                    </>
-                                ) : (
-                                    'Buscar'
-                                )}
-                            </Button>
                         </div>
+                        <Button type="submit" disabled={loading} className="w-full sm:w-auto">
+                            {loading ? (
+                                <Loader2 className="h-4 w-4 sm:h-5 sm:w-5 animate-spin" />
+                            ) : (
+                                'Buscar'
+                            )}
+                        </Button>
                     </form>
                 </div>
             </div>
 
             {/* Main Content */}
-            <div className="mx-auto max-w-6xl px-6 py-8">
-                <div className="grid gap-8 lg:grid-cols-[280px_1fr]">
+            <div className="mx-auto max-w-6xl px-4 sm:px-6 py-6 sm:py-8">
+                {/* Mobile Filter Toggle */}
+                <div className="lg:hidden mb-4">
+                    <Button
+                        variant="outline"
+                        className="w-full flex items-center justify-center gap-2"
+                        onClick={() => setShowFilters(!showFilters)}
+                    >
+                        <FilterIcon className="h-4 w-4" />
+                        {showFilters ? 'Ocultar Filtros' : 'Mostrar Filtros'}
+                        {!showFilters && total > 0 && (
+                            <Badge variant="secondary" className="ml-auto">
+                                {total} resultados
+                            </Badge>
+                        )}
+                    </Button>
+                </div>
+
+                {/* Layout: Sidebar + Main */}
+                <div className="flex flex-col lg:flex-row gap-6 sm:gap-8">
                     {/* Filters Sidebar */}
-                    <aside>
+                    <aside className={`lg:w-64 lg:flex-shrink-0 ${showFilters ? 'block' : 'hidden lg:block'}`}>
                         <SearchFilters
                             filters={filters}
                             onFiltersChange={handleFiltersChange}
@@ -187,7 +203,7 @@ function SearchContent() {
                     </aside>
 
                     {/* Results */}
-                    <main>
+                    <main className="flex-1 min-w-0">
                         {error && (
                             <div className="mb-6 rounded-lg bg-error-50 p-4 text-error-700 dark:bg-error-900 dark:text-error-100">
                                 ⚠️ {error}
@@ -221,15 +237,15 @@ function SearchContent() {
 
                         {!loading && results.length > 0 && (
                             <>
-                                <div className="mb-6 flex items-center justify-between">
-                                    <div className="text-sm text-muted-foreground">
+                                <div className="mb-4 sm:mb-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
+                                    <div className="text-xs sm:text-sm text-muted-foreground">
                                         Mostrando {(currentPage - 1) * PAGE_SIZE + 1}-
                                         {Math.min(currentPage * PAGE_SIZE, total)} de {total} resultado
                                         {total !== 1 ? 's' : ''}
                                     </div>
 
                                     {totalPages > 1 && (
-                                        <div className="text-sm text-muted-foreground">
+                                        <div className="text-xs sm:text-sm text-muted-foreground">
                                             Página {currentPage} de {totalPages}
                                         </div>
                                     )}
@@ -244,16 +260,16 @@ function SearchContent() {
                                             className="block"
                                         >
                                             <Card className="transition-all hover:shadow-lg hover:border-primary/50 cursor-pointer">
-                                                <CardContent className="p-6">
+                                                <CardContent className="p-4 sm:p-6">
                                                     <div className="flex items-start justify-between gap-4">
                                                         {/* Content */}
                                                         <div className="flex-1">
-                                                            <div className="mb-2 flex flex-wrap items-center gap-2">
-                                                                <Badge variant="secondary" className="font-mono text-xs truncate max-w-[300px]">
+                                                            <div className="mb-2 flex flex-wrap items-center gap-1.5 sm:gap-2">
+                                                                <Badge variant="secondary" className="font-mono text-[10px] sm:text-xs truncate max-w-[200px] sm:max-w-[300px]">
                                                                     {result.law_name}
                                                                 </Badge>
                                                                 {result.article && (
-                                                                    <span className="text-sm text-muted-foreground font-medium">
+                                                                    <span className="text-xs sm:text-sm text-muted-foreground font-medium">
                                                                         {result.article}
                                                                     </span>
                                                                 )}
