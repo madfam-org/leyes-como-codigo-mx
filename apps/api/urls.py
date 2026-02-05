@@ -1,7 +1,7 @@
 from django.urls import path
 from .views import CalculationView, IngestionView
 from .search_views import SearchView
-from .law_views import LawDetailView, LawListView, law_articles, states_list, law_stats
+from .law_views import LawDetailView, LawListView, law_articles, states_list, law_stats, law_structure
 
 urlpatterns = [
     path('calculate/', CalculationView.as_view(), name='calculate'),
@@ -11,5 +11,6 @@ urlpatterns = [
     path('laws/', LawListView.as_view(), name='law-list'),
     path('laws/<str:law_id>/', LawDetailView.as_view(), name='law-detail'),
     path('laws/<str:law_id>/articles/', law_articles, name='law-articles'),
+    path('laws/<str:law_id>/structure/', law_structure, name='law-structure'),
     path('states/', states_list, name='states-list'),
 ]

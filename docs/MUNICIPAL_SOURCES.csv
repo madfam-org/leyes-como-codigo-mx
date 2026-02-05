@@ -1,0 +1,16 @@
+State,Municipality,Source_Type,URL,Status,Last_Checked,Notes
+Ciudad de México,Ciudad de México,State_Level,https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes,Verified,2026-02-04,Includes Leyes and Reglamentos
+Jalisco,Guadalajara,Direct_Portal,https://transparencia.guadalajara.gob.mx/,Verified,2026-02-04,Article 8 transparency section
+Nuevo León,Monterrey,Direct_Portal,https://www.monterrey.gob.mx/transparencia/,Verified,2026-02-04,Microsite with Marco Normativo
+Puebla,Puebla,Transparency_Portal,https://gobiernoabierto.pueblacapital.gob.mx/,Verified,2026-02-04,"Inferred from search [Auto-Verified: Status 200, Size 32449]"
+Baja California,Tijuana,Transparency_Portal,https://transparencia.tijuana.gob.mx/,Verified,2026-02-04,"Inferred from search [Auto-Verified: Status 200, Size 45293]"
+Guanajuato,León,Transparency_Portal,https://leon.gob.mx/transparencia/,Verified,2026-02-04,"Inferred from search [Auto-Verified: Status 200, Size 21604]"
+Federal,Nationwide,Aggregator,http://ordenjuridico.gob.mx/marco-juridico-municipal,Check_Failed,2026-02-04,Returns 404/Unreliable
+Jalisco,State_Congress,Aggregator,https://congresojalisco.gob.mx/biblioteca-virtual,Pending_Validation,2026-02-04,Verified Library URL
+Nuevo León,State_Congress,Aggregator,https://www.hcnl.gob.mx/trabajo_legislativo/leyes/,Pending_Validation,2026-02-04,Verified Laws Portal
+Puebla,State_Congress,Aggregator,https://www.congresopuebla.gob.mx/,Pending_Validation,2026-02-04,Primary source
+Guanajuato,State_Congress,Aggregator,https://www.congresogto.gob.mx/legislacion_estatal,Pending_Validation,2026-02-04,Contains Municipal Income Laws
+Estado de México,State_Congress,Aggregator,https://legislacion.edomex.gob.mx/leyes_vigentes,Pending_Validation,2026-02-04,Legistel Laws Section
+Veracruz,State_Congress,Aggregator,https://www.legisver.gob.mx/leyes,Pending_Validation,2026-02-04,Legisver Laws
+Veracruz,Unknown,State_Congress_Scraping,https://www.legisver.gob.mx/archivosAvisos/Aviso_Calendario_Ley_Ingresos.pdf,Discovered,,Found via crawler: recepción de iniciativas de ley de ingresos munici...
+Veracruz,Unknown,State_Congress_Scraping,https://www.legisver.gob.mx/archivosAvisos/Aviso_Calendario_Ley_Ingresos.pdf,Discovered,,Found via crawler: recepción de iniciativas de ley de ingresos munici...

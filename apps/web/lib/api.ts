@@ -129,6 +129,13 @@ export const api = {
         return fetcher<LawArticleResponse>(`/laws/${lawId}/articles/`);
     },
 
+    /**
+     * Get structure (books, titles, chapters) for a law
+     */
+    getLawStructure: async (lawId: string): Promise<{ law_id: string; structure: any[] }> => {
+        return fetcher<{ law_id: string; structure: any[] }>(`/laws/${lawId}/structure/`);
+    },
+
 };
 
 export { APIError };

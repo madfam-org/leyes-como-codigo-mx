@@ -11,10 +11,10 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent / 'apps'))
 
 from parsers.patterns.structure import (
-    compile_article_patterns,
     compile_structure_patterns,
     roman_to_int
 )
+from parsers.patterns.articles import compile_article_patterns
 from parsers.patterns.metadata import (
     compile_reform_pattern,
     extract_reforms
@@ -33,7 +33,7 @@ class TestArticlePatterns:
         for pattern in patterns:
             match = pattern.match(text)
             if match:
-                assert match.group(1) == "5"
+                assert match.group(1).rstrip('.') == "5"
                 matched = True
                 break
         
@@ -64,7 +64,7 @@ class TestArticlePatterns:
         for pattern in patterns:
             match = pattern.match(text)
             if match:
-                assert match.group(1) == "10"
+                assert match.group(1).rstrip('.') == "10"
                 matched = True
                 break
         

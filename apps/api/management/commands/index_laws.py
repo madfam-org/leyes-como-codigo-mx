@@ -132,6 +132,7 @@ class Command(BaseCommand):
                     'text': art['text'],
                     'category': law.category,
                     'tier': law.tier,
+                    'municipality': law.municipality,
                     'status': law.status,
                     
                     # Structural Fields

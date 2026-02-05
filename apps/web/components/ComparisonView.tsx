@@ -1,3 +1,4 @@
+
 'use client';
 
 import { useEffect, useState } from 'react';
@@ -5,116 +6,167 @@ import { api } from '@/lib/api';
 import { LawArticleResponse } from "@leyesmx/lib";
 import { Card, Badge, Button } from "@leyesmx/ui";
 import Link from 'next/link';
-import { ArrowLeft, Loader2 } from 'lucide-react';
+import { ArrowLeft, Loader2, Map } from 'lucide-react';
 
 interface ComparisonViewProps {
     lawIds: string[];
 }
 
+interface LawStructureNode {
+    label: string;
+    children: LawStructureNode[];
+}
+
+interface LawData {
+    details: LawArticleResponse;
+    structure: LawStructureNode[];
+}
+
 export default function ComparisonView({ lawIds }: ComparisonViewProps) {
-    const [laws, setLaws] = useState<LawArticleResponse[]>([]);
+    const [data, setData] = useState<LawData[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
 
+    // Initial load
     useEffect(() => {
-        async function fetchLaws() {
-            if (lawIds.length === 0) {
-                setLoading(false);
+        async function fetchData() {
+            if (lawIds.length < 2) {
+                setLoading(false); 
                 return;
             }
 
             try {
                 setLoading(true);
-                // Fetch all laws in parallel
-                const responses = await Promise.all(
-                    lawIds.map(id => api.getLawArticles(id))
-                );
-                setLaws(responses);
+                const promises = lawIds.map(async (id) => {
+                    const [articles, structureData] = await Promise.all([
+                        api.getLawArticles(id),
+                        api.getLawStructure(id)
+                    ]);
+                    return {
+                        details: articles,
+                        structure: structureData.structure
+                    };
+                });
+
+                const results = await Promise.all(promises);
+                setData(results);
             } catch (err) {
-                console.error("Failed to fetch laws for comparison", err);
-                setError("Error loading laws. Please try again.");
+                console.error("Comparison fetch error", err);
+                setError("No se pudieron cargar las leyes.");
             } finally {
                 setLoading(false);
             }
         }
-
-        fetchLaws();
+        fetchData();
     }, [lawIds]);
 
     if (loading) {
         return (
-            <div className="flex h-[80vh] items-center justify-center">
-                <Loader2 className="h-8 w-8 animate-spin text-primary" />
-                <span className="ml-2">Cargando leyes para comparación...</span>
+            <div className="flex h-[80vh] items-center justify-center flex-col">
+                <Loader2 className="h-10 w-10 animate-spin text-primary mb-4" />
+                <h2 className="text-xl font-medium">Analizando estructura legal...</h2>
+                <p className="text-muted-foreground text-sm mt-2">Comparando {lawIds.length} documentos</p>
             </div>
         );
     }
 
-    if (error) {
-        return (
-            <div className="flex flex-col items-center justify-center h-[60vh] text-center">
-                <h3 className="text-xl font-bold text-destructive mb-2">Error</h3>
-                <p className="text-muted-foreground mb-4">{error}</p>
-                <Button asChild variant="outline">
-                    <Link href="/">Volver al inicio</Link>
-                </Button>
-            </div>
-        );
-    }
+    if (error) return <div className="text-destructive text-center p-10">{error}</div>;
 
-    if (laws.length === 0) {
-        return (
-            <div className="text-center py-20">
-                <h2 className="text-2xl font-bold mb-4">No hay leyes seleccionadas</h2>
+    if (lawIds.length < 2) {
+         return (
+            <div className="flex flex-col items-center justify-center py-20">
+                <h2 className="text-2xl font-bold mb-4">Selecciona leyes para comparar</h2>
+                <p className="text-muted-foreground mb-6 max-w-md text-center">
+                    Necesitas al menos dos leyes para usar la herramienta de comparación inteligente.
+                </p>
                 <Button asChild>
-                    <Link href="/">Seleccionar Leyes</Link>
+                    <Link href="/search">Ir al Buscador</Link>
                 </Button>
             </div>
         );
     }
 
     return (
-        <div className="h-[calc(100vh-100px)] flex flex-col">
-            <div className="mb-4 flex items-center gap-4">
+        <div className="flex flex-col h-[calc(100vh-80px)]">
+            {/* Header */}
+            <div className="flex items-center gap-4 py-4 border-b">
                 <Button asChild variant="ghost" size="sm">
-                    <Link href="/">
+                    <Link href="/search">
                         <ArrowLeft className="w-4 h-4 mr-2" />
-                        Atrás
+                        Volver
                     </Link>
                 </Button>
-                <h1 className="text-2xl font-bold">Comparación de Leyes</h1>
+                <div>
+                     <h1 className="text-xl font-bold flex items-center gap-2">
+                        <Map className="h-5 w-5 text-primary" />
+                        Comparación Estructural
+                    </h1>
+                </div>
             </div>
 
-            <div className="flex-1 grid grid-cols-1 md:grid-cols-2 gap-4 h-full overflow-hidden">
-                {laws.map((law, index) => (
-                    <Card key={law.law_id} className="flex flex-col h-full overflow-hidden border border-white/20 shadow-xl glass">
-                        <div className="p-4 border-b border-white/10 bg-white/5 backdrop-blur-md">
-                            <h2 className="font-display font-bold text-lg leading-tight mb-2 line-clamp-2 text-primary-700 dark:text-primary-300" title={law.law_name}>
-                                {law.law_name}
-                            </h2>
-                            <div className="flex gap-2 flex-wrap">
-                                <Badge variant="outline" className="bg-background/50 backdrop-blur border-primary/20">{law.articles.length} artículos</Badge>
-                                <Badge variant="secondary" className="bg-secondary-100 dark:bg-secondary-900/50 text-secondary-700 dark:text-secondary-300">{law.law_id}</Badge>
+            {/* Split View */}
+            <div className="flex-1 overflow-hidden">
+                <div className="grid grid-cols-2 h-full divide-x">
+                    {data.map((law, index) => (
+                        <div key={law.details.law_id} className="flex flex-col h-full overflow-hidden">
+                            {/* Law Header */}
+                            <div className="p-4 bg-muted/30 border-b">
+                                <h2 className="font-bold truncate" title={law.details.law_name}>
+                                    {law.details.law_name}
+                                </h2>
+                                <div className="flex gap-2 mt-1">
+                                    <Badge variant="outline">{law.details.articles.length} artículos</Badge>
+                                </div>
                             </div>
-                        </div>
+                            
+                            {/* Content & Structure */}
+                            <div className="flex-1 overflow-hidden flex">
+                                {/* Structure Sidebar (Mini) */}
+                                <div className="w-1/3 border-r overflow-y-auto bg-muted/10 p-2 hidden lg:block text-xs">
+                                     <h3 className="font-semibold mb-2 text-muted-foreground uppercase tracking-wider text-[10px]">Estructura</h3>
+                                     <StructureTree nodes={law.structure} />
+                                </div>
 
-                        <div className="flex-1 overflow-y-auto p-4 bg-white/40 dark:bg-black/20 backdrop-blur-sm scroll-smooth">
-                            <div className="prose dark:prose-invert max-w-none text-sm">
-                                {law.articles.map((article) => (
-                                    <div key={article.article_id} className="mb-6 p-5 rounded-xl hover:bg-white/40 dark:hover:bg-white/5 transition-all duration-300 border border-transparent hover:border-primary/10 shadow-sm hover:shadow-md group">
-                                        <h3 className="font-display font-bold text-primary-600 dark:text-primary-400 mb-2 sticky top-0 bg-white/90 dark:bg-neutral-900/90 backdrop-blur-md py-1.5 border-b border-primary/10 w-fit z-10 px-3 rounded-lg shadow-sm">
-                                            {article.article_id}
-                                        </h3>
-                                        <div className="leading-relaxed whitespace-pre-wrap font-serif text-neutral-700 dark:text-neutral-300 group-hover:text-neutral-900 dark:group-hover:text-neutral-100 transition-colors">
-                                            {article.text}
-                                        </div>
+                                {/* Main Text */}
+                                <div className="flex-1 p-4 overflow-y-auto">
+                                    <div className="prose dark:prose-invert max-w-none text-sm">
+                                        {law.details.articles.map(article => (
+                                            <div key={article.article_id} className="mb-4">
+                                                <span className="font-bold text-primary block mb-1 sticky top-0 bg-background/90 backdrop-blur z-10">
+                                                    {article.article_id}
+                                                </span>
+                                                <p className="whitespace-pre-wrap text-muted-foreground leading-relaxed">
+                                                    {article.text}
+                                                </p>
+                                            </div>
+                                        ))}
                                     </div>
-                                ))}
+                                </div>
                             </div>
                         </div>
-                    </Card>
-                ))}
+                    ))}
+                </div>
             </div>
         </div>
+    );
+}
+
+// Recursive Tree Component
+function StructureTree({ nodes, level = 0 }: { nodes: LawStructureNode[], level?: number }) {
+    if (!nodes || nodes.length === 0) return <div className="text-muted-foreground italic pl-2">Sin estructura</div>;
+
+    return (
+        <ul className={`space-y-1 ${level > 0 ? 'ml-2 border-l pl-2' : ''}`}>
+             {nodes.map((node, i) => (
+                 <li key={i}>
+                     <div className="py-1 px-2 rounded hover:bg-muted cursor-pointer truncate" title={node.label}>
+                         {node.label}
+                     </div>
+                     {node.children && node.children.length > 0 && (
+                         <StructureTree nodes={node.children} level={level + 1} />
+                     )}
+                 </li>
+             ))}
+        </ul>
     );
 }

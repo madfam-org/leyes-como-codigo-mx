@@ -8,6 +8,7 @@ class Law(models.Model):
     short_name = models.CharField(max_length=200, blank=True, null=True)
     category = models.CharField(max_length=100, blank=True, null=True)
     tier = models.CharField(max_length=50, blank=True, null=True)
+    municipality = models.CharField(max_length=100, blank=True, null=True, help_text="Municipality name for municipal laws")
     
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)

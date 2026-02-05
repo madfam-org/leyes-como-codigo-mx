@@ -106,6 +106,60 @@ def law_articles(request, law_id):
 
 
 @api_view(['GET'])
+def law_structure(request, law_id):
+    """
+    Get the hierarchical structure (Book > Title > Chapter) of a law.
+    Returns a tree: [{ "label": "Title I", "children": [...] }]
+    """
+    try:
+        law = get_object_or_404(Law, official_id=law_id)
+        es = Elasticsearch([ES_HOST])
+        
+        # Fetch all articles with hierarchy data
+        # Sort by metadata order if available, otherwise we rely on ES default which is not reliable for order.
+        # Ideally we re-index with an 'index_order' field.
+        # For now, we fetch large size and trust the parser order if we could.
+        # Actually, standard ES search might return random order if scoring is identical.
+        # We will use 'article.keyword' sort as a fallback, but it is alphanumeric (1, 10, 2).
+        # Fix: We will rely on simple aggregation? No, aggregation buckets keys are sorted alphanumeric.
+        
+        # Strategy: Fetch *all* hits (up to 10k), and build tree.
+        body = {
+            "query": {"match_phrase": {"law_id": law.official_id}},
+            "sort": [{"article.keyword": "asc"}], # Imperfect but needed for consistency
+            "_source": ["hierarchy", "text", "article"], 
+            "size": 10000
+        }
+        
+        res = es.search(index=INDEX_NAME, body=body)
+        
+        # Build Tree
+        root = []
+        
+        for hit in res['hits']['hits']:
+            source = hit['_source']
+            breadcrumbs = source.get('hierarchy', [])
+            
+            # Navigate/Create tree nodes
+            current_level = root
+            for crumb in breadcrumbs:
+                # Find existing node for this crumb
+                found = next((node for node in current_level if node['label'] == crumb), None)
+                if not found:
+                    found = {'label': crumb, 'children': []}
+                    current_level.append(found)
+                current_level = found['children']
+                
+        return Response({
+            'law_id': law_id,
+            'structure': root
+        })
+        
+    except Exception as e:
+        return Response({'error': str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+@api_view(['GET'])
 def states_list(request):
     """Get list of all states with law counts."""
     # Known state slugs and their proper names
