@@ -1,6 +1,7 @@
 import re
 
 from django.shortcuts import get_object_or_404
+from drf_spectacular.utils import extend_schema
 from elasticsearch import Elasticsearch
 from rest_framework import status
 from rest_framework.decorators import api_view
@@ -8,6 +9,15 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from .models import Law, LawVersion
+from .schema import (
+    ErrorSchema,
+    LawArticlesSchema,
+    LawDetailSchema,
+    LawListItemSchema,
+    LawStatsSchema,
+    LawStructureSchema,
+    StatesListSchema,
+)
 
 
 def _natural_sort_key(text: str):
@@ -25,6 +35,12 @@ INDEX_NAME = "articles"
 
 
 class LawDetailView(APIView):
+    @extend_schema(
+        tags=["Laws"],
+        summary="Get law detail",
+        description="Retrieve full metadata for a single law including versions.",
+        responses={200: LawDetailSchema, 404: ErrorSchema},
+    )
     def get(self, request, law_id):
         # 1. Get Law
         law = get_object_or_404(Law, official_id=law_id)
@@ -66,6 +82,12 @@ class LawDetailView(APIView):
 
 
 class LawListView(APIView):
+    @extend_schema(
+        tags=["Laws"],
+        summary="List all laws",
+        description="Returns all laws with basic metadata.",
+        responses={200: LawListItemSchema(many=True)},
+    )
     def get(self, request):
         laws = Law.objects.all().order_by("official_id")
         data = [
@@ -79,6 +101,12 @@ class LawListView(APIView):
         return Response(data)
 
 
+@extend_schema(
+    tags=["Laws"],
+    summary="Get law articles",
+    description="Retrieve all articles for a law from the search index.",
+    responses={200: LawArticlesSchema, 500: ErrorSchema},
+)
 @api_view(["GET"])
 def law_articles(request, law_id):
     """Get all articles for a law from Elasticsearch."""
@@ -124,6 +152,12 @@ def law_articles(request, law_id):
         return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
+@extend_schema(
+    tags=["Laws"],
+    summary="Get law structure",
+    description="Get the hierarchical structure (Book > Title > Chapter) of a law as a tree.",
+    responses={200: LawStructureSchema, 500: ErrorSchema},
+)
 @api_view(["GET"])
 def law_structure(request, law_id):
     """
@@ -186,6 +220,12 @@ def law_structure(request, law_id):
         return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
+@extend_schema(
+    tags=["Laws"],
+    summary="List states",
+    description="Get sorted list of all Mexican states that have indexed laws.",
+    responses={200: StatesListSchema},
+)
 @api_view(["GET"])
 def states_list(request):
     """Get list of all states with law counts."""
@@ -243,6 +283,12 @@ def states_list(request):
     return Response({"states": sorted(list(found_states))})
 
 
+@extend_schema(
+    tags=["Laws"],
+    summary="Dashboard statistics",
+    description="Get global statistics for the homepage dashboard including recent laws.",
+    responses={200: LawStatsSchema},
+)
 @api_view(["GET"])
 def law_stats(request):
     """Get global statistics for the dashboard."""

@@ -19,10 +19,41 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
+    "drf_spectacular",
     "corsheaders",
     "apps.api",
     # 'apps.scraper', # Not a django app per se yet
 ]
+
+REST_FRAMEWORK = {
+    "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
+}
+
+SPECTACULAR_SETTINGS = {
+    "TITLE": "Leyes Como Código MX API",
+    "DESCRIPTION": "API for the Mexican open law platform. Search, browse, and analyze 11,600+ federal and state laws in machine-readable format.",
+    "VERSION": "1.0.0",
+    "CONTACT": {"name": "Leyes Como Código MX", "url": "https://github.com/leyesmx"},
+    "LICENSE": {"name": "MIT"},
+    "TAGS": [
+        {
+            "name": "Laws",
+            "description": "Browse and retrieve law metadata and articles",
+        },
+        {
+            "name": "Search",
+            "description": "Full-text search across all indexed articles",
+        },
+        {
+            "name": "Cross-References",
+            "description": "Detect and browse inter-law references",
+        },
+        {
+            "name": "Admin",
+            "description": "System health, metrics, and ingestion management",
+        },
+    ],
+}
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",

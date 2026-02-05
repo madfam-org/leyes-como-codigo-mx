@@ -1,16 +1,26 @@
 import math
 import os
 
+from drf_spectacular.utils import extend_schema
 from elasticsearch import Elasticsearch
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
+
+from .schema import SEARCH_PARAMETERS, ErrorSchema, SearchResponseSchema
 
 ES_HOST = os.getenv("ES_HOST", "http://elasticsearch:9200")
 INDEX_NAME = "articles"
 
 
 class SearchView(APIView):
+    @extend_schema(
+        tags=["Search"],
+        summary="Search articles",
+        description="Full-text search across all indexed law articles with filtering and pagination.",
+        parameters=SEARCH_PARAMETERS,
+        responses={200: SearchResponseSchema, 400: ErrorSchema, 500: ErrorSchema},
+    )
     def get(self, request):
         query = request.query_params.get("q", "")
         if not query:

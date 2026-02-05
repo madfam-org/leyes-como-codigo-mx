@@ -2,13 +2,21 @@
 API views for cross-references.
 """
 
+from drf_spectacular.utils import extend_schema
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 from apps.api.models import CrossReference
+from apps.api.schema import ArticleCrossRefsSchema, LawCrossRefsSchema
 
 
+@extend_schema(
+    tags=["Cross-References"],
+    summary="Get article cross-references",
+    description="Get both outgoing and incoming cross-references for a specific article.",
+    responses={200: ArticleCrossRefsSchema},
+)
 @api_view(["GET"])
 def article_cross_references(request, law_slug, article_id):
     """
@@ -67,6 +75,12 @@ def article_cross_references(request, law_slug, article_id):
     )
 
 
+@extend_schema(
+    tags=["Cross-References"],
+    summary="Get law cross-reference statistics",
+    description="Get aggregated cross-reference statistics for a law including top referenced and citing laws.",
+    responses={200: LawCrossRefsSchema},
+)
 @api_view(["GET"])
 def law_cross_references(request, law_slug):
     """
