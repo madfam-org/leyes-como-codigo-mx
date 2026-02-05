@@ -149,7 +149,7 @@
    ========================================== */
 
 * {
-  @apply border-border;
+  border-color: oklch(var(--border));
 }
 
 body {
