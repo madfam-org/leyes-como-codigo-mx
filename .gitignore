@@ -27,9 +27,10 @@ out/
 db.sqlite3
 data/conversion_results.json
 
-# IDEs
+# IDEs & Tools
 .vscode/
 .idea/
+.serena/
 *.swp
 *.swo
 *~
