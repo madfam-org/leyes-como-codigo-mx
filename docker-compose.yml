@@ -39,7 +39,7 @@ services:
     container_name: leyes_mx_celery
     volumes:
       - .:/app
-    command: celery -A apps.indigo worker --loglevel=info --concurrency=2
+    command: celery -A apps.indigo worker --loglevel=info --concurrency=4
     environment:
       - DEBUG=${DEBUG:-False}
       - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:?Set DJANGO_SECRET_KEY in .env}

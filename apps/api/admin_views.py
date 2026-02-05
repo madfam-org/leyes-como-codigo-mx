@@ -1,3 +1,4 @@
+import json
 import os
 
 from django.conf import settings as django_settings
@@ -16,9 +17,11 @@ from .schema import (
     HealthCheckSchema,
     JobListSchema,
     JobStatusSchema,
+    PipelineStatusSchema,
     SystemConfigSchema,
     SystemMetricsSchema,
 )
+from .tasks import PIPELINE_STATUS_FILE
 
 
 @extend_schema(
@@ -215,3 +218,33 @@ def system_config(request):
             },
         }
     )
+
+
+@extend_schema(
+    tags=["Admin"],
+    summary="Pipeline status",
+    description="Current status of the data collection pipeline.",
+    responses={200: PipelineStatusSchema, 500: ErrorSchema},
+)
+@api_view(["GET"])
+def pipeline_status(request):
+    """
+    Returns the current status of the data collection pipeline.
+    Reads from the pipeline_status.json file written by the Celery task.
+    """
+    try:
+        if not PIPELINE_STATUS_FILE.exists():
+            return Response(
+                {
+                    "status": "idle",
+                    "message": "No pipeline has been run yet.",
+                    "timestamp": timezone.now().isoformat(),
+                }
+            )
+
+        with open(PIPELINE_STATUS_FILE, "r") as f:
+            data = json.load(f)
+
+        return Response(data)
+    except Exception as e:
+        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)

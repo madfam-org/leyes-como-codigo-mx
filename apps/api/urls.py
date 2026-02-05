@@ -4,6 +4,7 @@ from .admin_views import (
     health_check,
     job_status,
     list_jobs,
+    pipeline_status,
     system_config,
     system_metrics,
 )
@@ -25,6 +26,7 @@ urlpatterns = [
     path("admin/jobs/", list_jobs, name="admin-jobs-list"),
     path("admin/jobs/status/", job_status, name="admin-job-status"),
     path("admin/config/", system_config, name="admin-config"),
+    path("admin/pipeline/status/", pipeline_status, name="admin-pipeline-status"),
     path("calculate/", CalculationView.as_view(), name="calculate"),
     path("search/", SearchView.as_view(), name="search"),
     path("ingest/", IngestionView.as_view(), name="ingest"),

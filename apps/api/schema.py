@@ -276,6 +276,45 @@ class CalculationDisabledSchema(serializers.Serializer):
     data = serializers.DictField()
 
 
+# ── Pipeline endpoints ─────────────────────────────────────────────────
+
+
+class PhaseResultSchema(serializers.Serializer):
+    phase = serializers.CharField()
+    phase_number = serializers.IntegerField()
+    returncode = serializers.IntegerField()
+    status = serializers.CharField()
+    duration = serializers.CharField()
+    output_tail = serializers.ListField(
+        child=serializers.CharField(), required=False, default=[]
+    )
+    error = serializers.CharField(required=False, allow_null=True)
+
+
+class PipelineSummarySchema(serializers.Serializer):
+    total_phases = serializers.IntegerField()
+    succeeded = serializers.IntegerField()
+    failed = serializers.IntegerField()
+
+
+class PipelineStatusSchema(serializers.Serializer):
+    status = serializers.ChoiceField(
+        choices=["idle", "running", "completed", "completed_with_errors", "error"]
+    )
+    message = serializers.CharField()
+    phase = serializers.CharField(required=False, allow_null=True)
+    phase_number = serializers.IntegerField(required=False, allow_null=True)
+    total_phases = serializers.IntegerField(required=False, allow_null=True)
+    progress = serializers.IntegerField(required=False, allow_null=True)
+    started_at = serializers.CharField(required=False, allow_null=True)
+    completed_at = serializers.CharField(required=False, allow_null=True)
+    duration_human = serializers.CharField(required=False, allow_null=True)
+    timestamp = serializers.CharField()
+    task_id = serializers.CharField(required=False, allow_null=True)
+    phase_results = PhaseResultSchema(many=True, required=False, default=[])
+    summary = PipelineSummarySchema(required=False, allow_null=True)
+
+
 # ── Error schema ─────────────────────────────────────────────────────────
 
 
