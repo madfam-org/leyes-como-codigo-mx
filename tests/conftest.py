@@ -2,14 +2,15 @@
 Shared pytest fixtures for testing.
 """
 
-import pytest
-from pathlib import Path
-import tempfile
 import shutil
 import sys
+import tempfile
+from pathlib import Path
+
+import pytest
 
 # Add apps to path for all tests
-sys.path.insert(0, str(Path(__file__).parent.parent / 'apps'))
+sys.path.insert(0, str(Path(__file__).parent.parent / "apps"))
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 
@@ -54,25 +55,25 @@ def temp_data_dir(tmp_path):
 def sample_law_metadata():
     """Sample law metadata."""
     return {
-        'id': 'test-law',
-        'name': 'Ley de Prueba',
-        'short_name': 'Ley de Prueba',
-        'type': 'ley',
-        'slug': 'test',
-        'expected_articles': 3,
-        'publication_date': '2020-01-01',
-        'source': 'chamber',
-        'url': 'https://example.com/test.pdf',
-        'priority': 1,
-        'tier': 'test',
-        'status': 'active'
+        "id": "test-law",
+        "name": "Ley de Prueba",
+        "short_name": "Ley de Prueba",
+        "type": "ley",
+        "slug": "test",
+        "expected_articles": 3,
+        "publication_date": "2020-01-01",
+        "source": "chamber",
+        "url": "https://example.com/test.pdf",
+        "priority": 1,
+        "tier": "test",
+        "status": "active",
     }
 
 
 @pytest.fixture
 def basic_akn_xml():
     """Minimal valid Akoma Ntoso XML."""
-    return '''<?xml version="1.0" encoding="UTF-8"?>
+    return """<?xml version="1.0" encoding="UTF-8"?>
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
   <act name="test">
     <meta>
@@ -93,4 +94,4 @@ def basic_akn_xml():
       </article>
     </body>
   </act>
-</akomaNtoso>'''
+</akomaNtoso>"""

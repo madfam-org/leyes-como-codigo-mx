@@ -58,7 +58,7 @@ export async function getLawById(id: string): Promise<Law | undefined> {
             fullName: data.name,
             articles: data.articles || 0,
             transitorios: 0,
-            grade: (data.grade as any) || 'A',
+            grade: data.grade || 'A',
             score: data.score || 100,
             priority: 2, // Default
             tier: data.tier || 'general',
@@ -76,7 +76,7 @@ export async function getAllLaws(): Promise<Law[]> {
         const res = await fetch(`${API_URL}/laws/`, { next: { revalidate: 60 } });
         if (!res.ok) return staticLaws;
         const data = await res.json();
-        return data.map((d: any) => ({
+        return data.map((d: Record<string, string>) => ({
             id: d.id,
             name: d.name,
             fullName: d.name,

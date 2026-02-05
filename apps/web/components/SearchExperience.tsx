@@ -1,5 +1,6 @@
 'use client';
 import { useState } from 'react';
+import type { SearchResult } from '@leyesmx/lib';
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -7,7 +8,7 @@ import Link from 'next/link';
 
 export default function SearchExperience() {
     const [query, setQuery] = useState('');
-    const [results, setResults] = useState<any[]>([]);
+    const [results, setResults] = useState<SearchResult[]>([]);
     const [loading, setLoading] = useState(false);
 
     const handleSearch = async () => {
@@ -46,12 +47,12 @@ export default function SearchExperience() {
             </Card>
 
             <div className="space-y-4">
-                {results.map((r: any) => (
-                    <Link key={r.id} href={`/laws/${r.law}`} className="block">
+                {results.map((r) => (
+                    <Link key={r.id} href={`/laws/${r.law_id}`} className="block">
                         <Card className="hover:bg-accent/50 transition-colors">
                             <CardHeader className="pb-2">
                                 <CardTitle className="text-lg font-bold text-primary">
-                                    {r.law} - {r.article}
+                                    {r.law_id} - {r.article}
                                     {r.date && (
                                         <span className="ml-2 text-xs font-normal text-muted-foreground bg-secondary px-2 py-1 rounded">
                                             Vigente desde: {new Date(r.date + 'T12:00:00').toLocaleDateString('es-MX')}

@@ -6,12 +6,22 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-import { CheckCircle2, AlertCircle, Info } from "lucide-react";
+import { AlertCircle, Info } from "lucide-react";
+
+interface TaxResult {
+    gross_income: number;
+    isr_obligation: number;
+    breakdown: {
+        lower_limit: number;
+        rate: number;
+        fixed_fee: number;
+    };
+}
 
 export default function TaxForm() {
     const [incomeCash, setIncomeCash] = useState<number>(0);
     const [incomeGoods, setIncomeGoods] = useState<number>(0);
-    const [result, setResult] = useState<any>(null);
+    const [result, setResult] = useState<TaxResult | null>(null);
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState("");
 

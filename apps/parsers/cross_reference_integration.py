@@ -23,7 +23,7 @@ def _build_law_slug_index() -> Dict[str, str]:
     from apps.api.models import Law
 
     slug_index = {}
-    for law in Law.objects.only('official_id', 'name', 'short_name'):
+    for law in Law.objects.only("official_id", "name", "short_name"):
         detector = CrossReferenceDetector()
         # Index both full name and short name
         if law.name:
@@ -37,9 +37,7 @@ def _build_law_slug_index() -> Dict[str, str]:
 
 
 def detect_and_store_cross_references(
-    law_slug: str,
-    xml_path: Path,
-    detector: CrossReferenceDetector = None
+    law_slug: str, xml_path: Path, detector: CrossReferenceDetector = None
 ) -> int:
     """
     Detect cross-references in a parsed law's XML and store them in the database.
@@ -63,21 +61,21 @@ def detect_and_store_cross_references(
     # Parse XML
     tree = etree.parse(str(xml_path))
     root = tree.getroot()
-    ns = {'akn': 'http://docs.oasis-open.org/legaldocml/ns/akn/3.0'}
+    ns = {"akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0"}
 
     # Find all articles
-    articles = root.findall('.//akn:article', ns)
+    articles = root.findall(".//akn:article", ns)
 
     refs_to_create = []
 
     for article in articles:
-        article_id = article.get('id', '').replace('art-', '')
+        article_id = article.get("id", "").replace("art-", "")
         if not article_id:
             continue
 
         # Get article text content
-        paragraphs = article.findall('.//akn:p', ns)
-        article_text = ' '.join([p.text or '' for p in paragraphs])
+        paragraphs = article.findall(".//akn:p", ns)
+        article_text = " ".join([p.text or "" for p in paragraphs])
 
         # Detect references in this article
         refs = detector.detect(article_text)
@@ -85,17 +83,19 @@ def detect_and_store_cross_references(
         for ref in refs:
             target_slug = detector.resolve_law_slug(ref.law_name, slug_index)
 
-            refs_to_create.append(CrossReference(
-                source_law_slug=law_slug,
-                source_article_id=article_id,
-                target_law_slug=target_slug,
-                target_article_num=ref.article_num,
-                reference_text=ref.text,
-                fraction=ref.fraction,
-                confidence=ref.confidence,
-                start_position=ref.start_pos,
-                end_position=ref.end_pos,
-            ))
+            refs_to_create.append(
+                CrossReference(
+                    source_law_slug=law_slug,
+                    source_article_id=article_id,
+                    target_law_slug=target_slug,
+                    target_article_num=ref.article_num,
+                    reference_text=ref.text,
+                    fraction=ref.fraction,
+                    confidence=ref.confidence,
+                    start_position=ref.start_pos,
+                    end_position=ref.end_pos,
+                )
+            )
 
     if refs_to_create:
         # Delete old references for this law before inserting new ones
@@ -132,8 +132,8 @@ def detect_cross_references_from_articles(
     all_references = []
 
     for article in articles:
-        article_id = article.get('article_id')
-        text = article.get('text', '')
+        article_id = article.get("article_id")
+        text = article.get("text", "")
 
         if not article_id or not text:
             continue
@@ -144,15 +144,15 @@ def detect_cross_references_from_articles(
             target_slug = detector.resolve_law_slug(ref.law_name, slug_index)
 
             ref_dict = {
-                'source_law_slug': law_slug,
-                'source_article_id': article_id,
-                'target_law_slug': target_slug,
-                'target_article_num': ref.article_num,
-                'reference_text': ref.text,
-                'fraction': ref.fraction,
-                'confidence': ref.confidence,
-                'start_position': ref.start_pos,
-                'end_position': ref.end_pos,
+                "source_law_slug": law_slug,
+                "source_article_id": article_id,
+                "target_law_slug": target_slug,
+                "target_article_num": ref.article_num,
+                "reference_text": ref.text,
+                "fraction": ref.fraction,
+                "confidence": ref.confidence,
+                "start_position": ref.start_pos,
+                "end_position": ref.end_pos,
             }
             all_references.append(ref_dict)
 

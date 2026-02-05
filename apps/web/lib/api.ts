@@ -1,4 +1,17 @@
-import type { Law, LawListItem, SearchResponse, DashboardStats, LawArticleResponse } from "@leyesmx/lib";
+import type { Law, LawListItem, SearchResponse, DashboardStats, LawArticleResponse, IngestionStatus } from "@leyesmx/lib";
+
+interface LawStructureNode {
+    label: string;
+    children: LawStructureNode[];
+}
+
+interface AdminMetricsResponse {
+    total_laws: number;
+    counts: { federal: number; state: number };
+    top_categories: { category: string; count: number }[];
+    quality_distribution: Record<string, number> | null;
+    last_updated: string;
+}
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
@@ -136,23 +149,23 @@ export const api = {
     /**
      * Get structure (books, titles, chapters) for a law
      */
-    getLawStructure: async (lawId: string): Promise<{ law_id: string; structure: any[] }> => {
-        return fetcher<{ law_id: string; structure: any[] }>(`/laws/${lawId}/structure/`);
+    getLawStructure: async (lawId: string): Promise<{ law_id: string; structure: LawStructureNode[] }> => {
+        return fetcher<{ law_id: string; structure: LawStructureNode[] }>(`/laws/${lawId}/structure/`);
     },
 
     /**
      * Admin Dashboard endpoints
      */
     getAdminMetrics: async () => {
-        return fetcher<any>('/admin/metrics/');
+        return fetcher<AdminMetricsResponse>('/admin/metrics/');
     },
 
     getJobStatus: async () => {
-        return fetcher<any>('/admin/jobs/status/');
+        return fetcher<IngestionStatus>('/admin/jobs/status/');
     },
 
     listJobs: async () => {
-        return fetcher<any>('/admin/jobs/');
+        return fetcher<{ jobs: IngestionStatus[] }>('/admin/jobs/');
     },
 
 };

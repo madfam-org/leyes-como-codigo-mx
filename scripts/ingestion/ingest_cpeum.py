@@ -1,11 +1,12 @@
-import sys
-import os
 import datetime
+import os
+import sys
 
 # Add project root to path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 from apps.parsers.bluebell import BluebellLite
+
 
 def ingest_cpeum():
     """
@@ -13,7 +14,7 @@ def ingest_cpeum():
     """
     uri = "/mx/fed/const/1917/02/05/cpeum"
     pub_date = datetime.date(1917, 2, 5)
-    
+
     # Text of Article 1 (Shortened for example)
     art_1_text = (
         "En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos "
@@ -24,19 +25,24 @@ def ingest_cpeum():
     )
 
     print(f"Initializing Bluebell for {uri}...")
-    bluebell = BluebellLite(frbr_uri=uri, title="Constitución Política de los Estados Unidos Mexicanos", date=pub_date)
-    
+    bluebell = BluebellLite(
+        frbr_uri=uri,
+        title="Constitución Política de los Estados Unidos Mexicanos",
+        date=pub_date,
+    )
+
     print("Adding Article 1...")
     bluebell.add_article("art-1", art_1_text)
 
     output_path = "data/federal/mx-fed-const-cpeum.xml"
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    
+
     print(f"Writing to {output_path}...")
     with open(output_path, "w") as f:
         f.write(bluebell.to_xml_string())
-    
+
     print("Done.")
+
 
 if __name__ == "__main__":
     ingest_cpeum()

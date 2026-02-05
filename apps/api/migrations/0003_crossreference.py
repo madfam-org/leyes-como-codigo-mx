@@ -6,30 +6,78 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('api', '0002_law_municipality'),
+        ("api", "0002_law_municipality"),
     ]
 
     operations = [
         migrations.CreateModel(
-            name='CrossReference',
+            name="CrossReference",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('source_law_slug', models.CharField(db_index=True, max_length=255)),
-                ('source_article_id', models.CharField(db_index=True, max_length=100)),
-                ('target_law_slug', models.CharField(blank=True, db_index=True, max_length=255, null=True)),
-                ('target_article_num', models.CharField(blank=True, max_length=100, null=True)),
-                ('reference_text', models.TextField(help_text='Original text of the reference')),
-                ('fraction', models.CharField(blank=True, help_text='Fraction number if specified', max_length=20, null=True)),
-                ('confidence', models.FloatField(help_text='Detection confidence score (0-1)')),
-                ('start_position', models.IntegerField(help_text='Start position in article text')),
-                ('end_position', models.IntegerField(help_text='End position in article text')),
-                ('created_at', models.DateTimeField(auto_now_add=True)),
-                ('updated_at', models.DateTimeField(auto_now=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("source_law_slug", models.CharField(db_index=True, max_length=255)),
+                ("source_article_id", models.CharField(db_index=True, max_length=100)),
+                (
+                    "target_law_slug",
+                    models.CharField(
+                        blank=True, db_index=True, max_length=255, null=True
+                    ),
+                ),
+                (
+                    "target_article_num",
+                    models.CharField(blank=True, max_length=100, null=True),
+                ),
+                (
+                    "reference_text",
+                    models.TextField(help_text="Original text of the reference"),
+                ),
+                (
+                    "fraction",
+                    models.CharField(
+                        blank=True,
+                        help_text="Fraction number if specified",
+                        max_length=20,
+                        null=True,
+                    ),
+                ),
+                (
+                    "confidence",
+                    models.FloatField(help_text="Detection confidence score (0-1)"),
+                ),
+                (
+                    "start_position",
+                    models.IntegerField(help_text="Start position in article text"),
+                ),
+                (
+                    "end_position",
+                    models.IntegerField(help_text="End position in article text"),
+                ),
+                ("created_at", models.DateTimeField(auto_now_add=True)),
+                ("updated_at", models.DateTimeField(auto_now=True)),
             ],
             options={
-                'db_table': 'cross_references',
-                'ordering': ['start_position'],
-                'indexes': [models.Index(fields=['source_law_slug', 'source_article_id'], name='cross_refer_source__e39d81_idx'), models.Index(fields=['target_law_slug', 'target_article_num'], name='cross_refer_target__b7c847_idx'), models.Index(fields=['confidence'], name='cross_refer_confide_92b842_idx')],
+                "db_table": "cross_references",
+                "ordering": ["start_position"],
+                "indexes": [
+                    models.Index(
+                        fields=["source_law_slug", "source_article_id"],
+                        name="cross_refer_source__e39d81_idx",
+                    ),
+                    models.Index(
+                        fields=["target_law_slug", "target_article_num"],
+                        name="cross_refer_target__b7c847_idx",
+                    ),
+                    models.Index(
+                        fields=["confidence"], name="cross_refer_confide_92b842_idx"
+                    ),
+                ],
             },
         ),
     ]

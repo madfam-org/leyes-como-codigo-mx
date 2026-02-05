@@ -1,11 +1,11 @@
-
 import sys
+
 from lxml import etree
 
 xml_path = "data/federal/mx-fed-cff-v2.xml"
 tree = etree.parse(xml_path)
 root = tree.getroot()
-ns = {'akn': 'http://docs.oasis-open.org/legaldocml/ns/akn/3.0'}
+ns = {"akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0"}
 
 print(f"Root tag: {root.tag}")
 articles = root.findall(".//akn:article", ns)

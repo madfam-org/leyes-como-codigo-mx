@@ -1,6 +1,6 @@
-
 import datetime
 from typing import Optional
+
 
 class DofScraper:
     """
@@ -29,12 +29,14 @@ class DofScraper:
         # Process editions...
         return editions
 
+
 if __name__ == "__main__":
     import argparse
+
     parser = argparse.ArgumentParser(description="Fetch DOF daily edition")
     parser.add_argument("--date", type=str, help="Date in YYYY-MM-DD format")
     args = parser.parse_args()
-    
+
     target_date = datetime.date.fromisoformat(args.date) if args.date else None
     scraper = DofScraper(date=target_date)
     scraper.run()

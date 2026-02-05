@@ -298,7 +298,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                     <div className="space-y-3">
                         <div>
                             <Label htmlFor="title_filter" className="mb-2 block text-xs font-medium text-muted-foreground">
-                                Título (ej. "TÍTULO I")
+                                Título (ej. &quot;TÍTULO I&quot;)
                             </Label>
                             <Input
                                 id="title_filter"
@@ -311,7 +311,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                         
                         <div>
                             <Label htmlFor="chapter_filter" className="mb-2 block text-xs font-medium text-muted-foreground">
-                                Capítulo (ej. "CAPÍTULO I")
+                                Capítulo (ej. &quot;CAPÍTULO I&quot;)
                             </Label>
                             <Input
                                 id="chapter_filter"

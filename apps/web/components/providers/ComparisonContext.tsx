@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createContext, useContext, useState, useEffect } from 'react';
+import React, { createContext, useContext, useState, useEffect, useRef } from 'react';
 
 interface ComparisonContextType {
     selectedLaws: string[];
@@ -11,23 +11,26 @@ interface ComparisonContextType {
 
 const ComparisonContext = createContext<ComparisonContextType | undefined>(undefined);
 
-export function ComparisonProvider({ children }: { children: React.ReactNode }) {
-    const [selectedLaws, setSelectedLaws] = useState<string[]>([]);
-
-    // Load from localStorage on mount
-    useEffect(() => {
+function getInitialLaws(): string[] {
+    if (typeof window === 'undefined') return [];
+    try {
         const stored = localStorage.getItem('comparison_selected_laws');
-        if (stored) {
-            try {
-                setSelectedLaws(JSON.parse(stored));
-            } catch (e) {
-                console.error("Failed to parse selected laws", e);
-            }
-        }
-    }, []);
+        return stored ? JSON.parse(stored) : [];
+    } catch {
+        return [];
+    }
+}
 
-    // Save to localStorage on change
+export function ComparisonProvider({ children }: { children: React.ReactNode }) {
+    const [selectedLaws, setSelectedLaws] = useState<string[]>(getInitialLaws);
+    const isInitialMount = useRef(true);
+
+    // Save to localStorage on change (skip initial mount)
     useEffect(() => {
+        if (isInitialMount.current) {
+            isInitialMount.current = false;
+            return;
+        }
         localStorage.setItem('comparison_selected_laws', JSON.stringify(selectedLaws));
     }, [selectedLaws]);
 

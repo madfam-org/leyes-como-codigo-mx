@@ -46,7 +46,7 @@ import { ErrorBoundary } from "@/components/ErrorBoundary";
 export default function RootLayout({
   children,
 }: Readonly<{
-  children: any;
+  children: React.ReactNode;
 }>) {
   return (
     <html lang="es" suppressHydrationWarning>

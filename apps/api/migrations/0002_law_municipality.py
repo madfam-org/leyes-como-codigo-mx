@@ -6,13 +6,18 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('api', '0001_initial'),
+        ("api", "0001_initial"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='law',
-            name='municipality',
-            field=models.CharField(blank=True, help_text='Municipality name for municipal laws', max_length=100, null=True),
+            model_name="law",
+            name="municipality",
+            field=models.CharField(
+                blank=True,
+                help_text="Municipality name for municipal laws",
+                max_length=100,
+                null=True,
+            ),
         ),
     ]

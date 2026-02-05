@@ -88,5 +88,5 @@ export interface IngestionStatus {
     message: string;
     timestamp: string;
     progress?: number;
-    params?: any;
+    params?: Record<string, unknown>;
 }

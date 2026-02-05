@@ -2,25 +2,16 @@
 
 import { useEffect, useState } from 'react';
 import { api } from '@/lib/api';
+import type { IngestionStatus } from '@leyesmx/lib';
 import { PlayCircle, CheckCircle, AlertCircle, Clock } from 'lucide-react';
-import { Button } from '@leyesmx/ui';
-
-interface Job {
-    id: string;
-    status: 'idle' | 'running' | 'completed' | 'error';
-    message?: string;
-    timestamp?: string;
-    progress?: number;
-}
 
 export function JobQueue() {
-    const [jobs, setJobs] = useState<Job[]>([]);
+    const [jobs, setJobs] = useState<IngestionStatus[]>([]);
     const [loading, setLoading] = useState(true);
 
     const fetchJobs = async () => {
         try {
             const data = await api.listJobs();
-            // Backend returns { jobs: [...] }
             setJobs(data.jobs || []);
         } catch (err) {
             console.error('Failed to fetch jobs:', err);
@@ -49,8 +40,8 @@ export function JobQueue() {
 
     return (
         <div className="space-y-4">
-            {jobs.map((job) => (
-                <div key={job.id} className="border rounded-lg p-4 bg-card flex items-center justify-between">
+            {jobs.map((job, index) => (
+                <div key={job.timestamp || index} className="border rounded-lg p-4 bg-card flex items-center justify-between">
                     <div className="flex items-start gap-3">
                         {job.status === 'running' && <PlayCircle className="text-blue-500 mt-1" />}
                         {job.status === 'completed' && <CheckCircle className="text-green-500 mt-1" />}
