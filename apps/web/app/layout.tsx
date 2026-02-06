@@ -40,7 +40,9 @@ export const viewport: Viewport = {
 import { ThemeProvider } from "@/components/theme-provider";
 import { ModeToggle } from "@/components/mode-toggle";
 import { ComparisonProvider } from "@/components/providers/ComparisonContext";
+import { LanguageProvider } from "@/components/providers/LanguageContext";
 import ComparisonFloatingBar from "@/components/ComparisonFloatingBar";
+import { Footer } from "@/components/Footer";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
 
 export default function RootLayout({
@@ -60,13 +62,16 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <ErrorBoundary>
-            <ComparisonProvider>
-              <div className="fixed top-3 right-3 sm:top-4 sm:right-4 z-50">
-                <ModeToggle />
-              </div>
-              {children}
-              <ComparisonFloatingBar />
-            </ComparisonProvider>
+            <LanguageProvider>
+              <ComparisonProvider>
+                <div className="fixed top-3 right-3 sm:top-4 sm:right-4 z-50">
+                  <ModeToggle />
+                </div>
+                {children}
+                <Footer />
+                <ComparisonFloatingBar />
+              </ComparisonProvider>
+            </LanguageProvider>
           </ErrorBoundary>
         </ThemeProvider>
       </body>

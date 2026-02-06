@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "last_updated": "2026-02-05",
+  "version": "2.0",
+  "last_updated": "2026-02-06",
   "methodology": "Only includes counts verified from official government sources. Each source entry includes the URL, institution name, and date of last verification. 'known_count' is null when no official census exists for that category.",
   "sources": {
     "federal_leyes_vigentes": {
@@ -41,6 +41,60 @@
       "last_verified": "2026-02-03",
       "confidence": "low",
       "notes": "No authoritative census of municipal legislation exists. INEGI reports 2,468 municipalities. Only 5 tier-1 city portals have been scraped so far."
+    },
+    "federal_reglamentos": {
+      "known_count": 800,
+      "scraped_count": 0,
+      "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regla.htm",
+      "source_name": "Cámara de Diputados - Reglamentos",
+      "last_verified": "2026-02-06",
+      "confidence": "medium",
+      "notes": "Federal regulations implementing specific laws. Published on the same Cámara de Diputados portal as Tier 1 laws."
+    },
+    "federal_noms": {
+      "known_count": null,
+      "scraped_count": 0,
+      "source_url": "https://www.gob.mx/conamer",
+      "source_name": "CONAMER - NOMs",
+      "last_verified": "2026-02-06",
+      "confidence": "low",
+      "notes": "Normas Oficiales Mexicanas. No definitive count available; estimated 4,000+ across all secretarías."
+    },
+    "conamer_cnartys": {
+      "known_count": 113373,
+      "scraped_count": 0,
+      "source_url": "https://cnartys.conamer.gob.mx/",
+      "source_name": "CONAMER CNARTyS - Catálogo Nacional de Regulaciones",
+      "last_verified": "2026-02-06",
+      "confidence": "medium",
+      "notes": "National regulatory catalog including all types of federal and state secondary instruments. Count may overlap with other sources."
+    },
+    "judicial_jurisprudencia": {
+      "known_count": 60000,
+      "scraped_count": 0,
+      "source_url": "https://sjf.scjn.gob.mx/",
+      "source_name": "SCJN - Semanario Judicial de la Federación",
+      "last_verified": "2026-02-06",
+      "confidence": "high",
+      "notes": "Binding judicial precedent (jurisprudencia por reiteración, contradicción, sustitución). Count is for 10th epoch."
+    },
+    "judicial_tesis_aisladas": {
+      "known_count": 440000,
+      "scraped_count": 0,
+      "source_url": "https://sjf.scjn.gob.mx/",
+      "source_name": "SCJN - Tesis Aisladas",
+      "last_verified": "2026-02-06",
+      "confidence": "medium",
+      "notes": "Non-binding isolated court opinions. Estimated count across all epochs."
+    },
+    "international_treaties": {
+      "known_count": 1500,
+      "scraped_count": 0,
+      "source_url": "https://tratados.sre.gob.mx/",
+      "source_name": "SRE - Tratados Internacionales",
+      "last_verified": "2026-02-06",
+      "confidence": "medium",
+      "notes": "Bilateral and multilateral treaties ratified by Mexico. Per SCJN, these sit above federal laws in the hierarchy."
     }
   },
   "coverage_views": {
@@ -62,6 +116,35 @@
         {"key": "state_legislativo", "count_field": "scraped_count"},
         {"key": "state_non_legislativo", "count_field": "scraped_count"}
       ]
+    },
+    "normatividad_primaria": {
+      "label": "Normatividad Primaria (Tiers 1-4)",
+      "description": "All legislation from federal, state (all powers), and municipal levels. Excludes secondary regulations, judicial corpus, and treaties.",
+      "universe": 36116,
+      "components": [
+        {"key": "federal_leyes_vigentes", "count_field": "scraped_count"},
+        {"key": "state_legislativo", "count_field": "scraped_count"},
+        {"key": "state_non_legislativo", "count_field": "scraped_count"},
+        {"key": "municipal", "count_field": "scraped_count"}
+      ],
+      "notes": "Universe count excludes municipal (unknown universe). Actual universe is 36,116 + unknown municipal."
+    },
+    "marco_juridico_total": {
+      "label": "Marco Jurídico Total (All Tiers)",
+      "description": "Entire known Mexican legal framework across all 7 tiers: legislation, secondary regulations, judicial corpus, and international treaties.",
+      "universe": 651533,
+      "components": [
+        {"key": "federal_leyes_vigentes", "count_field": "scraped_count"},
+        {"key": "state_legislativo", "count_field": "scraped_count"},
+        {"key": "state_non_legislativo", "count_field": "scraped_count"},
+        {"key": "municipal", "count_field": "scraped_count"},
+        {"key": "federal_reglamentos", "count_field": "scraped_count"},
+        {"key": "conamer_cnartys", "count_field": "scraped_count"},
+        {"key": "judicial_jurisprudencia", "count_field": "scraped_count"},
+        {"key": "judicial_tesis_aisladas", "count_field": "scraped_count"},
+        {"key": "international_treaties", "count_field": "scraped_count"}
+      ],
+      "notes": "Universe is approximate. Municipal count unknown. CONAMER count may overlap with federal_reglamentos and federal_noms. Judicial count includes all epochs."
     }
   }
 }

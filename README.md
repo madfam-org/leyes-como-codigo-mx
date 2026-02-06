@@ -64,6 +64,10 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **OpenAPI Documentation** - Swagger UI, ReDoc at `/api/docs/`
 - ✅ **Background Processing** - Celery + Redis for ingestion jobs
 - ✅ **Cross-References** - Automatic detection and linking between laws
+- ✅ **Legal Pages** - Terms & Conditions, Legal Disclaimer, Privacy Policy (bilingual ES/EN)
+- ✅ **Site Footer** - Persistent navigation, official source links, disclaimer bar
+- ✅ **Disclaimer Banner** - Dismissable one-time homepage notice (localStorage persistence)
+- ✅ **Bilingual Support** - ES/EN language toggle for legal pages and footer (law content remains Spanish)
 
 ## Architecture
 
@@ -120,6 +124,8 @@ This project uses a monorepo architecture managed by NPM Workspaces.
 - ✅ Dynamic Homepage Dashboard
 - ✅ Law Detail Page 2.0
 - ✅ Advanced Search Filters (Date Range)
+- ✅ Legal Pages (Terms, Disclaimer, Privacy) — bilingual ES/EN
+- ✅ Site Footer + Disclaimer Banner
 - 🔄 Comparison Tool
 
 **Phase 3: Municipal Laws** - 📋 PLANNED (Q2 2026)

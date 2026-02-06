@@ -1,6 +1,6 @@
 # Leyes Como Código - Product Roadmap
 
-**Last Updated**: 2026-02-05
+**Last Updated**: 2026-02-06
 **Current Status**: 87% Coverage (11,667 laws)
 **Data Motor**: Pipeline fix in progress (state/municipal AKN parsing + unified indexer)
 **DataOps**: Protocol implemented (gap tracking, health monitoring, coverage dashboard)
@@ -86,6 +86,10 @@
 - ✅ **Homepage**: Gorgeous first impression with live stats and dashboard
 - ✅ **Search**: Advanced filters (Date Range), autocomplete, previews
 - ✅ **Law Detail**: Rich pages with versions, citations, downloads (v2.0)
+- ✅ **Legal Pages**: Terms & Conditions (`/terminos`), Legal Disclaimer (`/aviso-legal`), Privacy Policy (`/privacidad`)
+- ✅ **Site Footer**: 4-column navigation, official source links, disclaimer bar, copyright
+- ✅ **Disclaimer Banner**: Dismissable homepage warning (localStorage persistence)
+- ✅ **Bilingual Toggle**: ES/EN language switch for legal pages and footer
 - 🔄 **Comparison Tool**: Side-by-side law comparison (killer feature)
 - 🔄 **Mobile**: Fully responsive design
 - 🔄 **Dark Mode**: Complete theme support
@@ -136,26 +140,44 @@
 
 ---
 
+## Current Sprint: Data Universe Documentation & OJN Expansion
+
+**Sprint Goal**: Document the full Mexican legal framework universe (~670K+ instruments), establish partnership contacts, and execute the highest-ROI data expansion (OJN poderes 1/3/4).
+
+**Status**: In Progress
+
+| # | Task | Status | Notes |
+|---|------|--------|-------|
+| 1 | Create `docs/data/MEXICAN_LEGAL_UNIVERSE.md` (7-tier taxonomy) | Done | ~670K+ instruments documented |
+| 2 | Create `docs/data/PARTNERSHIP_DIRECTORY.md` (18+ institutions) | Done | Federal, state, academic, civil society |
+| 3 | Expand `data/universe_registry.json` to v2.0 (tiers 5-7) | Done | +6 new sources, +2 coverage views |
+| 4 | Update escalation playbook for post-INAI dissolution | Done | INAI → Anticorrupción, Template 4 added |
+| 5 | Create `scripts/scraping/bulk_non_legislative_scraper.py` | Done | Highest-ROI: +23,660 laws |
+| 6 | Run OJN poderes 1/3/4 scrape (all 32 states) | Pending | ~12-24 hour runtime |
+| 7 | Post-scrape: update registry, ingest, re-index | Pending | After step 6 completes |
+
+---
+
 ## Next Sprint: Data Expansion + Search Quality
 
 **Sprint Goal**: Expand data coverage and improve search quality once the pipeline is running.
 
 | # | Task | Priority | Notes |
 |---|------|----------|-------|
-| 1 | OJN powers 1/3/4 scraper extension (23,660 state laws) | High | Needs OJN scraper modification |
-| 2 | Municipal scraper: Guadalajara + Monterrey content download | High | Content download now implemented |
+| 1 | Municipal scraper: Guadalajara + Monterrey content download | High | Content download now implemented |
+| 2 | Federal Reglamentos scraper (diputados.gob.mx/LeyesBiblio/regla.htm) | High | ~800 instruments, similar portal to Tier 1 |
 | 3 | ES search quality: spanish_legal analyzer tuning, synonym list | Medium | -- |
 | 4 | DOF daily monitoring scraper (replace stub) | Medium | -- |
-| 5 | Federal Reglamentos scraper (diputados.gob.mx separate page) | Medium | -- |
+| 5 | CONAMER CNARTyS integration exploration | Medium | 113,373 regulations — assess API/bulk access |
 | 6 | Embeddings/vector search integration | Low | -- |
 | 7 | Coverage dashboard: admin UI integration | Low | -- |
 
 **Backlog (Future Sprints):**
 - Remaining 25+ municipal scraper implementations (Tier 2: state capitals)
 - State Periodicos Oficiales scrapers
-- SCJN Jurisprudencia scraper
+- SCJN Jurisprudencia scraper (~500K judicial instruments)
 - SIL legislative tracking integration
-- International Treaties (Senado)
+- International Treaties — SRE (~1,500 treaties)
 - Comparison tool UI (Phase 3 remainder)
 - Auto-update system (DOF monitoring → parse → ingest → index cycle)
 
@@ -299,7 +321,7 @@
 ### Business Risks
 - ⚠️ **Monetization**: Mitigation = freemium API, partnerships
 - ⚠️ **Competition**: Mitigation = open source, quality focus
-- ⚠️ **Legal liability**: Mitigation = disclaimers, official sources
+- ⚠️ **Legal liability**: Mitigation = disclaimers (implemented), official sources, terms & conditions
 
 ---
 
@@ -320,6 +342,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## Documentation
 
 - **[Strategic Overview](docs/strategy/STRATEGIC_OVERVIEW.md)**: Comprehensive vision and architecture
+- **[Mexican Legal Universe](docs/data/MEXICAN_LEGAL_UNIVERSE.md)**: Complete 7-tier taxonomy (~670K+ instruments)
+- **[Partnership Directory](docs/data/PARTNERSHIP_DIRECTORY.md)**: Institutional contacts, legal obligations, FOIA reference
+- **[Escalation Playbook](docs/dataops/ESCALATION_PLAYBOOK.md)**: 5-tier data acquisition escalation process
 - **[State Laws Report](docs/research/STATE_LAW_SCRAPING_REPORT.md)**: 4-week state processing plan
 - **[Ingestion Fixes](docs/research/INGESTION_FIXES.md)**: Pipeline improvements
 - **[OJN Strategy](docs/research/OJN_SCRAPING_STRATEGY.md)**: State law scraping guide

@@ -3,10 +3,12 @@ import { JurisdictionCards } from '@/components/JurisdictionCards';
 import { DashboardStatsGrid, RecentLawsList } from '@/components/DashboardStats';
 import { PopularLaws } from '@/components/PopularLaws';
 import { DynamicFeatures } from '@/components/DynamicFeatures';
+import { DisclaimerBanner } from '@/components/DisclaimerBanner';
 
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-background">
+      <DisclaimerBanner />
       <Hero />
 
       <div className="container mx-auto px-4 sm:px-6 -mt-10 relative z-10">

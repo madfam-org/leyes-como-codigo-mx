@@ -43,7 +43,7 @@ Backend (Django):  ✅ Stable
 Database:          ✅ PostgreSQL production-ready
 Search:            ✅ Elasticsearch operational
 Scraping:          ✅ OJN pipeline functional
-Frontend (Next):   ⚠️  Basic (needs enhancement)
+Frontend (Next):   🔄 Phase 3 UI/UX in progress (legal pages, footer, disclaimer done)
 Admin Panel:       🔄 In development
 ```
 
@@ -478,7 +478,7 @@ Pág. 1 of 5    [<]  1  2  3  4  5  [>]
 - Annotate & bookmark
 - Share specific articles (deep links)
 - AI-powered summaries
-- Translation (EN/ES toggle)
+- Translation (EN/ES toggle — implemented for legal pages and footer; law content remains Spanish-only)
 
 ##### Comparison Tool (Killer Feature)
 
@@ -586,13 +586,15 @@ Vigentes:   ██████████████████░░░  93.
 **Effort**: High
 
 **Tasks**:
-1. Complete design system (colors, typography, components)
-2. Homepage redesign (gorgeous first impression)
-3. Enhanced search page (filters, previews, highlights)
-4. Rich law detail pages (versions, citations, downloads)
-5. Comparison tool (killer feature)
-6. Mobile optimization
-7. Dark mode
+1. ✅ Complete design system (colors, typography, components)
+2. ✅ Homepage redesign (gorgeous first impression)
+3. ✅ Enhanced search page (filters, previews, highlights)
+4. ✅ Rich law detail pages (versions, citations, downloads)
+5. ✅ Legal pages (Terms, Disclaimer, Privacy) — bilingual ES/EN
+6. ✅ Site footer + disclaimer banner
+7. 🔄 Comparison tool (killer feature)
+8. 🔄 Mobile optimization
+9. 🔄 Dark mode
 
 ### Priority 3: Admin Panel Completion ⭐⭐
 
@@ -717,8 +719,11 @@ Vigentes:   ██████████████████░░░  93.
 **Risk**: Copyright issues with law publication  
 **Mitigation**: Public domain, official sources only, legal counsel
 
-**Risk**: Data accuracy complaints  
+**Risk**: Data accuracy complaints
 **Mitigation**: Quality metrics, error reporting, version control
+
+**Risk**: Legal liability from user reliance
+**Mitigation**: Terms & Conditions (`/terminos`), Legal Disclaimer (`/aviso-legal`), dismissable homepage banner, footer disclaimer bar — all bilingual
 
 ---
 
@@ -740,6 +745,6 @@ Vigentes:   ██████████████████░░░  93.
 
 ---
 
-**Document Version**: 1.0  
-**Last Updated**: 2026-02-03  
-**Next Review**: 2026-03-03
+**Document Version**: 1.1
+**Last Updated**: 2026-02-06
+**Next Review**: 2026-03-06

@@ -141,9 +141,11 @@ Update the result field when a response is received (`"response_received"`, `"da
 
 ---
 
-## Tier 3: FOIA / Transparency Request (PNT / INAI)
+## Tier 3: FOIA / Transparency Request (PNT)
 
 **Precondition**: Government IT contacts are unresponsive or unable to help after Tier 2 follow-ups.
+
+> **Important (March 2025)**: INAI (Instituto Nacional de Transparencia) was dissolved in March 2025. Federal FOIA appeals are now handled by the **Secretaría Anticorrupción y Buen Gobierno** through the "Transparencia para el Pueblo" program. Additionally, **19 of 32 state transparency institutes were dissolved** as of March 2025. For affected states, file appeals through PNT to the federal successor body.
 
 ### Filing a Request
 
@@ -166,10 +168,17 @@ Per the Ley General de Transparencia:
 ### If the Request Is Denied
 
 1. **File an appeal** (recurso de revision) with the appropriate body:
-   - Federal entities: **INAI** (Instituto Nacional de Transparencia, Acceso a la Informacion y Proteccion de Datos Personales).
-   - State entities: The corresponding state transparency commission (e.g., ITEI Jalisco, INFOCDMX, ITAIP Nuevo Leon).
+   - Federal entities: **Secretaría Anticorrupción y Buen Gobierno** (successor to dissolved INAI, March 2025). Appeals filed via PNT and the "Transparencia para el Pueblo" program.
+   - State entities with **active** transparency institutes (13 of 32): The corresponding state commission (e.g., ITEI Jalisco, COTAI Nuevo Leon, IACIP Guanajuato).
+   - State entities **without** active transparency institutes (19 of 32): File appeals through PNT to the federal successor body (Secretaría Anticorrupción y Buen Gobierno).
 2. The appeal must be filed within **15 business days** of receiving the denial.
 3. The reviewing body has **40 business days** to issue a resolution (Articulo 155).
+
+### States with Active Transparency Institutes (13 of 32)
+
+Jalisco (ITEI), Nuevo León (COTAI), Chihuahua (ICHITAIP), Veracruz (IVAI), Sonora (ISTAI), Guanajuato (IACIP), Coahuila (ICAI), Yucatán (INAIP), Puebla (ITAIP), Querétaro (IQCA), Oaxaca (IAIP), Tabasco (ITAIP), Aguascalientes (ITEA).
+
+> **Note**: This list may change. Verify status before filing appeals. See `docs/data/PARTNERSHIP_DIRECTORY.md` for the full reference.
 
 ### Record-Keeping
 
@@ -245,7 +254,7 @@ Set `next_action_date` to 30 business days (approximately 42 calendar days) from
                                    GRANTED        DENIED
                                      |              |
                                      v              v
-                                   [Done]     Appeal to INAI
+                                   [Done]     Appeal to Anticorrupción
                                                 |          |
                                               GRANTED    DENIED
                                                 |          |
@@ -420,6 +429,54 @@ Set `next_action_date` to 30 business days (approximately 42 calendar days) from
 
 ---
 
+### Template 4: CONAMER Regulatory Data Access Request
+
+**Purpose**: Request bulk access to the national regulatory catalog (CNARTyS) from CONAMER.
+
+**Use when**: Exploring Tier 5 data acquisition (federal secondary instruments: reglamentos, NOMs, acuerdos, lineamientos).
+
+**Language**: Spanish (required for government correspondence).
+
+---
+
+> **Asunto**: Solicitud de acceso a datos del Catalogo Nacional de Regulaciones, Tramites y Servicios (CNARTyS)
+>
+> Estimada Comision Nacional de Mejora Regulatoria (CONAMER):
+>
+> Por medio de la presente, y con fundamento en los articulos 6 y 8 de la Constitucion Politica de los Estados Unidos Mexicanos, asi como en los articulos 4 y 70 fraccion I de la Ley General de Transparencia y Acceso a la Informacion Publica, me permito solicitar la siguiente informacion:
+>
+> **Informacion solicitada**:
+>
+> 1. Acceso al catalogo completo de regulaciones contenidas en el sistema CNARTyS (https://cnartys.conamer.gob.mx/), preferentemente mediante:
+>    a. Una API de consulta publica (si existe), con documentacion de uso.
+>    b. Descarga masiva (bulk download) del catalogo en formato estructurado (JSON, CSV o XML).
+>    c. En caso de no existir los medios anteriores, un extracto del catalogo con: nombre de la regulacion, tipo normativo, dependencia emisora, fecha de publicacion en DOF, y estatus de vigencia.
+>
+> 2. Taxonomia de clasificacion utilizada por CNARTyS para categorizar los instrumentos regulatorios (tipos normativos, materias, dependencias, niveles de gobierno).
+>
+> 3. Informacion sobre la frecuencia de actualizacion del catalogo y el numero total de registros actualmente contenidos en el sistema.
+>
+> **Contexto y proposito**:
+>
+> Esta solicitud se realiza en el marco del proyecto de datos abiertos "Leyes como Codigo Mexico", cuyo objetivo es facilitar el acceso ciudadano a la normatividad mexicana en formatos abiertos y estructurados. El catalogo CNARTyS representa una fuente fundamental para documentar la normatividad secundaria del marco juridico mexicano.
+>
+> **Fundamento legal**:
+>
+> El articulo 76 de la Ley General de Mejora Regulatoria establece que el Catalogo Nacional de Regulaciones es de caracter publico. El articulo 70 fraccion I de la LGTAIP requiere que los sujetos obligados publiquen su marco normativo aplicable.
+>
+> **Formato de entrega preferido**: Datos estructurados (JSON, CSV o XML) mediante enlace de descarga o API.
+>
+> Agradezco de antemano su atencion a la presente solicitud.
+>
+> Atentamente,
+>
+> [NOMBRE COMPLETO]
+> [CORREO ELECTRONICO]
+> Proyecto Leyes como Codigo Mexico
+> [URL DEL PROYECTO]
+
+---
+
 ## Operational Notes
 
 ### Priority Assignment
@@ -446,7 +503,11 @@ Gaps are assigned a priority from 1 (highest) to 5 (lowest) based on impact:
 
 ### Known High-Priority Gaps (as of February 2026)
 
+- **OJN Poderes 1/3/4 expansion** (HIGHEST ROI): +23,660 laws with existing scraper infrastructure. Script: `scripts/scraping/bulk_non_legislative_scraper.py`. Uses `OJNScraper.scrape_state_comprehensive()` with `power_ids=[1, 3, 4]`. Zero infrastructure changes needed.
 - **782 permanent dead links on OJN**: Michoacan (504), Estado de Mexico (141), San Luis Potosi (47), remaining states (<30 each).
-- **23,660 laws in OJN powers 1/3/4**: State-level Ejecutivo, Judicial, and Organismos Autonomos legislation not yet downloaded.
 - **Low-count states**: Durango (1), Quintana Roo (1), Baja California (1), Hidalgo (38) -- likely incomplete OJN data rather than actual counts.
+- **CONAMER CNARTyS**: ~113,373 regulations cataloged at cnartys.conamer.gob.mx -- potential scraping or API integration target.
+- **Federal Reglamentos**: ~800 regulations at diputados.gob.mx/LeyesBiblio/regla.htm -- quick win using existing portal access.
 - **Missing scrapers**: DOF daily monitoring, NOMs, SCJN Jurisprudencia, state Periodicos Oficiales.
+
+See `docs/data/MEXICAN_LEGAL_UNIVERSE.md` for the complete 7-tier taxonomy and `docs/data/PARTNERSHIP_DIRECTORY.md` for institutional contacts.
