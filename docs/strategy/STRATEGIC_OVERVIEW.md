@@ -41,10 +41,11 @@ All numbers sourced from `data/universe_registry.json`.
 ```
 Backend (Django):  ✅ Stable
 Database:          ✅ PostgreSQL production-ready
-Search:            ✅ Elasticsearch operational
+Search:            ✅ Elasticsearch operational (860K+ articles)
 Scraping:          ✅ OJN pipeline functional
-Frontend (Next):   🔄 Phase 3 UI/UX in progress (legal pages, footer, disclaimer done)
+Frontend (Next):   🔄 Phase 3 UI/UX in progress (hardening sprint done; comparison tool, mobile, dark mode remaining)
 Admin Panel:       🔄 In development
+DataOps:           ✅ Gap tracking, health monitoring, coverage dashboard operational
 ```
 
 ---
@@ -80,7 +81,7 @@ Admin Panel:       🔄 In development
         ┌────────▼──┐    ┌────▼────────┐
         │PostgreSQL │    │Elasticsearch│  Port 9200
         │   DB      │    │   Search    │  Full-text
-        │ 11,667    │    │ 53,777      │  index
+        │ 11,904    │    │ 860,000+    │  index
         │  laws     │    │  articles   │
         └───────────┘    └─────────────┘
 
@@ -232,21 +233,18 @@ leyes-como-codigo-mx/
 ✅ 333 federal laws ingested (99.1% of 336)
 ✅ Test suite
 
-### Phase 2: State Expansion 🔄 IN PROGRESS
+### Phase 2: State Expansion ✅ COMPLETE
 
-**Status**: Data collected, processing in progress
+**Status**: Complete — 11,363 state laws in database, indexed in Elasticsearch
 
 ✅ OJN scraper built
 ✅ 11,363 state laws downloaded (93.7% of 12,120 OJN Legislativo)
-✅ 4-week processing roadmap  
-🔄 Database schema update (Week 1-2)  
-🔄 State ingestion pipeline (Week 2)  
-⏳ Elasticsearch re-indexing (Week 2-3)  
-⏳ Frontend state filters (Week 3)
+✅ Database schema migration complete
+✅ State ingestion pipeline operational
+✅ Elasticsearch re-indexing complete (860K+ articles)
+✅ Frontend state filters deployed
 
-**ETA**: 4 weeks to production
-
-### Phase 3: Municipal Coverage 📋 PLANNED
+### Phase 3: Municipal Coverage 🔄 IN PROGRESS
 
 **Status**: Design phase (Q2 2026)
 
@@ -694,7 +692,7 @@ Vigentes:   ██████████████████░░░  93.
 
 ### Technical Risks
 
-**Risk**: Elasticsearch performance degradation with 550K+ articles  
+**Risk**: Elasticsearch performance degradation with 860K+ articles  
 **Mitigation**: Cluster scaling, index optimization, caching layer
 
 **Risk**: Database schema migration breaks existing data  

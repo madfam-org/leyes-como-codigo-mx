@@ -1,3 +1,5 @@
+> **Historical Document (Phase 1 — Inception)**: This PRD was written during the project's inception phase. The codebase has since evolved significantly through Phase 2 (State Expansion) and Phase 3 (UI/UX Transformation). For current architecture and status, see [STRATEGIC_OVERVIEW.md](STRATEGIC_OVERVIEW.md).
+
 Based on our research, here is the Product Requirements Document (PRD) for the **`leyes-como-codigo-mx`** repository.
 
 This document outlines the strategy to transform the Mexican legal system from a static collection of PDFs into an isomorphic, executable codebase.

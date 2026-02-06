@@ -1,8 +1,8 @@
 # Leyes Como Código - Product Roadmap
 
 **Last Updated**: 2026-02-06
-**Current Status**: 87% Coverage (11,667 laws)
-**Data Motor**: Pipeline fix in progress (state/municipal AKN parsing + unified indexer)
+**Current Status**: 93.9% Legislative Coverage (11,904 laws)
+**Data Motor**: Pipeline fix complete (state/municipal AKN parsing + unified indexer)
 **DataOps**: Protocol implemented (gap tracking, health monitoring, coverage dashboard)
 
 ---
@@ -16,12 +16,12 @@
 ## Current Status (Feb 2026)
 
 ### ✅ Achievements
-- **11,667 laws** in database (330 federal + 11,337 state)
-- **87% coverage** of Mexican legal system
+- **11,904 laws** in database (333 federal + 11,363 state + 208 municipal)
+- **93.9% legislative coverage** (11,696 of 12,456 leyes vigentes)
 - **98.9% parser accuracy** (world-class quality)
-- **550,000+ articles** indexed and searchable
+- **860,000+ articles** indexed and searchable
 - **Production-ready** backend infrastructure
-- **Full-stack Testing** (Vitest + Pytest)
+- **Full-stack Testing** (72 Vitest + 191 Pytest)
 
 ### 🔄 In Progress
 - UI/UX Transformation (Phase 3)
@@ -32,7 +32,7 @@
 ## Phase 1: Federal Foundation ✅ COMPLETE
 
 **Timeline**: Completed  
-**Coverage**: 330/336 laws (99.1%)
+**Coverage**: 333/336 laws (99.1%)
 
 ### Deliverables
 - ✅ Akoma Ntoso XML parser (98.9% accuracy)
@@ -110,11 +110,11 @@
 
 ---
 
-## Current Sprint: Data Motor (Pipeline Fix) 🔧 IN PROGRESS
+## Completed Sprint: Data Motor (Pipeline Fix) 🔧 DONE
 
 **Sprint Goal**: Fix the broken ingestion/indexing pipeline so all 11,580+ scraped laws flow through scrape → parse → DB → ES end-to-end.
 
-**Status**: In Progress
+**Status**: Complete
 
 | # | Task | Status | Blocker |
 |---|------|--------|---------|
@@ -140,11 +140,11 @@
 
 ---
 
-## Current Sprint: Data Universe Documentation & OJN Expansion
+## Completed Sprint: Data Universe Documentation & OJN Expansion
 
 **Sprint Goal**: Document the full Mexican legal framework universe (~670K+ instruments), establish partnership contacts, and execute the highest-ROI data expansion (OJN poderes 1/3/4).
 
-**Status**: In Progress
+**Status**: Documentation complete; OJN expansion scraper ready (runtime pending)
 
 | # | Task | Status | Notes |
 |---|------|--------|-------|
@@ -155,6 +155,34 @@
 | 5 | Create `scripts/scraping/bulk_non_legislative_scraper.py` | Done | Highest-ROI: +23,660 laws |
 | 6 | Run OJN poderes 1/3/4 scrape (all 32 states) | Pending | ~12-24 hour runtime |
 | 7 | Post-scrape: update registry, ingest, re-index | Pending | After step 6 completes |
+
+---
+
+## Completed Sprint: Hardening Sprint ✅ DONE
+
+**Sprint Goal**: Fix critical UI bugs, clean up dead code, ensure CI passes cleanly.
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Fix broken popular law links on homepage | Done |
+| 2 | Fix double article headings in law detail | Done |
+| 3 | Fix unreadable content rendering | Done |
+| 4 | Resolve ESLint set-state-in-effect warnings | Done |
+| 5 | Black formatting CI fixes | Done |
+
+---
+
+## Completed Sprint: Agent-Friendly Initiative (llms.txt) ✅ DONE
+
+**Sprint Goal**: Create llms.txt/llms-full.txt for AI agent interoperability + refresh all documentation for accuracy.
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Create `llms.txt` (concise agent-consumable project summary) | Done |
+| 2 | Create `llms-full.txt` (expanded version with inlined content) | Done |
+| 3 | Audit and refresh all 21 docs for accuracy | Done |
+| 4 | Update README.md (license, counts, links) | Done |
+| 5 | Update ROADMAP.md (reconcile counts, add sprints) | Done |
 
 ---
 
@@ -187,7 +215,7 @@
 
 **Timeline**: Q2-Q4 2026 (6-12 months)
 **Coverage Target**: +500-2,000 laws
-**Current**: 217 municipal laws scraped (5 tier-1 cities), CDMX fully operational
+**Current**: 208 municipal laws scraped (5 tier-1 cities), CDMX fully operational
 
 ### Tier 1: Major Cities (Q2 2026)
 - **Cities**: CDMX, Guadalajara, Monterrey, Puebla, Tijuana, León

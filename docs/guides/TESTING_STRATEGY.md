@@ -103,3 +103,23 @@ Code cannot merge to `main` unless:
 2. **Logic:** All Catala proofs verify.
 3. **Accuracy:** Output matches the "Oracle" dataset (scraped results from SAT) within a $0.01 MXN tolerance.
 4. **Legal Review:** (Human Step) A maintainer with the `legal-reviewer` tag approves the interpretation.
+
+---
+
+## 6. Current Test Infrastructure (Feb 2026)
+
+### Backend (Pytest)
+- **Location:** `tests/`
+- **Tests:** 191 tests (189 passed, 2 skipped — CalculationApiTests blocked on OpenFisca)
+- **Run:** `poetry run pytest tests/ -v`
+- **Lint:** `poetry run black --check apps/ tests/ scripts/` + `poetry run isort --check-only apps/ tests/ scripts/`
+
+### Frontend (Vitest)
+- **Location:** `apps/web/__tests__/`
+- **Tests:** 72 tests across 12 files
+- **Run:** `cd apps/web && npx vitest run`
+- **Framework:** Vitest + @testing-library/react
+
+> **Note:** The computational law testing layers (Catala proofs, Oracle validation, Legislative Trace) described above are aspirational design targets. The current test suite covers API endpoints, parser functionality, scraper logic, and React components.
+
+*Last verified: 2026-02-06*

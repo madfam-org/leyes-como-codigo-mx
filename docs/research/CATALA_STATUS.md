@@ -91,3 +91,5 @@ The current disable is **acceptable** because:
 - Catala: https://catala-lang.org/
 - OpenFisca: https://openfisca.org/
 - Issue Location: `apps/api/views.py:4`
+
+*Last verified: 2026-02-06 — Status unchanged. OpenFisca blocked on Py3.11/NumPy. `/calculate/` endpoint marked `deprecated=True` in OpenAPI schema.*

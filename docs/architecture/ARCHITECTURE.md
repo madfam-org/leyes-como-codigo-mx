@@ -92,16 +92,18 @@ Every XML file must contain a `<meta>` block defining:
 
 ## 4. Layer 2: The Logic Layer (Executable Code)
 
+> **Status (Feb 2026):** All computational law engines are **experimental/blocked**. Catala runtime is not installed (Python bindings missing). OpenFisca is blocked on Python 3.11/NumPy compatibility. The `/calculate/` API endpoint returns a "temporarily disabled" placeholder. See [CATALA_STATUS.md](../research/CATALA_STATUS.md) for details.
+
 Code in this layer is **derived** from Layer 1. It is not the law; it is a *representation* of the law.
 
-### 4.1 Catala (Fiscal Logic)
+### 4.1 Catala (Fiscal Logic) — *Experimental*
 
 * **Location:** `/engines/catala/`
 * **Mapping:** One `.catala` file per Title or Chapter of a tax law.
 * **Output:** The Catala compiler generates a Python module inside `/engines/openfisca/`.
 * **Constraint:** You cannot manually edit the generated Python files. You must edit the `.catala` source.
 
-### 4.2 Blawx (General Rules)
+### 4.2 Blawx (General Rules) — *Experimental*
 
 * **Location:** `/engines/blawx/`
 * **Mapping:** Used for logic that requires "Defeasible Reasoning" (rules with exceptions).

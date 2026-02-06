@@ -1,0 +1,778 @@
+# Leyes Como Código MX
+
+> Mexican open law platform providing machine-readable access to 11,904 laws (333 federal + 11,363 state + 208 municipal) covering 93.9% of Mexico's legislative corpus. Monorepo: Next.js 15/16 frontend, Django 5 REST API, Elasticsearch 7.17 search, Akoma Ntoso XML parsing (98.9% accuracy). License: AGPL-3.0.
+
+This is the repository for Leyes Como Código México, an open-source legal research platform that digitizes the Mexican legal system. The codebase is a polyglot monorepo managed by NPM Workspaces (frontend) and Poetry (backend). The API exposes OpenAPI documentation at `/api/docs/`.
+
+## Core Documentation
+
+- [README](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/README.md): Project overview, quick start, coverage table, features, architecture
+- [Strategic Overview](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/strategy/STRATEGIC_OVERVIEW.md): Vision, current status dashboard, architecture topology, 6-month goals
+- [Product Roadmap](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/ROADMAP.md): Phase-by-phase progress, sprint history, upcoming work
+- [Setup Guide](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/guides/SETUP.md): Prerequisites, installation, environment configuration, development servers
+
+## Architecture
+
+- [System Architecture](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/architecture/ARCHITECTURE.md): Akoma Ntoso layer, FRBR URIs, data model, cross-references
+- [Monorepo Structure](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/architecture/MONOREPO.md): NPM Workspaces + Poetry, workspace layout, dependency management
+- [Tech Stack](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/architecture/TECH_STACK.md): Approved technologies
+- [Legal Ontology](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/architecture/ONTOLOGY.md): Data model for Mexican legal hierarchy
+- [Agent Patterns](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/architecture/AGENTS.md): Agent-based development patterns
+
+## API Reference
+
+- [OpenAPI Schema](/api/schema/): Downloadable OpenAPI 3.0 spec (when server running)
+- [Swagger UI](/api/docs/): Interactive API documentation (when server running)
+- [API Source — Laws](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/apps/api/law_views.py): Law endpoints
+- [API Source — Search](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/apps/api/search_views.py): Search endpoint
+- [API Source — Admin](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/apps/api/views.py): Calculation, ingestion
+- [API Source — Admin Functions](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/apps/api/admin_views.py): Health, metrics, config
+- [URL Routes](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/apps/api/urls.py): All API route definitions
+- [Shared Types](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/packages/lib/src/types.ts): TypeScript types
+- [Zod Schemas](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/packages/lib/src/schemas.ts): Runtime validation schemas
+
+## Data Pipeline
+
+- [Mexican Legal Universe](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/data/MEXICAN_LEGAL_UNIVERSE.md): 7-tier taxonomy (~670K+ instruments)
+- [OJN Scraping Strategy](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/research/OJN_SCRAPING_STRATEGY.md): OJN portal structure, URL patterns
+- [State Scraping Report](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/research/STATE_LAW_SCRAPING_REPORT.md): 11,363 laws scraped
+- [Parser Gaps Analysis](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/research/PARSER_GAPS_ANALYSIS.md): Parser accuracy deep-dive
+- [Data Sources](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/resources/SOURCES.md): Registry of all data sources
+- [Partnership Directory](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/data/PARTNERSHIP_DIRECTORY.md): 18+ institutions for data acquisition
+
+## Operations
+
+- [DataOps Escalation Playbook](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/dataops/ESCALATION_PLAYBOOK.md): 5-tier gap resolution
+- [System Management](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/guides/SYSTEM_MANAGEMENT.md): Celery workers, Elasticsearch, scheduled tasks
+- [Testing Strategy](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/guides/TESTING_STRATEGY.md): 72 frontend + 191 backend tests
+- [Code Quality](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/guides/code_quality.md): Lint config, file size limits
+- [Environment Config](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/.env.example): All environment variables
+- [Docker Compose](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docker-compose.yml): 7-service stack
+
+## Optional
+
+- [PRD](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/strategy/PRD.md): Original product requirements (Phase 1 historical)
+- [Ingestion Fixes](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/research/INGESTION_FIXES.md): Historical pipeline fixes
+- [Catala Status](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/research/CATALA_STATUS.md): Computational law engine (experimental/blocked)
+- [Interactive Legal Map](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/design/interactive_legal_map.md): Future visualization concept
+- [Municipal Sources CSV](https://raw.githubusercontent.com/madfam-org/leyes-como-codigo-mx/main/docs/resources/MUNICIPAL_SOURCES.csv): Raw municipal source data
+
+---
+
+# Full Content: README.md
+
+**Coverage**: 93.9% of Legislative Laws (11,904 of 12,456) — [sourced from `data/universe_registry.json`]
+**Status**: Production Ready
+**License**: AGPL-3.0
+
+### Quick Start
+
+Prerequisites: Node.js 20+, Python 3.10+, Docker & Docker Compose.
+
+```bash
+npm install          # Frontend (all workspaces)
+poetry install       # Backend (Python)
+cp .env.example .env # Configure environment
+```
+
+```bash
+npm run dev:web          # Public portal → http://localhost:3000
+npm run dev:admin        # Admin console → http://localhost:3001
+poetry run python manage.py runserver  # API → http://localhost:8000
+docker compose up -d     # All services (Docker)
+```
+
+### Coverage Table
+
+| Level | Laws | Universe | Coverage | Source |
+|-------|------|----------|----------|--------|
+| **Federal** | 333/336 | 336 | 99.1% | Cámara de Diputados |
+| **State (Legislativo)** | 11,363/12,120 | 12,120 | 93.7% | OJN Poder Legislativo |
+| **State (Other Powers)** | 0/23,660 | 23,660 | 0% | OJN Poderes 1/3/4 |
+| **Municipal** | 208 | Unknown | N/A | 5 city portals |
+| **Leyes Vigentes** | **11,696/12,456** | **12,456** | **93.9%** | Federal + State Legislativo |
+
+782 OJN links are permanently dead (Michoacán 504, EDOMEX 141, SLP 47).
+
+### Monorepo Structure
+
+```
+/
+├── packages/
+│   ├── ui/          # Shared UI Library (@leyesmx/ui) - React 19 / Shadcn
+│   ├── lib/         # Shared Utilities & Types (@leyesmx/lib)
+│   └── tsconfig/    # Shared TypeScript configurations
+├── apps/
+│   ├── web/         # Public Portal (Next.js 15)
+│   ├── admin/       # Management Console (Next.js 16)
+│   └── api/         # Backend API (Django / Python)
+└── package.json     # Workspace Root
+```
+
+### Features
+
+- 93.9% Legislative Coverage (11,696 of 12,456)
+- Akoma Ntoso XML structured parsing (98.9% accuracy)
+- Dynamic Dashboard with real-time statistics
+- Advanced Search with date range, state filters, auto-complete
+- Law Detail 2.0 with enhanced typography and citations
+- Quality Validation (A-F grading, 5 automated checks)
+- Full-Text Search (860,000+ articles in Elasticsearch)
+- Version History tracking
+- REST API with OpenAPI documentation
+- Batch Processing (4-8 parallel workers)
+- Background Processing (Celery + Redis)
+- Cross-References between laws
+- Bilingual legal pages (ES/EN)
+- Site Footer + Disclaimer Banner
+
+---
+
+# Full Content: Strategic Overview
+
+**Current Coverage**: 93.9% of Legislative Laws (11,696 of 12,456)
+**Total Laws in DB**: ~11,904 (333 federal + 11,363 state + 208 municipal)
+
+### Architecture Topology
+
+```
+PUBLIC USERS → Next.js Frontend (Port 3000) → Django Backend (Port 8000) → PostgreSQL + Elasticsearch
+ADMIN USERS → Admin Panel (Port 3001) → Background Workers → Data Lake (4.7GB raw, 1.5GB archived)
+```
+
+### Platform Health (Feb 2026)
+
+- Backend (Django): Stable
+- Database (PostgreSQL): Production-ready
+- Search (Elasticsearch): Operational
+- Scraping (OJN pipeline): Functional
+- Frontend (Next.js): Phase 3 UI/UX in progress
+- Admin Panel: In development
+
+### Strategic Priorities (Next 6 Months)
+
+1. Complete State Law Processing (93.7% → 97%+)
+2. Public UI/UX Overhaul (comparison tool, mobile, dark mode remaining)
+3. Admin Panel Completion (real-time monitoring, triggers)
+4. Data Quality & Stability (automated testing, DOF monitoring)
+5. Municipal Law Pilot - Tier 1 (CDMX, Guadalajara, Monterrey, etc.)
+
+---
+
+# Full Content: System Architecture
+
+## Akoma Ntoso Layer (Layer 1)
+
+OASIS Akoma Ntoso V3.0 standard. FRBR URI naming:
+Format: `/mx/{jurisdiction}/{type}/{date}/{title}/{language}@{version}`
+
+Examples:
+- Constitution: `/mx/fed/const/1917-02-05/cpeum/es@2024-05-01.xml`
+- Income Tax: `/mx/fed/ley/2013-12-11/lisr/es@2024-01-01.xml`
+
+## Logic Layer (Layer 2) — Status: Experimental/Blocked
+
+- **Catala** (fiscal logic): `/engines/catala/` — Experimental, not yet production
+- **Blawx** (general rules): `/engines/blawx/` — Experimental
+- **OpenFisca** (microsimulation): Blocked on Python 3.11/NumPy compatibility
+
+## Semantic Layer (Layer 3) — Status: Planned
+
+- NLP Pipeline (SpaCy es_core_news_lg) — planned
+- Legal Ontology (OWL/RDF) — planned
+
+## API Layer
+
+- Content: `GET /api/v1/laws/{id}/` — returns law metadata + versions
+- Articles: `GET /api/v1/laws/{id}/articles/` — returns all articles
+- Structure: `GET /api/v1/laws/{id}/structure/` — returns table of contents tree
+- References: `GET /api/v1/laws/{id}/references/` — returns cross-references
+- Search: `GET /api/v1/search/?q=...` — full-text Elasticsearch
+- Stats: `GET /api/v1/stats/` — dashboard statistics + coverage
+- States: `GET /api/v1/states/` — list all states with law counts
+- Calculate: `POST /api/v1/calculate/` — computation engine (experimental)
+
+---
+
+# Full Content: Tech Stack
+
+## Backend
+- **Python**: 3.11+
+- **Django**: 5.0+
+- **Django REST Framework**: 3.14+
+- **drf-spectacular**: 0.29+ (OpenAPI 3.0 docs)
+- **Celery**: 5.3+ (task queue)
+- **Redis**: 7+ (message broker)
+- **django-celery-beat**: 2.8+ (scheduled tasks)
+- **PostgreSQL**: 16 (production), SQLite (local dev)
+- **Elasticsearch**: 7.17.9 (full-text search)
+- **Poetry**: Package management
+- **Black**: 24.1+ (formatting)
+- **isort**: 5.13+ (import sorting, profile=black)
+
+## Frontend
+- **Next.js**: 15 (public portal), 16 (admin console)
+- **React**: 19
+- **Tailwind CSS**: 4 (CSS-first config, no tailwind.config.ts)
+- **Shadcn/ui**: Component library
+- **Zod**: v4 (runtime validation)
+- **TypeScript**: Strict mode
+- **Vitest**: Testing framework
+- **@testing-library/react**: Component testing
+
+## Shared Packages
+- `@leyesmx/ui`: Shared UI components (React 19 + Shadcn)
+- `@leyesmx/lib`: Types + Zod schemas for API validation
+
+## Infrastructure
+- **Docker Compose**: 7 services (API, Celery, Celery Beat, Web, Admin, PostgreSQL, Redis, Elasticsearch)
+- **Akoma Ntoso**: V3.0 (OASIS LegalDocML standard)
+
+---
+
+# Full Content: Monorepo Structure
+
+## Management Strategy
+
+### Python (Poetry)
+- Root `pyproject.toml` defines deps for ALL Python apps
+- Packages: `apps` (API, Scrapers, Parsers), `engines` (Catala, OpenFisca, Blawx)
+- Run: `poetry run python ...`
+
+### Node.js (NPM Workspaces)
+- Root `package.json` defines workspaces: `apps/*`, `packages/*`
+- Workspaces: `apps/web`, `apps/admin`, `packages/ui`, `packages/lib`, `packages/tsconfig`
+- Run: `npm run dev --workspace=web`
+
+```
+.
+├── apps/
+│   ├── web/            # Public Portal (Next.js 15)
+│   ├── admin/          # Admin Console (Next.js 16)
+│   ├── api/            # Django REST API
+│   ├── indigo/         # Django project settings
+│   ├── parsers/        # AKN parsing pipeline
+│   ├── scraper/        # DOF/OJN/Municipal scrapers
+│   │   ├── dataops/    # DataOps Django app (models, admin, gap registry)
+│   │   └── scheduling/ # Celery Beat tasks
+│   └── ingestion/      # Ingestion orchestration
+├── packages/
+│   ├── ui/             # @leyesmx/ui — Shared React/Shadcn components
+│   ├── lib/            # @leyesmx/lib — Types + Zod schemas
+│   └── tsconfig/       # Shared TypeScript config
+├── engines/
+│   ├── catala/         # Tax algorithms (experimental)
+│   ├── openfisca/      # Microsimulation (blocked)
+│   └── blawx/          # Rule logic (experimental)
+├── data/               # Law registries, XMLs, scraped files
+├── tests/              # Backend test suite (Pytest)
+├── scripts/            # Ingestion, scraping, DataOps CLI tools
+├── docs/               # Documentation (21 files)
+├── pyproject.toml      # Python deps (Poetry, AGPL-3.0)
+├── package.json        # NPM Workspace root
+├── docker-compose.yml  # 7-service stack
+├── manage.py           # Django management
+└── llms.txt            # Agent-consumable project summary
+```
+
+---
+
+# Full Content: Setup Guide
+
+## Prerequisites
+
+- Node.js 20+
+- Python 3.11+
+- Poetry (`pip install poetry`)
+- Git
+- Redis 7+ (optional; Celery falls back to threads)
+- Docker & Docker Compose (for containerized deployment)
+
+## Installation
+
+```bash
+git clone https://github.com/madfam-org/leyes-como-codigo-mx.git
+cd leyes-como-codigo-mx
+npm install           # Frontend (all workspaces)
+poetry install        # Backend (Python)
+cp .env.example .env  # Configure environment
+poetry run python manage.py migrate  # Database setup
+```
+
+## Development Servers
+
+```bash
+npm run dev:web       # Public Portal → http://localhost:3000
+npm run dev:admin     # Admin Console → http://localhost:3001
+poetry run python manage.py runserver  # API → http://localhost:8000
+poetry run celery -A apps.indigo worker --loglevel=info  # Optional Celery
+```
+
+## Docker Deployment
+
+```bash
+cp .env.example .env   # Set DJANGO_SECRET_KEY (required)
+docker compose up -d   # API, Celery, Web, Admin, PostgreSQL, Redis, Elasticsearch
+```
+
+## Running Tests
+
+```bash
+poetry run pytest tests/ -v           # Backend (191 tests)
+cd apps/web && npx vitest run         # Frontend (72 tests)
+poetry run black --check apps/ tests/ scripts/  # Python formatting
+poetry run isort --check-only apps/ tests/ scripts/  # Import ordering
+npm run lint --workspace=web          # Frontend lint
+npm run lint --workspace=admin        # Admin lint
+```
+
+## API Documentation
+
+- Swagger UI: http://localhost:8000/api/docs/
+- ReDoc: http://localhost:8000/api/redoc/
+- OpenAPI Schema: http://localhost:8000/api/schema/
+
+---
+
+# Full Content: API Endpoint Inventory
+
+Base path: `/api/v1/`
+
+### Law Endpoints (law_views.py)
+
+| Method | Path | View | Description |
+|--------|------|------|-------------|
+| GET | `/laws/` | `LawListView` | List all laws (paginated, filterable by tier/state/category) |
+| GET | `/laws/{law_id}/` | `LawDetailView` | Get full law metadata + versions |
+| GET | `/laws/{law_id}/articles/` | `law_articles` | Get all articles for a law (naturally sorted) |
+| GET | `/laws/{law_id}/articles/{article_id}/references/` | `article_cross_references` | Cross-references for a specific article |
+| GET | `/laws/{law_id}/structure/` | `law_structure` | Table of contents tree |
+| GET | `/laws/{law_id}/references/` | `law_cross_references` | All cross-references for a law |
+| GET | `/states/` | `states_list` | List all states with law counts |
+| GET | `/stats/` | `law_stats` | Dashboard statistics + coverage breakdown |
+
+### Search Endpoints (search_views.py)
+
+| Method | Path | View | Description |
+|--------|------|------|-------------|
+| GET | `/search/?q=...` | `SearchView` | Full-text search with filters (state, category, date_from, date_to) |
+
+### Admin/Operations Endpoints (views.py, admin_views.py)
+
+| Method | Path | View | Description |
+|--------|------|------|-------------|
+| POST | `/calculate/` | `CalculationView` | Computation engine (experimental) |
+| POST | `/ingest/` | `IngestionView` | Trigger ingestion job |
+| GET | `/ingest/` | `IngestionView` | Get ingestion status |
+| GET | `/admin/health/` | `health_check` | System health check |
+| GET | `/admin/metrics/` | `system_metrics` | System metrics (law counts, coverage) |
+| GET | `/admin/jobs/` | `list_jobs` | List background jobs |
+| GET | `/admin/jobs/status/` | `job_status` | Get specific job status |
+| GET | `/admin/config/` | `system_config` | System configuration (DB, ES, env) |
+| GET | `/admin/pipeline/status/` | `pipeline_status` | Pipeline health status |
+
+---
+
+# Full Content: Shared TypeScript Types (packages/lib/src/types.ts)
+
+```typescript
+export interface LawVersion {
+    publication_date: string;
+    valid_from: string;
+    dof_url: string;
+    xml_file: string | null;
+}
+
+export interface Law {
+    id: string;
+    name: string;
+    short_name?: string;
+    fullName?: string;
+    category?: string;
+    tier?: number | string;
+    versions?: LawVersion[];
+    articles?: number;
+    transitorios?: number;
+    grade?: 'A' | 'B' | 'C' | 'D' | 'F';
+    score?: number;
+    priority?: number;
+    file?: string;
+}
+
+export type Article = LawArticle;
+
+export interface LawListItem {
+    id: string;
+    name: string;
+    versions: number;
+}
+
+export interface SearchResult {
+    id: string;
+    law_id: string;
+    law_name: string;
+    article: string;
+    snippet: string;
+    score: number;
+    date?: string;
+    municipality?: string;
+}
+
+export interface SearchResponse {
+    results: SearchResult[];
+    total?: number;
+    page?: number;
+    page_size?: number;
+    total_pages?: number;
+    warning?: string;
+}
+
+export interface APIError {
+    error: string;
+    details?: string;
+}
+
+export interface CoverageItem {
+    label?: string;
+    count: number;
+    universe: number | null;
+    percentage: number | null;
+    description?: string;
+    source?: string;
+    last_verified?: string;
+    permanent_gaps?: number;
+    cities_covered?: number;
+    total_municipalities?: number;
+}
+
+export interface CoverageBreakdown {
+    leyes_vigentes: CoverageItem;
+    federal: CoverageItem;
+    state: CoverageItem;
+    state_all_powers: CoverageItem;
+    municipal: CoverageItem;
+}
+
+export interface DashboardStats {
+    total_laws: number;
+    federal_count: number;
+    state_count: number;
+    municipal_count: number;
+    total_articles: number;
+    federal_coverage: number;
+    state_coverage: number;
+    municipal_coverage: number;
+    total_coverage: number;
+    last_update: string | null;
+    recent_laws: {
+        id: string;
+        name: string;
+        date: string;
+        tier: string;
+        category: string;
+    }[];
+    coverage?: CoverageBreakdown;
+}
+
+export interface LawArticle {
+    article_id: string;
+    text: string;
+}
+
+export interface LawArticleResponse {
+    law_id: string;
+    law_name: string;
+    total: number;
+    articles: LawArticle[];
+}
+
+export interface IngestionResults {
+    success_count: number;
+    total_laws: number;
+    duration_seconds?: number;
+}
+
+export interface IngestionStatus {
+    status: 'idle' | 'running' | 'completed' | 'failed' | 'error';
+    message: string;
+    timestamp: string;
+    progress?: number;
+    params?: Record<string, unknown>;
+    results?: IngestionResults;
+    warning?: string;
+}
+```
+
+---
+
+# Full Content: Zod Validation Schemas (packages/lib/src/schemas.ts)
+
+```typescript
+import { z } from "zod";
+
+export const LawVersionSchema = z.object({
+    publication_date: z.string(),
+    valid_from: z.string(),
+    dof_url: z.string(),
+    xml_file: z.string().nullable(),
+});
+
+export const LawSchema = z.object({
+    id: z.string(),
+    name: z.string(),
+    short_name: z.string().optional(),
+    fullName: z.string().optional(),
+    category: z.string().optional(),
+    tier: z.union([z.number(), z.string()]).optional(),
+    versions: z.array(LawVersionSchema).optional(),
+    articles: z.number().optional(),
+    transitorios: z.number().optional(),
+    grade: z.enum(["A", "B", "C", "D", "F"]).optional(),
+    score: z.number().optional(),
+    priority: z.number().optional(),
+    file: z.string().optional(),
+});
+
+export const LawListItemSchema = z.object({
+    id: z.string(),
+    name: z.string(),
+    versions: z.number(),
+});
+
+export const LawArticleSchema = z.object({
+    article_id: z.string(),
+    text: z.string(),
+});
+
+export const LawArticleResponseSchema = z.object({
+    law_id: z.string(),
+    law_name: z.string(),
+    total: z.number(),
+    articles: z.array(LawArticleSchema),
+});
+
+export const SearchResultSchema = z.object({
+    id: z.string(),
+    law_id: z.string(),
+    law_name: z.string(),
+    article: z.string(),
+    snippet: z.string(),
+    score: z.number(),
+    date: z.string().optional(),
+    municipality: z.string().optional(),
+});
+
+export const SearchResponseSchema = z.object({
+    results: z.array(SearchResultSchema),
+    total: z.number().optional(),
+    page: z.number().optional(),
+    page_size: z.number().optional(),
+    total_pages: z.number().optional(),
+    warning: z.string().optional(),
+});
+
+export const CoverageItemSchema = z.object({
+    label: z.string().optional(),
+    count: z.number(),
+    universe: z.number().nullable(),
+    percentage: z.number().nullable(),
+    description: z.string().optional(),
+    source: z.string().optional(),
+    last_verified: z.string().optional(),
+    permanent_gaps: z.number().optional(),
+    cities_covered: z.number().optional(),
+    total_municipalities: z.number().optional(),
+});
+
+export const CoverageBreakdownSchema = z.object({
+    leyes_vigentes: CoverageItemSchema,
+    federal: CoverageItemSchema,
+    state: CoverageItemSchema,
+    state_all_powers: CoverageItemSchema,
+    municipal: CoverageItemSchema,
+});
+
+export const DashboardStatsSchema = z.object({
+    total_laws: z.number(),
+    federal_count: z.number(),
+    state_count: z.number(),
+    municipal_count: z.number(),
+    total_articles: z.number(),
+    federal_coverage: z.number(),
+    state_coverage: z.number(),
+    municipal_coverage: z.number(),
+    total_coverage: z.number(),
+    last_update: z.string().nullable(),
+    recent_laws: z.array(z.object({
+        id: z.string(),
+        name: z.string(),
+        date: z.string(),
+        tier: z.string(),
+        category: z.string(),
+    })),
+    coverage: CoverageBreakdownSchema.optional(),
+});
+
+export const APIErrorSchema = z.object({
+    error: z.string(),
+    details: z.string().optional(),
+});
+
+export const IngestionResultsSchema = z.object({
+    success_count: z.number(),
+    total_laws: z.number(),
+    duration_seconds: z.number().optional(),
+});
+
+export const IngestionStatusSchema = z.object({
+    status: z.enum(["idle", "running", "completed", "failed", "error"]),
+    message: z.string(),
+    timestamp: z.string(),
+    progress: z.number().optional(),
+    params: z.record(z.string(), z.unknown()).optional(),
+    results: IngestionResultsSchema.optional(),
+    warning: z.string().optional(),
+});
+
+// Utility: validate API response
+export function parseResponse<T>(schema: z.ZodType<T>, data: unknown): T;
+export function safeParseResponse<T>(schema: z.ZodType<T>, data: unknown):
+    { success: true; data: T } | { success: false; error: z.ZodError };
+```
+
+---
+
+# Full Content: Environment Configuration (.env.example)
+
+```bash
+# Django
+DJANGO_SECRET_KEY=change-me-to-a-random-secret-key
+DEBUG=False
+ALLOWED_HOSTS=*
+CORS_ALLOWED_ORIGINS=http://localhost:3000,http://localhost:3001
+
+# Database
+# Default: SQLite (no config needed). Set DB_ENGINE for PostgreSQL:
+DB_ENGINE=django.db.backends.sqlite3
+# DB_ENGINE=django.db.backends.postgresql
+DB_NAME=leyes_mx
+DB_USER=leyes_mx
+DB_PASSWORD=change-me
+DB_HOST=localhost
+DB_PORT=5432
+
+# Elasticsearch
+ES_HOST=http://localhost:9200
+
+# Celery / Redis
+CELERY_BROKER_URL=redis://localhost:6379/0
+CELERY_RESULT_BACKEND=redis://localhost:6379/0
+
+# Next.js (Web + Admin)
+NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+```
+
+---
+
+# Full Content: Docker Compose Services
+
+7 services defined in `docker-compose.yml`:
+
+| Service | Image/Build | Port | Description |
+|---------|-------------|------|-------------|
+| `api` | Build from `apps/indigo/Dockerfile` | 8000 | Django REST API |
+| `celery` | Same Dockerfile | — | Celery worker (4 concurrency) |
+| `celery-beat` | Same Dockerfile | — | Celery Beat scheduler (DatabaseScheduler) |
+| `web` | Build from `apps/web/Dockerfile` | 3000 | Next.js public portal |
+| `admin` | Build from `apps/admin/Dockerfile` | 3001 | Next.js admin console |
+| `postgres` | `postgres:16-alpine` | 5432 | PostgreSQL database |
+| `redis` | `redis:7-alpine` | 6379 | Redis message broker |
+| `elasticsearch` | `elasticsearch:7.17.9` | 9200 | Elasticsearch search engine |
+
+Volumes: `pg_data`, `es_data`, `redis_data`
+
+Dependencies: api → postgres, redis, elasticsearch; celery → postgres, redis; web → api, elasticsearch; admin → api
+
+---
+
+# Full Content: Python Dependencies (pyproject.toml)
+
+```toml
+[tool.poetry]
+name = "leyes-como-codigo-mx"
+version = "0.1.0"
+description = "Mexican Open Law Engine"
+authors = ["madfam-org"]
+license = "AGPL-3.0"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^5.0"
+djangorestframework = "^3.14"
+django-cors-headers = "^4.3.1"
+celery = "^5.3"
+redis = "^5.0"
+lxml = "^5.1"
+elasticsearch = "^7.0"
+spacy = "^3.7"
+juriscraper = "^2.5"
+beautifulsoup4 = "^4.12"
+requests = "^2.31"
+drf-spectacular = "^0.29.0"
+django-celery-beat = "^2.8.1"
+pdfplumber = "^0.11.9"
+psycopg2-binary = "^2.9.11"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0"
+pytest-cov = "^4.1"
+pytest-django = "^4.7"
+black = "^24.1"
+isort = "^5.13"
+
+[tool.isort]
+profile = "black"
+```
+
+---
+
+# Full Content: Management Commands Summary
+
+```bash
+# Django Management
+poetry run python manage.py migrate                    # Run database migrations
+poetry run python manage.py runserver                  # Start dev server
+poetry run python manage.py createsuperuser            # Create admin user
+
+# Ingestion Pipeline
+poetry run python scripts/ingestion/bulk_ingest.py     # Batch process federal laws
+poetry run python scripts/ingestion/index_laws.py      # Elasticsearch indexing
+poetry run python scripts/ingestion/ingest_state_laws.py  # State law processing
+
+# Scraping
+poetry run python scripts/scraping/ojn_scraper.py      # OJN state law scraper
+poetry run python scripts/scraping/bulk_state_scraper.py  # Batch state scraping
+poetry run python scripts/scraping/bulk_non_legislative_scraper.py  # Non-legislative powers
+
+# DataOps CLI
+poetry run python scripts/dataops/bootstrap_gaps.py    # Seed gap records from reports
+poetry run python scripts/dataops/health_check.py      # Run source health probes
+poetry run python scripts/dataops/coverage_report.py   # Generate coverage report
+
+# Testing
+poetry run pytest tests/ -v                            # Backend tests (191 tests)
+cd apps/web && npx vitest run                          # Frontend tests (72 tests)
+
+# Linting (MUST use poetry run for CI compatibility)
+poetry run black --check apps/ tests/ scripts/
+poetry run isort --check-only apps/ tests/ scripts/
+
+# Celery
+poetry run celery -A apps.indigo worker --loglevel=info --concurrency=4
+poetry run celery -A apps.indigo beat --loglevel=info --scheduler django_celery_beat.schedulers:DatabaseScheduler
+```
+
+---
+
+*Last verified: 2026-02-06*
+*Generated for LLM consumption following the llmstxt.org specification.*
