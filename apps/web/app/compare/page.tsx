@@ -26,7 +26,12 @@ export default async function ComparePage({
 
     return (
         <main className="container mx-auto py-6 min-h-screen">
-            <Suspense fallback={<div>Cargando...</div>}>
+            <Suspense fallback={
+                <div className="flex h-[80vh] items-center justify-center flex-col px-4">
+                    <div className="h-8 w-8 sm:h-10 sm:w-10 animate-spin rounded-full border-4 border-primary border-t-transparent mb-4" />
+                    <p className="text-lg sm:text-xl font-medium text-center text-muted-foreground">Cargando comparación...</p>
+                </div>
+            }>
                 <ComparisonView lawIds={lawIds} />
             </Suspense>
         </main>

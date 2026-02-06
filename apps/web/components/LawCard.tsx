@@ -36,7 +36,7 @@ export default function LawCard({ law }: LawCardProps) {
         <Link href={`/laws/${law.id}`}>
             <Card className={`p-6 hover:shadow-xl transition-all duration-300 hover:-translate-y-2 cursor-pointer h-full group relative glass hover:bg-white/40 dark:hover:bg-white/5 border border-white/20 ${isSelected ? 'border-primary ring-2 ring-primary ring-offset-2' : 'hover:border-primary/30'}`}>
                 <div
-                    className="absolute top-4 right-4 z-10 p-2 rounded-full hover:bg-muted/50 transition-colors"
+                    className="absolute top-4 right-4 z-10 p-3 rounded-full hover:bg-muted/50 transition-colors"
                     onClick={handleCheckboxClick}
                     onKeyDown={handleCheckboxKeyDown}
                     role="checkbox"

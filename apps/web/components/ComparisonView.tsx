@@ -167,7 +167,7 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
                     <Tabs defaultValue={data[0]?.details.law_id} className="flex flex-col h-full">
                         <TabsList className="mx-4 mt-2 grid grid-cols-2">
                             {data.map((law) => (
-                                <TabsTrigger key={law.details.law_id} value={law.details.law_id} className="truncate text-xs">
+                                <TabsTrigger key={law.details.law_id} value={law.details.law_id} className="truncate text-xs" title={law.details.law_name}>
                                     {law.details.law_name}
                                 </TabsTrigger>
                             ))}

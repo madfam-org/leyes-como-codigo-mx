@@ -53,7 +53,7 @@ export default function RootLayout({
   return (
     <html lang="es" suppressHydrationWarning>
       <body
-        className={`${inter.variable} ${sourceSerif.variable} ${jetbrainsMono.variable} font-sans antialiased min-h-screen bg-background text-foreground`}
+        className={`${inter.variable} ${sourceSerif.variable} ${jetbrainsMono.variable} font-sans antialiased min-h-screen flex flex-col bg-background text-foreground`}
       >
         <a
           href="#main-content"
@@ -73,7 +73,7 @@ export default function RootLayout({
                 <div className="fixed top-3 right-3 sm:top-4 sm:right-4 z-50">
                   <ModeToggle />
                 </div>
-                <main id="main-content">{children}</main>
+                <main id="main-content" className="flex-1">{children}</main>
                 <Footer />
                 <ComparisonFloatingBar />
               </ComparisonProvider>
