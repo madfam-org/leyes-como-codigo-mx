@@ -2912,5 +2912,23 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/campeche/reglamento_de_procedimientos_para_la_atención_de_quejas_médicas_y_gestión_pericial_de_la_comisión_de_79969.doc",
       "law_name": "REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL DE LA COMISIÓN DE CONCILIACIÓN Y ARBITRAJE MÉDICO DEL ESTADO DE CAMPECHE."
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 101612,
+      "law_name": "LEY DE SALUD MENTAL DEL ESTADO DE CAMPECHE",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:30:58.041066"
+    },
+    {
+      "file_id": 101667,
+      "law_name": "Manual de Usuario de SCOJN",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:30:59.140546"
+    }
   ]
 }

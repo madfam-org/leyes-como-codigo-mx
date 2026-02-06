@@ -1,0 +1,585 @@
+{
+  "probe_date": "2026-02-05T18:26:47.082766",
+  "states_probed": 32,
+  "total_new_laws_found": 23660,
+  "per_state": [
+    {
+      "state_id": 1,
+      "state_name": "Aguascalientes",
+      "existing_estatal": 127,
+      "total_across_powers": 394,
+      "per_power": {
+        "1": 247,
+        "2": 127,
+        "3": 4,
+        "4": 16
+      },
+      "new_from_other_powers": 267
+    },
+    {
+      "state_id": 2,
+      "state_name": "Baja California",
+      "existing_estatal": 1,
+      "total_across_powers": 69,
+      "per_power": {
+        "1": 21,
+        "2": 3,
+        "3": 0,
+        "4": 45
+      },
+      "new_from_other_powers": 68
+    },
+    {
+      "state_id": 3,
+      "state_name": "Baja California Sur",
+      "existing_estatal": 411,
+      "total_across_powers": 487,
+      "per_power": {
+        "1": 70,
+        "2": 411,
+        "3": 3,
+        "4": 3
+      },
+      "new_from_other_powers": 76
+    },
+    {
+      "state_id": 4,
+      "state_name": "Campeche",
+      "existing_estatal": 323,
+      "total_across_powers": 485,
+      "per_power": {
+        "1": 146,
+        "2": 325,
+        "3": 10,
+        "4": 4
+      },
+      "new_from_other_powers": 162
+    },
+    {
+      "state_id": 5,
+      "state_name": "Coahuila",
+      "existing_estatal": 315,
+      "total_across_powers": 395,
+      "per_power": {
+        "1": 80,
+        "2": 315,
+        "3": 0,
+        "4": 0
+      },
+      "new_from_other_powers": 80
+    },
+    {
+      "state_id": 6,
+      "state_name": "Colima",
+      "existing_estatal": 1325,
+      "total_across_powers": 1734,
+      "per_power": {
+        "1": 375,
+        "2": 1325,
+        "3": 6,
+        "4": 28
+      },
+      "new_from_other_powers": 409
+    },
+    {
+      "state_id": 7,
+      "state_name": "Chiapas",
+      "existing_estatal": 169,
+      "total_across_powers": 688,
+      "per_power": {
+        "1": 463,
+        "2": 169,
+        "3": 19,
+        "4": 37
+      },
+      "new_from_other_powers": 519
+    },
+    {
+      "state_id": 8,
+      "state_name": "Chihuahua",
+      "existing_estatal": 192,
+      "total_across_powers": 212,
+      "per_power": {
+        "1": 20,
+        "2": 192,
+        "3": 0,
+        "4": 0
+      },
+      "new_from_other_powers": 20
+    },
+    {
+      "state_id": 9,
+      "state_name": "Ciudad de México",
+      "existing_estatal": 0,
+      "total_across_powers": 0,
+      "per_power": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "new_from_other_powers": 0
+    },
+    {
+      "state_id": 10,
+      "state_name": "Durango",
+      "existing_estatal": 1,
+      "total_across_powers": 1,
+      "per_power": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0
+      },
+      "new_from_other_powers": 0
+    },
+    {
+      "state_id": 11,
+      "state_name": "Guanajuato",
+      "existing_estatal": 708,
+      "total_across_powers": 1409,
+      "per_power": {
+        "1": 614,
+        "2": 708,
+        "3": 38,
+        "4": 49
+      },
+      "new_from_other_powers": 701
+    },
+    {
+      "state_id": 12,
+      "state_name": "Guerrero",
+      "existing_estatal": 736,
+      "total_across_powers": 2671,
+      "per_power": {
+        "1": 1747,
+        "2": 762,
+        "3": 79,
+        "4": 83
+      },
+      "new_from_other_powers": 1935
+    },
+    {
+      "state_id": 13,
+      "state_name": "Hidalgo",
+      "existing_estatal": 38,
+      "total_across_powers": 742,
+      "per_power": {
+        "1": 618,
+        "2": 38,
+        "3": 8,
+        "4": 78
+      },
+      "new_from_other_powers": 704
+    },
+    {
+      "state_id": 14,
+      "state_name": "Jalisco",
+      "existing_estatal": 448,
+      "total_across_powers": 806,
+      "per_power": {
+        "1": 322,
+        "2": 448,
+        "3": 10,
+        "4": 26
+      },
+      "new_from_other_powers": 358
+    },
+    {
+      "state_id": 15,
+      "state_name": "Estado de México",
+      "existing_estatal": 492,
+      "total_across_powers": 2242,
+      "per_power": {
+        "1": 1379,
+        "2": 633,
+        "3": 79,
+        "4": 151
+      },
+      "new_from_other_powers": 1750
+    },
+    {
+      "state_id": 16,
+      "state_name": "Michoacán",
+      "existing_estatal": 163,
+      "total_across_powers": 3160,
+      "per_power": {
+        "1": 1553,
+        "2": 667,
+        "3": 288,
+        "4": 652
+      },
+      "new_from_other_powers": 2997
+    },
+    {
+      "state_id": 17,
+      "state_name": "Morelos",
+      "existing_estatal": 1480,
+      "total_across_powers": 5662,
+      "per_power": {
+        "1": 2729,
+        "2": 1506,
+        "3": 124,
+        "4": 1303
+      },
+      "new_from_other_powers": 4182
+    },
+    {
+      "state_id": 18,
+      "state_name": "Nayarit",
+      "existing_estatal": 367,
+      "total_across_powers": 921,
+      "per_power": {
+        "1": 390,
+        "2": 367,
+        "3": 22,
+        "4": 142
+      },
+      "new_from_other_powers": 554
+    },
+    {
+      "state_id": 19,
+      "state_name": "Nuevo León",
+      "existing_estatal": 199,
+      "total_across_powers": 569,
+      "per_power": {
+        "1": 252,
+        "2": 213,
+        "3": 39,
+        "4": 65
+      },
+      "new_from_other_powers": 370
+    },
+    {
+      "state_id": 20,
+      "state_name": "Oaxaca",
+      "existing_estatal": 208,
+      "total_across_powers": 209,
+      "per_power": {
+        "1": 1,
+        "2": 208,
+        "3": 0,
+        "4": 0
+      },
+      "new_from_other_powers": 1
+    },
+    {
+      "state_id": 21,
+      "state_name": "Puebla",
+      "existing_estatal": 313,
+      "total_across_powers": 828,
+      "per_power": {
+        "1": 413,
+        "2": 313,
+        "3": 17,
+        "4": 85
+      },
+      "new_from_other_powers": 515
+    },
+    {
+      "state_id": 22,
+      "state_name": "Querétaro",
+      "existing_estatal": 1227,
+      "total_across_powers": 5627,
+      "per_power": {
+        "1": 2137,
+        "2": 1237,
+        "3": 275,
+        "4": 1978
+      },
+      "new_from_other_powers": 4400
+    },
+    {
+      "state_id": 23,
+      "state_name": "Quintana Roo",
+      "existing_estatal": 1,
+      "total_across_powers": 56,
+      "per_power": {
+        "1": 52,
+        "2": 1,
+        "3": 0,
+        "4": 3
+      },
+      "new_from_other_powers": 55
+    },
+    {
+      "state_id": 24,
+      "state_name": "San Luis Potosí",
+      "existing_estatal": 20,
+      "total_across_powers": 323,
+      "per_power": {
+        "1": 215,
+        "2": 67,
+        "3": 27,
+        "4": 14
+      },
+      "new_from_other_powers": 303
+    },
+    {
+      "state_id": 25,
+      "state_name": "Sinaloa",
+      "existing_estatal": 81,
+      "total_across_powers": 171,
+      "per_power": {
+        "1": 81,
+        "2": 81,
+        "3": 4,
+        "4": 5
+      },
+      "new_from_other_powers": 90
+    },
+    {
+      "state_id": 26,
+      "state_name": "Sonora",
+      "existing_estatal": 364,
+      "total_across_powers": 1320,
+      "per_power": {
+        "1": 811,
+        "2": 367,
+        "3": 101,
+        "4": 41
+      },
+      "new_from_other_powers": 956
+    },
+    {
+      "state_id": 27,
+      "state_name": "Tabasco",
+      "existing_estatal": 411,
+      "total_across_powers": 745,
+      "per_power": {
+        "1": 304,
+        "2": 412,
+        "3": 6,
+        "4": 23
+      },
+      "new_from_other_powers": 334
+    },
+    {
+      "state_id": 28,
+      "state_name": "Tamaulipas",
+      "existing_estatal": 133,
+      "total_across_powers": 436,
+      "per_power": {
+        "1": 236,
+        "2": 133,
+        "3": 40,
+        "4": 27
+      },
+      "new_from_other_powers": 303
+    },
+    {
+      "state_id": 29,
+      "state_name": "Tlaxcala",
+      "existing_estatal": 183,
+      "total_across_powers": 590,
+      "per_power": {
+        "1": 324,
+        "2": 190,
+        "3": 24,
+        "4": 52
+      },
+      "new_from_other_powers": 407
+    },
+    {
+      "state_id": 30,
+      "state_name": "Veracruz",
+      "existing_estatal": 172,
+      "total_across_powers": 490,
+      "per_power": {
+        "1": 239,
+        "2": 172,
+        "3": 18,
+        "4": 61
+      },
+      "new_from_other_powers": 318
+    },
+    {
+      "state_id": 31,
+      "state_name": "Yucatán",
+      "existing_estatal": 682,
+      "total_across_powers": 1508,
+      "per_power": {
+        "1": 794,
+        "2": 682,
+        "3": 30,
+        "4": 2
+      },
+      "new_from_other_powers": 826
+    },
+    {
+      "state_id": 32,
+      "state_name": "Zacatecas",
+      "existing_estatal": 47,
+      "total_across_powers": 47,
+      "per_power": {
+        "1": 0,
+        "2": 47,
+        "3": 0,
+        "4": 0
+      },
+      "new_from_other_powers": 0
+    }
+  ],
+  "sample_municipal_entries": [
+    {
+      "state_name": "Aguascalientes",
+      "file_id": 78336,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Aguascalientes",
+      "file_id": 74241,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Aguascalientes",
+      "file_id": 74242,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Baja California",
+      "file_id": 85504,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Baja California",
+      "file_id": 85505,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Baja California",
+      "file_id": 85507,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Baja California Sur",
+      "file_id": 75777,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Baja California Sur",
+      "file_id": 70532,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Baja California Sur",
+      "file_id": 68997,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Campeche",
+      "file_id": 76289,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Campeche",
+      "file_id": 76290,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": true
+    },
+    {
+      "state_name": "Campeche",
+      "file_id": 76291,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": true
+    },
+    {
+      "state_name": "Coahuila",
+      "file_id": 8707,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Coahuila",
+      "file_id": 8708,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Coahuila",
+      "file_id": 8709,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Colima",
+      "file_id": 98355,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Colima",
+      "file_id": 98356,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Colima",
+      "file_id": 98357,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": false
+    },
+    {
+      "state_name": "Chiapas",
+      "file_id": 96256,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": true
+    },
+    {
+      "state_name": "Chiapas",
+      "file_id": 96257,
+      "ambito": "",
+      "type": "",
+      "locality": "",
+      "has_download": true
+    }
+  ]
+}

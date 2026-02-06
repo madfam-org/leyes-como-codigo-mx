@@ -3704,5 +3704,15 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/tabasco/reglamento_interior_del_h_congreso_del_estado_libre_y_soberano_de_tabascoúltima_reforma_publicada_en_18610.doc",
       "law_name": "Reglamento Interior del H. Congreso del Estado Libre y Soberano de Tabasco.ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL 7355 DE FECHA 02 DE MARZO DE 2013."
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 89260,
+      "law_name": "ACUERDO por el que se habilitan los días considerados inhábiles con motivo del primer período vacacional 2020 en el Órgano Superior de Fiscalización del Estado, publicados en el Suplemento C, Edición 8019 del Periódico Oficial de fecha 13 de julio de 2019.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:58.340895"
+    }
   ]
 }

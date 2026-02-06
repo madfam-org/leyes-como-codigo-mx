@@ -14,5 +14,23 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/baja_california/ley_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencia_para_el_estado_de_baja_california_103218.doc",
       "law_name": "LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA"
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 85559,
+      "law_name": "CONVOCATORIA A LICITACION PUBLICA REGIONAL NO.CAASPLBC-01-16 Y CAASPLBC-02-16 LEGISLATURA CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA COMITE DE ADQUISICIONES ,ARRENDAMIENTOS Y SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:30:54.336609"
+    },
+    {
+      "file_id": 85558,
+      "law_name": "CONVOCATORIA A LICITACION PUBLICA REGIONAL NO.CAASPLBC-01-16 Y CAASPLBC-02-16 LEGISLATURA CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA COMITE DE ADQUISICIONES ,ARRENDAMIENTOS Y SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:30:55.400280"
+    }
   ]
 }

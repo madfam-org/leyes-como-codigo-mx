@@ -1,0 +1,40 @@
+{
+  "city": "puebla",
+  "scrape_date": "2026-02-05T18:37:45.318847",
+  "total_found": 5,
+  "downloaded": 5,
+  "failed": 0,
+  "laws": [
+    {
+      "name": "Normatividad y Lineamientos CONAC",
+      "url": "https://www.pueblacapital.gob.mx/tesoreria-municipal/298-tesoreria-municipal/3860-normatividad-conac",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/puebla/normatividad_y_lineamientos_conac.pdf",
+      "municipality": "puebla"
+    },
+    {
+      "name": "5. Reglamento de Tránsito Municipal",
+      "url": "https://www.pueblacapital.gob.mx/5-reglamento-de-transito-municipal",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/puebla/5_reglamento_de_tránsito_municipal.pdf",
+      "municipality": "puebla"
+    },
+    {
+      "name": "I. Marco Normativo Aplicable",
+      "url": "https://www.pueblacapital.gob.mx/i-marco-normativo-aplicable",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/puebla/i_marco_normativo_aplicable.pdf",
+      "municipality": "puebla"
+    },
+    {
+      "name": "Marco Legal",
+      "url": "https://www.pueblacapital.gob.mx/i-marco-normativo-aplicable",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/puebla/marco_legal.pdf",
+      "municipality": "puebla"
+    },
+    {
+      "name": "Reglamento deTránsito Municipal",
+      "url": "https://www.pueblacapital.gob.mx/5-reglamento-de-transito-municipal",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/puebla/reglamento_detránsito_municipal.pdf",
+      "municipality": "puebla"
+    }
+  ],
+  "failed_laws": []
+}

@@ -185,5 +185,383 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/san_luis_potosí/ley_sobre_el_regimen_de_la_propiedad_en_condominio_41284.doc",
       "law_name": "LEY SOBRE EL REGIMEN DE LA PROPIEDAD EN CONDOMINIO"
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 42325,
+      "law_name": "Acuerdo Administrativo No. 1/2010 mediante el cual se determina hacer del conocimiento información relativa al Programa para la Fiscalización del Gasto Federalizado (PROFIS) del Ejercicio Fiscal 2010",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:49:59.991828"
+    },
+    {
+      "file_id": 40972,
+      "law_name": "Acuerdo mediante el cual se establece la descripción de las Bases y Métodos de Evaluación de los Participantes en el Procedimiento de Selección y Designación de Consejeron Propietarios y Suplentes del Consejo Estatal Electoral y de Participación Ciudadana",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:01.123085"
+    },
+    {
+      "file_id": 40966,
+      "law_name": "Acuerdo Relativo al Juicio para la pretección de los derechos politico-electorales de ciudadano",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:02.260360"
+    },
+    {
+      "file_id": 40970,
+      "law_name": "Acuerdos relativos para los juicios politicos-electorales de ciudadano",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:03.390249"
+    },
+    {
+      "file_id": 40968,
+      "law_name": "Acuerdos relativos para los juicios politicos-electorales de ciudadano",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:04.453865"
+    },
+    {
+      "file_id": 40967,
+      "law_name": "Acuerdos relativos para los juicios politicos-electorales de ciudadano",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:05.517018"
+    },
+    {
+      "file_id": 40969,
+      "law_name": "Acuerdos relativos para los juicios politicos-electorales de ciudadano",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:06.578073"
+    },
+    {
+      "file_id": 40971,
+      "law_name": "Acuerdos relativos para los juicios politicos-electorales de ciudadano",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:07.672922"
+    },
+    {
+      "file_id": 40217,
+      "law_name": "Convenio de colaboración en materia de Alcoholes Estado ayuntamientos",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:08.797267"
+    },
+    {
+      "file_id": 42006,
+      "law_name": "Convenio de Coordinación y Colaboración para la Fiscalización de los Recursos Públicos Federales transferidos para su Administración, Ejercicio y Aplicación al Gobierno del Estado Libre y Soberano de San Luis Potosí",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:09.929946"
+    },
+    {
+      "file_id": 40978,
+      "law_name": "Convocatoria de la Presea al Mérito Ciudadano Plan de San Luis 2010",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:11.049230"
+    },
+    {
+      "file_id": 40977,
+      "law_name": "Convocatoria de la Presea al Mérito Plan de San Luis 2011",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:12.149792"
+    },
+    {
+      "file_id": 40973,
+      "law_name": "Convocatoria para la Elección de los Consejeros Propietarios y Suplentes que integrarán el Consejo Estatal Electoral y de Participación Ciudadana",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:13.286224"
+    },
+    {
+      "file_id": 40976,
+      "law_name": "Convocatoria para la Elección del Contralor Interno de la Comisión Estatal de Derechos Humanos",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:14.384168"
+    },
+    {
+      "file_id": 40975,
+      "law_name": "Convocatoria para participar en el proceso de elección de las personas que integrarán el Consejo Hídrico Estatal",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:15.516270"
+    },
+    {
+      "file_id": 40974,
+      "law_name": "Convocatoria para participar en el Proceso de Elección de las Vocalías vacantes del Consejo Hídrico Estatal",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:16.619461"
+    },
+    {
+      "file_id": 40525,
+      "law_name": "Decreto 192 (Reforma Ley Fomento Economico)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:17.749877"
+    },
+    {
+      "file_id": 40523,
+      "law_name": "Decreto 208 (Ley de Consulta Indigena)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:18.867574"
+    },
+    {
+      "file_id": 40527,
+      "law_name": "Decreto 316 (Ley Fomento Economico)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:19.988692"
+    },
+    {
+      "file_id": 40528,
+      "law_name": "Decreto 373 (Ley Reglamentaria remuneraciones)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:21.083550"
+    },
+    {
+      "file_id": 40530,
+      "law_name": "Decreto 392 (Ley que establece emision de bandos de Policia)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:22.187259"
+    },
+    {
+      "file_id": 40531,
+      "law_name": "Decreto 414 (Ley para Prevenir la Tortura)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:23.277627"
+    },
+    {
+      "file_id": 40532,
+      "law_name": "Decreto 518 (Ley de Trata de Personas y Reformas y Adiciones al Codigo Penal)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:24.398251"
+    },
+    {
+      "file_id": 40533,
+      "law_name": "Decreto 521 (Ley de Protección a Madres, Padres, Tutores Solteros)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:25.521945"
+    },
+    {
+      "file_id": 40534,
+      "law_name": "Decreto 543-544 (Reformas y Adiciones a la  Ley de Fomento Ecomomico)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:26.616365"
+    },
+    {
+      "file_id": 40535,
+      "law_name": "Decreto 572 (Ley del Sistema Penitenciario y Reformas al Codigo Penal, Ley Organica de la Administracion y del Poder Judicial",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:27.736431"
+    },
+    {
+      "file_id": 40536,
+      "law_name": "Decreto 578 (Ley Electoral)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:28.830606"
+    },
+    {
+      "file_id": 40537,
+      "law_name": "Decreto 579.- Ley Medios Impugnación",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:29.957569"
+    },
+    {
+      "file_id": 40538,
+      "law_name": "Decreto 701 (Ley Tratamiento y Control de Adicciones)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:31.049005"
+    },
+    {
+      "file_id": 40539,
+      "law_name": "Decreto 744 Ley de Turismo",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:32.172299"
+    },
+    {
+      "file_id": 40540,
+      "law_name": "Decreto 759.- Ley de Transito del Estado",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:33.270384"
+    },
+    {
+      "file_id": 40541,
+      "law_name": "Decreto 795.- Ley para el Desarrollo Social y Humano y Comunidades Indigenas",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:34.372498"
+    },
+    {
+      "file_id": 40542,
+      "law_name": "Decreto 901.- Ley del Periodico Oficial",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:35.463168"
+    },
+    {
+      "file_id": 40381,
+      "law_name": "Decreto 918.- Reformas a Diversos Articulos a la Ley de Justicia Administrativa",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:36.553968"
+    },
+    {
+      "file_id": 40383,
+      "law_name": "Decreto 919.- Reformas al Decreto 750 pub el 25 OCT 2011",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:37.652601"
+    },
+    {
+      "file_id": 40387,
+      "law_name": "Decreto 920.- Reformas al Decreto de la Creacion del Organismo Operador Descentralizado del Ayuntamiento  del  Agua de Cedral",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:38.782460"
+    },
+    {
+      "file_id": 40390,
+      "law_name": "Decreto 921.- Reformas al Decreto de la Creación Organismo del Agua de Cerritos",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:39.876223"
+    },
+    {
+      "file_id": 40394,
+      "law_name": "Decreto 922.- Reformas al Decreto de Creacion Organismo del Agua de Matehuala",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:40.975557"
+    },
+    {
+      "file_id": 40396,
+      "law_name": "Decreto 923.- Reformas al Decreto de Creacion del Organismo del Agua de Rioverde",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:42.072214"
+    },
+    {
+      "file_id": 40398,
+      "law_name": "Decreto 924.- Reformas al Decreto de Creacion del Organismo del Agua de San Ciro",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:43.171828"
+    },
+    {
+      "file_id": 40401,
+      "law_name": "Decreto 925.- Clausura al Decimo Cuarto Periodo Extraordinario",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:44.270553"
+    },
+    {
+      "file_id": 40403,
+      "law_name": "Decreto 926.- Convocatoria al Periodo Extraordinario de Sesiones (16 de feberro de 2012)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:45.384194"
+    },
+    {
+      "file_id": 40979,
+      "law_name": "Ley de Consulta Indigena para el Estado y Municipios",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:46.477907"
+    },
+    {
+      "file_id": 77437,
+      "law_name": "Ley de los Derechos de Niñas, Niños y Adolescentes",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:47.584870"
+    },
+    {
+      "file_id": 40180,
+      "law_name": "Ley del Sistema de Seguridad Pública del Estado",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:48.693131"
+    },
+    {
+      "file_id": 40981,
+      "law_name": "Reformas y Adiciones a la Ley de Fomento Económico del Estado",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:49.820737"
+    },
+    {
+      "file_id": 42326,
+      "law_name": "Reglas de Operación del Programa para la Fiscalización del Gasto Federalizado en el Ejercicio Fiscal 2010",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:50.927662"
+    }
   ]
 }

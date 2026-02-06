@@ -1652,5 +1652,63 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/tlaxcala/se_reforman_los_puntos_segundo_tercero_y_cuarto_del_acuerdo_publicado_en_el_periódico_oficial_del_go_62008.doc",
       "law_name": "Se reforman los puntos SEGUNDO TERCERO y CUARTO del Acuerdo publicado en el Periódico Oficial del Gobierno del Estado de fecha dos de enero del dos mil catorce"
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 88056,
+      "law_name": "Acuerdo OFS/02/2020. Por el que se declara suspensión de las actividades de revisión y fiscalización superior, trámites, términos, plazos para las actuaciones y diligencias vinculadas al Órgano de Fiscalización Superior del Congreso del Estado ante la contingencia sanitaria por COVID19, a partir de las dieciocho horas del día 20 de marzo de 2020.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:00.813789"
+    },
+    {
+      "file_id": 89720,
+      "law_name": "Acuerdo OFS/04/2020. por el que se declara la reanudación de las actividades de revisión y fiscalización superior, trámites, términos, plazos para las actuaciones y diligencias vinculadas al Órgano de Fiscalización Superior del Congreso del Estado, a partir de las nueve horas del día quince de septiembre de dos mil veinte, mismas que fueron suspendidas por acuerdo OFS/02/2020, a partir de las dieciocho horas del día veinte de marzo de dos mil veinte, con motivo de la emergencia sanitaria por causa de la enfermedad generada por el virus SARS-COV2 (COVID-19), así como de las medidas de prevención y contención de la propagación de la enfermedad generada por el nuevo coronavirus SARS-COV2 (COVID-19), emitidas por las autoridades de salud.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:01.962395"
+    },
+    {
+      "file_id": 88058,
+      "law_name": "Acuerdo.- por el que se determina que el Pleno del Congreso del Estado desahogará sesiones extraordinarias públicas electrónicas respecto de los asuntos que la Junta de Coordinación y Concertación Política, como Máximo Órgano de Gobierno del Congreso Local, estime urgentes y/o de obvia resolución, dichas sesiones se desarrollarán mientras persista la declaración de emergencia sanitaria por causa de fuerza mayor originada por el coronavirus (COVID-19).",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:03.081995"
+    },
+    {
+      "file_id": 89719,
+      "law_name": "Acuerdo.- Se determina suspender temporalmente la entrega de la presea Miguel N. Lira hasta que existan las condiciones sanitarias, tomando en consideración las recomendaciones de las autoridades de salud.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:04.191770"
+    },
+    {
+      "file_id": 88617,
+      "law_name": "Acuerdo.- Se exhorta a los 60 Ayuntamientos y a los Organismos Autónomos de Agua Potable y a las Comisiones de Agua Potable del Estado de Tlaxcala, a expedir Acuerdos que coadyuven con las acciones emprendidas por los órdenes de Gobierno Federal y Estatal, implementando políticas públicas en beneficio de la población tlaxcalteca, a fin de enfrentar la crisis económica por la pandemia COVID-19; diferir el pago del servicio de agua potable, suspender el pago de servicio de parquímetros y cancelar toda orden de corte de suministro de agua potable.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:05.346685"
+    },
+    {
+      "file_id": 88616,
+      "law_name": "Acuerdo.- Se exhorta a los sesenta Ayuntamientos de nuestra entidad así como a los Titulares de las Presidencias de Comunidad, para que de forma inmediata, en cumplimiento a su facultad reglamentaria, emitan y ejecuten los Acuerdos de cabildo que, en armonía con los lineamientos y determinaciones de las Autoridades Federales y Estatales, hagan efectivas las medidas preventivas cuyo objetivo sea el distanciamiento social para la mitigación de la transmisión poblacional de virus SARS-COV2 (COVID-19), disminuyendo así el número de  contagios de persona a persona, y por ende, el de propagación de la enfermedad.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:06.487930"
+    },
+    {
+      "file_id": 88483,
+      "law_name": "Decreto No. 205.- Se reforma el artículo tercero transitorio, y se adicionan los artículos transitorios décimo primero y décimo segundo, todos del Decreto 185 que contiene la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Tlaxcala y sus Municipios, publicado en el Periódico Oficial del Gobierno del Estado tomo XCVIII Segunda Época, número 3 Extraordinario, de fecha 24 de diciembre de 2019.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:51:07.601923"
+    }
   ]
 }

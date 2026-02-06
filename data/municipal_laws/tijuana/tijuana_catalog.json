@@ -1,0 +1,34 @@
+{
+  "city": "tijuana",
+  "scrape_date": "2026-02-05T18:37:54.910044",
+  "total_found": 4,
+  "downloaded": 4,
+  "failed": 0,
+  "laws": [
+    {
+      "name": "Código de Conducta",
+      "url": "https://www.tijuana.gob.mx/pdf/CodigoConductaPresidencia_06-2023.pdf",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/tijuana/código_de_conducta.pdf",
+      "municipality": "tijuana"
+    },
+    {
+      "name": "Normatividad",
+      "url": "https://www.tijuana.gob.mx/normatividad/",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/tijuana/normatividad.pdf",
+      "municipality": "tijuana"
+    },
+    {
+      "name": "Código de Conducta",
+      "url": "https://www.tijuana.gob.mx/pdf/CodigoConductaPresidencia_06-2023.pdf",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/tijuana/código_de_conducta.pdf",
+      "municipality": "tijuana"
+    },
+    {
+      "name": "Normatividad",
+      "url": "https://www.tijuana.gob.mx/normatividad",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/municipal_laws/tijuana/normatividad.pdf",
+      "municipality": "tijuana"
+    }
+  ],
+  "failed_laws": []
+}

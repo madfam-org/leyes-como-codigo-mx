@@ -68,6 +68,16 @@ data/state_laws/*.tar.gz
 !data/state_laws/**/*_metadata.json
 !data/state_laws/*.json
 
+# Municipal law files (large PDFs)
+data/municipal_laws/**/*.pdf
+data/municipal_laws/**/*.doc
+data/municipal_laws/**/*.docx
+
+# But keep municipal metadata JSONs
+!data/municipal_laws/**/*_metadata.json
+!data/municipal_laws/**/*_catalog.json
+!data/municipal_laws/*.json
+
 # XML outputs (generated)
 data/xml/states/
 

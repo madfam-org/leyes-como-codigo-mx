@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-02-05T18:30:51.838379",
+  "states": [
+    {
+      "state_name": "Baja California",
+      "recovered": 0,
+      "still_failed": 2,
+      "permanent": 2,
+      "transient": 0
+    },
+    {
+      "state_name": "Campeche",
+      "recovered": 0,
+      "still_failed": 2,
+      "permanent": 2,
+      "transient": 0
+    },
+    {
+      "state_name": "Estado de México",
+      "recovered": 0,
+      "still_failed": 141,
+      "permanent": 141,
+      "transient": 0
+    },
+    {
+      "state_name": "Guerrero",
+      "recovered": 0,
+      "still_failed": 26,
+      "permanent": 26,
+      "transient": 0
+    },
+    {
+      "state_name": "Michoacán",
+      "recovered": 0,
+      "still_failed": 504,
+      "permanent": 504,
+      "transient": 0
+    },
+    {
+      "state_name": "Morelos",
+      "recovered": 0,
+      "still_failed": 26,
+      "permanent": 26,
+      "transient": 0
+    },
+    {
+      "state_name": "Nuevo León",
+      "recovered": 0,
+      "still_failed": 14,
+      "permanent": 14,
+      "transient": 0
+    },
+    {
+      "state_name": "Querétaro",
+      "recovered": 0,
+      "still_failed": 10,
+      "permanent": 9,
+      "transient": 1
+    },
+    {
+      "state_name": "San Luis Potosí",
+      "recovered": 0,
+      "still_failed": 47,
+      "permanent": 47,
+      "transient": 0
+    },
+    {
+      "state_name": "Sonora",
+      "recovered": 0,
+      "still_failed": 3,
+      "permanent": 3,
+      "transient": 0
+    },
+    {
+      "state_name": "Tabasco",
+      "recovered": 0,
+      "still_failed": 1,
+      "permanent": 1,
+      "transient": 0
+    },
+    {
+      "state_name": "Tlaxcala",
+      "recovered": 0,
+      "still_failed": 7,
+      "permanent": 7,
+      "transient": 0
+    }
+  ],
+  "total_recovered": 0,
+  "total_permanent": 782,
+  "total_transient": 1
+}

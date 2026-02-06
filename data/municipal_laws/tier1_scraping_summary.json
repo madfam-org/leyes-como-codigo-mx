@@ -1,0 +1,44 @@
+{
+  "scrape_date": "2026-02-05T18:38:31.855808",
+  "cities_attempted": 6,
+  "results": [
+    {
+      "city": "cdmx",
+      "found": 27,
+      "downloaded": 26,
+      "failed": 1
+    },
+    {
+      "city": "guadalajara",
+      "found": 104,
+      "downloaded": 104,
+      "failed": 0
+    },
+    {
+      "city": "monterrey",
+      "found": 78,
+      "downloaded": 78,
+      "failed": 0
+    },
+    {
+      "city": "puebla",
+      "found": 5,
+      "downloaded": 5,
+      "failed": 0
+    },
+    {
+      "city": "tijuana",
+      "found": 4,
+      "downloaded": 4,
+      "failed": 0
+    },
+    {
+      "city": "leon",
+      "found": 1,
+      "downloaded": 0,
+      "failed": 1
+    }
+  ],
+  "total_found": 219,
+  "total_downloaded": 217
+}

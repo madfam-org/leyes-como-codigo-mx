@@ -1796,5 +1796,119 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/nuevo_león/reglamento_para_el_gobierno_interior_del_congreso_del_estado_de_nuevo_león_6346.doc",
       "law_name": "Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León"
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 88149,
+      "law_name": "ACUERDO NÚM. 295. SE APRUEBA SUSPENDER LAS SESIONES ORDINARIAS DE ESTE H. CONGRESO, A PARTIR DEL DÍA 17 DE MARZO AL 30 DE ABRIL, O HASTA UNA VEZ QUE CESE LA DECLARATORIA DE SUSPENSIÓN DE ACTIVIDADES. DURANTE ESTE PERIODO PODRÁN CELEBRARSE SESIONES EN LÍNEA POR PARTE DE LOS ÓRGANOS LEGISLATIVOS DE DECISIÓN, DIRECCIÓN Y TRABAJO LEGISLATIVO, SIEMPRE Y CUANDO SE CUENTE CON LA INFRAESTRUCTURA TECNOLÓGICA NECESARIA Y EN CASO DE EMERGENCIA DURANTE ESTE PERÍODO SE DEBERÁ DE CONVOCAR A SESIÓN DE ESTA LEGISLATURA CON 24 HORAS DE ANTICIPACIÓN",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:13.111028"
+    },
+    {
+      "file_id": 88150,
+      "law_name": "ACUERDO NÚM. 296. SE AUTORIZA QUE CUANDO EXISTA DECLARATORIA DE EMERGENCIA DE PROTECCIÓN CIVIL O SANITARIA EMITIDA POR AUTORIDAD COMPETENTE EN TÉRMINOS DE LA LEGISLACIÓN APLICABLE, LAS REUNIONES DE LOS ÓRGANOS LEGISLATIVOS DE DECISIÓN, DIRECCIÓN Y TRABAJO LEGISLATIVO PODRÁN SER LLEVADAS A CABO POR MEDIOS TELEMÁTICOS, DECLARÁNDOSE COMO VÁLIDA LA ASISTENCIA DE LOS INTEGRANTES DE ESTA LEGISLATURA QUE COMPAREZCAN A TRAVÉS DE DICHOS MEDIOS, CUMPLIÉNDOSE LOS REQUISITOS Y FORMALIDADES ESTABLECIDAS EN EL MARCO JURÍDICO DEL PODER LEGISLATIVO",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:14.265949"
+    },
+    {
+      "file_id": 88206,
+      "law_name": "ACUERDO NÚM. 297. LA LXXV LEGISLATURA AL H. CONGRESO DEL ESTADO DE NUEVO LEÓN, APRUEBA MODIFICAR POR ADICIÓN DE LOS TRANSITORIOS TERCERO Y CUARTO AL ACUERDO 295, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, TOMO CLVII, NÚMERO 41 III, DEL DÍA 03 DE ABRIL DEL AÑO EN CURSO",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:15.413600"
+    },
+    {
+      "file_id": 89516,
+      "law_name": "ACUERDO Núm. 418. la LXXV Legislatura al H. Congreso del Estado de Nuevo León aprueba emitir la declaratoria para que las sesiones del Pleno del Congreso se lleven a cabo de manera presencial y a través de medios electrónicos conjuntamente durante el primer periodo ordinario de sesiones correspondiente al tercer año de Ejercicio Constitucional.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:16.551531"
+    },
+    {
+      "file_id": 89520,
+      "law_name": "ACUERDO Núm. 418. la LXXV Legislatura al H. Congreso del Estado de Nuevo León aprueba emitir la declaratoria para que las sesiones del Pleno del Congreso se lleven a cabo de manera presencial y a través de medios electrónicos conjuntamente durante el primer periodo ordinario de sesiones correspondiente al tercer año de Ejercicio Constitucional.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:17.656323"
+    },
+    {
+      "file_id": 89573,
+      "law_name": "ACUERDO Núm. 433. se aprueba emitir la declaratoria para que las sesiones de los órganos de trabajo legislativo se lleven a cabo de manera presencial y a través de medios electrónicos conjuntamente durante el tercer año de ejercicio constitucional. lo anterior, hasta en tanto subsista la declaratoria de emergencia sanitaria por causa de fuerza mayor generada por el virus SARS-COV2 (COVID-19).",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:18.805876"
+    },
+    {
+      "file_id": 89574,
+      "law_name": "ACUERDO Núm. 436. la Septuagésima Quinta Legislatura al Congreso del Estado de Nuevo León, solicita al Honorable Congreso de la Unión, el análisis y en su caso aprobación del proyecto de Decreto Que Reforma La Ley del Impuesto Sobre la Renta; y la Ley del Impuesto Especial Sobre Producción y Servicios.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:19.944050"
+    },
+    {
+      "file_id": 89061,
+      "law_name": "ACUERDO por el que se adoptan medidas administrativas para la reanudación progresiva de las actividades y tránsito hacia la nueva normalidad laboral en la Auditoría Superior del Estado de Nuevo León, por el fenómeno de salud pública provocado por el virus SARS-COV2.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:21.094476"
+    },
+    {
+      "file_id": 89281,
+      "law_name": "ACUERDO por el que se adoptan medidas administrativas para la reanudación progresiva de las actividades y tránsito hacia la nueva normalidad laboral en la Auditoría Superior del Estado de Nuevo León, por el fenómeno de salud pública provocado por el virus SARS-COV2.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:22.158400"
+    },
+    {
+      "file_id": 89382,
+      "law_name": "ACUERDO por el que se definen las Directrices de Operación, en el tránsito hacía la Nueva Normalidad Laboral en la Auditoría Superior del Estado de Nuevo León, por el fenómeno de salud pública provocado por el VIRUS SARS-COV2.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:23.302508"
+    },
+    {
+      "file_id": 89771,
+      "law_name": "ACUERDO por el que se deroga el artículo segundo transitorio y el acuerdo quinto, del diverso por el que se definen las directrices de operación, en el tránsito hacia la nueva normalidad laboral en la Auditoría Superior del Estado de Nuevo León, por el fenómeno de salud pública provocado por el Virus SARS-COV2 publicado en el Periódico Oficial del Estado del 19 de agosto de dos mil veinte.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:24.442223"
+    },
+    {
+      "file_id": 88508,
+      "law_name": "ACUERDO por el que se determina que no correrán durante el 4 mayo de 2020 y los días que van del 6 al 29 de mayo de dicha anualidad, términos y plazos para ningún efecto legal en la Auditoría Superior del Estado de Nuevo León y se establecen medidas administrativas para contener la propagación del coronavirus COVID-19",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:25.577080"
+    },
+    {
+      "file_id": 89250,
+      "law_name": "ACUERDO por el que se habilitan en horario de 9:00 a 18:00 horas, los días 13 al 17 y 20 al 24 de julio de 2020, correspondientes al primer periodo vacacional en la Auditoría Superior del Estado, únicamente para los efectos de que la autoridad instructora competente de los procedimientos para el fincamiento de responsabilidades resarcitorias, y las unidades de investigación y substanciadora, responsables en este órgano fiscalizador de investigar faltas administrativas graves y tramitar los procedimientos respectivos, en los términos de la ley general de responsabilidades administrativas.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:26.748911"
+    },
+    {
+      "file_id": 88108,
+      "law_name": "DECLARATORIA DE EMERGENCIA DE CON EL OBJETO DE EVITAR LA PROPAGACIÓN DEL VIRUS COVID-19 EN EL MUNICIPIO DE GUADALUPE, NUEVO LEÓN",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:27.884566"
+    }
   ]
 }

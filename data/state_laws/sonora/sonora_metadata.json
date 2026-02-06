@@ -3281,5 +3281,31 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/sonora/lineamientos_generales_para_la_clasificación_y_desclasificación_de_la_información_de_los_sujetos_obl_38221.doc",
       "law_name": "Lineamientos Generales para la Clasificación y Desclasificación de la Información de los Sujetos Obligados en el Estado de Sonora"
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 88933,
+      "law_name": "Decreto número 116, que adiciona diversas disposiciones al Código Penal del Estado de Sonora.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:53.529517"
+    },
+    {
+      "file_id": 88935,
+      "law_name": "Decreto número 117, que reforma y adiciona diversas disposiciones del Código Penal del Estado de Sonora y de la Ley de Salud para el Estado de Sonora.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:54.651292"
+    },
+    {
+      "file_id": 88512,
+      "law_name": "Decreto número lll. que prorroga el Segundo Periodo de Sesiones Ordinarias del Segundo Año del Ejercicio Constitucional de la LXII Legislatura del Congreso del Estado de Sonora.",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:50:55.772032"
+    }
   ]
 }

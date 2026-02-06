@@ -11048,5 +11048,88 @@
       "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws/querétaro/universidad_aeronáutica_en_querétaro_19287.doc",
       "law_name": "Universidad Aeronáutica en Querétaro"
     }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 88171,
+      "law_name": "Acta del Pleno del 17 de marzo de 2020 mediante la cual se aprueba el Acuerdo General para atención de Contingencia Sanitaria COVID-19",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:30.950333"
+    },
+    {
+      "file_id": 88174,
+      "law_name": "Acuerdo de Lineamientos aplicables a los servidores públicos del Instituto Queretano del\r\nTransporte para el desempeño de sus funciones y el control de la enfermedad COVID19",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:32.084216"
+    },
+    {
+      "file_id": 88176,
+      "law_name": "Acuerdo por el que se establece la suspensión, plazos y términos en Instituto del Deporte y la Recreación del Estado de Querétaro",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:33.222874"
+    },
+    {
+      "file_id": 88871,
+      "law_name": "Acuerdo por el que se habilitan los días 29 y 30 de abril de 2020, para llevar a cabo actividades legislativas y administrativas en el recinto oficial del Poder Legislativo del Estado de Querétaro, dentro del periodo de suspensión decretado por la contingencia originada por el COVID-19 en la entidad",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:34.358640"
+    },
+    {
+      "file_id": 88870,
+      "law_name": "Acuerdo por el que se suspenden las actividades en el Recinto Oficial del Poder Legislativo del Estado de Querétaro, durante el periodo comprendido del día 07 al 30 de abril de 2020, derivado de la contingencia producida por el COVID-19 en la entidad",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:35.493302"
+    },
+    {
+      "file_id": 88873,
+      "law_name": "Acuerdo por el que se tiene como causa justificada para la no presentación de las declaraciones de situación patrimonial y la de intereses, en los plazos previstos en los artículos 33 y 48 de la Ley General de Responsabilidades Administrativas y 25 de la Ley de Responsabilidades Administrativas del Estado de Querétaro, la emergencia sanitaria derivada de la enfermedad generada por el coronavirus SARS-CoV2 (COVID-19)",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:36.628273"
+    },
+    {
+      "file_id": 88442,
+      "law_name": "Acuerdo que autoriza el programa de ayuda social de protección a los usuarios y operadores del servicio de transporte publico y especializado en el estado de Querétaro, para mitigar el riesgo de propagación del COVID-19",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:37.769361"
+    },
+    {
+      "file_id": 88872,
+      "law_name": "Acuerdo que modifica el Acuerdo por el que se implementan medidas de seguridad y control para el desarrollo de actividades en las instalaciones del Poder Legislativo del Estado de Querétaro, durante la contingencia producida por el COVID-19 en la entidad",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:38.873852"
+    },
+    {
+      "file_id": 89316,
+      "law_name": "Acuerdo que modifica el artículo segundo, apartado B, punto 13, del Acuerdo por el que se implementan medidas de seguridad y control para el desarrollo de actividades en las instalaciones del Poder Legislativo del Estado de Querétaro, durante la contingencia producida por el COVID-19 en la entidad",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "permanent",
+      "retry_timestamp": "2026-02-05T18:44:40.007742"
+    },
+    {
+      "file_id": 66439,
+      "law_name": "Ley del Escudo, la Bandera y el Himno del Estado de Querétaro",
+      "failure_reason": "not_attempted",
+      "download_url": "",
+      "retry_result": "transient",
+      "retry_error": "HTTPConnectionPool(host='compilacion.ordenjuridico.gob.mx', port=80): Read timed out. (read timeout=60)",
+      "retry_timestamp": "2026-02-05T18:49:57.460292"
+    }
   ]
 }

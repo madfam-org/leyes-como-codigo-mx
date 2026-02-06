@@ -178,6 +178,7 @@ def _build_pipeline_phases(params):
     skip_scrape = params.get("skip_scrape", False)
     skip_states = params.get("skip_states", False)
     skip_municipal = params.get("skip_municipal", False)
+    skip_municipal_ojn = params.get("skip_municipal_ojn", False)
     skip_index = params.get("skip_index", False)
     workers = params.get("workers", 4)
 
@@ -205,10 +206,18 @@ def _build_pipeline_phases(params):
             phases.append(
                 {
                     "name": "Scrape municipal laws",
-                    "cmd": ["python", "scripts/scraping/scrape_municipal.py"],
+                    "cmd": ["python", "scripts/scraping/scrape_tier1_cities.py"],
                     "cwd": str(BASE_DIR),
                 }
             )
+            if not skip_municipal_ojn:
+                phases.append(
+                    {
+                        "name": "Scrape municipal laws (OJN)",
+                        "cmd": ["python", "scripts/scraping/bulk_municipal_scraper.py"],
+                        "cwd": str(BASE_DIR),
+                    }
+                )
 
     # Always consolidate state metadata (needed for ingestion, cheap to run)
     phases.append(
@@ -218,6 +227,19 @@ def _build_pipeline_phases(params):
             "cwd": str(BASE_DIR),
         }
     )
+
+    # Consolidate municipal metadata
+    if not skip_municipal:
+        phases.append(
+            {
+                "name": "Consolidate municipal metadata",
+                "cmd": [
+                    "python",
+                    "scripts/scraping/consolidate_municipal_metadata.py",
+                ],
+                "cwd": str(BASE_DIR),
+            }
+        )
 
     # Federal ingestion
     phases.append(
@@ -245,6 +267,16 @@ def _build_pipeline_phases(params):
             "cwd": str(BASE_DIR),
         }
     )
+
+    # Municipal ingestion
+    if not skip_municipal:
+        phases.append(
+            {
+                "name": "Ingest municipal laws",
+                "cmd": ["python", "manage.py", "ingest_municipal_laws", "--all"],
+                "cwd": str(BASE_DIR),
+            }
+        )
 
     # Elasticsearch indexing
     if not skip_index:

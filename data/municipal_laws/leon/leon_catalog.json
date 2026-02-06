@@ -1,0 +1,16 @@
+{
+  "city": "leon",
+  "scrape_date": "2026-02-05T18:38:31.850891",
+  "total_found": 1,
+  "downloaded": 0,
+  "failed": 1,
+  "laws": [],
+  "failed_laws": [
+    {
+      "law_name": "NormatividadEn este apartado podrás consultar de manera sencilla la normatividad vigente en materia de\ntransparencia, accesible para todas y todos.",
+      "failure_reason": "download_failed",
+      "download_url": "https://www.leon.gob.mx/articulo.php?a=95",
+      "timestamp": "2026-02-05T18:38:31.850867"
+    }
+  ]
+}

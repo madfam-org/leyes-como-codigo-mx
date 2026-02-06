@@ -28,6 +28,7 @@ def main():
     all_laws = []
     states_found = 0
     states_skipped = 0
+    gap_summary = []
 
     # Find all per-state metadata files
     for metadata_file in sorted(state_laws_dir.glob("*/*_metadata.json")):
@@ -42,6 +43,27 @@ def main():
         state_name = state_data.get("state_name", metadata_file.parent.name)
         state_id = state_data.get("state_id", metadata_file.parent.name)
         laws = state_data.get("laws", [])
+        failed_laws = state_data.get("failed_laws", [])
+        total_found = state_data.get("total_found", 0)
+        successful = state_data.get("successful", 0)
+        failed_count = state_data.get("failed", 0)
+
+        # Track gap summary for all states (even those with 0 laws)
+        if failed_count > 0 or total_found != successful:
+            permanent = sum(
+                1 for fl in failed_laws if fl.get("retry_result") == "permanent"
+            )
+            gap_summary.append(
+                {
+                    "state_name": state_name,
+                    "state_id": state_id,
+                    "total_found": total_found,
+                    "successful": successful,
+                    "failed": failed_count,
+                    "failure_details": len(failed_laws),
+                    "permanent_failures": permanent,
+                }
+            )
 
         if not laws:
             print(f"  SKIP: {state_name} (no laws)")
@@ -82,6 +104,7 @@ def main():
         "total_states": states_found,
         "total_laws": len(all_laws),
         "states_skipped": states_skipped,
+        "gap_summary": gap_summary,
         "laws": all_laws,
     }
 
@@ -89,6 +112,11 @@ def main():
         json.dump(consolidated_data, f, indent=2, ensure_ascii=False)
 
     print(f"\nConsolidated {len(all_laws)} laws from {states_found} states.")
+    if gap_summary:
+        total_gaps = sum(g["failed"] for g in gap_summary)
+        print(
+            f"Gap summary: {len(gap_summary)} states with {total_gaps} total failures"
+        )
     print(f"Saved to {output_file}")
     return 0
 
