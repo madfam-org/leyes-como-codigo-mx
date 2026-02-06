@@ -21,6 +21,7 @@ jobs:
     permissions:
       contents: write
       packages: write
+      id-token: write
 
     steps:
       - name: Checkout
@@ -55,24 +56,34 @@ jobs:
           provenance: false
           sbom: false
 
-      - name: Update kustomization digest
+      - name: Install cosign
+        uses: sigstore/cosign-installer@v3
+
+      - name: Sign image with cosign
+        run: |
+          cosign sign --yes \
+            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}@${{ steps.build.outputs.digest }}
+
+      - name: Commit image digest
         run: |
           DIGEST="${{ steps.build.outputs.digest }}"
-          cd k8s/production
-          sed -i "/name: ghcr.io\/madfam-org\/tezca\/admin/{n;s|newTag:.*|newTag: \"${DIGEST}\"|}" kustomization.yaml
-
-      - name: Commit and push digest
-        run: |
           git config user.name "madfam-bot"
           git config user.email "bot@madfam.dev"
-          git add k8s/production/kustomization.yaml
-          for i in 1 2 3 4 5; do
-            git pull --rebase origin main
-            git commit -m "deploy(admin): update image digest to ${GITHUB_SHA::8}" --allow-empty && \
-            git push origin main && break
-            echo "Retry $i..."
-            sleep $((i * 2))
+          for ATTEMPT in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            cd k8s/production
+            kustomize edit set image ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}=${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}@${DIGEST}
+            cd ../..
+            git add k8s/production/kustomization.yaml
+            git diff --staged --quiet && echo "No changes to commit" && exit 0
+            git commit -m "deploy(admin): update digest to ${GITHUB_SHA::8}"
+            git push origin main && exit 0
+            echo "Retry $ATTEMPT..."
+            sleep $((ATTEMPT * 2))
           done
+          echo "Failed after 3 attempts"
+          exit 1
 
       - name: Report lifecycle event
         if: always()

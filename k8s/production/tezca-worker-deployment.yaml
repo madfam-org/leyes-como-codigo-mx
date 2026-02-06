@@ -7,6 +7,7 @@ metadata:
     app.kubernetes.io/part-of: tezca
 spec:
   replicas: 1
+  revisionHistoryLimit: 3
   selector:
     matchLabels:
       app.kubernetes.io/name: tezca-worker
@@ -16,9 +17,21 @@ spec:
         app.kubernetes.io/name: tezca-worker
         app.kubernetes.io/part-of: tezca
     spec:
+      imagePullSecrets:
+        - name: ghcr-credentials
+      securityContext:
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
       containers:
         - name: worker
           image: ghcr.io/madfam-org/tezca/api
+          securityContext:
+            privileged: false
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: false
+            capabilities:
+              drop: ["ALL"]
           command:
             - celery
             - -A

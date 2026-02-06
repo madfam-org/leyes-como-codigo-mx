@@ -7,6 +7,7 @@ metadata:
     app.kubernetes.io/part-of: tezca
 spec:
   replicas: 1
+  revisionHistoryLimit: 3
   selector:
     matchLabels:
       app.kubernetes.io/name: tezca-redis
@@ -16,9 +17,19 @@ spec:
         app.kubernetes.io/name: tezca-redis
         app.kubernetes.io/part-of: tezca
     spec:
+      securityContext:
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
       containers:
         - name: redis
-          image: redis:7-alpine
+          image: docker.io/library/redis:7-alpine
+          securityContext:
+            privileged: false
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: true
+            capabilities:
+              drop: ["ALL"]
           ports:
             - containerPort: 6379
               protocol: TCP

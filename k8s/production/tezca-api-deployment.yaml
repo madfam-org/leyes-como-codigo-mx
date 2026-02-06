@@ -7,6 +7,7 @@ metadata:
     app.kubernetes.io/part-of: tezca
 spec:
   replicas: 2
+  revisionHistoryLimit: 3
   selector:
     matchLabels:
       app.kubernetes.io/name: tezca-api
@@ -16,9 +17,21 @@ spec:
         app.kubernetes.io/name: tezca-api
         app.kubernetes.io/part-of: tezca
     spec:
+      imagePullSecrets:
+        - name: ghcr-credentials
+      securityContext:
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
       containers:
         - name: api
           image: ghcr.io/madfam-org/tezca/api
+          securityContext:
+            privileged: false
+            allowPrivilegeEscalation: false
+            readOnlyRootFilesystem: false
+            capabilities:
+              drop: ["ALL"]
           ports:
             - containerPort: 8000
               protocol: TCP
@@ -62,7 +75,7 @@ spec:
             - name: CORS_ALLOWED_ORIGINS
               value: "https://tezca.mx,https://www.tezca.mx,https://admin.tezca.mx"
             - name: JANUA_BASE_URL
-              value: "https://auth.madfam.dev"
+              value: "https://auth.madfam.io"
             - name: JANUA_AUDIENCE
               value: "tezca-api"
           livenessProbe:
