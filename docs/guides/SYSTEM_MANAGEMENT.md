@@ -254,28 +254,55 @@ python scripts/ingestion_status.py
 python scripts/ingestion_status.py --law ccf
 ```
 
-## Production Deployment
+## Production Deployment (Tezca)
+
+Production runs on the MADFAM ecosystem at **tezca.mx** via enclii + ArgoCD.
+
+**Full guide**: [docs/deployment/PRODUCTION_DEPLOYMENT.md](../deployment/PRODUCTION_DEPLOYMENT.md)
+
+### CI/CD Pipeline
+
+Pushes to `main` trigger automated builds:
+
+```
+Push (matching paths) → Docker build → Push to GHCR → Update kustomization digest → ArgoCD sync
+```
+
+Three separate workflows: `deploy-api.yml`, `deploy-web.yml`, `deploy-admin.yml`.
 
 ### Pre-deployment Checklist
 
-- [ ] All tests passing (`make test`)
-- [ ] All 10 laws ingested successfully
-- [ ] Coverage > 85%
-- [ ] Docker images built
-- [ ] Environment variables configured
-- [ ] Database migrations applied
+- [x] Dockerfiles hardened (multi-stage, non-root, HEALTHCHECK)
+- [x] Django security (HSTS, secure cookies, SSL redirect)
+- [x] Janua auth (admin API + admin console)
+- [x] K8s manifests + enclii specs
+- [x] CI/CD workflows
+- [ ] GitHub secrets configured
+- [ ] K8s `tezca-secrets` created
+- [ ] Janua OAuth client registered
+- [ ] Cloudflare DNS configured
+- [ ] ArgoCD application added
+- [ ] Initial migration + ES indexing run
+- [ ] All domains smoke-tested
 
-### Deployment Commands
+### Quick Commands (via enclii)
 
 ```bash
-# Build production images
-docker-compose -f docker-compose.prod.yml build
+# Run database migration
+enclii exec tezca-api -- python apps/manage.py migrate
 
-# Start production services
-docker-compose -f docker-compose.prod.yml up -d
+# Collect static files
+enclii exec tezca-api -- python apps/manage.py collectstatic --noinput
 
-# Health check
-make health
+# Build search indices
+enclii exec tezca-api -- python apps/manage.py index_laws --all --create-indices
+
+# Check Django deployment security
+enclii exec tezca-api -- python apps/manage.py check --deploy
+
+# View pod logs
+enclii logs tezca-api
+enclii logs tezca-worker
 ```
 
 ## Maintenance

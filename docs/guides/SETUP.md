@@ -75,7 +75,7 @@ poetry run python manage.py runserver
 poetry run celery -A apps.indigo worker --loglevel=info
 ```
 
-## Docker Deployment
+## Docker Deployment (Local)
 
 ```bash
 # Set required env vars
@@ -87,6 +87,18 @@ docker compose up -d
 ```
 
 This starts: API, Celery worker, Web, Admin, PostgreSQL, Redis, Elasticsearch.
+
+## Production Deployment (Tezca)
+
+The production environment runs on the MADFAM ecosystem at **tezca.mx** using enclii (DevOps) and Janua (auth).
+
+See the complete deployment guide: **[docs/deployment/PRODUCTION_DEPLOYMENT.md](../deployment/PRODUCTION_DEPLOYMENT.md)**
+
+Key files:
+- `enclii.yaml` — Service onboarding spec
+- `deployment/enclii/` — 7 per-service specs
+- `k8s/production/` — 16 K8s manifests (kustomization, deployments, services, PVCs)
+- `.github/workflows/deploy-{api,web,admin}.yml` — CI/CD pipelines
 
 ## Running Tests
 

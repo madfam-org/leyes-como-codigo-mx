@@ -39,14 +39,34 @@ All numbers sourced from `data/universe_registry.json`.
 ### Platform Health
 
 ```
-Backend (Django):  ✅ Stable
-Database:          ✅ PostgreSQL production-ready
+Backend (Django):  ✅ Stable (production-hardened: HSTS, secure cookies, structured logging)
+Database:          ✅ PostgreSQL production-ready (shared MADFAM cluster)
 Search:            ✅ Elasticsearch operational (860K+ articles)
 Scraping:          ✅ OJN pipeline functional
 Frontend (Next):   ✅ Phase 3 UI/UX complete (comparison tool, mobile, dark mode, visual QA, search autocomplete)
-Admin Panel:       🔄 In development
+Admin Panel:       ✅ Functional (Janua auth integrated, 4 dashboard pages)
 DataOps:           ✅ Gap tracking, health monitoring, coverage dashboard operational
+Deployment:        🔄 Infrastructure ready, pending manual provisioning (see below)
 ```
+
+### Deployment Status (Tezca)
+
+**Brand**: Tezca | **Domain**: tezca.mx | **Full details**: [Production Deployment Guide](../deployment/PRODUCTION_DEPLOYMENT.md)
+
+| Component | Status |
+|-----------|--------|
+| Dockerfiles (3 services, multi-stage) | ✅ Done |
+| Janua JWT auth (admin API + admin console) | ✅ Done |
+| K8s manifests (16 files, HPA, PVCs) | ✅ Done |
+| Enclii specs (7 services) | ✅ Done |
+| CI/CD workflows (3 deploy pipelines) | ✅ Done |
+| Python deps (PyJWT, cryptography) | ✅ Done |
+| Private npm package (@janua/nextjs) | ⏳ Needs registry config |
+| GitHub secrets (GHCR token, enclii callback) | ⏳ Needs repo admin |
+| K8s secrets (DB, Janua keys) | ⏳ Needs enclii CLI |
+| Janua OAuth client registration | ⏳ Needs Janua admin |
+| Cloudflare DNS + ArgoCD config | ⏳ Needs DevOps |
+| Initial migration + ES indexing | ⏳ Needs cluster access |
 
 ---
 
@@ -565,10 +585,38 @@ Vigentes:   ██████████████████░░░  93.
 
 ## 🚀 Strategic Priorities (Next 6 Months)
 
-### Priority 1: Complete State Law Processing ⭐⭐⭐
+### Priority 1: Production Go-Live (Tezca) ⭐⭐⭐
 
-**Impact**: 11,363 → 11,800 laws (93.7% → 97%+ of OJN Legislativo)  
-**Timeline**: 4 weeks  
+**Impact**: Platform available to the public at tezca.mx
+**Timeline**: 1-2 weeks (manual provisioning steps)
+**Effort**: Low (infrastructure code is done)
+
+**Completed**:
+1. ✅ Dockerfiles hardened (multi-stage, non-root, HEALTHCHECK)
+2. ✅ Django production security (HSTS, secure cookies, SSL redirect, logging)
+3. ✅ Janua JWT authentication (admin API + admin console)
+4. ✅ K8s manifests (16 files: deployments, services, PVCs, HPA)
+5. ✅ Enclii service specs (7 services)
+6. ✅ CI/CD deploy workflows (3 GitHub Actions for GHCR + ArgoCD)
+7. ✅ Health endpoints on all services
+8. ✅ Python deps locked (PyJWT + cryptography)
+
+**Remaining (manual, requires credentials)**:
+1. ⏳ Configure `@janua/nextjs` private npm registry
+2. ⏳ Set GitHub secrets (`MADFAM_BOT_PAT`, `ENCLII_CALLBACK_TOKEN`)
+3. ⏳ Create K8s `tezca-secrets` via enclii CLI
+4. ⏳ Register Janua OAuth client for admin console
+5. ⏳ Configure Cloudflare DNS for tezca.mx zone
+6. ⏳ Add tezca to ArgoCD root application
+7. ⏳ Run initial migration, collectstatic, and ES indexing
+8. ⏳ Smoke test all domains (see [Verification Checklist](../deployment/PRODUCTION_DEPLOYMENT.md#verification-checklist))
+
+**Full deployment guide**: [docs/deployment/PRODUCTION_DEPLOYMENT.md](../deployment/PRODUCTION_DEPLOYMENT.md)
+
+### Priority 2: Complete State Law Processing ⭐⭐⭐
+
+**Impact**: 11,363 → 11,800 laws (93.7% → 97%+ of OJN Legislativo)
+**Timeline**: 4 weeks
 **Effort**: High
 
 **Tasks**:
@@ -579,13 +627,10 @@ Vigentes:   ██████████████████░░░  93.
 5. Elasticsearch re-indexing
 6. Frontend state filters
 
-### Priority 2: Public UI/UX Overhaul ⭐⭐⭐
+### Priority 3: Public UI/UX Overhaul ⭐⭐⭐ ✅ COMPLETE
 
-**Impact**: User engagement, platform credibility  
-**Timeline**: 6-8 weeks  
-**Effort**: High
+**Status**: All tasks delivered
 
-**Tasks**:
 1. ✅ Complete design system (colors, typography, components)
 2. ✅ Homepage redesign (gorgeous first impression)
 3. ✅ Enhanced search page (filters, previews, highlights)
@@ -595,11 +640,12 @@ Vigentes:   ██████████████████░░░  93.
 7. ✅ Comparison tool (side-by-side, sync scroll, metadata panel, mobile tabs)
 8. ✅ Mobile optimization (responsive design, 44px touch targets)
 9. ✅ Dark mode + Visual QA (sticky footer, Suspense spinners, tab tooltips)
+10. ✅ Search autocomplete with typeahead
 
-### Priority 3: Admin Panel Completion ⭐⭐
+### Priority 4: Admin Panel Completion ⭐⭐
 
-**Impact**: Operational efficiency  
-**Timeline**: 3-4 weeks  
+**Impact**: Operational efficiency
+**Timeline**: 3-4 weeks
 **Effort**: Medium
 
 **Tasks**:
@@ -609,10 +655,10 @@ Vigentes:   ██████████████████░░░  93.
 4. Error log viewer
 5. System health metrics
 
-### Priority 4: Data Quality & Stability ⭐⭐
+### Priority 5: Data Quality & Stability ⭐⭐
 
-**Impact**: Long-term maintainability  
-**Timeline**: Ongoing  
+**Impact**: Long-term maintainability
+**Timeline**: Ongoing
 **Effort**: Medium
 
 **Tasks**:
@@ -622,10 +668,10 @@ Vigentes:   ██████████████████░░░  93.
 4. Error handling improvements
 5. Documentation updates
 
-### Priority 5: Municipal Law Pilot (Tier 1) ⭐
+### Priority 6: Municipal Law Pilot (Tier 1) ⭐
 
-**Impact**: +500 laws (CDMX, Guadalajara, Monterrey, etc.)  
-**Timeline**: 3-4 months (Q2 2026)  
+**Impact**: +500 laws (CDMX, Guadalajara, Monterrey, etc.)
+**Timeline**: 3-4 months (Q2 2026)
 **Effort**: High
 
 **Tasks**:
