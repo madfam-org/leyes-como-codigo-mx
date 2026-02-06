@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title: 'Buscar Leyes | Leyes Como Código México',
+    title: 'Buscar Leyes — Tezca',
     description: 'Busca en más de 11,000 leyes federales, estatales y municipales mexicanas con filtros avanzados por jurisdicción, categoría y estado.',
     openGraph: {
         title: 'Buscador de Legislación Mexicana',

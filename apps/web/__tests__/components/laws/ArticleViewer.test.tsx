@@ -1,6 +1,11 @@
 import { render, screen } from '@testing-library/react';
 import { describe, it, expect, vi } from 'vitest';
 import { ArticleViewer } from '@/components/laws/ArticleViewer';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 // Mock scrollIntoView (not available in jsdom)
 Element.prototype.scrollIntoView = vi.fn();
@@ -25,7 +30,7 @@ describe('ArticleViewer', () => {
     ];
 
     it('renders all articles', () => {
-        render(
+        renderWithLang(
             <ArticleViewer
                 articles={mockArticles}
                 activeArticle={null}
@@ -39,7 +44,7 @@ describe('ArticleViewer', () => {
     });
 
     it('renders article text content', () => {
-        render(
+        renderWithLang(
             <ArticleViewer
                 articles={mockArticles}
                 activeArticle={null}
@@ -53,7 +58,7 @@ describe('ArticleViewer', () => {
     });
 
     it('shows empty state when no articles', () => {
-        render(
+        renderWithLang(
             <ArticleViewer
                 articles={[]}
                 activeArticle={null}
@@ -65,7 +70,7 @@ describe('ArticleViewer', () => {
     });
 
     it('highlights active article differently from inactive', () => {
-        render(
+        renderWithLang(
             <ArticleViewer
                 articles={mockArticles}
                 activeArticle="1"
@@ -82,7 +87,7 @@ describe('ArticleViewer', () => {
     });
 
     it('assigns correct IDs for anchor links', () => {
-        render(
+        renderWithLang(
             <ArticleViewer
                 articles={mockArticles}
                 activeArticle={null}

@@ -22,7 +22,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Leyes Como Código México",
+  title: "Tezca — El Espejo de la Ley",
   description: "Legislación Federal Mexicana en formato Akoma Ntoso. Acceso profesional a 50+ leyes federales con búsqueda avanzada y referencias cruzadas.",
   keywords: ["leyes mexicanas", "código civil", "Akoma Ntoso", "legislación", "México"],
 };
@@ -59,7 +59,7 @@ export default function RootLayout({
           href="#main-content"
           className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-background focus:text-foreground focus:px-4 focus:py-2 focus:rounded-md focus:ring-2 focus:ring-ring"
         >
-          Saltar al contenido principal
+          Skip to content
         </a>
         <ThemeProvider
           attribute="class"

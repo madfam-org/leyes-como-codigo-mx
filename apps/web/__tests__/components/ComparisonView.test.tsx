@@ -1,6 +1,7 @@
 import { render, screen, waitFor, act } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import ComparisonView from '@/components/ComparisonView';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
 import { api } from '@/lib/api';
 import type { Law } from '@leyesmx/lib';
 
@@ -87,7 +88,7 @@ describe('ComparisonView', () => {
         vi.mocked(api.getLawStructure).mockReturnValue(new Promise(() => {}));
 
         await act(async () => {
-            render(<ComparisonView lawIds={['1', '2']} />);
+            render(<LanguageProvider><ComparisonView lawIds={['1', '2']} /></LanguageProvider>);
         });
 
         expect(screen.getByText(/Analizando estructura legal/i)).toBeInTheDocument();
@@ -97,7 +98,7 @@ describe('ComparisonView', () => {
         setupMocks();
 
         await act(async () => {
-            render(<ComparisonView lawIds={['1', '2']} />);
+            render(<LanguageProvider><ComparisonView lawIds={['1', '2']} /></LanguageProvider>);
         });
 
         await waitFor(() => {
@@ -112,7 +113,7 @@ describe('ComparisonView', () => {
         setupMocks();
 
         await act(async () => {
-            render(<ComparisonView lawIds={['1', '2']} />);
+            render(<LanguageProvider><ComparisonView lawIds={['1', '2']} /></LanguageProvider>);
         });
 
         await waitFor(() => {
@@ -124,7 +125,7 @@ describe('ComparisonView', () => {
         setupMocks();
 
         await act(async () => {
-            render(<ComparisonView lawIds={['1', '2']} />);
+            render(<LanguageProvider><ComparisonView lawIds={['1', '2']} /></LanguageProvider>);
         });
 
         await waitFor(() => {
@@ -137,7 +138,7 @@ describe('ComparisonView', () => {
         setupMocks();
 
         await act(async () => {
-            render(<ComparisonView lawIds={['1', '2']} />);
+            render(<LanguageProvider><ComparisonView lawIds={['1', '2']} /></LanguageProvider>);
         });
 
         // "Art 1" is shared between both laws → 1 match
@@ -151,7 +152,7 @@ describe('ComparisonView', () => {
         setupMocks();
 
         await act(async () => {
-            render(<ComparisonView lawIds={['1', '2']} />);
+            render(<LanguageProvider><ComparisonView lawIds={['1', '2']} /></LanguageProvider>);
         });
 
         await waitFor(() => {

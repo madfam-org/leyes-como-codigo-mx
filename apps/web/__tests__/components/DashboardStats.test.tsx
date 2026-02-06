@@ -1,7 +1,12 @@
 import { render, screen, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { DashboardStatsGrid, RecentLawsList } from '@/components/DashboardStats';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
 import { api } from '@/lib/api';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 vi.mock('@/lib/api', () => ({
     api: {
@@ -70,7 +75,7 @@ describe('DashboardStatsGrid', () => {
 
     it('shows loading skeleton initially', () => {
         vi.mocked(api.getStats).mockReturnValue(new Promise(() => {})); // never resolves
-        const { container } = render(<DashboardStatsGrid />);
+        const { container } = renderWithLang(<DashboardStatsGrid />);
 
         expect(container.querySelector('.animate-pulse')).toBeInTheDocument();
     });
@@ -78,7 +83,7 @@ describe('DashboardStatsGrid', () => {
     it('renders stat cards after loading', async () => {
         vi.mocked(api.getStats).mockResolvedValue(mockStats);
 
-        render(<DashboardStatsGrid />);
+        renderWithLang(<DashboardStatsGrid />);
 
         await waitFor(() => {
             expect(screen.getByText('11,904')).toBeInTheDocument();
@@ -94,7 +99,7 @@ describe('DashboardStatsGrid', () => {
     it('renders null when stats are null (API error)', async () => {
         vi.mocked(api.getStats).mockRejectedValue(new Error('API down'));
 
-        const { container } = render(<DashboardStatsGrid />);
+        const { container } = renderWithLang(<DashboardStatsGrid />);
 
         await waitFor(() => {
             // After loading finishes with error, stats is null → renders null
@@ -105,7 +110,7 @@ describe('DashboardStatsGrid', () => {
     it('shows dash for null last_update', async () => {
         vi.mocked(api.getStats).mockResolvedValue({ ...mockStats, last_update: null });
 
-        render(<DashboardStatsGrid />);
+        renderWithLang(<DashboardStatsGrid />);
 
         await waitFor(() => {
             expect(screen.getByText('-')).toBeInTheDocument();
@@ -120,7 +125,7 @@ describe('RecentLawsList', () => {
 
     it('shows loading skeleton initially', () => {
         vi.mocked(api.getStats).mockReturnValue(new Promise(() => {}));
-        const { container } = render(<RecentLawsList />);
+        const { container } = renderWithLang(<RecentLawsList />);
 
         expect(container.querySelector('.animate-pulse')).toBeInTheDocument();
     });
@@ -128,7 +133,7 @@ describe('RecentLawsList', () => {
     it('renders recent law names', async () => {
         vi.mocked(api.getStats).mockResolvedValue(mockStats);
 
-        render(<RecentLawsList />);
+        renderWithLang(<RecentLawsList />);
 
         await waitFor(() => {
             expect(screen.getByText('Ley Federal de Test')).toBeInTheDocument();
@@ -140,7 +145,7 @@ describe('RecentLawsList', () => {
     it('shows correct tier labels', async () => {
         vi.mocked(api.getStats).mockResolvedValue(mockStats);
 
-        render(<RecentLawsList />);
+        renderWithLang(<RecentLawsList />);
 
         await waitFor(() => {
             expect(screen.getByText('Federal')).toBeInTheDocument();
@@ -152,7 +157,7 @@ describe('RecentLawsList', () => {
     it('renders null when no recent laws', async () => {
         vi.mocked(api.getStats).mockResolvedValue({ ...mockStats, recent_laws: [] });
 
-        const { container } = render(<RecentLawsList />);
+        const { container } = renderWithLang(<RecentLawsList />);
 
         await waitFor(() => {
             expect(container.querySelector('.animate-pulse')).not.toBeInTheDocument();
@@ -164,7 +169,7 @@ describe('RecentLawsList', () => {
     it('links laws to their detail pages', async () => {
         vi.mocked(api.getStats).mockResolvedValue(mockStats);
 
-        render(<RecentLawsList />);
+        renderWithLang(<RecentLawsList />);
 
         await waitFor(() => {
             const link = screen.getByText('Ley Federal de Test').closest('a');

@@ -1,6 +1,11 @@
 import { render, screen, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { LinkifiedArticle } from '@/components/laws/LinkifiedArticle';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 // Mock global fetch
 const mockFetch = vi.fn();
@@ -14,7 +19,7 @@ describe('LinkifiedArticle', () => {
     it('renders plain text while loading', () => {
         mockFetch.mockReturnValue(new Promise(() => {})); // never resolves
 
-        render(
+        renderWithLang(
             <LinkifiedArticle
                 lawId="amparo"
                 articleId="107"
@@ -31,7 +36,7 @@ describe('LinkifiedArticle', () => {
             json: () => Promise.resolve({ outgoing: [] }),
         });
 
-        render(
+        renderWithLang(
             <LinkifiedArticle
                 lawId="amparo"
                 articleId="1"
@@ -62,7 +67,7 @@ describe('LinkifiedArticle', () => {
             }),
         });
 
-        render(
+        renderWithLang(
             <LinkifiedArticle
                 lawId="constitucion"
                 articleId="103"
@@ -94,7 +99,7 @@ describe('LinkifiedArticle', () => {
             }),
         });
 
-        render(
+        renderWithLang(
             <LinkifiedArticle
                 lawId="test-law"
                 articleId="1"
@@ -103,7 +108,7 @@ describe('LinkifiedArticle', () => {
         );
 
         await waitFor(() => {
-            const refSpan = screen.getByTitle('Referencia: articulo 27');
+            const refSpan = screen.getByTitle(/Referencia: articulo 27|Reference: articulo 27/);
             expect(refSpan).toBeInTheDocument();
             expect(refSpan.className).toContain('font-semibold');
         });
@@ -116,7 +121,7 @@ describe('LinkifiedArticle', () => {
             json: () => Promise.resolve({ outgoing: [] }),
         });
 
-        render(
+        renderWithLang(
             <LinkifiedArticle
                 lawId="test-law"
                 articleId="1"
@@ -140,7 +145,7 @@ describe('LinkifiedArticle', () => {
             }),
         });
 
-        const { container } = render(
+        const { container } = renderWithLang(
             <LinkifiedArticle
                 lawId="test"
                 articleId="1"

@@ -6,12 +6,36 @@ import { TableOfContents } from './TableOfContents';
 import { ArticleViewer } from './ArticleViewer';
 import type { LawDetailData } from './types';
 import { Loader2 } from 'lucide-react';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        loadLawError: 'No se pudo cargar la ley',
+        loadArticlesError: 'No se pudieron cargar los artículos',
+        unknownError: 'Error desconocido',
+        loading: 'Cargando ley...',
+        errorTitle: 'Error al cargar la ley',
+        notFound: 'No se encontró la información solicitada',
+        backToSearch: 'Volver al buscador',
+    },
+    en: {
+        loadLawError: 'Could not load the law',
+        loadArticlesError: 'Could not load the articles',
+        unknownError: 'Unknown error',
+        loading: 'Loading law...',
+        errorTitle: 'Error loading the law',
+        notFound: 'The requested information was not found',
+        backToSearch: 'Back to search',
+    },
+};
 
 interface LawDetailProps {
     lawId: string;
 }
 
 export function LawDetail({ lawId }: LawDetailProps) {
+    const { lang } = useLang();
+    const t = content[lang];
     const [data, setData] = useState<LawDetailData | null>(null);
     const [activeArticle, setActiveArticle] = useState<string | null>(null);
     const [loading, setLoading] = useState(true);
@@ -21,47 +45,44 @@ export function LawDetail({ lawId }: LawDetailProps) {
         async function fetchLaw() {
             try {
                 setLoading(true);
-                // Note: Using the API URL from environment, or defaulting to localhost for dev
                 const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
-                // Fetch law metadata
                 const lawRes = await fetch(`${apiUrl}/laws/${lawId}/`);
-                if (!lawRes.ok) throw new Error('No se pudo cargar la ley');
+                if (!lawRes.ok) throw new Error(t.loadLawError);
                 const lawData = await lawRes.json();
 
-                // Fetch articles
                 const articlesRes = await fetch(`${apiUrl}/laws/${lawId}/articles/`);
-                if (!articlesRes.ok) throw new Error('No se pudieron cargar los artículos');
+                if (!articlesRes.ok) throw new Error(t.loadArticlesError);
                 const articlesData = await articlesRes.json();
 
                 setData({
-                    law: lawData.law || lawData, // Handle both structures if API changes
+                    law: lawData.law || lawData,
                     version: lawData.version || (lawData.versions && lawData.versions[0]) || {},
                     articles: articlesData.articles || [],
                     total: articlesData.total || 0,
                 });
 
-                // Handle hash navigation on load
                 if (window.location.hash) {
                     const articleId = window.location.hash.replace('#article-', '');
                     if (articleId) setActiveArticle(articleId);
                 }
             } catch (err) {
                 console.error('Failed to fetch law:', err);
-                setError(err instanceof Error ? err.message : 'Error desconocido');
+                setError(err instanceof Error ? err.message : t.unknownError);
             } finally {
                 setLoading(false);
             }
         }
 
         fetchLaw();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [lawId]);
 
     if (loading) {
         return (
             <div className="flex flex-col items-center justify-center min-h-screen bg-background gap-4">
                 <Loader2 className="h-10 w-10 animate-spin text-primary" />
-                <p className="text-muted-foreground">Cargando ley...</p>
+                <p className="text-muted-foreground">{t.loading}</p>
             </div>
         );
     }
@@ -69,13 +90,13 @@ export function LawDetail({ lawId }: LawDetailProps) {
     if (error || !data) {
         return (
             <div className="container mx-auto px-4 sm:px-6 py-12 flex flex-col items-center justify-center text-center">
-                <h1 className="text-xl sm:text-2xl font-bold mb-2">Error al cargar la ley</h1>
-                <p className="text-sm sm:text-base text-muted-foreground mb-6">{error || 'No se encontró la información solicitada'}</p>
+                <h1 className="text-xl sm:text-2xl font-bold mb-2">{t.errorTitle}</h1>
+                <p className="text-sm sm:text-base text-muted-foreground mb-6">{error || t.notFound}</p>
                 <a
                     href="/search"
                     className="px-4 py-2 text-sm bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors"
                 >
-                    Volver al buscador
+                    {t.backToSearch}
                 </a>
             </div>
         );
@@ -95,10 +116,8 @@ export function LawDetail({ lawId }: LawDetailProps) {
                                 activeArticle={activeArticle}
                                 onArticleClick={(id) => {
                                     setActiveArticle(id);
-                                    // Update URL without scroll
                                     window.history.pushState(null, '', `#article-${id}`);
-                                    
-                                    // On mobile, scroll to the article
+
                                     if (window.innerWidth < 1024) {
                                         const articleEl = document.getElementById(`article-${id}`);
                                         if (articleEl) {

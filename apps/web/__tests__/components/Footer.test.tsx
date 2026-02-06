@@ -27,6 +27,9 @@ describe('Footer', () => {
 
     const catalogLink = screen.getByRole('link', { name: 'Catálogo' });
     expect(catalogLink).toHaveAttribute('href', '/laws');
+
+    const aboutLink = screen.getByRole('link', { name: 'Acerca de' });
+    expect(aboutLink).toHaveAttribute('href', '/acerca-de');
   });
 
   it('renders legal links with correct hrefs', () => {

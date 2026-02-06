@@ -5,13 +5,13 @@ import ComparisonView from '@/components/ComparisonView';
 export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
-    title: 'Comparación Estructural | Leyes Como Código México',
+    title: 'Comparación Estructural — Tezca',
     description: 'Compara la estructura y artículos de dos leyes mexicanas lado a lado con resaltado de artículos en común.',
     openGraph: {
         title: 'Comparación Estructural de Leyes',
         description: 'Herramienta de comparación lado a lado de legislación mexicana.',
         type: 'website',
-        siteName: 'Leyes MX',
+        siteName: 'Tezca',
     },
 };
 
@@ -29,7 +29,8 @@ export default async function ComparePage({
             <Suspense fallback={
                 <div className="flex h-[80vh] items-center justify-center flex-col px-4">
                     <div className="h-8 w-8 sm:h-10 sm:w-10 animate-spin rounded-full border-4 border-primary border-t-transparent mb-4" />
-                    <p className="text-lg sm:text-xl font-medium text-center text-muted-foreground">Cargando comparación...</p>
+                    <p className="text-lg sm:text-xl font-medium text-center text-muted-foreground" aria-live="polite" />
+
                 </div>
             }>
                 <ComparisonView lawIds={lawIds} />

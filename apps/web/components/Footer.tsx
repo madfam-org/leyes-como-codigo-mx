@@ -19,8 +19,9 @@ const content = {
     notice: 'Aviso Legal',
     privacy: 'Privacidad',
     sources: 'Fuentes Oficiales',
-    tagline: 'El Sistema Legal Mexicano, Digitalizado',
-    copyright: `© ${new Date().getFullYear()} Leyes Como Código. Todos los derechos reservados.`,
+    about: 'Acerca de',
+    tagline: 'El Espejo de la Ley',
+    copyright: `© ${new Date().getFullYear()} Tezca. Todos los derechos reservados.`,
     ip: 'Las leyes son de dominio público. La presentación y código de esta plataforma son propiedad de sus autores.',
   },
   en: {
@@ -36,8 +37,9 @@ const content = {
     notice: 'Legal Notice',
     privacy: 'Privacy Policy',
     sources: 'Official Sources',
-    tagline: 'The Mexican Legal System, Digitized',
-    copyright: `© ${new Date().getFullYear()} Leyes Como Código. All rights reserved.`,
+    about: 'About',
+    tagline: 'The Mirror of the Law',
+    copyright: `© ${new Date().getFullYear()} Tezca. All rights reserved.`,
     ip: 'The laws are in the public domain. The presentation and code of this platform are the property of their authors.',
   },
 };
@@ -73,7 +75,7 @@ export function Footer() {
           {/* Brand */}
           <div className="col-span-2 sm:col-span-1">
             <Link href="/" className="text-lg font-bold tracking-tight">
-              Leyes Como Código
+              Tezca
             </Link>
             <p className="mt-2 text-sm text-muted-foreground">{t.tagline}</p>
           </div>
@@ -97,6 +99,11 @@ export function Footer() {
               <li>
                 <Link href="/laws" className="text-sm text-foreground/80 hover:text-foreground transition-colors">
                   {t.catalog}
+                </Link>
+              </li>
+              <li>
+                <Link href="/acerca-de" className="text-sm text-foreground/80 hover:text-foreground transition-colors">
+                  {t.about}
                 </Link>
               </li>
             </ul>

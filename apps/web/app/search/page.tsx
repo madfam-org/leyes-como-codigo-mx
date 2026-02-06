@@ -10,7 +10,55 @@ import { SearchFilters, type SearchFilterState } from '@/components/SearchFilter
 import { SearchAutocomplete } from '@/components/SearchAutocomplete';
 import { Pagination } from '@/components/Pagination';
 import { api } from '@/lib/api';
+import { useLang } from '@/components/providers/LanguageContext';
 import type { SearchResult } from "@leyesmx/lib";
+
+const content = {
+    es: {
+        searchError: 'Error al buscar',
+        pageTitle: 'Buscar Leyes',
+        searchPlaceholder: 'Buscar por articulo, titulo, contenido...',
+        searchButton: 'Buscar',
+        hideFilters: 'Ocultar Filtros',
+        showFilters: 'Mostrar Filtros',
+        results: 'resultados',
+        noResultsFor: 'No se encontraron resultados para',
+        tryDifferent: 'Intenta con otros terminos de busqueda o ajusta los filtros',
+        suggestions: 'Sugerencias:',
+        enterSearchTerm: 'Ingresa un termino de busqueda para comenzar',
+        showing: 'Mostrando',
+        of: 'de',
+        result: 'resultado',
+        resultPlural: 'resultados',
+        page: 'Pagina',
+        pageOf: 'de',
+        published: 'Publicacion:',
+        relevance: 'Relevancia',
+        dateLocale: 'es-MX' as const,
+    },
+    en: {
+        searchError: 'Search error',
+        pageTitle: 'Search Laws',
+        searchPlaceholder: 'Search by article, title, content...',
+        searchButton: 'Search',
+        hideFilters: 'Hide Filters',
+        showFilters: 'Show Filters',
+        results: 'results',
+        noResultsFor: 'No results found for',
+        tryDifferent: 'Try different search terms or adjust filters',
+        suggestions: 'Suggestions:',
+        enterSearchTerm: 'Enter a search term to get started',
+        showing: 'Showing',
+        of: 'of',
+        result: 'result',
+        resultPlural: 'results',
+        page: 'Page',
+        pageOf: 'of',
+        published: 'Published:',
+        relevance: 'Relevance',
+        dateLocale: 'en-US' as const,
+    },
+};
 
 const DEFAULT_FILTERS: SearchFilterState = {
     jurisdiction: ['federal'],
@@ -32,6 +80,8 @@ function SearchContent() {
     const searchParams = useSearchParams();
     const initialQuery = searchParams?.get('q') || '';
     const [showFilters, setShowFilters] = useState(false);
+    const { lang } = useLang();
+    const t = content[lang];
 
 
     const [query, setQuery] = useState(initialQuery);
@@ -100,7 +150,7 @@ function SearchContent() {
                 setError(data.warning);
             }
         } catch (err) {
-            setError(err instanceof Error ? err.message : 'Error al buscar');
+            setError(err instanceof Error ? err.message : t.searchError);
             setResults([]);
             setTotal(0);
             setTotalPages(0);
@@ -151,7 +201,7 @@ function SearchContent() {
             <div className="border-b border-border bg-card">
                 <div className="mx-auto max-w-6xl px-4 sm:px-6 py-6 sm:py-8">
                     <h1 className="mb-4 sm:mb-6 font-display text-2xl sm:text-3xl font-bold text-foreground">
-                        Buscar Leyes
+                        {t.pageTitle}
                     </h1>
                     {/* Search Bar */}
                     <div className="flex flex-col sm:flex-row gap-3 sm:gap-2">
@@ -162,7 +212,7 @@ function SearchContent() {
                                     setQuery(q);
                                     handleSubmitQuery(q);
                                 }}
-                                placeholder="Buscar por artículo, título, contenido..."
+                                placeholder={t.searchPlaceholder}
                                 className="pl-10 bg-background text-sm sm:text-base"
                                 defaultValue={initialQuery}
                             />
@@ -171,7 +221,7 @@ function SearchContent() {
                             {loading ? (
                                 <Loader2 className="h-4 w-4 sm:h-5 sm:w-5 animate-spin" />
                             ) : (
-                                'Buscar'
+                                t.searchButton
                             )}
                         </Button>
                     </div>
@@ -188,10 +238,10 @@ function SearchContent() {
                         onClick={() => setShowFilters(!showFilters)}
                     >
                         <FilterIcon className="h-4 w-4" />
-                        {showFilters ? 'Ocultar Filtros' : 'Mostrar Filtros'}
+                        {showFilters ? t.hideFilters : t.showFilters}
                         {!showFilters && total > 0 && (
                             <Badge variant="secondary" className="ml-auto">
-                                {total} resultados
+                                {total} {t.results}
                             </Badge>
                         )}
                     </Button>
@@ -212,7 +262,7 @@ function SearchContent() {
                     <main className="flex-1 min-w-0">
                         {error && (
                             <div className="mb-6 rounded-lg bg-error-50 p-4 text-error-700 dark:bg-error-900 dark:text-error-100">
-                                ⚠️ {error}
+                                {error}
                             </div>
                         )}
 
@@ -225,15 +275,15 @@ function SearchContent() {
                         {!loading && results.length === 0 && initialQuery && (
                             <div className="py-16 text-center">
                                 <p className="text-lg text-muted-foreground">
-                                    No se encontraron resultados para &quot;{initialQuery}&quot;
+                                    {t.noResultsFor} &quot;{initialQuery}&quot;
                                 </p>
                                 <p className="mt-2 text-sm text-muted-foreground">
-                                    Intenta con otros términos de búsqueda o ajusta los filtros
+                                    {t.tryDifferent}
                                 </p>
                                 <div className="mt-6">
-                                    <p className="text-xs text-muted-foreground mb-3">Sugerencias:</p>
+                                    <p className="text-xs text-muted-foreground mb-3">{t.suggestions}</p>
                                     <div className="flex flex-wrap justify-center gap-2">
-                                        {['constitución', 'código penal', 'trabajo', 'amparo'].map((term) => (
+                                        {['constitucion', 'codigo penal', 'trabajo', 'amparo'].map((term) => (
                                             <button
                                                 key={term}
                                                 onClick={() => handleSubmitQuery(term)}
@@ -250,7 +300,7 @@ function SearchContent() {
                         {!loading && results.length === 0 && !initialQuery && (
                             <div className="py-16 text-center">
                                 <p className="text-lg text-muted-foreground">
-                                    Ingresa un término de búsqueda para comenzar
+                                    {t.enterSearchTerm}
                                 </p>
                             </div>
                         )}
@@ -259,14 +309,13 @@ function SearchContent() {
                             <>
                                 <div className="mb-4 sm:mb-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
                                     <div className="text-xs sm:text-sm text-muted-foreground">
-                                        Mostrando {(currentPage - 1) * PAGE_SIZE + 1}-
-                                        {Math.min(currentPage * PAGE_SIZE, total)} de {total} resultado
-                                        {total !== 1 ? 's' : ''}
+                                        {t.showing} {(currentPage - 1) * PAGE_SIZE + 1}-
+                                        {Math.min(currentPage * PAGE_SIZE, total)} {t.of} {total} {total !== 1 ? t.resultPlural : t.result}
                                     </div>
 
                                     {totalPages > 1 && (
                                         <div className="text-xs sm:text-sm text-muted-foreground">
-                                            Página {currentPage} de {totalPages}
+                                            {t.page} {currentPage} {t.pageOf} {totalPages}
                                         </div>
                                     )}
                                 </div>
@@ -290,7 +339,7 @@ function SearchContent() {
                                                                 </Badge>
                                                                 {result.municipality && (
                                                                     <Badge variant="outline" className="text-[10px] sm:text-xs">
-                                                                        📍 {result.municipality}
+                                                                        {result.municipality}
                                                                     </Badge>
                                                                 )}
                                                                 {result.article && (
@@ -307,7 +356,7 @@ function SearchContent() {
 
                                                             {result.date && (
                                                                 <div className="mt-3 text-xs text-muted-foreground">
-                                                                    Publicación: {new Date(result.date).toLocaleDateString('es-MX', { year: 'numeric', month: 'long', day: 'numeric' })}
+                                                                    {t.published} {new Date(result.date).toLocaleDateString(t.dateLocale, { year: 'numeric', month: 'long', day: 'numeric' })}
                                                                 </div>
                                                             )}
                                                         </div>
@@ -315,7 +364,7 @@ function SearchContent() {
                                                         {/* Score */}
                                                         {result.score && (
                                                             <div className="text-right hidden sm:block">
-                                                                <div className="text-xs text-muted-foreground">Relevancia</div>
+                                                                <div className="text-xs text-muted-foreground">{t.relevance}</div>
                                                                 <div className="font-display text-lg font-bold text-primary-600">
                                                                     {result.score.toFixed(1)}
                                                                 </div>

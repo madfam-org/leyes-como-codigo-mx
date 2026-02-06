@@ -7,10 +7,43 @@ import { Card, CardContent } from '@/components/ui/card';
 import { BookOpen, Scale, Building2, Calendar, FileText, ArrowRight } from 'lucide-react';
 import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        loadError: 'No se pudieron cargar las estadísticas.',
+        totalLaws: 'Total de Leyes',
+        federal: 'Federales',
+        state: 'Estatales',
+        lastUpdate: 'Última Actualización',
+        recentTitle: 'Actualizaciones Recientes',
+        recentDesc: 'Últimas leyes modificadas o publicadas en el DOF/Gacetas',
+        new: 'NUEVO',
+        tierState: 'Estatal',
+        tierFederal: 'Federal',
+        viewAll: 'Ver todas las actualizaciones →',
+    },
+    en: {
+        loadError: 'Could not load statistics.',
+        totalLaws: 'Total Laws',
+        federal: 'Federal',
+        state: 'State',
+        lastUpdate: 'Last Update',
+        recentTitle: 'Recent Updates',
+        recentDesc: 'Latest laws modified or published in the DOF/Gazettes',
+        new: 'NEW',
+        tierState: 'State',
+        tierFederal: 'Federal',
+        viewAll: 'View all updates →',
+    },
+};
 
 export function DashboardStatsGrid() {
+    const { lang } = useLang();
+    const t = content[lang];
     const [stats, setStats] = useState<DashboardStats | null>(null);
     const [loading, setLoading] = useState(true);
+    const locale = lang === 'es' ? 'es-MX' : 'en-US';
 
     useEffect(() => {
         api.getStats()
@@ -29,30 +62,30 @@ export function DashboardStatsGrid() {
         </div>;
     }
 
-    if (!stats) return <p className="text-center text-muted-foreground">No se pudieron cargar las estadísticas.</p>;
+    if (!stats) return <p className="text-center text-muted-foreground">{t.loadError}</p>;
 
     return (
         <div className="space-y-8">
             {/* Stats Grid */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:grid-cols-4">
                 <StatCard
-                    label="Total de Leyes"
-                    value={stats.total_laws.toLocaleString()}
+                    label={t.totalLaws}
+                    value={stats.total_laws.toLocaleString(locale)}
                     icon={<BookOpen aria-hidden="true" className="h-5 w-5 text-primary" />}
                 />
                 <StatCard
-                    label="Federales"
-                    value={stats.federal_count.toLocaleString()}
+                    label={t.federal}
+                    value={stats.federal_count.toLocaleString(locale)}
                     icon={<Scale aria-hidden="true" className="h-5 w-5 text-blue-500" />}
                 />
                 <StatCard
-                    label="Estatales"
-                    value={stats.state_count.toLocaleString()}
+                    label={t.state}
+                    value={stats.state_count.toLocaleString(locale)}
                     icon={<Building2 aria-hidden="true" className="h-5 w-5 text-green-500" />}
                 />
                 <StatCard
-                    label="Última Actualización"
-                    value={stats.last_update ? new Date(stats.last_update).toLocaleDateString('es-MX') : '-'}
+                    label={t.lastUpdate}
+                    value={stats.last_update ? new Date(stats.last_update).toLocaleDateString(locale) : '-'}
                     icon={<Calendar aria-hidden="true" className="h-5 w-5 text-orange-500" />}
                 />
             </div>
@@ -75,6 +108,9 @@ function StatCard({ label, value, icon }: { label: string; value: string; icon: 
 }
 
 export function RecentLawsList() {
+    const { lang } = useLang();
+    const t = content[lang];
+    const locale = lang === 'es' ? 'es-MX' : 'en-US';
     const [stats, setStats] = useState<DashboardStats | null>(null);
     const [loading, setLoading] = useState(true);
 
@@ -92,10 +128,10 @@ export function RecentLawsList() {
         <div className="rounded-xl border bg-card text-card-foreground shadow-sm">
             <div className="border-b p-6">
                 <h3 className="font-semibold leading-none tracking-tight">
-                    🔥 Actualizaciones Recientes
+                    {t.recentTitle}
                 </h3>
                 <p className="text-sm text-muted-foreground mt-1.5">
-                    Últimas leyes modificadas o publicadas en el DOF/Gacetas
+                    {t.recentDesc}
                 </p>
             </div>
             <div className="p-0">
@@ -114,17 +150,17 @@ export function RecentLawsList() {
                                     </h4>
                                     {isNew(law.date) && (
                                         <Badge variant="secondary" className="bg-success-50 text-success-700 dark:bg-success-700/15 dark:text-success-500 hover:bg-success-50 h-5 px-1.5 text-[10px]">
-                                            NUEVO
+                                            {t.new}
                                         </Badge>
                                     )}
                                 </div>
                                 <div className="flex items-center gap-3 text-xs text-muted-foreground">
                                     <span className="flex items-center gap-1">
                                         <FileText className="h-3 w-3" />
-                                        {law.tier === 'state' ? 'Estatal' : 'Federal'}
+                                        {law.tier === 'state' ? t.tierState : t.tierFederal}
                                     </span>
                                     <span>•</span>
-                                    <span>{new Date(law.date).toLocaleDateString('es-MX', { dateStyle: 'long' })}</span>
+                                    <span>{new Date(law.date).toLocaleDateString(locale, { dateStyle: 'long' })}</span>
                                 </div>
                             </div>
                         </div>
@@ -134,7 +170,7 @@ export function RecentLawsList() {
             </div>
             <div className="border-t p-4 text-center">
                 <Link href="/search" className="text-sm font-medium text-primary hover:underline">
-                    Ver todas las actualizaciones →
+                    {t.viewAll}
                 </Link>
             </div>
         </div>

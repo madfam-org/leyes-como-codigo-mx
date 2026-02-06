@@ -13,7 +13,7 @@ const content = {
     sections: [
       {
         title: '1. Naturaleza del Servicio',
-        body: 'Leyes Como Código es un proyecto informativo independiente que presenta legislación mexicana en formato digital. El contenido se proporciona "tal cual" (as is), sin garantías de ningún tipo, ya sean expresas o implícitas. No garantizamos la exactitud, integridad, actualidad o idoneidad del contenido para ningún propósito particular.',
+        body: 'Tezca es un proyecto informativo independiente que presenta legislación mexicana en formato digital. El contenido se proporciona "tal cual" (as is), sin garantías de ningún tipo, ya sean expresas o implícitas. No garantizamos la exactitud, integridad, actualidad o idoneidad del contenido para ningún propósito particular.',
       },
       {
         title: '2. No es Fuente Oficial',
@@ -33,7 +33,7 @@ const content = {
       },
       {
         title: '6. Limitación de Responsabilidad',
-        body: 'En ningún caso los responsables de Leyes Como Código serán responsables por daños directos, indirectos, incidentales, especiales o consecuentes que resulten del uso o la imposibilidad de uso de este sitio, incluyendo pero no limitado a: errores u omisiones en el contenido, interrupciones del servicio, decisiones tomadas con base en la información presentada, o pérdidas de cualquier naturaleza.',
+        body: 'En ningún caso los responsables de Tezca serán responsables por daños directos, indirectos, incidentales, especiales o consecuentes que resulten del uso o la imposibilidad de uso de este sitio, incluyendo pero no limitado a: errores u omisiones en el contenido, interrupciones del servicio, decisiones tomadas con base en la información presentada, o pérdidas de cualquier naturaleza.',
       },
       {
         title: '7. Uso Aceptable',
@@ -49,7 +49,7 @@ const content = {
       },
       {
         title: '10. Modificaciones y Contacto',
-        body: 'Nos reservamos el derecho de modificar estos términos en cualquier momento. Las modificaciones entrarán en vigor desde su publicación en este sitio. El uso continuado del servicio después de cualquier modificación constituye la aceptación de los nuevos términos. Para consultas relacionadas con estos términos, puede contactarnos en: contacto@leyescomocodigo.mx',
+        body: 'Nos reservamos el derecho de modificar estos términos en cualquier momento. Las modificaciones entrarán en vigor desde su publicación en este sitio. El uso continuado del servicio después de cualquier modificación constituye la aceptación de los nuevos términos. Para consultas relacionadas con estos términos, puede contactarnos en: contacto@tezca.mx',
       },
     ],
   },
@@ -60,7 +60,7 @@ const content = {
     sections: [
       {
         title: '1. Nature of Service',
-        body: 'Leyes Como Código is an independent informational project that presents Mexican legislation in digital format. The content is provided "as is", without warranties of any kind, either express or implied. We do not guarantee the accuracy, completeness, timeliness, or suitability of the content for any particular purpose.',
+        body: 'Tezca is an independent informational project that presents Mexican legislation in digital format. The content is provided "as is", without warranties of any kind, either express or implied. We do not guarantee the accuracy, completeness, timeliness, or suitability of the content for any particular purpose.',
       },
       {
         title: '2. Not an Official Source',
@@ -80,7 +80,7 @@ const content = {
       },
       {
         title: '6. Limitation of Liability',
-        body: 'In no event shall the operators of Leyes Como Código be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use this site, including but not limited to: errors or omissions in content, service interruptions, decisions made based on the information presented, or losses of any nature.',
+        body: 'In no event shall the operators of Tezca be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use this site, including but not limited to: errors or omissions in content, service interruptions, decisions made based on the information presented, or losses of any nature.',
       },
       {
         title: '7. Acceptable Use',
@@ -96,7 +96,7 @@ const content = {
       },
       {
         title: '10. Modifications and Contact',
-        body: 'We reserve the right to modify these terms at any time. Modifications take effect upon publication on this site. Continued use of the service after any modification constitutes acceptance of the new terms. For inquiries related to these terms, you may contact us at: contacto@leyescomocodigo.mx',
+        body: 'We reserve the right to modify these terms at any time. Modifications take effect upon publication on this site. Continued use of the service after any modification constitutes acceptance of the new terms. For inquiries related to these terms, you may contact us at: contacto@tezca.mx',
       },
     ],
   },

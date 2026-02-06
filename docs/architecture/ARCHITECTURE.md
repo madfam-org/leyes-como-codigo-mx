@@ -1,6 +1,6 @@
 # 🏛️ ARCHITECTURE.md - System Design & Data Flow
 
-> **SYSTEM NOTICE:** This document defines the structural integrity of the "Leyes Como Código" platform. All architectural decisions must align with the **Separation of Concerns** principle: The *Text* of the law is immutable data; the *Logic* of the law is executable code.
+> **SYSTEM NOTICE:** This document defines the structural integrity of the "Tezca" platform. All architectural decisions must align with the **Separation of Concerns** principle: The *Text* of the law is immutable data; the *Logic* of the law is executable code.
 
 ---
 

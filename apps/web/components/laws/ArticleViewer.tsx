@@ -7,11 +7,29 @@ import { Card } from "@leyesmx/ui";
 import { cn } from "@leyesmx/lib";
 import { useInView } from 'react-intersection-observer';
 import { LinkifiedArticle } from './LinkifiedArticle';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        noArticles: 'No hay artículos disponibles para visualizar.',
+        fullText: 'Texto Completo',
+        articlePrefix: 'Artículo',
+        copyLink: 'Copiar enlace directo al artículo',
+        copyLinkShort: 'Copiar enlace directo',
+    },
+    en: {
+        noArticles: 'No articles available to display.',
+        fullText: 'Full Text',
+        articlePrefix: 'Article',
+        copyLink: 'Copy direct link to article',
+        copyLinkShort: 'Copy direct link',
+    },
+};
 
 interface ArticleViewerProps {
     articles: Article[];
     activeArticle: string | null;
-    lawId: string; // Added for cross-reference detection
+    lawId: string;
 }
 
 export function ArticleViewer({
@@ -19,33 +37,29 @@ export function ArticleViewer({
     activeArticle,
     lawId
 }: ArticleViewerProps) {
+    const { lang } = useLang();
+    const t = content[lang];
     const articleRefs = useRef<Record<string, HTMLElement | null>>({});
     const scrollingRef = useRef(false);
 
-    // Handle active article visibility
     useEffect(() => {
-        // Only scroll if we haven't scrolled recently (prevents fighting with user scroll)
         if (activeArticle && articleRefs.current[activeArticle] && !scrollingRef.current) {
             scrollingRef.current = true;
             articleRefs.current[activeArticle]?.scrollIntoView({
                 behavior: 'smooth',
                 block: 'start',
             });
-            // Reset scroll lock after animation
             setTimeout(() => {
                 scrollingRef.current = false;
             }, 1000);
         }
     }, [activeArticle]);
 
-    // Intersection observer logic could go here to update activeArticle on scroll
-    // For now we trust the user clicking TOC or the initial load
-
     return (
         <div className="space-y-6 pb-20">
             {articles.length === 0 ? (
                 <Card className="p-12 text-center text-muted-foreground">
-                    No hay artículos disponibles para visualizar.
+                    {t.noArticles}
                 </Card>
             ) : (
                 articles.map((article) => (
@@ -57,6 +71,7 @@ export function ArticleViewer({
                         setRef={(el) => {
                             articleRefs.current[article.article_id] = el;
                         }}
+                        lang={lang}
                     />
                 ))
             )}
@@ -68,13 +83,16 @@ function SingleArticle({
     article,
     lawId,
     isActive,
-    setRef
+    setRef,
+    lang,
 }: {
     article: Article;
     lawId: string;
     isActive: boolean;
     setRef: (el: HTMLElement | null) => void;
+    lang: 'es' | 'en';
 }) {
+    const t = content[lang];
     const [copied, setCopied] = useState(false);
     const { ref } = useInView({
         threshold: 0.5,
@@ -87,6 +105,12 @@ function SingleArticle({
         setCopied(true);
         setTimeout(() => setCopied(false), 2000);
     };
+
+    const articleLabel = article.article_id === 'texto_completo' || article.article_id === 'full_text'
+        ? t.fullText
+        : /^Art[ií]culo/i.test(article.article_id)
+            ? article.article_id
+            : `${t.articlePrefix} ${article.article_id}`;
 
     return (
         <article
@@ -102,11 +126,7 @@ function SingleArticle({
         >
             <div className="flex items-start justify-between mb-4">
                 <h3 className="font-heading text-lg font-semibold text-foreground flex items-center gap-2">
-                    {article.article_id === 'texto_completo' || article.article_id === 'full_text'
-                        ? 'Texto Completo'
-                        : /^Art[ií]culo/i.test(article.article_id)
-                            ? article.article_id
-                            : `Artículo ${article.article_id}`}
+                    {articleLabel}
                 </h3>
 
                 <button
@@ -117,8 +137,8 @@ function SingleArticle({
                             ? "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400"
                             : "bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground"
                     )}
-                    aria-label="Copiar enlace directo al artículo"
-                    title="Copiar enlace directo"
+                    aria-label={t.copyLink}
+                    title={t.copyLinkShort}
                 >
                     {copied ? <Check className="w-4 h-4" /> : <LinkIcon className="w-4 h-4" />}
                 </button>

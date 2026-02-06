@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { Card, CardContent, CardHeader, CardTitle, Label, Select, SelectContent, SelectItem, SelectTrigger, SelectValue, Badge, Button, Input } from "@leyesmx/ui";
 import { X, Filter, BookOpen } from 'lucide-react';
 import { api } from '@/lib/api';
+import { useLang, type Lang } from '@/components/providers/LanguageContext';
 
 export interface SearchFilterState {
     jurisdiction: string[];
@@ -23,39 +24,114 @@ interface SearchFiltersProps {
     resultCount?: number;
 }
 
-const JURISDICTIONS = [
-    { id: 'federal', name: 'Federal', icon: '🏛️' },
-    { id: 'state', name: 'Estatal', icon: '🏢' },
-    { id: 'municipal', name: 'Municipal', icon: '🏘️' },
-];
+const content = {
+    es: {
+        filters: 'Filtros',
+        activeSingular: 'activo',
+        activePlural: 'activos',
+        clear: 'Limpiar',
+        resultSingular: 'resultado',
+        resultPlural: 'resultados',
+        foundSingular: 'encontrado',
+        foundPlural: 'encontrados',
+        jurisdiction: 'Jurisdicci\u00f3n',
+        stateLabel: 'Estado',
+        allStates: 'Todos los estados',
+        municipality: 'Municipio',
+        allMunicipalities: 'Todos los municipios',
+        category: 'Categor\u00eda',
+        selectCategory: 'Selecciona una categor\u00eda',
+        statusValidity: 'Estado (Vigencia)',
+        structure: 'Estructura',
+        titleLabel: 'T\u00edtulo (ej. "T\u00cdTULO I")',
+        titlePlaceholder: 'Filtrar por t\u00edtulo...',
+        chapterLabel: 'Cap\u00edtulo (ej. "CAP\u00cdTULO I")',
+        chapterPlaceholder: 'Filtrar por cap\u00edtulo...',
+        publicationDate: 'Fecha de publicaci\u00f3n',
+        anyDate: 'Cualquier fecha',
+        thisYear: '2024 (Este a\u00f1o)',
+        last5Years: '\u00daltimos 5 a\u00f1os',
+        older: 'M\u00e1s antiguos',
+        sortBy: 'Ordenar por',
+    },
+    en: {
+        filters: 'Filters',
+        activeSingular: 'active',
+        activePlural: 'active',
+        clear: 'Clear',
+        resultSingular: 'result',
+        resultPlural: 'results',
+        foundSingular: 'found',
+        foundPlural: 'found',
+        jurisdiction: 'Jurisdiction',
+        stateLabel: 'State',
+        allStates: 'All states',
+        municipality: 'Municipality',
+        allMunicipalities: 'All municipalities',
+        category: 'Category',
+        selectCategory: 'Select a category',
+        statusValidity: 'Status (Validity)',
+        structure: 'Structure',
+        titleLabel: 'Title (e.g. "TITULO I")',
+        titlePlaceholder: 'Filter by title...',
+        chapterLabel: 'Chapter (e.g. "CAPITULO I")',
+        chapterPlaceholder: 'Filter by chapter...',
+        publicationDate: 'Publication date',
+        anyDate: 'Any date',
+        thisYear: '2024 (This year)',
+        last5Years: 'Last 5 years',
+        older: 'Older',
+        sortBy: 'Sort by',
+    },
+} as const;
 
-// Municipalities are now fetched dynamically from the API
+function getJurisdictions(lang: Lang) {
+    return [
+        { id: 'federal', name: 'Federal', icon: '\u{1F3DB}\uFE0F' },
+        { id: 'state', name: lang === 'es' ? 'Estatal' : 'State', icon: '\u{1F3E2}' },
+        { id: 'municipal', name: lang === 'es' ? 'Municipal' : 'Municipal', icon: '\u{1F3D8}\uFE0F' },
+    ];
+}
 
-const CATEGORIES = [
-    { value: 'all', label: 'Todas las categorías' },
-    { value: 'civil', label: 'Civil' },
-    { value: 'penal', label: 'Penal' },
-    { value: 'mercantil', label: 'Mercantil' },
-    { value: 'fiscal', label: 'Fiscal' },
-    { value: 'laboral', label: 'Laboral' },
-    { value: 'administrativo', label: 'Administrativo' },
-    { value: 'constitucional', label: 'Constitucional' },
-];
+function getCategories(lang: Lang) {
+    return [
+        { value: 'all', label: lang === 'es' ? 'Todas las categor\u00edas' : 'All categories' },
+        { value: 'civil', label: 'Civil' },
+        { value: 'penal', label: lang === 'es' ? 'Penal' : 'Criminal' },
+        { value: 'mercantil', label: lang === 'es' ? 'Mercantil' : 'Commercial' },
+        { value: 'fiscal', label: lang === 'es' ? 'Fiscal' : 'Tax' },
+        { value: 'laboral', label: lang === 'es' ? 'Laboral' : 'Labor' },
+        { value: 'administrativo', label: lang === 'es' ? 'Administrativo' : 'Administrative' },
+        { value: 'constitucional', label: lang === 'es' ? 'Constitucional' : 'Constitutional' },
+    ];
+}
 
-const STATUS_OPTIONS = [
-    { value: 'all', label: 'Todos' },
-    { value: 'vigente', label: 'Vigente' },
-    { value: 'abrogado', label: 'Abrogado' },
-];
+function getStatusOptions(lang: Lang) {
+    return [
+        { value: 'all', label: lang === 'es' ? 'Todos' : 'All' },
+        { value: 'vigente', label: lang === 'es' ? 'Vigente' : 'In force' },
+        { value: 'abrogado', label: lang === 'es' ? 'Abrogado' : 'Repealed' },
+    ];
+}
 
-const SORT_OPTIONS = [
-    { value: 'relevance', label: 'Relevancia' },
-    { value: 'date_desc', label: 'Más recientes' },
-    { value: 'date_asc', label: 'Más antiguos' },
-    { value: 'name', label: 'Nombre (A-Z)' },
-];
+function getSortOptions(lang: Lang) {
+    return [
+        { value: 'relevance', label: lang === 'es' ? 'Relevancia' : 'Relevance' },
+        { value: 'date_desc', label: lang === 'es' ? 'M\u00e1s recientes' : 'Most recent' },
+        { value: 'date_asc', label: lang === 'es' ? 'M\u00e1s antiguos' : 'Oldest' },
+        { value: 'name', label: lang === 'es' ? 'Nombre (A-Z)' : 'Name (A-Z)' },
+    ];
+}
 
 export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchFiltersProps) {
+    const { lang } = useLang();
+    const t = content[lang];
+
+    const JURISDICTIONS = getJurisdictions(lang);
+    const CATEGORIES = getCategories(lang);
+    const STATUS_OPTIONS = getStatusOptions(lang);
+    const SORT_OPTIONS = getSortOptions(lang);
+
     const [states, setStates] = useState<string[]>([]);
     const [municipalities, setMunicipalities] = useState<{ municipality: string; state: string; count: number }[]>([]);
 
@@ -120,11 +196,11 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                     <div className="flex items-center gap-2">
                         <CardTitle className="text-lg">
                             <Filter aria-hidden="true" className="inline h-5 w-5 mr-2" />
-                            Filtros
+                            {t.filters}
                         </CardTitle>
                         {activeCount > 0 && (
                             <Badge variant="secondary" className="text-xs">
-                                {activeCount} activo{activeCount !== 1 ? 's' : ''}
+                                {activeCount} {activeCount !== 1 ? t.activePlural : t.activeSingular}
                             </Badge>
                         )}
                     </div>
@@ -137,14 +213,14 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                             className="h-8"
                         >
                             <X className="mr-1 h-4 w-4" />
-                            Limpiar
+                            {t.clear}
                         </Button>
                     )}
                 </div>
 
                 {resultCount !== undefined && (
                     <p className="text-sm text-muted-foreground mt-2">
-                        {resultCount} resultado{resultCount !== 1 ? 's' : ''} encontrado{resultCount !== 1 ? 's' : ''}
+                        {resultCount} {resultCount !== 1 ? t.resultPlural : t.resultSingular} {resultCount !== 1 ? t.foundPlural : t.foundSingular}
                     </p>
                 )}
             </CardHeader>
@@ -152,7 +228,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
             <CardContent className="space-y-6">
                 {/* Jurisdiction */}
                 <div>
-                    <Label className="mb-3 block text-sm font-medium">Jurisdicción</Label>
+                    <Label className="mb-3 block text-sm font-medium">{t.jurisdiction}</Label>
                     <div className="flex flex-wrap gap-2">
                         {JURISDICTIONS.map((jurisdiction) => (
                             <Button
@@ -174,7 +250,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 {showStateSelector && (
                     <div className="animate-in fade-in slide-in-from-top-2 duration-200">
                         <Label htmlFor="state" className="mb-2 block text-sm font-medium">
-                            Estado
+                            {t.stateLabel}
                         </Label>
                         <Select
                             value={filters.state || 'all'}
@@ -183,10 +259,10 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                             }
                         >
                             <SelectTrigger id="state">
-                                <SelectValue placeholder="Todos los estados" />
+                                <SelectValue placeholder={t.allStates} />
                             </SelectTrigger>
                             <SelectContent>
-                                <SelectItem value="all">Todos los estados</SelectItem>
+                                <SelectItem value="all">{t.allStates}</SelectItem>
                                 {states.map((state) => (
                                     <SelectItem key={state} value={state}>
                                         {state}
@@ -201,7 +277,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 {showMunicipalitySelector && (
                     <div className="animate-in fade-in slide-in-from-top-2 duration-200">
                         <Label htmlFor="municipality" className="mb-2 block text-sm font-medium">
-                            Municipio
+                            {t.municipality}
                         </Label>
                         <Select
                             value={filters.municipality || 'all'}
@@ -210,10 +286,10 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                             }
                         >
                             <SelectTrigger id="municipality">
-                                <SelectValue placeholder="Todos los municipios" />
+                                <SelectValue placeholder={t.allMunicipalities} />
                             </SelectTrigger>
                             <SelectContent>
-                                <SelectItem value="all">Todos los municipios</SelectItem>
+                                <SelectItem value="all">{t.allMunicipalities}</SelectItem>
                                 {municipalities.map((m) => (
                                     <SelectItem key={m.municipality} value={m.municipality}>
                                         {m.municipality} ({m.count})
@@ -227,7 +303,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 {/* Category */}
                 <div>
                     <Label htmlFor="category" className="mb-2 block text-sm font-medium">
-                        Categoría
+                        {t.category}
                     </Label>
                     <Select
                         value={filters.category || 'all'}
@@ -236,7 +312,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                         }
                     >
                         <SelectTrigger id="category">
-                            <SelectValue placeholder="Selecciona una categoría" />
+                            <SelectValue placeholder={t.selectCategory} />
                         </SelectTrigger>
                         <SelectContent>
                             {CATEGORIES.map((cat) => (
@@ -251,7 +327,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 {/* Status */}
                 <div>
                     <Label htmlFor="status" className="mb-2 block text-sm font-medium">
-                        Estado (Vigencia)
+                        {t.statusValidity}
                     </Label>
                     <Select
                         value={filters.status}
@@ -274,30 +350,30 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 <div>
                     <h3 className="mb-3 text-sm font-medium flex items-center gap-2 text-muted-foreground border-t pt-4">
                         <BookOpen aria-hidden="true" className="h-4 w-4" />
-                        Estructura
+                        {t.structure}
                     </h3>
-                    
+
                     <div className="space-y-3">
                         <div>
                             <Label htmlFor="title_filter" className="mb-2 block text-xs font-medium text-muted-foreground">
-                                Título (ej. &quot;TÍTULO I&quot;)
+                                {t.titleLabel}
                             </Label>
                             <Input
                                 id="title_filter"
-                                placeholder="Filtrar por título..."
+                                placeholder={t.titlePlaceholder}
                                 value={filters.title || ''}
                                 onChange={(e) => onFiltersChange({ ...filters, title: e.target.value })}
                                 className="h-8 text-sm"
                             />
                         </div>
-                        
+
                         <div>
                             <Label htmlFor="chapter_filter" className="mb-2 block text-xs font-medium text-muted-foreground">
-                                Capítulo (ej. &quot;CAPÍTULO I&quot;)
+                                {t.chapterLabel}
                             </Label>
                             <Input
                                 id="chapter_filter"
-                                placeholder="Filtrar por capítulo..."
+                                placeholder={t.chapterPlaceholder}
                                 value={filters.chapter || ''}
                                 onChange={(e) => onFiltersChange({ ...filters, chapter: e.target.value })}
                                 className="h-8 text-sm"
@@ -308,21 +384,21 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
 
                 <div>
                     <Label htmlFor="date_range" className="mb-2 block text-sm font-medium">
-                        Fecha de publicación
+                        {t.publicationDate}
                     </Label>
                     <Select
                         value={filters.date_range || 'all'}
                         onValueChange={(value) => onFiltersChange({ ...filters, date_range: value })}
                     >
                         <SelectTrigger id="date_range">
-                            <SelectValue placeholder="Cualquier fecha" />
+                            <SelectValue placeholder={t.anyDate} />
                         </SelectTrigger>
                         <SelectContent>
-                            <SelectItem value="all">Cualquier fecha</SelectItem>
-                            <SelectItem value="2024">2024 (Este año)</SelectItem>
+                            <SelectItem value="all">{t.anyDate}</SelectItem>
+                            <SelectItem value="2024">{t.thisYear}</SelectItem>
                             <SelectItem value="2023">2023</SelectItem>
-                            <SelectItem value="last_5_years">Últimos 5 años</SelectItem>
-                            <SelectItem value="older">Más antiguos</SelectItem>
+                            <SelectItem value="last_5_years">{t.last5Years}</SelectItem>
+                            <SelectItem value="older">{t.older}</SelectItem>
                         </SelectContent>
                     </Select>
                 </div>
@@ -330,7 +406,7 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                 {/* Sort */}
                 <div>
                     <Label htmlFor="sort" className="mb-2 block text-sm font-medium">
-                        Ordenar por
+                        {t.sortBy}
                     </Label>
                     <Select
                         value={filters.sort}

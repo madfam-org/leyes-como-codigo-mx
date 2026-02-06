@@ -2,6 +2,22 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        viewRef: (text: string) => `Ver ${text}`,
+        refLabel: (text: string) => `Referencia: ${text}`,
+        referenceSingular: 'referencia detectada',
+        referencePlural: 'referencias detectadas',
+    },
+    en: {
+        viewRef: (text: string) => `View ${text}`,
+        refLabel: (text: string) => `Reference: ${text}`,
+        referenceSingular: 'reference detected',
+        referencePlural: 'references detected',
+    },
+};
 
 interface CrossReference {
     text: string;
@@ -22,19 +38,20 @@ interface LinkifiedArticleProps {
 
 /**
  * LinkifiedArticle - Renders article text with clickable cross-references
- * 
+ *
  * Fetches cross-references from API and makes legal references clickable.
- * Example: "artículo 5 de la Ley de Amparo" becomes a clickable link.
  */
 export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedArticleProps) {
+    const { lang } = useLang();
+    const t = content[lang];
+
     // Strip leading "Artículo N." from body since the heading already shows it
     const text = rawText.replace(/^(?:Art[ií]culo|ARTÍCULO)\s+\d+[\w]*\.?\s*/i, '').trim();
 
     const [references, setReferences] = useState<CrossReference[]>([]);
     const [loading, setLoading] = useState(true);
-    
+
     useEffect(() => {
-        // Fetch cross-references for this article
         const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
         fetch(`${apiUrl}/laws/${lawId}/articles/${articleId}/references/`)
@@ -48,24 +65,18 @@ export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedA
                 setLoading(false);
             });
     }, [lawId, articleId]);
-    
-    /**
-     * Build linkified text by replacing reference positions with clickable links
-     */
+
     const buildLinkifiedText = () => {
-        // If no references or still loading, return plain text
         if (!references.length || loading) {
             return <p className="whitespace-pre-wrap leading-relaxed">{text}</p>;
         }
-        
+
         const parts: React.ReactNode[] = [];
         let lastIndex = 0;
-        
-        // Sort references by position to process in order
+
         const sorted = [...references].sort((a, b) => a.startPos - b.startPos);
-        
+
         sorted.forEach((ref, i) => {
-            // Add text before this reference
             if (ref.startPos > lastIndex) {
                 parts.push(
                     <span key={`text-${i}`}>
@@ -73,36 +84,33 @@ export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedA
                     </span>
                 );
             }
-            
-            // Add the linked reference
+
             if (ref.targetUrl) {
                 parts.push(
                     <Link
                         key={`ref-${i}`}
                         href={ref.targetUrl}
                         className="text-primary underline decoration-dotted hover:decoration-solid hover:bg-primary/5 rounded px-0.5 transition-colors"
-                        title={`Ver ${ref.text}`}
+                        title={t.viewRef(ref.text)}
                     >
                         {ref.text}
                     </Link>
                 );
             } else {
-                // No target URL - render as emphasized but not clickable
                 parts.push(
                     <span
                         key={`ref-${i}`}
                         className="font-semibold text-primary/70"
-                        title={`Referencia: ${ref.text}`}
+                        title={t.refLabel(ref.text)}
                     >
                         {ref.text}
                     </span>
                 );
             }
-            
+
             lastIndex = ref.endPos;
         });
-        
-        // Add remaining text after last reference
+
         if (lastIndex < text.length) {
             parts.push(
                 <span key="text-end">
@@ -110,20 +118,18 @@ export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedA
                 </span>
             );
         }
-        
+
         return <p className="whitespace-pre-wrap leading-relaxed">{parts}</p>;
     };
-    
+
     return (
         <div className="prose prose-lg prose-slate dark:prose-invert max-w-none">
             {buildLinkifiedText()}
-            
-            {/* Show reference count if available */}
+
             {references.length > 0 && (
                 <div className="mt-4 text-sm text-muted-foreground border-t pt-2">
-                    <span className="font-medium">{references.length}</span> referencia
-                    {references.length !== 1 ? 's' : ''} detectada
-                    {references.length !== 1 ? 's' : ''}
+                    <span className="font-medium">{references.length}</span>{' '}
+                    {references.length !== 1 ? t.referencePlural : t.referenceSingular}
                 </div>
             )}
         </div>

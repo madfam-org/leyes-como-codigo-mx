@@ -1,5 +1,19 @@
+'use client';
+
 import Link from 'next/link';
 import { Badge } from '@/components/ui/badge';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        title: 'Leyes Populares',
+        subtitle: 'Acceso rápido a las leyes más consultadas',
+    },
+    en: {
+        title: 'Popular Laws',
+        subtitle: 'Quick access to the most consulted laws',
+    },
+};
 
 const popularLaws = [
     { id: 'mx-fed-cpeum', name: 'Constitución', href: '/laws/mx-fed-cpeum' },
@@ -13,14 +27,17 @@ const popularLaws = [
 ];
 
 export function PopularLaws() {
+    const { lang } = useLang();
+    const t = content[lang];
+
     return (
         <div className="mx-auto max-w-7xl px-6 py-16">
             <div className="mb-8 text-center">
                 <h2 className="font-display text-2xl font-bold text-foreground sm:text-3xl">
-                    📚 Leyes Populares
+                    {t.title}
                 </h2>
                 <p className="mt-2 text-muted-foreground">
-                    Acceso rápido a las leyes más consultadas
+                    {t.subtitle}
                 </p>
             </div>
 

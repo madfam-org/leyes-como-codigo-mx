@@ -1,6 +1,24 @@
+'use client';
+
 import type { Law, LawVersion } from './types';
 import { Badge } from '@/components/ui/badge';
 import { ExternalLink, Calendar } from 'lucide-react';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        tierState: 'Estatal',
+        tierFederal: 'Federal',
+        published: 'Publicado:',
+        viewOriginal: 'Ver documento original',
+    },
+    en: {
+        tierState: 'State',
+        tierFederal: 'Federal',
+        published: 'Published:',
+        viewOriginal: 'View original document',
+    },
+};
 
 interface LawHeaderProps {
     law: Law;
@@ -8,6 +26,10 @@ interface LawHeaderProps {
 }
 
 export function LawHeader({ law, version }: LawHeaderProps) {
+    const { lang } = useLang();
+    const t = content[lang];
+    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+
     return (
         <header className="border-b bg-card">
             <div className="container mx-auto px-4 py-8">
@@ -18,7 +40,7 @@ export function LawHeader({ law, version }: LawHeaderProps) {
                                 {law.category}
                             </Badge>
                             <Badge variant="outline" className="text-muted-foreground border-muted-foreground/20">
-                                {law.tier === 'state' ? 'Estatal' : 'Federal'}
+                                {law.tier === 'state' ? t.tierState : t.tierFederal}
                             </Badge>
                             {law.state && (
                                 <Badge variant="outline" className="text-muted-foreground border-muted-foreground/20">
@@ -35,7 +57,7 @@ export function LawHeader({ law, version }: LawHeaderProps) {
                             <div className="flex items-center gap-2 text-sm text-muted-foreground">
                                 <Calendar className="h-4 w-4" />
                                 <span>
-                                    Publicado: {new Date(version.publication_date).toLocaleDateString('es-MX', {
+                                    {t.published} {new Date(version.publication_date).toLocaleDateString(locale, {
                                         year: 'numeric',
                                         month: 'long',
                                         day: 'numeric'
@@ -65,7 +87,7 @@ export function LawHeader({ law, version }: LawHeaderProps) {
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-2 rounded-md bg-secondary px-4 py-2 text-sm font-medium text-secondary-foreground transition-colors hover:bg-secondary/80"
                             >
-                                Ver documento original
+                                {t.viewOriginal}
                                 <ExternalLink className="h-4 w-4" />
                             </a>
                         )}

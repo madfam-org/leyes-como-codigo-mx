@@ -6,11 +6,40 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Building2, Scale, Home } from 'lucide-react';
 import { api } from '@/lib/api';
 import type { DashboardStats, CoverageItem } from '@/lib/types';
+import { useLang, type Lang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        heading: 'Cobertura por Jurisdicción',
+        subtitle: 'Explora leyes federales, estatales y municipales',
+        loadError: 'No se pudieron cargar las estadísticas.',
+        laws: 'leyes',
+        coverage: 'Cobertura',
+        municipalitiesCovered: 'municipios cubiertos',
+        ofMunicipalities: (total: string) => `de ${total} municipios en el país`,
+        ofUniverse: (universe: string) => `de ${universe}`,
+    },
+    en: {
+        heading: 'Coverage by Jurisdiction',
+        subtitle: 'Explore federal, state, and municipal laws',
+        loadError: 'Could not load statistics.',
+        laws: 'laws',
+        coverage: 'Coverage',
+        municipalitiesCovered: 'municipalities covered',
+        ofMunicipalities: (total: string) => `of ${total} municipalities in the country`,
+        ofUniverse: (universe: string) => `of ${universe}`,
+    },
+};
+
+const jurisdictionNames: Record<Lang, Record<string, string>> = {
+    es: { federal: 'Federal', state: 'Estatal', municipal: 'Municipal' },
+    en: { federal: 'Federal', state: 'State', municipal: 'Municipal' },
+};
 
 const jurisdictionConfig = [
     {
         id: 'federal' as const,
-        name: 'Federal',
+        nameKey: 'federal',
         Icon: Scale,
         countKey: 'federal_count' as const,
         coverageKey: 'federal_coverage' as const,
@@ -21,7 +50,7 @@ const jurisdictionConfig = [
     },
     {
         id: 'state' as const,
-        name: 'Estatal',
+        nameKey: 'state',
         Icon: Building2,
         countKey: 'state_count' as const,
         coverageKey: 'state_coverage' as const,
@@ -32,7 +61,7 @@ const jurisdictionConfig = [
     },
     {
         id: 'municipal' as const,
-        name: 'Municipal',
+        nameKey: 'municipal',
         Icon: Home,
         countKey: 'municipal_count' as const,
         coverageKey: 'municipal_coverage' as const,
@@ -48,21 +77,26 @@ function CoverageDisplay({
     legacyCoverage,
     jurisdictionId,
     gradient,
+    lang,
 }: {
     coverageItem?: CoverageItem;
     legacyCoverage: number;
     jurisdictionId: string;
     gradient: string;
+    lang: Lang;
 }) {
+    const t = content[lang];
+    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+
     // Municipal has no known universe — show descriptive text instead of percentage bar
     if (jurisdictionId === 'municipal' && coverageItem) {
         return (
             <div className="space-y-2">
                 <p className="text-sm text-muted-foreground">
-                    {coverageItem.cities_covered} municipios cubiertos
+                    {coverageItem.cities_covered} {t.municipalitiesCovered}
                 </p>
                 <p className="text-xs text-muted-foreground/70">
-                    de {coverageItem.total_municipalities?.toLocaleString('es-MX')} municipios en el país
+                    {t.ofMunicipalities(coverageItem.total_municipalities?.toLocaleString(locale) ?? '0')}
                 </p>
             </div>
         );
@@ -77,8 +111,8 @@ function CoverageDisplay({
             <div className="flex justify-between text-sm font-medium">
                 <span className="text-muted-foreground">
                     {universe
-                        ? `de ${universe.toLocaleString('es-MX')}`
-                        : 'Cobertura'}
+                        ? t.ofUniverse(universe.toLocaleString(locale))
+                        : t.coverage}
                 </span>
                 <span className="text-foreground">{percentage}%</span>
             </div>
@@ -93,6 +127,10 @@ function CoverageDisplay({
 }
 
 export function JurisdictionCards() {
+    const { lang } = useLang();
+    const t = content[lang];
+    const names = jurisdictionNames[lang];
+    const locale = lang === 'es' ? 'es-MX' : 'en-US';
     const [stats, setStats] = useState<DashboardStats | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(false);
@@ -108,10 +146,10 @@ export function JurisdictionCards() {
         <div className="mx-auto max-w-7xl px-6 py-16">
             <div className="mb-12 text-center">
                 <h2 className="font-display text-3xl font-bold text-foreground sm:text-4xl">
-                    Cobertura por Jurisdicción
+                    {t.heading}
                 </h2>
                 <p className="mt-3 text-lg text-muted-foreground">
-                    Explora leyes federales, estatales y municipales
+                    {t.subtitle}
                 </p>
             </div>
 
@@ -122,7 +160,7 @@ export function JurisdictionCards() {
                     ))}
                 </div>
             ) : error ? (
-                <p className="text-center text-muted-foreground">No se pudieron cargar las estadísticas.</p>
+                <p className="text-center text-muted-foreground">{t.loadError}</p>
             ) : (
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {jurisdictionConfig.map((jurisdiction) => {
@@ -148,16 +186,16 @@ export function JurisdictionCards() {
 
                                     {/* Name */}
                                     <h3 className="font-display text-2xl font-bold text-foreground mb-4">
-                                        {jurisdiction.name}
+                                        {names[jurisdiction.nameKey]}
                                     </h3>
 
                                     {/* Stats */}
                                     <div className="space-y-4">
                                         <div className="flex items-baseline gap-3">
                                             <span className="font-display text-4xl font-bold text-foreground">
-                                                {count.toLocaleString('es-MX')}
+                                                {count.toLocaleString(locale)}
                                             </span>
-                                            <span className="text-base text-muted-foreground">leyes</span>
+                                            <span className="text-base text-muted-foreground">{t.laws}</span>
                                         </div>
 
                                         {/* Coverage display */}
@@ -166,6 +204,7 @@ export function JurisdictionCards() {
                                             legacyCoverage={legacyCoverage}
                                             jurisdictionId={jurisdiction.id}
                                             gradient={jurisdiction.gradient}
+                                            lang={lang}
                                         />
                                     </div>
                                 </CardContent>

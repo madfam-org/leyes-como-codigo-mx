@@ -16,7 +16,7 @@ const content = {
     sections: [
       {
         title: 'Carácter Informativo',
-        body: 'Leyes Como Código es un proyecto independiente que tiene como objetivo facilitar el acceso ciudadano a la legislación mexicana en formato digital. Todo el contenido legislativo se presenta con fines exclusivamente informativos y de consulta. No sustituye, complementa ni modifica de ninguna manera las publicaciones oficiales del Diario Oficial de la Federación (DOF), las gacetas oficiales estatales ni ninguna otra fuente oficial del gobierno mexicano.',
+        body: 'Tezca es un proyecto independiente que tiene como objetivo facilitar el acceso ciudadano a la legislación mexicana en formato digital. Todo el contenido legislativo se presenta con fines exclusivamente informativos y de consulta. No sustituye, complementa ni modifica de ninguna manera las publicaciones oficiales del Diario Oficial de la Federación (DOF), las gacetas oficiales estatales ni ninguna otra fuente oficial del gobierno mexicano.',
       },
       {
         title: 'Fuentes y Actualización',
@@ -46,7 +46,7 @@ const content = {
     sections: [
       {
         title: 'Informational Nature',
-        body: 'Leyes Como Código is an independent project aimed at facilitating citizen access to Mexican legislation in digital format. All legislative content is presented exclusively for informational and reference purposes. It does not replace, supplement, or modify in any way the official publications of the Diario Oficial de la Federación (DOF), state official gazettes, or any other official government source.',
+        body: 'Tezca is an independent project aimed at facilitating citizen access to Mexican legislation in digital format. All legislative content is presented exclusively for informational and reference purposes. It does not replace, supplement, or modify in any way the official publications of the Diario Oficial de la Federación (DOF), state official gazettes, or any other official government source.',
       },
       {
         title: 'Sources and Updates',

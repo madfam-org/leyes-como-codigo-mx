@@ -11,12 +11,42 @@ import { ComparisonPane } from './comparison/ComparisonPane';
 import { ComparisonMetadataPanel } from './comparison/ComparisonMetadataPanel';
 import { ComparisonToolbar } from './comparison/ComparisonToolbar';
 import type { ComparisonLawData } from './comparison/types';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        loadError: 'No se pudieron cargar las leyes.',
+        analyzing: 'Analizando estructura legal...',
+        comparing: (n: number) => `Comparando ${n} documentos`,
+        selectTitle: 'Selecciona leyes para comparar',
+        selectDesc: 'Necesitas al menos dos leyes para usar la herramienta de comparación inteligente.',
+        goToSearch: 'Ir al Buscador',
+        backFull: 'Volver',
+        backShort: 'Atrás',
+        titleFull: 'Comparación Estructural',
+        titleShort: 'Comparación',
+    },
+    en: {
+        loadError: 'Could not load the laws.',
+        analyzing: 'Analyzing legal structure...',
+        comparing: (n: number) => `Comparing ${n} documents`,
+        selectTitle: 'Select laws to compare',
+        selectDesc: 'You need at least two laws to use the intelligent comparison tool.',
+        goToSearch: 'Go to Search',
+        backFull: 'Back',
+        backShort: 'Back',
+        titleFull: 'Structural Comparison',
+        titleShort: 'Compare',
+    },
+};
 
 interface ComparisonViewProps {
     lawIds: string[];
 }
 
 export default function ComparisonView({ lawIds }: ComparisonViewProps) {
+    const { lang } = useLang();
+    const t = content[lang];
     const [data, setData] = useState<ComparisonLawData[]>([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
@@ -52,13 +82,13 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
                 setData(results);
             } catch (err) {
                 console.error("Comparison fetch error", err);
-                setError("No se pudieron cargar las leyes.");
+                setError(t.loadError);
             } finally {
                 setLoading(false);
             }
         }
         fetchData();
-    }, [lawIds]);
+    }, [lawIds, t.loadError]);
 
     // Article matching: intersection of article IDs across both laws
     const matchedIds = useMemo(() => {
@@ -96,8 +126,8 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
         return (
             <div className="flex h-[80vh] items-center justify-center flex-col px-4" aria-live="polite">
                 <Loader2 className="h-8 w-8 sm:h-10 sm:w-10 animate-spin text-primary mb-4" />
-                <h2 className="text-lg sm:text-xl font-medium text-center">Analizando estructura legal...</h2>
-                <p className="text-muted-foreground text-xs sm:text-sm mt-2 text-center">Comparando {lawIds.length} documentos</p>
+                <h2 className="text-lg sm:text-xl font-medium text-center">{t.analyzing}</h2>
+                <p className="text-muted-foreground text-xs sm:text-sm mt-2 text-center">{t.comparing(lawIds.length)}</p>
             </div>
         );
     }
@@ -107,12 +137,12 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
     if (lawIds.length < 2) {
         return (
             <div className="flex flex-col items-center justify-center py-12 sm:py-20 px-4">
-                <h2 className="text-xl sm:text-2xl font-bold mb-4 text-center">Selecciona leyes para comparar</h2>
+                <h2 className="text-xl sm:text-2xl font-bold mb-4 text-center">{t.selectTitle}</h2>
                 <p className="text-sm sm:text-base text-muted-foreground mb-6 max-w-md text-center">
-                    Necesitas al menos dos leyes para usar la herramienta de comparación inteligente.
+                    {t.selectDesc}
                 </p>
                 <Button asChild>
-                    <Link href="/search">Ir al Buscador</Link>
+                    <Link href="/search">{t.goToSearch}</Link>
                 </Button>
             </div>
         );
@@ -125,15 +155,15 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
                 <Button asChild variant="ghost" size="sm">
                     <Link href="/search">
                         <ArrowLeft className="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2" />
-                        <span className="hidden sm:inline">Volver</span>
-                        <span className="sm:hidden text-xs">Atrás</span>
+                        <span className="hidden sm:inline">{t.backFull}</span>
+                        <span className="sm:hidden text-xs">{t.backShort}</span>
                     </Link>
                 </Button>
                 <div>
                     <h1 className="text-base sm:text-xl font-bold flex items-center gap-2">
                         <Map className="h-4 w-4 sm:h-5 sm:w-5 text-primary" />
-                        <span className="hidden sm:inline">Comparación Estructural</span>
-                        <span className="sm:hidden">Comparación</span>
+                        <span className="hidden sm:inline">{t.titleFull}</span>
+                        <span className="sm:hidden">{t.titleShort}</span>
                     </h1>
                 </div>
             </div>

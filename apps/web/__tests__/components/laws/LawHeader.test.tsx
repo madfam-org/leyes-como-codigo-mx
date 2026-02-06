@@ -1,6 +1,11 @@
 import { render, screen } from '@testing-library/react';
 import { describe, it, expect } from 'vitest';
 import { LawHeader } from '@/components/laws/LawHeader';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 describe('LawHeader', () => {
     const mockLaw = {
@@ -17,24 +22,24 @@ describe('LawHeader', () => {
     };
 
     it('renders law name correctly', () => {
-        render(<LawHeader law={mockLaw} version={mockVersion} />);
+        renderWithLang(<LawHeader law={mockLaw} version={mockVersion} />);
         expect(screen.getByText('Ley de Prueba')).toBeInTheDocument();
     });
 
     it('renders badges correctly', () => {
-        render(<LawHeader law={mockLaw} version={mockVersion} />);
+        renderWithLang(<LawHeader law={mockLaw} version={mockVersion} />);
         expect(screen.getByText('Federal')).toBeInTheDocument();
         expect(screen.getByText('ley')).toBeInTheDocument();
     });
 
     it('renders publication date when provided', () => {
-        render(<LawHeader law={mockLaw} version={mockVersion} />);
-        expect(screen.getByText(/Publicado:/)).toBeInTheDocument();
+        renderWithLang(<LawHeader law={mockLaw} version={mockVersion} />);
+        expect(screen.getByText(/Publicado:|Published:/)).toBeInTheDocument();
     });
 
     it('renders DOF link when provided', () => {
-        render(<LawHeader law={mockLaw} version={mockVersion} />);
-        const link = screen.getByText('Ver documento original').closest('a');
+        renderWithLang(<LawHeader law={mockLaw} version={mockVersion} />);
+        const link = screen.getByText(/Ver documento original|View original document/).closest('a');
         expect(link).toHaveAttribute('href', 'https://example.com');
     });
 });

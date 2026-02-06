@@ -1,7 +1,12 @@
 import { render, screen, fireEvent } from '@testing-library/react';
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect, vi, afterEach } from 'vitest';
 import { TableOfContents } from '@/components/laws/TableOfContents';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
 import type { Article } from '@/components/laws/types';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 describe('TableOfContents', () => {
     const mockArticles: Article[] = [
@@ -17,14 +22,14 @@ describe('TableOfContents', () => {
     });
 
     it('renders header', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={mockArticles} activeArticle={null} onArticleClick={mockOnClick} />
         );
         expect(screen.getByText('Tabla de Contenidos')).toBeInTheDocument();
     });
 
     it('renders article buttons', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={mockArticles} activeArticle={null} onArticleClick={mockOnClick} />
         );
 
@@ -34,7 +39,7 @@ describe('TableOfContents', () => {
     });
 
     it('shows empty state when no articles', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={[]} activeArticle={null} onArticleClick={mockOnClick} />
         );
 
@@ -42,7 +47,7 @@ describe('TableOfContents', () => {
     });
 
     it('renders article count', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={mockArticles} activeArticle={null} onArticleClick={mockOnClick} />
         );
 
@@ -50,7 +55,7 @@ describe('TableOfContents', () => {
     });
 
     it('calls onArticleClick with correct ID', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={mockArticles} activeArticle={null} onArticleClick={mockOnClick} />
         );
 
@@ -59,7 +64,7 @@ describe('TableOfContents', () => {
     });
 
     it('highlights active article', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={mockArticles} activeArticle="2" onArticleClick={mockOnClick} />
         );
 
@@ -73,7 +78,7 @@ describe('TableOfContents', () => {
             { article_id: 'texto_completo', text: 'Full text...' },
         ];
 
-        render(
+        renderWithLang(
             <TableOfContents articles={articles} activeArticle={null} onArticleClick={mockOnClick} />
         );
 
@@ -81,7 +86,7 @@ describe('TableOfContents', () => {
     });
 
     it('shows zero count for empty articles', () => {
-        render(
+        renderWithLang(
             <TableOfContents articles={[]} activeArticle={null} onArticleClick={mockOnClick} />
         );
 

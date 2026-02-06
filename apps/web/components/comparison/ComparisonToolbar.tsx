@@ -3,6 +3,22 @@
 import { useState } from 'react';
 import { Button } from "@leyesmx/ui";
 import { Link2, Unlink2, Copy, Check } from 'lucide-react';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        syncOn: 'Scroll sincronizado',
+        syncOff: 'Sincronizar scroll',
+        copied: 'Copiado!',
+        copyLink: 'Copiar enlace',
+    },
+    en: {
+        syncOn: 'Scroll synced',
+        syncOff: 'Sync scroll',
+        copied: 'Copied!',
+        copyLink: 'Copy link',
+    },
+};
 
 interface ComparisonToolbarProps {
     syncScroll: boolean;
@@ -10,6 +26,8 @@ interface ComparisonToolbarProps {
 }
 
 export function ComparisonToolbar({ syncScroll, onToggleSync }: ComparisonToolbarProps) {
+    const { lang } = useLang();
+    const t = content[lang];
     const [copied, setCopied] = useState(false);
 
     const handleCopyUrl = async () => {
@@ -36,7 +54,7 @@ export function ComparisonToolbar({ syncScroll, onToggleSync }: ComparisonToolba
                     <Unlink2 className="h-3.5 w-3.5" />
                 )}
                 <span className="hidden sm:inline">
-                    {syncScroll ? 'Scroll sincronizado' : 'Sincronizar scroll'}
+                    {syncScroll ? t.syncOn : t.syncOff}
                 </span>
                 <span className="sm:hidden">
                     {syncScroll ? 'Sync ON' : 'Sync'}
@@ -55,7 +73,7 @@ export function ComparisonToolbar({ syncScroll, onToggleSync }: ComparisonToolba
                     <Copy className="h-3.5 w-3.5" />
                 )}
                 <span className="hidden sm:inline">
-                    {copied ? 'Copiado!' : 'Copiar enlace'}
+                    {copied ? t.copied : t.copyLink}
                 </span>
                 <span className="sm:hidden">
                     {copied ? 'OK' : 'URL'}

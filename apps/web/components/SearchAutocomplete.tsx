@@ -5,6 +5,8 @@ import { useRouter } from 'next/navigation';
 import { Input } from '@leyesmx/ui';
 import { Badge } from '@leyesmx/ui';
 import { api } from '@/lib/api';
+import { useLang } from '@/components/providers/LanguageContext';
+import type { Lang } from '@/components/providers/LanguageContext';
 
 interface Suggestion {
     id: string;
@@ -19,13 +21,14 @@ interface SearchAutocompleteProps {
     defaultValue?: string;
 }
 
-const TIER_LABELS: Record<string, string> = {
-    federal: 'Federal',
-    state: 'Estatal',
-    municipal: 'Municipal',
+const TIER_LABELS: Record<Lang, Record<string, string>> = {
+    es: { federal: 'Federal', state: 'Estatal', municipal: 'Municipal' },
+    en: { federal: 'Federal', state: 'State', municipal: 'Municipal' },
 };
 
 export function SearchAutocomplete({ onSearch, placeholder, className, defaultValue = '' }: SearchAutocompleteProps) {
+    const { lang } = useLang();
+    const tierLabels = TIER_LABELS[lang];
     const router = useRouter();
     const [query, setQuery] = useState(defaultValue);
     const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
@@ -147,7 +150,7 @@ export function SearchAutocomplete({ onSearch, placeholder, className, defaultVa
                         >
                             <span className="truncate text-foreground">{suggestion.name}</span>
                             <Badge variant="secondary" className="text-[10px] flex-shrink-0">
-                                {TIER_LABELS[suggestion.tier] || suggestion.tier}
+                                {tierLabels[suggestion.tier] || suggestion.tier}
                             </Badge>
                         </li>
                     ))}

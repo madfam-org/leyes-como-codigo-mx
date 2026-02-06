@@ -1,6 +1,11 @@
 import { render, screen, fireEvent } from '@testing-library/react';
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect, vi, afterEach } from 'vitest';
 import { Pagination } from '@/components/Pagination';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 describe('Pagination', () => {
     const mockOnPageChange = vi.fn();
@@ -10,21 +15,21 @@ describe('Pagination', () => {
     });
 
     it('renders nothing when totalPages <= 1', () => {
-        const { container } = render(
+        const { container } = renderWithLang(
             <Pagination currentPage={1} totalPages={1} onPageChange={mockOnPageChange} />
         );
         expect(container.firstChild).toBeNull();
     });
 
     it('renders nothing when totalPages is 0', () => {
-        const { container } = render(
+        const { container } = renderWithLang(
             <Pagination currentPage={1} totalPages={0} onPageChange={mockOnPageChange} />
         );
         expect(container.firstChild).toBeNull();
     });
 
     it('shows all page numbers when totalPages <= 7', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={1} totalPages={5} onPageChange={mockOnPageChange} />
         );
 
@@ -34,7 +39,7 @@ describe('Pagination', () => {
     });
 
     it('disables first/previous buttons on page 1', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={1} totalPages={5} onPageChange={mockOnPageChange} />
         );
 
@@ -45,7 +50,7 @@ describe('Pagination', () => {
     });
 
     it('disables next/last buttons on last page', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={5} totalPages={5} onPageChange={mockOnPageChange} />
         );
 
@@ -56,7 +61,7 @@ describe('Pagination', () => {
     });
 
     it('calls onPageChange with correct page on click', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={3} totalPages={5} onPageChange={mockOnPageChange} />
         );
 
@@ -65,7 +70,7 @@ describe('Pagination', () => {
     });
 
     it('calls onPageChange(1) when first page button clicked', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={3} totalPages={5} onPageChange={mockOnPageChange} />
         );
 
@@ -74,7 +79,7 @@ describe('Pagination', () => {
     });
 
     it('calls onPageChange(prev) when previous button clicked', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={3} totalPages={5} onPageChange={mockOnPageChange} />
         );
 
@@ -83,7 +88,7 @@ describe('Pagination', () => {
     });
 
     it('shows ellipsis for large page counts', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={5} totalPages={20} onPageChange={mockOnPageChange} />
         );
 
@@ -94,7 +99,7 @@ describe('Pagination', () => {
     });
 
     it('does not show leading ellipsis when near start', () => {
-        render(
+        renderWithLang(
             <Pagination currentPage={2} totalPages={20} onPageChange={mockOnPageChange} />
         );
 
@@ -106,7 +111,7 @@ describe('Pagination', () => {
     });
 
     it('applies className prop', () => {
-        const { container } = render(
+        const { container } = renderWithLang(
             <Pagination currentPage={1} totalPages={5} onPageChange={mockOnPageChange} className="mt-8" />
         );
 

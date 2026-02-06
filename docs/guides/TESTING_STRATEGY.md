@@ -116,7 +116,7 @@ Code cannot merge to `main` unless:
 
 ### Frontend (Vitest)
 - **Location:** `apps/web/__tests__/`
-- **Tests:** 82 tests across 13 files
+- **Tests:** 89 tests across 14 files
 - **Run:** `cd apps/web && npx vitest run`
 - **Framework:** Vitest + @testing-library/react
 

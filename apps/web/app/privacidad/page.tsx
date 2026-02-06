@@ -13,7 +13,7 @@ const content = {
     sections: [
       {
         title: 'Recopilación de Datos',
-        body: 'Actualmente, Leyes Como Código no recopila datos personales de sus usuarios. No se requiere registro, inicio de sesión ni cuenta de usuario para acceder al contenido del sitio. No utilizamos cookies de rastreo ni herramientas de analítica que recopilen información personal identificable.',
+        body: 'Actualmente, Tezca no recopila datos personales de sus usuarios. No se requiere registro, inicio de sesión ni cuenta de usuario para acceder al contenido del sitio. No utilizamos cookies de rastreo ni herramientas de analítica que recopilen información personal identificable.',
       },
       {
         title: 'Almacenamiento Local',
@@ -25,7 +25,7 @@ const content = {
       },
       {
         title: 'Contacto',
-        body: 'Para cualquier consulta relacionada con la privacidad de sus datos, puede contactarnos en: contacto@leyescomocodigo.mx',
+        body: 'Para cualquier consulta relacionada con la privacidad de sus datos, puede contactarnos en: contacto@tezca.mx',
       },
     ],
     termsLink: 'Consultar Términos y Condiciones',
@@ -37,7 +37,7 @@ const content = {
     sections: [
       {
         title: 'Data Collection',
-        body: 'Currently, Leyes Como Código does not collect personal data from its users. No registration, login, or user account is required to access the site content. We do not use tracking cookies or analytics tools that collect personally identifiable information.',
+        body: 'Currently, Tezca does not collect personal data from its users. No registration, login, or user account is required to access the site content. We do not use tracking cookies or analytics tools that collect personally identifiable information.',
       },
       {
         title: 'Local Storage',
@@ -49,7 +49,7 @@ const content = {
       },
       {
         title: 'Contact',
-        body: 'For any inquiries related to the privacy of your data, you may contact us at: contacto@leyescomocodigo.mx',
+        body: 'For any inquiries related to the privacy of your data, you may contact us at: contacto@tezca.mx',
       },
     ],
     termsLink: 'View Terms and Conditions',

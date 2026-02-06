@@ -12,6 +12,28 @@ interface State {
   error: Error | null;
 }
 
+function getPreferredLang(): 'es' | 'en' {
+  if (typeof window === 'undefined') return 'es';
+  try {
+    return (localStorage.getItem('preferred-lang') as 'es' | 'en') || 'es';
+  } catch {
+    return 'es';
+  }
+}
+
+const content = {
+  es: {
+    title: 'Algo salió mal',
+    message: 'Ocurrió un error inesperado. Intenta recargar la página.',
+    retry: 'Reintentar',
+  },
+  en: {
+    title: 'Something went wrong',
+    message: 'An unexpected error occurred. Try reloading the page.',
+    retry: 'Retry',
+  },
+};
+
 export class ErrorBoundary extends Component<Props, State> {
   constructor(props: Props) {
     super(props);
@@ -28,19 +50,21 @@ export class ErrorBoundary extends Component<Props, State> {
         return this.props.fallback;
       }
 
+      const t = content[getPreferredLang()];
+
       return (
         <div className="flex min-h-[50vh] flex-col items-center justify-center p-8 text-center">
           <h2 className="mb-2 text-xl font-semibold text-foreground">
-            Algo salió mal
+            {t.title}
           </h2>
           <p className="mb-4 text-sm text-muted-foreground">
-            Ocurrió un error inesperado. Intenta recargar la página.
+            {t.message}
           </p>
           <button
             onClick={() => this.setState({ hasError: false, error: null })}
             className="rounded-md bg-primary px-4 py-2 text-sm text-primary-foreground hover:bg-primary/90"
           >
-            Reintentar
+            {t.retry}
           </button>
         </div>
       );

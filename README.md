@@ -67,7 +67,8 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Legal Pages** - Terms & Conditions, Legal Disclaimer, Privacy Policy (bilingual ES/EN)
 - ✅ **Site Footer** - Persistent navigation, official source links, disclaimer bar
 - ✅ **Disclaimer Banner** - Dismissable one-time homepage notice (localStorage persistence)
-- ✅ **Bilingual Support** - ES/EN language toggle for legal pages and footer (law content remains Spanish)
+- ✅ **Full Bilingual UI** - ES/EN language toggle across all components (law content remains Spanish)
+- ✅ **Tezca Manifesto** - `/acerca-de` brand page with mission statement
 - ✅ **Article Display Fixes** - Corrected popular law links, double heading bugs, and unreadable content
 - ✅ **Accessibility** - Set-state-in-effect lint fixes, improved component patterns
 

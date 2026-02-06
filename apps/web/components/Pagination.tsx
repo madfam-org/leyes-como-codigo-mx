@@ -2,6 +2,22 @@
 
 import { Button } from '@/components/ui/button';
 import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from 'lucide-react';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        firstPage: 'Primera página',
+        prevPage: 'Página anterior',
+        nextPage: 'Página siguiente',
+        lastPage: 'Última página',
+    },
+    en: {
+        firstPage: 'First page',
+        prevPage: 'Previous page',
+        nextPage: 'Next page',
+        lastPage: 'Last page',
+    },
+};
 
 interface PaginationProps {
     currentPage: number;
@@ -11,6 +27,9 @@ interface PaginationProps {
 }
 
 export function Pagination({ currentPage, totalPages, onPageChange, className = '' }: PaginationProps) {
+    const { lang } = useLang();
+    const t = content[lang];
+
     // Generate page numbers to show (max 7: first, ..., prev, current, next, ..., last)
     const getPageNumbers = () => {
         const pages: (number | string)[] = [];
@@ -60,7 +79,7 @@ export function Pagination({ currentPage, totalPages, onPageChange, className = 
                 onClick={() => onPageChange(1)}
                 disabled={currentPage === 1}
                 className="h-8 w-8"
-                title="Primera página"
+                title={t.firstPage}
             >
                 <ChevronsLeft className="h-4 w-4" />
             </Button>
@@ -72,7 +91,7 @@ export function Pagination({ currentPage, totalPages, onPageChange, className = 
                 onClick={() => onPageChange(currentPage - 1)}
                 disabled={currentPage === 1}
                 className="h-8 w-8"
-                title="Página anterior"
+                title={t.prevPage}
             >
                 <ChevronLeft className="h-4 w-4" />
             </Button>
@@ -110,7 +129,7 @@ export function Pagination({ currentPage, totalPages, onPageChange, className = 
                 onClick={() => onPageChange(currentPage + 1)}
                 disabled={currentPage === totalPages}
                 className="h-8 w-8"
-                title="Página siguiente"
+                title={t.nextPage}
             >
                 <ChevronRight className="h-4 w-4" />
             </Button>
@@ -122,7 +141,7 @@ export function Pagination({ currentPage, totalPages, onPageChange, className = 
                 onClick={() => onPageChange(totalPages)}
                 disabled={currentPage === totalPages}
                 className="h-8 w-8"
-                title="Última página"
+                title={t.lastPage}
             >
                 <ChevronsRight className="h-4 w-4" />
             </Button>

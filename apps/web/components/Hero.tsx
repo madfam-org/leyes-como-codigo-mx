@@ -5,8 +5,28 @@ import { useState, useEffect } from 'react';
 import { Button } from "@leyesmx/ui";
 import { api } from '@/lib/api';
 import { SearchAutocomplete } from '@/components/SearchAutocomplete';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        subtitle: 'El Espejo de la Ley',
+        searchButton: 'Buscar',
+        searchPlaceholder: 'Buscar leyes...',
+        searchPlaceholderWithCount: (count: string) => `Buscar en ${count} leyes...`,
+        tagline: 'Búsqueda inteligente en tiempo real • Actualizado diariamente',
+    },
+    en: {
+        subtitle: 'The Mirror of the Law',
+        searchButton: 'Search',
+        searchPlaceholder: 'Search laws...',
+        searchPlaceholderWithCount: (count: string) => `Search across ${count} laws...`,
+        tagline: 'Real-time intelligent search • Updated daily',
+    },
+};
 
 export function Hero() {
+    const { lang } = useLang();
+    const t = content[lang];
     const [totalLaws, setTotalLaws] = useState<number | null>(null);
 
     useEffect(() => {
@@ -20,6 +40,11 @@ export function Hero() {
             window.location.href = `/search?q=${encodeURIComponent(query)}`;
         }
     };
+
+    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const placeholder = totalLaws
+        ? t.searchPlaceholderWithCount(totalLaws.toLocaleString(locale))
+        : t.searchPlaceholder;
 
     return (
         <section className="relative overflow-hidden bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 px-4 sm:px-6 py-16 sm:py-24 lg:py-32">
@@ -48,12 +73,12 @@ export function Hero() {
 
                 {/* Headline - Mobile-first responsive text sizing */}
                 <h1 className="animate-slide-up font-display text-3xl sm:text-5xl lg:text-7xl font-bold tracking-tight text-white">
-                    Leyes Como Código
+                    Tezca
                 </h1>
 
                 {/* Subheadline - Mobile-first responsive */}
                 <p className="mt-3 sm:mt-4 animate-slide-up text-base sm:text-xl lg:text-2xl text-primary-100 [animation-delay:100ms]">
-                    El Sistema Legal Mexicano, Digitalizado
+                    {t.subtitle}
                 </p>
 
                 {/* Search bar - Stacked on mobile, horizontal on larger screens */}
@@ -64,7 +89,7 @@ export function Hero() {
                                 <Search className="h-5 w-5 sm:h-6 sm:w-6 text-neutral-400 dark:text-neutral-500 flex-shrink-0" />
                                 <SearchAutocomplete
                                     onSearch={handleSearch}
-                                    placeholder={totalLaws ? `Buscar en ${totalLaws.toLocaleString('es-MX')} leyes...` : 'Buscar leyes...'}
+                                    placeholder={placeholder}
                                     className="flex-1 border-0 bg-transparent text-base sm:text-lg text-neutral-900 dark:text-neutral-100 placeholder:text-neutral-400 dark:placeholder:text-neutral-500 focus-visible:outline-none focus-visible:ring-0"
                                 />
                             </div>
@@ -73,7 +98,7 @@ export function Hero() {
                                 className="bg-primary-600 hover:bg-primary-700 w-full sm:w-auto"
                                 onClick={() => handleSearch(document.querySelector<HTMLInputElement>('[role="combobox"]')?.value || '')}
                             >
-                                Buscar
+                                {t.searchButton}
                             </Button>
                         </div>
                     </div>
@@ -81,7 +106,7 @@ export function Hero() {
 
                 {/* Stats - Smaller text on mobile */}
                 <div className="mt-6 sm:mt-8 text-xs sm:text-sm text-primary-100/80 animate-fade-in [animation-delay:300ms]">
-                    Búsqueda inteligente en tiempo real • Actualizado diariamente
+                    {t.tagline}
                 </div>
             </div>
         </section>

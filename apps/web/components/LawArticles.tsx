@@ -3,6 +3,30 @@
 import { useEffect, useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
+import { useLang } from '@/components/providers/LanguageContext';
+
+const content = {
+    es: {
+        loading: 'Cargando artículos...',
+        loadError: 'Error al cargar los artículos. Por favor, intenta de nuevo.',
+        searchPlaceholder: 'Buscar en artículos...',
+        viewArticles: 'Ver Artículos',
+        viewTransitorios: (n: number) => `Ver Transitorios (${n})`,
+        resultsFound: (n: number) => `${n} resultado${n !== 1 ? 's' : ''} encontrado${n !== 1 ? 's' : ''}`,
+        noResults: 'No se encontraron artículos que coincidan con tu búsqueda.',
+        contentUnavailable: 'Contenido no disponible',
+    },
+    en: {
+        loading: 'Loading articles...',
+        loadError: 'Error loading articles. Please try again.',
+        searchPlaceholder: 'Search articles...',
+        viewArticles: 'View Articles',
+        viewTransitorios: (n: number) => `View Transitory Articles (${n})`,
+        resultsFound: (n: number) => `${n} result${n !== 1 ? 's' : ''} found`,
+        noResults: 'No articles matched your search.',
+        contentUnavailable: 'Content not available',
+    },
+};
 
 interface Article {
     id: string;
@@ -23,6 +47,8 @@ interface LawArticlesProps {
 }
 
 export default function LawArticles({ lawId }: LawArticlesProps) {
+    const { lang } = useLang();
+    const t = content[lang];
     const [lawData, setLawData] = useState<LawData | null>(null);
     const [loading, setLoading] = useState(true);
     const [searchQuery, setSearchQuery] = useState('');
@@ -53,7 +79,7 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                     <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-1/2 mx-auto"></div>
                 </div>
                 <p className="text-gray-600 dark:text-gray-400 mt-4">
-                    Cargando artículos...
+                    {t.loading}
                 </p>
             </Card>
         );
@@ -63,7 +89,7 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
         return (
             <Card className="p-8 text-center bg-red-50 dark:bg-red-950/30">
                 <p className="text-red-600 dark:text-red-400">
-                    Error al cargar los artículos. Por favor, intenta de nuevo.
+                    {t.loadError}
                 </p>
             </Card>
         );
@@ -89,7 +115,7 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                     <div className="flex-1">
                         <Input
                             type="text"
-                            placeholder="🔍 Buscar en artículos..."
+                            placeholder={`🔍 ${t.searchPlaceholder}`}
                             value={searchQuery}
                             onChange={(e) => setSearchQuery(e.target.value)}
                             className="w-full"
@@ -104,14 +130,14 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                                     : 'bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300'
                                 }`}
                         >
-                            {showTransitorios ? 'Ver Artículos' : `Ver Transitorios (${transitorios.length})`}
+                            {showTransitorios ? t.viewArticles : t.viewTransitorios(transitorios.length)}
                         </button>
                     )}
                 </div>
 
                 {searchQuery && (
                     <div className="mt-3 text-sm text-gray-600 dark:text-gray-400">
-                        {filteredArticles.length} resultado{filteredArticles.length !== 1 ? 's' : ''} encontrado{filteredArticles.length !== 1 ? 's' : ''}
+                        {t.resultsFound(filteredArticles.length)}
                     </div>
                 )}
             </Card>
@@ -121,7 +147,7 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                 {filteredArticles.length === 0 ? (
                     <Card className="p-8 text-center glass border-dashed">
                         <p className="text-muted-foreground">
-                            No se encontraron artículos que coincidan con tu búsqueda.
+                            {t.noResults}
                         </p>
                     </Card>
                 ) : (
@@ -151,7 +177,7 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                                         </div>
                                     ) : (
                                         <p className="text-muted-foreground italic">
-                                            Contenido no disponible
+                                            {t.contentUnavailable}
                                         </p>
                                     )}
                                 </div>

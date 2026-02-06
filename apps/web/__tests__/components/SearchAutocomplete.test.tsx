@@ -1,6 +1,11 @@
 import { render, screen, waitFor, fireEvent } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { SearchAutocomplete } from '@/components/SearchAutocomplete';
+import { LanguageProvider } from '@/components/providers/LanguageContext';
+
+function renderWithLang(ui: React.ReactElement) {
+    return render(<LanguageProvider>{ui}</LanguageProvider>);
+}
 
 // Mock next/navigation
 const mockPush = vi.fn();
@@ -25,12 +30,12 @@ describe('SearchAutocomplete', () => {
     });
 
     it('renders input with placeholder', () => {
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar leyes..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar leyes..." />);
         expect(screen.getByPlaceholderText('Buscar leyes...')).toBeInTheDocument();
     });
 
     it('has combobox role', () => {
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
         expect(screen.getByRole('combobox')).toBeInTheDocument();
     });
 
@@ -41,7 +46,7 @@ describe('SearchAutocomplete', () => {
         ];
         (api.suggest as ReturnType<typeof vi.fn>).mockResolvedValue(mockSuggestions);
 
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
 
         const input = screen.getByRole('combobox');
         fireEvent.change(input, { target: { value: 'ley' } });
@@ -55,7 +60,7 @@ describe('SearchAutocomplete', () => {
     it('calls onSearch on Enter with no active suggestion', async () => {
         (api.suggest as ReturnType<typeof vi.fn>).mockResolvedValue([]);
 
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
 
         const input = screen.getByRole('combobox');
         fireEvent.change(input, { target: { value: 'amparo' } });
@@ -70,7 +75,7 @@ describe('SearchAutocomplete', () => {
         ];
         (api.suggest as ReturnType<typeof vi.fn>).mockResolvedValue(mockSuggestions);
 
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
 
         const input = screen.getByRole('combobox');
         fireEvent.change(input, { target: { value: 'amparo' } });
@@ -91,7 +96,7 @@ describe('SearchAutocomplete', () => {
         ];
         (api.suggest as ReturnType<typeof vi.fn>).mockResolvedValue(mockSuggestions);
 
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
 
         const input = screen.getByRole('combobox');
         fireEvent.change(input, { target: { value: 'amparo' } });
@@ -112,7 +117,7 @@ describe('SearchAutocomplete', () => {
         ];
         (api.suggest as ReturnType<typeof vi.fn>).mockResolvedValue(mockSuggestions);
 
-        render(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
+        renderWithLang(<SearchAutocomplete onSearch={onSearch} placeholder="Buscar..." />);
 
         const input = screen.getByRole('combobox');
         fireEvent.change(input, { target: { value: 'ley' } });
