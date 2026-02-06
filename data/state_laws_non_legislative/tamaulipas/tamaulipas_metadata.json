@@ -1,0 +1,2619 @@
+{
+  "state_id": 28,
+  "state_name": "Tamaulipas",
+  "power_ids_queried": [
+    1,
+    3,
+    4
+  ],
+  "total_found": 303,
+  "successful": 241,
+  "failed": 62,
+  "laws": [
+    {
+      "file_id": 39629,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39629&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539629.doc&nombreclave=o1539629.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_contraloría_gubernamental_39629.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Contraloría Gubernamental"
+    },
+    {
+      "file_id": 39615,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39615&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539615.doc&nombreclave=o1539615.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_coordinación_de_asesores__39615.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Coordinación de Asesores del Ejecutivo del Estado"
+    },
+    {
+      "file_id": 39628,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39628&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539628.doc&nombreclave=o1539628.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_procuraduría_general_de_j_39628.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Procuraduría General de Justicia"
+    },
+    {
+      "file_id": 39618,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39618&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539618.doc&nombreclave=o1539618.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_administrac_39618.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Administración"
+    },
+    {
+      "file_id": 39619,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39619&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539619.doc&nombreclave=o1539619.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_desarrollo__39619.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Desarrollo Económico y Turismo"
+    },
+    {
+      "file_id": 39621,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39621&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539621.doc&nombreclave=o1539621.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_desarrollo__39621.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Desarrollo Rural"
+    },
+    {
+      "file_id": 39622,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39622&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539622.doc&nombreclave=o1539622.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_desarrollo__39622.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Desarrollo Social."
+    },
+    {
+      "file_id": 39625,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39625&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539625.doc&nombreclave=o1539625.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_desarrollo__39625.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Desarrollo Urbano y Medio Ambiente"
+    },
+    {
+      "file_id": 39623,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39623&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539623.doc&nombreclave=o1539623.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_educación_39623.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Educación"
+    },
+    {
+      "file_id": 39617,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39617&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539617.doc&nombreclave=o1539617.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_finanzas_39617.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Finanzas"
+    },
+    {
+      "file_id": 39626,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39626&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539626.doc&nombreclave=o1539626.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_obras_públi_39626.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Obras Públicas"
+    },
+    {
+      "file_id": 39624,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39624&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539624.doc&nombreclave=o1539624.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_salud_39624.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Salud"
+    },
+    {
+      "file_id": 39627,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39627&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539627.doc&nombreclave=o1539627.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_de_seguridad_p_39627.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría de Seguridad Pública"
+    },
+    {
+      "file_id": 39620,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39620&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539620.doc&nombreclave=o1539620.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_del_trabajo_39620.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría del Trabajo"
+    },
+    {
+      "file_id": 39616,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39616&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539616.doc&nombreclave=o1539616.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_la_secretaría_general_de_gob_39616.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de la Secretaría General de Gobierno"
+    },
+    {
+      "file_id": 39614,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39614&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539614.doc&nombreclave=o1539614.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_de_las_oficinas_del_gobernador_39614.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica de las Oficinas del Gobernador"
+    },
+    {
+      "file_id": 39632,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39632&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539632.doc&nombreclave=o1539632.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_del_instituto_tamaulipeco_del_d_39632.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica del Instituto Tamaulipeco del Deporte"
+    },
+    {
+      "file_id": 39631,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39631&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539631.doc&nombreclave=o1539631.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_del_instituto_tamaulipeco_para__39631.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica del Instituto Tamaulipeco para la Cultura y las Artes"
+    },
+    {
+      "file_id": 39630,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39630&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539630.doc&nombreclave=o1539630.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/acuerdo_gubernamental_por_el_que_se_determina_la_estructura_orgánica_del_sistema_estatal_para_el_des_39630.doc",
+      "law_name": "ACUERDO Gubernamental por el que se determina la estructura orgánica del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39135,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39135&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139135.doc&nombreclave=o1139135.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/colegio_de_bachilleres_del_estado_de_tamaulipas_39135.doc",
+      "law_name": "Colegio de Bachilleres del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39131,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39131&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139131.doc&nombreclave=o1139131.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/comité_de_planeación_para_el_desarrollo_del_estado_de_tamaulipas_39131.doc",
+      "law_name": "Comité de Planeación para el Desarrollo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39136,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39136&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139136.doc&nombreclave=o1139136.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/consejo_tamaulipeco_de_ciencia_y_tecnología_39136.doc",
+      "law_name": "Consejo Tamaulipeco de Ciencia y Tecnología"
+    },
+    {
+      "file_id": 39649,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39649&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139649.doc&nombreclave=o1139649.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_centro_regional_de_formación_docente_e_investigaci_39649.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Centro Regional de Formación Docente e Investigación Educativa"
+    },
+    {
+      "file_id": 39633,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39633&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139633.doc&nombreclave=o1139633.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_colegio_de_educación_profesional_técnica_del_estad_39633.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Colegio de Educación Profesional Técnica del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39637,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39637&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139637.doc&nombreclave=o1139637.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_colegio_de_san_juan_siglo_xxi_39637.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Colegio de San Juan Siglo XXI"
+    },
+    {
+      "file_id": 39643,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39643&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139643.doc&nombreclave=o1139643.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_colegio_de_tamaulipas_39643.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea El Colegio de Tamaulipas"
+    },
+    {
+      "file_id": 39653,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39653&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139653.doc&nombreclave=o1139653.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_de_reclutamiento_y_formación_policial_de_39653.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto de Reclutamiento y Formación Policial de Tamaulipas"
+    },
+    {
+      "file_id": 39638,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39638&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139638.doc&nombreclave=o1139638.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_de_becas_estímulos_y_crédito_39638.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco de Becas, Estímulos y Créditos Educativos"
+    },
+    {
+      "file_id": 39639,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39639&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o4039639.doc&nombreclave=o4039639.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_de_capacitación_para_el_empl_39639.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco de Capacitación para el Empleo"
+    },
+    {
+      "file_id": 39635,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39635&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139635.doc&nombreclave=o1139635.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_de_educación_para_adultos_39635.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco de Educación para Adultos"
+    },
+    {
+      "file_id": 39652,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39652&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139652.doc&nombreclave=o1139652.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_de_infraestructura_física_ed_39652.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco de Infraestructura Física Educativa"
+    },
+    {
+      "file_id": 39651,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39651&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139651.doc&nombreclave=o1139651.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_de_vivienda_y_urbanismo_39651.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco de Vivienda y Urbanismo"
+    },
+    {
+      "file_id": 39657,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39657&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139657.doc&nombreclave=o1139657.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_del_deporte_39657.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco del Deporte"
+    },
+    {
+      "file_id": 39658,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39658&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139658.doc&nombreclave=o1139658.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_tamaulipeco_para_la_cultura_y_las_artes_39658.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto Tamaulipeco para la Cultura y las Artes"
+    },
+    {
+      "file_id": 39650,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39650&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139650.doc&nombreclave=o1139650.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_sistema_para_el_desarrollo_integral_de_la_familia__39650.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Sistema para el Desarrollo Integral de la Familia de Tamaulipas"
+    },
+    {
+      "file_id": 39644,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39644&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o4039644.doc&nombreclave=o4039644.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_la_universidad_politécnica_de_altamira_39644.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea la Universidad Politécnica de Altamira"
+    },
+    {
+      "file_id": 39647,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39647&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139647.doc&nombreclave=o1139647.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_la_universidad_politécnica_de_la_región_ribereña_39647.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea la Universidad Politécnica de la Región Ribereña"
+    },
+    {
+      "file_id": 39645,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39645&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139645.doc&nombreclave=o1139645.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_la_universidad_politécnica_de_victoria_39645.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea la Universidad Politécnica de Victoria"
+    },
+    {
+      "file_id": 39648,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39648&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139648.doc&nombreclave=o1139648.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_la_universidad_tecnológica_del_mar_de_tamaulipas_bice_39648.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea la Universidad Tecnológica del Mar de Tamaulipas Bicentenario"
+    },
+    {
+      "file_id": 39646,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39646&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139646.doc&nombreclave=o1139646.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_establece_el_sistema_de_educación_superior_del_estado_de_t_39646.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se establece el Sistema de Educación Superior del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39640,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39640&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o4039640.doc&nombreclave=o4039640.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_reestructura_la_organización_interna_de_la_universidad_tec_39640.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se reestructura la organización interna de la Universidad Tecnológica de Altamira, Tamaulipas"
+    },
+    {
+      "file_id": 39641,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39641&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139641.doc&nombreclave=o1139641.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_reestructura_la_organización_interna_de_la_universidad_tec_39641.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se reestructura la organización interna de la Universidad Tecnológica de Matamoros, Tamaulipas"
+    },
+    {
+      "file_id": 39642,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39642&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139642.doc&nombreclave=o1139642.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_reestructura_la_organización_interna_de_la_universidad_tec_39642.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se reestructura la organización interna de la Universidad Tecnológica de Nuevo Laredo, Tamaulipas"
+    },
+    {
+      "file_id": 39636,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39636&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139636.doc&nombreclave=o1139636.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_reestructura_la_organización_interna_de_la_universidad_tec_39636.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se reestructura la organización interna de la Universidad Tecnológica de Tamaulipas Norte"
+    },
+    {
+      "file_id": 39613,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39613&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139613.doc&nombreclave=o1139613.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_mediante_el_cual_se_crean_las_oficinas_del_gobernador_39613.doc",
+      "law_name": "DECRETO mediante el cual se crean las Oficinas del Gobernador"
+    },
+    {
+      "file_id": 39612,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39612&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1539612.doc&nombreclave=o1539612.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/estructura_orgánica_de_la_coordinación_de_comunicación_social_del_ejecutivo_del_estado_39612.doc",
+      "law_name": "estructura orgánica de la Coordinación de Comunicación Social del Ejecutivo del Estado"
+    },
+    {
+      "file_id": 39134,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39134&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139134.doc&nombreclave=o1139134.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/instituto_de_la_mujer_tamaulipeca_39134.doc",
+      "law_name": "Instituto de la Mujer Tamaulipeca"
+    },
+    {
+      "file_id": 39133,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39133&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139133.doc&nombreclave=o1139133.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/instituto_tamaulipeco_de_la_juventud_39133.doc",
+      "law_name": "Instituto Tamaulipeco de la Juventud"
+    },
+    {
+      "file_id": 39127,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39127&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139127.doc&nombreclave=o1139127.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/instituto_tamaulipeco_para_los_migrantes_39127.doc",
+      "law_name": "Instituto Tamaulipeco para los Migrantes"
+    },
+    {
+      "file_id": 76159,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=76159&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o476159.doc&nombreclave=o476159.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_adopciones_para_el_estado_de_tamaulipas_76159.doc",
+      "law_name": "Ley de Adopciones para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10499,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10499&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o410499.doc&nombreclave=o410499.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_adquisiciones_para_la_administración_pública_del_estado_de_tamaulipas_10499.doc",
+      "law_name": "Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 89401,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89401&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o489401.doc&nombreclave=o489401.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_asentamientos_humanos_ordenamiento_territorial_y_desarrollo_urbano_del_estado_de_tamaulipas_89401.doc",
+      "law_name": "Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 78905,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=78905&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o478905.doc&nombreclave=o478905.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_asociaciones_público_privadas_para_el_estado_de_tamaulipas_78905.doc",
+      "law_name": "Ley de Asociaciones Público Privadas para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 76158,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=76158&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o476158.doc&nombreclave=o476158.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_atención_a_víctimas_para_el_estado_de_tamaulipas_76158.doc",
+      "law_name": "Ley de Atención a Víctimas para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 63620,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63620&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o463620.doc&nombreclave=o463620.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_bibliotecas_públicas_del_estado_de_tamaulipas_63620.doc",
+      "law_name": "Ley de Bibliotecas Públicas del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73796,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73796&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473796.doc&nombreclave=o473796.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_cambio_climático_para_el_estado_de_tamaulipas_73796.doc",
+      "law_name": "Ley de Cambio Climático para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10507,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10507&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o410507.doc&nombreclave=o410507.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_caminos_en_el_estado_de_tamaulipas_10507.doc",
+      "law_name": "Ley de Caminos en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 60776,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60776&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o460776.doc&nombreclave=o460776.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_centros_de_atención_infantil_del_estado_de_tamaulipas_60776.doc",
+      "law_name": "Ley de Centros de Atención Infantil del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34291,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34291&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o434291.doc&nombreclave=o434291.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_control_constitucional_para_el_estado_de_tamaulipas_34291.doc",
+      "law_name": "Ley de Control Constitucional para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 58662,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58662&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o458662.doc&nombreclave=o458662.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_cultura_física_y_deporte_para_el_estado_de_tamaulipas_58662.doc",
+      "law_name": "Ley de Cultura Física y Deporte para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34289,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34289&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o434289.doc&nombreclave=o434289.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_defensoría_pública_para_el_estado_de_tamaulipas_34289.doc",
+      "law_name": "Ley de Defensoría Pública para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 67624,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=67624&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o467624.doc&nombreclave=o467624.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_extinción_de_dominio_para_el_estado_de_tamaulipas_67624.doc",
+      "law_name": "Ley de Extinción de Dominio para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73542,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73542&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473542.doc&nombreclave=o473542.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_fiscalización_y_rendición_de_cuentas_del_estado_de_tamaulipas_73542.doc",
+      "law_name": "Ley de Fiscalización y Rendición de Cuentas del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34293,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34293&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o434293.doc&nombreclave=o434293.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_hacienda_para_el_estado_de_tamaulipas_34293.doc",
+      "law_name": "Ley de Hacienda para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34290,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34290&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o434290.doc&nombreclave=o434290.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_infraestructura_física_educativa_para_el_estado_de_tamaulipas_34290.doc",
+      "law_name": "Ley de Infraestructura Física Educativa para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 70332,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70332&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o470332.doc&nombreclave=o470332.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_los_derechos_de_las_personas_con_discapacidad_del_estado_de_tamaulipas_70332.doc",
+      "law_name": "Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 64629,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=64629&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o464629.doc&nombreclave=o464629.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_los_derechos_de_niñas_niños_y_adolescentes_del_estado_de_tamaulipas_64629.doc",
+      "law_name": "Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 101072,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=101072&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o4101072.doc&nombreclave=o4101072.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_movilidad_del_estado_de_tamaulipas_101072.doc",
+      "law_name": "Ley de Movilidad del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73549,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73549&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473549.doc&nombreclave=o473549.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_procedimiento_administrativo_para_el_estado_de_tamaulipas_73549.doc",
+      "law_name": "Ley de Procedimiento Administrativo para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 58587,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58587&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o458587.doc&nombreclave=o458587.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_protección_a_las_víctimas_para_el_estado_de_tamaulipas_58587.doc",
+      "law_name": "Ley de Protección a las Víctimas para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73541,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73541&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473541.doc&nombreclave=o473541.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_responsabilidades_administrativas_del_estado_de_tamaulipas_73541.doc",
+      "law_name": "Ley de Responsabilidades Administrativas del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 76157,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=76157&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o476157.doc&nombreclave=o476157.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_transparencia_y_acceso_a_la_información_pública_del_estado_de_tamaulipas_76157.doc",
+      "law_name": "Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 58669,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58669&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o458669.doc&nombreclave=o458669.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_turismo_del_estado_de_tamaulipas_58669.doc",
+      "law_name": "Ley de Turismo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 70327,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70327&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o470327.doc&nombreclave=o470327.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_del_fomento_y_uso_de_la_bicicleta_en_el_estado_de_tamaulipas_70327.doc",
+      "law_name": "Ley del Fomento y Uso de la Bicicleta en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 60785,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60785&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o460785.doc&nombreclave=o460785.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_del_instituto_de_previsión_y_seguridad_social_del_estado_de_tamaulipas_60785.doc",
+      "law_name": "Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73617,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73617&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473617.doc&nombreclave=o473617.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_del_procedimiento_contencioso_administrativo_del_estado_de_tamaulipas_73617.doc",
+      "law_name": "Ley del Procedimiento Contencioso Administrativo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73539,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73539&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473539.doc&nombreclave=o473539.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_del_sistema_estatal_anticorrupción_de_tamaulipas_73539.doc",
+      "law_name": "Ley del Sistema Estatal Anticorrupción de Tamaulipas"
+    },
+    {
+      "file_id": 63826,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63826&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o463826.doc&nombreclave=o463826.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_electoral_del_estado_de_tamaulipas_63826.doc",
+      "law_name": "Ley Electoral del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 101068,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=101068&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o4101068.doc&nombreclave=o4101068.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_electoral_del_estado_de_tamaulipas_101068.doc",
+      "law_name": "Ley Electoral del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 70333,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70333&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o470333.doc&nombreclave=o470333.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_orgánica_de_la_administración_pública_del_estado_de_tamaulipas_70333.doc",
+      "law_name": "Ley Orgánica de la Administración Pública del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 89391,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89391&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o489391.doc&nombreclave=o489391.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_orgánica_de_la_fiscalía_general_de_justicia_del_estado_de_tamaulipas_89391.doc",
+      "law_name": "Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34294,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34294&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o434294.doc&nombreclave=o434294.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_orgánica_de_la_procuraduría_general_de_justicia_del_estado_de_tamaulipas_34294.doc",
+      "law_name": "Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 73540,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=73540&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o473540.doc&nombreclave=o473540.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_orgánica_del_tribunal_de_justicia_administrativa_del_estado_de_tamaulipas_73540.doc",
+      "law_name": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 72727,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72727&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o472727.doc&nombreclave=o472727.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_el_aprovechamiento_de_energías_renovables_del_estado_de_tamaulipas_72727.doc",
+      "law_name": "Ley para el Aprovechamiento de Energías Renovables del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 69698,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69698&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o469698.doc&nombreclave=o469698.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_el_registro_y_acreditación_de_los_agentes_y_profesionales_inmobiliarios_del_estado_de_tamau_69698.doc",
+      "law_name": "Ley para el Registro y Acreditación de los Agentes y Profesionales Inmobiliarios del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 63621,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63621&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o463621.doc&nombreclave=o463621.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_administración_de_bienes_asegurados_decomisados_o_abandonados_del_estado_de_tamaulipas_63621.doc",
+      "law_name": "Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 68999,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68999&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o468999.doc&nombreclave=o468999.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_atención_protección_e_inclusión_de_las_personas_con_la_condición_del_espectro_autista_y__68999.doc",
+      "law_name": "LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS"
+    },
+    {
+      "file_id": 34295,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34295&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o434295.doc&nombreclave=o434295.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_equidad_de_género_en_tamaulipas_34295.doc",
+      "law_name": "Ley para la Equidad de Género en Tamaulipas"
+    },
+    {
+      "file_id": 84316,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84316&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o484316.doc&nombreclave=o484316.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_igualdad_de_género_en_tamaulipas_84316.doc",
+      "law_name": "Ley para la Igualdad de Género en Tamaulipas"
+    },
+    {
+      "file_id": 75679,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75679&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o475679.doc&nombreclave=o475679.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_prevención_y_atención_socioeconómica_de_las_violencias_del_estado_de_tamaulipas_75679.doc",
+      "law_name": "Ley para la Prevención y Atención Socioeconómica de las Violencias del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 78906,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=78906&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o478906.doc&nombreclave=o478906.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_protección_de_personas_defensoras_de_derechos_humanos_y_periodistas_para_el_estado_de_ta_78906.doc",
+      "law_name": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 63622,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63622&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o463622.doc&nombreclave=o463622.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_la_protección_de_personas_que_intervienen_en_el_procedimiento_penal_del_estado_de_tamaulipa_63622.doc",
+      "law_name": "Ley para la Protección de Personas que Intervienen en el Procedimiento Penal del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 101164,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=101164&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o4101164.doc&nombreclave=o4101164.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_para_regular_la_apertura_instalación_y_funcionamiento_de_las_casas_de_empeño_en_el_estado_de_tam_101164.doc",
+      "law_name": "Ley para Regular la Apertura, Instalación y Funcionamiento de las Casas de Empeño en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 87724,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=87724&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o487724.doc&nombreclave=o487724.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_que_establece_el_servicio_de_administración_tributaria_de_tamaulipas_87724.doc",
+      "law_name": "Ley que establece el Servicio de Administración Tributaria de Tamaulipas"
+    },
+    {
+      "file_id": 87726,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=87726&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o487726.doc&nombreclave=o487726.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_que_establece_la_coordinación_estatal_de_atención_al_bienestar_emocional_de_tamaulipas_87726.doc",
+      "law_name": "Ley que establece la Coordinación Estatal de Atención al Bienestar Emocional de Tamaulipas"
+    },
+    {
+      "file_id": 60775,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60775&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o460775.doc&nombreclave=o460775.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_que_regula_el_aseguramiento_administración_enajenación_y_disposición_final_de_vehículos_automoto_60775.doc",
+      "law_name": "Ley que Regula el Aseguramiento, Administración, Enajenación y Disposición Final de Vehículos Automotores, Accesorios o Componentes Abandonados para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 45743,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=45743&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o645743.doc&nombreclave=o645743.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento__de_construcciones_del_estado_de_tamaulipas_45743.doc",
+      "law_name": "Reglamento  de Construcciones del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10058,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10058&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610058.doc&nombreclave=o610058.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_becas_créditos_y_estímulos_educativos_10058.doc",
+      "law_name": "Reglamento de Becas, Créditos y Estímulos Educativos"
+    },
+    {
+      "file_id": 10086,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10086&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610086.doc&nombreclave=o610086.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_construcciones_para_el_estado_de_tamaulipas_10086.doc",
+      "law_name": "Reglamento de Construcciones para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 66626,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=66626&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o666626.doc&nombreclave=o666626.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_incorporación_y_operación_de_escuelas_particulares_del_nivel_básico_en_tamaulipas_66626.doc",
+      "law_name": "Reglamento de Incorporación y Operación de Escuelas Particulares del Nivel Básico en Tamaulipas"
+    },
+    {
+      "file_id": 10062,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10062&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610062.doc&nombreclave=o610062.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_inspección_para_el_estado_de_tamaulipas_y_aplicación_de_sanciones_por_violaciones_a_la_10062.doc",
+      "law_name": "Reglamento de Inspección para el Estado de Tamaulipas y Aplicación de Sanciones por Violaciones a la Legislación Laboral"
+    },
+    {
+      "file_id": 10059,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10059&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610059.doc&nombreclave=o610059.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_academia_de_policia_del_estado_de_tamaulipas_10059.doc",
+      "law_name": "Reglamento de la Academia de Policia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 58550,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58550&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o658550.doc&nombreclave=o658550.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_comisión_de_derechos_humanos_del_estado_de_tamaulipas_58550.doc",
+      "law_name": "Reglamento de la Comisión de Derechos Humanos del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 76160,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=76160&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o676160.doc&nombreclave=o676160.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_de_adopciones_para_el_estado_de_tamaulipas_76160.doc",
+      "law_name": "Reglamento de la Ley de Adopciones para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 66625,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=66625&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o666625.doc&nombreclave=o666625.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_de_centros_de_atención_infantil_del_estado_de_tamaulipas_66625.doc",
+      "law_name": "Reglamento de la Ley de Centros de Atención Infantil del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 77194,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77194&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o677194.doc&nombreclave=o677194.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_de_los_derechos_de_las_personas_con_discapacidad_del_estado_de_tamaulipas_77194.doc",
+      "law_name": "Reglamento de la Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 50866,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=50866&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o650866.doc&nombreclave=o650866.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_de_pesca_y_acuacultura_sustentables_del_estado_de_tamaulipas_50866.doc",
+      "law_name": "Reglamento de la Ley de Pesca y Acuacultura Sustentables del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10051,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10051&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610051.doc&nombreclave=o610051.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_de_protección_civil_para_el_estado_de_tamaulipas_10051.doc",
+      "law_name": "Reglamento de la Ley de Protección Civil para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 61209,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=61209&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o661209.doc&nombreclave=o661209.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_de_valuación_del_estado_de_tamaulipas_61209.doc",
+      "law_name": "Reglamento de la Ley de Valuación del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 66697,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=66697&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o666697.doc&nombreclave=o666697.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_orgánica_de_la_procuraduría_general_de_justicia_del_estado_de_tamaulipas_66697.doc",
+      "law_name": "Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 53668,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=53668&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o653668.doc&nombreclave=o653668.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_orgánica_de_la_procuraduría_general_de_justicia_del_estado_de_tamaulipas_en_mat_53668.doc",
+      "law_name": "Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tamaulipas en Materia de Mecanismos Alternativos de Solución de Conflictos"
+    },
+    {
+      "file_id": 10043,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10043&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610043.doc&nombreclave=o610043.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_orgánica_del_ministerio_público_del_estado_10043.doc",
+      "law_name": "Reglamento de la Ley Orgánica del Ministerio Público del Estado"
+    },
+    {
+      "file_id": 67693,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=67693&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o667693.doc&nombreclave=o667693.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_para_prevenir_atender_sancionar_y_erradicar_la_violencia_contra_las_mujeres_en__67693.doc",
+      "law_name": "Reglamento de la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10041,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10041&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610041.doc&nombreclave=o610041.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_ley_que_establece_los_requisitos_para_la_operación_de_las_casas_de_empeño_del_estad_10041.doc",
+      "law_name": "Reglamento de la Ley que Establece los Requisitos para la Operación de las Casas de Empeño del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 70093,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70093&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o670093.doc&nombreclave=o670093.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_policía_investigadora_de_la_procuraduría_general_de_justicia_del_estado_de_tamaulip_70093.doc",
+      "law_name": "Reglamento de la Policía Investigadora de la Procuraduría General de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 70336,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70336&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o670336.doc&nombreclave=o670336.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_policía_investigadora_de_la_procuraduría_general_de_justicia_del_estado_de_tamaulip_70336.doc",
+      "law_name": "Reglamento de la Policía Investigadora de la Procuraduría General de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10084,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10084&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610084.doc&nombreclave=o610084.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_policia_judicial_del_estado_10084.doc",
+      "law_name": "Reglamento de la Policia Judicial del Estado"
+    },
+    {
+      "file_id": 10050,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10050&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610050.doc&nombreclave=o610050.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_policia_rural_del_estado_de_tamaulipas_10050.doc",
+      "law_name": "Reglamento de la Policia Rural del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10063,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10063&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610063.doc&nombreclave=o610063.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_procuraduría_de_la_defensa_del_trabajo_para_el_estado_de_tamaulipas_10063.doc",
+      "law_name": "Reglamento de la Procuraduría de la Defensa del Trabajo para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10060,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10060&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610060.doc&nombreclave=o610060.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_las_corporaciones_policiales_preventivas_del_estado_10060.doc",
+      "law_name": "Reglamento de las Corporaciones Policiales Preventivas del Estado"
+    },
+    {
+      "file_id": 10053,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10053&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610053.doc&nombreclave=o610053.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_los_consejos_de_participación_social_en_la_educación_10053.doc",
+      "law_name": "Reglamento de los Consejos de Participación Social en la Educación"
+    },
+    {
+      "file_id": 10045,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10045&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610045.doc&nombreclave=o610045.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_previsión_social_para_el_estado_de_tamaulipas_10045.doc",
+      "law_name": "Reglamento de Previsión Social para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34698,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34698&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634698.doc&nombreclave=o634698.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_tránsito_del_estado_de_tamaulipas_34698.doc",
+      "law_name": "Reglamento de Tránsito del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10083,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10083&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610083.doc&nombreclave=o610083.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_tránsito_y_transporte_10083.doc",
+      "law_name": "Reglamento de Tránsito y Transporte"
+    },
+    {
+      "file_id": 10048,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10048&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610048.doc&nombreclave=o610048.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_transporte_del_estado_de_tamaulipas_10048.doc",
+      "law_name": "Reglamento de Transporte del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10082,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10082&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610082.doc&nombreclave=o610082.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_código_fiscal_del_estado_10082.doc",
+      "law_name": "Reglamento del Código Fiscal del Estado"
+    },
+    {
+      "file_id": 10080,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10080&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610080.doc&nombreclave=o610080.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_comité_de_compras_y_operaciones_patrimoniales_para_la_administración_pública_del_esta_10080.doc",
+      "law_name": "Reglamento del Comité de Compras y Operaciones Patrimoniales para la Administración Pública del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10049,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10049&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610049.doc&nombreclave=o610049.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_consejo_estatal_de_seguridad_pública_10049.doc",
+      "law_name": "Reglamento del Consejo Estatal de Seguridad Pública"
+    },
+    {
+      "file_id": 84297,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84297&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o684297.doc&nombreclave=o684297.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_consejo_estatal_de_seguridad_pública_84297.doc",
+      "law_name": "Reglamento del Consejo Estatal de Seguridad Pública"
+    },
+    {
+      "file_id": 10054,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10054&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610054.doc&nombreclave=o610054.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_consejo_estatal_técnico_de_la_educación_10054.doc",
+      "law_name": "Reglamento del Consejo Estatal Técnico de la Educación"
+    },
+    {
+      "file_id": 44060,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=44060&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o644060.doc&nombreclave=o644060.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_desarrollo_policial_de_las_instituciones_preventivas_de_seguridad_pública_del_estado__44060.doc",
+      "law_name": "Reglamento del Desarrollo Policial de las instituciones preventivas de Seguridad Pública del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10057,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10057&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610057.doc&nombreclave=o610057.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_programa_escuela_para_padres_10057.doc",
+      "law_name": "Reglamento del Programa Escuela para Padres"
+    },
+    {
+      "file_id": 10061,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10061&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610061.doc&nombreclave=o610061.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_servicio_policial_de_carrera_del_estado_de_tamaulipas_10061.doc",
+      "law_name": "Reglamento del Servicio Policial de Carrera del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 64698,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=64698&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o664698.doc&nombreclave=o664698.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_servicio_profesional_de_carrera_de_la_procuraduría_general_de_justicia_del_estado_de__64698.doc",
+      "law_name": "Reglamento del Servicio Profesional de Carrera de la Procuraduría General de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 61578,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=61578&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o661578.doc&nombreclave=o661578.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_servicio_profesional_de_carrera_policial_del_estado_de_tamaulipas_61578.doc",
+      "law_name": "Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 38305,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=38305&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o638305.doc&nombreclave=o638305.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_sistema_estatal_de_becas_créditos_y_estímulos_educativos_de_tamaulipas_38305.doc",
+      "law_name": "Reglamento del Sistema Estatal de Becas, Créditos y Estímulos Educativos de Tamaulipas"
+    },
+    {
+      "file_id": 34700,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34700&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634700.doc&nombreclave=o634700.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_sistema_estatal_de_investigación_educativa_34700.doc",
+      "law_name": "Reglamento del Sistema Estatal de Investigación Educativa"
+    },
+    {
+      "file_id": 34802,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34802&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634802.doc&nombreclave=o634802.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_sistema_estatal_de_verificación_vehicular_para_el_estado_de_tamaulipas_34802.doc",
+      "law_name": "Reglamento del Sistema Estatal de Verificación Vehicular para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 60500,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60500&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o660500.doc&nombreclave=o660500.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_casa_hogar_san_antonio_60500.doc",
+      "law_name": "Reglamento Interior de Casa Hogar San Antonio"
+    },
+    {
+      "file_id": 60501,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60501&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o660501.doc&nombreclave=o660501.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_casa_hogar_del_adulto_mayor_60501.doc",
+      "law_name": "Reglamento Interior de la Casa Hogar del Adulto Mayor"
+    },
+    {
+      "file_id": 60502,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60502&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o660502.doc&nombreclave=o660502.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_casa_hogar_del_niño_60502.doc",
+      "law_name": "Reglamento Interior de la Casa Hogar del Niño"
+    },
+    {
+      "file_id": 68982,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68982&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o668982.doc&nombreclave=o668982.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_casa_integra-consentido_68982.doc",
+      "law_name": "Reglamento Interior de la Casa INTEGRA-ConSentido"
+    },
+    {
+      "file_id": 67423,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=67423&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o667423.doc&nombreclave=o667423.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_comisión_consultiva_estatal_de_seguridad_y_salud_en_el_trabajo_del_estado__67423.doc",
+      "law_name": "Reglamento Interior de la Comisión Consultiva Estatal de Seguridad y Salud en el Trabajo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 70335,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70335&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o670335.doc&nombreclave=o670335.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_comisión_estatal_para_la_protección_contra_riesgos_sanitarios_70335.doc",
+      "law_name": "Reglamento Interior de la Comisión Estatal para la Protección contra Riesgos Sanitarios"
+    },
+    {
+      "file_id": 34703,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34703&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634703.doc&nombreclave=o634703.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_contraloría_gubernamental_34703.doc",
+      "law_name": "Reglamento Interior de la Contraloría Gubernamental"
+    },
+    {
+      "file_id": 61210,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=61210&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o661210.doc&nombreclave=o661210.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_administración_61210.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Administración"
+    },
+    {
+      "file_id": 61211,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=61211&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o661211.doc&nombreclave=o661211.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_administración_61211.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Administración"
+    },
+    {
+      "file_id": 75258,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75258&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o675258.doc&nombreclave=o675258.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_bienestar_social_del_estado_de_tamaulipas_75258.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Bienestar Social del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 59248,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=59248&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o659248.doc&nombreclave=o659248.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_desarrollo_rural_del_estado_de_tamaulipas_59248.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Desarrollo Rural del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 81142,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=81142&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o681142.doc&nombreclave=o681142.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_desarrollo_rural_del_estado_de_tamaulipas_81142.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Desarrollo Rural del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 66627,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=66627&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o666627.doc&nombreclave=o666627.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_desarrollo_social_66627.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Desarrollo Social"
+    },
+    {
+      "file_id": 84315,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84315&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o684315.doc&nombreclave=o684315.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_desarrollo_urbano_y_medio_ambiente_84315.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Desarrollo Urbano y Medio Ambiente"
+    },
+    {
+      "file_id": 63827,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63827&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o663827.doc&nombreclave=o663827.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_finanzas_63827.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Finanzas"
+    },
+    {
+      "file_id": 76099,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=76099&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o676099.doc&nombreclave=o676099.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_finanzas_76099.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Finanzas"
+    },
+    {
+      "file_id": 67621,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=67621&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o667621.doc&nombreclave=o667621.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_obras_públicas_del_gobierno_del_estado_de_tamaulipas_67621.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Obras Públicas del Gobierno del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 75257,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75257&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o675257.doc&nombreclave=o675257.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_pesca_y_acuacultura_del_estado_de_tamaulipas_75257.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Pesca y Acuacultura del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 51227,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=51227&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o651227.doc&nombreclave=o651227.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_seguridad_pública_51227.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Seguridad Pública"
+    },
+    {
+      "file_id": 75256,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75256&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o675256.doc&nombreclave=o675256.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_de_turismo_del_estado_de_tamaulipas_75256.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Turismo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 84296,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84296&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o684296.doc&nombreclave=o684296.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_del_trabajo_84296.doc",
+      "law_name": "Reglamento Interior de la Secretaría del Trabajo"
+    },
+    {
+      "file_id": 58670,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58670&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o658670.doc&nombreclave=o658670.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_del_trabajo_y_asuntos_jurídicos_58670.doc",
+      "law_name": "Reglamento Interior de la Secretaría del Trabajo y Asuntos Jurídicos"
+    },
+    {
+      "file_id": 51363,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=51363&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o651363.doc&nombreclave=o651363.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_general_de_gobierno_51363.doc",
+      "law_name": "Reglamento Interior de la Secretaría General de Gobierno"
+    },
+    {
+      "file_id": 84295,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84295&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o684295.doc&nombreclave=o684295.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_secretaría_general_de_gobierno_84295.doc",
+      "law_name": "Reglamento Interior de la Secretaría General de Gobierno"
+    },
+    {
+      "file_id": 10070,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10070&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610070.doc&nombreclave=o610070.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_comité_de_simplificación_y_modernización_administrativa_para_las_dependencia_10070.doc",
+      "law_name": "Reglamento Interior del Comité de Simplificación y Modernización Administrativa para las Dependencias y Entidades de la Administración Pública Estatal"
+    },
+    {
+      "file_id": 60684,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60684&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o660684.doc&nombreclave=o660684.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_instituto_tamaulipeco_para_los_migrantes_60684.doc",
+      "law_name": "Reglamento Interior del Instituto Tamaulipeco para los Migrantes"
+    },
+    {
+      "file_id": 80685,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=80685&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o680685.doc&nombreclave=o680685.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_tribunal_de_justicia_administrativa_del_estado_de_tamaulipas_80685.doc",
+      "law_name": "Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 60504,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=60504&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o660504.doc&nombreclave=o660504.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_gaurderia_infantil_dif_colonia_liberal_60504.doc",
+      "law_name": "Reglamento Interior Gaurderia Infantil DIF Colonia Liberal"
+    },
+    {
+      "file_id": 62574,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=62574&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o662574.doc&nombreclave=o662574.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_de_la_secretaría_de_desarrollo_económico_y_turismo_del_estado_de_tamaulipas_62574.doc",
+      "law_name": "Reglamento Interno de la Secretaría de Desarrollo Económico y Turismo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 78907,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=78907&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o678907.doc&nombreclave=o678907.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_de_la_unidad_habitacional_villas_amor_adultos_mayores_con_oportunidad_de_residenc_78907.doc",
+      "law_name": "Reglamento Interno de la Unidad Habitacional Villas Amor Adultos Mayores con Oportunidad de Residencia"
+    },
+    {
+      "file_id": 61804,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=61804&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o661804.doc&nombreclave=o661804.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_de_los_centros_de_reintegración_social_y_familiar_para_adolescentes_del_estado_de_61804.doc",
+      "law_name": "Reglamento Interno de los Centros de Reintegración Social y Familiar para Adolescentes del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 80684,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=80684&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o680684.doc&nombreclave=o680684.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_del_centro_de_cuidado_diario_infantil_cecudi_de_victoria_tamaulipas_80684.doc",
+      "law_name": "Reglamento Interno del Centro de Cuidado Diario Infantil CECUDI de Victoria Tamaulipas"
+    },
+    {
+      "file_id": 10064,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10064&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610064.doc&nombreclave=o610064.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_del_comité_de_informática_del_gobierno_del_estado_10064.doc",
+      "law_name": "Reglamento Interno del Comité de Informática del Gobierno del Estado"
+    },
+    {
+      "file_id": 89411,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89411&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o689411.doc&nombreclave=o689411.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_del_consejo_estatal_de_mejora_regulatoria_89411.doc",
+      "law_name": "Reglamento Interno del Consejo Estatal de Mejora Regulatoria"
+    },
+    {
+      "file_id": 10068,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10068&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610068.doc&nombreclave=o610068.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_del_patronato_para_la_organización_de_ferias_y_exposiciones_del_estado_de_tamauli_10068.doc",
+      "law_name": "Reglamento Interno del Patronato para la Organización de Ferias y Exposiciones del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10066,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10066&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610066.doc&nombreclave=o610066.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_para_el_uso_de_las_instalaciones_del_edificio_gubernamental_tiempo_nuevo_10066.doc",
+      "law_name": "Reglamento Interno para el Uso de las Instalaciones del Edificio Gubernamental Tiempo Nuevo"
+    },
+    {
+      "file_id": 67694,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=67694&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o667694.doc&nombreclave=o667694.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_ley_de_los_derechos_de_niñas_niños_y_adolescentes_del_estado_de_tamaulipas_67694.doc",
+      "law_name": "Reglamento Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10040,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10040&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610040.doc&nombreclave=o610040.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_desarrollo_de_la_apicultura_en_el_estado_de_tamaulipas_10040.doc",
+      "law_name": "Reglamento para el Desarrollo de la Apicultura en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10071,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10071&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610071.doc&nombreclave=o610071.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_funcionamiento_de_los_subcomités_de_compras_y_operaciones_patrimoniales_de_las_co_10071.doc",
+      "law_name": "Reglamento para el Funcionamiento de los Subcomités de Compras y Operaciones Patrimoniales de las Comisiones Municipales de Agua Potable y Alcantarillado"
+    },
+    {
+      "file_id": 10044,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10044&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610044.doc&nombreclave=o610044.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_funcionamiento_del_servicio_de_clasificación_de_carnes_para_el_estado_de_tamaulip_10044.doc",
+      "law_name": "Reglamento para el Funcionamiento del Servicio de Clasificación de Carnes para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10072,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10072&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610072.doc&nombreclave=o610072.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_funcionamiento_del_subcomité_de_compras_y_operaciones_patrimoniales_del_sector_sa_10072.doc",
+      "law_name": "Reglamento para el Funcionamiento del Subcomité de Compras y Operaciones Patrimoniales del Sector Salud"
+    },
+    {
+      "file_id": 10056,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10056&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610056.doc&nombreclave=o610056.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_proceso_selectivo_de_ingreso_al_sistema_educativo_estatal_10056.doc",
+      "law_name": "Reglamento para el Proceso Selectivo de Ingreso al Sistema Educativo Estatal"
+    },
+    {
+      "file_id": 10077,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10077&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610077.doc&nombreclave=o610077.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_registro_de_peritos_en_el_estado_de_tamaulipas_10077.doc",
+      "law_name": "Reglamento para el Registro de Peritos en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10052,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10052&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610052.doc&nombreclave=o610052.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_uso_y_control_de_vehículos_oficiales_del_gobierno_del_estado_de_tamaulipas_10052.doc",
+      "law_name": "Reglamento para el Uso y Control de Vehículos Oficiales del Gobierno del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 53669,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=53669&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o653669.doc&nombreclave=o653669.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_constitución_registro_organización_y_funcionamiento_de_las_asociaciones_de_padres_53669.doc",
+      "law_name": "Reglamento para la Constitución, Registro, Organización y Funcionamiento de las Asociaciones de Padres de Familia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34801,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34801&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634801.doc&nombreclave=o634801.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_distribución_de_honorarios_gastos_de_ejecución_y_cobranza_34801.doc",
+      "law_name": "Reglamento para la Distribución de Honorarios, Gastos de Ejecución y Cobranza"
+    },
+    {
+      "file_id": 10069,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10069&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610069.doc&nombreclave=o610069.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_integración_y_funcionamiento_de_los_consejos_de_desarrollo_para_el_bienestar_soci_10069.doc",
+      "law_name": "Reglamento para la Integración y Funcionamiento de los Consejos de Desarrollo para el Bienestar Social"
+    },
+    {
+      "file_id": 10073,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10073&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610073.doc&nombreclave=o610073.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_organización_y_funcionamiento_de_la_rotonda_de_tamaulipecos_ilustres_10073.doc",
+      "law_name": "Reglamento para la Organización y Funcionamiento de la Rotonda de Tamaulipecos Ilustres"
+    },
+    {
+      "file_id": 10042,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10042&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610042.doc&nombreclave=o610042.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_prevención_y_control_de_las_zoonosis_transmitidas_por_perros_y_gatos_10042.doc",
+      "law_name": "Reglamento para la Prevención y Control de las Zoonosis Transmitidas por Perros y Gatos"
+    },
+    {
+      "file_id": 39090,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39090&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o639090.doc&nombreclave=o639090.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_los_centros_de_readaptación_social_del_estado_de_tamaulipas_39090.doc",
+      "law_name": "Reglamento para los Centros de Readaptación Social del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 64295,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=64295&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o664295.doc&nombreclave=o664295.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_regular_el_procedimiento_de_substanciación_del_recurso_de_revisión_64295.doc",
+      "law_name": "Reglamento para Regular el Procedimiento de Substanciación del Recurso de Revisión"
+    },
+    {
+      "file_id": 68902,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68902&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o668902.doc&nombreclave=o668902.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_por_el_que_se_establece_la_organización_y_el_ejercicio_del_personal_docente_con_funciones_68902.doc",
+      "law_name": "Reglamento por el que se establece la Organización y el Ejercicio del Personal Docente con Funciones de Dirección y Supervisión de Educación Básica para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10067,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10067&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610067.doc&nombreclave=o610067.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_que_establece_los_procedimientos_y_criterios_para_la_fijación_revisión_y_modificación_de__10067.doc",
+      "law_name": "Reglamento que Establece los Procedimientos y Criterios para la Fijación, Revisión y Modificación de las Tarifas de Transporte Público de Pasajeros en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39128,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39128&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139128.doc&nombreclave=o1139128.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/unidad_de_previsión_y_seguridad_social_del_estado_de_tamaulipas_39128.doc",
+      "law_name": "Unidad de Previsión y Seguridad Social del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39130,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39130&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139130.doc&nombreclave=o1139130.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/zoológico_y_parque_recreativo_tamatán_39130.doc",
+      "law_name": "Zoológico y Parque Recreativo Tamatán"
+    },
+    {
+      "file_id": 44059,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=44059&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o644059.doc&nombreclave=o644059.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_central_de_actuarios_de_ciudad_victoria_tamaulipas_44059.doc",
+      "law_name": "Reglamento de la Central de Actuarios de Ciudad Victoria Tamaulipas"
+    },
+    {
+      "file_id": 58893,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58893&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o658893.doc&nombreclave=o658893.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_comisión_de_administración_vigilancia_y_disciplina_del_tribunal_electoral_58893.doc",
+      "law_name": "Reglamento de la Comisión de Administración, Vigilancia y Disciplina, del Tribunal Electoral"
+    },
+    {
+      "file_id": 72140,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72140&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o672140.doc&nombreclave=o672140.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_escuela_judicial_del_poder_judicial_del_estado_de_tamaulipas_72140.doc",
+      "law_name": "Reglamento de la Escuela Judicial del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34695,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34695&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634695.doc&nombreclave=o634695.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_las_centrales_de_actuarios_34695.doc",
+      "law_name": "Reglamento de las Centrales de Actuarios"
+    },
+    {
+      "file_id": 54118,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=54118&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o654118.doc&nombreclave=o654118.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_los_centros_de_convivencia_familiar_del_poder_judicial_del_estado_de_tamaulipas_54118.doc",
+      "law_name": "Reglamento de los Centros de Convivencia Familiar del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34696,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34696&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634696.doc&nombreclave=o634696.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_mediación_para_el_poder_judicial_del_estado_de_tamaulipas_34696.doc",
+      "law_name": "Reglamento de Mediación para el Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 82474,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=82474&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o682474.doc&nombreclave=o682474.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_obtención_de_grado_de_la_escuela_judicial_del_poder_judicial_del_estado_de_tamaulipas_82474.doc",
+      "law_name": "Reglamento de Obtención de Grado de la Escuela Judicial del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 63406,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63406&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o663406.doc&nombreclave=o663406.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_perítos_auxiliares_de_la_administración_de_justicia_del_poder_judicial_del_estado_de_t_63406.doc",
+      "law_name": "Reglamento de Perítos Auxiliares de la Administración de Justicia del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 40549,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=40549&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o640549.doc&nombreclave=o640549.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_archivo_judicial_y_archivos_de_los_órganos_jurisdiccionales_y_administrativos_del_pod_40549.doc",
+      "law_name": "Reglamento del Archivo Judicial y Archivos de los Órganos Jurisdiccionales y Administrativos del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 40547,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=40547&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o640547.doc&nombreclave=o640547.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_centro_recreativo_y_deportivo_del_supremo_tribunal_de_justicia_del_estado_de_tamaulip_40547.doc",
+      "law_name": "Reglamento del Centro Recreativo y Deportivo del Supremo Tribunal de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 63407,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63407&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o663407.doc&nombreclave=o663407.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_poder_judicial_del_estado_a_la_ley_de_obras_públicas_y_servicios_relacionados_con_las_63407.doc",
+      "law_name": "Reglamento del Poder Judicial del Estado a la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34701,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34701&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634701.doc&nombreclave=o634701.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_supremo_tribunal_de_justicia_a_la_ley_de_obras_públicas_y_servicios_relacionados_con__34701.doc",
+      "law_name": "Reglamento del Supremo Tribunal de Justicia a la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 57137,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=57137&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o657137.doc&nombreclave=o657137.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_auditoría_superior_del_estado_57137.doc",
+      "law_name": "Reglamento Interior de la Auditoría Superior del Estado"
+    },
+    {
+      "file_id": 50375,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=50375&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o650375.doc&nombreclave=o650375.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_unidad_de_información_pública_del_poder_judicial_del_estado_de_tamaulipas_50375.doc",
+      "law_name": "Reglamento Interior de la Unidad de Información Pública del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 53670,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=53670&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o653670.doc&nombreclave=o653670.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_consejo_de_la_judicatura_del_poder_judicial_del_estado_de_tamaulipas_53670.doc",
+      "law_name": "Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 74921,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=74921&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o674921.doc&nombreclave=o674921.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_consejo_de_la_judicatura_del_poder_judicial_del_estado_de_tamaulipas_74921.doc",
+      "law_name": "Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 48370,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=48370&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o648370.doc&nombreclave=o648370.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_de_visitas_del_poder_judicial_del_estado_de_tamaulipas_48370.doc",
+      "law_name": "Reglamento Interno de Visitas del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 89394,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89394&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o689394.doc&nombreclave=o689394.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_acceso_a_los_servicios_del_tribunal_electrónico_89394.doc",
+      "law_name": "Reglamento para el Acceso a los Servicios del Tribunal Electrónico"
+    },
+    {
+      "file_id": 38741,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=38741&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o638741.doc&nombreclave=o638741.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_acceso_a_los_servicios_del_tribunal_electrónico_del_poder_judicial_del_estado_38741.doc",
+      "law_name": "Reglamento para el Acceso a los Servicios del Tribunal Electrónico del Poder Judicial del Estado"
+    },
+    {
+      "file_id": 58882,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=58882&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o658882.doc&nombreclave=o658882.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_uso_de_la_alberca_del_centro_recreativo_y_deportivo_del_supremo_tribunal_de_justi_58882.doc",
+      "law_name": "Reglamento para el Uso de la Alberca del Centro Recreativo y Deportivo del Supremo Tribunal de Justicia del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 63408,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=63408&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o663408.doc&nombreclave=o663408.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_los_procedimientos_de_adquisiciones_arrendaminetos_enajenación_y_contratación_de_ser_63408.doc",
+      "law_name": "Reglamento para los Procedimientos de Adquisiciones, Arrendaminetos, Enajenación y Contratación de Servicios del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39654,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39654&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139654.doc&nombreclave=o1139654.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_comisión_estatal_de_derechos_humanos_del_estado_de_ta_39654.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea Comisión Estatal de Derechos Humanos del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 39655,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=39655&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o1139655.doc&nombreclave=o1139655.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/decreto_gubernamental_mediante_el_cual_se_crea_el_instituto_de_transparencia_y_acceso_a_la_informaci_39655.doc",
+      "law_name": "DECRETO GUBERNAMENTAL mediante el cual se crea el Instituto de Transparencia y Acceso a la Información de Tamaulipas"
+    },
+    {
+      "file_id": 74919,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=74919&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o474919.doc&nombreclave=o474919.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/ley_de_protección_de_datos_personales_en_posesión_de_sujetos_obligados_del_estado_de_tamaulipas_74919.doc",
+      "law_name": "Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 68349,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68349&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o668349.doc&nombreclave=o668349.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_debates_entre_los_candidatos_a_los_distintos_cargos_de_elección_popular_68349.doc",
+      "law_name": "Reglamento de Debates entre los Candidatos a los distintos cargos de Elección Popular"
+    },
+    {
+      "file_id": 75468,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75468&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o675468.doc&nombreclave=o675468.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_fiscalización_para_las_organizaciones_de_ciudadanos_que_pretendan_obtener_registro_com_75468.doc",
+      "law_name": "Reglamento de Fiscalización para las Organizaciones de Ciudadanos que Pretendan Obtener Registro como Partidos Políticos Locales"
+    },
+    {
+      "file_id": 10081,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10081&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610081.doc&nombreclave=o610081.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_comisión_de_derechos_humanos_del_estado_de_tamaulipas_10081.doc",
+      "law_name": "Reglamento de la Comisión de Derechos Humanos del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 66902,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=66902&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o666902.doc&nombreclave=o666902.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_la_oficialía_electoral_del_instituto_electoral_de_tamaulipas_66902.doc",
+      "law_name": "Reglamento de la Oficialía Electoral del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 34697,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34697&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634697.doc&nombreclave=o634697.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_de_sesiones_del_instituto_electoral_de_tamaulipas_34697.doc",
+      "law_name": "Reglamento de Sesiones del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 75467,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75467&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o675467.doc&nombreclave=o675467.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_del_instituto_electoral_de_tamaulipas_para_la_fiscalización_de_los_recursos_de_las_agrupa_75467.doc",
+      "law_name": "Reglamento del Instituto Electoral de Tamaulipas para la Fiscalización de los Recursos de las Agrupaciones Políticas Estatales"
+    },
+    {
+      "file_id": 34702,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34702&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634702.doc&nombreclave=o634702.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_de_la_auditoría_superior_del_estado_de_tamaulipas_34702.doc",
+      "law_name": "Reglamento Interior de la Auditoría Superior del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10039,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10039&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610039.doc&nombreclave=o610039.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_comité_de_planeación_para_el_desarrollo_del_estado_de_tamaulipas_10039.doc",
+      "law_name": "Reglamento Interior del Comité de Planeación para el Desarrollo del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 10047,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10047&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610047.doc&nombreclave=o610047.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_comité_estatal_interinstitucional_para_la_formación_y_capacitación_de_recurs_10047.doc",
+      "law_name": "Reglamento Interior del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación para la Salud"
+    },
+    {
+      "file_id": 34803,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34803&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634803.doc&nombreclave=o634803.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_instituto_electoral_de_tamaulipas_34803.doc",
+      "law_name": "Reglamento Interior del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 70092,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70092&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o670092.doc&nombreclave=o670092.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_instituto_electoral_de_tamaulipas_70092.doc",
+      "law_name": "Reglamento Interior del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 67622,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=67622&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o667622.doc&nombreclave=o667622.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_tribunal_electoral_del_estado_de_tamaulipas_67622.doc",
+      "law_name": "Reglamento Interior del Tribunal Electoral del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34704,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34704&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634704.doc&nombreclave=o634704.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interior_del_tribunal_electoral_del_poder_judicial_del_estado_de_tamaulipas_34704.doc",
+      "law_name": "Reglamento Interior del Tribunal Electoral del Poder Judicial del Estado de Tamaulipas"
+    },
+    {
+      "file_id": 78490,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=78490&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o678490.doc&nombreclave=o678490.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_de_la_unidad_habitacional_villas_amor_adultos_mayores_con_oportunidad_de_residenc_78490.doc",
+      "law_name": "Reglamento Interno de la Unidad Habitacional Villas Amor, Adultos Mayores con Oportunidad de Residencia"
+    },
+    {
+      "file_id": 10065,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10065&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610065.doc&nombreclave=o610065.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_interno_del_tribunal_estatal_electoral_10065.doc",
+      "law_name": "Reglamento Interno del Tribunal Estatal Electoral"
+    },
+    {
+      "file_id": 10046,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10046&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610046.doc&nombreclave=o610046.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_el_financiamiento_a_partidos_políticos_por_actividades_específicas_como_entidades_de_10046.doc",
+      "law_name": "Reglamento para el Financiamiento a Partidos Políticos por Actividades Específicas como Entidades de Interes Público en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 72729,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72729&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o672729.doc&nombreclave=o672729.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_constitución_y_registro_de_partidos_políticos_estatales_72729.doc",
+      "law_name": "Reglamento para la Constitución y Registro de Partidos Políticos Estatales"
+    },
+    {
+      "file_id": 10078,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=10078&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o610078.doc&nombreclave=o610078.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_operación_de_la_campaña_para_el_control_y_erradicación_de_la_tuberculosis_y_bruce_10078.doc",
+      "law_name": "Reglamento para la Operación de la Campaña para el Control y Erradicación de la Tuberculosis y Brucelosis del Ganado en el Estado de Tamaulipas"
+    },
+    {
+      "file_id": 34705,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=34705&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o634705.doc&nombreclave=o634705.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_la_organización_y_funcionamiento_del_comité_de_radio_y_televisión_del_instituto_elec_34705.doc",
+      "law_name": "Reglamento para la Organización y Funcionamiento del Comité de Radio y Televisión del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 89395,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89395&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o689395.doc&nombreclave=o689395.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_los_procedimientos_de_selección_y_designación_de_las_consejeras_y_los_consejeros_ele_89395.doc",
+      "law_name": "Reglamento para los Procedimientos de Selección y Designación de las Consejeras y los Consejeros Electorales de los Consejos Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 89396,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89396&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o689396.doc&nombreclave=o689396.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_los_procedimientos_de_selección_y_designación_de_las_consejeras_y_los_consejeros_ele_89396.doc",
+      "law_name": "Reglamento para los Procedimientos de Selección y Designación de las Consejeras y los Consejeros Electorales de los Consejos Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 89410,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89410&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o689410.doc&nombreclave=o689410.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_para_los_procedimientos_de_selección_y_designación_de_las_consejeras_y_los_consejeros_ele_89410.doc",
+      "law_name": "Reglamento para los Procedimientos de Selección y Designación de las Consejeras y los Consejeros Electorales de los Consejos Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas"
+    },
+    {
+      "file_id": 72728,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72728&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o672728.doc&nombreclave=o672728.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_que_regula_el_procedimiento_de_registro_de_las_asociaciones_de_ciudadanos_como_agrupacion_72728.doc",
+      "law_name": "Reglamento que regula el Procedimiento de Registro de las Asociaciones de Ciudadanos como Agrupaciones Políticas Estatales en Tamaulipas"
+    },
+    {
+      "file_id": 89402,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=89402&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TAMAULIPAS/o689402.doc&nombreclave=o689402.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tamaulipas/reglamento_que_regula_la_relación_jurídica_de_trabajo_con_el_tribunal_de_justicia_administrativa_del_89402.doc",
+      "law_name": "Reglamento que Regula la Relación Jurídica de Trabajo con el Tribunal de Justicia Administrativa del Estado de Tamaulipas"
+    }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 88061,
+      "law_name": "Acuerdo 01/2020 del Fiscal General de Justicia del Estado de Tamaulipas, por el que se establecen medidas preventivas y acciones concretas que garanticen el adecuado funcionamiento en la prestación de los servicios esenciales para la protección de los servidores públicos que laboran en la Fiscalía General de Justicia del Estado de Tamaulipas y las Personas que acudan a sus instalaciones, con motivo de la pandemia denominada COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:04.042057"
+    },
+    {
+      "file_id": 88339,
+      "law_name": "Acuerdo 02/2020 del Fiscal General de Justicia del Estado de Tamaulipas, mediante el cual se reforma el diverso Número 01/2020 por el que se establecen medidas preventivas y acciones concretas que garanticen el adecuado funcionamiento en la prestación de los servicios esenciales para la protección de los servidores públicos que laboran en la Fiscalía General de Justicia del Estado de Tamaulipas y las personas que acudan a sus instalaciones, con motivo de la pandemia denominada COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:05.161247"
+    },
+    {
+      "file_id": 88818,
+      "law_name": "Acuerdo 04/2020 del Fiscal General de Justicia del Estado de Tamaulipas, mediante el cual se reforma el Artículo Único del Diverso Número 03/2020, publicado en el Periódico Oficial del Estado de Tamaulipas Número 52 de fecha 29 de abril de 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:06.307084"
+    },
+    {
+      "file_id": 89092,
+      "law_name": "Acuerdo 06/2020 del Fiscal General de Justicia del Estado de Tamaulipas, mediante el cual se reforma el artículo único del diverso número 05/2020, publicado en el Periódico Oficial del Estado de Tamaulipas Edición Vespertina Extraordinario número 7, de fecha 12 de junio de 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:07.434389"
+    },
+    {
+      "file_id": 89312,
+      "law_name": "Acuerdo 07/2020 del Fiscal General de Justicia del Estado de Tamaulipas, por el que se establecen los Lineamientos sobre la reincorporación a las actividades laborales de los Servidores Públicos de la Fiscalía General de Justicia del Estado de Tamaulipas, frente al estado de emergencia sanitaria por causa de fuerza mayor a la epidemia de enfermedad generada por virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:08.565924"
+    },
+    {
+      "file_id": 88338,
+      "law_name": "Acuerdo General 7/2020 del Pleno del Consejo de la Judicatura del Estado, mediante el cual se refuerzan las medidas de contingencia en materias penal, justicia para adolescentes y ejecución, tanto del sistema tradicional como del acusatorio y oral, por la contingencia sanitaria derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:09.691076"
+    },
+    {
+      "file_id": 88438,
+      "law_name": "Acuerdo Gubernamental mediante el cual el Poder Ejecutivo del Estado establece medidas de seguridad en materia sanitaria con motivo de la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:10.819047"
+    },
+    {
+      "file_id": 89087,
+      "law_name": "Acuerdo Gubernamental mediante el cual reforman los artículos sexto y séptimo del diverso por el que se amplía la licencia laboral, con goce de sueldo a las y los servidores públicos de la Administración Pública Centralizada, publicado en el Periódico Oficial del Estado, en fecha 29 de mayo de 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:11.944236"
+    },
+    {
+      "file_id": 89035,
+      "law_name": "Acuerdo Gubernamental mediante el cual reforman los artículos sexto, séptimo y décimo primero del Diverso por el que se amplía la licencia laboral, con goce de sueldo a las y los Servidores Públicos de la Administración Pública Centralizada, publicado en el Periódico Oficial del Estado, en fecha 29 de mayo de 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:13.079725"
+    },
+    {
+      "file_id": 89036,
+      "law_name": "Acuerdo Gubernamental mediante el cual reforman los artículos sexto, séptimo y décimo primero del Diverso por el que se amplía la licencia laboral, con goce de sueldo a las y los Servidores Públicos de la Administración Pública Centralizada, publicado en el Periódico Oficial del Estado, en fecha 29 de mayo de 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:14.144722"
+    },
+    {
+      "file_id": 88060,
+      "law_name": "Acuerdo Gubernamental mediante el cual se adoptan medidas para prevenir y contener la pandemia del COVID- 19 en las dependencias y entidades de la Administración Pública Estatal y se establecen los Criterios para la suspensión de términos y plazos en los trámites y procedimientos administrativos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:15.272200"
+    },
+    {
+      "file_id": 88813,
+      "law_name": "Acuerdo Gubernamental mediante el cual se amplía el estado de emergencia sanitaria por causa de fuerza mayor, a la epidemia de enfermedad generada por el Virus Sars-Cov2 (covid19) y se establecen las medidas de seguridad en materia sanitaria para hacer frente a la nueva realidad con convivencia segura",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:16.397478"
+    },
+    {
+      "file_id": 88814,
+      "law_name": "Acuerdo Gubernamental mediante el cual se amplía el estado de emergencia sanitaria por causa de fuerza mayor, a la epidemia de enfermedad generada por el Virus Sars-Cov2 (covid19) y se establecen las medidas de seguridad en materia sanitaria para hacer frente a la nueva realidad con convivencia segura",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:17.478550"
+    },
+    {
+      "file_id": 88825,
+      "law_name": "Acuerdo Gubernamental mediante el cual se amplía el estado de emergencia sanitaria por causa de fuerza mayor, a la epidemia de enfermedad generada por el Virus Sars-Cov2 (covid19) y se establecen las medidas de seguridad en materia sanitaria para hacer frente a la nueva realidad con convivencia segura",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:18.545238"
+    },
+    {
+      "file_id": 89088,
+      "law_name": "Acuerdo Gubernamental mediante el cual se concede una prórroga para realizar el pago de derechos por expedición de licencias para funcionamiento de establecimientos de bebidas alcohólicas a que se refiere el artículo 81 de la Ley de Hacienda para el Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:19.660813"
+    },
+    {
+      "file_id": 89315,
+      "law_name": "Acuerdo Gubernamental mediante el cual se concede una prórroga para realizar el pago de derechos por expedición de licencias para funcionamiento de establecimientos de bebidas alcohólicas a que se refiere el artículo 81 de la Ley de Hacienda para el Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:20.732562"
+    },
+    {
+      "file_id": 88426,
+      "law_name": "Acuerdo Gubernamental mediante el cual se difiere el cumplimiento del pago del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado generado durante los meses de abril y mayo 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:21.836610"
+    },
+    {
+      "file_id": 88819,
+      "law_name": "Acuerdo Gubernamental mediante el cual se expiden Lineamientos de Seguridad Sanitaria y de Salud para la reapertura gradual y responsable de las actividades económicas no esenciales en el Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:22.946331"
+    },
+    {
+      "file_id": 89269,
+      "law_name": "Acuerdo Gubernamental mediante el cual se reforman los Artículos Primero y Sexto del diverso por el cual se amplía el estado de emergencia sanitaria por causa de fuerza mayor, a la epidemia de enfermedad generada por el virus sars-cov2 (covid-19) y se establecen las medidas de seguridad en materia sanitaria para hacer frente a la nueva realidad con convivencia segura",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:39:24.109641"
+    },
+    {
+      "file_id": 88065,
+      "law_name": "Acuerdo Gubernamental que reforma el diverso mediante el cual se adoptan medidas para prevenir y contener la pandemia del COVID-19 en las dependencias y entidades de la Administración Pública Estatal y se establecen los criterios para la suspensión de términos y plazos en los trámites y procedimientos administrativos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:06.036169"
+    },
+    {
+      "file_id": 89247,
+      "law_name": "Acuerdo mediante el cual se determina el regreso a la Fase I en los Municipios de Altamira, Ciudad Madero, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Tampico y Victoria, y, se establecen los Lineamientos de Seguridad Sanitaria y de Salud para la Reapertura Gradual y Responsable de las Actividades Económicas No Esenciales para contener la Pandemia provocada por el virus SARS-CoV2 (COVID-19) en el Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:07.152376"
+    },
+    {
+      "file_id": 89089,
+      "law_name": "Acuerdo mediante el cual se determina que en los municipios de Altamira, Ciudad Madero, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Tampico y Victoria, se mantienen en la fase de alto riesgo de contagio, por lo que deberán atender los Lineamientos de Seguridad Sanitaria y de Salud previamente establecidos para contener la pandemia provocada por el virus SARSCOV2 (COVID-19) en el Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:08.262935"
+    },
+    {
+      "file_id": 88068,
+      "law_name": "Acuerdo mediante el cual se expiden los Lineamientos para el Manejo, Transporte y Disposición de Cadáveres de Personas Fallecidas debido a la enfermedad generada por el virus SARS-COV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:09.376411"
+    },
+    {
+      "file_id": 89310,
+      "law_name": "Acuerdo mediante el cual se reforman los artículos TERCERO y SÉPTIMO, del diverso por el cual se determina el regreso a la fase I en los municipios de Altamira, Ciudad Madero, Matamoros, Nuevo Laredo, Reynosa, Río Bravo, Tampico y Victoria, y, se establecen los lineamientos de seguridad sanitaria y de salud para la reapertura gradual y responsable de las actividades económicas no esenciales para contener la pandemia provocada por el virus SARS-CoV2 (COVID-19) en el Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:10.496237"
+    },
+    {
+      "file_id": 88340,
+      "law_name": "Acuerdo por el cual se amplía la suspensión de plazos y términos legales en la Auditoría Superior del Estado de Tamaulipas, como medida preventiva frente al Coronavirus (COVID-19) a que se refiere el diverso Acuerdo publicado el 24 de marzo de 2020 en el Periódico Oficial del Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:11.627468"
+    },
+    {
+      "file_id": 89246,
+      "law_name": "Acuerdo por el cual se amplía por quinta ocasión la suspensión de plazos y términos legales en la Auditoría Superior del Estado de Tamaulipas, como medida preventiva frente al Coronavirus (Covid-19) a que se refiere el diverso Acuerdo publicado el 24 de marzo de 2020 en el Periódico Oficial del Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:12.742326"
+    },
+    {
+      "file_id": 88480,
+      "law_name": "Acuerdo por el cual se amplía por segunda ocasión la suspensión de plazos y términos legales en la Auditoría Superior del Estado de Tamaulipas, como medida preventiva frente al Coronavirus (Covid-19) a que se refiere el diverso Acuerdo publicado el 24 de marzo de 2020 en el Periódico Oficial del Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:13.877858"
+    },
+    {
+      "file_id": 88822,
+      "law_name": "Acuerdo por el cual se amplía por tercera ocasión la suspensión de plazos y términos legales en la Auditoría Superior del Estado de Tamaulipas, como medida preventiva frente al Coronavirus (Covid-19) a que se refiere el diverso Acuerdo publicado el 24 de marzo de 2020 en el Periódico Oficial del Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:14.988185"
+    },
+    {
+      "file_id": 89311,
+      "law_name": "Acuerdo por el cual se establece el Protocolo para la Reincorporación Gradual del Personal de la Auditoría Superior del Estado y Atención de Visitantes, vigente a partir del día lunes 03 de agosto de 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:16.112072"
+    },
+    {
+      "file_id": 88821,
+      "law_name": "Acuerdo por el que se amplían los plazos previstos en el artículo 33 de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado De Tamaulipas, para presentar la Declaración de Modificación Patrimonial y de Intereses en el año 2020, con motivo de las medidas de prevención y contención de la propagación de la enfermedad generada por el coronavirus sars-cov2 (covid-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:17.230952"
+    },
+    {
+      "file_id": 88815,
+      "law_name": "Acuerdo por el que se prorroga la suspensión de labores decretada por el Pleno del Supremo Tribunal de Justicia, mediante Acuerdo General emitido en sesión extraordinaria del dieciocho de marzo de dos mil veinte, y las subsecuentes prórrogas contenidas en los diversos del dieciséis de abril y cuatro de mayo de dos mil veinte, de todos los órganos jurisdiccionales del Poder Judicial del Estado y de sus dependencias, por el periodo comprendido del uno al quince de junio de dos mil veinte",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:18.346605"
+    },
+    {
+      "file_id": 88059,
+      "law_name": "Acuerdo por el que se suspenden los plazos y términos legales en la Auditoría Superior del Estado de Tamaulipas, como medida preventiva frente al Coronavirus (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:19.462529"
+    },
+    {
+      "file_id": 88973,
+      "law_name": "Acuerdo por el que se suspenden los plazos y términos procesales en el Consejo de Desarrollo Policial de las Instituciones de Seguridad Pública del Estado de Tamaulipas, por el periodo comprendido del 01 al 15 de junio de 2020, con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:20.566495"
+    },
+    {
+      "file_id": 89041,
+      "law_name": "Acuerdo por el que se suspenden los plazos y términos procesales en el Consejo de Desarrollo Policial de las Instituciones de Seguridad Pública del Estado de Tamaulipas, por el periodo comprendido del 16 al 30 de junio de 2020, con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:21.636836"
+    },
+    {
+      "file_id": 88427,
+      "law_name": "Acuerdo TJA/PLN/ACU/018/2020 por el que se amplía la suspensión de plazos y términos procesales en el Tribunal de Justicia Administrativa del Estado de Tamaulipas, determinada en el similar TJA/PLN/ACU/017/2020, para incluir el periodo comprendido del 20 de abril al 30 de abril de 2020, con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:22.759903"
+    },
+    {
+      "file_id": 88488,
+      "law_name": "Acuerdo TJA/PLN/ACU/020/2020 por el que se amplía la suspensión de plazos y términos procesales en el Tribunal de Justicia Administrativa del Estado de Tamaulipas, determinada en los similares TJA/PLN/ACU/017/2020 y TJA/PLN/ACU/018/2020, para incluir el periodo comprendido del 04 de mayo al 31 de mayo de 2020, con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:40:23.881723"
+    },
+    {
+      "file_id": 88063,
+      "law_name": "Decreto Gubernamental mediante el cual se dictan medidas de seguridad sanitaria para combatir la enfermedad grave de atención prioritaria generada por el VIRUS SARS-COV2 (covid-19) en el Estado Libre y Soberano de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:41:08.170705"
+    },
+    {
+      "file_id": 88437,
+      "law_name": "Decreto Gubernamental mediante el cual se establecen las Reglas de Operación del Fondo Héroes de la Salud",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:41:11.432036"
+    },
+    {
+      "file_id": 88064,
+      "law_name": "Decreto que reforma el diverso mediante el cual se dictan medidas de seguridad sanitaria para combatir la enfermedad grave de atención prioritaria generada por el VIRUS SARS-COV2 (Covid-19) en el Estado Libre y Soberano de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:41:23.154208"
+    },
+    {
+      "file_id": 88820,
+      "law_name": "Fe de Erratas en el Periódico Oficial del Estado Extraordinario número 4 de fecha 29 de mayo del año 2020 edición vespertina, Tomo CXLV, en el cual se publicó el ACUERDO GUBERNAMENTAL mediante el cual se amplía el estado de emergencia sanitaria por causa de fuerza mayor, a la epidemia de enfermedad generada por el Virus Sars-Cov2 (covid-19) y se establecen las medidas de seguridad en materia sanitaria para hacer frente a la nueva realidad con convivencia segura",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:41:26.434257"
+    },
+    {
+      "file_id": 101069,
+      "law_name": "Ley de Amnistía del Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:41:38.201594"
+    },
+    {
+      "file_id": 45852,
+      "law_name": "Reglamento de Construcciones para el Estado de Tamaulipas primera parte",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:43:22.060209"
+    },
+    {
+      "file_id": 45855,
+      "law_name": "Reglamento de Construcciones para el Estado de Tamaulipas segunda parte",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:43:23.156078"
+    },
+    {
+      "file_id": 88530,
+      "law_name": "Acuerdo General 11/2020 del Pleno del Consejo de la Judicatura del Estado, a efecto de reanudar gradualmente el servicio judicial de los órganos jurisdiccionales y administrativos de esta Judicatura, así como para establecer el esquema de trabajo y continuación de medidas de prevención, dada la actual contingencia sanitaria derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:46.313691"
+    },
+    {
+      "file_id": 88816,
+      "law_name": "Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura del Estado, a efecto de aperturar parcialmente el servicio judicial de los órganos jurisdiccionales y administrativos de esta Judicatura, así como para establecer el esquema de trabajo y continuación de medidas de prevención, dada la actual contingencia sanitaria derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:47.409979"
+    },
+    {
+      "file_id": 88817,
+      "law_name": "Acuerdo General 13/2020 del Pleno del Consejo de la Judicatura del Estado, relativo a la aprobación del Reglamento para el Acceso a los Servicios del Tribunal Electrónico",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:48.520348"
+    },
+    {
+      "file_id": 89091,
+      "law_name": "Acuerdo General 14/2020 del Pleno del Consejo de la Judicatura del Estado, a efecto de ampliar el servicio judicial de los órganos jurisdiccionales y administrativos de esta Judicatura, así como para establecer el esquema de trabajo y continuar con las medidas de prevención, dada la actual contingencia sanitaria derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:49.612038"
+    },
+    {
+      "file_id": 89314,
+      "law_name": "Acuerdo General 15/2020 del Pleno del Consejo de la Judicatura del Estado, a efecto de reactivar los plazos y términos procesales a través de la impartición de justicia en línea, así como para establecer el esquema de trabajo de los órganos jurisdiccionales y administrativos, dada la contingencia del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:50.709402"
+    },
+    {
+      "file_id": 88342,
+      "law_name": "Acuerdo General 8/2020 del Pleno del Consejo de la Judicatura del Estado, a efecto de modificar la vigencia de las medidas decretadas por motivo de la suspensión de actividades de los órganos jurisdiccionales y administrativos del Poder Judicial del Estado, mediante Acuerdo General 6/2020 en virtud de la contingencia derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:51.817469"
+    },
+    {
+      "file_id": 89039,
+      "law_name": "Acuerdo por el cual se amplía por cuarta ocasión la suspensión de plazos y términos legales en la Auditoría Superior del Estado de Tamaulipas, como medida preventiva frente al Coronavirus (Covid-19) a que se refiere el diverso Acuerdo publicado el 24 de marzo de 2020 en el Periódico Oficial del Estado de Tamaulipas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:52.972556"
+    },
+    {
+      "file_id": 88529,
+      "law_name": "Acuerdo por el que se autoriza la celebración de sesiones extraordinarias del Pleno del Supremo Tribunal de Justicia vía remota, mediante el uso de herramientas tecnológicas que permitan la comunicación a distancia en tiempo real, en las circunstancias que impidan la reunión física de sus integrantes en la residencia del Tribunal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:54.084793"
+    },
+    {
+      "file_id": 89313,
+      "law_name": "Acuerdo por el que se levanta la suspensión de labores decretada por el Pleno del Supremo Tribunal de Justicia mediante acuerdo general del dieciocho de marzo de dos mil veinte y sus prórrogas, contenidas en los acuerdos del dieciséis de abril, cuatro y veintinueve de mayo, doce y veintiséis de junio del presente año; por lo que a partir del tres de agosto de dos mil veinte, se reanudan las actividades de los órganos jurisdiccionales del Poder Judicial del Estado y de sus dependencias",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:55.225349"
+    },
+    {
+      "file_id": 88341,
+      "law_name": "Acuerdo por el que se prorroga la suspensión de labores a que se refiere el Acuerdo General emitido por el Pleno del Supremo Tribunal de Justicia, en sesión extraordinaria del dieciocho de marzo de dos mil veinte, de todos los órganos jurisdiccionales del Poder Judicial del Estado y de sus dependencias, por el periodo comprendido del veinte de abril al cinco de mayo de dos mil veinte",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:56.338947"
+    },
+    {
+      "file_id": 88528,
+      "law_name": "Acuerdo por el que se prorroga la suspensión de labores a que se refieren los Acuerdos Generales emitidos por el Pleno del Supremo Tribunal de Justicia, en sesiones extraordinarias del dieciocho de marzo y dieciséis de abril de dos mil veinte, de todos los órganos jurisdiccionales del Poder Judicial del Estado y de sus dependencias, por el periodo comprendido del seis al treinta y uno de mayo de dos mil veinte",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:57.463384"
+    },
+    {
+      "file_id": 89037,
+      "law_name": "Acuerdo por el que se prorroga la suspensión de labores decretada por el Pleno del Supremo Tribunal de Justicia, mediante Acuerdo General emitido en sesión extraordinaria del dieciocho de marzo de dos mil veinte, y las subsecuentes prórrogas contenidas en los diversos del dieciséis de abril, cuatro y veintinueve de mayo de dos mil veinte, de todos los órganos jurisdiccionales del Poder Judicial del Estado y de sus dependencias, por el periodo comprendido del dieciséis al treinta de junio de dos mil veinte, inclusive, para reanudar actividades el uno de julio siguiente",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:58.604154"
+    },
+    {
+      "file_id": 89090,
+      "law_name": "Acuerdo por el que se prorroga la suspensión de labores decretada por el Pleno del Supremo Tribunal de Justicia, mediante Acuerdo General emitido en sesión extraordinaria del dieciocho de marzo de dos mil veinte, y las subsecuentes prórrogas contenidas en los diversos del dieciséis de abril, cuatro y veintinueve de mayo y doce de junio de dos mil veinte, de todos los órganos jurisdiccionales del Poder Judicial del Estado y de sus dependencias, por el periodo comprendido del uno al dieciséis de julio de dos mil veinte, inclusive, para reanudar actividades el tres de agosto siguiente; lapso en el que se respeta el primer periodo vacacional establecido en favor de los trabajadores del Poder Judicial del Estado, mediante acuerdo del diecisiete de diciembre de dos mil diecinueve",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:46:59.711880"
+    },
+    {
+      "file_id": 88824,
+      "law_name": "Acuerdo que modifica el inciso i), de la fracción IV, del punto SEGUNDO del Acuerdo General 12/2020, mediante el cual se apertura parcialmente el servicio judicial de los órganos jurisdiccionales y administrativos, dada la actual contingencia sanitaria derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:47:00.833602"
+    },
+    {
+      "file_id": 89038,
+      "law_name": "Acuerdo que modifica los puntos de acuerdo PRIMERO y DÉCIMO del Acuerdo General 12/2020 por el cual se determinó la apertura parcial del servicio judicial de los órganos jurisdiccionales y administrativos, dada la actual contingencia sanitaria derivada del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:47:01.930230"
+    },
+    {
+      "file_id": 88062,
+      "law_name": "Acuerdo TJA/PLN/ACU/017/2020 por el que se suspenden los plazos y términos procesales en el Tribunal de Justicia Administrativa del Estado de Tamaulipas, por el periodo comprendido del 25 de Marzo al 19 de Abril de 2020, con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:47:03.073999"
+    },
+    {
+      "file_id": 88823,
+      "law_name": "Acuerdo TJA/PLN/ACU/023/2020 por el que se amplía la suspensión de plazos y términos procesales en el Tribunal de Justicia Administrativa del Estado de Tamaulipas, determinada en los similares TJA/PLN/ACU/017/2020, TJA/PLN/ACU/018/2020 y TJA/PLN/ACU/020/2020, para incluir el periodo comprendido del 02 de junio al 15 de junio de 2020 y se modifica el periodo de vigencia de los lineamientos establecidos en el diverso TJA/PLN/ACU/021/2020 para la reanudación gradual de las labores ordinarias del Tribunal; con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:47:04.233533"
+    },
+    {
+      "file_id": 89040,
+      "law_name": "Acuerdo TJA/PLN/ACU/024/2020 por el que se amplía la suspensión de plazos y términos procesales en el Tribunal de Justicia Administrativa del Estado de Tamaulipas, decretada en los similares TJA/PLN/ACU/017/2020, TJA/PLN/ACU/018/2020, TJA/PLN/ACU/020/2020 y TJA/PLN/ACU/023/2020, para incluir el periodo que comprende del 16 de junio al 30 de junio de 2020, modificándose el periodo de vigencia de los lineamientos expedidos para la reanudación gradual de las labores ordinarias del Tribunal, establecidos en el diverso TJA/PLN/ACU/021/2020, así como suspendiendo el informe de indicadores del segundo trimestre del actual; con motivo del fenómeno de salud pública derivado del virus COVID-19 (coronavirus)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:47:05.397405"
+    },
+    {
+      "file_id": 89359,
+      "law_name": "Acuerdo TJA/PLN/ACU/029/2020 por el que se delega en favor del Magistrado Presidente en funciones, la facultad de dictar las medidas administrativas que resulten necesarias al interior del Tribunal de Justicia Administrativa del Estado de Tamaulipas, para hacer frente a la nueva realidad con convivencia segura hacia el interior del centro de trabajo; con motivo de la actual contingencia generada por la pandemia del virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:47:06.504602"
+    }
+  ]
+}

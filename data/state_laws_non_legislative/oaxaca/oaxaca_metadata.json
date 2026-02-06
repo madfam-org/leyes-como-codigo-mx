@@ -1,0 +1,24 @@
+{
+  "state_id": 20,
+  "state_name": "Oaxaca",
+  "power_ids_queried": [
+    1,
+    3,
+    4
+  ],
+  "total_found": 1,
+  "successful": 1,
+  "failed": 0,
+  "laws": [
+    {
+      "file_id": 96786,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=96786&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/OAXACA/o596786.doc&nombreclave=o596786.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/oaxaca/código_de_ética_del_poder_ejecutivo_del_estado_de_oaxaca_96786.doc",
+      "law_name": "CÓDIGO DE ÉTICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA"
+    }
+  ],
+  "failed_laws": []
+}

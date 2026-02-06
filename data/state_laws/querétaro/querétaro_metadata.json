@@ -11056,7 +11056,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:30.950333"
+      "retry_timestamp": "2026-02-06T05:04:15.025550"
     },
     {
       "file_id": 88174,
@@ -11064,7 +11064,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:32.084216"
+      "retry_timestamp": "2026-02-06T05:04:16.155464"
     },
     {
       "file_id": 88176,
@@ -11072,7 +11072,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:33.222874"
+      "retry_timestamp": "2026-02-06T05:04:17.285758"
     },
     {
       "file_id": 88871,
@@ -11080,7 +11080,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:34.358640"
+      "retry_timestamp": "2026-02-06T05:04:18.413092"
     },
     {
       "file_id": 88870,
@@ -11088,7 +11088,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:35.493302"
+      "retry_timestamp": "2026-02-06T05:04:19.535950"
     },
     {
       "file_id": 88873,
@@ -11096,7 +11096,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:36.628273"
+      "retry_timestamp": "2026-02-06T05:04:20.669709"
     },
     {
       "file_id": 88442,
@@ -11104,7 +11104,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:37.769361"
+      "retry_timestamp": "2026-02-06T05:04:21.797392"
     },
     {
       "file_id": 88872,
@@ -11112,7 +11112,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:38.873852"
+      "retry_timestamp": "2026-02-06T05:04:22.893708"
     },
     {
       "file_id": 89316,
@@ -11120,7 +11120,7 @@
       "failure_reason": "not_attempted",
       "download_url": "",
       "retry_result": "permanent",
-      "retry_timestamp": "2026-02-05T18:44:40.007742"
+      "retry_timestamp": "2026-02-06T05:04:24.029652"
     },
     {
       "file_id": 66439,
@@ -11129,7 +11129,7 @@
       "download_url": "",
       "retry_result": "transient",
       "retry_error": "HTTPConnectionPool(host='compilacion.ordenjuridico.gob.mx', port=80): Read timed out. (read timeout=60)",
-      "retry_timestamp": "2026-02-05T18:49:57.460292"
+      "retry_timestamp": "2026-02-06T05:09:39.114722"
     }
   ]
 }

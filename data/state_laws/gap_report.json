@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T18:30:51.838379",
+  "timestamp": "2026-02-06T04:49:55.616223",
   "states": [
     {
       "state_name": "Baja California",
@@ -13,6 +13,13 @@
       "recovered": 0,
       "still_failed": 2,
       "permanent": 2,
+      "transient": 0
+    },
+    {
+      "state_name": "Ciudad de México",
+      "recovered": 0,
+      "still_failed": 1,
+      "permanent": 1,
       "transient": 0
     },
     {
@@ -87,6 +94,6 @@
     }
   ],
   "total_recovered": 0,
-  "total_permanent": 782,
+  "total_permanent": 783,
   "total_transient": 1
 }

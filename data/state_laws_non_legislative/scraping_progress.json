@@ -1,0 +1,237 @@
+{
+  "total_stats": {
+    "states_completed": 28,
+    "states_skipped": 0,
+    "states_failed": 0,
+    "total_laws_found": 21333,
+    "total_laws_downloaded": 16898,
+    "total_laws_failed": 4435,
+    "start_time": "2026-02-06T04:50:01.385423",
+    "state_results": [
+      {
+        "state_id": 1,
+        "state_name": "Aguascalientes",
+        "found": 267,
+        "downloaded": 267,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 2,
+        "state_name": "Baja California",
+        "found": 66,
+        "downloaded": 1,
+        "failed": 65,
+        "success_rate": "1.5%"
+      },
+      {
+        "state_id": 3,
+        "state_name": "Baja California Sur",
+        "found": 76,
+        "downloaded": 45,
+        "failed": 31,
+        "success_rate": "59.2%"
+      },
+      {
+        "state_id": 4,
+        "state_name": "Campeche",
+        "found": 160,
+        "downloaded": 160,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 5,
+        "state_name": "Coahuila",
+        "found": 80,
+        "downloaded": 80,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 6,
+        "state_name": "Colima",
+        "found": 409,
+        "downloaded": 409,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 7,
+        "state_name": "Chiapas",
+        "found": 519,
+        "downloaded": 517,
+        "failed": 2,
+        "success_rate": "99.6%"
+      },
+      {
+        "state_id": 8,
+        "state_name": "Chihuahua",
+        "found": 20,
+        "downloaded": 20,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 9,
+        "state_name": "Ciudad de México",
+        "found": 0,
+        "downloaded": 0,
+        "failed": 0,
+        "success_rate": "0%"
+      },
+      {
+        "state_id": 10,
+        "state_name": "Durango",
+        "found": 0,
+        "downloaded": 0,
+        "failed": 0,
+        "success_rate": "0%"
+      },
+      {
+        "state_id": 11,
+        "state_name": "Guanajuato",
+        "found": 701,
+        "downloaded": 622,
+        "failed": 79,
+        "success_rate": "88.7%"
+      },
+      {
+        "state_id": 12,
+        "state_name": "Guerrero",
+        "found": 1909,
+        "downloaded": 1793,
+        "failed": 116,
+        "success_rate": "93.9%"
+      },
+      {
+        "state_id": 13,
+        "state_name": "Hidalgo",
+        "found": 704,
+        "downloaded": 703,
+        "failed": 1,
+        "success_rate": "99.9%"
+      },
+      {
+        "state_id": 14,
+        "state_name": "Jalisco",
+        "found": 358,
+        "downloaded": 358,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 15,
+        "state_name": "Estado de México",
+        "found": 1609,
+        "downloaded": 773,
+        "failed": 836,
+        "success_rate": "48.0%"
+      },
+      {
+        "state_id": 16,
+        "state_name": "Michoacán",
+        "found": 2493,
+        "downloaded": 202,
+        "failed": 2291,
+        "success_rate": "8.1%"
+      },
+      {
+        "state_id": 17,
+        "state_name": "Morelos",
+        "found": 4156,
+        "downloaded": 4004,
+        "failed": 152,
+        "success_rate": "96.3%"
+      },
+      {
+        "state_id": 18,
+        "state_name": "Nayarit",
+        "found": 554,
+        "downloaded": 554,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 19,
+        "state_name": "Nuevo León",
+        "found": 356,
+        "downloaded": 211,
+        "failed": 145,
+        "success_rate": "59.3%"
+      },
+      {
+        "state_id": 20,
+        "state_name": "Oaxaca",
+        "found": 1,
+        "downloaded": 1,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 21,
+        "state_name": "Puebla",
+        "found": 515,
+        "downloaded": 515,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 22,
+        "state_name": "Querétaro",
+        "found": 4390,
+        "downloaded": 4137,
+        "failed": 253,
+        "success_rate": "94.2%"
+      },
+      {
+        "state_id": 23,
+        "state_name": "Quintana Roo",
+        "found": 55,
+        "downloaded": 55,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 24,
+        "state_name": "San Luis Potosí",
+        "found": 256,
+        "downloaded": 1,
+        "failed": 255,
+        "success_rate": "0.4%"
+      },
+      {
+        "state_id": 25,
+        "state_name": "Sinaloa",
+        "found": 90,
+        "downloaded": 90,
+        "failed": 0,
+        "success_rate": "100.0%"
+      },
+      {
+        "state_id": 26,
+        "state_name": "Sonora",
+        "found": 953,
+        "downloaded": 887,
+        "failed": 66,
+        "success_rate": "93.1%"
+      },
+      {
+        "state_id": 27,
+        "state_name": "Tabasco",
+        "found": 333,
+        "downloaded": 252,
+        "failed": 81,
+        "success_rate": "75.7%"
+      },
+      {
+        "state_id": 28,
+        "state_name": "Tamaulipas",
+        "found": 303,
+        "downloaded": 241,
+        "failed": 62,
+        "success_rate": "79.5%"
+      }
+    ]
+  }
+}

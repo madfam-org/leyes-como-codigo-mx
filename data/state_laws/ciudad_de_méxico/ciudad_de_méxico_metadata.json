@@ -246,7 +246,10 @@
       "law_name": "Ley de Austeridad, Transparencia en Remuneraciones, Prestaciones y Ejercicio de Recursos de la Ciudad de México",
       "failure_reason": "download_failed",
       "download_url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.PDF",
-      "timestamp": "2026-02-05T18:31:45.679695"
+      "timestamp": "2026-02-05T18:31:45.679695",
+      "retry_result": "permanent",
+      "retry_error": "404 Client Error: Not Found for url: https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/190126/LEY_AUST_TRANSP_EN_REMUN_PREST_Y_EJERC_DE_REC_DE_LA_CIUDAD_DE_MEXICO_5.8.PDF",
+      "retry_timestamp": "2026-02-06T04:50:55.629791"
     }
   ]
 }

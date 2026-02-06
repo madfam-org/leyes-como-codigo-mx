@@ -1,0 +1,638 @@
+{
+  "state_id": 3,
+  "state_name": "Baja California Sur",
+  "power_ids_queried": [
+    1,
+    3,
+    4
+  ],
+  "total_found": 76,
+  "successful": 45,
+  "failed": 31,
+  "laws": [
+    {
+      "file_id": 75777,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75777&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o3475777.doc&nombreclave=o3475777.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/código_de_ética_de_los_servidores_públicos_del_poder_ejecutivo_del_estado_de_baja_california_sur_y_r_75777.doc",
+      "law_name": "Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Baja California Sur y Reglas de Integridad para el Ejercicio de la Función Pública."
+    },
+    {
+      "file_id": 88051,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=88051&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o1188051.doc&nombreclave=o1188051.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/decreto_mediante_el_cual_se_otorgan_beneficios_fiscales_a_los_contribuyentes_de_baja_california_sur__88051.doc",
+      "law_name": "Decreto mediante el cual se otorgan beneficios fiscales a los contribuyentes de Baja California Sur para afrontar la contingencia sanitaria originada por el COVID-19 y se Decretan días inhábiles para las Autoridades Fiscales del Estado"
+    },
+    {
+      "file_id": 72592,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72592&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o472592.doc&nombreclave=o472592.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/ley_de_ingresos_del_estado_de_baja_california_sur_para_el_ejercicio_fiscal_de_2017_72592.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL DE 2017"
+    },
+    {
+      "file_id": 72653,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72653&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o472653.doc&nombreclave=o472653.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/ley_orgánica_del_poder_judicial_del_estado_de_baja_california_sur_72653.doc",
+      "law_name": "LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 69091,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69091&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o3669091.doc&nombreclave=o3669091.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/manual_de_señalamientos_de_los_espacios_100_libres_de_humo_de_tabaco_del_estado_de_baja_california_s_69091.doc",
+      "law_name": "Manual de Señalamientos de los Espacios 100% Libres de Humo de Tabaco del Estado de Baja California Sur"
+    },
+    {
+      "file_id": 72181,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72181&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o3472181.doc&nombreclave=o3472181.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/marco_integrado_de_control_interno_para_el_estado_de_bcs_72181.doc",
+      "law_name": "MARCO INTEGRADO DE CONTROL INTERNO PARA EL ESTADO DE B.C.S."
+    },
+    {
+      "file_id": 81293,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=81293&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o2081293.doc&nombreclave=o2081293.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/normas_para_el_ingreso_promoción_y_otorgamiento_de_estímulos_del_personal_académico_en_las_escuelas__81293.doc",
+      "law_name": "NORMAS PARA EL INGRESO, PROMOCIÓN Y OTORGAMIENTO DE ESTÍMULOS DEL PERSONAL ACADÉMICO EN LAS ESCUELAS NORMALES DEL ESTADO DE BCS."
+    },
+    {
+      "file_id": 71782,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=71782&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o671782.doc&nombreclave=o671782.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_alumnos_del_colegio_de_estudios_científicos_y_tecnológicos_del_estado_de_baja_californ_71782.doc",
+      "law_name": "Reglamento de Alumnos del Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur"
+    },
+    {
+      "file_id": 81372,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=81372&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o681372.doc&nombreclave=o681372.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_construcciones_para_el_estado_de_baja_california_sur_81372.doc",
+      "law_name": "REGLAMENTO DE CONSTRUCCIONES PARA EL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 71785,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=71785&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o671785.doc&nombreclave=o671785.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_enajenación_de_bienes_muebles_para_el_colegio_de_estudios_científicos_y_tecnológicos_d_71785.doc",
+      "law_name": "Reglamento de Enajenación de Bienes Muebles Para el Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur"
+    },
+    {
+      "file_id": 71783,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=71783&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o671783.doc&nombreclave=o671783.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_beca_de_excelencia_académica_colegio_de_estudios_científicos_y_tecnológicos_del_est_71783.doc",
+      "law_name": "Reglamento de la Beca de Excelencia Académica Colegio de Estudios Científicos y Tecnológicos del Estado de B.C.S."
+    },
+    {
+      "file_id": 72677,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72677&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o672677.doc&nombreclave=o672677.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_ley__para_el_ejercicio_de_las_profesiones_del_estado_de_baja_california_sur_72677.doc",
+      "law_name": "REGLAMENTO DE LA LEY  PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 72682,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72682&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o672682.doc&nombreclave=o672682.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_ley_de_acceso_de_las_mujeres_a_una_vida_libre_de_violencia_72682.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA"
+    },
+    {
+      "file_id": 72681,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72681&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o672681.doc&nombreclave=o672681.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_ley_de_desarrollo_rural_sustentable_para_el_estado_de_baja_california_sur_72681.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 69092,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69092&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o669092.doc&nombreclave=o669092.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_ley_de_protección_a_la_exposición_del_humo_de_tabaco_del_estado_de_baja_california__69092.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE PROTECCIÓN A LA EXPOSICIÓN DEL HUMO DE TABACO DEL ESTADO DE BAJA CALIFORNIA SUR."
+    },
+    {
+      "file_id": 72678,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72678&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o672678.doc&nombreclave=o672678.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_ley_de_video_vigilancia_del_estado_de_baja_california_sur_72678.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 72679,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72679&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o672679.doc&nombreclave=o672679.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_de_la_ley_de_video_vigilancia_del_estado_de_baja_california_sur_72679.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE VIDEO VIGILANCIA DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 71859,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=71859&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o671859.doc&nombreclave=o671859.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_del_registro_civil_del_estado_de_baja_california_sur_71859.doc",
+      "law_name": "REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR."
+    },
+    {
+      "file_id": 84582,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84582&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o684582.doc&nombreclave=o684582.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_general_de_control_escolar_para_el_bachillerato_general_escolarizado_del_colegio_de_bachi_84582.doc",
+      "law_name": "REGLAMENTO GENERAL DE CONTROL ESCOLAR PARA EL BACHILLERATO GENERAL ESCOLARIZADO DEL COLEGIO DE BACHILLERES DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 78665,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=78665&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o678665.doc&nombreclave=o678665.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_contraloría_general_78665.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL"
+    },
+    {
+      "file_id": 68903,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68903&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668903.doc&nombreclave=o668903.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_junta_local_de_conciliacion_y_arbitraje_del_estado_de_baja_california_sur_68903.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 68981,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68981&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668981.doc&nombreclave=o668981.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_oficina_del_ejecutivo_68981.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA OFICINA DEL EJECUTIVO"
+    },
+    {
+      "file_id": 69280,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69280&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o469280.doc&nombreclave=o469280.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_procuraduría_general_de_justicia_del_edo_de_bcs_69280.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL EDO DE B.C.S"
+    },
+    {
+      "file_id": 81701,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=81701&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o681701.doc&nombreclave=o681701.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_procuraduría_general_de_justicia_del_estado_de_baja_california_sur_81701.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 69006,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69006&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o669006.doc&nombreclave=o669006.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_desarrollo_economico_medio_ambiente_y_recursos_naturales_69006.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONOMICO MEDIO AMBIENTE Y RECURSOS NATURALES"
+    },
+    {
+      "file_id": 69016,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69016&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o669016.doc&nombreclave=o669016.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_desarrollo_social_69016.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL"
+    },
+    {
+      "file_id": 69003,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69003&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o669003.doc&nombreclave=o669003.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_educación_69003.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN"
+    },
+    {
+      "file_id": 68980,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68980&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668980.doc&nombreclave=o668980.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_finanzas_y_administración_del_gobierno_del_estado_de_baja_ca_68980.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 69012,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=69012&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o669012.doc&nombreclave=o669012.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_pesca_acuacultura_y_desarrollo_agropecuario_69012.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA, ACUACULTURA Y DESARROLLO AGROPECUARIO"
+    },
+    {
+      "file_id": 68984,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68984&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668984.doc&nombreclave=o668984.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_planeación_urbana_infraestructura_y_transporte_68984.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN URBANA, INFRAESTRUCTURA Y TRANSPORTE"
+    },
+    {
+      "file_id": 81473,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=81473&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o681473.doc&nombreclave=o681473.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_seguridad_pública_del_estado_de_baja_california_sur_81473.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 68985,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68985&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668985.doc&nombreclave=o668985.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaria_de_turismo_68985.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO"
+    },
+    {
+      "file_id": 80941,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=80941&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o680941.doc&nombreclave=o680941.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_de_turismo_economía_y_sustentabilidad_80941.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, ECONOMÍA Y SUSTENTABILIDAD"
+    },
+    {
+      "file_id": 68986,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68986&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668986.doc&nombreclave=o668986.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_del_trabajo_y_previsión_social_68986.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL"
+    },
+    {
+      "file_id": 68997,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68997&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o668997.doc&nombreclave=o668997.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_de_la_secretaría_general_de_gobierno_68997.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO"
+    },
+    {
+      "file_id": 72680,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=72680&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o672680.doc&nombreclave=o672680.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_del_centro_estatal_de_control_de_confianza_del_estado_de_baja_california_sur_72680.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL CENTRO ESTATAL DE CONTROL DE CONFIANZA DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 71860,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=71860&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o671860.doc&nombreclave=o671860.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_del_instituto_sudcaliforniano_de_la_infraestructura_física_educativa_de_bcs_71860.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO SUDCALIFORNIANO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE B.C.S."
+    },
+    {
+      "file_id": 81991,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=81991&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o681991.doc&nombreclave=o681991.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_del_tribunal_de_justicia_administrativa_del_estado_de_baja_california_sur_81991.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 70639,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70639&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o670639.doc&nombreclave=o670639.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interno_del_consejo_estatal_de_ordenamiento_territorial_del_estado_de__baja_california_su_70639.doc",
+      "law_name": "REGLAMENTO INTERNO DEL CONSEJO ESTATAL DE ORDENAMIENTO TERRITORIAL DEL ESTADO DE  BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 70640,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70640&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o670640.doc&nombreclave=o670640.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interno_del_consejo_estatal_de_ordenamiento_territorial_del_estado_de__baja_california_su_70640.doc",
+      "law_name": "REGLAMENTO INTERNO DEL CONSEJO ESTATAL DE ORDENAMIENTO TERRITORIAL DEL ESTADO DE  BAJA CALIFORNIA SUR"
+    },
+    {
+      "file_id": 70692,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70692&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o670692.doc&nombreclave=o670692.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_para_el_establecimiento_de_las_competencias_docentes_de_los_colegios_de_estudios_científi_70692.doc",
+      "law_name": "Reglamento para el Establecimiento de las Competencias Docentes de los Colegios de Estudios Científicos y Teconológicos del Estado de Baja California Sur."
+    },
+    {
+      "file_id": 70693,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70693&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o670693.doc&nombreclave=o670693.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_para_la_evaluación_y_certificación_de_los_aprendizajes_y_competencias_del_colegio_de_estu_70693.doc",
+      "law_name": "Reglamento para la Evaluación y Certificación de los Aprendizajes y Competencias del Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur."
+    },
+    {
+      "file_id": 71786,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=71786&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o671786.doc&nombreclave=o671786.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamentos_de_beca_de_transporte_del_colegio_de_estudios_y_tecnológicos_del_estado_de_baja_californ_71786.doc",
+      "law_name": "Reglamentos de Beca de Transporte del Colegio de Estudios y Tecnológicos del Estado de Baja California Sur"
+    },
+    {
+      "file_id": 68587,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=68587&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o468587.doc&nombreclave=o468587.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/ley_de_la_comisión_estatal_de_derechos_humanos_68587.doc",
+      "law_name": "LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS"
+    },
+    {
+      "file_id": 70532,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=70532&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o670532.doc&nombreclave=o670532.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california_sur/reglamento_interior_del_instituto_de_transparencia_acceso_a_la_información_pública_y_protección_de_d_70532.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE BAJA CALIFORNIA SUR"
+    }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 89047,
+      "law_name": "Acuerdo de Ampliación y Suspensión de términos legales como medida preventiva del Covid-19, de fecha 15 de junio de 2020, emitido por el Pleno de la Junta Local.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:06.264554"
+    },
+    {
+      "file_id": 88511,
+      "law_name": "Acuerdo del pleno 009/2020, por el que se establecen acciones extraordinarias para atender la emergencia sanitaria generada por el virus SARS-CO V2",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:07.367086"
+    },
+    {
+      "file_id": 88615,
+      "law_name": "Acuerdo del Pleno 010/2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:08.468579"
+    },
+    {
+      "file_id": 88752,
+      "law_name": "Acuerdo Mediante el cual se establece la Cancelación de las Clases de manera presencial en todas las Instituciones de Educación Preescolar, Primaria, Secundaria, Educación Media Superior y Superior del Estado de Baja California Sur, hasta la conclusión del Ciclo Escolar 2019-2020.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:09.577069"
+    },
+    {
+      "file_id": 88510,
+      "law_name": "Acuerdo por el que se amplían los plazos previstos en el artículo 33 de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, para presentar las Declaraciones de Situación Patrimonial y de Intereses del año 2020, con motivo de las medidas de prevención y contención de la propagación de la enfermedad generada por coronavirus SARS-COV2(COVlD-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:10.692102"
+    },
+    {
+      "file_id": 88054,
+      "law_name": "ACUERDO por el que se da a conocer la Declaratoria de Emergencia Sanitaria por causa de fuerza mayor del Comité de Seguridad en Salud del Estado de Baja California Sur, en concordancia con la Emergencia Sanitaria declarada por el Consejo de Salubridad General, para controlar, mitigar y evitar la propagación del COVI D-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:11.794980"
+    },
+    {
+      "file_id": 88434,
+      "law_name": "Acuerdo por el que se da a conocer nuevas medidas sanitarias adoptadas por el Comité Estatal de Seguridad en Salud, para controlar, mitigar y evitar la propagación del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:12.887943"
+    },
+    {
+      "file_id": 88795,
+      "law_name": "Acuerdo por el que se da a conocer nuevas medidas sanitarias adoptadas por el Comité Estatal de Seguridad en Salud, para Controlar, Mitigar y Evitar la Propagación del COVID-19, publicado el 24 de Abril en el Boletín Oficial del Gobierno del Estado.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:13.964288"
+    },
+    {
+      "file_id": 88463,
+      "law_name": "Acuerdo por el que se Establecen acciones de coordinación extraordinarias correspondientes a las Funciones del Registro Civil en la entidad, para atender la Emergencia Sanitaria generada por el Virus SARS-COV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:15.078825"
+    },
+    {
+      "file_id": 89000,
+      "law_name": "Acuerdo por el que se modifica el similar por el que se establecen acciones extraordinarias para atender la emergencia sanitaria generada por el virus SARS-COV2, publicado el 21 de abril del 2020, y el artículo tercero transitorio del acuerdo por el que se da conocer nuevas medidas sanitarias adoptadas por el comité estatal de seguridad en salud, para controlar, mitigar y evitar la propagación del COVID-19, publicado el 30 de mayo del 2020, en el Boletín Oficial del Gobierno del Estado de BCS",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:16.212351"
+    },
+    {
+      "file_id": 89364,
+      "law_name": "Acuerdo por el que se suspende el plazo previsto en el Artículo 32 Segundo Párrafo de la Ley de Responsabilidades Administrativas del Estado de Baja California Sur, respecto de los sujetos obligados de la Administración Pública Estatal, para someterse a examen toxicológico para la detección del uso de estupefacientes, psicotrópicos, inhalantes o fármacos que puedan causar alteraciones mentales o dependencia en el año 2020, con motivo de las medidas de prevención y contención de la propagación de la enfermedad generada por el coronavirus SARS-CoV2",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:17.359756"
+    },
+    {
+      "file_id": 89363,
+      "law_name": "Ampliación suspensión de términos como medida preventiva del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:18.479637"
+    },
+    {
+      "file_id": 88796,
+      "law_name": "Ampliación Suspensión de Términos como medida Preventiva del COVID-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:19.590099"
+    },
+    {
+      "file_id": 88614,
+      "law_name": "Ampliación suspensión de Términos como medida preventiva del COVID-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:20.700624"
+    },
+    {
+      "file_id": 88148,
+      "law_name": "AVISO de diversos Fedatarios Públicos mediante el cual informan que cerrarán sus oficinas por los que ponen a disposición de la ciudadanía en general los números telefónicos y correos electrónicos donde pueden ser localizados, a efecto de atender cualquier solicitud relacionada con la función notarial.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:21.812523"
+    },
+    {
+      "file_id": 88052,
+      "law_name": "Cumplimiento de la Normatividad Laboral ante el COVID-19 en Baja California Sur",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:25.230281"
+    },
+    {
+      "file_id": 88462,
+      "law_name": "Decreto mediante el cual se Modifica el Decreto Publicado en el Boletín Oficial del Gobierno del Estado Número 12 de Fecha 23 de Marzo de 2020 y Reformado el 07 de Abril de 2020, por medio del cual se Otorgaron Beneficios Fiscales a los Contribuyentes de Baja California Sur para afrontar la Contingencia Sanitaria originada por el COVID-19 y se Decretan Días Inhábiles para las Autoridades Fiscales del Estado.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:26.342259"
+    },
+    {
+      "file_id": 88147,
+      "law_name": "DECRETO mediante el cual se Reforma el Decreto Publicado en el Boletín Oficial del Gobierno del Estado Número 12 de Fecha 23 de Marzo de 2020, por medio del cual se Otorgaron Beneficios Fiscales a los Contribuyentes de Baja California Sur para afrontar la contingencia sanitaria originada por el COVID-19 y se Decretan Días Inhábiles para las Autoridades Fiscales del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:29.698408"
+    },
+    {
+      "file_id": 88976,
+      "law_name": "Decreto mediante el cual se reforma el decreto publicado en el Boletín Oficial del Gobierno del Estado número 12 de fecha 23 de marzo de 2020, reformado 07 de abril de 2020 y el 27 de abril de 2020, por medio del cual se otorgan beneficios fiscales a los contribuyentes de Baja California Sur para afrontar la contingencia sanitaria originada por el COVID-19 y se consideran días inhábiles para las autoridades fiscales en el estado.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:30.842809"
+    },
+    {
+      "file_id": 88050,
+      "law_name": "Junta Local de Conciliación y Arbitraje de Baja California Sur. suspensión de términos como medida preventiva del COVID-19",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:31.961369"
+    },
+    {
+      "file_id": 88465,
+      "law_name": "Procedimientos de Biosaneamiento y Desinfección de Unidades Hospitalarias, Centros de Salud, Vía Pública, Comercios, Empresas y Casas Habitacionales por COVID-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:43.995602"
+    },
+    {
+      "file_id": 88464,
+      "law_name": "Procedimientos para el Manejo, Traslado y Disposición Final de Cadáveres de casos de COVID-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:45.161886"
+    },
+    {
+      "file_id": 89048,
+      "law_name": "Protocolo de Prevención y Seguridad Sanitaria para la Atención y Actuación de los Órganos Jurisdiccionales y Administrativos del Poder Judicial del Estado de Baja California Sur.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:46.275612"
+    },
+    {
+      "file_id": 70690,
+      "law_name": "Reglas de Operación de las Academias del Colegio de Estudios Científicos y Tecnológicos del Estado de Baja California Sur.",
+      "failure_reason": "download_failed",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA SUR/o670690.doc&nombreclave=o670690.doc",
+      "timestamp": "2026-02-06T05:04:47.984544"
+    },
+    {
+      "file_id": 88248,
+      "law_name": "Reglas de Operación del Programa Alimentario en el Estado de Baja California Sur para el Ejercicio Fiscal 2020.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:49.135078"
+    },
+    {
+      "file_id": 88055,
+      "law_name": "SE DA A CONOCER EL ACUERDO emitido por la Secretaría de Salud del Gobierno Federal de Fecha 31 de Marzo 2020.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:50.235281"
+    },
+    {
+      "file_id": 88249,
+      "law_name": "Suspensión de Términos como medida preventiva del COVID-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:51.338131"
+    },
+    {
+      "file_id": 88053,
+      "law_name": "Acuerdo del Pleno OO8/2O2O Se decreta la suspensión de labores por el periodo comprendido del día veintitrés de marzo de dos mil veinte al diecisiete de abril de dos mil veinte, se determinan como inhábiles y no correrán los plazos legales para las partes durante el periodo de la suspensión respecto de los procedimientos contenciosos administrativos, así como en materia de responsabilidades administrativas.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:52.449722"
+    },
+    {
+      "file_id": 89437,
+      "law_name": "Acuerdo General Número 002/2020 Suspensión del plazo previsto en el Artículo 32 Segundo Párrafo de la Ley de Responsabilidades Administrativas del Estado de Baja California Sur.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:53.571773"
+    },
+    {
+      "file_id": 89253,
+      "law_name": "Séptima Sesión Extraordinaria Administrativa del Pleno del Tribunal de Justicia Administrativa del Estado de Baja California Sur",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:54.686712"
+    },
+    {
+      "file_id": 88433,
+      "law_name": "Acuerdo del Consejo General del Instituto Estatal Electoral de Baja California Sur, por el que se Aprueba la Suspensión de Plazos y Términos Legales, derivado de las medidas de Contingencia Sanitaria: Coronavirus (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:04:55.811785"
+    }
+  ]
+}

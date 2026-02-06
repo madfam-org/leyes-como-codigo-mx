@@ -1,0 +1,1810 @@
+{
+  "state_id": 24,
+  "state_name": "San Luis Potosí",
+  "power_ids_queried": [
+    1,
+    3,
+    4
+  ],
+  "total_found": 256,
+  "successful": 1,
+  "failed": 255,
+  "laws": [
+    {
+      "file_id": 42320,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=42320&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/SAN LUIS POTOSI/o4842320.doc&nombreclave=o4842320.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/san_luis_potosí/ley_de_trasporte_42320.doc",
+      "law_name": "LEY DE TRASPORTE"
+    }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 42335,
+      "law_name": "Acreditación de la señora María Verónica Peña Montero, como Cónsul General de la República del Ecuador en la Ciudad de México, con circunscripción consular en todo el territorio nacional",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:46:58.318764"
+    },
+    {
+      "file_id": 42235,
+      "law_name": "Acta de instalación del Consejo de Carrera de Procuración de Justicia del Estado de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:46:59.486989"
+    },
+    {
+      "file_id": 42866,
+      "law_name": "Acta relativa al Nombramiento de Presidente, por el año 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:00.648596"
+    },
+    {
+      "file_id": 42238,
+      "law_name": "Acuerdo Administrativo mediante el cual se concede al Licenciado Leonel Serrato Sanchez, Notario Público Número Treinta y Dos, en ejercicio en el Primer Distrito Judicial, licencia para separarse de su cargo como Notario Público",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:01.812152"
+    },
+    {
+      "file_id": 42228,
+      "law_name": "Acuerdo Administrativo mediante el cual se crea el Consejo de Armonización Contable del Estado de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:02.935444"
+    },
+    {
+      "file_id": 42833,
+      "law_name": "Acuerdo Administrativo mediante el cual se dan a conocer, las fechas de entrega, porcentajes y montos estimados de participaciones correspondientes a los Fondos General de Participaciones y de Fomento Municipal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:04.057426"
+    },
+    {
+      "file_id": 42226,
+      "law_name": "Acuerdo Administrativo mediante el cual se reconoce Validez Oficial a Estudios Comerciales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:05.178925"
+    },
+    {
+      "file_id": 42829,
+      "law_name": "Acuerdo Administrativo por el que se da a conocer la distribución de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, entre los Municipios del Estado de San Luis Potosí para el ejercicio fiscal 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:06.311566"
+    },
+    {
+      "file_id": 42272,
+      "law_name": "Acuerdo Administrativo por el que se da a conocer la distribución de los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios, para el ejercicio fiscal del año 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:07.409981"
+    },
+    {
+      "file_id": 42828,
+      "law_name": "Acuerdo Administrativo por el que se da a conocer la distribución de los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal entre los municipios del estado de San Luis Potosí para el ejercicio fiscal 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:08.501447"
+    },
+    {
+      "file_id": 42271,
+      "law_name": "Acuerdo Administrativo por el que se da a conocer la distribución de los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal, para el ejercicio fiscal del año 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:09.571639"
+    },
+    {
+      "file_id": 42830,
+      "law_name": "Acuerdo Administrativo por el que se dan a conocer los calendarios de entero de los recursos, correspondientes a los Fondos de Infraestructura Social Municipal y para el Fortalecimiento de los Municipios para el Ejercicio Fiscal 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:10.666971"
+    },
+    {
+      "file_id": 42273,
+      "law_name": "Acuerdo Administrativo por el que se dan a conocer los calendarios de enteros de los recursos, correspondientes a los Fondos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:11.793846"
+    },
+    {
+      "file_id": 42838,
+      "law_name": "Acuerdo Administrativo por medio del cual concede al Licenciado Miguel Martínez Vega, licencia temporal que comprenderá el tiempo que dure su cargo como Diputado Local del Quinto Distrito",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:12.917889"
+    },
+    {
+      "file_id": 42244,
+      "law_name": "Acuerdo Administrativo por medio del cual se otorga Patente de Notario Público Adscrito al Licenciado José Ángel Ramírez Foyo, para que actúe en el Protocolo de la Notaria Pública Número Dos, en ejercicio en el Décimo Tercer Distrito Judicial y con residencia especial en el municipio de Villa de Reyes, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:14.047610"
+    },
+    {
+      "file_id": 42277,
+      "law_name": "Acuerdo Administrativo que Concede Estímulos Fiscales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:15.146298"
+    },
+    {
+      "file_id": 42274,
+      "law_name": "Acuerdo Administrativo que concede Estímulos Fiscales a aquellos contribuyentes que regularicen su situación fiscal de adeudos en materia de Impuesto sobre Nóminas y/o Impuesto sobre Servicios de Hospedaje",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:16.278461"
+    },
+    {
+      "file_id": 42212,
+      "law_name": "Acuerdo Administrativo que establece las Medidas de Austeridad y Disciplina del Gasto de la Administración Pública Estatal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:17.384246"
+    },
+    {
+      "file_id": 42254,
+      "law_name": "Acuerdo Administrativo, por el cual se modifica el Acuerdo de Coordinación que celebran Gobierno del Estado con los Servicios de Salud de San Luis Potosí para la ejecución de diversas atribuciones y competencias",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:18.516376"
+    },
+    {
+      "file_id": 42837,
+      "law_name": "Acuerdo Adnministrativo por medio del cual se concede a la C. Licenciada Fernanda González Zorrilla, licencia para separarse de su cargo de Notaria Pública Adscrita a la Notaría Pública Número 11 con ejercicio en esta Capital perteneciente al Primer Distrito Judicial, hasta por el término de un año renunciable",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:19.645788"
+    },
+    {
+      "file_id": 40338,
+      "law_name": "Acuerdo creacion de la Agencia del Ministerio Público de la Diercción General de Averiguaciones Previas, con sede en la Unidad Administrativa Municipal del Ayuntamiento de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:20.744210"
+    },
+    {
+      "file_id": 40334,
+      "law_name": "Acuerdo creacion de la Agencia del Ministerio Público Investigador adscrita al Sistema para el Desarrollo Integral de la Familia en el Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:21.874708"
+    },
+    {
+      "file_id": 42213,
+      "law_name": "Acuerdo de Coordinacion celebado entre el Ejecutivo Federal y el Gobierno del Estado, con el objeto de Establecer, Coordinar y Evaluar la Aplicación de la Política de Población en la Entidad",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:22.992627"
+    },
+    {
+      "file_id": 42215,
+      "law_name": "Acuerdo de Coordinación para la Concurrencia de Recursos Federales y Estatales para la Operación de los Programas Sociales Federales para el Desarrollo de Zonas Prioritarias y 3 x 1 para Migrantes, del Ramo Administrativo 20",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:24.098031"
+    },
+    {
+      "file_id": 42258,
+      "law_name": "Acuerdo de Creación del Consejo Ciudadano por la Sustentabilidad de Rioverde (Agenda 21 Local)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:25.234399"
+    },
+    {
+      "file_id": 42240,
+      "law_name": "Acuerdo del Consejo de Carrera de Procuración de Justicia por el que se expiden las Normas que Reglamentan la Migración al Servicio de Carrera de Procuración de Justicia, de Agentes del Ministerio Público, Agentes de la Policia Ministerial y Peritos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:26.363900"
+    },
+    {
+      "file_id": 42853,
+      "law_name": "Acuerdo del Pleno del Consejo Estatal Electoral y de Participación Ciudadana en el que se Establecen los Lineamientos en Materia de Asignación de Lugares de Uso Común para la Propaganda de los Partidos Políticos y Coaliciones que Participen en el Proceso Electoral 2011-2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:27.493194"
+    },
+    {
+      "file_id": 42851,
+      "law_name": "Acuerdo del Pleno del Consejo Estatal Electoral y de Participación Ciudadana respecto del Decreto 750 publicado en el Periódico Oficial del Estado de fecha 13 de octubre de 2011, para los Efectos del Proceso Electoral 2011-2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:28.592215"
+    },
+    {
+      "file_id": 42253,
+      "law_name": "Acuerdo General del Secretario General de Gobierno, por medio del cual se crea, en la Dirección de Prevención y Readaptación Social, un área de infraestructura penitenciaria",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:29.727556"
+    },
+    {
+      "file_id": 40339,
+      "law_name": "Acuerdo General Número 2 se Adscriben Area Filtro, Mesas Receptoras y Oficialia Partes a la Dirección Conciliacion",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:30.858405"
+    },
+    {
+      "file_id": 40342,
+      "law_name": "Acuerdo General Número 3 Creación Coordinación Notificaciones Adscrita Averiguaciones Previas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:31.982898"
+    },
+    {
+      "file_id": 40343,
+      "law_name": "Acuerdo General Número 4 informe policial homologado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:33.108892"
+    },
+    {
+      "file_id": 42217,
+      "law_name": "Acuerdo General Número AG/01/2010 mediante el cual el Procurador General de Justicia del Estado delega a favor de los Subprocuradores Jurídico, de Averiguaciones Previas, de Control de Procesos y Regionales, la facultad de confirmar o revocar las determinaciones de No Ejercicio de la acción penal en las averiguaciones previas incluidas en el Programa Emergente de Abatimiento al Rezago",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:34.254307"
+    },
+    {
+      "file_id": 42218,
+      "law_name": "Acuerdo General Número AG/02/2010, del Procurador General de Justicia por el que se Crea la Dirección de Conciliación, Adscrita a la Subprocuraduría de Averiguaciones Previas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:35.367647"
+    },
+    {
+      "file_id": 42219,
+      "law_name": "Acuerdo General Número AG/03/2010 del Procurador General de Justicia del Estado de San Luis Potosí, que abroga el diverso Acuerdo General Número AG/03/2008",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:36.505621"
+    },
+    {
+      "file_id": 42237,
+      "law_name": "Acuerdo mediante el cual se autoriza al Licenciado Juan Carlos Barrón Lechuga, Notario Adscrito a la Notaria Pública Número Veintisiete, con ejercicio en el Primer Distrito Judicial, para ausentarse de su cargo durante el tiempo que dure su cargo como Consejero de la Judicatura del Supremo Tribunal de Justicia del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:37.681378"
+    },
+    {
+      "file_id": 42251,
+      "law_name": "Acuerdo mediante el cual se autoriza la suspensión del nombramiento como Notario Público Adscrito del Licenciado Galo Galván Flores",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:38.785302"
+    },
+    {
+      "file_id": 42236,
+      "law_name": "Acuerdo mediante el cual se concede al Licenciado Alfonso José Castillo Machuca, Notario Público Titular Número Treinta y Seis, con ejercicio en el Primer Distrito Judicial, licencia para separarse de su cargo como Notario Público",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:39.881589"
+    },
+    {
+      "file_id": 40961,
+      "law_name": "Acuerdo mediante el cual se declara por concluido el Convenio de Coordinación para la Prestación de Servicios Catastrales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:40.988772"
+    },
+    {
+      "file_id": 40958,
+      "law_name": "Acuerdo mediante el cual se declara por concluido el Convenio de Coordinación para la Prestación de Servicios Catastrales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:42.051152"
+    },
+    {
+      "file_id": 40225,
+      "law_name": "Acuerdo mediante el cual se declara por concluido el convenio de Coordinación para la Prestación de Servicios Catastrales con el Honorable Ayuntamiento de Matehuala, San Luis Potosí.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:43.189923"
+    },
+    {
+      "file_id": 40963,
+      "law_name": "Acuerdo mediante el cual se declara por concluido el Convenio de Coordinación para la Prestación de Servicios Catastrales de Tamuín",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:44.296647"
+    },
+    {
+      "file_id": 42234,
+      "law_name": "Acuerdo mediante el cual se hace del conocimiento que el Licenciado José Luis Barrón Cerda iniciará funciones como Notario Público Adscrito a la Notaría Pública Número Veintisiete, con ejercicio en el Primer Distrito Judicial y residencia en San Luis Potosí, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:45.432452"
+    },
+    {
+      "file_id": 42259,
+      "law_name": "Acuerdo por el que se crea el Consejo para el Desarrollo Metropolitano del Estado de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:46.562533"
+    },
+    {
+      "file_id": 42861,
+      "law_name": "Acuerdo por el que se determina para el Proceso Electoral 2011-2012, cuales son los Municipios del Estado en donde los Candidatos a Síndicos Municipales deberán presentar para su Registro, Copia Certificada de su Titulo de Abogado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:47.700736"
+    },
+    {
+      "file_id": 42246,
+      "law_name": "Acuerdo por el que se expide patente de Notario Público a la Licenciada Georgina Rojas Villarreal, como Notario Público Titular de la Notaría Pública Número Dos, en ejercicio en el Sexto Distrito Judicial y con residencia en el Municipio de Cd. Valles, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:48.828489"
+    },
+    {
+      "file_id": 42231,
+      "law_name": "Acuerdo por el que se hace del conocimiento público, que el Licenciado Huitzilihuitl Ortega Pérez inició funciones como Notario Público Adscrito a la Notaría Pública Número Treinta y Seis, con ejercicio en el Primer Distrito Judicial, y residencia en esta Ciudad Capital de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:50.021883"
+    },
+    {
+      "file_id": 42232,
+      "law_name": "Acuerdo por el que se hace del conocimiento público, que el Licenciado Juan Manuel Orta García inició funciones como Notario Público Adscrito a la Notaría Pública Número Tres, con ejercicio en el Segundo Distrito Judicial, y con residencia en Matehuala, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:51.170287"
+    },
+    {
+      "file_id": 42233,
+      "law_name": "Acuerdo por el que se hace del conocimiento público, que el Licenciado Miguel Ángel Rodríguez Flores inició funciones como Notario Público Adscrito a la Notaría Pública Número Treinta y Dos, con ejercicio en el Primer Distrito Judicial, y con residencia en esta Ciudad Capital de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:52.627551"
+    },
+    {
+      "file_id": 42229,
+      "law_name": "Acuerdo por el que se hace del conocimiento público, que la Licenciada Elvia Castañon Ruiz inició funciones como Notario Público Titular de la Notaría Pública Número Treinta y Siete, con ejercicio en el Primer Distrito Judicial, y con residencia en Soledad de Graciano Sánchez, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:53.769312"
+    },
+    {
+      "file_id": 42230,
+      "law_name": "Acuerdo por el que se hace del conocimiento público, que la Licenciada María Emilia Zárate Smith inició funciones como Notario Público Adscrito a la Notaría Pública Número Doce, con ejercicio en el Primer Distrito Judicial, y residencia en esta Ciudad Capital de San Luis Potosí, a partir del día 2 de julio del año dos mil diez",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:54.916032"
+    },
+    {
+      "file_id": 42227,
+      "law_name": "Acuerdo por el que se ordena publicar la Convocatoria para ocupar la titularidad de la Notaría Pública Número Dos, perteneciente al Sexto Distrito Judicial del Estado, con residencia en el Municipio de Cd. Valles, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:56.042869"
+    },
+    {
+      "file_id": 42241,
+      "law_name": "Acuerdo por el que se otorga patente de Notario Público Adscrito a la Licenciada María Emilia Zárate Smith, de la Notaría Pública Número Doce, con ejercicio en el Primer Distrito Judicial y residencia en San Luis Potosi, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:57.162926"
+    },
+    {
+      "file_id": 42242,
+      "law_name": "Acuerdo por el que se otorga patente de Notario Público Adscrito a la Licenciada Raquel Ernestina Vega Arellano, de la Notaría Pública Número Cuatro, con ejercicio en el Séptimo Distrito Judicial y residencia en Xilitla, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:58.307929"
+    },
+    {
+      "file_id": 42243,
+      "law_name": "Acuerdo por el que se otorga patente de Notario Público Adscrito al licenciado Huitzilihuitl Ortega Pérez, para que actúe en el Protocolo de la Notaría Pública Número Treinta y Seis, con ejercicio en el Primer Distrito Judicial y residencia en San Luis Potosí, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:47:59.441453"
+    },
+    {
+      "file_id": 42858,
+      "law_name": "Acuerdo por medio del cual se aprueba el Reglamento del Consejo en Materia de Denuncias",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:00.569623"
+    },
+    {
+      "file_id": 42249,
+      "law_name": "Acuerdo por medio del cual se autoriza la suspensión del nombramiento como Notario Público Adscrito del Licenciado Juan Carlos Barrón Lechuga",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:01.704762"
+    },
+    {
+      "file_id": 42263,
+      "law_name": "Acuerdo por medio del cual se crea el Consejo de Coordinación para la Implementación del Sistema de Justicia Pena en el Estado de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:02.806945"
+    },
+    {
+      "file_id": 40267,
+      "law_name": "Acuerdo por medio del cual se determina una nueva tarifa para el servicio de transporte público colectivo urbanoen la Ciudad de san Luis Potosí y zonas conurbadas, Ciudad Valles, San Luis Potosí, y Matehuala, San Luis Potosí.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:03.905786"
+    },
+    {
+      "file_id": 42250,
+      "law_name": "Acuerdo por medio del cual se otorga Patente de Notario Público Adscrito al Licenciado José Luis Barrón Cerda, para que actúe en el Protocolo de la Notaria Pública Número Veintisiete, en ejercicio en el Primer Distrito Judicial y con residencia en San Luis Potosí, S.L.P., a cargo del Licenciado Juan Carlos Barrón Cerda",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:05.011065"
+    },
+    {
+      "file_id": 40965,
+      "law_name": "Acuerdo que declara por concluido el Convenio de Coordinación Fiscal en Materia de Contribuciones Inmobiliarias de Mexquitic de Carmona",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:06.111322"
+    },
+    {
+      "file_id": 42278,
+      "law_name": "Acuerdo que prorroga el Plazo del Acuerdo Administrativo que Concede Estímulos Fiscales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:07.210788"
+    },
+    {
+      "file_id": 40285,
+      "law_name": "Acuerdo Recaudacion Impuesto Sobre Nómina via Bancaria",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:08.350590"
+    },
+    {
+      "file_id": 42834,
+      "law_name": "Acuerdo Secretarial que contiene la Guía para la Integración de Expedientes de Obra Pública a precio unitario, la Guía para la Integración de Expedientes de Adquisiciones en Materia Federal y la Guía para la Integración de Expedientes de Adquisiciones en Materia Estatal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:09.485601"
+    },
+    {
+      "file_id": 42836,
+      "law_name": "Acuerdo Secretarial que establece las Normas Generales de Control Interno para la Administración Pública del Estado de San Luis Potosi",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:10.591978"
+    },
+    {
+      "file_id": 40265,
+      "law_name": "Ajuste a las Tarifas a Taxis de Tamazunchale, San Luis Potosí, Rioverde y Valles",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:11.693646"
+    },
+    {
+      "file_id": 42845,
+      "law_name": "Anexo Técnico Número Dos al Convenio de Apoyo y Colaboración en Materia Electoral, en relación con el uso de los Instrumentos y Productos Electorales que Aportará la Dirección Ejecutiva del Registro Federal de Electores de El Instituto, en adelante La Derfe, para el Desarrollo del Proceso Electoral Local y Federal 2011-2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:12.818381"
+    },
+    {
+      "file_id": 42846,
+      "law_name": "Anexo Técnico Número Tres al Convenio que en Materia Electoral; con el fin de establecer las Bases con las que se Operará en Materia de Administración de los Tiempos Oficiales del Estado en Radio y Televisión dentro del Proceso Electoral que se celebrará de forma coincidente en el Estado de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:14.040015"
+    },
+    {
+      "file_id": 42844,
+      "law_name": "Anexo Técnico Número Uno al Convenio de Apoyo y Colaboración en Materia Electoral",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:15.330861"
+    },
+    {
+      "file_id": 42013,
+      "law_name": "Anexo Técnico para apoyar a Productores Afectados por Contingencia Climatológica",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:16.561033"
+    },
+    {
+      "file_id": 42018,
+      "law_name": "Anexo Técnico, suscrito para apoyar a Productores Afectados por Contingencia Climatológica",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:18.056520"
+    },
+    {
+      "file_id": 42269,
+      "law_name": "Apertura Programática de los Fondos Estatal para la Infraestructura Social, para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios para el Ejercicio Fiscal 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:19.531137"
+    },
+    {
+      "file_id": 42831,
+      "law_name": "Apertura Programática de los Fondos Estatal para la Infraestructura Social, para la Infraestructura Social Municipal y para el Fortalecimiento de los Municipios para el Ejercicio Fiscal 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:20.612610"
+    },
+    {
+      "file_id": 40346,
+      "law_name": "Campaña Nacional contra Tuberculosis Bovina",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:21.945719"
+    },
+    {
+      "file_id": 40268,
+      "law_name": "Codigo de Etica Servidores Publicos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:23.190821"
+    },
+    {
+      "file_id": 40266,
+      "law_name": "Concesion servicio especial de transporte escolar matehuala",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:24.500874"
+    },
+    {
+      "file_id": 40274,
+      "law_name": "Convenio Coordinacion Problematica Centro Histórico",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:25.793672"
+    },
+    {
+      "file_id": 42001,
+      "law_name": "Convenio de Adhesión para el Otorgamiento del Subsidio para la Seguridad de los Municipios y las Demarcaciones Territoriales del Distrito Federal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:26.950104"
+    },
+    {
+      "file_id": 42843,
+      "law_name": "Convenio de Apoyo y Colaboración que Celebran, por una parte el Instituto Federal Electoral, y por la otra el Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí; con el fin de apoyar el Desarrollo de los Comicios Federales y Locales que celebrarán en forma Coincidente en el Estado de San Luis Potosí el día 1 de Julio del año 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:28.237984"
+    },
+    {
+      "file_id": 40218,
+      "law_name": "Convenio de colaboración en materia de Alcoholes Estado-ayuntamientos 2",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:29.416349"
+    },
+    {
+      "file_id": 40220,
+      "law_name": "Convenio de colaboración en materia de Alcoholes Estado-ayuntamientos 3",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:30.576930"
+    },
+    {
+      "file_id": 40222,
+      "law_name": "Convenio de colaboración en materia de Alcoholes Estado-ayuntamientos 4",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:31.775271"
+    },
+    {
+      "file_id": 41990,
+      "law_name": "Convenio de Colaboración Específico y Coordinación en Materia de Prestación de Servicios Médicos y Compensación Económica entre las Entidades Federativas, por la Prestación de Servicios de Salud",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:33.217054"
+    },
+    {
+      "file_id": 41991,
+      "law_name": "Convenio de Colaboración para el Financiamiento con Recursos de Fondo de Protección contra Gastos Catastróficos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:34.484121"
+    },
+    {
+      "file_id": 41992,
+      "law_name": "Convenio de Coordinación del Fondo de Aportaciones para la Seguridad Pública 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:35.642987"
+    },
+    {
+      "file_id": 42007,
+      "law_name": "Convenio de Coordinación en Materia de Reasignación de Recursos 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:36.855040"
+    },
+    {
+      "file_id": 40227,
+      "law_name": "Convenio de Coordinación Fiscal en Materia de Contribuciones Inmobiliarias, que celebran el Gobierno del Estado Libre y Soberano de San Luis Potosí y el Ayuntamiento de Coxcatlán, San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:37.992613"
+    },
+    {
+      "file_id": 42015,
+      "law_name": "Convenio de Coordinación Marco para conjuntar acciones y recursos con el objeto de Apoyar a Productores Rurales de bajos Ingresos, que cumplan con los criterios de elegibilidad establecidos en las Reglas de Operación del Fondo para Atender a la Población Rural Afectada por Contingencias Climatológicas (FAPRACC)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:39.130535"
+    },
+    {
+      "file_id": 42019,
+      "law_name": "Convenio de Coordinación Marco para conjuntar acciones y recursos con el objeto de Apoyar a Productores Rurales de bajos Ingresos, que cumplan con los criterios de elegibilidad establecidos en las Reglas de Operación del Fondo para Atender a la Población Rural Afectada por Contingencias Climatológicas (FAPRACC)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:40.247038"
+    },
+    {
+      "file_id": 42214,
+      "law_name": "Convenio de Coordinación para el Desarrollo Rural Sustentable",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:41.356624"
+    },
+    {
+      "file_id": 41987,
+      "law_name": "Convenio de Coordinación para el Desarrollo Rural Sustentable",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:42.458026"
+    },
+    {
+      "file_id": 41960,
+      "law_name": "Convenio de Coordinación para el Desarrollo Rural Sustentable con el objeto de contratar un seguro agrícola catastrófico en beneficio de productores rurales de bajos ingresos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:43.682398"
+    },
+    {
+      "file_id": 40260,
+      "law_name": "Convenio de Coordinación para regular y determinar la situación contractual de los Oficiales del Registro Civil, celebrado entre el Gobierno del Estado y el Ayuntamiento de Villa Juárez San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:44.813646"
+    },
+    {
+      "file_id": 41989,
+      "law_name": "Convenio de Coordinación relativo a las Infracciones que realiza la Dirección General de Seguridad Pública del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:45.946747"
+    },
+    {
+      "file_id": 41993,
+      "law_name": "Convenio Específico de Adhesión para el Otorgamiento del Subsidio para la Seguridad Pública Municipal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:47.086688"
+    },
+    {
+      "file_id": 40273,
+      "law_name": "Convenio Específico de Adhesión para el otorgamiento del Subsidio para la Seguridad Pública Municipal celebrado entre el Poder Ejecutivo Federal, Poder Ejecutivo del Estado y los municipios de San Luis Potosí, Matehuala, Rioverde, Ciudad Valles, Soledad de Graciano Sánchez y Tamazunchale",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:48.317128"
+    },
+    {
+      "file_id": 42000,
+      "law_name": "Convenio Específico en Materia de Transferencia de Recursos que celebran El Ejecutivo Federal y El Ejecutivo del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:49.464102"
+    },
+    {
+      "file_id": 41988,
+      "law_name": "Convenio Modificatorio al Convenio Específico en Materia de Transferencia de Recursos con objeto de facilitar la concurrencia en la prestación de servicios en materia de Salubridad General",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:50.753915"
+    },
+    {
+      "file_id": 42030,
+      "law_name": "Convenios de Coordinación Fiscal en Materia de Contribuciones Inmoviliarias que celebra el Gobierno del Estado con los Ayuntamientos de: El Naranjo, Lagunillas y Rayón, S.L.P",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:51.967110"
+    },
+    {
+      "file_id": 42043,
+      "law_name": "Convenios de Coordinación para la Prestación de Servicios Catastrales que celebra el Gobierno del Estado con el Ayuntamiento de Xilitla, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:53.206413"
+    },
+    {
+      "file_id": 42024,
+      "law_name": "Convenios de Coordinación para regular y determinar la situación contractual de los Oficiales del Registro Civil, celebrado entre el Gobierno del Estado y los Ayuntamientos de Ahualulco, Alaquines, Aquismón, Armadillo de los Infante, Cárdenas, Catorce, Cerritos, Charcas, Ciudad del Maíz, Ciudad Fernández, Ciudad Valles, Coxcatlán, Ébano, El Naranjo, Huehuetlán, Lagunillas, Matlapa, Mexquitic de Carmona, Moctezuma, Rayón, Rioverde, Salinas, San Antonio, San Ciro de Acosta, San Nicolás Tolentino, San Vicente Tancuayalab, Santa Catarina, Santa María del Río, Santo Domingo, Soledad de Graciano Sánchez, Tamasopo, Tamazunchale, Tampacán, Tampamolón Corona, Tamuín, Tancanhuitz, Tanquián de Escobedo, Tierra Nueva, Vanegas, Venado, Villa de Guadalupe, Villa de Ramos, Villa de Reyes, Villa Hidalgo, Xilitla",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:54.701129"
+    },
+    {
+      "file_id": 42032,
+      "law_name": "Convenios para la pretación de Servicios Catastrales que celebra el Gobierno del Estado con los Ayuntamientos de: Alaquines, Armadillo de Los Infante, Axtla de Terrazas, Cárdenas, Catorce, Coxcatlan, Ébano, El Naranjo, Guadalcázar, Huehuetlan, Lagunillas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:56.487727"
+    },
+    {
+      "file_id": 42034,
+      "law_name": "Convenios para la pretación de Servicios Catastrales que celebra el Gobierno del Estado con los Ayuntamientos de: Matehuala, Moctezuma, Rayón, Salinas, San Antonio, San Martín Chalchicuautla, San Nicolás Tolentino, San Vicente Tancuyalab, Santa Catarina, Santo Domingo, Tamasopo",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:57.888352"
+    },
+    {
+      "file_id": 42039,
+      "law_name": "Convenios para la pretación de Servicios Catastrales que celebra el Gobierno del Estado con los Ayuntamientos de: Tampacán, Tampamolón Corona, Tancanhuitz, Tanlájas, Tanquián de Escobedo, Vanegas, Villa de Arriaga, Villa de Guadalupe, Villa de La Paz, Villa Hidalgo, Villa de Ramos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:48:58.977458"
+    },
+    {
+      "file_id": 42847,
+      "law_name": "Convocatoria a los Partidos Políticos o Coaliciones con derecho a participar en la elección de Ayuntamientos para el periodo Constitucional comprendido del 1 de Octubre del año 2012 al 30 de septiembre del año 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:00.241255"
+    },
+    {
+      "file_id": 42848,
+      "law_name": "Convocatoria a los Partidos Políticos o Coaliciones con derecho a participar en la elección de Diputados que integrarán la LX Legislatura del H. Congreso del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:01.496735"
+    },
+    {
+      "file_id": 40275,
+      "law_name": "Convocatoria consulta ciudadana congreso",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:02.789349"
+    },
+    {
+      "file_id": 40350,
+      "law_name": "Creacion Centro de innovacion el huevo",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:03.940628"
+    },
+    {
+      "file_id": 40276,
+      "law_name": "Creacion Comision Intersecretarial Cambio Climatico",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:05.094655"
+    },
+    {
+      "file_id": 40278,
+      "law_name": "Creacion Registro Estatal Agropecuario",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:06.234564"
+    },
+    {
+      "file_id": 40279,
+      "law_name": "Creacion Universidad Intercultural",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:07.369264"
+    },
+    {
+      "file_id": 42012,
+      "law_name": "Declaratoría de Contingencia Climatológica para efectos de las Reglas del Programa de Atención a Contingencias Climatológicas (PACC)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:08.758571"
+    },
+    {
+      "file_id": 42017,
+      "law_name": "Declaratoria de Contingencia Climatológica para efectos de las Reglas del Programa de Atención a Contingencias Climatológicas (PACC), del evento 300306",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:10.009156"
+    },
+    {
+      "file_id": 42337,
+      "law_name": "Declaratoria para la Salud Alimentaria",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:11.148363"
+    },
+    {
+      "file_id": 40354,
+      "law_name": "Decreto 200 Plan Estatal de Desarrollo",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:12.323520"
+    },
+    {
+      "file_id": 40280,
+      "law_name": "Decreto administrativo declara huapango patrimonio del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:13.476159"
+    },
+    {
+      "file_id": 42257,
+      "law_name": "Decreto Administrativo mediante el cual se crea el Consejo Ciudadano de Transparencia y Vigilancia para las Adquisiciones y Contratacion de Obra Publica del Gobierno del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:14.658275"
+    },
+    {
+      "file_id": 42260,
+      "law_name": "Decreto Administrativo mediante el cual se crea el Consejo de Seguridad de la Zona Industrial de San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:15.898171"
+    },
+    {
+      "file_id": 42862,
+      "law_name": "Decreto Administrativo mediante el cual se crea el Instituto Potosino del Deporte",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:17.053356"
+    },
+    {
+      "file_id": 42261,
+      "law_name": "Decreto Administrativo mediante el cual se crea el Patronato de la Orquesta Sinfónica",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:18.201503"
+    },
+    {
+      "file_id": 42256,
+      "law_name": "Decreto Administrativo por el que se crea la Comisión Interinstitucional para la Formación de Recursos Humanos para la Salud",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:19.332100"
+    },
+    {
+      "file_id": 42262,
+      "law_name": "Decreto mediante el cual se crea el Instituto Tecnológico Superior de Ebano, S.L.P.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:20.462797"
+    },
+    {
+      "file_id": 42255,
+      "law_name": "Decreto por el que se crea la Comisión para la Protección contra los Riesgos Sanitarios del Estado, como un Órgano Administrativo Desconcentrado de los Servicios de Salud",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:21.657042"
+    },
+    {
+      "file_id": 40289,
+      "law_name": "Deuda al 30 de septiembre 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:22.797278"
+    },
+    {
+      "file_id": 40292,
+      "law_name": "Deuda Publica al 31 Marzo 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:23.921686"
+    },
+    {
+      "file_id": 42322,
+      "law_name": "Deuda Pública del Estado, cifras actualizadas al 30 de septiembre de 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:25.012618"
+    },
+    {
+      "file_id": 42323,
+      "law_name": "Deuda Pública del Estado, con cifras al 31 de diciembre de 2009",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:26.110754"
+    },
+    {
+      "file_id": 42324,
+      "law_name": "Deuda Pública del Estado, con cifras al 31 de marzo de 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:27.237639"
+    },
+    {
+      "file_id": 42321,
+      "law_name": "Deuda Pública del Estado, con cifras correspondientes al 30 de junio de 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:28.369491"
+    },
+    {
+      "file_id": 40351,
+      "law_name": "Dictamen baja documentacion",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:29.491434"
+    },
+    {
+      "file_id": 42842,
+      "law_name": "Dictámen de Registro de la Coalición Parcial que han acordado integrar los Partidos Políticos: Acción Nacional y Nueva Alianza, para en esas condiciones y con la denominación ACCIÓN GANADORA participar exclusivamente en la elección de Diputados por el Principio de Mayoría Relativa correspondiente a los Distritos Electorales VI, VIII y X, cuya jornada electoral se efectuará el próximo 1 de julio del año en curso",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:30.654556"
+    },
+    {
+      "file_id": 42841,
+      "law_name": "Dictámen de Registro de la Coalición Parcial que han acordado integrar los Partidos Políticos: Revolucionario Institucional y Verde Ecologista de México, para en esas condiciones y con la denominación COMPROMISO POR SAN LUIS participar exclusivamente en la elección de 24 Ayuntamientos, cuya jornada electoral se efectuará el 1 de julio del año en curso",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:31.791709"
+    },
+    {
+      "file_id": 42839,
+      "law_name": "Dictámen de Registro de la Coalición Parcial que han acordado integrar los Partidos Políticos: Revolucionario Institucional y Verde Ecologista de México, para en esas condiciones y con la denominación COMPROMISO POR SAN LUIS participar exclusivamente en la elección de Diputados por el Principio de Mayoría Relativa correspondiente a los Distritos Electorales VI, VIII, IX, XII y XV, cuya jornada electoral se efectuará el próximo 1 de julio del año en curso",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:32.938993"
+    },
+    {
+      "file_id": 42849,
+      "law_name": "Dictamen que declara Procedente el Registro como Agrupación Política Estatal de la Organización SEGUIMOS VIVOS",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:34.047277"
+    },
+    {
+      "file_id": 42338,
+      "law_name": "Expedición del Exequátur Número Diez, a favor de la señora Lutgardis Janssens, Cónsul Honoraria del Reino de Bélgica en la ciudad de Guadalajara, con circunscripción consular en los Estados de Jalisco, Aguascalientes, Colima, Guanajuato, Michoacán, Nayarit, Querétaro, San Luis Potosí y Zacatecas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:35.206845"
+    },
+    {
+      "file_id": 40406,
+      "law_name": "Fechas de Porcentajes y Montos de Participaciones 2012 (ramo 28)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:36.298550"
+    },
+    {
+      "file_id": 40295,
+      "law_name": "Fechas, Porcentajes y Montos Participaciuones Fondo General de Participaciones y de Fomento Municipal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:37.426642"
+    },
+    {
+      "file_id": 40269,
+      "law_name": "Informe Anual de Actividades",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:38.575465"
+    },
+    {
+      "file_id": 40303,
+      "law_name": "Inicio de Funciones Lic Dolores Villalobos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:39.696458"
+    },
+    {
+      "file_id": 40305,
+      "law_name": "Inicio de Funciones Lic Georgina Villareal NP TITULAR 2",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:40.910722"
+    },
+    {
+      "file_id": 40308,
+      "law_name": "Inicio de Funciones Licenciado Jose Angel Ramirez Foyo Notario Público ADSCRITO 2",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:42.023965"
+    },
+    {
+      "file_id": 40312,
+      "law_name": "Inicio de Funciones Licenciado Ulises Artolozaga Stahl Notario Público Adscrito",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:43.128785"
+    },
+    {
+      "file_id": 42850,
+      "law_name": "Integración de las 15 Comisiones Distritales Electorales, así como la Integración de los 58 Comités Municipales Electorales; Organismos Electorales que respectivamente Prepararán, Desarrollarán y Vigilarán el Proceso de Elección de Diputados y Ayuntamientos para el periodo Constitucional 2012-2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:44.304160"
+    },
+    {
+      "file_id": 40410,
+      "law_name": "Licencia de Suspension Fernanda González Zorrilla",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:47.723594"
+    },
+    {
+      "file_id": 40411,
+      "law_name": "Licencia Miguel Martínez Vega",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:48.855750"
+    },
+    {
+      "file_id": 40353,
+      "law_name": "Lineamientos Ejercicio Recursos Fondo Estatal para la Infraestructura Social 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:49.990126"
+    },
+    {
+      "file_id": 42275,
+      "law_name": "Lineamientos Generales para el Ejercicio de los Recursos del Fondo Estatal para la Infraestructura Social, Ejercicio Fiscal 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:51.094999"
+    },
+    {
+      "file_id": 42835,
+      "law_name": "Lineamientos Generales para el ejercicio de los recursos del Fondo Estatal para la Infraestructura Social, Ejercicio Fiscal 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:52.219726"
+    },
+    {
+      "file_id": 42276,
+      "law_name": "Lineamientos Generales para la Aplicación del Presupuesto de Egresos para el Ejercicio Fiscal 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:53.374556"
+    },
+    {
+      "file_id": 42863,
+      "law_name": "Lineamientos Generales para la Aplicación del Presupuesto de Egresos para el Ejercicio Fiscal 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:54.478726"
+    },
+    {
+      "file_id": 42852,
+      "law_name": "Lineamientos Generales para la Firma del Convenio de Apoyo y Colaboración y Anexos Técnicos entre el Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí (CEEPAC) y el Instituto Federal Electoral (IFE) para el Proceso Electoral Federal y Local 2011-2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:55.777121"
+    },
+    {
+      "file_id": 42854,
+      "law_name": "Lineamientos para el Registro de Partidos Políticos Estatales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:56.882218"
+    },
+    {
+      "file_id": 40296,
+      "law_name": "Lineamientos para la Aplicacion del Presupuesto de Egresos 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:58.002867"
+    },
+    {
+      "file_id": 42864,
+      "law_name": "Lineamientos que establecen los Requisitos y Condiciones que debe Reunir el Personal Académico que Imparte Planes y Programas de Estudio en Educación Superior Tecnológica",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:49:59.134885"
+    },
+    {
+      "file_id": 42855,
+      "law_name": "Listas de Candidatos a Diputados por el Principio de Representación Proporcional; y Formulas de Candidatos a Diputados por el Principio de Mayoría Relativa, Propuestas por los Partidos Politicos para Contender en el Proceso Electoral cuya Jornada se efectuará el 1 de Julio de 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:00.259886"
+    },
+    {
+      "file_id": 40330,
+      "law_name": "Manual para la elaboración de tabulador poder ejecutivo",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:01.362789"
+    },
+    {
+      "file_id": 40414,
+      "law_name": "Modificación calendario escolar 2010-2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:02.478666"
+    },
+    {
+      "file_id": 42239,
+      "law_name": "Normas Aprobadas por el Consejo",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:03.577666"
+    },
+    {
+      "file_id": 42856,
+      "law_name": "Normas Reglamentarias sobre Propaganda Gubernamental e Imparcialidad en el uso de Recursos Públicos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:04.675890"
+    },
+    {
+      "file_id": 42245,
+      "law_name": "Padrón de Comunidades Indígenas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:05.814192"
+    },
+    {
+      "file_id": 40408,
+      "law_name": "Partcicipaciones Pagadas a los Municipios Ejercicio 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:06.902023"
+    },
+    {
+      "file_id": 40332,
+      "law_name": "Participaciones 4 Trimestre y Acumulado Anual",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:08.030289"
+    },
+    {
+      "file_id": 40298,
+      "law_name": "Participaciones del Tercer Trimestre 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:09.157161"
+    },
+    {
+      "file_id": 42267,
+      "law_name": "Participaciones Pagadas a los Municipios correspondientes al Cuarto Trimestre del 2009",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:10.250263"
+    },
+    {
+      "file_id": 42264,
+      "law_name": "Participaciones Pagadas a los Municipios correspondientes al Primer Trimestre del 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:11.338884"
+    },
+    {
+      "file_id": 42265,
+      "law_name": "Participaciones Pagadas a los Municipios correspondientes al Segundo Trimestre del 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:12.434453"
+    },
+    {
+      "file_id": 42266,
+      "law_name": "Participaciones Pagadas a los Municipios correspondientes al Tercer Trimestre del 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:13.550865"
+    },
+    {
+      "file_id": 42268,
+      "law_name": "Participaciones Pagadas a los Municipios en el Ejercicio Fiscal 2009",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:14.648631"
+    },
+    {
+      "file_id": 42865,
+      "law_name": "Participaciones pagadas a los Municipios, correspondientes al Ejercicio Fiscal 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:15.770519"
+    },
+    {
+      "file_id": 40300,
+      "law_name": "Participaciones primer trimestre 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:16.888156"
+    },
+    {
+      "file_id": 40301,
+      "law_name": "Participaciones segundo trimestre 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:17.988219"
+    },
+    {
+      "file_id": 40319,
+      "law_name": "Patente Notario Ulises Artolozaga",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:19.086954"
+    },
+    {
+      "file_id": 42857,
+      "law_name": "Planillas de Mayoría Relativa y listas de Candidatos a Regidores por el Principio de Representación Proporcional, mismas que fueron registradas por los partidos políticos para contender en el Proceso Electoral cuya jornada electoral se efectuará el 1 de julio de 2012",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:20.218980"
+    },
+    {
+      "file_id": 42339,
+      "law_name": "Programa Anual de Trabajo 2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:21.323130"
+    },
+    {
+      "file_id": 42279,
+      "law_name": "Programa Especial de Población 2009 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:22.415761"
+    },
+    {
+      "file_id": 42282,
+      "law_name": "Programa Sectorial de Administración Pública 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:23.520326"
+    },
+    {
+      "file_id": 42283,
+      "law_name": "Programa Sectorial de Asistencia Social 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:24.625560"
+    },
+    {
+      "file_id": 42314,
+      "law_name": "Programa Sectorial de Atención a Migrantes 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:25.731727"
+    },
+    {
+      "file_id": 42284,
+      "law_name": "Programa Sectorial de Ciencia y Tecnología 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:26.836820"
+    },
+    {
+      "file_id": 42285,
+      "law_name": "Programa Sectorial de Comunicaciones y Transportes 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:27.945928"
+    },
+    {
+      "file_id": 42280,
+      "law_name": "Programa Sectorial de Comunidades Indígenas 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:29.051669"
+    },
+    {
+      "file_id": 42286,
+      "law_name": "Programa Sectorial de Deporte 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:30.158783"
+    },
+    {
+      "file_id": 42287,
+      "law_name": "Programa Sectorial de Desarrollo Económico 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:31.266669"
+    },
+    {
+      "file_id": 42388,
+      "law_name": "Programa Sectorial de Desarrollo social 2010 - 2015 PRIMERA PARTE",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:32.371126"
+    },
+    {
+      "file_id": 42389,
+      "law_name": "Programa Sectorial de Desarrollo social 2010 - 2015 SEGUNDA PARTE",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:33.497067"
+    },
+    {
+      "file_id": 42307,
+      "law_name": "Programa Sectorial de Educación 2010 - 2015 PRIMERA PARTE",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:34.656070"
+    },
+    {
+      "file_id": 42308,
+      "law_name": "Programa Sectorial de Educación 2010 - 2015 SEGUNDA PARTE",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:35.764719"
+    },
+    {
+      "file_id": 42310,
+      "law_name": "Programa Sectorial de Empleo y Capacitación para el Trabajo 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:36.883329"
+    },
+    {
+      "file_id": 42311,
+      "law_name": "Programa Sectorial de Infraestructura Carretera 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:37.997708"
+    },
+    {
+      "file_id": 42312,
+      "law_name": "Programa Sectorial de Juventud 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:39.139115"
+    },
+    {
+      "file_id": 42313,
+      "law_name": "Programa Sectorial de Medio Ambiente 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:40.238919"
+    },
+    {
+      "file_id": 42316,
+      "law_name": "Programa Sectorial de Prevención y Reinserción Social 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:41.369115"
+    },
+    {
+      "file_id": 42317,
+      "law_name": "Programa Sectorial de Procuración de Justicia 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:42.622122"
+    },
+    {
+      "file_id": 42318,
+      "law_name": "Programa Sectorial de Seguridad Pública 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:43.765542"
+    },
+    {
+      "file_id": 42319,
+      "law_name": "Programa Sectorial de Vivienda 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:44.888985"
+    },
+    {
+      "file_id": 42315,
+      "law_name": "Programa Sectorial Mujeres 2010 - 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:46.044515"
+    },
+    {
+      "file_id": 77727,
+      "law_name": "Reglamento Interior Agencia Pro SanLuis",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:47.201450"
+    },
+    {
+      "file_id": 77759,
+      "law_name": "Reglamento Interior Regimen Estatal Proteccion Social en Salud",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:48.304810"
+    },
+    {
+      "file_id": 42860,
+      "law_name": "Reglamento para la Organización Promoción y Difusión de Debates Públicos entre Candidatos a Puestos de Elección Popular en el Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:49.427246"
+    },
+    {
+      "file_id": 42252,
+      "law_name": "Relación de Instituciones Particulares que recibierón autorización o reconocimiento de validez oficial de estudios, durante el periódo escolar 2008-2009",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:50.658465"
+    },
+    {
+      "file_id": 40515,
+      "law_name": "Reporte 4 Trimestrales 2007, 2008, 2009, 2010 Fondo de Aportaciones para la Seguridad Pública FASP",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:51.873577"
+    },
+    {
+      "file_id": 42327,
+      "law_name": "Reporte del Cuarto Trimestre del 2009, relativos a los Recursos Federales de los Convenios de Coordinación 2007, 2008 y 2009 del Fondo de Aportaciones para la Seguridad Pública FASP",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:53.104367"
+    },
+    {
+      "file_id": 42333,
+      "law_name": "Reporte del Primer Trimestre del 2010, relativo a los Recursos Federales de los Convenios de Coordinación 2007, 2008, 2009 y 2010 del Fondo de Aportaciones para la Seguridad Pública (FASP)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:54.460691"
+    },
+    {
+      "file_id": 42330,
+      "law_name": "Reporte del Segundo Trimestre del 2010, relativo a los Recursos Federales de los Convenios de Coordinación 2007, 2008, 2009 y 2010 del Fondo de Aportaciones para la Seguridad Pública (FASP)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:55.786572"
+    },
+    {
+      "file_id": 42332,
+      "law_name": "Reporte del Tercer Trimestre del 2010, relativo a los Recursos Federales de los Convenios de Coordinación 2007, 2008, 2009 y 2010 del Fondo de Aportaciones para la Seguridad Pública (FASP)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:56.953614"
+    },
+    {
+      "file_id": 40321,
+      "law_name": "Suspension Actividades Isac Delgado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:58.176440"
+    },
+    {
+      "file_id": 40323,
+      "law_name": "Suspension de Actividades de Isac Delgado (Contralor General)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:50:59.320564"
+    },
+    {
+      "file_id": 40324,
+      "law_name": "Suspension nombramiento Francisco Artolozaga Stahl",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:00.476067"
+    },
+    {
+      "file_id": 40325,
+      "law_name": "Suspension nombramiento Licenciado Juan Manuel Orta Garcia Not Publ Adscrito Matehuala",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:01.712475"
+    },
+    {
+      "file_id": 40328,
+      "law_name": "Suspension nombramiento Martha Chaires Patente Dolores Villalobos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:02.828986"
+    },
+    {
+      "file_id": 42328,
+      "law_name": "Tabla integral para el pago del Impuesto Sobre la Renta, Impuesto Empresarial a Tasa Única, e Impuesto al Valor Agregado, a cargo de los Pequeños Contribuyentes, que únicamente enajenen bienes o presten servicios al público en general",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:04.032301"
+    },
+    {
+      "file_id": 40271,
+      "law_name": "Unidades de Informacion Poder Ejecutivo",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:05.177918"
+    },
+    {
+      "file_id": 40423,
+      "law_name": "Validez oficial estudios 2009-2010",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:06.374725"
+    },
+    {
+      "file_id": 40329,
+      "law_name": "Visitas Generales de Inspeccion",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:07.573807"
+    },
+    {
+      "file_id": 40463,
+      "law_name": "Acuerdo AG3-2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:08.721271"
+    },
+    {
+      "file_id": 42216,
+      "law_name": "Acuerdo General 1/2010 del Pleno del Supremo Tribunal de Justicia del Estado, por el que se establece la práctica de visitas de inspección a los Juzgados de Primera Instancia y Menores, exclusivamente en el ámbito jurisdiccional",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:09.870386"
+    },
+    {
+      "file_id": 40464,
+      "law_name": "Acuerdo General Septuagésimo del Consejo de la Judicatura del Estado, que fija los Lineamientos Grales para la Integración del Padrón de Proveedores.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:11.011863"
+    },
+    {
+      "file_id": 42222,
+      "law_name": "Acuerdo General Sexagésimo Cuarto, que establece los Lineamientos y Políticas Generales para el Uso y Funcionamiento del Estacionamiento de la Ciudad Judicial",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:12.142208"
+    },
+    {
+      "file_id": 42223,
+      "law_name": "Acuerdo General Sexagésimo Noveno, que establece las Bases de Emisión de las Convocatorias, para la Celebración de las Asambleas de Ciudadanos, en las que se elegirán a los Jueces Auxiliares para el Año 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:13.547726"
+    },
+    {
+      "file_id": 42224,
+      "law_name": "Acuerdo General Sexagésimo Octavo para el Otorgamiento de Viáticos que se Asignan a los Servidores Judiciales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:14.769526"
+    },
+    {
+      "file_id": 42220,
+      "law_name": "Acuerdo General Sexagésimo Segundo que establece los horarios de atención al Público de la Oficialía de Partes común del Poder Judicial",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:16.085232"
+    },
+    {
+      "file_id": 42225,
+      "law_name": "Acuerdo General Sexagésimo Sexto, que Crea y Dota de Atribuciones, Comité para la Desincorporación de Bienes de Dominio Privado del Poder Judicial del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:17.246187"
+    },
+    {
+      "file_id": 42221,
+      "law_name": "Acuerdo General Sexagésimo Tercero, que establece las Políticas de Transparencia y de Protección de Datos Personales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:18.458456"
+    },
+    {
+      "file_id": 40466,
+      "law_name": "Acuerdo Número 2 Creacion Comision Instructora Procedimiento Evalucion Magistrados Salas 1 Instancia",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:19.669784"
+    },
+    {
+      "file_id": 40468,
+      "law_name": "Acuerdo Septuagesimo Cuarto  Manual Organización Biblioteca José Francisco Pedraza Montes",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:20.778235"
+    },
+    {
+      "file_id": 40471,
+      "law_name": "Acuerdo Septuagesimo Lineamientos Padron Proveedores",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:21.880588"
+    },
+    {
+      "file_id": 40474,
+      "law_name": "Acuerdo Septuagesimo Octavo lineamientos control asistencia e incidencias",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:22.979514"
+    },
+    {
+      "file_id": 40476,
+      "law_name": "Acuerdo Septuagesimo Segundo que establece Lineamientos de Austeridad 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:24.076738"
+    },
+    {
+      "file_id": 40477,
+      "law_name": "Acuerdo Septuagesimo Septimo Criterios Basicos Identificar y Dictaminar Documentos Historicos Archivo Poder Judicial",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:25.173243"
+    },
+    {
+      "file_id": 40482,
+      "law_name": "Acuerdo Septuagesimo Tercero que determina Creacion, Numero y Jurisdiccion Juzgados Ejecucion Reforma Constitucional",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:26.387553"
+    },
+    {
+      "file_id": 40483,
+      "law_name": "Convocatoria a Secretario de Estudio y Cuenta",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:27.496874"
+    },
+    {
+      "file_id": 40484,
+      "law_name": "Convocatoria Curso Formacion Preparacion previo Concurso Actuarios",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:28.681078"
+    },
+    {
+      "file_id": 40486,
+      "law_name": "Convocatoria Juez de Primera Instancia",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:29.780529"
+    },
+    {
+      "file_id": 40492,
+      "law_name": "Convocatoria Personal de Reserva Categoria Actuario",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:30.871543"
+    },
+    {
+      "file_id": 40493,
+      "law_name": "Convocatoria Secretario de Acuerdos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:32.018858"
+    },
+    {
+      "file_id": 40499,
+      "law_name": "Dictamen Valoracion Documental 01-2011 y Dictamen Baja Definitiva 01-2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:33.195418"
+    },
+    {
+      "file_id": 40501,
+      "law_name": "Eleccion Presidente Carlos Alejandro Robledo Zapata",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:34.323084"
+    },
+    {
+      "file_id": 40502,
+      "law_name": "Extracto de Acuerdo del Juicio de Proteccion a los Derechos Electorales Antonio Barrera",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:35.412519"
+    },
+    {
+      "file_id": 40504,
+      "law_name": "Manual que regula Remuneraciones",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:36.506032"
+    },
+    {
+      "file_id": 40509,
+      "law_name": "Modificaion al Manual que Regula el Art 21 en Materia de Remuneraciones",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:37.660195"
+    },
+    {
+      "file_id": 77644,
+      "law_name": "Reglamento del Area de Ejecuciones Poder Judicial",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:38.765565"
+    },
+    {
+      "file_id": 42248,
+      "law_name": "Acuerdo CEGAIP-121/2010. Solicitudes de Acceso a la Información Pública y Protección de Datos Personales presentados ante los entes obligados en el Estado de San Luis Potosí, deben de realizarse por escrito, de forma pacífica y respetuosa",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:39.949633"
+    },
+    {
+      "file_id": 40433,
+      "law_name": "Amonestacion Defensa Permanente Derechos Sociales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:41.056568"
+    },
+    {
+      "file_id": 40444,
+      "law_name": "Amonestación Publica Partido Acción Nacional",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:42.270410"
+    },
+    {
+      "file_id": 40445,
+      "law_name": "Amonestaciones Publicas diversas Partidos y Agrupaciones Politicas Estatales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:43.379378"
+    },
+    {
+      "file_id": 40447,
+      "law_name": "Amonestaciones Publicas Potosinos en Lucha y Encuentros por San Luis",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:44.495821"
+    },
+    {
+      "file_id": 40427,
+      "law_name": "Convenio de  Coordinación y Colaboración de Materia Fiscalizacion, Investigacion Asesoramiento e Intercambio Auditoria Superior de los  Estados de  Zacatecas y  San Luis Potosí",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:45.653213"
+    },
+    {
+      "file_id": 40277,
+      "law_name": "Convenio de Reconocimiento de Límites Geográficos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:46.750566"
+    },
+    {
+      "file_id": 40457,
+      "law_name": "Demarcacion 15 Distritos Electorales Uninominales Eleccion Diputados LX Legislatura",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:47.847907"
+    },
+    {
+      "file_id": 40429,
+      "law_name": "Desglose Recursos Asignados Auditoria Superior del Estado Reglas de Operación Programa para la Fiscalización del Gasto Federalizado (PROFIS) 2011",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:48.982366"
+    },
+    {
+      "file_id": 40283,
+      "law_name": "Designación Federico Javier Peña Perez Presidente TCAE",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:50.103872"
+    },
+    {
+      "file_id": 40458,
+      "law_name": "Lineamientos para la Inclusión miembros en comunidades indigenas en propuestas electorales y  Ayuntamientos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:51.239917"
+    },
+    {
+      "file_id": 40460,
+      "law_name": "Reglamento de Comisiones",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:52.430408"
+    },
+    {
+      "file_id": 40461,
+      "law_name": "Reglamento de Sesiones Organismos Electorales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:53.551898"
+    },
+    {
+      "file_id": 40462,
+      "law_name": "Reglamento que establece el Procedimiento para la Liquidación y Destino de los Bienes y Remanentes",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T16:51:54.681105"
+    }
+  ]
+}

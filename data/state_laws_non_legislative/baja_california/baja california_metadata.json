@@ -1,0 +1,480 @@
+{
+  "state_id": 2,
+  "state_name": "Baja California",
+  "power_ids_queried": [
+    1,
+    3,
+    4
+  ],
+  "total_found": 66,
+  "successful": 1,
+  "failed": 65,
+  "laws": [
+    {
+      "file_id": 75190,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=75190&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/BAJA CALIFORNIA/o1575190.doc&nombreclave=o1575190.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/baja_california/mediante_el_cual_se_aprueba_logotipo_correspondiente_a_la_paramunicipal_instituto_municipal_del_depo_75190.doc",
+      "law_name": "mediante el cual se aprueba logotipo, correspondiente a la Paramunicipal Instituto Municipal del Deporte de Tecate, (IMDETE), para ser utilizado como imagen del Instituto en mención"
+    }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 85585,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba Presupuesto de  Ingresos y Egresos del Ejercicio fiscal 2016 del Organismo Paramunicipal denominado Instituto Municipal de la Mujer (IMMUJER)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:47.999241"
+    },
+    {
+      "file_id": 85584,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba, la Designación de los Delegados Municipales de las diferentes comunidades del Valle de Mexicali, Baja California",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:49.109199"
+    },
+    {
+      "file_id": 85589,
+      "law_name": "ACUERDO mediante el cual se establece la Metodología para la elaboración de las Monografías a que se refiere el Artículo 24 Fracción III, de la Ley del Notariado para el Estado de Baja California SECRETARÍA GENERAL DE GOBIERNO",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:50.220720"
+    },
+    {
+      "file_id": 85564,
+      "law_name": "ACUERDO por el que se reforma la Norma para armonizar la presentación de la información  adicional del Proyecto del Presupuesto de Egresos, aprobado por el Consejo Nacional de Armonización Contable (CONAC) y publicado en el Diario Oficial de la Federación el 23 de diciembre de 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:51.330921"
+    },
+    {
+      "file_id": 85563,
+      "law_name": "ACUERDO por el que se reforma la Norma para establecer el formato de difusión de los resultados de las evaluaciones de los recursos federales ministrados a las entidades federativas, aprobado por el Consejo Nacional de Armonización Contable (CONAC) y publicado en el Diario Oficial de la Federación el 23 de diciembre de 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:52.440617"
+    },
+    {
+      "file_id": 85562,
+      "law_name": "ACUERDO por el que se reforma y adiciona el Manual de Contabilidad Gubernamental, aprobado por el Consejo Nacional de Armonización Contable (CONAC) y publicado en el Diario Oficial de la Federación el 23 de diciembre de 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:53.539514"
+    },
+    {
+      "file_id": 85418,
+      "law_name": "BOLETÍN No. 186 referente a los Relativos de Precios de Insumos para la Construcción al mes de noviembre de 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:54.653180"
+    },
+    {
+      "file_id": 85416,
+      "law_name": "BOLETÍN No. 186 referente a los Relativos de Precios de Insumos para la Construcción al mes de noviembre de 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:55.716514"
+    },
+    {
+      "file_id": 85582,
+      "law_name": "CONVOCATORIA  para participar en el Premio de Baja California a la Calidad y Competitividad 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:56.816147"
+    },
+    {
+      "file_id": 85580,
+      "law_name": "CONVOCATORIA PÚBLICA REGIONAL No. 001 correspondiente a la Licitación  Número 32065001-001-16 referente a la contratación de Servicios de vigilancia para Gobierno del Estado de Baja California",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:57.926522"
+    },
+    {
+      "file_id": 85537,
+      "law_name": "CONVOCATORIA PÚBLICA REGIONAL No. 002 correspondiente a Licitación  Número OM-COBACH-002-16, referente a la Reproducción de Libros de Apoyo para el COBACH",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T04:59:59.040135"
+    },
+    {
+      "file_id": 85579,
+      "law_name": "CONVOCATORIA PÚBLICA REGIONAL No. 003 correspondiente a la Licitación  Número OM-CESPM-003-2016, referente al Servicio de Toma de Lecturas y Entrega de Facturas para la Comisión Estatal de Servicios Públicos de Mexicali",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:00.153461"
+    },
+    {
+      "file_id": 85530,
+      "law_name": "CONVOCATORIA PÚBLICA REGIONAL No. 003 correspondiente a Licitación  Número 32065001-003-16, referente al Suministro de Insumos para Centros de Abastecimiento para la Subsecretaría del Sistema Estatal Penitenciario",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:01.306525"
+    },
+    {
+      "file_id": 85315,
+      "law_name": "CONVOCATORIA PÚBLICA REGIONAL No. 028 referente a la Licitación Número 32065001-028-2019, relativo al Suministro de Equipo Informático para la Secretaría de la Contraloría y Transparencia Gubernamental del Estado",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:02.425354"
+    },
+    {
+      "file_id": 85581,
+      "law_name": "CONVOCATORIA PÚBLICA REGIONAL No. OM CONSOL 001, correspondiente a la Licitación  Número OM-CONSOL-01-16 referente a la contratación de Servicios de vigilancia para Entidades Paraestatales del Estado de Baja Californ",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:03.533686"
+    },
+    {
+      "file_id": 85504,
+      "law_name": "DECRETO DEL EJECUTIVO DEL ESTADO mediante el cual se exenta del pago de derechos establecidos en la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal de 2016, que se generen los servicios que prestan la Secretaría General de Gobierno, a través del Archivo General de Notarías y de la Dirección del Registro Civil del Estado; la Dirección del Registro Público de la Propiedad y de Comercio y la Dirección de Ejecución de Penas y Medidas Judiciales de la Secretaría de Seguridad Pública del Estado a personas que patrocina la Defensoría Pública",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:04.672756"
+    },
+    {
+      "file_id": 85419,
+      "law_name": "EDICTO por el que se notifican instructivos de cuantificación y liquidación de cuotas de cooperación por obras de pavimentación a los contribuyentes que se indican, en el Municipio de Mexicali, Baja California (3ra. Publicación)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:05.784254"
+    },
+    {
+      "file_id": 85500,
+      "law_name": "EDICTO por el que se notifican instructivos de cuantificación y liquidación de cuotas de cooperación por obras de pavimentación a los contribuyentes que se indican, en el Municipio de Tijuana, Baja California (3ra. Publicación)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:06.886055"
+    },
+    {
+      "file_id": 85502,
+      "law_name": "PRESUPUESTO DE EGRESOS, correspondiente al ejercicio fiscal 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:10.134377"
+    },
+    {
+      "file_id": 85536,
+      "law_name": "REGLAMENTO DE LA LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:11.232834"
+    },
+    {
+      "file_id": 85529,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba Dictamen VIH-011/2015, relativo al Presupuesto de Egresos para el Ejercicio Fiscal 2016, del Instituto Municipal del Deporte de Playas de Rosarito (IMDER)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:12.360001"
+    },
+    {
+      "file_id": 85527,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba el Presupuesto de Egresos para el Ejercicio Fiscal 2016 de la Instituto Municipal de la Mujer de Tecate, Baja California",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:13.477093"
+    },
+    {
+      "file_id": 85525,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba el Presupuesto de Egresos para el Ejercicio Fiscal 2016 del Instituto Municipal de la Juventud de Tecate.(IMJUVET)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:14.647958"
+    },
+    {
+      "file_id": 85521,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba el Presupuesto de Egresos para el Ejercicio Fiscal 2016 del Instituto Municipal del Deporte de Tecate.(IMDETE)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:15.742783"
+    },
+    {
+      "file_id": 85519,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba el Presupuesto de Egresos para el Ejercicio Fiscal 2016 del Sistema para el Desarrollo Integral de la Familia. (DIF)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:16.839689"
+    },
+    {
+      "file_id": 85526,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba el Presupuesto de Egresos para el Ejercicio Fiscal 2016 del Sistema para el Instituto de Planeación del Desarrollo Municipal de Tecate",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:17.941018"
+    },
+    {
+      "file_id": 85516,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba el Reglamento de Protección al Ambiente para el Municipio de Tecate B.C",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:19.047250"
+    },
+    {
+      "file_id": 85560,
+      "law_name": "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA PAQUETE DE OBRA PUBLICA Y MODIFICACIONES DE OBRA 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:20.146561"
+    },
+    {
+      "file_id": 85576,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba Presupuesto de Egresos para el Ejercicio Fiscal 2016, correspondiente al Ayuntamiento de Tecate, Baja California",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:21.239709"
+    },
+    {
+      "file_id": 85561,
+      "law_name": "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA PRESUPUESTO DE INGRESOS Y EGRESOS DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL,PARA EL EJERCICIO FISCAL 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:22.364469"
+    },
+    {
+      "file_id": 85570,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba Presupuesto de Ingresos y Egresos para el ejercicio Fiscal 2016 del Organismo Paramunicipal denominado Desarrollo Social Municipal (DESOM)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:23.491298"
+    },
+    {
+      "file_id": 85583,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se aprueba, suscribir Convenio de Intercambio y Colaboración Turística a elebrar con el Ayuntamiento del Municipio de Ensenada y el Ayuntamiento de Mexicali, Baja California",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:24.629975"
+    },
+    {
+      "file_id": 85573,
+      "law_name": "ACUERDO DE CABILDO mediante el cual se autoriza a la Oficialía Mayor para celebrar todos los actos jurídicos correspondientes, a fin que pueda ser formalizada la enajenación a Título Onoroso de los Predios identificados con claves catastrales PH-053-054, IN-234-083 y CI-029-167",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:25.767158"
+    },
+    {
+      "file_id": 85565,
+      "law_name": "ACUERDO DE CABILDO, mediante el cual se aprueba condonar adeudo hasta por un monto de $13,454,488.20 (trece millones cuatrocientos cincuenta y cuatro mil cuatrocientos ochenta y ocho pesos 20/100 M.N), por concepto de adeudos de consumo de energía eléctrica derivados de convenio de colaboración entre las entidades Paramunicipales del Municipio de Mexicali, Baja California y Éste, correspondientes al ejercicio fiscal 2014",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:26.922404"
+    },
+    {
+      "file_id": 85566,
+      "law_name": "ACUERDO DE CABILDO, mediante el cual se aprueba condonar hasta el 100% de los recargos y demás accesorios generados por el incumplimiento del pago oportuno de las cuotas de cooperación derivadas de las Obras de Urbanización realizadas por el propio Consejo de Urbanización",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:28.058138"
+    },
+    {
+      "file_id": 85571,
+      "law_name": "ACUERDO DE CABILDO, mediante el cual se aprueba Dictamen VIH-011/2015, relativo al Presupuesto de Egresos para el Ejercicio Fiscal 2016 del Instituto Municipal de la Juventud de Rosarito (IMJUVER), cuyo documento también se anexa",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:29.185566"
+    },
+    {
+      "file_id": 85568,
+      "law_name": "ACUERDO DE CABILDO, mediante el cual se aprueba la desincorporación del régimen de bienes del dominio público y la incorporación al régimen de bienes del dominio propio del municipio de Mexicali, de la superficie de 27.92 metros cuadrados ganados a la vía pública denominada Avenida República de Chile, identificada como terreno excedente al Sur del Lote 18, manzana 25 de la Colonia Alamitos de esta ciudad; así mismo se autorice su enajenación a título oneroso a favor de GRACIELA SALDAÑA HERNANDEZ",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:30.361555"
+    },
+    {
+      "file_id": 85569,
+      "law_name": "ACUERDO DE CABILDO, mediante el cual se aprueba Licencia para separarse de las funciones propias del cargo al Regidor Job Montoya Gaxiola por tiempo indefinido a partir del día primero del mes de Enero de 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:31.456092"
+    },
+    {
+      "file_id": 85567,
+      "law_name": "ACUERDO DE CABILDO, mediante el cual se aprueba, la desincorporación del régimen de bienes del dominio público y la incorporación al régimen de dominio propio del municipio de Mexicali, de la superficie de 40.748 metros cuadrados ganados a la vía pública, identificada como terreno excedente por Avenida Artículo 123, manzana 479 de la Colonia Constitución de esta ciudad; así mismo se autorice su enajenación a título oneroso a favor de ARNOLDO GUTIERREZ SALCIDO",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:32.614646"
+    },
+    {
+      "file_id": 85532,
+      "law_name": "ACUERDO emitido por el Presidente Municipal del Ayuntamiento de Tijuana, Baja California, mediante el cual se autoriza a la empresa VISION DESARROLLOS INMOBILIARIOS, S.A. DE C.V., llevar a cabo la acción de urbanización bajo la modalidad de Fraccionamiento de los Predios descritos en el Considerando Séptimo del presente Acuerdo, mismo que se denominará Desarrollo Urbano REAL LAS MARAVILLAS, con la clasificación de Fraccionamiento Habitacional Multifamiliar para la Construcción de Vivienda de Interés Social",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:33.762190"
+    },
+    {
+      "file_id": 85587,
+      "law_name": "AVISO DE LOS ACCIONISTAS URBI, DESARROLLOS URBANOS S.A. DE C.V.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:34.864529"
+    },
+    {
+      "file_id": 85513,
+      "law_name": "CATÁLOGO GENERAL DE PUESTOS",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:35.991028"
+    },
+    {
+      "file_id": 85533,
+      "law_name": "CONVOCATORIA DE REMATE Y LISTADO de 101 Vehículos, que se encuentran depositados en los predios de la empresa GRÚAS OLMOS CO, S. DE R.L. DE C.V",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:37.105318"
+    },
+    {
+      "file_id": 85534,
+      "law_name": "CONVOCATORIA DE REMATE Y LISTADO de 102 Vehículos, que se encuentran depositados en los predios de la empresa GRÚAS HERMANOS CASTRO, S.A. DE C.V",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:38.214767"
+    },
+    {
+      "file_id": 85586,
+      "law_name": "CONVOCATORIA DE REMATE Y LISTADO de 58 Vehículos que se encuentran depositados en los predios de la empresa GRÚAS CAJEME",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:39.323210"
+    },
+    {
+      "file_id": 85535,
+      "law_name": "CONVOCATORIA DE REMATE Y LISTADO de 95 Vehículos, que se encuentran depositados en los predios de la empresa GRÚAS Y ARRASTRES DE TIJUANA, S.A. DE C.V",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:40.430317"
+    },
+    {
+      "file_id": 85588,
+      "law_name": "DECRETO No 433 mediante el cual se declara que el Código Nacional de Procedimientos Penales entrará en vigor en el municipio de Ensenada, Baja California, a partir del 11 de marzo de 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:41.578529"
+    },
+    {
+      "file_id": 85578,
+      "law_name": "EDICTO promovido por el C. Adolfo Gaxiola Maclish, en contra de BOO KIM, TAMBIÉN CONOCIDO COMO MICHAEL KIM, Y OTRO en el expediente número 76/2014 (1ra. Publicación)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:42.687810"
+    },
+    {
+      "file_id": 85509,
+      "law_name": "PRESUPUESTO DE EGRESOS DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO, PARA EL EJERCICIO FISCAL 2015",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:43.787417"
+    },
+    {
+      "file_id": 85510,
+      "law_name": "PRESUPUESTO DE EGRESOS para el ejercicio fiscal 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:44.890700"
+    },
+    {
+      "file_id": 85549,
+      "law_name": "PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:45.992467"
+    },
+    {
+      "file_id": 85528,
+      "law_name": "PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:47.054366"
+    },
+    {
+      "file_id": 85511,
+      "law_name": "PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:48.123309"
+    },
+    {
+      "file_id": 85507,
+      "law_name": "PRESUPUESTO DE EGRESOS para el ejercicio fiscal 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:49.188476"
+    },
+    {
+      "file_id": 85505,
+      "law_name": "PRESUPUESTO DE EGRESOS para el ejercicio fiscal 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:50.252278"
+    },
+    {
+      "file_id": 85552,
+      "law_name": "PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2016 COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE BAJA CALIFORNIA",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:51.349609"
+    },
+    {
+      "file_id": 85551,
+      "law_name": "PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2016 COMISION ESTATAL DE ENERGIA DE BAJA CALIFORNIA",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:52.452246"
+    },
+    {
+      "file_id": 85550,
+      "law_name": "PRESUPUESTO DE EGRESOS PARA EL EJERCICIO FISCAL 2016 ISSSTECALI",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:53.559819"
+    },
+    {
+      "file_id": 85553,
+      "law_name": "PRESUPUESTO DE INGRESOS Y EGRESOS PARA EL EJERCICIO FISCAL 2016 FIDEICOMISO PUBLICO DE ADMINISTRACION DE FONDOS DE INVERSION DEL TRAMO CARRETERO CENTINELA-RUMOROSA(FIARUM)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:54.657789"
+    },
+    {
+      "file_id": 85555,
+      "law_name": "PRESUPUESTO DE INGRESOS Y EGRESOS PARA EL EJERCICIO FISCAL 2016 PATRONATO DE LIBERADOS DE TIJUANA",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:55.755345"
+    },
+    {
+      "file_id": 85556,
+      "law_name": "PRESUPUESTO DE INGRESOS Y EGRESOS PARA EL EJERCICIO FISCAL 2016 PATRONATO PARA LIBERADOS DE ENSENADA",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:56.853224"
+    },
+    {
+      "file_id": 85554,
+      "law_name": "PRESUPUESTO DE INGRESOS Y EGRESOS PARA EL EJERCICIO FISCAL 2016 PATRONATO PARA LIBERADOS DE MEXICALI",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:57.941555"
+    },
+    {
+      "file_id": 85531,
+      "law_name": "PRESUPUESTO DE INGRESOS Y EGRESOS, correspondiente al ejercicio fiscal 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:00:59.046350"
+    },
+    {
+      "file_id": 85503,
+      "law_name": "REQUERIMIENTO Y LISTADO de 150 Vehículos, que se encuentran depositados en los predios de la empresa GRÚAS MARTÍNEZ, S.A. DE DE C.V. (3ra. Publicación)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:00.156634"
+    },
+    {
+      "file_id": 85515,
+      "law_name": "TABULADOR DE REMUNERACIONES 2016",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T05:01:01.318798"
+    }
+  ]
+}

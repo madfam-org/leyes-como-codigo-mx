@@ -1,0 +1,2851 @@
+{
+  "state_id": 27,
+  "state_name": "Tabasco",
+  "power_ids_queried": [
+    1,
+    3,
+    4
+  ],
+  "total_found": 333,
+  "successful": 252,
+  "failed": 81,
+  "laws": [
+    {
+      "file_id": 22231,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22231&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522231.doc&nombreclave=o1522231.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_colaboración_en_materia_de_estímulos_fiscales_22231.doc",
+      "law_name": "Acuerdo de Colaboración en Materia de Estímulos Fiscales"
+    },
+    {
+      "file_id": 22234,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22234&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522234.doc&nombreclave=o1522234.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_colaboración_entre_gobierno_del_estado_y_el_infonavit_22234.doc",
+      "law_name": "Acuerdo de Colaboración Entre Gobierno del Estado y el Infonavit"
+    },
+    {
+      "file_id": 22337,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22337&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522337.doc&nombreclave=o1522337.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_colaboración_para_el_plan_hídrico_integral_de_tabasco_22337.doc",
+      "law_name": "Acuerdo de Colaboración para el Plan Hídrico Integral de Tabasco"
+    },
+    {
+      "file_id": 22340,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22340&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522340.doc&nombreclave=o1522340.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_colaboración_para_la_ejecución_de_la_alianza_por_la_calidad_de_la_educación_22340.doc",
+      "law_name": "Acuerdo de Colaboración para la Ejecución de la Alianza por la Calidad de la Educación"
+    },
+    {
+      "file_id": 22240,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22240&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522240.doc&nombreclave=o1522240.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_colaboración_para_la_implementación_de_la_metodología_del_diagnostico_líneas_de_base_y_me_22240.doc",
+      "law_name": "Acuerdo de Colaboración Para la Implementación de la Metodología del Diagnostico, Líneas de Base y Medición Periódicas en el Estado de Tabasco"
+    },
+    {
+      "file_id": 22339,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22339&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522339.doc&nombreclave=o1522339.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_colaboración_que_celebran_por_una_parte_el_poder_ejecutivo_y_por_la_otra_parte_samaritans_22339.doc",
+      "law_name": "Acuerdo de Colaboración que Celebran Por una parte el Poder Ejecutivo y por la otra parte Samaritans Purse"
+    },
+    {
+      "file_id": 22184,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22184&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522184.doc&nombreclave=o1522184.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_coordinación_para_la_ejecución_del_programa_de_estructura_básica_para_la_atención_de_los__22184.doc",
+      "law_name": "Acuerdo de Coordinación para la Ejecución del Programa de Estructura Básica para la Atención de los Pueblos Indígenas, Modalidad de Ejecución de Proyectos de Importancia Estratégica Durante el Ejercicio Fiscal 2007"
+    },
+    {
+      "file_id": 22292,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22292&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522292.doc&nombreclave=o1522292.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_coordinación_para_la_ejecución_del_programa_de_infraestructura_básica_para_la_atención_de_22292.doc",
+      "law_name": "Acuerdo de Coordinación para la Ejecución del Programa de Infraestructura Básica para la Atención de los Pueblos Indígenas Modalidad de Proyectos Estratégicos, durante el Ejercicio Fiscal 2008"
+    },
+    {
+      "file_id": 22178,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22178&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522178.doc&nombreclave=o1522178.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_coordinación_para_la_ejecución_del_programa_de_infraestructura_básica_para_la_atención_de_22178.doc",
+      "law_name": "Acuerdo de Coordinación para la Ejecución del Programa de Infraestructura Básica para la Atención de los Pueblos Indígenas, modalidad de Atención a las Regiones Indígenas Durante el Ejercicio Fiscal 2007"
+    },
+    {
+      "file_id": 22290,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22290&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522290.doc&nombreclave=o1522290.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_coordinación_para_la_ejecución_del_programa_de_infraestructura_básica_para_la_atención_de_22290.doc",
+      "law_name": "Acuerdo de Coordinación para la Ejecución del Programa de Infraestructura Básica para la Atención de los Pueblos Indígenas, Modalidad de Atención a las Regiones Indígenas, durante el Ejercicio Fiscal de 2008"
+    },
+    {
+      "file_id": 22256,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22256&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522256.doc&nombreclave=o1522256.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_coordinación_para_la_transferencia_de_obra_22256.doc",
+      "law_name": "Acuerdo de Coordinación para la Transferencia de Obra"
+    },
+    {
+      "file_id": 22341,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22341&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522341.doc&nombreclave=o1522341.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_de_coordinación_para_la_transferencia_de_recursos_que_se_destinarán_a_la_ejecución_de_la_obr_22341.doc",
+      "law_name": "Acuerdo de Coordinación para la Transferencia de Recursos que se Destinarán a la Ejecución de la Obra Denominada Centro de Justicia de la Ranchería Moctezuma 1ra Sección del Municipio de Paraíso, Tabasco"
+    },
+    {
+      "file_id": 22239,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22239&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522239.doc&nombreclave=o1522239.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_especifico_de_colaboración_académica_científica_y_cultural_que_celebran_por_una_parte_la_uni_22239.doc",
+      "law_name": "Acuerdo Especifico de Colaboración Académica, Científica y Cultural, que Celebran por Una parte la Universidad Autónoma de Guadalajara Campus Tabasco y la Procuraduría General de Justicia del Estado de Tabasco"
+    },
+    {
+      "file_id": 22237,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22237&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522237.doc&nombreclave=o1522237.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_especifico_de_colaboración_sobre_la_disposición_con_fines_docentes_y_de_investigación_bioméd_22237.doc",
+      "law_name": "Acuerdo Especifico de Colaboración Sobre la Disposición con Fines Docentes y de Investigación Biomédica de Cadáveres de Personas Desconocidas que Celebran por Una parte la Universidad Autónoma de Guadalajara y la Procuraduría de Justicia del Estado de Tabasco"
+    },
+    {
+      "file_id": 22285,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22285&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522285.doc&nombreclave=o1522285.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_general_de_coordinación_que_celebran_por_una_parte_la_comisión_nacional_para_el_conocimiento_22285.doc",
+      "law_name": "Acuerdo General de Coordinación que Celebran por Una parte la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad Conjuntamente con Nacional Financiera"
+    },
+    {
+      "file_id": 22232,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22232&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522232.doc&nombreclave=o1522232.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_marco_para_una_relación_institucional_y_productiva_tabasco-petróleos_mexicanos_22232.doc",
+      "law_name": "Acuerdo Marco para una Relación Institucional y Productiva Tabasco-Petróleos Mexicanos"
+    },
+    {
+      "file_id": 22287,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22287&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522287.doc&nombreclave=o1522287.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_para_la_modernización_del_transporte_público_urbano_de_villahermosa_22287.doc",
+      "law_name": "Acuerdo para la Modernización del Transporte Público Urbano de Villahermosa"
+    },
+    {
+      "file_id": 22347,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22347&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1522347.doc&nombreclave=o1522347.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/acuerdo_se_reforman_los_artículos_3_y_4_del_acuerdo_de_creación_de_la_universidad_tecnológica_del_us_22347.doc",
+      "law_name": "Acuerdo Se reforman los artículos 3 y 4 del Acuerdo de creación de la Universidad Tecnológica del Usumacinta"
+    },
+    {
+      "file_id": 22251,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22251&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422251.doc&nombreclave=o1422251.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_colaboración_acuerdo_por_tabasco_22251.doc",
+      "law_name": "Convenio de Colaboración Acuerdo por Tabasco"
+    },
+    {
+      "file_id": 22343,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22343&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422343.doc&nombreclave=o1422343.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_colaboración_para_desarrollar_acciones_de_investigación_capacitación_y_promoción_en_dere_22343.doc",
+      "law_name": "Convenio de Colaboración para Desarrollar Acciones de Investigación, Capacitación y Promoción en Derechos Humanos"
+    },
+    {
+      "file_id": 22174,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22174&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422174.doc&nombreclave=o1422174.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_colaboración_para_otorgar_servicios_notariales_22174.doc",
+      "law_name": "Convenio de Colaboración para Otorgar Servicios Notariales"
+    },
+    {
+      "file_id": 22344,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22344&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422344.doc&nombreclave=o1422344.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_colaboración_que_celebran_por_una_parte_la_comisión_nacional_de_vivienda_22344.doc",
+      "law_name": "Convenio de Colaboración que Celebran por una Parte la Comisión Nacional de Vivienda"
+    },
+    {
+      "file_id": 22338,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22338&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422338.doc&nombreclave=o1422338.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_colaboración_que_celebran_por_una_parte_la_consejería_jurídica_del_poder_ejecutivo_y_el__22338.doc",
+      "law_name": "Convenio de Colaboración que Celebran por una Parte la Consejería Jurídica del Poder Ejecutivo, y el Colegio Internacional de Ciencias Periciales"
+    },
+    {
+      "file_id": 22345,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22345&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422345.doc&nombreclave=o1422345.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_colaboración_que_celebran_por_una_parte_el_poder_ejecutivo_de_tabasco_y_el_instituto_ele_22345.doc",
+      "law_name": "Convenio de Colaboración, que Celebran por una Parte el Poder Ejecutivo de Tabasco, y el Instituto Electoral y de Participación Ciudadana de Tabasco"
+    },
+    {
+      "file_id": 22235,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22235&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422235.doc&nombreclave=o1422235.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_de_coordinación_específico_para_realizar_durante_el_año_2007_obras_de_electrificación_rural_22235.doc",
+      "law_name": "Convenio de Coordinación Específico para Realizar Durante el Año 2007 Obras de Electrificación Rural en Diversos Municipios del Estado de Tabasco"
+    },
+    {
+      "file_id": 22281,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22281&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422281.doc&nombreclave=o1422281.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_específico_de_colaboración_relativo_al_programa_por_un_méxico_sin_rezago_educativo_22281.doc",
+      "law_name": "Convenio Específico de Colaboración Relativo al Programa por un México sin Rezago Educativo"
+    },
+    {
+      "file_id": 22236,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22236&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422236.doc&nombreclave=o1422236.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_general_de_colaboración_que_celebran_por_una_parte_la_universidad_olmeca_y_por_otra_parte_l_22236.doc",
+      "law_name": "Convenio General de Colaboración que Celebran, por una Parte, la Universidad Olmeca y Por Otra parte la Consejería Jurídica del Estado de Tabasco"
+    },
+    {
+      "file_id": 22257,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22257&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422257.doc&nombreclave=o1422257.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_marco_de_colaboración_que_celebran_por_una_parte_fomento_social_banamex_22257.doc",
+      "law_name": "Convenio Marco de Colaboración que Celebran por una Parte Fomento Social Banamex"
+    },
+    {
+      "file_id": 22274,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22274&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422274.doc&nombreclave=o1422274.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_marco_de_colaboración_que_celebran_por_una_parte_fomento_social_banamex_ac_22274.doc",
+      "law_name": "Convenio Marco de Colaboración que Celebran por una Parte Fomento Social Banamex A.C."
+    },
+    {
+      "file_id": 22238,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22238&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422238.doc&nombreclave=o1422238.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_marco_de_colaboración_que_celebran_por_una_parte_la_universidad_autónoma_de_guadalajara_y_l_22238.doc",
+      "law_name": "Convenio Marco de Colaboración, que Celebran por una Parte la Universidad Autónoma de Guadalajara y la Procuraduría General del Estado de Tabasco"
+    },
+    {
+      "file_id": 22172,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22172&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422172.doc&nombreclave=o1422172.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_único_de_desarrollo_municipal_para_trasformar_tabasco_22172.doc",
+      "law_name": "Convenio Único de Desarrollo Municipal para Trasformar Tabasco"
+    },
+    {
+      "file_id": 88003,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=88003&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1188003.doc&nombreclave=o1188003.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/decreto_por_el_que_se_instruyen_las_acciones_para_prevenir_detener_contener_controlar_retrasar_y_red_88003.doc",
+      "law_name": "DECRETO por el que se instruyen las acciones para prevenir, detener, contener, controlar, retrasar y reducir la propagación del COVID-19 en el estado de Tabasco"
+    },
+    {
+      "file_id": 17842,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17842&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617842.doc&nombreclave=o617842.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/estatuto_interno_de_la_comisión_estatal_de_conciliación_y_arbitraje_médico_de_tabasco_17842.doc",
+      "law_name": "Estatuto Interno de la Comisión Estatal de Conciliación y Arbitraje Médico de Tabasco"
+    },
+    {
+      "file_id": 18757,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18757&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o718757.doc&nombreclave=o718757.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/estatuto_orgánico_del_instituto_estatal_de_las_mujeres_18757.doc",
+      "law_name": "Estatuto Orgánico del Instituto Estatal de las Mujeres"
+    },
+    {
+      "file_id": 18170,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18170&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o3818170.doc&nombreclave=o3818170.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/instructivo_de_operación_de_la_central_de_abasto_de_villahermosa_18170.doc",
+      "law_name": "Instructivo de Operación de la Central de Abasto de Villahermosa"
+    },
+    {
+      "file_id": 77718,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77718&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477718.doc&nombreclave=o477718.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de__prestación_de_servicios_para_la_atención_cuidado_y_desarrollo_integral_infantil_en_el_estado_77718.doc",
+      "law_name": "LEY DE  PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77699,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77699&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477699.doc&nombreclave=o477699.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_asociaciones_público_privadas_del_estado_de_tabasco_y_sus_municipios_77699.doc",
+      "law_name": "LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 77701,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77701&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477701.doc&nombreclave=o477701.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_atención_apoyo_y_protección_a_víctimas_u_ofendidos_en_el_estado_de_tabasco_77701.doc",
+      "law_name": "LEY DE ATENCIÓN, APOYO Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS EN EL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 83099,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83099&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483099.doc&nombreclave=o483099.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_atención_apoyo_y_protección_a_víctimas_u_ofendidos_en_el_estado_de_tabasco_83099.doc",
+      "law_name": "LEY DE ATENCIÓN, APOYO Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS EN EL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 77715,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77715&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477715.doc&nombreclave=o477715.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_bienes_del_estado_de_tabasco_y_sus_municipios_77715.doc",
+      "law_name": "LEY DE BIENES DEL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 103743,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=103743&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o4103743.doc&nombreclave=o4103743.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_bienes_del_estado_de_tabasco_y_sus_municipios_103743.doc",
+      "law_name": "LEY DE BIENES DEL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 77695,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77695&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477695.doc&nombreclave=o477695.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_cooperacion_para_obras_públicas_municipales_77695.doc",
+      "law_name": "LEY DE COOPERACION PARA OBRAS PÚBLICAS MUNICIPALES"
+    },
+    {
+      "file_id": 77702,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77702&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477702.doc&nombreclave=o477702.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_coordinación_para_el_establecimiento_y_desarrollo_de_zonas_económicas_especiales_del_estado_d_77702.doc",
+      "law_name": "LEY DE COORDINACIÓN PARA EL ESTABLECIMIENTO Y DESARROLLO DE ZONAS ECONÓMICAS ESPECIALES DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83104,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83104&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483104.doc&nombreclave=o483104.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_coordinación_para_el_establecimiento_y_desarrollo_de_zonas_economicas_y_especiales_del_estado_83104.doc",
+      "law_name": "LEY DE COORDINACIÓN PARA EL ESTABLECIMIENTO Y DESARROLLO DE ZONAS ECONOMICAS Y ESPECIALES DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83127,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83127&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483127.doc&nombreclave=o483127.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_derechos_humanos_del_estado_de_tabasco_83127.doc",
+      "law_name": "LEY DE DERECHOS HUMANOS DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77704,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77704&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477704.doc&nombreclave=o477704.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_extinción_de_dominio_para_el_estado_de_tabasco_77704.doc",
+      "law_name": "LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77719,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77719&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477719.doc&nombreclave=o477719.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_fiscalización_superior_del_estado_de_tabasco_77719.doc",
+      "law_name": "Ley de Fiscalización Superior del Estado de Tabasco"
+    },
+    {
+      "file_id": 77721,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77721&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477721.doc&nombreclave=o477721.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_fiscalización_superior_del_estado_de_tabasco_77721.doc",
+      "law_name": "Ley de Fiscalización Superior del Estado de Tabasco"
+    },
+    {
+      "file_id": 77722,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77722&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477722.doc&nombreclave=o477722.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_fomento_a_la_lectura_y_el_libro_de_estado_del_tabasco_77722.doc",
+      "law_name": "LEY DE FOMENTO A LA LECTURA Y EL LIBRO DE ESTADO DEL TABASCO"
+    },
+    {
+      "file_id": 83098,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83098&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483098.doc&nombreclave=o483098.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_fomento_a_la_lectura_y_el_libro_de_estado_del_tabasco_83098.doc",
+      "law_name": "LEY DE FOMENTO A LA LECTURA Y EL LIBRO DE ESTADO DEL TABASCO"
+    },
+    {
+      "file_id": 83126,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83126&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483126.doc&nombreclave=o483126.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_gobierno_digital_y_firma_electrónica_para_el_estado_de_tabasco_y_sus_municipios_83126.doc",
+      "law_name": "LEY DE GOBIERNO DIGITAL Y FIRMA ELECTRÓNICA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 77735,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77735&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477735.doc&nombreclave=o477735.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2010_77735.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL 2010"
+    },
+    {
+      "file_id": 77686,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77686&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477686.doc&nombreclave=o477686.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2011_77686.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL 2011"
+    },
+    {
+      "file_id": 77736,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77736&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477736.doc&nombreclave=o477736.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2012_77736.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL 2012"
+    },
+    {
+      "file_id": 77689,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77689&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477689.doc&nombreclave=o477689.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2013_77689.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL 2013"
+    },
+    {
+      "file_id": 77691,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77691&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477691.doc&nombreclave=o477691.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2016_77691.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL 2016"
+    },
+    {
+      "file_id": 77684,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77684&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477684.doc&nombreclave=o477684.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2017_77684.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL 2017"
+    },
+    {
+      "file_id": 77693,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77693&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477693.doc&nombreclave=o477693.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_del_año_2007_77693.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL DEL AÑO 2007"
+    },
+    {
+      "file_id": 77734,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77734&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477734.doc&nombreclave=o477734.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_del_año_2008_77734.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL DEL AÑO 2008"
+    },
+    {
+      "file_id": 77697,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77697&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477697.doc&nombreclave=o477697.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_del_año_2009_77697.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO PARA EL EJERCICIO FISCAL DEL AÑO 2009"
+    },
+    {
+      "file_id": 77762,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77762&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477762.doc&nombreclave=o477762.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_ingresos_del_estado_de_tabasco_para_el_ejercicio_fiscal_2015_77762.doc",
+      "law_name": "LEY DE INGRESOS DEL ESTADO DE TABASCO, PARA EL EJERCICIO FISCAL 2015"
+    },
+    {
+      "file_id": 77737,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77737&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477737.doc&nombreclave=o477737.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_justicia_administrativa_del_estado_de_tabasco_77737.doc",
+      "law_name": "LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 51485,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=51485&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o451485.doc&nombreclave=o451485.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_justicia_para_adolescentes_del_estado_de_tabasco_51485.doc",
+      "law_name": "LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 76002,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=76002&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o476002.doc&nombreclave=o476002.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_la_juventud_para_el_estado_de_tabasco_76002.doc",
+      "law_name": "LEY DE LA JUVENTUD PARA EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83112,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83112&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483112.doc&nombreclave=o483112.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_los_derechos_de_niñas_niños_y_adolescentes_del_estado_de_tabasco_83112.doc",
+      "law_name": "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86517,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86517&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o486517.doc&nombreclave=o486517.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_mejora_regulatoria_para_el_estado_de_tabasco_y_sus_municipios_86517.doc",
+      "law_name": "LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 83105,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83105&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483105.doc&nombreclave=o483105.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_prestación_de_servicios_para_la_atención_cuidado_y_desarrollo_integral_infantil_en_el_estado__83105.doc",
+      "law_name": "LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77741,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77741&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477741.doc&nombreclave=o477741.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_presupuesto_y_responsabilidad_hacendaria_del_estado_de_tabasco_y_sus_municipios_77741.doc",
+      "law_name": "LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 49931,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=49931&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o449931.doc&nombreclave=o449931.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_protección_ambiental_del_estado_de_tabasco_49931.doc",
+      "law_name": "LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86516,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86516&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o486516.doc&nombreclave=o486516.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_protección_civil_del_estado_de_tabasco_86516.doc",
+      "law_name": "LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77720,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77720&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477720.doc&nombreclave=o477720.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_protección_de_datos_personales_en_posesión_de_sujetos_obligados_del_estado_de_tabasco_77720.doc",
+      "law_name": "LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 49936,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=49936&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o449936.doc&nombreclave=o449936.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_protección_y_fomento_del_patrimonio_cultural_para_el_estado_de_tabasco_49936.doc",
+      "law_name": "LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL PARA EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83110,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83110&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483110.doc&nombreclave=o483110.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_remuneraciones_de_los_servidores_públicos_del_estado_de_tabasco_y_sus_municipios_83110.doc",
+      "law_name": "LEY DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS."
+    },
+    {
+      "file_id": 86518,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86518&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o486518.doc&nombreclave=o486518.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_responsabilidad_administrativa_de_los_servidores_públicos_86518.doc",
+      "law_name": "LEY DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS"
+    },
+    {
+      "file_id": 77742,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77742&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477742.doc&nombreclave=o477742.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_seguridad_social_del_estado_de_tabasco_77742.doc",
+      "law_name": "LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77743,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77743&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477743.doc&nombreclave=o477743.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_transparencia_y_acceso_a_la_información_pública_del_estado_de_tabasco_77743.doc",
+      "law_name": "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77744,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77744&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477744.doc&nombreclave=o477744.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_de_transportes_para_el_estado_de_tabasco_77744.doc",
+      "law_name": "LEY DE TRANSPORTES PARA EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 49937,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=49937&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o449937.doc&nombreclave=o449937.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_del_instituto_de_la_defensoria_pública_del_estado_de_tabasco_49937.doc",
+      "law_name": "LEY DEL INSTITUTO DE LA DEFENSORIA PÚBLICA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83111,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83111&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483111.doc&nombreclave=o483111.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_del_libro_y_bibliotecas_públicas_del_estado_libe_y_soberano_83111.doc",
+      "law_name": "LEY DEL LIBRO Y BIBLIOTECAS PÚBLICAS DEL ESTADO LIBE Y SOBERANO"
+    },
+    {
+      "file_id": 77714,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77714&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477714.doc&nombreclave=o477714.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_del_sistema_anticorrupción_del_estado_de_tabasco_77714.doc",
+      "law_name": "LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77694,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77694&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477694.doc&nombreclave=o477694.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_del_sistema_de_seguridad_pública_del_estado_de_tabasco_77694.doc",
+      "law_name": "LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 103932,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=103932&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o4103932.doc&nombreclave=o4103932.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_del_sistema_de_seguridad_pública_del_estado_de_tabasco_103932.doc",
+      "law_name": "LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77698,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77698&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477698.doc&nombreclave=o477698.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_electoral_y_de_partidos_políticos_del_estado_de_tabasco_77698.doc",
+      "law_name": "LEY ELECTORAL Y DE PARTIDOS POLÍTICOS DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86519,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86519&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o486519.doc&nombreclave=o486519.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_en_materia_de_desaparición_forzada_de_personas_desaparición_cometida_por_particulares_y_del_sist_86519.doc",
+      "law_name": "LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 103933,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=103933&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o4103933.doc&nombreclave=o4103933.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_orgánica_de_la_fiscalía_general_del_estado_de_tabasco_103933.doc",
+      "law_name": "LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83131,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83131&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483131.doc&nombreclave=o483131.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_orgánica_del_poder_ejecutivo_del_estado_de_tabasco_83131.doc",
+      "law_name": "LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 84325,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84325&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o484325.doc&nombreclave=o484325.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_orgánica_del_poder_ejecutivo_del_estado_de_tabasco_84325.doc",
+      "law_name": "LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83113,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83113&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483113.doc&nombreclave=o483113.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_organica_del_poder_judicial_del_estado_de_tabasco_83113.doc",
+      "law_name": "LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 77706,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77706&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477706.doc&nombreclave=o477706.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_la_atencion_y_proteccion_a_personas_con_la_condicion_del_espectro_autista_del_estado_de_tab_77706.doc",
+      "law_name": "LEY PARA LA ATENCION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83101,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83101&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483101.doc&nombreclave=o483101.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_la_atencion_y_proteccion_a_personas_con_la_condicion_del_espectro_autista_del_estado_de_tab_83101.doc",
+      "law_name": "LEY PARA LA ATENCION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83128,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83128&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483128.doc&nombreclave=o483128.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_la_igualdad_entre_mujeres_y_hombres_del_estado_de_tabasco_83128.doc",
+      "law_name": "LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 49932,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=49932&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o449932.doc&nombreclave=o449932.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_la_prevención_y_gestión_integral_de_los_residuos_del_estado_de_tabasco_49932.doc",
+      "law_name": "LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83097,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83097&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483097.doc&nombreclave=o483097.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_la_protección_de_personas_que_intervienen_en_el_procedimiento_penal_en_el_estado_de_tabasco_83097.doc",
+      "law_name": "LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL, EN EL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 83109,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83109&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483109.doc&nombreclave=o483109.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_la_protección_y_cuidado_de_los_animales_en_el__estado_de_tabasco_83109.doc",
+      "law_name": "LEY PARA LA PROTECCIÓN Y CUIDADO DE LOS ANIMALES EN EL  ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77710,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77710&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477710.doc&nombreclave=o477710.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_prevenir_y_eliminar_la_discriminación_en_el_estado_de_tabasco_77710.doc",
+      "law_name": "LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83103,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83103&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o483103.doc&nombreclave=o483103.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_para_prevenir_y_eliminar_la_discriminación_en_el_estado_de_tabasco_83103.doc",
+      "law_name": "LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77716,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77716&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477716.doc&nombreclave=o477716.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_crea_el_colegio_de_educación_profesional_técnica_de_tabasco_77716.doc",
+      "law_name": "LEY QUE CREA EL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DE TABASCO"
+    },
+    {
+      "file_id": 77700,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77700&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477700.doc&nombreclave=o477700.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_crea_el_consejo_tabasqueño_de_recursos_para_la_atención_de_la_juventud_77700.doc",
+      "law_name": "LEY QUE CREA EL CONSEJO TABASQUEÑO DE RECURSOS PARA LA ATENCIÓN DE LA JUVENTUD."
+    },
+    {
+      "file_id": 77703,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77703&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477703.doc&nombreclave=o477703.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_crea_el_instituto_de_educacion_para_adultos_de_tabasco_77703.doc",
+      "law_name": "LEY QUE CREA EL INSTITUTO DE EDUCACION PARA ADULTOS DE TABASCO"
+    },
+    {
+      "file_id": 77705,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77705&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477705.doc&nombreclave=o477705.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_crea_el_instituto_tecnológico_superior_de_macuspana_77705.doc",
+      "law_name": "LEY QUE CREA EL INSTITUTO TECNOLÓGICO SUPERIOR DE MACUSPANA"
+    },
+    {
+      "file_id": 77725,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77725&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477725.doc&nombreclave=o477725.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_crea_instituto_tecnológico_superior_de_la_región_sierra_77725.doc",
+      "law_name": "LEY QUE CREA INSTITUTO TECNOLÓGICO SUPERIOR DE LA REGIÓN SIERRA"
+    },
+    {
+      "file_id": 77707,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77707&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477707.doc&nombreclave=o477707.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_crea_la_comisión_estatal_de_conciliación_y_arbitraje_médico_77707.doc",
+      "law_name": "LEY QUE CREA LA COMISIÓN ESTATAL DE CONCILIACIÓN Y ARBITRAJE MÉDICO"
+    },
+    {
+      "file_id": 77763,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77763&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477763.doc&nombreclave=o477763.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_establece_los_procedimientos_de_entrega_y_recepción_en_los_poderes_públicos_los_ayuntamiento_77763.doc",
+      "law_name": "LEY QUE ESTABLECE LOS PROCEDIMIENTOS DE ENTREGA Y RECEPCIÓN EN LOS PODERES PÚBLICOS, LOS AYUNTAMIENTOS Y LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 77712,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=77712&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o477712.doc&nombreclave=o477712.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_que_reconoce_la_danza_del_pocho_como_patrimonio_cultural_del_municipio_de_tenosique_y_del_estado_77712.doc",
+      "law_name": "LEY QUE RECONOCE LA DANZA DEL POCHO COMO PATRIMONIO CULTURAL DEL MUNICIPIO DE TENOSIQUE Y DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 49928,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=49928&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o449928.doc&nombreclave=o449928.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/ley_sobre_las_características_y_uso_del_escudo_del_estado_de_tabasco_49928.doc",
+      "law_name": "Ley Sobre las Características y Uso, del Escudo del Estado de Tabasco"
+    },
+    {
+      "file_id": 22346,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22346&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422346.doc&nombreclave=o1422346.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/primer_convenio_modificatorio_al_convenio_de_colaboración_que_celebran_por_una_parte_el_poder_ejecut_22346.doc",
+      "law_name": "Primer Convenio Modificatorio al Convenio de Colaboración, que Celebran por una parte, el poder Ejecutivo del Estado de Tabasco"
+    },
+    {
+      "file_id": 22121,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22121&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622121.doc&nombreclave=o622121.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamenrto_interior_de_la_secretaría_de_comunicaciones_y_transportes_22121.doc",
+      "law_name": "Reglamenrto Interior de la Secretaría de Comunicaciones y Transportes"
+    },
+    {
+      "file_id": 17748,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17748&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617748.doc&nombreclave=o617748.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_contra_el_ruido_17748.doc",
+      "law_name": "Reglamento Contra el Ruido"
+    },
+    {
+      "file_id": 22120,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22120&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622120.doc&nombreclave=o622120.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_atención_de_quejas_conciliación_y_arbitraje_médico_de_la_comisión_estatal_de_conciliac_22120.doc",
+      "law_name": "Reglamento de Atención de Quejas, Conciliación y Arbitraje Médico de la Comisión Estatal de Conciliación y Arbitraje Médico"
+    },
+    {
+      "file_id": 17802,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17802&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617802.doc&nombreclave=o617802.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_concurso_de_oposición_para_el_nombramiento_de_jueces_de_primera_instancia_secretario_y_17802.doc",
+      "law_name": "Reglamento de Concurso de Oposición para el Nombramiento de Jueces de Primera Instancia, Secretario y Actuarios Judiciales en el Estado de Tabasco"
+    },
+    {
+      "file_id": 17803,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17803&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617803.doc&nombreclave=o617803.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_escalafón_estatal_de_los_trabajadores_al_servicio_del_estado_de_tabasco_17803.doc",
+      "law_name": "Reglamento de Escalafón Estatal de los Trabajadores al Servicio del Estado de Tabasco"
+    },
+    {
+      "file_id": 83071,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83071&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683071.doc&nombreclave=o683071.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_academia_de_policía_del_estado_de_tabasco_83071.doc",
+      "law_name": "REGLAMENTO DE LA ACADEMIA DE POLICÍA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 18201,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18201&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618201.doc&nombreclave=o618201.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_bolsa_central_de_trabajo_del_estado_de_tabasco_18201.doc",
+      "law_name": "Reglamento de la Bolsa Central de Trabajo del Estado de Tabasco"
+    },
+    {
+      "file_id": 83069,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83069&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683069.doc&nombreclave=o683069.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_asociaciones_público_privadas_del_estado_de_tabasco_y_sus_municipios_83069.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS."
+    },
+    {
+      "file_id": 83086,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83086&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683086.doc&nombreclave=o683086.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_bienes_del_estado_de_tabasco_y_sus_municipios_83086.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE BIENES DEL ESTADO DE TABASCO Y SUS MUNICIPIOS."
+    },
+    {
+      "file_id": 17804,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17804&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617804.doc&nombreclave=o617804.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_catastro_del_estado_de_tabasco_17804.doc",
+      "law_name": "Reglamento de la Ley de Catastro del Estado de Tabasco"
+    },
+    {
+      "file_id": 86500,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86500&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686500.doc&nombreclave=o686500.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_desarrollo_rural_sustentable_del_estado_de_tabasco_en_materia_de_organismos__86500.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO EN MATERIA DE ORGANISMOS, INSTANCIAS DE REPRESENTACIÓN, SISTEMAS Y SERVICIOS ESPECIALIZADOS"
+    },
+    {
+      "file_id": 23715,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=23715&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o623715.doc&nombreclave=o623715.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_extinción_de_dominio_del_estado_de_tabasco_23715.doc",
+      "law_name": "Reglamento de la Ley de Extinción de Dominio del Estado de Tabasco."
+    },
+    {
+      "file_id": 17805,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17805&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617805.doc&nombreclave=o617805.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_fomento_económico_del_estado_17805.doc",
+      "law_name": "Reglamento de la Ley de Fomento Económico del Estado"
+    },
+    {
+      "file_id": 18522,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18522&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618522.doc&nombreclave=o618522.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_ganadería_del_estado_de_tabasco_18522.doc",
+      "law_name": "Reglamento de la Ley de Ganadería del Estado de Tabasco"
+    },
+    {
+      "file_id": 86481,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86481&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686481.doc&nombreclave=o686481.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_gobierno_digital_y_firma_electrónica_para_el_estado_de_tabasco_y_sus_municip_86481.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE GOBIERNO DIGITAL Y FIRMA ELECTRÓNICA PARA EL ESTADO DE TABASCO Y SUS MUNICIPIOS"
+    },
+    {
+      "file_id": 18205,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18205&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618205.doc&nombreclave=o618205.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_la_campaña_contra_las_enfermedades_y_plagas_del_plátano_18205.doc",
+      "law_name": "Reglamento de la Ley de la Campaña Contra las Enfermedades y Plagas del Plátano"
+    },
+    {
+      "file_id": 18208,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18208&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618208.doc&nombreclave=o618208.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_obras_públicas_y_servicios_relacionados_con_las_mismas_del_estado_de_tabasco_18208.doc",
+      "law_name": "Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Tabasco"
+    },
+    {
+      "file_id": 24864,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=24864&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o624864.doc&nombreclave=o624864.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_operaciones_inmobiliarias_del_estado_de_tabasco_24864.doc",
+      "law_name": "REGLAMENTO DE LA LEY DE OPERACIONES INMOBILIARIAS DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 18209,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18209&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618209.doc&nombreclave=o618209.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_ordenamiento_sustentable_del_territorio_del_estado_de_tabasco_18209.doc",
+      "law_name": "Reglamento de la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco"
+    },
+    {
+      "file_id": 17808,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17808&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617808.doc&nombreclave=o617808.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_protección_ambiental_del_estado_de_tabasco_en_materia_de_prevención_y_contro_17808.doc",
+      "law_name": "Reglamento de la Ley de Protección Ambiental del Estado de Tabasco en Materia de Prevención y Control de la Contaminación de la Atmósfera"
+    },
+    {
+      "file_id": 17809,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17809&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617809.doc&nombreclave=o617809.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_protección_civil_del_estado_de_tabasco_17809.doc",
+      "law_name": "Reglamento de la Ley de Protección Civil del Estado de Tabasco"
+    },
+    {
+      "file_id": 19052,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19052&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619052.doc&nombreclave=o619052.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_proyectos_para_la_prestación_de_servicios_del_estado_19052.doc",
+      "law_name": "Reglamento de la Ley de Proyectos para la Prestación de Servicios del Estado"
+    },
+    {
+      "file_id": 18168,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18168&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618168.doc&nombreclave=o618168.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_de_transporte_para_el_estado_de_tabasco_18168.doc",
+      "law_name": "Reglamento de la Ley de Transporte para el Estado de Tabasco"
+    },
+    {
+      "file_id": 17810,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17810&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617810.doc&nombreclave=o617810.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_del_notariado_para_el_estado_de_tabasco_17810.doc",
+      "law_name": "Reglamento de la Ley del Notariado para el Estado de Tabasco"
+    },
+    {
+      "file_id": 17824,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17824&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617824.doc&nombreclave=o617824.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_estatal_de_presupuesto_contabilidad_y_gasto_público_17824.doc",
+      "law_name": "Reglamento de la Ley Estatal de Presupuesto Contabilidad y Gasto Público"
+    },
+    {
+      "file_id": 18616,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18616&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618616.doc&nombreclave=o618616.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_general_de_tránsito_y_vialidad_del_estado_de_tabasco_18616.doc",
+      "law_name": "Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco"
+    },
+    {
+      "file_id": 83087,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83087&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683087.doc&nombreclave=o683087.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_para_la_administración_y_destino_de_bienes_asegurados_abandonados_o_decomisados_83087.doc",
+      "law_name": "REGLAMENTO DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS DEL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 17811,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17811&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617811.doc&nombreclave=o617811.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_para_la_prevención_y_combate_de_incendios_agropecuarios_del_estado_de_tabasco_17811.doc",
+      "law_name": "Reglamento de la Ley para la Prevención y Combate de Incendios Agropecuarios del Estado de Tabasco"
+    },
+    {
+      "file_id": 18524,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18524&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618524.doc&nombreclave=o618524.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_que_garantiza_la_entrega_de_útiles_escolares_en_el_estado_de_tabasco_18524.doc",
+      "law_name": "Reglamento de la Ley que Garantiza la Entrega de Útiles Escolares en el Estado de Tabasco"
+    },
+    {
+      "file_id": 17812,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17812&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617812.doc&nombreclave=o617812.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_ley_que_regula_la_venta_distribución_y_consumo_de_bebidas_alcohólicas_en_el_estado__17812.doc",
+      "law_name": "Reglamento de la Ley que Regula la Venta, Distribución, y Consumo de Bebidas Alcohólicas en el Estado de Tabasco"
+    },
+    {
+      "file_id": 17821,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17821&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617821.doc&nombreclave=o617821.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_la_procuraduría_de_la_defensa_del_trabajo_del_estado_de_tabasco_17821.doc",
+      "law_name": "Reglamento de la Procuraduría de la Defensa del Trabajo del Estado de Tabasco"
+    },
+    {
+      "file_id": 18171,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18171&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618171.doc&nombreclave=o618171.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_seguridad_e_higiene_en_el_trabajo_del_poder_ejecutivo_del_estado_18171.doc",
+      "law_name": "Reglamento de Seguridad e Higiene en el Trabajo del Poder Ejecutivo del Estado"
+    },
+    {
+      "file_id": 86460,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86460&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686460.doc&nombreclave=o686460.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_sesiones_de_la_comisión_ejecutiva_de_la_secretaría_ejecutiva_del_sistema_estatal_antic_86460.doc",
+      "law_name": "REGLAMENTO DE SESIONES DE LA COMISIÓN EJECUTIVA DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN"
+    },
+    {
+      "file_id": 86461,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86461&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686461.doc&nombreclave=o686461.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_sesiones_del_comité_coordinador_del_sistema_estatal_anticorrupcion_86461.doc",
+      "law_name": "REGLAMENTO DE SESIONES DEL COMITÉ COORDINADOR DEL SISTEMA ESTATAL ANTICORRUPCION"
+    },
+    {
+      "file_id": 17826,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17826&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617826.doc&nombreclave=o617826.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_centro_de_readaptación_social_del_estado_17826.doc",
+      "law_name": "Reglamento del Centro de Readaptación Social del Estado"
+    },
+    {
+      "file_id": 17827,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17827&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617827.doc&nombreclave=o617827.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_comité_de_compilación_sistematización_y_publicación_de_criterios_aislados_y_criterios_17827.doc",
+      "law_name": "Reglamento del Comité de Compilación, Sistematización y Publicación de Criterios Aislados y Criterios Jurisprudenciales Locales"
+    },
+    {
+      "file_id": 18255,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18255&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618255.doc&nombreclave=o618255.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_comité_de_compras_del_poder_ejecutivo_18255.doc",
+      "law_name": "Reglamento del Comité de Compras del Poder Ejecutivo"
+    },
+    {
+      "file_id": 83066,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83066&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683066.doc&nombreclave=o683066.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_comité_de_feria_municipal_y_estatal_2014_del_municipio_de_jonuta_tabasco_83066.doc",
+      "law_name": "REGLAMENTO DEL COMITÉ DE FERIA MUNICIPAL Y ESTATAL 2014 DEL MUNICIPIO DE JONUTA, TABASCO."
+    },
+    {
+      "file_id": 83064,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83064&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683064.doc&nombreclave=o683064.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_consejo_municipal_de_evaluacion_del_municipio_de_tenosique_tabasco_83064.doc",
+      "law_name": "REGLAMENTO DEL CONSEJO MUNICIPAL DE EVALUACION DEL MUNICIPIO DE TENOSIQUE TABASCO."
+    },
+    {
+      "file_id": 17828,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17828&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617828.doc&nombreclave=o617828.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_poder_judicial_del_estado_de_tabasco_17828.doc",
+      "law_name": "Reglamento del Poder Judicial del Estado de Tabasco"
+    },
+    {
+      "file_id": 17829,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17829&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617829.doc&nombreclave=o617829.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_registro_civil_del_estado_de_tabasco_17829.doc",
+      "law_name": "Reglamento del Registro Civil del Estado de Tabasco"
+    },
+    {
+      "file_id": 18870,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18870&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618870.doc&nombreclave=o618870.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_registro_público_de_la_propiedad_18870.doc",
+      "law_name": "Reglamento del Registro Público de la Propiedad"
+    },
+    {
+      "file_id": 17830,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17830&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617830.doc&nombreclave=o617830.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_sistema_estatal_de_investigadores_17830.doc",
+      "law_name": "Reglamento del Sistema Estatal de Investigadores"
+    },
+    {
+      "file_id": 86458,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86458&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686458.doc&nombreclave=o686458.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión__de_radio_y_televisión_de_tabasco_86458.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA COMISIÓN  DE RADIO Y TELEVISIÓN DE TABASCO"
+    },
+    {
+      "file_id": 17831,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=17831&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o617831.doc&nombreclave=o617831.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión_consultiva_de_seguridad_e_higiene_del_estado_de_tabasco_17831.doc",
+      "law_name": "Reglamento Interior de la Comisión Consultiva de Seguridad e Higiene del Estado de Tabasco"
+    },
+    {
+      "file_id": 83068,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83068&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683068.doc&nombreclave=o683068.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión_consultiva_estatal_de_seguridad_y_salud_en_el_trabajo_en_el_estad_83068.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 22399,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22399&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622399.doc&nombreclave=o622399.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión_de_radio_y_televisión_22399.doc",
+      "law_name": "Reglamento Interior de la Comisión de Radio y Televisión"
+    },
+    {
+      "file_id": 18493,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18493&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618493.doc&nombreclave=o618493.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión_especial_para_la_transferencia_de_servicios_públicos_a_los_munici_18493.doc",
+      "law_name": "Reglamento Interior de la Comisión Especial para la Transferencia de Servicios Públicos a los Municipios"
+    },
+    {
+      "file_id": 19056,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19056&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619056.doc&nombreclave=o619056.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión_estatal_forestal_19056.doc",
+      "law_name": "Reglamento Interior de la Comisión Estatal Forestal"
+    },
+    {
+      "file_id": 18504,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18504&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618504.doc&nombreclave=o618504.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_consejería_jurídica_del_poder_ejecutivo_del_estado_de_tabasco_18504.doc",
+      "law_name": "Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado de Tabasco"
+    },
+    {
+      "file_id": 18884,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18884&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618884.doc&nombreclave=o618884.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_coordinación_de_asuntos_religiosos_18884.doc",
+      "law_name": "Reglamento Interior de la Coordinación de Asuntos Religiosos"
+    },
+    {
+      "file_id": 83082,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83082&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683082.doc&nombreclave=o683082.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_coordinación_estatal_para_la_regularización_de_la_tenencia_de_la_tierra_83082.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA"
+    },
+    {
+      "file_id": 18488,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18488&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618488.doc&nombreclave=o618488.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_coordinación_general_de_comunicación_social_y_relaciones_públicas_18488.doc",
+      "law_name": "Reglamento Interior de la Coordinación General de Comunicación Social y Relaciones Públicas"
+    },
+    {
+      "file_id": 83088,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83088&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683088.doc&nombreclave=o683088.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_coordinación_general_de_comunicación_social_y_relaciones_públicas_83088.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS"
+    },
+    {
+      "file_id": 18491,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18491&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o518491.doc&nombreclave=o518491.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_coordinación_general_del_comité_del_planeación_para_el_desarrollo_del_esta_18491.doc",
+      "law_name": "Reglamento Interior de la Coordinación General del Comité del Planeación para el Desarrollo del Estado de Tabasco"
+    },
+    {
+      "file_id": 19727,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19727&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619727.doc&nombreclave=o619727.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_defensoría_de_oficio_del_estado_de_tabasco_19727.doc",
+      "law_name": "Reglamento Interior de la Defensoría de Oficio del Estado de Tabasco"
+    },
+    {
+      "file_id": 19050,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19050&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619050.doc&nombreclave=o619050.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_dirección_general_de_imagen_y_publicidad_gubernamental_19050.doc",
+      "law_name": "Reglamento Interior de la Dirección General de Imagen y Publicidad Gubernamental"
+    },
+    {
+      "file_id": 86457,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86457&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686457.doc&nombreclave=o686457.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_fiscalía_general_del_estado_de_tabasco_86457.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86486,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86486&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686486.doc&nombreclave=o686486.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_gubernatura_86486.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA GUBERNATURA"
+    },
+    {
+      "file_id": 18495,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18495&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618495.doc&nombreclave=o618495.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_junta_estatal_de_caminos_18495.doc",
+      "law_name": "Reglamento Interior de la Junta Estatal de Caminos"
+    },
+    {
+      "file_id": 83085,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83085&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683085.doc&nombreclave=o683085.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_procuraduría_de_la_defensa_de_los_trabajadores_al_servicio_del_estado_83085.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA PROCURADURÍA DE LA DEFENSA DE LOS TRABAJADORES AL SERVICIO DEL ESTADO"
+    },
+    {
+      "file_id": 18169,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18169&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618169.doc&nombreclave=o618169.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_representación_del_poder_ejecutivo_en_el_distrito_federal_18169.doc",
+      "law_name": "Reglamento Interior de la Representación del Poder Ejecutivo en el Distrito Federal"
+    },
+    {
+      "file_id": 83081,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83081&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683081.doc&nombreclave=o683081.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_administración_e_innovación_83081.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN"
+    },
+    {
+      "file_id": 18874,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18874&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618874.doc&nombreclave=o618874.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_administración_y_finanzas_del_estado_de_tabasco_18874.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Administración y Finanzas del Estado de Tabasco"
+    },
+    {
+      "file_id": 83083,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83083&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683083.doc&nombreclave=o683083.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_comunicaciones_y_transporte_83083.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTE."
+    },
+    {
+      "file_id": 18880,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18880&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618880.doc&nombreclave=o618880.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_contraloría_18880.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Contraloría"
+    },
+    {
+      "file_id": 86459,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86459&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686459.doc&nombreclave=o686459.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_contraloría_86459.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA"
+    },
+    {
+      "file_id": 19049,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19049&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619049.doc&nombreclave=o619049.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_desarrollo_agropecuario_forestal_y_pesca_19049.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca"
+    },
+    {
+      "file_id": 18881,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18881&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618881.doc&nombreclave=o618881.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_desarrollo_económico_18881.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Desarrollo Económico"
+    },
+    {
+      "file_id": 84344,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=84344&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o684344.doc&nombreclave=o684344.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_desarrollo_económico_y_turismo_84344.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO"
+    },
+    {
+      "file_id": 86469,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86469&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686469.doc&nombreclave=o686469.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_desarrollo_social_86469.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL"
+    },
+    {
+      "file_id": 18499,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18499&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618499.doc&nombreclave=o618499.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_educación_18499.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Educación"
+    },
+    {
+      "file_id": 83077,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83077&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683077.doc&nombreclave=o683077.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_energía_recursos_naturales_y_protección_ambiental_83077.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL."
+    },
+    {
+      "file_id": 18882,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18882&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618882.doc&nombreclave=o618882.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_gobierno_18882.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Gobierno"
+    },
+    {
+      "file_id": 86498,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86498&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686498.doc&nombreclave=o686498.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_gobierno_86498.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO"
+    },
+    {
+      "file_id": 83080,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83080&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683080.doc&nombreclave=o683080.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_gobierno_83080.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO."
+    },
+    {
+      "file_id": 86483,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86483&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686483.doc&nombreclave=o686483.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_la_funcion_pública_86483.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCION PÚBLICA"
+    },
+    {
+      "file_id": 86480,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86480&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686480.doc&nombreclave=o686480.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_ordenamiento_territorial_y_obras_públicas_86480.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS"
+    },
+    {
+      "file_id": 18501,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18501&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618501.doc&nombreclave=o618501.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_planeación_18501.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Planeación"
+    },
+    {
+      "file_id": 18505,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18505&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618505.doc&nombreclave=o618505.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_salud_del_estado_de_tabasco_18505.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Salud del Estado de Tabasco"
+    },
+    {
+      "file_id": 18883,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18883&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618883.doc&nombreclave=o618883.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_seguridad_pública_del_estado_de_tabasco_18883.doc",
+      "law_name": "Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Tabasco"
+    },
+    {
+      "file_id": 86489,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86489&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686489.doc&nombreclave=o686489.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_seguripad_pública_del_estado_de_tabasco_86489.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIPAD PÚBLICA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86490,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86490&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686490.doc&nombreclave=o686490.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_de_turismo_86490.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO"
+    },
+    {
+      "file_id": 83084,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83084&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683084.doc&nombreclave=o683084.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_ejecutiva_del_sistema_estatal_anticorrupción_del_estado_de_taba_83084.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86492,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86492&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686492.doc&nombreclave=o686492.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_para_el_desarrollo_económico_y_la_competitividad_86492.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD"
+    },
+    {
+      "file_id": 86494,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86494&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686494.doc&nombreclave=o686494.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_para_el_desarrollo_energético_86494.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA SECRETARÍA PARA EL DESARROLLO ENERGÉTICO"
+    },
+    {
+      "file_id": 18257,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18257&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618257.doc&nombreclave=o618257.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_secretaría_particular_18257.doc",
+      "law_name": "Reglamento Interior de la Secretaría Particular"
+    },
+    {
+      "file_id": 22119,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22119&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622119.doc&nombreclave=o622119.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_unidad_de_atención_social_22119.doc",
+      "law_name": "Reglamento Interior de la Unidad de Atención Social"
+    },
+    {
+      "file_id": 18908,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18908&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618908.doc&nombreclave=o618908.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_unidad_de_enlace_sectorial_18908.doc",
+      "law_name": "Reglamento Interior de la Unidad de Enlace Sectorial"
+    },
+    {
+      "file_id": 18202,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18202&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618202.doc&nombreclave=o618202.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_universidad_popular_de_la_chontalpa_18202.doc",
+      "law_name": "Reglamento Interior de la Universidad Popular de la Chontalpa"
+    },
+    {
+      "file_id": 86470,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86470&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686470.doc&nombreclave=o686470.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_universidad_tecnológica_del_usumacinta_86470.doc",
+      "law_name": "REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL USUMACINTA"
+    },
+    {
+      "file_id": 18203,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18203&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618203.doc&nombreclave=o618203.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_los_servicios_de_salud_del_estado_de_tabasco_18203.doc",
+      "law_name": "Reglamento Interior de los Servicios de Salud del Estado de Tabasco"
+    },
+    {
+      "file_id": 24848,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=24848&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o624848.doc&nombreclave=o624848.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_trabajo_del_instituto_de_formacion_para_el_trabajo_del_estado_de_tabasco_24848.doc",
+      "law_name": "REGLAMENTO INTERIOR DE TRABAJO DEL INSTITUTO DE FORMACION PARA EL TRABAJO DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 83063,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83063&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683063.doc&nombreclave=o683063.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_centro_de_especialización_judicial\r\ndel_tribunal_superior_de_justicia_del_es_83063.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL CENTRO DE ESPECIALIZACIÓN JUDICIAL\r\nDEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86482,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86482&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686482.doc&nombreclave=o686482.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_centro_de_interpretación_y_convivencia_con_la_naturaleza_86482.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA"
+    },
+    {
+      "file_id": 18907,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18907&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618907.doc&nombreclave=o618907.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_centro_educativo_tutelar_para_menores_infractores_de_varones_y_niñas_del_est_18907.doc",
+      "law_name": "Reglamento Interior del Centro Educativo Tutelar para Menores Infractores de Varones y Niñas del Estado"
+    },
+    {
+      "file_id": 22128,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22128&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622128.doc&nombreclave=o622128.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_colegio_de_bachilleres_de_tabasco_22128.doc",
+      "law_name": "Reglamento Interior del Colegio de Bachilleres de Tabasco"
+    },
+    {
+      "file_id": 18489,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18489&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618489.doc&nombreclave=o618489.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_comité_de_planeación_para_el_desarrollo_del_estado_de_tabasco_18489.doc",
+      "law_name": "Reglamento Interior del Comité de Planeación para el Desarrollo del Estado de Tabasco"
+    },
+    {
+      "file_id": 83089,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83089&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683089.doc&nombreclave=o683089.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_congreso_del_estado_de_tabasco_83089.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 18204,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18204&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618204.doc&nombreclave=o618204.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_consejo_consultivo_de_capacitación_y_adiestramiento_del_estado_de_tabasco_18204.doc",
+      "law_name": "Reglamento Interior del Consejo Consultivo de Capacitación y Adiestramiento del Estado de Tabasco"
+    },
+    {
+      "file_id": 19057,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19057&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619057.doc&nombreclave=o619057.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_consejo_de_ciencia_y_tecnología_de_tabasco_19057.doc",
+      "law_name": "Reglamento Interior del Consejo de Ciencia y Tecnología de Tabasco"
+    },
+    {
+      "file_id": 18250,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18250&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618250.doc&nombreclave=o618250.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_consejo_estatal_para_la_desregulación_económica_18250.doc",
+      "law_name": "Reglamento Interior del Consejo Estatal para la Desregulación Económica"
+    },
+    {
+      "file_id": 83090,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83090&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683090.doc&nombreclave=o683090.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_83090.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO"
+    },
+    {
+      "file_id": 18701,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18701&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618701.doc&nombreclave=o618701.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_de_capacitación_para_el_desarrollo_regional_de_tabasco_18701.doc",
+      "law_name": "Reglamento Interior del Instituto de Capacitación Para el Desarrollo Regional de Tabasco"
+    },
+    {
+      "file_id": 18206,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18206&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618206.doc&nombreclave=o618206.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_de_educación_para_adultos_de_tabasco_18206.doc",
+      "law_name": "Reglamento Interior del Instituto de educación para Adultos de Tabasco"
+    },
+    {
+      "file_id": 86467,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86467&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o14086467.doc&nombreclave=o14086467.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_de_la_juventud_de_tabasco_86467.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO DE LA JUVENTUD DE TABASCO"
+    },
+    {
+      "file_id": 18611,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18611&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618611.doc&nombreclave=o618611.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_de_la_juventud_y_el_deporte_de_tabasco_18611.doc",
+      "law_name": "Reglamento Interior del Instituto de la Juventud y el Deporte de Tabasco"
+    },
+    {
+      "file_id": 18612,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18612&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618612.doc&nombreclave=o618612.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_de_seguridad_social_del_estado_de_tabasco_18612.doc",
+      "law_name": "Reglamento Interior del Instituto de Seguridad Social del Estado de Tabasco"
+    },
+    {
+      "file_id": 86476,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86476&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686476.doc&nombreclave=o686476.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_de_seguridad_social_del_estado_de_tabasco_86476.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 86464,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86464&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686464.doc&nombreclave=o686464.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_del_deporte_de_tabasco_86464.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DE TABASCO"
+    },
+    {
+      "file_id": 19051,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19051&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619051.doc&nombreclave=o619051.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_estatal_de_cultura_19051.doc",
+      "law_name": "Reglamento Interior del Instituto Estatal de Cultura"
+    },
+    {
+      "file_id": 86472,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86472&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686472.doc&nombreclave=o686472.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_estatal_de_cultura_86472.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE CULTURA"
+    },
+    {
+      "file_id": 18613,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18613&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618613.doc&nombreclave=o618613.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_para_el_desarrollo_de_sistemas_de_producción_del_trópico_húmedo_de_18613.doc",
+      "law_name": "Reglamento Interior del Instituto para el Desarrollo de Sistemas de Producción del Trópico Húmedo de Tabasco"
+    },
+    {
+      "file_id": 86484,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86484&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686484.doc&nombreclave=o686484.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_tecnológico_de_los_ríos_86484.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO DE LOS RÍOS"
+    },
+    {
+      "file_id": 18905,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18905&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618905.doc&nombreclave=o618905.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_museo_interactivo_papagayo_18905.doc",
+      "law_name": "Reglamento Interior del Museo Interactivo Papagayo"
+    },
+    {
+      "file_id": 18207,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18207&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618207.doc&nombreclave=o618207.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_órgano_desconcentrado_servicios_de_agua_potable_y_alcantarillado_del_estado__18207.doc",
+      "law_name": "Reglamento Interior del Órgano Desconcentrado, Servicios de Agua Potable y Alcantarillado del Estado de Tabasco(SAPAET)"
+    },
+    {
+      "file_id": 83079,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83079&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683079.doc&nombreclave=o683079.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_órgano_superior_de_fiscalización_del_estado_83079.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO"
+    },
+    {
+      "file_id": 86488,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86488&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686488.doc&nombreclave=o686488.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_órgano_superior_de_fiscalización_del_estado_86488.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL ÓRGANO SUPERIOR DE FISCALIZACIÓN DEL ESTADO"
+    },
+    {
+      "file_id": 18614,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18614&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618614.doc&nombreclave=o618614.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_órgano_superior_de_fiscalización_del_estado_de_tabasco_18614.doc",
+      "law_name": "Reglamento Interior del Órgano Superior de Fiscalización del Estado de Tabasco"
+    },
+    {
+      "file_id": 83074,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83074&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683074.doc&nombreclave=o683074.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_secretariado_ejecutivo_del_sistema_de_seguridad_pública_del_estado_de_tabasc_83074.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 24863,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=24863&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o624863.doc&nombreclave=o624863.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_servicio_estatal_de_administración_de_bienes_asegurados_24863.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS"
+    },
+    {
+      "file_id": 19055,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19055&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619055.doc&nombreclave=o619055.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_servicio_estatal_de_empleo_19055.doc",
+      "law_name": "Reglamento Interior del Servicio Estatal de Empleo"
+    },
+    {
+      "file_id": 18615,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18615&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618615.doc&nombreclave=o618615.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_sistema_para_el_desarrollo_integral_de_la_familia_del_estado_de_tabasco_18615.doc",
+      "law_name": "Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco"
+    },
+    {
+      "file_id": 86478,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86478&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686478.doc&nombreclave=o686478.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_sistema_para_el_desarrollo_integral_de_la_familia_del_estado_de_tabasco_86478.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 18906,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18906&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618906.doc&nombreclave=o618906.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_tribunal_de_conciliación_y_arbitraje_del_estado_18906.doc",
+      "law_name": "Reglamento Interior del Tribunal de Conciliación y Arbitraje del Estado"
+    },
+    {
+      "file_id": 86509,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86509&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686509.doc&nombreclave=o686509.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_tribunal_de_justicia_administrativa_del_estado_de_tabasco_86509.doc",
+      "law_name": "REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO"
+    },
+    {
+      "file_id": 18756,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18756&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618756.doc&nombreclave=o618756.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interno_de_funcionamiento_del_consejo_estatal_de_protección_civil_de_tabasco_18756.doc",
+      "law_name": "Reglamento Interno de Funcionamiento del Consejo Estatal de Protección Civil de Tabasco"
+    },
+    {
+      "file_id": 18244,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18244&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618244.doc&nombreclave=o618244.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interno_de_la_comisión_estatal_de_derechos_humanos_18244.doc",
+      "law_name": "Reglamento Interno de la Comisión Estatal de Derechos Humanos"
+    },
+    {
+      "file_id": 83065,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83065&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683065.doc&nombreclave=o683065.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interno_de_la_dirección_de_atención_a_las_mujeres_municipio_de_centla_tabasco_83065.doc",
+      "law_name": "REGLAMENTO INTERNO DE LA DIRECCIÓN DE ATENCIÓN A LAS MUJERES MUNICIPIO DE CENTLA, TABASCO."
+    },
+    {
+      "file_id": 18755,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18755&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618755.doc&nombreclave=o618755.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interno_del_consejo_estatal_de_transplantes_18755.doc",
+      "law_name": "Reglamento Interno del Consejo Estatal de Transplantes"
+    },
+    {
+      "file_id": 86474,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=86474&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o686474.doc&nombreclave=o686474.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_para_la_edicion_publicacion_distribucion_y_resguardo_del_periodico_oficial_del_estado_86474.doc",
+      "law_name": "REGLAMENTO PARA LA EDICION, PUBLICACION, DISTRIBUCION Y RESGUARDO DEL PERIODICO OFICIAL DEL ESTADO"
+    },
+    {
+      "file_id": 18252,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18252&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618252.doc&nombreclave=o618252.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_para_la_impresión_publicación_distribución_y_resguardo_del_periódico_oficial_del_estado_d_18252.doc",
+      "law_name": "Reglamento para la Impresión, Publicación, Distribución y Resguardo del Periódico Oficial del Estado de Tabasco"
+    },
+    {
+      "file_id": 19054,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=19054&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o619054.doc&nombreclave=o619054.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_que_regula_la_prestación_de_servicios_de_seguridad_privada_19054.doc",
+      "law_name": "Reglamento que Regula la Prestación de Servicios de Seguridad Privada"
+    },
+    {
+      "file_id": 22342,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22342&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422342.doc&nombreclave=o1422342.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/segundo_convenio_modificatorio_al_convenio_de_colaboración_que_celebran_por_una_parte_el_titular_del_22342.doc",
+      "law_name": "Segundo Convenio Modificatorio al Convenio de Colaboración que Celebran por una Parte el Titular del Poder Ejecutivo del Estado de Tabasco"
+    },
+    {
+      "file_id": 83078,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=83078&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o683078.doc&nombreclave=o683078.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/tribunal_de_justicia_administrativa_del_estado_de_tabasco_83078.doc",
+      "law_name": "TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO."
+    },
+    {
+      "file_id": 22391,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22391&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622391.doc&nombreclave=o622391.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_comité_de_compras_del_poder_judicial_del_estado_de_tabasco_22391.doc",
+      "law_name": "Reglamento del Comité de Compras del Poder Judicial del Estado de Tabasco"
+    },
+    {
+      "file_id": 18264,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18264&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618264.doc&nombreclave=o618264.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_comité_de_compras_del_tribunal_electoral_de_tabasco_18264.doc",
+      "law_name": "Reglamento del Comité de Compras del Tribunal Electoral de Tabasco"
+    },
+    {
+      "file_id": 18506,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18506&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618506.doc&nombreclave=o618506.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_consejo_de_la_judicatura_del_poder_judicial_del_estado_de_tabasco_18506.doc",
+      "law_name": "Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado de Tabasco"
+    },
+    {
+      "file_id": 22241,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22241&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o1422241.doc&nombreclave=o1422241.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/convenio_general_de_colaboración_que_celebran_por_una_parte_el_instituto_federal_de_acceso_a_la_info_22241.doc",
+      "law_name": "Convenio General de Colaboración que Celebran por una Parte el Instituto Federal de Acceso a la Información Pública y el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública"
+    },
+    {
+      "file_id": 22388,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22388&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622388.doc&nombreclave=o622388.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_de_sesiones_del_consejo_estatal_del_instituto_electoral_y_de_participación_ciudadana_de_t_22388.doc",
+      "law_name": "Reglamento de Sesiones del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco"
+    },
+    {
+      "file_id": 22387,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22387&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622387.doc&nombreclave=o622387.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_del_financiamiento_a_los_partidos_políticos_por_actividades_especificas_como_entidades_de_22387.doc",
+      "law_name": "Reglamento del Financiamiento a los Partidos Políticos por actividades especificas como entidades de interés público"
+    },
+    {
+      "file_id": 22400,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22400&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622400.doc&nombreclave=o622400.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_de_la_comisión_de_vigilancia_de_los_recursos_de_los_partidos_políticos_y_agrupac_22400.doc",
+      "law_name": "Reglamento Interior de la Comisión de Vigilancia de los Recursos de los Partidos Políticos y Agrupaciones Políticas"
+    },
+    {
+      "file_id": 18904,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18904&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618904.doc&nombreclave=o618904.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_instituto_tabasqueño_de_transparencia_y_acceso_a_la_información_pública_18904.doc",
+      "law_name": "Reglamento Interior del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública"
+    },
+    {
+      "file_id": 18700,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18700&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618700.doc&nombreclave=o618700.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_tribunal_de_lo_contencioso_administrativo_del_estado_de_tabasco_18700.doc",
+      "law_name": "Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Tabasco"
+    },
+    {
+      "file_id": 18699,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=18699&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o618699.doc&nombreclave=o618699.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_interior_del_tribunal_electoral_de_tabasco_18699.doc",
+      "law_name": "Reglamento Interior del Tribunal Electoral de Tabasco"
+    },
+    {
+      "file_id": 22401,
+      "ambito": "ESTATAL",
+      "url": "http://compilacion.ordenjuridico.gob.mx/fichaOrdenamiento2.php?idArchivo=22401&ambito=ESTATAL",
+      "download_url": "http://compilacion.ordenjuridico.gob.mx/obtenerdoc.php?path=/Documentos/ESTADO/TABASCO/o622401.doc&nombreclave=o622401.doc",
+      "format": "doc",
+      "local_path": "/Users/aldoruizluna/labspace/leyes-como-codigo-mx/data/state_laws_non_legislative/tabasco/reglamento_para_el_conocimiento_y_tramitación_de_las_quejas_y_faltas_administrativas_previstas_en_el_22401.doc",
+      "law_name": "Reglamento para el Conocimiento y Tramitación de las Quejas y Faltas Administrativas Previstas en el Título Tercero, del Libro Séptimo del Código de Instituciones y Procedimientos Electorales del Estado de Tabasco"
+    }
+  ],
+  "failed_laws": [
+    {
+      "file_id": 89441,
+      "law_name": "ACTA de la sesión pública extraordinaria número ACT/EXT/P/013/2020, celebrada el 31 de agosto de 2020 del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:25.729871"
+    },
+    {
+      "file_id": 88453,
+      "law_name": "ACUERDO 04 de la Secretaría de Movilidad en relación a las medidas y acciones implementadas para el tránsito de personas con motivo de la contingencia sanitaria generada por la pandemia del COVID-19.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:26.853402"
+    },
+    {
+      "file_id": 88524,
+      "law_name": "ACUERDO 06/20 por el que se modifica el acuerdo 04/2020 dictado por la Secretaría de Movilidad relativo a las medidas que deberán adoptar el servicio de transporte público y privado del estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:27.963471"
+    },
+    {
+      "file_id": 88929,
+      "law_name": "ACUERDO 07/2020 de la Secretaría de Movilidad del Estado de Tabasco por el que se emiten diversas medidas.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:29.083949"
+    },
+    {
+      "file_id": 89049,
+      "law_name": "ACUERDO 08/2020 de la Secretaría de Movilidad",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:30.194213"
+    },
+    {
+      "file_id": 89284,
+      "law_name": "ACUERDO 09/2020 de la Secretaría de Movilidad por el que se emiten medidas relacionadas a la emergencia sanitaria provocada por el virus SARS-COV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:31.343318"
+    },
+    {
+      "file_id": 89414,
+      "law_name": "ACUERDO 10/2020 por el que se abrogan los acuerdos 04/2020, 05/2020, 07/2020, 08/2020 y 09/2020 emitidos por el titular de la Secretaría de Movilidad del Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:32.446036"
+    },
+    {
+      "file_id": 90110,
+      "law_name": "ACUERDO 12/2020 mediante el cual la Secretaría de Movilidad determina e implementa las medidas y acciones correspondientes, tendientes a reducir la movilidad en el Estado.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:33.557294"
+    },
+    {
+      "file_id": 91262,
+      "law_name": "ACUERDO 13/2021 de Movilidad, mediante dicho documento se deroga el Acuerdo General 12/2020, publicado el 15 de diciembre de 2020, en el periódico Tipo Extraordinario, numero 195.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:28:34.660913"
+    },
+    {
+      "file_id": 88490,
+      "law_name": "ACUERDO de la Secretaría de la Función Pública por el que se amplían los plazos previstos en los artículos 33 y 48 de la Ley General de Responsabilidades Administrativas, para que los sujetos obligados presenten las declaraciones de situación patrimonial y de intereses el año 2020 con motivo de la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:01.478839"
+    },
+    {
+      "file_id": 88158,
+      "law_name": "Acuerdo de la Secretaría de la Función Pública por el que se suspenden los plazos y términos procesales de la Unidad de Verificación e Investigación Gubernamental, Dirección General de Responsabilidades Administrativas, así como de las áreas de Quejas y Responsabilidades Administrativas de los Órganos Internos de Control de las entidades de la administración pública estatal",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:02.632673"
+    },
+    {
+      "file_id": 88399,
+      "law_name": "Acuerdo de suspensión de plazos y término, con motivo de la emergencia sanitaria decretada en el Estado por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:03.743222"
+    },
+    {
+      "file_id": 88883,
+      "law_name": "ACUERDO de suspensión de plazos y términos, con motivo de la emergencia sanitaria decretada en el estado por el virus SARS-CoV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:04.853571"
+    },
+    {
+      "file_id": 89010,
+      "law_name": "ACUERDO de suspensión de plazos y términos, con motivo de la emergencia sanitaria decretada en el estado por el virus SARS-CoV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:05.920551"
+    },
+    {
+      "file_id": 88162,
+      "law_name": "Acuerdo del Secretario de Finanzas por el que se suspende temporalmente la elaboración, venta y distribución de bebidas alcohólicas en el territorio de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:07.031698"
+    },
+    {
+      "file_id": 88474,
+      "law_name": "ACUERDO específico por el que se autoriza de manera extraordinaria al personal de la Fiscalía General del Estado de Tabasco a colaborar con las autoridades sanitarias federales y estatales en términos del presente acuerdo y de los lineamientos de manejo general y masivo de cadáveres por COVID-19 (SARS-CoV-2) en México",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:12.443079"
+    },
+    {
+      "file_id": 89367,
+      "law_name": "ACUERDO General conjunto 12/2020 para transición gradual hacia una nueva normalidad y emisión del Protocolo de Actuación para el Desahogo de Audiencias de material civil, familiar y mercantil a través de videoconferencias",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:13.560902"
+    },
+    {
+      "file_id": 88882,
+      "law_name": "ACUERDO por el que se amplía la suspensión de los plazos y términos en el Órgano Superior de Fiscalización del Estado a que se refiere el diverso acuerdo publicado en el suplemento c de la edición 8103 del Periódico Oficial de fecha 2 de mayo de 2020, debido a la emergencia sanitaria por causa de fuerza mayor ocasionada por el virus SARS-COV2 (COVID-19) y considerando los lineamientos para la nueva normalidad de las actividades en la administración pública del Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:21.164925"
+    },
+    {
+      "file_id": 88184,
+      "law_name": "Acuerdo por el que se detallan las actividades consideradas esenciales relacionadas con el Decreto por el que se emiten medidas y acciones extraordinarias para atender la emergencia sanitaria generada por el virus SARS-COV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:22.270332"
+    },
+    {
+      "file_id": 92482,
+      "law_name": "ACUERDO por el que se determina que el Estado de Tabasco se ubica en semáforo naranja con alto riesgo epidémico y se establecen medidas extraordinarias de inmediata ejecución para atender la emergencia sanitaria generada por el Virus SARS-CoV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:23.381791"
+    },
+    {
+      "file_id": 88518,
+      "law_name": "ACUERDO por el que se emiten disposiciones extraordinarias en relación a la vigencia de las cédulas del Registro Único de Contratistas, con motivo de la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:24.502431"
+    },
+    {
+      "file_id": 89423,
+      "law_name": "ACUERDO por el que se emiten disposiciones extraordinarias en relación a la vigencia de las Cédulas del Registro Único de Contratistas, con motivo de la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:25.602643"
+    },
+    {
+      "file_id": 92484,
+      "law_name": "ACUERDO por el que se emiten las disposiciones complementarias al decreto por el que el Estado de tabasco se ubica en semáforo naranja con alto riesgo epidémico y se establecen medidas extraordinarias de inmediata ejecución para atender la emergencia sanitaria generada por el virus SARS-CoV2 (COVID19), relativas al ajuste de horarios para la venta, consumo y distribución de bebidas alcohólicas en el Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:26.740838"
+    },
+    {
+      "file_id": 88885,
+      "law_name": "ACUERDO por el que se emiten las disposiciones complementarias al decreto por el que se emiten medidas y acciones para la reactivación gradual de la elaboración, venta y distribución de bebidas alcohólicas como parte de la transición hacia la nueva normalidad.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:27.849688"
+    },
+    {
+      "file_id": 89050,
+      "law_name": "ACUERDO por el que se emiten las disposiciones complementarias en materia de la elaboración, venta y distribución de bebidas alcohólicas al Decreto por el que se emite el Plan para Transición Gradual hacia una Nueva Normalidad y la Reactivación Económica del Estado.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:28.964128"
+    },
+    {
+      "file_id": 88160,
+      "law_name": "Acuerdo por el que se emiten los lineamientos para el manejo seguro, transporte y disposición de cadáveres de personas fallecidas debido a la infección por el virus COVID-19 (CORONAVIRUS)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:30.069171"
+    },
+    {
+      "file_id": 88398,
+      "law_name": "Acuerdo por el que se establecen las directrices temporales para la solicitud y emisión de los dictámenes de anuencia técnica a los que se refieren los estándares técnicos mínimos de bienes informáticos, redes y conectividad para el Gobierno del Estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:31.181732"
+    },
+    {
+      "file_id": 88619,
+      "law_name": "ACUERDO por el que se establecen los lineamientos para el intercambio de información oficial a través de correos electrónicos como medida complementaria a las acciones para combatir la enfermedad generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:32.292746"
+    },
+    {
+      "file_id": 91707,
+      "law_name": "ACUERDO por el que se establecen medidas y acciones extraordinarias adicionales para la atención de la emergencia sanitaria generada por el virus SARS-COV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:33.403302"
+    },
+    {
+      "file_id": 89098,
+      "law_name": "ACUERDO por el que se modifica el apartado VIII del Plan para la Transición Gradual hacia una Nueva Normalidad y la Reactivación Económica del Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:34.512399"
+    },
+    {
+      "file_id": 89419,
+      "law_name": "ACUERDO por el que se reanudan los plazos y términos relacionados con los trámites, procedimientos y recursos administrativos, correspondientes a la Coordinación General de Asuntos Jurídicos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:35.612031"
+    },
+    {
+      "file_id": 89440,
+      "law_name": "ACUERDO por el que se reforma el plan para la transición gradual hacia una nueva normalidad y la reactivación económica del Estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:36.722392"
+    },
+    {
+      "file_id": 89761,
+      "law_name": "ACUERDO por el que se reforman los apartados VIII y IX del Plan para la Transición Gradual Hacia una Nueva Normalidad y la Reactivación Económica del Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:37.829487"
+    },
+    {
+      "file_id": 89012,
+      "law_name": "Acuerdo por el que se reforman los numerales primero, segundo y tercero del Acuerdo por el que se emiten disposiciones extraordinarias en relación a la vigencia de las Cédulas de Registro Único de Contratistas",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:38.940474"
+    },
+    {
+      "file_id": 88183,
+      "law_name": "Acuerdo por el que se reforman y adicionan diversos artículos de los Lineamientos para el manejo seguro, transporte y disposición de cadáveres de personas fallecidas debido a la infección por el virus COVID-19 (CORONAVIRUS)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:40.051846"
+    },
+    {
+      "file_id": 92410,
+      "law_name": "ACUERDO por el que se tiene como causa justificada la presentación extemporánea de las Declaraciones de Situación Patrimonial y de intereses, en los plazos previstos en los artículos 33 y 48 de la Ley General de Responsabilidades Administrativas, por la emergencia sanitaria derivada de la enfermedad generada por el Corona Virus SARS-CoV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:41.228353"
+    },
+    {
+      "file_id": 92419,
+      "law_name": "ACUERDO que tiene por objeto dar cumplimiento al artículo sexto del Decreto por el que se determina que el Estado de Tabasco transita al semáforo amarillo y se distienden algunas de las medidas y acciones extraordinarias de inmediata ejecución establecidas para atender la emergencia sanitaria generada por el virus SARS- CoV2 (COVID-19), que emite la Secretaria de Movilidad.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:42.341687"
+    },
+    {
+      "file_id": 92483,
+      "law_name": "ACUERDO que tiene por objeto dar cumplimiento al decreto por el que se determina que el Estado de Tabasco se ubica en semáforo naranja y se distienden algunas de las medidas y acciones extraordinarias de inmediata ejecución establecidas para atender la emergencia sanitaria generada por el virus SARS- CoV2 (COVID-19), que emite la Secretaria de Movilidad.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:29:43.440915"
+    },
+    {
+      "file_id": 88491,
+      "law_name": "DECRETO 196 por el que se recorren los plazos o términos para la entrega de las cuentas públicas correspondientes al ejercicio 2019, de los informes mensuales correspondientes a febrero, marzo y abril correspondientes al ejercicio 2020 y de las autoevaluaciones del primer trimestre de 2020, por parte de los entes fiscalizables; así como, para que el Órgano Superior de Fiscalización entregue al Congreso del Estado, los informes parciales de auditorías y los informes de resultados de las cuentas públicas; y para la presentación por parte del Ejecutivo del Estado del Informe correspondiente al Primer Trimestre de 2020 sobre la situación económica, los ingresos y egresos públicos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:14.829561"
+    },
+    {
+      "file_id": 89413,
+      "law_name": "Decreto 215 por el que se reforman y derogan diversas disposiciones de la Ley de Salud del Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:15.927697"
+    },
+    {
+      "file_id": 90229,
+      "law_name": "DECRETO mediante el cual se reforma el Decreto por el que se establecen medidas y acciones extraordinarias de inmediata ejecución para atender la emergencia sanitaria generada por el virus SARS-COV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:17.028465"
+    },
+    {
+      "file_id": 90075,
+      "law_name": "DECRETO por el cual se establecen medidas y acciones extraordinarias de inmediata ejecución para atender la emergencia sanitaria generada por el virus SARS-COV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:18.133658"
+    },
+    {
+      "file_id": 89378,
+      "law_name": "DECRETO por el que se abroga el Decreto mediante el cual se instruyen las acciones para prevenir, detener, contener, controlar, retrasar y reducir la propagación del COVID-19 en el Estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:19.235375"
+    },
+    {
+      "file_id": 89380,
+      "law_name": "DECRETO por el que se determina continuar con las medidas de higiene y seguridad sanitaria establecidas para el semáforo rojo, en el Estado de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:20.336055"
+    },
+    {
+      "file_id": 91927,
+      "law_name": "DECRETO por el que se determina que el Estado de Tabasco permanecerá en semáforo naranja y se distenderán de forma cauta algunas de las medidas y acciones extraordinarias de inmediata ejecución establecidas para atender la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19).",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:21.434073"
+    },
+    {
+      "file_id": 91105,
+      "law_name": "DECRETO por el que se determina que el Estado de Tabasco permanecerá en semáforo naranja, y se establecen medidas y acciones extraordinarias de inmediata ejecución para atender la emergencia sanitaria generada por el virus SARSCoV2 (COVID 19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:22.525031"
+    },
+    {
+      "file_id": 92409,
+      "law_name": "DECRETO Por el que se determina que el Estado de Tabasco transita al semáforo amarillo y se distienden algunas de las medidas y acciones extraordinarias de inmediata ejecución establecidas para atender la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:23.630924"
+    },
+    {
+      "file_id": 89435,
+      "law_name": "DECRETO por el que se determina que el estado de Tabasco transitará del Semáforo Rojo hacia el Semáforo Naranja, con las medidas de higiene y seguridad sanitaria establecidas en el Plan para la Transición Gradual hacia una nueva normalidad y la reactivación económica del Estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:24.735613"
+    },
+    {
+      "file_id": 89013,
+      "law_name": "DECRETO por el que se emite el Plan para la Transición Gradual hacia una Nueva Normalidad y la Reactivación Económica del Estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:25.848351"
+    },
+    {
+      "file_id": 88397,
+      "law_name": "Decreto por el que se emiten medidas y acciones complementarias para atender la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:26.948078"
+    },
+    {
+      "file_id": 88161,
+      "law_name": "Decreto por el que se emiten medidas y acciones extraordinarias para atender la emergencia sanitaria generada por el virus SARS-COV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:28.046185"
+    },
+    {
+      "file_id": 88884,
+      "law_name": "DECRETO por el que se emiten medidas y acciones para la reactivación gradual de la elaboración, venta y distribución de bebidas alcohólicas como parte de transición hacia la nueva normalidad.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:29.157491"
+    },
+    {
+      "file_id": 88566,
+      "law_name": "Decreto por el que se emiten medidas y acciones transitorias de inmediata ejecución para atender la fase 3 de la emergencia sanitaria generada por el virus SARS-CoV2 (COVID-19)",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:30.270000"
+    },
+    {
+      "file_id": 88156,
+      "law_name": "FE DE ERRATAS del Decreto por el que se instruyen las acciones para prevenir, detener, contener, controlar, retrasar y reducir la propagación del COVID-19 en el estado de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:30:38.002763"
+    },
+    {
+      "file_id": 88155,
+      "law_name": "PROGRAMA DE INCENTIVOS Y ESTÍMULOS FISCALES PARA EL AÑO 2020 EN El MUNICIPIO DE MACUSPANA, TABASCO.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:33:13.182931"
+    },
+    {
+      "file_id": 88620,
+      "law_name": "Reglas de operación de apoyos diversos en efectivo o en especie que se otorga a la ciudadanía con motivo de la contingencia por coronavirus (COVID-19) del H. Ayuntamiento del Municipio de Nacajuca",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:01.745032"
+    },
+    {
+      "file_id": 89554,
+      "law_name": "Reglas de operación del programa apoyo a la tasa de interés por créditos para el programa proyecto sectorial impulso NAFIN+ESTADOS Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:02.858575"
+    },
+    {
+      "file_id": 89068,
+      "law_name": "Resolución de Carácter General por la que se condona el 100 por ciento del pago por conceptos de recargos, multas y gastos de ejecución derivados de los créditos fiscales y de las obligaciones omitidas del derecho de refrendo de placas, canje de placas, tarjeta de circulación y calcomanía..",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:04.009287"
+    },
+    {
+      "file_id": 88279,
+      "law_name": "Resolución de carácter general por la que se exime del pago total de derechos que se causen por concepto de certificación de acta de defunción.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:05.160111"
+    },
+    {
+      "file_id": 89286,
+      "law_name": "RESOLUCIÓN De carácter general por la que se otorgan estímulos fiscales consistentes en descuentos por concepto de refrendo anual de licencia de funcionamiento para la venta, distribución y consumo de bebidas alcohólicas, establecido en la fracción 11 del artículo 79 de la Ley de Hacienda del Estado de Tabasco para el Ejercicio Fiscal 2021, así como se condonan los pagos por concepto de multas, recargos, actualizaciones y gastos de ejecución causados por la omisión del pago de estos derechos, a los licenciatarios que tengan adeudos de años anteriores al Ejercicio Fiscal 2021.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:06.322730"
+    },
+    {
+      "file_id": 91782,
+      "law_name": "RESOLUCIÓN de carácter General por la que se otorgan Estímulos Fiscales Consistentes en Descuentos por conceptos de Servicios Funerarios a cargo del Instituto de Seguridad Social del Estado de Tabasco, para el Ejercicio Fiscal 2021.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:07.463461"
+    },
+    {
+      "file_id": 91783,
+      "law_name": "RESOLUCIÓN de carácter General por la que se otorgan Estímulos Fiscales Consistentes en Descuentos por conceptos de Servicios Funerarios a cargo del Instituto de Seguridad Social del Estado de Tabasco, para el Ejercicio Fiscal 2021.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:08.534595"
+    },
+    {
+      "file_id": 89786,
+      "law_name": "RESOLUCIÓN de carácter general por la que se otorgan estímulos fiscales consistentes en el descuento del cien por ciento por conceptos de cuotas mensuales y titulación, a favor de las escuelas y talleres a cargo de la Secretaría de Cultura.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:09.677183"
+    },
+    {
+      "file_id": 90897,
+      "law_name": "ACUERDO general 01/2021, Emitido por el Pleno del Tribunal Superior de Justicia.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:15.046049"
+    },
+    {
+      "file_id": 88157,
+      "law_name": "Acuerdo General Conjunto 01/2020 por el que se suspenden las labores jurisdiccionales en el Poder Judicial del Estado y las administrativas en el Presidencia, las Salas y las áreas de apoyo de estas adscripciones",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:16.155033"
+    },
+    {
+      "file_id": 89285,
+      "law_name": "ACUERDO General Conjunto 04/2020 Se amplía catálogo de casos urgentes; celebrar los juicios que así lo requieran; y se implementa el uso de la videoconferencia (u otro medio tecnológico factible y eficaz) para el desahogo de audiencias.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:17.254946"
+    },
+    {
+      "file_id": 89521,
+      "law_name": "ACTA de sesión pública extraordinaria número ACT/EXT/P/014/2020, celebrada el 15 de septiembre de 2020, del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:24.807273"
+    },
+    {
+      "file_id": 89078,
+      "law_name": "Acuerdo ACDO/P/013/2020 del Instituto Tabasqueño de Transparencia y Acceso a la Información por el que se suspenden los plazos para la recepción y trámite de las solicitudes y los recursos de revisión en materias del Derecho de Acceso a la Información Pública y el Derecho a la Protección de Datos Personales",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:26.080421"
+    },
+    {
+      "file_id": 89295,
+      "law_name": "Acuerdo ACDO/P/014/2020 del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública por el que se suspenden los plazos y términos para a substanciación de las solicitudes y recursos de revisión y Acta de sesión pública extraordinaria ACT/EXT/P/011/2020 del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:27.231552"
+    },
+    {
+      "file_id": 88159,
+      "law_name": "Acuerdo del Órgano Superior de Fiscalización del Estado de Tabasco por el que se suspenden los plazos y términos del 26 de marzo al 17 de abril del 2020",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:28.397644"
+    },
+    {
+      "file_id": 88396,
+      "law_name": "Acuerdo del Órgano Superior de Fiscalización por el que se amplía la suspensión de los plazos y términos",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:29.546282"
+    },
+    {
+      "file_id": 88516,
+      "law_name": "ACUERDO del Órgano Superior de Fiscalización por el que se amplía la suspensión de los plazos y términos.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:30.674333"
+    },
+    {
+      "file_id": 89442,
+      "law_name": "ACUERDO número ACDO/P/015/2020 referente al Acuerdo de nueva normalidad, conforme al acta de la sesión extraordinaria número ACT/EXT/P/013/2020, celebrada el 31 de agosto de 2020 del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:31.855925"
+    },
+    {
+      "file_id": 89522,
+      "law_name": "ACUERDO número ACDO/P/016/2020 referente al acuerdo de nueva normalidad, conforme al acta de sesión extraordinaria ACT/EXT/P/014/2020, celebrado el 15 de septiembre de 2020, del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:33.020169"
+    },
+    {
+      "file_id": 88517,
+      "law_name": "ACUERDO por el que el Comité Coordinador del Sistema Estatal Anticorrupción autoriza que se lleven a cabo las sesiones vía electrónica",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:34.132501"
+    },
+    {
+      "file_id": 88519,
+      "law_name": "Acuerdo por el que el Comité Coordinador del Sistema Estatal Anticorrupción emite la recomendación a los Entes Públicos del Estado y los 17 municipios para que sus servidores públicos presenten su declaración patrimonial",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:35.319707"
+    },
+    {
+      "file_id": 90317,
+      "law_name": "ACUERDO por el que se establecen medidas administrativas extraordinarias en la Comisión Estatal de Derechos Humanos de Tabasco",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:36.494680"
+    },
+    {
+      "file_id": 89386,
+      "law_name": "ACUERDO por el que se implementan las medidas administrativas relativas a la primera etapa de la reanudación gradual y ordenada de las actividades",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:37.647696"
+    },
+    {
+      "file_id": 89262,
+      "law_name": "ACUERDO por el que se implementan medidas administrativas para la reanudación de labores y prevenir la propagación del virus COVID-19 entre el personal de la Comisión Estatal de los Derechos Humanos y el público usuario de los servicios.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:38.814826"
+    },
+    {
+      "file_id": 89261,
+      "law_name": "ACUERDO por el que se implementan medidas administrativas para mitigar la propagación del virus COVID-19 entre el personal de la Comisión Estatal de los Derechos Humanos y se establecen guardias durante el primer período vacacional.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:40.023734"
+    },
+    {
+      "file_id": 89760,
+      "law_name": "ACUERDO por el que se prolongan las medidas administrativas en la reanudación gradual y ordenada de las actividades en la Comisión Estatal de los Derechos Humanos de Tabasco.",
+      "failure_reason": "no_download_url",
+      "download_url": "",
+      "timestamp": "2026-02-06T17:38:41.190068"
+    }
+  ]
+}
