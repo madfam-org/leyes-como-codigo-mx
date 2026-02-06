@@ -106,6 +106,9 @@ data/*_conversion*.json
 !data/municipal_laws/*.json
 !data/municipal_laws_metadata.json
 
+# Pipeline runtime artifacts
+data/pipeline_status.json
+
 # Logs
 logs/
 *.log
