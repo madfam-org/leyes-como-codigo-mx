@@ -13,51 +13,47 @@ export async function generateMetadata({
     const { id } = await params;
     const lawId = decodeURIComponent(id);
     const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
 
     try {
-        // Fetch law metadata
         const lawRes = await fetch(`${apiUrl}/laws/${lawId}/`, {
-            next: { revalidate: 3600 } // Cache for 1 hour
+            next: { revalidate: 3600 }
         });
-        
+
         if (!lawRes.ok) {
             return {
-                title: 'Ley no encontrada',
+                title: 'Ley no encontrada — Tezca',
                 description: 'La ley solicitada no está disponible.'
             };
         }
-        
+
         const lawData = await lawRes.json();
         const law = lawData.law || lawData;
-        
-        // Base metadata for law page
-        const baseMetadata: Metadata = {
-            title: law.name || law.official_id,
-            description: `${law.tier || 'Ley'} - ${law.category || 'Legislación mexicana'}`,
+
+        const tierLabel = law.tier === 'state' ? 'Estatal' : law.tier === 'municipal' ? 'Municipal' : 'Federal';
+        const description = `${law.name} — ${tierLabel}${law.category ? ` · ${law.category}` : ''}. Texto completo en formato digital.`;
+
+        return {
+            title: `${law.name || law.official_id} — Tezca`,
+            description,
             openGraph: {
                 title: law.name || law.official_id,
-                description: `${law.tier || 'Ley'} - ${law.category || 'Legislación mexicana'}`,
+                description,
                 type: 'article',
-                url: `https://leyesmx.com/laws/${lawId}`,
-                siteName: 'Leyes MX',
+                url: `${siteUrl}/laws/${lawId}`,
+                siteName: 'Tezca',
             },
             twitter: {
                 card: 'summary_large_image',
                 title: law.name || law.official_id,
-                description: `${law.tier || 'Ley'} - ${law.category || 'Legislación mexicana'}`,
+                description,
             }
         };
-        
-        // Check if there's an article hash in the URL (from searchParams or future enhancement)
-        // For now, we return base metadata - article-specific metadata can be enhanced later
-        // when we have article data available at metadata generation time
-        
-        return baseMetadata;
-        
+
     } catch (error) {
         console.error('Failed to generate metadata:', error);
         return {
-            title: 'Leyes MX',
+            title: 'Tezca — El Espejo de la Ley',
             description: 'Legislación mexicana digitalizada y accesible'
         };
     }

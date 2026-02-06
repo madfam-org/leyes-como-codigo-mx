@@ -222,7 +222,7 @@ class SearchView(APIView):
             # Calculate pagination metadata
             total_pages = math.ceil(total / page_size) if total > 0 else 0
 
-            return Response(
+            response = Response(
                 {
                     "results": results,
                     "total": total,
@@ -231,6 +231,8 @@ class SearchView(APIView):
                     "total_pages": total_pages,
                 }
             )
+            response["Cache-Control"] = "public, max-age=300"
+            return response
 
         except ValueError as e:
             return Response(

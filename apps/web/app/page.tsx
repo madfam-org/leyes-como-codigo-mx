@@ -4,6 +4,7 @@ import { DashboardStatsGrid, RecentLawsList } from '@/components/DashboardStats'
 import { PopularLaws } from '@/components/PopularLaws';
 import { DynamicFeatures } from '@/components/DynamicFeatures';
 import { DisclaimerBanner } from '@/components/DisclaimerBanner';
+import { RecentlyViewed } from '@/components/RecentlyViewed';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
       </div>
 
       <div className="container mx-auto px-4 sm:px-6 py-12 sm:py-16 space-y-12 sm:space-y-16">
+        <RecentlyViewed />
 
         <div className="grid gap-6 sm:gap-8 lg:grid-cols-3">
           <div className="lg:col-span-2 space-y-6 sm:space-y-8">

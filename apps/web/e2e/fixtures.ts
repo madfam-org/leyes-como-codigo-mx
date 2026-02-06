@@ -141,6 +141,22 @@ export async function mockApiRoutes(page: Page) {
     await page.route(`${API}/states/`, (route) =>
         route.fulfill({ json: { states: ['Jalisco', 'CDMX', 'Nuevo León'] } })
     );
+
+    await page.route(`${API}/suggest/?*`, (route) =>
+        route.fulfill({ json: [
+            { id: 'ley-federal-del-trabajo', name: 'Ley Federal del Trabajo', tier: 'federal' },
+        ] })
+    );
+
+    await page.route(`${API}/municipalities/?*`, (route) =>
+        route.fulfill({ json: [] })
+    );
+
+    await page.route(`${API}/laws/*/search/?*`, (route) =>
+        route.fulfill({ json: { law_id: 'ley-federal-del-trabajo', query: 'test', total: 1, results: [
+            { article_id: 'Art. 1', snippet: 'La presente <em>Ley</em> es de observancia general.', score: 5.0 },
+        ] } })
+    );
 }
 
 /** Extended test fixture with API mocking pre-applied */

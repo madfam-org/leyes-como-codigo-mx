@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import DOMPurify from 'isomorphic-dompurify';
-import { Search as SearchIcon, Loader2, Filter as FilterIcon } from 'lucide-react';
+import { Search as SearchIcon, Loader2, Filter as FilterIcon, Link2, Check } from 'lucide-react';
 import { SearchResultsSkeleton } from '@/components/skeletons/SearchResultsSkeleton';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
@@ -36,6 +36,8 @@ const content = {
         published: 'Publicacion:',
         relevance: 'Relevancia',
         dateLocale: 'es-MX' as const,
+        shareSearch: 'Compartir busqueda',
+        copied: 'Copiado!',
     },
     en: {
         searchError: 'Search error',
@@ -58,6 +60,8 @@ const content = {
         published: 'Published:',
         relevance: 'Relevance',
         dateLocale: 'en-US' as const,
+        shareSearch: 'Share search',
+        copied: 'Copied!',
     },
 };
 
@@ -98,12 +102,31 @@ function SearchContent() {
         title: searchParams?.get('title') || DEFAULT_FILTERS.title,
         chapter: searchParams?.get('chapter') || DEFAULT_FILTERS.chapter,
     });
-    const [currentPage, setCurrentPage] = useState(1);
+    const [currentPage, setCurrentPage] = useState(
+        parseInt(searchParams?.get('page') || '1', 10)
+    );
     const [results, setResults] = useState<SearchResult[]>([]);
     const [total, setTotal] = useState(0);
     const [totalPages, setTotalPages] = useState(0);
     const [loading, setLoading] = useState(false);
     const [error, setError] = useState<string | null>(null);
+    const [shareCopied, setShareCopied] = useState(false);
+
+    const buildSearchParams = (q: string, f: SearchFilterState, page: number) => {
+        const params = new URLSearchParams();
+        if (q) params.set('q', q);
+        if (f.jurisdiction.length) params.set('jurisdiction', f.jurisdiction.join(','));
+        if (f.category) params.set('category', f.category);
+        if (f.state) params.set('state', f.state);
+        if (f.municipality) params.set('municipality', f.municipality);
+        if (f.status !== 'all') params.set('status', f.status);
+        if (f.sort !== 'relevance') params.set('sort', f.sort);
+        if (f.date_range) params.set('date_range', f.date_range);
+        if (f.title) params.set('title', f.title);
+        if (f.chapter) params.set('chapter', f.chapter);
+        if (page > 1) params.set('page', String(page));
+        return params;
+    };
 
     // Perform search on initial load from URL params
     useEffect(() => {
@@ -163,36 +186,25 @@ function SearchContent() {
     const handleSubmitQuery = (q: string) => {
         if (q.trim()) {
             setQuery(q);
-            const params = new URLSearchParams({ q });
-            if (filters.jurisdiction.length) params.set('jurisdiction', filters.jurisdiction.join(','));
-            if (filters.category) params.set('category', filters.category);
-            if (filters.state) params.set('state', filters.state);
-            if (filters.status !== 'all') params.set('status', filters.status);
-            if (filters.sort !== 'relevance') params.set('sort', filters.sort);
-            if (filters.date_range) params.set('date_range', filters.date_range);
-            if (filters.title) params.set('title', filters.title);
-            if (filters.chapter) params.set('chapter', filters.chapter);
-
-            router.push(`/search?${params}`);
-
             setCurrentPage(1);
+            router.push(`/search?${buildSearchParams(q, filters, 1)}`);
             performSearch(q, filters, 1);
         }
     };
 
     const handleFiltersChange = (newFilters: SearchFilterState) => {
         setFilters(newFilters);
-        setCurrentPage(1); // Reset to page 1 when filters change
+        setCurrentPage(1);
         if (query.trim()) {
+            router.push(`/search?${buildSearchParams(query, newFilters, 1)}`);
             performSearch(query, newFilters, 1);
         }
     };
 
     const handlePageChange = (page: number) => {
         setCurrentPage(page);
+        router.push(`/search?${buildSearchParams(query, filters, page)}`);
         performSearch(query, filters, page);
-
-        // Scroll to top
         window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
@@ -305,9 +317,23 @@ function SearchContent() {
                         {!loading && results.length > 0 && (
                             <>
                                 <div className="mb-4 sm:mb-6 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2">
-                                    <div className="text-xs sm:text-sm text-muted-foreground">
-                                        {t.showing} {(currentPage - 1) * PAGE_SIZE + 1}-
-                                        {Math.min(currentPage * PAGE_SIZE, total)} {t.of} {total} {total !== 1 ? t.resultPlural : t.result}
+                                    <div className="flex items-center gap-3">
+                                        <div className="text-xs sm:text-sm text-muted-foreground">
+                                            {t.showing} {(currentPage - 1) * PAGE_SIZE + 1}-
+                                            {Math.min(currentPage * PAGE_SIZE, total)} {t.of} {total} {total !== 1 ? t.resultPlural : t.result}
+                                        </div>
+                                        <button
+                                            onClick={() => {
+                                                navigator.clipboard.writeText(window.location.href);
+                                                setShareCopied(true);
+                                                setTimeout(() => setShareCopied(false), 2000);
+                                            }}
+                                            className="inline-flex items-center gap-1 text-xs text-muted-foreground hover:text-foreground transition-colors"
+                                            aria-label={t.shareSearch}
+                                        >
+                                            {shareCopied ? <Check className="h-3 w-3" /> : <Link2 className="h-3 w-3" />}
+                                            <span className="hidden sm:inline">{shareCopied ? t.copied : t.shareSearch}</span>
+                                        </button>
                                     </div>
 
                                     {totalPages > 1 && (

@@ -60,7 +60,7 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Version History** - Track legal evolution over time
 - ✅ **REST API** - Machine-readable access for legal tech (paginated, filtered, rate-limited)
 - ✅ **Batch Processing** - Parallel ingestion with 4-8 workers
-- ✅ **Production Ready** - Full-stack testing (101 Vitest + 201 Pytest)
+- ✅ **Production Ready** - Full-stack testing (152 Vitest + 201 Pytest + 8 E2E specs)
 - ✅ **OpenAPI Documentation** - Swagger UI, ReDoc at `/api/docs/`
 - ✅ **Background Processing** - Celery + Redis for ingestion jobs
 - ✅ **Cross-References** - Automatic detection and linking between laws
@@ -76,6 +76,11 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Loading Skeletons** - Shaped placeholders for law detail, search results, dashboard
 - ✅ **API Hardening** - Rate limiting (100/hr), pagination (50/page), law status field, search-within-law
 - ✅ **Accessibility** - WCAG 2.1 AA (skip-to-content, aria-labels, keyboard nav, 44px touch targets)
+- ✅ **Search-Within-Law** - Elasticsearch-powered article search with highlighted snippets
+- ✅ **Keyboard Shortcuts** - j/k article navigation, / search, b bookmark, ? help panel
+- ✅ **Recently Viewed** - Homepage section showing last 10 visited laws (localStorage)
+- ✅ **SEO Foundation** - Dynamic sitemap, robots.txt, OG metadata, bilingual 404 page
+- ✅ **URL-Synced Search** - Pagination, filters, and query persisted in URL (shareable/bookmarkable)
 
 ## Architecture
 

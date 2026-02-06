@@ -117,14 +117,15 @@ Code cannot merge to `main` unless:
 
 ### Frontend (Vitest)
 - **Location:** `apps/web/__tests__/`
-- **Tests:** 101 tests across 17 files
+- **Tests:** 152 tests across 25 files
 - **Run:** `cd apps/web && npx vitest run`
 - **Coverage:** `cd apps/web && npx vitest run --coverage` (uses @vitest/coverage-v8)
+- **Coverage thresholds:** statements 60%, branches 50%, functions 60%, lines 60%
 - **Framework:** Vitest + @testing-library/react
 
 ### E2E (Playwright)
 - **Location:** `apps/web/e2e/`
-- **Tests:** 13 tests (3 search, 5 law-detail, 5 comparison)
+- **Tests:** 8 specs (search, law-detail, comparison, bookmarks, language, filters, navbar, 404)
 - **Run:** `cd apps/web && npx playwright test`
 - **Browser:** Chromium (auto-starts dev server, mocks API via `page.route()`)
 

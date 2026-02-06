@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { LawHeader } from './LawHeader';
 import { TableOfContents } from './TableOfContents';
 import { ArticleViewer } from './ArticleViewer';
@@ -10,6 +10,9 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { FontSizeControl } from '@/components/FontSizeControl';
 import type { FontSize } from '@/components/FontSizeControl';
 import { LawDetailSkeleton } from '@/components/skeletons/LawDetailSkeleton';
+import { ArticleSearch } from './ArticleSearch';
+import { KeyboardShortcuts } from './KeyboardShortcuts';
+import { recordLawView } from '@/components/RecentlyViewed';
 
 const content = {
     es: {
@@ -39,6 +42,7 @@ export function LawDetail({ lawId }: LawDetailProps) {
     const t = content[lang];
     const [data, setData] = useState<LawDetailData | null>(null);
     const [activeArticle, setActiveArticle] = useState<string | null>(null);
+    const searchInputRef = useRef<HTMLInputElement>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
     const [fontSize, setFontSize] = useState<FontSize>('text-base');
@@ -57,12 +61,15 @@ export function LawDetail({ lawId }: LawDetailProps) {
                 if (!articlesRes.ok) throw new Error(t.loadArticlesError);
                 const articlesData = await articlesRes.json();
 
+                const law = lawData.law || lawData;
                 setData({
-                    law: lawData.law || lawData,
+                    law,
                     version: lawData.version || (lawData.versions && lawData.versions[0]) || {},
                     articles: articlesData.articles || [],
                     total: articlesData.total || 0,
                 });
+
+                recordLawView({ id: law.official_id || lawId, name: law.name, tier: law.tier });
 
                 if (window.location.hash) {
                     const articleId = window.location.hash.replace('#article-', '');
@@ -133,6 +140,17 @@ export function LawDetail({ lawId }: LawDetailProps) {
                         <Breadcrumbs lawName={data.law.name} />
                         <FontSizeControl onChange={setFontSize} />
                     </div>
+                    <div className="mb-4">
+                        <ArticleSearch
+                            lawId={lawId}
+                            onResultClick={(articleId) => {
+                                setActiveArticle(articleId);
+                                window.history.pushState(null, '', `#article-${articleId}`);
+                                const el = document.getElementById(`article-${articleId}`);
+                                if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                            }}
+                        />
+                    </div>
                     <div className={fontSize}>
                         <ArticleViewer
                             articles={data.articles}
@@ -140,6 +158,18 @@ export function LawDetail({ lawId }: LawDetailProps) {
                             lawId={lawId}
                         />
                     </div>
+                    <KeyboardShortcuts
+                        articles={data.articles}
+                        activeArticle={activeArticle}
+                        onArticleChange={(articleId) => {
+                            setActiveArticle(articleId);
+                            window.history.pushState(null, '', `#article-${articleId}`);
+                            const el = document.getElementById(`article-${articleId}`);
+                            if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }}
+                        onFocusSearch={() => searchInputRef.current?.focus()}
+                        lawId={lawId}
+                    />
                 </main>
             </div>
         </div>

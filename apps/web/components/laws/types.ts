@@ -4,6 +4,8 @@ export interface Law {
     category: string;
     tier: string;
     state: string | null;
+    status?: string;
+    last_verified?: string | null;
 }
 
 export interface LawVersion {

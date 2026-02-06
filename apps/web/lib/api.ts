@@ -214,6 +214,14 @@ export const api = {
     },
 
     /**
+     * Full-text search within a specific law's articles (ES-powered)
+     */
+    searchWithinLaw: async (lawId: string, q: string): Promise<{ total: number; results: { article_id: string; snippet: string; score: number }[] }> => {
+        if (!q.trim()) return { total: 0, results: [] };
+        return fetcher(`/laws/${lawId}/search/?q=${encodeURIComponent(q)}`);
+    },
+
+    /**
      * Law-name autocomplete suggestions
      */
     suggest: async (q: string): Promise<{ id: string; name: string; tier: string }[]> => {

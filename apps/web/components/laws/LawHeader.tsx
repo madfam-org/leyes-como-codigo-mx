@@ -2,7 +2,8 @@
 
 import type { Law, LawVersion } from './types';
 import { Badge } from '@/components/ui/badge';
-import { ExternalLink, Calendar } from 'lucide-react';
+import { ExternalLink, Calendar, GitCompareArrows, AlertTriangle } from 'lucide-react';
+import Link from 'next/link';
 import { useLang } from '@/components/providers/LanguageContext';
 import { BookmarkButton } from '@/components/BookmarkButton';
 import { PDFExportButton } from '@/components/PDFExportButton';
@@ -14,12 +15,20 @@ const content = {
         tierFederal: 'Federal',
         published: 'Publicado:',
         viewOriginal: 'Ver documento original',
+        compare: 'Comparar',
+        abrogada: 'Esta ley puede estar abrogada',
+        derogada: 'Esta ley puede estar derogada',
+        lastVerified: 'Verificado:',
     },
     en: {
         tierState: 'State',
         tierFederal: 'Federal',
         published: 'Published:',
         viewOriginal: 'View original document',
+        compare: 'Compare',
+        abrogada: 'This law may be repealed',
+        derogada: 'This law may be abrogated',
+        lastVerified: 'Verified:',
     },
 };
 
@@ -68,12 +77,32 @@ export function LawHeader({ law, version }: LawHeaderProps) {
                                 </span>
                             </div>
                         )}
+
+                        {law.status && law.status !== 'vigente' && law.status !== 'unknown' && (
+                            <div className="flex items-center gap-2 rounded-md bg-warning-50 dark:bg-warning-500/10 px-3 py-2 text-sm text-warning-700 dark:text-warning-500">
+                                <AlertTriangle className="h-4 w-4 flex-shrink-0" />
+                                <span>{law.status === 'abrogada' ? t.abrogada : t.derogada}</span>
+                            </div>
+                        )}
+
+                        {law.last_verified && (
+                            <div className="text-xs text-muted-foreground">
+                                {t.lastVerified} {new Date(law.last_verified).toLocaleDateString(locale)}
+                            </div>
+                        )}
                     </div>
 
 
                     <div className="flex flex-wrap gap-2">
                         <BookmarkButton lawId={law.official_id || ''} lawName={law.name} />
                         <PDFExportButton />
+                        <Link
+                            href={`/compare?laws=${encodeURIComponent(law.official_id || '')}`}
+                            className="inline-flex items-center gap-2 rounded-md border border-input bg-background px-4 py-2 text-sm font-medium hover:bg-accent hover:text-accent-foreground transition-colors"
+                        >
+                            <GitCompareArrows className="h-4 w-4" />
+                            <span className="hidden sm:inline">{t.compare}</span>
+                        </Link>
 
                         {version.xml_file && (
                             <a

@@ -57,7 +57,20 @@ class LawDetailView(APIView):
         if law.tier == "state" and "_" in law_id:
             state = law_id.split("_")[0].replace("_", " ").title()
 
-        # 4. Format Response
+        # 4. Get article count from Elasticsearch
+        article_count = 0
+        try:
+            es = Elasticsearch([ES_HOST])
+            if es.ping():
+                count_res = es.count(
+                    index=INDEX_NAME,
+                    body={"query": {"match_phrase": {"law_id": law.official_id}}},
+                )
+                article_count = count_res.get("count", 0)
+        except Exception:
+            pass
+
+        # 5. Format Response
         data = {
             "id": law.official_id,
             "name": law.name,
@@ -66,6 +79,8 @@ class LawDetailView(APIView):
             "tier": law.tier,
             "state": state,
             "status": law.status,
+            "last_verified": law.last_verified,
+            "source_url": law.source_url,
             "versions": [
                 {
                     "publication_date": v.publication_date,
@@ -77,13 +92,14 @@ class LawDetailView(APIView):
                 }
                 for v in versions
             ],
-            # Fallback stats for UI compatibility
-            "articles": 0,
+            "articles": article_count,
             "grade": None,
             "score": None,
         }
 
-        return Response(data)
+        response = Response(data)
+        response["Cache-Control"] = "public, max-age=3600"
+        return response
 
 
 class LawListPagination(PageNumberPagination):
@@ -246,7 +262,7 @@ def law_articles(request, law_id):
 
         articles.sort(key=lambda a: _natural_sort_key(a.get("article_id", "")))
 
-        return Response(
+        response = Response(
             {
                 "law_id": law_id,
                 "law_name": law.name,
@@ -254,6 +270,8 @@ def law_articles(request, law_id):
                 "articles": articles,
             }
         )
+        response["Cache-Control"] = "public, max-age=3600"
+        return response
 
     except Exception as e:
         return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
@@ -319,7 +337,9 @@ def law_structure(request, law_id):
 
         _sort_tree(root)
 
-        return Response({"law_id": law_id, "structure": root})
+        response = Response({"law_id": law_id, "structure": root})
+        response["Cache-Control"] = "public, max-age=3600"
+        return response
 
     except Exception as e:
         return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
@@ -415,12 +435,14 @@ def suggest(request):
         .values("official_id", "name", "tier")
         .order_by("name")[:8]
     )
-    return Response(
+    response = Response(
         [
             {"id": law["official_id"], "name": law["name"], "tier": law["tier"]}
             for law in laws
         ]
     )
+    response["Cache-Control"] = "public, max-age=300"
+    return response
 
 
 def _safe_pct(count, universe):

@@ -23,8 +23,8 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Tezca — El Espejo de la Ley",
-  description: "Legislación Federal Mexicana en formato Akoma Ntoso. Acceso profesional a 50+ leyes federales con búsqueda avanzada y referencias cruzadas.",
-  keywords: ["leyes mexicanas", "código civil", "Akoma Ntoso", "legislación", "México"],
+  description: "Plataforma de legislación mexicana abierta. 11,900+ leyes federales, estatales y municipales en formato digital con búsqueda avanzada y referencias cruzadas. Open Mexican law platform.",
+  keywords: ["leyes mexicanas", "legislación mexicana", "leyes federales", "leyes estatales", "código civil", "Akoma Ntoso", "México", "Mexican law", "Tezca"],
 };
 
 export const viewport: Viewport = {

@@ -2,12 +2,12 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
     title: 'Buscar Leyes — Tezca',
-    description: 'Busca en más de 11,000 leyes federales, estatales y municipales mexicanas con filtros avanzados por jurisdicción, categoría y estado.',
+    description: 'Busca entre 11,900+ leyes mexicanas federales, estatales y municipales. Resultados con texto resaltado y filtros por jurisdiccion, categoria y estado.',
     openGraph: {
-        title: 'Buscador de Legislación Mexicana',
-        description: 'Búsqueda avanzada en el marco jurídico mexicano digitalizado.',
+        title: 'Buscador de Legislacion Mexicana — Tezca',
+        description: 'Busqueda avanzada en el marco juridico mexicano digitalizado.',
         type: 'website',
-        siteName: 'Leyes MX',
+        siteName: 'Tezca',
     },
 };
 
