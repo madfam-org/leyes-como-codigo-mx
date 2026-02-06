@@ -38,11 +38,11 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    "TITLE": "Leyes Como Código MX API",
-    "DESCRIPTION": "API for the Mexican open law platform. Search, browse, and analyze 11,600+ federal and state laws in machine-readable format.",
+    "TITLE": "Tezca API",
+    "DESCRIPTION": "API for tezca.mx — Mexico's open law platform. Search, browse, and analyze 11,900+ federal and state laws in machine-readable format.",
     "VERSION": "1.0.0",
-    "CONTACT": {"name": "Leyes Como Código MX", "url": "https://github.com/leyesmx"},
-    "LICENSE": {"name": "MIT"},
+    "CONTACT": {"name": "Tezca", "url": "https://tezca.mx"},
+    "LICENSE": {"name": "AGPL-3.0"},
     "TAGS": [
         {
             "name": "Laws",
@@ -120,7 +120,56 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = "static/"
+STATIC_ROOT = BASE_DIR / "staticfiles"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+# ── Production Security ───────────────────────────────────────────────
+if not DEBUG:
+    SECURE_SSL_REDIRECT = True
+    SECURE_HSTS_SECONDS = 31536000
+    SECURE_HSTS_INCLUDE_SUBDOMAINS = True
+    SECURE_HSTS_PRELOAD = True
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+    SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+
+# ── Janua Auth ────────────────────────────────────────────────────────
+JANUA_BASE_URL = os.environ.get("JANUA_BASE_URL", "")
+JANUA_AUDIENCE = os.environ.get("JANUA_AUDIENCE", "tezca-api")
+
+# ── Logging ───────────────────────────────────────────────────────────
+LOGGING = {
+    "version": 1,
+    "disable_existing_loggers": False,
+    "formatters": {
+        "json": {
+            "()": "django.utils.log.ServerFormatter",
+            "format": "%(asctime)s %(levelname)s %(name)s %(message)s",
+        },
+    },
+    "handlers": {
+        "console": {
+            "class": "logging.StreamHandler",
+            "formatter": "json",
+        },
+    },
+    "root": {
+        "handlers": ["console"],
+        "level": os.environ.get("LOG_LEVEL", "INFO"),
+    },
+    "loggers": {
+        "django": {
+            "handlers": ["console"],
+            "level": os.environ.get("DJANGO_LOG_LEVEL", "INFO"),
+            "propagate": False,
+        },
+        "apps.api": {
+            "handlers": ["console"],
+            "level": "INFO",
+            "propagate": False,
+        },
+    },
+}
 
 # ── Celery ──────────────────────────────────────────────────────────────
 CELERY_BROKER_URL = os.environ.get("CELERY_BROKER_URL", "redis://localhost:6379/0")

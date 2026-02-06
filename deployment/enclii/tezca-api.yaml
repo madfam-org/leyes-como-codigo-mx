@@ -1,0 +1,56 @@
+service: tezca-api
+image: ghcr.io/madfam-org/tezca/api
+dockerfile: apps/indigo/Dockerfile
+port: 8000
+protocol: http
+health:
+  path: /api/v1/admin/health/
+  interval: 30s
+  timeout: 5s
+  initialDelay: 15s
+domains:
+  - api.tezca.mx
+replicas:
+  min: 2
+  max: 6
+autoscaling:
+  cpu: 70
+  memory: 80
+resources:
+  requests:
+    memory: 512Mi
+    cpu: 250m
+  limits:
+    memory: 2Gi
+    cpu: 1000m
+env:
+  - name: DJANGO_SECRET_KEY
+    secretRef: tezca-secrets/django-secret-key
+  - name: DEBUG
+    value: "False"
+  - name: ALLOWED_HOSTS
+    value: "api.tezca.mx"
+  - name: CORS_ALLOWED_ORIGINS
+    value: "https://tezca.mx,https://www.tezca.mx,https://admin.tezca.mx"
+  - name: DB_ENGINE
+    value: "django.db.backends.postgresql"
+  - name: DB_NAME
+    value: "tezca"
+  - name: DB_USER
+    secretRef: tezca-secrets/db-user
+  - name: DB_PASSWORD
+    secretRef: tezca-secrets/db-password
+  - name: DB_HOST
+    secretRef: tezca-secrets/db-host
+  - name: DB_PORT
+    value: "5432"
+  - name: CELERY_BROKER_URL
+    value: "redis://tezca-redis.tezca.svc.cluster.local:6379/0"
+  - name: CELERY_RESULT_BACKEND
+    value: "redis://tezca-redis.tezca.svc.cluster.local:6379/0"
+  - name: ES_HOST
+    value: "http://tezca-es.tezca.svc.cluster.local:9200"
+  - name: JANUA_BASE_URL
+    value: "https://auth.madfam.dev"
+  - name: JANUA_AUDIENCE
+    value: "tezca-api"

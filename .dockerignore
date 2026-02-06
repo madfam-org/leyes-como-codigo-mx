@@ -1,0 +1,58 @@
+# Version control
+.git
+.gitignore
+
+# Dependencies (rebuilt in container)
+node_modules
+.venv
+__pycache__
+*.pyc
+*.pyo
+
+# Data files (mounted or ingested separately)
+data/
+db.sqlite3
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Engines (experimental, not deployed)
+engines/
+
+# Development files
+.env
+.env.*
+!.env.example
+*.log
+.pytest_cache
+.coverage
+htmlcov/
+.mypy_cache
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+apps/web/e2e/
+apps/web/__tests__/
+tests/
+playwright-report/
+test-results/
+
+# Build artifacts
+apps/web/.next
+apps/admin/.next
+dist/
+build/
+
+# Scripts (not needed in container)
+scripts/

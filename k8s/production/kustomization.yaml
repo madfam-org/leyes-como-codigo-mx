@@ -1,0 +1,29 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+namespace: tezca
+
+resources:
+  - namespace.yaml
+  - tezca-api-deployment.yaml
+  - tezca-api-service.yaml
+  - tezca-web-deployment.yaml
+  - tezca-web-service.yaml
+  - tezca-admin-deployment.yaml
+  - tezca-admin-service.yaml
+  - tezca-worker-deployment.yaml
+  - tezca-beat-deployment.yaml
+  - tezca-redis-deployment.yaml
+  - tezca-redis-service.yaml
+  - tezca-redis-pvc.yaml
+  - tezca-es-deployment.yaml
+  - tezca-es-service.yaml
+  - tezca-es-pvc.yaml
+
+images:
+  - name: ghcr.io/madfam-org/tezca/api
+    newTag: latest
+  - name: ghcr.io/madfam-org/tezca/web
+    newTag: latest
+  - name: ghcr.io/madfam-org/tezca/admin
+    newTag: latest

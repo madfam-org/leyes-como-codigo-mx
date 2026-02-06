@@ -1,0 +1,118 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tezca-api
+  labels:
+    app.kubernetes.io/name: tezca-api
+    app.kubernetes.io/part-of: tezca
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: tezca-api
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: tezca-api
+        app.kubernetes.io/part-of: tezca
+    spec:
+      containers:
+        - name: api
+          image: ghcr.io/madfam-org/tezca/api
+          ports:
+            - containerPort: 8000
+              protocol: TCP
+          env:
+            - name: DJANGO_SECRET_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DJANGO_SECRET_KEY
+            - name: DB_USER
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DB_USER
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DB_PASSWORD
+            - name: DB_HOST
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DB_HOST
+            - name: DEBUG
+              value: "False"
+            - name: DB_ENGINE
+              value: "django.db.backends.postgresql"
+            - name: DB_NAME
+              value: "tezca"
+            - name: DB_PORT
+              value: "5432"
+            - name: CELERY_BROKER_URL
+              value: "redis://tezca-redis:6379/0"
+            - name: CELERY_RESULT_BACKEND
+              value: "redis://tezca-redis:6379/0"
+            - name: ES_HOST
+              value: "http://tezca-es:9200"
+            - name: ALLOWED_HOSTS
+              value: "api.tezca.mx"
+            - name: CORS_ALLOWED_ORIGINS
+              value: "https://tezca.mx,https://www.tezca.mx,https://admin.tezca.mx"
+            - name: JANUA_BASE_URL
+              value: "https://auth.madfam.dev"
+            - name: JANUA_AUDIENCE
+              value: "tezca-api"
+          livenessProbe:
+            httpGet:
+              path: /api/v1/admin/health/
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /api/v1/admin/health/
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 3
+          resources:
+            requests:
+              cpu: 250m
+              memory: 512Mi
+            limits:
+              cpu: 1000m
+              memory: 2Gi
+---
+apiVersion: autoscaling/v2
+kind: HorizontalPodAutoscaler
+metadata:
+  name: tezca-api
+  labels:
+    app.kubernetes.io/name: tezca-api
+    app.kubernetes.io/part-of: tezca
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: tezca-api
+  minReplicas: 2
+  maxReplicas: 6
+  metrics:
+    - type: Resource
+      resource:
+        name: cpu
+        target:
+          type: Utilization
+          averageUtilization: 70
+    - type: Resource
+      resource:
+        name: memory
+        target:
+          type: Utilization
+          averageUtilization: 80

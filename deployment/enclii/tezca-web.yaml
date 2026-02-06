@@ -1,0 +1,31 @@
+service: tezca-web
+image: ghcr.io/madfam-org/tezca/web
+dockerfile: apps/web/Dockerfile
+port: 3000
+protocol: http
+health:
+  path: /api/health
+  interval: 30s
+  timeout: 5s
+  initialDelay: 10s
+domains:
+  - tezca.mx
+  - www.tezca.mx
+replicas:
+  min: 2
+  max: 5
+autoscaling:
+  cpu: 70
+  memory: 80
+resources:
+  requests:
+    memory: 128Mi
+    cpu: 100m
+  limits:
+    memory: 512Mi
+    cpu: 500m
+env:
+  - name: NEXT_PUBLIC_API_URL
+    value: "https://api.tezca.mx/api/v1"
+buildArgs:
+  - NEXT_PUBLIC_API_URL=https://api.tezca.mx/api/v1

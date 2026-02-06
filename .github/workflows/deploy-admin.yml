@@ -1,0 +1,88 @@
+name: Deploy Admin
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "apps/admin/**"
+      - "packages/ui/**"
+      - "packages/lib/**"
+      - "apps/admin/Dockerfile"
+      - "!k8s/production/kustomization.yaml"
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: madfam-org/tezca/admin
+
+jobs:
+  build-and-push:
+    name: Build & Push Admin Image
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.MADFAM_BOT_PAT }}
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.MADFAM_BOT_PAT }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build and push
+        id: build
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: apps/admin/Dockerfile
+          push: true
+          tags: |
+            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
+          build-args: |
+            NEXT_PUBLIC_API_URL=https://api.tezca.mx/api/v1
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+          provenance: false
+          sbom: false
+
+      - name: Update kustomization digest
+        run: |
+          DIGEST="${{ steps.build.outputs.digest }}"
+          cd k8s/production
+          sed -i "/name: ghcr.io\/madfam-org\/tezca\/admin/{n;s|newTag:.*|newTag: \"${DIGEST}\"|}" kustomization.yaml
+
+      - name: Commit and push digest
+        run: |
+          git config user.name "madfam-bot"
+          git config user.email "bot@madfam.dev"
+          git add k8s/production/kustomization.yaml
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main
+            git commit -m "deploy(admin): update image digest to ${GITHUB_SHA::8}" --allow-empty && \
+            git push origin main && break
+            echo "Retry $i..."
+            sleep $((i * 2))
+          done
+
+      - name: Report lifecycle event
+        if: always()
+        run: |
+          curl -sf -X POST "https://api.enclii.dev/v1/lifecycle/deploy" \
+            -H "Authorization: Bearer ${{ secrets.ENCLII_CALLBACK_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"service\": \"tezca-admin\",
+              \"sha\": \"${{ github.sha }}\",
+              \"status\": \"${{ job.status }}\",
+              \"actor\": \"${{ github.actor }}\"
+            }" || true

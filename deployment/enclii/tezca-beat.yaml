@@ -1,0 +1,37 @@
+service: tezca-beat
+image: ghcr.io/madfam-org/tezca/api
+command: ["celery", "-A", "apps.indigo", "beat", "--loglevel=info", "--scheduler", "django_celery_beat.schedulers:DatabaseScheduler"]
+singleton: true
+replicas:
+  min: 1
+  max: 1
+autoscaling: false
+resources:
+  requests:
+    memory: 256Mi
+    cpu: 100m
+  limits:
+    memory: 512Mi
+    cpu: 250m
+env:
+  # Same as worker
+  - name: DJANGO_SECRET_KEY
+    secretRef: tezca-secrets/django-secret-key
+  - name: DEBUG
+    value: "False"
+  - name: DB_ENGINE
+    value: "django.db.backends.postgresql"
+  - name: DB_NAME
+    value: "tezca"
+  - name: DB_USER
+    secretRef: tezca-secrets/db-user
+  - name: DB_PASSWORD
+    secretRef: tezca-secrets/db-password
+  - name: DB_HOST
+    secretRef: tezca-secrets/db-host
+  - name: DB_PORT
+    value: "5432"
+  - name: CELERY_BROKER_URL
+    value: "redis://tezca-redis.tezca.svc.cluster.local:6379/0"
+  - name: CELERY_RESULT_BACKEND
+    value: "redis://tezca-redis.tezca.svc.cluster.local:6379/0"

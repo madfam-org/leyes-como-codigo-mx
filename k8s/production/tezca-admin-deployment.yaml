@@ -1,0 +1,60 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tezca-admin
+  labels:
+    app.kubernetes.io/name: tezca-admin
+    app.kubernetes.io/part-of: tezca
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: tezca-admin
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: tezca-admin
+        app.kubernetes.io/part-of: tezca
+    spec:
+      containers:
+        - name: admin
+          image: ghcr.io/madfam-org/tezca/admin
+          ports:
+            - containerPort: 3001
+              protocol: TCP
+          env:
+            - name: NEXT_PUBLIC_API_URL
+              value: "https://api.tezca.mx/api/v1"
+            - name: NEXT_PUBLIC_JANUA_PUBLISHABLE_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: NEXT_PUBLIC_JANUA_PUBLISHABLE_KEY
+            - name: JANUA_SECRET_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: JANUA_SECRET_KEY
+          livenessProbe:
+            httpGet:
+              path: /api/health
+              port: 3001
+            initialDelaySeconds: 15
+            periodSeconds: 30
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /api/health
+              port: 3001
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 3
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: 250m
+              memory: 256Mi

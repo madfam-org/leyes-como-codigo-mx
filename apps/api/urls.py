@@ -1,4 +1,6 @@
 from django.urls import path
+from rest_framework.decorators import authentication_classes, permission_classes
+from rest_framework.permissions import IsAuthenticated
 
 from .admin_views import (
     coverage_summary,
@@ -22,22 +24,41 @@ from .law_views import (
     states_list,
     suggest,
 )
+from .middleware.janua_auth import JanuaJWTAuthentication
 from .search_views import SearchView
 from .views import CalculationView, IngestionView
 
+
+def _protected(view_func):
+    """Apply Janua JWT authentication to an admin view."""
+    view_func = authentication_classes([JanuaJWTAuthentication])(view_func)
+    view_func = permission_classes([IsAuthenticated])(view_func)
+    return view_func
+
+
 urlpatterns = [
+    # ── Admin endpoints (Janua-protected) ─────────────────────────────
+    # Health check stays open for K8s liveness probes
     path("admin/health/", health_check, name="admin-health"),
-    path("admin/metrics/", system_metrics, name="admin-metrics"),
-    path("admin/jobs/", list_jobs, name="admin-jobs-list"),
-    path("admin/jobs/status/", job_status, name="admin-job-status"),
-    path("admin/config/", system_config, name="admin-config"),
-    path("admin/pipeline/status/", pipeline_status, name="admin-pipeline-status"),
-    path("admin/coverage/", coverage_summary, name="admin-coverage"),
-    path("admin/health-sources/", health_sources, name="admin-health-sources"),
-    path("admin/gaps/", gap_records, name="admin-gaps"),
+    # Protected admin endpoints
+    path("admin/metrics/", _protected(system_metrics), name="admin-metrics"),
+    path("admin/jobs/", _protected(list_jobs), name="admin-jobs-list"),
+    path("admin/jobs/status/", _protected(job_status), name="admin-job-status"),
+    path("admin/config/", _protected(system_config), name="admin-config"),
+    path(
+        "admin/pipeline/status/",
+        _protected(pipeline_status),
+        name="admin-pipeline-status",
+    ),
+    path("admin/coverage/", _protected(coverage_summary), name="admin-coverage"),
+    path(
+        "admin/health-sources/", _protected(health_sources), name="admin-health-sources"
+    ),
+    path("admin/gaps/", _protected(gap_records), name="admin-gaps"),
+    path("ingest/", _protected(IngestionView.as_view()), name="ingest"),
+    # ── Public endpoints (no auth) ────────────────────────────────────
     path("calculate/", CalculationView.as_view(), name="calculate"),
     path("search/", SearchView.as_view(), name="search"),
-    path("ingest/", IngestionView.as_view(), name="ingest"),
     path("stats/", law_stats, name="law-stats"),
     path("laws/", LawListView.as_view(), name="law-list"),
     path("laws/<str:law_id>/", LawDetailView.as_view(), name="law-detail"),

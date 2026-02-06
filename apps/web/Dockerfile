@@ -1,22 +1,69 @@
-# apps/web/Dockerfile
-FROM node:20-alpine
+# apps/web/Dockerfile — Next.js public portal
+# Build context: project root (monorepo)
 
+# ── Stage 1: Dependencies ────────────────────────────────────────────
+FROM node:20-alpine AS deps
 WORKDIR /app
 
-# Copy package files
-COPY apps/web/package.json apps/web/package-lock.json ./
+# Copy workspace root package files
+COPY package.json package-lock.json ./
 
-# Install dependencies
-RUN npm ci
+# Copy workspace package.json files for dependency resolution
+COPY apps/web/package.json apps/web/package.json
+COPY packages/ui/package.json packages/ui/package.json
+COPY packages/lib/package.json packages/lib/package.json
+
+# Install dependencies (workspaces need all package.json files present)
+RUN npm ci --workspace=apps/web --workspace=packages/ui --workspace=packages/lib
+
+# ── Stage 2: Build ───────────────────────────────────────────────────
+FROM node:20-alpine AS builder
+WORKDIR /app
+
+COPY --from=deps /app/node_modules ./node_modules
+COPY --from=deps /app/apps/web/node_modules ./apps/web/node_modules
+COPY --from=deps /app/packages/ui/node_modules ./packages/ui/node_modules 2>/dev/null || true
+COPY --from=deps /app/packages/lib/node_modules ./packages/lib/node_modules 2>/dev/null || true
 
 # Copy source code
-COPY apps/web .
+COPY package.json package-lock.json ./
+COPY apps/web ./apps/web
+COPY packages/ui ./packages/ui
+COPY packages/lib ./packages/lib
+COPY packages/tsconfig ./packages/tsconfig
 
-# Build the app
-RUN npm run build
+# Build args injected at build time
+ARG NEXT_PUBLIC_API_URL
+ARG NEXT_PUBLIC_AUTH_URL
+ENV NEXT_PUBLIC_API_URL=$NEXT_PUBLIC_API_URL
+ENV NEXT_PUBLIC_AUTH_URL=$NEXT_PUBLIC_AUTH_URL
 
-# Expose port
+# Enable Next.js standalone output for smaller images
+ENV NEXT_TELEMETRY_DISABLED=1
+RUN npm run build --workspace=apps/web
+
+# ── Stage 3: Runtime ─────────────────────────────────────────────────
+FROM node:20-alpine AS runner
+WORKDIR /app
+
+ENV NODE_ENV=production
+ENV NEXT_TELEMETRY_DISABLED=1
+
+RUN addgroup --system --gid 1001 nodejs && \
+    adduser --system --uid 1001 nextjs
+
+# Copy standalone build output
+COPY --from=builder /app/apps/web/.next/standalone ./
+COPY --from=builder /app/apps/web/.next/static ./apps/web/.next/static
+COPY --from=builder /app/apps/web/public ./apps/web/public
+
+USER nextjs
+
 EXPOSE 3000
+ENV PORT=3000
+ENV HOSTNAME="0.0.0.0"
 
-# Start the app
-CMD ["npm", "start"]
+HEALTHCHECK --interval=30s --timeout=5s --start-period=10s --retries=3 \
+    CMD wget --no-verbose --tries=1 --spider http://localhost:3000/api/health || exit 1
+
+CMD ["node", "apps/web/server.js"]

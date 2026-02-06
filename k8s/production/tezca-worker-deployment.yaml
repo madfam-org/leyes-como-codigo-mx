@@ -1,0 +1,70 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tezca-worker
+  labels:
+    app.kubernetes.io/name: tezca-worker
+    app.kubernetes.io/part-of: tezca
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: tezca-worker
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: tezca-worker
+        app.kubernetes.io/part-of: tezca
+    spec:
+      containers:
+        - name: worker
+          image: ghcr.io/madfam-org/tezca/api
+          command:
+            - celery
+            - -A
+            - apps.indigo
+            - worker
+            - --loglevel=info
+            - --concurrency=4
+          env:
+            - name: DJANGO_SECRET_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DJANGO_SECRET_KEY
+            - name: DB_USER
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DB_USER
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DB_PASSWORD
+            - name: DB_HOST
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-secrets
+                  key: DB_HOST
+            - name: DEBUG
+              value: "False"
+            - name: DB_ENGINE
+              value: "django.db.backends.postgresql"
+            - name: DB_NAME
+              value: "tezca"
+            - name: DB_PORT
+              value: "5432"
+            - name: CELERY_BROKER_URL
+              value: "redis://tezca-redis:6379/0"
+            - name: CELERY_RESULT_BACKEND
+              value: "redis://tezca-redis:6379/0"
+            - name: ES_HOST
+              value: "http://tezca-es:9200"
+          resources:
+            requests:
+              cpu: 250m
+              memory: 512Mi
+            limits:
+              cpu: 1000m
+              memory: 2Gi

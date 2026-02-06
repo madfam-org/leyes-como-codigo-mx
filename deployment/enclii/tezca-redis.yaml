@@ -1,0 +1,16 @@
+service: tezca-redis
+image: redis:7-alpine
+port: 6379
+replicas:
+  min: 1
+  max: 1
+resources:
+  requests:
+    memory: 128Mi
+    cpu: 50m
+  limits:
+    memory: 512Mi
+    cpu: 250m
+storage:
+  size: 5Gi
+  mountPath: /data

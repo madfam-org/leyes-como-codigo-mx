@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: tezca-redis
+  labels:
+    app.kubernetes.io/name: tezca-redis
+    app.kubernetes.io/part-of: tezca
+spec:
+  type: ClusterIP
+  selector:
+    app.kubernetes.io/name: tezca-redis
+  ports:
+    - port: 6379
+      targetPort: 6379
+      protocol: TCP
