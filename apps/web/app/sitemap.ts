@@ -46,7 +46,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   // Dynamic law routes — paginate through API
-  let lawRoutes: MetadataRoute.Sitemap = [];
+  const lawRoutes: MetadataRoute.Sitemap = [];
   try {
     const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
     let nextUrl: string | null = `${apiUrl}/laws/?page_size=200`;
