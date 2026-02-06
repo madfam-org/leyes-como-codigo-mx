@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2003-07-09/lissfam/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2003-07-09/lissfam/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -320,9 +320,9 @@ Secretaría Anticorrupción y Buen Gobierno.
               <p>Artículo reformado DOF 08-05-2006</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. La Junta Directiva del Instituto actuará válidamente con la concurrencia de seis de sus
 miembros.
@@ -330,17 +330,17 @@ Sus resoluciones se tomarán por mayoría de votos de los miembros presentes.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Los acuerdos de la Junta Directiva serán ejecutados por el Director General.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- Son atribuciones de la Junta Directiva:
 I. Decidir las inversiones del Instituto;
@@ -394,25 +394,25 @@ XVI. En general, realizar todos aquellos actos y operaciones legalmente autoriza
 fuesen necesarios para la mejor administración o gobierno del Instituto.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 08-05-2006</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Son atribuciones del Director General:
 I. Representar al Instituto;
@@ -443,9 +443,9 @@ XII. Las demás que señalen esta Ley, su Reglamento y demás disposiciones apli
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. El Director General tendrá todas las facultades que corresponden a los mandatarios
 generales para pleitos y cobranzas; actos de administración y de dominio y aquellos que requieran
@@ -458,9 +458,9 @@ de personas ajenas al Instituto, deberá recabar el acuerdo de la Junta Directiv
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. El Instituto enviará para los efectos de la Ley, a la Secretaría de Hacienda y Crédito
 Público, los planes y programas de inversión, los presupuestos de ingresos y egresos y las
@@ -468,9 +468,9 @@ modificaciones a los mismos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. Las remuneraciones del Director General, subdirector general, de los directores de área y
 de los demás funcionarios y empleados del organismo, serán fijadas en su presupuesto anual de
@@ -478,9 +478,9 @@ egresos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. El Subdirector General, además de suplir al Director General en sus ausencias
 temporales y de desempeñar las funciones propias o en las cuales le delegue facultades, autorizará las
@@ -490,9 +490,9 @@ Hacienda y Crédito Público, los programas anuales de operación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Las prestaciones que se otorgarán con arreglo a esta Ley son las siguientes:
 I. Haber de retiro;
@@ -535,28 +535,28 @@ XXVII. Beca especial.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Fracción adicionada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Fracción adicionada DOF 05-06-2012</p>
             </note>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Fracción adicionada DOF 05-06-2012</p>
             </note>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Fracción adicionada DOF 05-06-2012</p>
             </note>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Las Secretarías de la Defensa Nacional y de Marina, tramitarán ante el Instituto, la
 afiliación de su respectivo personal en situación de activo y de retiro, y a sus derechohabientes. Los
@@ -575,16 +575,16 @@ de nacimiento del hijo de que se trate, o por mandamiento judicial.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 03-04-2012</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. El Instituto expedirá a los demás beneficiarios de esta Ley una Cédula de Identificación a
 fin de que puedan ejercitar los derechos que legalmente les correspondan. En caso de que el beneficiario
@@ -595,9 +595,9 @@ de extrema urgencia, a reserva de probar posteriormente el derecho que les asist
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Retiro es la facultad que tiene el Estado y que ejerce por conducto de las Secretarías de
 la Defensa Nacional y de Marina para separar del activo a los militares al ocurrir alguna de las causales
@@ -618,13 +618,13 @@ sola exhibición, en los términos y condiciones que fije esta Ley.
 Reforma DOF 20-11-2008: Derogó del artículo el entonces párrafo cuarto</p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Tienen derecho a las prestaciones que establece el presente Capítulo, únicamente en los
 casos y condiciones que se especifican:
@@ -650,16 +650,16 @@ Secretaría de origen, por no ser necesarios sus servicios o al término de su c
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. El haber de retiro integrado como se establece en el artículo 31 y la compensación, así
 como la pensión, se cubrirán con cargo al erario federal.
@@ -669,9 +669,9 @@ activo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Son causas de retiro:
 I. Llegar a la edad límite que fija el artículo 25 de esta Ley;
@@ -692,22 +692,22 @@ VI. Solicitarlo después de haber prestado por lo menos veinte años de servicio
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-24" placement="bottom">
+            <note placementBase="#art-24." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-24" placement="bottom">
+            <note placementBase="#art-24." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-24" placement="bottom">
+            <note placementBase="#art-24." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-24" placement="bottom">
+            <note placementBase="#art-24." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. La edad límite de los militares para permanecer en el activo es la siguiente:
 Años
@@ -733,13 +733,13 @@ orgánicas de dichas Fuerzas Armadas y la Ley de la Guardia Nacional, respectiva
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Los de Estado Mayor, los que hayan obtenido un grado académico a nivel de licenciatura
 o superior, los especialistas, técnicos, mecánicos y los servidores domésticos de instalaciones militares
@@ -753,13 +753,13 @@ Ejecutivo sean necesarios sus servicios.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Los militares que por resolución definitiva pasen a situación de retiro, ascenderán al
 grado inmediato únicamente para ese fin y para el cálculo del beneficio económico correspondiente,
@@ -777,13 +777,13 @@ Años de Servicios Años en el Grado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Artículo reformado DOF 04-02-2011</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Los militares que ostenten el grado máximo en un servicio o especialidad que, por
 disposición legal, sea inferior al de General de División ascenderán al grado inmediato, únicamente para
@@ -802,9 +802,9 @@ militar para efectos de retiro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Los militares retirados y los pensionistas tendrán obligación de pasar revista de
 supervivencia en los términos de las disposiciones reglamentarias. Los Generales y Jefes del Ejército,
@@ -813,13 +813,13 @@ retirados, quedan exceptuados de esta obligación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Los militares retirados podrán volver al activo:
 I. Cuando hayan sido retirados por enfermedad que dure más de seis meses, siempre que la
@@ -862,13 +862,13 @@ cobrado, y el reintegro se hará en los términos que señalan los incisos c) y 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Para integrar el monto total de:
 I. Haber de retiro, se tomará como base el porcentaje del haber del grado con que vayan a ser
@@ -935,16 +935,16 @@ cause alta en situación de retiro o en la reserva o baja por fallecimiento.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Fracción reformada DOF 03-04-2012</p>
             </note>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Los haberes de retiro, compensaciones y pensiones quedan exentos de todo impuesto.
 Sólo podrán reducirse por adeudos contraídos con el Instituto por créditos hipotecarios o resolución
@@ -955,20 +955,13 @@ periódica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Tienen derecho al 100% del haber de la jerarquía que se reconozca para efectos de
-retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
-              <content>
-                <p>artículo 31 de esta Ley:
+retiro, como base de cálculo para determinar el monto del haber de retiro en la forma establecida en el
+artículo 31 de esta Ley:
 I. Los militares incapacitados en acción de armas o a consecuencia de lesiones recibidas en ella;
 II. Los militares que tuviesen las asignaciones de técnico, de vuelo, de salto o técnico especial, que
 se incapaciten en actos propios de su servicio;
@@ -980,13 +973,13 @@ IV. Los militares que hayan cumplido 30 ó más años de servicios.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Los militares incapacitados en actos del servicio o a consecuencia de éstos,
 comprendidos en la fracción III del artículo 33 de esta Ley, con tiempo de servicios menor de 14 años y
@@ -1007,13 +1000,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Los militares que hayan llegado a la edad límite que fija el artículo 25 de esta Ley, los
 que se hayan incapacitado fuera de actos del servicio, los imposibilitados para el desempeño de las
@@ -1043,13 +1036,13 @@ incapacidad.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Tienen derecho a compensación los militares que tengan cinco o más años de servicio,
 sin llegar a veinte, que se encuentren comprendidos en los siguientes casos:
@@ -1069,16 +1062,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. La compensación a que se refiere el artículo anterior será calculada conforme a la tabla
 siguiente:
@@ -1101,9 +1094,9 @@ Años de Servicios Meses de Haber
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Se consideran familiares de los militares, para los efectos de pensión y/o compensación:
 I. La viuda o el viudo solos o en concurrencia con los hijos, o estos solos si son menores de edad;
@@ -1140,16 +1133,16 @@ sus derechos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Los familiares mencionados en cada una de las fracciones del artículo anterior, excluyen
 a los comprendidos en las siguientes, salvo los casos de los padres, los cuales pueden concurrir con los
@@ -1158,13 +1151,13 @@ militar.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-39" placement="bottom">
+            <note placementBase="#art-39." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Los familiares del militar muerto en el activo en actos del servicio o como consecuencia
 de ellos, tienen derecho a una pensión equivalente al 100% del haber del grado que le hubiera
@@ -1180,16 +1173,16 @@ de su domicilio al lugar donde prestaba sus servicios o viceversa.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo adicionado DOF 03-04-2012</p>
             </note>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Si hubiere varios familiares con derecho a pensión o compensación, el importe de éstas
 se dividirá por partes iguales entre los beneficiarios.
@@ -1198,9 +1191,9 @@ proporcionalmente la de los demás.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Si otorgada una pensión aparecen otros familiares con derecho a la misma, se les hará
 extensiva, pero sólo percibirán su parte desde la fecha en que les sea concedida, sin que puedan
@@ -1210,9 +1203,9 @@ pago.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. En el caso de que dos o más interesados reclamen derechos a pensión o compensación
 como cónyuges supérstite de algún militar, exhibiendo sus respectivas actas del Registro Civil, se
@@ -1223,9 +1216,9 @@ forma anteriormente indicada acredite su derecho.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Cuando un interesado, ostentándose cónyuge supérstite del militar, se presente a
 reclamar beneficio cuando ya se haya concedido pensión a otra persona por el mismo concepto, sólo se
@@ -1242,36 +1235,36 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Las pensiones fijadas en esta Ley serán pagadas a partir del día siguiente de la muerte
 del militar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. Los requisitos exigidos por esta Ley a los familiares de un militar para tener derecho a las
 prestaciones derivadas de la muerte de éste deben estar reunidos al acaecer el fallecimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Los hijos adoptivos sólo tendrán derecho a los beneficios que establece esta Ley cuando
 la adopción se haya hecho por el militar antes de haber cumplido 45 años de edad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. El derecho para recibir haber de retiro o compensación se origina por la resolución
 definitiva dictada por el Instituto y sancionada por la Secretaría de Hacienda y Crédito Público. El haber
@@ -1279,9 +1272,9 @@ de retiro se cubrirá a partir de la fecha de alta en situación de retiro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. El derecho para percibir pensión o compensación en favor de familiares de los militares
 se origina por la resolución definitiva dictada por el Instituto y sancionada por la Secretaría de Hacienda y
@@ -1289,9 +1282,9 @@ Crédito Público, pero la pensión se cubrirá a partir del día siguiente al d
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. La baja en el Ejército, Fuerza Aérea, Armada y Guardia Nacional, salvo la que se ordene
 por muerte del militar y la señalada en la fracción V del artículo 36 de esta Ley, extingue todo derecho a
@@ -1300,13 +1293,13 @@ servicios militares.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- El derecho a percibir beneficios de retiro se pierde por alguna de las siguientes causas:
 
@@ -1319,19 +1312,19 @@ gestiones de cobro en un lapso de tres años.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. Los derechos a percibir compensación o pensión se pierden para los familiares por
 alguna de las siguientes causas:
@@ -1359,19 +1352,19 @@ del militar.
  (se recorre)</p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Fracción adicionada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. La renuncia de derechos para percibir beneficios económicos nunca será en perjuicio de
 terceros. Si la formulase algún militar, sus familiares percibirán la compensación o la pensión que les
@@ -1380,22 +1373,22 @@ familiar de militar, su parte acrecentará proporcionalmente la de los demás fa
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. Los términos a los que se refieren las fracciones VI y VII del artículo 52 de esta Ley, no
 proceden para los menores de edad o incapacitados.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. En caso de fallecimiento de un militar, el familiar que acredite mediante factura original
 haber realizado los gastos de sepelio tendrá derecho a que se les cubra, por concepto de pagas de
@@ -1408,13 +1401,13 @@ percibiendo haber de retiro.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Cuando los familiares del militar fallecido no acudieren a atender la inhumación, la
 autoridad militar o naval correspondiente tendrá la obligación de encargarse del sepelio. Los gastos
@@ -1427,13 +1420,13 @@ del presente artículo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. Los Generales, Jefes, Oficiales, y sus equivalentes en la Armada tendrán derecho a que
 se les otorgue el equivalente a veinte días de haber o haber de retiro, más asignaciones, cuando las
@@ -1455,16 +1448,16 @@ percibiendo haber de retiro.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. El fondo de trabajo estará constituido con las aportaciones que el Gobierno Federal
 realice a favor de cada elemento de tropa y personal de tripulación, equivalente al 11% de sus haberes, a
@@ -1475,9 +1468,9 @@ conforme a su Ley Orgánica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Para constituir el fondo de ahorro los Generales, Jefes, Oficiales y sus equivalentes en la
 Armada en servicio activo, deberán aportar una cuota quincenal equivalente al 6% de sus haberes. Al
@@ -1486,9 +1479,9 @@ por el Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, conforme a su 
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. Seguro de Vida Militar es la prestación que tiene por objeto proporcionar un beneficio
 económico a los beneficiarios o familiares de los militares por el fallecimiento de éstos, cualquiera que
@@ -1498,21 +1491,21 @@ contenidas en el artículo 226 de esta Ley, contraída en actos del servicio o c
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-60" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. El Instituto administrará el fondo del seguro de vida militar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. Tienen derecho a este seguro:
 I. El personal militar en activo y el que se encuentre en situación de retiro con derecho a percibir
@@ -1526,9 +1519,9 @@ V. Los militares procesados o sentenciados que no hayan perdido su personalidad 
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. Es obligación del Instituto pagar por concepto de suma asegurada:
 I. El equivalente a cuarenta meses de haberes y sobrehaberes para la Fuerza Armada Permanente
@@ -1577,28 +1570,28 @@ destitución del empleo militar.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Inciso reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Inciso reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. El pago de la suma asegurada, en cualquiera de los casos, se hará en una sola
 exhibición directamente a los beneficiarios del militar fallecido; tratándose de incapacidad, la entrega se
@@ -1606,26 +1599,26 @@ hará al mismo militar asegurado o a la persona legalmente acreditada por él, s
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. El pago de la suma asegurada por incapacidad excluye el pago de la suma asegurada
 por fallecimiento.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. El importe de la prima correspondiente al seguro de vida de los militares en servicio
 estará a cargo del Gobierno Federal y será del 2.0% (dos punto cero por ciento) de los haberes y el
@@ -1639,13 +1632,13 @@ autorizado conforme a las percepciones correspondientes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. El importe de la prima que corresponda a cargo del Gobierno Federal será aportado al
 Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas por conducto de la Secretaría de
@@ -1654,18 +1647,18 @@ Marina en sus partes correspondientes y se cubrirá por trimestres adelantados.<
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. En ningún caso se podrá disponer, para fines distintos de los que expresamente
 determina esta Ley, del dinero o bienes afectos al fondo del seguro de vida militar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. El seguro de vida militar comprende el régimen potestativo, el cual se regula conforme a
 lo siguiente:
@@ -1686,9 +1679,9 @@ diferencia de la prima será cubierta por estos militares en el semestre siguien
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. Los militares podrán en cualquier tiempo, cuando así lo deseen, dejar de participar en el
 seguro notificándolo por escrito al Instituto; en este caso, el seguro se extingue al concluir el periodo por
@@ -1700,9 +1693,9 @@ semestre, dicha cuota se descontará del importe de la suma asegurada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Aquellos militares que se encuentren gozando de licencia ilimitada o licencia especial sin
 goce de haberes, así como los que hayan causado alta en situación de retiro con compensación y que no
@@ -1711,9 +1704,9 @@ adherirse a los beneficios derivados del esquema vigente del seguro de vida mili
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. El fondo del seguro de vida militar a cargo del Instituto se integra con los siguientes
 recursos:
@@ -1732,9 +1725,9 @@ inversiones de los recursos señalados en las fracciones precedentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. En el seguro de vida militar obligatorio, como en el potestativo, los militares podrán
 designar beneficiarios libremente. Las designaciones se formularán en el documento de afiliación o en
@@ -1743,9 +1736,9 @@ digital o sólo con ésta en caso de que no supiera firmar o estuviere impedido 
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. Las designaciones de beneficiario pueden ser revocadas libremente, con las
 formalidades que se mencionan en el artículo anterior. Una designación posterior revoca la anterior.
@@ -1756,9 +1749,9 @@ Público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. La calidad de beneficiario es personal e intransmisible por herencia.
 Los derechos del beneficiario sobre la suma asegurada, una vez ocurrido el siniestro, sí son
@@ -1766,9 +1759,9 @@ transmisibles por herencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. Cuando los beneficiarios sean varios, la suma asegurada se entregará:
 I. De acuerdo con los porcentajes que hubiere señalado el militar asegurado;
@@ -1779,9 +1772,9 @@ acrecentará la del o la de los demás beneficiarios al fallecer el asegurado.</
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Si al morir el militar no existiere designación de beneficiarios conforme a esta Ley, el
 seguro se pagará a los familiares de acuerdo con la prelación siguiente:
@@ -1795,9 +1788,9 @@ comprendidos en las fracciones siguientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. El Instituto al tener conocimiento del fallecimiento del militar, deberá notificar de
 inmediato y fehacientemente al o a los beneficiarios designados o, en su caso, a los familiares de la
@@ -1810,9 +1803,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. Cuando proceda el pago del seguro al cónyuge, o en su caso a la concubina o al
 concubino, los hijos y los padres del militar fallecido, el Instituto cubrirá su importe sin más requisitos que
@@ -1821,9 +1814,9 @@ personalidad con una identificación oficial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. El Instituto pagará a los beneficiarios designados el monto de la suma asegurada que
 corresponda dentro de un plazo que no será menor de quince ni mayor de veinte días hábiles siguientes
@@ -1862,13 +1855,13 @@ d) Identificación oficial del militar o de su representante legal, así como la
 acredite tal personalidad.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. Todas las acciones de cobro del beneficio del seguro de vida militar que se deriven de lo
 estipulado en el presente Capítulo, prescribirán en dos años para los beneficiarios designados por el
@@ -1879,13 +1872,13 @@ orden de baja del servicio activo por dichos supuestos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. El Instituto podrá disponer y utilizar hasta el 1.0% (uno punto cero por ciento) anual del
 total de los recursos que integran el Fondo para el Seguro de Vida Militar, por concepto de gastos de
@@ -1894,13 +1887,13 @@ periodos que se determine sobre los resultados de la administración del fondo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-82" placement="bottom">
+            <note placementBase="#art-82." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. El Instituto, con base en los estudios y cálculos actuariales que realice con el fin de
 apoyar el desarrollo y la administración del seguro de vida militar, podrá incrementar los beneficios del
@@ -1910,9 +1903,9 @@ de vida militar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. La Junta Directiva dictará las disposiciones administrativas internas que estime
 convenientes para mejorar y regular el servicio del seguro de vida militar; en ningún caso, destinará sus
@@ -1920,9 +1913,9 @@ recursos financieros para fines distintos a los previstos por esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. Conforme a lo dispuesto en el artículo 90 de esta Ley, es responsabilidad del Instituto
 operar y administrar el seguro colectivo de retiro en beneficio de los miembros de las Fuerzas Armadas
@@ -1930,9 +1923,9 @@ Mexicanas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86. El seguro colectivo de retiro protegerá a los integrantes del Ejército, Fuerza Aérea,
 Armada y Guardia Nacional en servicio activo, que perciban Haber y sobrehaber y estén aportando las
@@ -1940,13 +1933,13 @@ primas correspondientes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-86" placement="bottom">
+            <note placementBase="#art-86." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87. La suma asegurada se otorgará por una sola vez a los militares que causen baja del
 activo y alta en situación de retiro con derecho a percibir haber de retiro o a sus beneficiarios en los
@@ -1978,16 +1971,16 @@ Para estos efectos, se consideran beneficiarios a aquellos que el militar hubier
 falta de dicha designación, se atenderá a la prelación prevista en el artículo 77 de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-87" placement="bottom">
+            <note placementBase="#art-87." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-87" placement="bottom">
+            <note placementBase="#art-87." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88. No tendrán derecho al seguro colectivo de retiro los militares que causen baja definitiva
 de las Fuerzas Armadas Mexicanas por las causas siguientes:
@@ -1998,9 +1991,9 @@ causado ejecutoria que determine dicha baja o la destitución del empleo militar
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89. La suma asegurada se calculará conforme a las reglas siguientes:
 Su cuantía será equivalente a lo que resulte de la suma del Haber y sobrehaber mensual mínimo
@@ -2061,19 +2054,19 @@ años de servicios efectivos prestados.
 , 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-89" placement="bottom">
+            <note placementBase="#art-89." placement="bottom">
               <p>Párrafo reformado DOF 14-01-2013</p>
             </note>
-            <note placementBase="#art-89" placement="bottom">
+            <note placementBase="#art-89." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-89" placement="bottom">
+            <note placementBase="#art-89." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90. El importe de la prima mensual correspondiente al seguro colectivo de retiro se integrará
 de la siguiente forma:
@@ -2114,19 +2107,19 @@ siguientes al pago de la primera quincena de cada mes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-90" placement="bottom">
+            <note placementBase="#art-90." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-90" placement="bottom">
+            <note placementBase="#art-90." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-90" placement="bottom">
+            <note placementBase="#art-90." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91. La devolución de las aportaciones se realizará conforme a lo siguiente:
 I. Se devolverán las aportaciones que efectivamente hubieren realizado los militares, desde la
@@ -2170,28 +2163,28 @@ definitiva de la Fuerza Armada Permanente por haber permanecido prófugos de la 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Inciso reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Inciso reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Inciso reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Inciso reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92. El Instituto será el encargado de pagar al militar o a sus beneficiarios el importe del
 seguro colectivo de retiro o la devolución de lo aportado, dentro de los cinco días hábiles siguientes a la
@@ -2204,9 +2197,9 @@ del o los beneficiarios y, en su caso, certificado de servicios prestados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93. Las Secretarías de la Defensa Nacional y de Marina informarán del fallecimiento de los
 militares al Instituto, el cual tendrá la obligación de notificar fehacientemente por escrito a los
@@ -2214,9 +2207,9 @@ beneficiarios para los efectos de este seguro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94. El derecho del militar a reclamar el seguro colectivo de retiro o la devolución de
 aportaciones prescribirá en dos años, contados a partir de la fecha en que cause baja del activo y alta en
@@ -2226,21 +2219,14 @@ escrito su derecho a recibir el pago de la suma asegurada o la devolución de la
 según sea el caso. Dicha notificación se realizará en el domicilio de los beneficiarios que se tengan
 registrados, en un término no mayor de 30 días, a partir de la fecha en que el Instituto tenga conocimiento
 del fallecimiento del militar.
-El pago de la suma asegurada no estará sujeto al impuesto sobre la renta, de conformidad con el</p>
+El pago de la suma asegurada no estará sujeto al impuesto sobre la renta, de conformidad con el
+artículo 77 fracción V de la Ley del Impuesto Sobre la Renta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
-              <content>
-                <p>artículo 77 fracción V de la Ley del Impuesto Sobre la Renta.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95. El Instituto practicará cada año una revisión actuarial para mantener el equilibrio
 financiero entre los ingresos y egresos que constituyen el Fondo del Seguro Colectivo de Retiro, con
@@ -2252,13 +2238,13 @@ mismo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-95" placement="bottom">
+            <note placementBase="#art-95." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96. El Instituto de Seguridad Social destinará para los gastos de operación y administración
 del Fondo hasta un máximo del 2.0% (dos punto cero por ciento) de las aportaciones anuales
@@ -2273,27 +2259,27 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97. A los militares que se desempeñen como Secretarios de la Defensa Nacional o de Marina
 les será pagado el beneficio al concluir su encargo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98. Al personal militar retirado que vuelva al activo se le considerará como de nuevo ingreso,
 para efectos de este seguro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99. La Junta Directiva del Instituto dictará las disposiciones administrativas internas que
 mejoren y regulen la administración del seguro colectivo de retiro, y decidirá las inversiones de sus
@@ -2303,9 +2289,9 @@ La Secretaría de Hacienda y Crédito Público vigilará el funcionamiento de es
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100. A fin de atender las necesidades de habitación familiar del militar, el Instituto de
 Seguridad Social para las Fuerzas Armadas deberá:
@@ -2333,19 +2319,19 @@ de Generales, Jefes, Oficiales, Tropa y sus equivalentes en la Armada en servici
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-100" placement="bottom">
+            <note placementBase="#art-100." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-100" placement="bottom">
+            <note placementBase="#art-100." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-100" placement="bottom">
+            <note placementBase="#art-100." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. Los recursos del fondo de la vivienda para los miembros del Ejército, Fuerza Aérea,
 Armada y Guardia Nacional, se integrarán:
@@ -2364,16 +2350,16 @@ III. Con los rendimientos que se obtengan de las inversiones de los recursos a q
 fracciones I y II de este artículo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-101" placement="bottom">
+            <note placementBase="#art-101." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-101" placement="bottom">
+            <note placementBase="#art-101." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102. Los recursos del fondo se destinarán:
 I. Al otorgamiento de créditos a los militares en activo del Ejército, Fuerza Aérea, Armada y
@@ -2413,19 +2399,19 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-102" placement="bottom">
+            <note placementBase="#art-102." placement="bottom">
               <p>Fracción reformada DOF 03-04-2012</p>
             </note>
-            <note placementBase="#art-102" placement="bottom">
+            <note placementBase="#art-102." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-102" placement="bottom">
+            <note placementBase="#art-102." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103. Las aportaciones al fondo de la vivienda, se aplicarán en su totalidad a constituir en
 favor de los militares depósitos que no devengan intereses y se sujetarán a las bases siguientes:
@@ -2446,16 +2432,16 @@ vivienda, la devolución de los depósitos se hará con deducción de las cantid
 aplicado al pago del crédito hipotecario o en los términos de las fracciones I y II de este artículo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-103" placement="bottom">
+            <note placementBase="#art-103." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-103" placement="bottom">
+            <note placementBase="#art-103." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. La aportación del cinco por ciento que deberá entregar el Gobierno Federal se
 computará sobre el Haber presupuestal y asignaciones de técnico, de vuelo, de salto o técnico especial
@@ -2463,13 +2449,13 @@ de los miembros del Ejército, Fuerza Aérea, Armada y Guardia Nacional.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105. El Instituto determinará las sumas que se asignarán al financiamiento de programas de
 casas habitación destinadas a ser adquiridas en propiedad por los militares y las que se aplicarán para la
@@ -2479,9 +2465,9 @@ equitativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106. Las normas generales que establezca la Junta Directiva, determinarán las cantidades
 globales que se asignen al financiamiento de:
@@ -2494,9 +2480,9 @@ destinados a los militares.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107. En la aplicación de los recursos del fondo se considerarán, entre otras, las siguientes
 circunstancias:
@@ -2513,9 +2499,9 @@ IV. El número de militares en el activo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108. Para otorgar y fijar los créditos a los militares en el activo se tomará en cuenta:
 I. Tiempo de servicios;
@@ -2541,19 +2527,19 @@ esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Fracción reformada DOF 03-04-2012</p>
             </note>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo adicionado DOF 24-05-2017</p>
             </note>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109. La Junta Directiva conocerá y resolverá los montos máximos de los créditos que se
 otorguen, la protección de los préstamos, así como los precios máximos de venta de las habitaciones
@@ -2561,9 +2547,9 @@ cuya adquisición o construcción pueda ser objeto de los créditos que se otorg
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110. Los créditos que se otorguen con cargo al fondo, deberán darse por vencidos
 anticipadamente, si los deudores, sin el consentimiento del Instituto, enajenan las viviendas, gravan los
@@ -2572,23 +2558,16 @@ consignadas en los contratos respectivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111. Los créditos que se otorguen con cargo al fondo de vivienda, estarán cubiertos por un
 seguro que libere al militar o a sus beneficiarios de las obligaciones derivadas del crédito para los casos
 de inutilización permanente y total para el servicio activo, así como para los casos de muerte.
 Por incapacidad total y permanente se entiende, la imposibilidad física y/o mental que constituya
-causal de retiro, clasificada en la primera o segunda categoría, conforme a las tablas contenidas en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-226">
-            <num>Artículo 226</num>
-            <paragraph id="art-226-para-1">
-              <content>
-                <p>artículo 226 de esta Ley, siempre y cuando la incapacidad se produzca durante actos del servicio o como
+causal de retiro, clasificada en la primera o segunda categoría, conforme a las tablas contenidas en el
+artículo 226 de esta Ley, siempre y cuando la incapacidad se produzca durante actos del servicio o como
 consecuencia de ellos y con fecha posterior a la formalización del crédito, debiendo acreditar dicho
 33 de 81
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
@@ -2616,22 +2595,22 @@ oficio de baja por defunción y el documento que acredite su carácter de derech
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-226" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-226" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo adicionado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-226" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo adicionado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-226" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo adicionado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112. En los casos de retiro del activo y de licencia ilimitada, en los términos de las
 disposiciones legales aplicables, se entregará al militar el total de los depósitos que tenga a su favor en el
@@ -2653,9 +2632,9 @@ VI. Los ascendientes sea cual fuere su edad o situación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113. Los créditos a los militares a que se refieren las fracciones I y II del artículo 102 de esta
 Ley, devengarán un interés del cuatro por ciento anual sobre saldos insolutos. Tratándose de créditos
@@ -2671,9 +2650,9 @@ o al pago de pasivos adquiridos en los términos del propio artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114. Los depósitos que se hagan para constituir el fondo de la vivienda en favor de los
 militares en activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional que están percibiendo haberes,
@@ -2682,13 +2661,13 @@ impuestos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-114" placement="bottom">
+            <note placementBase="#art-114." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115. Los depósitos constituidos en favor de los militares para la integración del fondo, no
 podrán ser objeto de cesión o embargo, excepto cuando se trate de los créditos otorgados con cargo al
@@ -2696,9 +2675,9 @@ fondo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116. Los derechos de los miembros de la Fuerza Armada Permanente titulares de depósitos
 constituidos en el fondo de la vivienda o de sus causahabientes o beneficiarios, prescribirán en un plazo
@@ -2706,13 +2685,13 @@ de cinco años.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-116" placement="bottom">
+            <note placementBase="#art-116." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117. El Instituto no podrá intervenir en la administración, operación o mantenimiento de
 conjuntos habitacionales construidos con recursos del fondo, ni sufragar los gastos correspondientes a
@@ -2720,9 +2699,9 @@ esos conceptos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118. El Instituto deberá mantener en el Banco Nacional del Ejército, Fuerza Aérea y Armada,
 SNC, en depósito a la vista, las cantidades estrictamente necesarias para la realización de sus
@@ -2732,9 +2711,9 @@ inmediata realización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119. El Instituto sólo podrá realizar con cargo al fondo, las inversiones en los bienes muebles
 o inmuebles estrictamente necesarios para el cumplimiento de los fines del mismo fondo.
@@ -2743,9 +2722,9 @@ el término de seis meses.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120. El Instituto cuidará que sus actividades en la administración del fondo de la vivienda
 para los militares en activo del Ejército, Fuerza Aérea y Armada que están percibiendo haberes se
@@ -2754,9 +2733,9 @@ con otros organismos del sector público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121. Con el fin de que los recursos del fondo se inviertan de conformidad con lo que dispone
 la presente Ley, el Gobierno Federal, a través de la Secretaría de Hacienda y Crédito Público, tendrá la
@@ -2766,13 +2745,13 @@ financiamientos deberán ser aprobados por la propia Secretaría.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-121" placement="bottom">
+            <note placementBase="#art-121." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122. La venta de casas habitación construidas con patrimonio del Instituto, podrá hacerse a
 plazos, con garantía hipotecaria o con reserva de dominio.
@@ -2787,9 +2766,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123. Las operaciones a que se refiere el artículo anterior, se sujetarán a las siguientes
 reglas:
@@ -2810,9 +2789,9 @@ Instituto y los militares. El pago de los impuestos y gastos serán por cuenta e
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124. Los militares en servicio activo que ocupen temporalmente las casas del Instituto en
 términos del contrato respectivo, se obligarán a pagar mensualmente por este concepto, un porcentaje
@@ -2821,9 +2800,9 @@ por la Junta Directiva y lo revisará cada dos años para actualizarlo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125. Del producto del concepto descontado señalado en el artículo anterior se aplicará un
 50% a la amortización del capital invertido en la construcción de las unidades habitacionales y el otro
@@ -2831,9 +2810,9 @@ por la Junta Directiva y lo revisará cada dos años para actualizarlo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126. Los militares en situación de retiro, que ocupen temporalmente casas del Instituto en
 unidades habitacionales para retirados, pagarán mensualmente la cantidad que en cada caso fije la Junta
@@ -2841,9 +2820,9 @@ Directiva, previo estudio socioeconómico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127. En caso de fallecimiento del militar ocupante de una casa, la Junta Directiva, tomando
 en consideración las circunstancias especiales que justifiquen y obliguen la permanencia en la misma de
@@ -2855,9 +2834,9 @@ que pagaba el militar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128. Los militares retirados podrán obtener conforme a la Ley Orgánica del Banco Nacional
 del Ejército, Fuerza Aérea y Armada, SNC, préstamos con garantía hipotecaria, en primer lugar, sobre
@@ -2865,9 +2844,9 @@ inmuebles urbanos en la medida de los recursos disponibles para este fin.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129. Tanto en la compra de casas habitación con garantía hipotecaria, como en los
 préstamos hipotecarios, los militares deberán tomar un seguro de vida a favor del Instituto o del Banco,
@@ -2881,9 +2860,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130. Si por haber causado baja el militar o por causa grave, a juicio de la Junta Directiva del
 Instituto, el militar no pudiera cubrir los abonos del adeudo por compra de la casa o del préstamo
@@ -2892,9 +2871,9 @@ de espera, lo pagará en el plazo y condiciones que señale la propia Junta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131. El Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, podrá otorgar préstamos
 a corto plazo a los militares con haber o haber de retiro y a los pensionistas de acuerdo con los recursos
@@ -2902,9 +2881,9 @@ disponibles para este fin y conforme a su Ley Orgánica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132. El Instituto establecerá para la venta a bajo precio, de artículos de consumo necesario,
 de acuerdo con un cuadro básico, tanto de alimentos como de vestido y de otros artículos necesarios
@@ -2918,13 +2897,13 @@ del personal de la Fuerza Armada Permanente y la de sus familiares.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133. Se establecerán en las unidades habitacionales, centros de servicios económicos de
 lavandería, planchado, costura, peluquería, baños y otros según lo exija el número y las necesidades de
@@ -2932,9 +2911,9 @@ sus habitantes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134. Con la finalidad de proporcionar hospedaje a militares en tránsito con motivo del servicio
 y servicios turísticos de bajo costo a los beneficiarios de esta Ley, el Instituto acorde con su capacidad
@@ -2943,9 +2922,9 @@ cuya organización, funcionamiento y cuotas serán fijadas por el Reglamento res
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135. El Instituto establecerá casas hogar en poblaciones adecuadas por sus medios de
 comunicación, buen clima y otros atractivos, en la medida de sus posibilidades económicas, para que los
@@ -2956,13 +2935,13 @@ satisfaga los gastos de administración y asistencia.
 , 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-135" placement="bottom">
+            <note placementBase="#art-135." placement="bottom">
               <p>Artículo reformado DOF 03-04-2012</p>
             </note>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136. El Instituto establecerá en plazas de importancia, centros de bienestar infantil para
 atender a los niños mayores de 45 días y menores de 7 años, hijos de militares, cuando se acredite la
@@ -2970,9 +2949,9 @@ necesidad de esa ayuda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137. En los centros de población en que radiquen contingentes militares numerosos, se
 establecerán capillas, con las atenciones usuales inherentes a las mismas, para prestar servicios
@@ -2982,9 +2961,9 @@ incineraciones; así como la orientación y gestiones en bien de la economía de
               </content>
             </paragraph>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>Artículo 138. El Instituto estudiará y propondrá al Ejecutivo Federal la forma de resolución de los
 problemas relacionados con la formación científica y técnica y el mejoramiento social de los hijos de los
@@ -3035,9 +3014,9 @@ serán fijados en el reglamento respectivo.
               <p>Artículo adicionado DOF 05-06-2012</p>
             </note>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>Artículo 139. Se establecerán centros de capacitación, desarrollo y superación para
 derechohabientes de militares, en donde reciban preparación para mejorar las condiciones físicas y
@@ -3045,9 +3024,9 @@ culturales del hogar, aumentar los índices cultural y de sociabilidad y mejorar
               </content>
             </paragraph>
           </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>Artículo 140. Para atender el mejoramiento de las condiciones físicas y de salud de los militares y sus
 familiares, así como para el esparcimiento y la ampliación de sus relaciones sociales, el Instituto
@@ -3056,9 +3035,9 @@ que se hagan necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>Artículo 141. El Instituto cooperará con las Secretarías de la Defensa Nacional y de Marina en las
 campañas permanentes para incrementar en los militares y sus familiares, las convicciones y hábitos que
@@ -3066,9 +3045,9 @@ tiendan a proteger la estabilidad del hogar, así como la legalización de su es
               </content>
             </paragraph>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>Artículo 142. La Atención Médica Quirúrgica es el sistema por el cual se trata de conservar y
 preservar la salud de las personas, entendiéndose por este concepto no sólo el bienestar físico y mental,
@@ -3107,25 +3086,25 @@ servicio médico gratuito, siempre que la Junta Directiva les reconozca el cará
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-142" placement="bottom">
+            <note placementBase="#art-142." placement="bottom">
               <p>Párrafo reformado DOF 08-05-2006</p>
             </note>
-            <note placementBase="#art-142" placement="bottom">
+            <note placementBase="#art-142." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-142" placement="bottom">
+            <note placementBase="#art-142." placement="bottom">
               <p>Fracción reformada DOF 08-05-2006</p>
             </note>
-            <note placementBase="#art-142" placement="bottom">
+            <note placementBase="#art-142." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-142" placement="bottom">
+            <note placementBase="#art-142." placement="bottom">
               <p>Fracción adicionada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>Artículo 143. Para los efectos del artículo anterior:
 Para que la concubina o el concubinario, tengan derecho a la atención médico quirúrgica, es
@@ -3140,9 +3119,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>Artículo 144. Los familiares sólo podrán gozar del servicio médico cuando estén en situación de
 dependencia económica respecto del militar.
@@ -3150,9 +3129,9 @@ No se considerará que hay dependencia económica, cuando el familiar perciba un
               </content>
             </paragraph>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>Artículo 145. La atención médico-quirúrgica incluye además, la asistencia hospitalaria y farmacéutica
 necesaria y, en su caso, obstetricia, prótesis y ortopedia y rehabilitación de los incapacitados, así como la
@@ -3160,9 +3139,9 @@ medicina preventiva y social y la educación higiénica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-146">
-            <num>Artículo 146</num>
-            <paragraph id="art-146-para-1">
+          <article id="art-146.">
+            <num>Artículo 146.</num>
+            <paragraph id="art-146.-para-1">
               <content>
                 <p>Artículo 146. Para la hospitalización del militar o de sus familiares, se requiere el consentimiento
 expreso del paciente.
@@ -3176,9 +3155,9 @@ En casos graves de urgencia o emergencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-147">
-            <num>Artículo 147</num>
-            <paragraph id="art-147-para-1">
+          <article id="art-147.">
+            <num>Artículo 147.</num>
+            <paragraph id="art-147.-para-1">
               <content>
                 <p>Artículo 147.- Tratándose de menores de edad, discapacitados mental o sensorialmente,
 incapacitados y personas adultas mayores con alguna discapacidad mental, sensorial o alguna
@@ -3187,13 +3166,13 @@ legalmente los representen.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-147" placement="bottom">
+            <note placementBase="#art-147." placement="bottom">
               <p>Artículo reformado DOF 08-05-2006</p>
             </note>
           </article>
-          <article id="art-148">
-            <num>Artículo 148</num>
-            <paragraph id="art-148-para-1">
+          <article id="art-148.">
+            <num>Artículo 148.</num>
+            <paragraph id="art-148.-para-1">
               <content>
                 <p>Artículo 148. En caso de que los militares o sus familiares no se sujeten al tratamiento médico
 respectivo, no tendrán derecho a exigir que se les continúe prestando la atención médica únicamente por
@@ -3203,13 +3182,13 @@ tratamiento adecuado, no se les expedirá el certificado de incapacidad correspo
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-148" placement="bottom">
+            <note placementBase="#art-148." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-149">
-            <num>Artículo 149</num>
-            <paragraph id="art-149-para-1">
+          <article id="art-149.">
+            <num>Artículo 149.</num>
+            <paragraph id="art-149.-para-1">
               <content>
                 <p>Artículo 149. El servicio materno infantil se otorgará a los sujetos siguientes:
 I. Personal militar femenino;
@@ -3227,7 +3206,7 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-149" placement="bottom">
+            <note placementBase="#art-149." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
@@ -3245,9 +3224,9 @@ acrediten que el nacimiento fue dentro del término de 300 días a partir del de
               <p>Artículo adicionado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-150">
-            <num>Artículo 150</num>
-            <paragraph id="art-150-para-1">
+          <article id="art-150.">
+            <num>Artículo 150.</num>
+            <paragraph id="art-150.-para-1">
               <content>
                 <p>Artículo 150.- La ayuda en la lactancia se proporcionará a la madre que demuestre la incapacidad
 para amamantar a su hijo, o la persona que la sustituya, en caso de fallecimiento de ésta, por medio del
@@ -3256,13 +3235,13 @@ de leche durante un periodo no mayor de seis meses a partir del nacimiento del i
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-150" placement="bottom">
+            <note placementBase="#art-150." placement="bottom">
               <p>Artículo reformado DOF 08-05-2006</p>
             </note>
           </article>
-          <article id="art-151">
-            <num>Artículo 151</num>
-            <paragraph id="art-151-para-1">
+          <article id="art-151.">
+            <num>Artículo 151.</num>
+            <paragraph id="art-151.-para-1">
               <content>
                 <p>Artículo 151. El personal militar femenino y la esposa o la concubina en su caso, del individuo de
 tropa, tripulación o a falta de éstas, la persona que tenga a cargo el infante, tendrá derecho a recibir una
@@ -3270,9 +3249,9 @@ canastilla al nacimiento del mismo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-152">
-            <num>Artículo 152</num>
-            <paragraph id="art-152-para-1">
+          <article id="art-152.">
+            <num>Artículo 152.</num>
+            <paragraph id="art-152.-para-1">
               <content>
                 <p>Artículo 152. El personal militar femenino tendrá derecho a disfrutar de un mes de licencia anterior a
 la fecha probable del parto, que se fijará de acuerdo con la consulta prenatal, y de dos meses posteriores
@@ -3288,16 +3267,16 @@ activo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-152" placement="bottom">
+            <note placementBase="#art-152." placement="bottom">
               <p>Párrafo adicionado DOF 07-05-2019</p>
             </note>
-            <note placementBase="#art-152" placement="bottom">
+            <note placementBase="#art-152." placement="bottom">
               <p>Párrafo adicionado DOF 07-05-2019</p>
             </note>
           </article>
-          <article id="art-153">
-            <num>Artículo 153</num>
-            <paragraph id="art-153-para-1">
+          <article id="art-153.">
+            <num>Artículo 153.</num>
+            <paragraph id="art-153.-para-1">
               <content>
                 <p>Artículo 153. Los familiares de un militar en activo o en situación de retiro comprendidos en el artículo
 142 de esta Ley y los pensionistas, tendrán derecho a que se les proporcione gratuitamente el servicio
@@ -3305,9 +3284,9 @@ médico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
+          <article id="art-154.">
+            <num>Artículo 154.</num>
+            <paragraph id="art-154.-para-1">
               <content>
                 <p>Artículo 154. Se faculta al Instituto para celebrar convenios con las Secretarías de la Defensa
 Nacional y de Marina, así como los Institutos de Seguridad y Servicios Sociales de los Trabajadores del
@@ -3317,9 +3296,9 @@ de prótesis y ortopedia que sean necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-155">
-            <num>Artículo 155</num>
-            <paragraph id="art-155-para-1">
+          <article id="art-155.">
+            <num>Artículo 155.</num>
+            <paragraph id="art-155.-para-1">
               <content>
                 <p>Artículo 155. El Instituto de conformidad con sus posibilidades presupuestales, establecerá farmacias
 o contratará para vender sin lucro alguno, a los militares y familiares afiliados, medicamentos y artículos
@@ -3327,9 +3306,9 @@ conexos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-156">
-            <num>Artículo 156</num>
-            <paragraph id="art-156-para-1">
+          <article id="art-156.">
+            <num>Artículo 156.</num>
+            <paragraph id="art-156.-para-1">
               <content>
                 <p>Artículo 156. El estado civil y el parentesco de los familiares de un militar serán acreditados con las
 actas y constancias que expide el registro civil y, en los casos de reconocimiento de hijo nacido fuera de
@@ -3343,27 +3322,27 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-157">
-            <num>Artículo 157</num>
-            <paragraph id="art-157-para-1">
+          <article id="art-157.">
+            <num>Artículo 157.</num>
+            <paragraph id="art-157.-para-1">
               <content>
                 <p>Artículo 157. La imposibilidad física para trabajar, será probada con dictamen pericial de dos médicos
 militares o navales especialistas designados por la Secretaría de la Defensa Nacional o de Marina.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-158">
-            <num>Artículo 158</num>
-            <paragraph id="art-158-para-1">
+          <article id="art-158.">
+            <num>Artículo 158.</num>
+            <paragraph id="art-158.-para-1">
               <content>
                 <p>Artículo 158. La incapacidad legal será probada con copia certificada de la sentencia ejecutoria que
 se dicte en el juicio de interdicción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-159">
-            <num>Artículo 159</num>
-            <paragraph id="art-159-para-1">
+          <article id="art-159.">
+            <num>Artículo 159.</num>
+            <paragraph id="art-159.-para-1">
               <content>
                 <p>Artículo 159. La dependencia económica deberá ser probada con información testimonial, rendida
 bajo protesta de decir verdad, ante las Secretarías de la Defensa Nacional o de Marina, las cuales podrán
@@ -3375,34 +3354,27 @@ Procedimientos Civiles.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-160">
-            <num>Artículo 160</num>
-            <paragraph id="art-160-para-1">
+          <article id="art-160.">
+            <num>Artículo 160.</num>
+            <paragraph id="art-160.-para-1">
               <content>
                 <p>Artículo 160. La relación de concubinato será acreditada necesariamente, y en todo caso, con la
 designación que el militar haya hecho de la persona interesada, como concubina o concubinario, ante el
 Instituto o la Secretaría de la Defensa Nacional o de Marina, sin que sea admisible otro medio de prueba.
 La designación posterior anula la anterior, siempre que se haya formulado dentro del plazo establecido
-en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
-              <content>
-                <p>artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Federal de
+en el artículo 143 de esta Ley y acreditado las circunstancias de los incisos a) y b) de la fracción II del
+artículo 38 de esta Ley, se acreditarán con los medios de prueba establecidos por el Código Federal de
 Procedimientos Civiles.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-160." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-161">
-            <num>Artículo 161</num>
-            <paragraph id="art-161-para-1">
+          <article id="art-161.">
+            <num>Artículo 161.</num>
+            <paragraph id="art-161.-para-1">
               <content>
                 <p>Artículo 161. La muerte de un militar en acción de guerra, será probada con el parte que rinda el
 Comandante de la fuerza.
@@ -3413,9 +3385,9 @@ Civiles.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-162">
-            <num>Artículo 162</num>
-            <paragraph id="art-162-para-1">
+          <article id="art-162.">
+            <num>Artículo 162.</num>
+            <paragraph id="art-162.-para-1">
               <content>
                 <p>Artículo 162. La muerte de un militar en acción de armas, cuando no se hubiere levantado el campo,
 será probada:
@@ -3441,9 +3413,9 @@ serán entregados a sus familiares en el orden preferente que establece el artí
               </content>
             </paragraph>
           </article>
-          <article id="art-163">
-            <num>Artículo 163</num>
-            <paragraph id="art-163-para-1">
+          <article id="art-163.">
+            <num>Artículo 163.</num>
+            <paragraph id="art-163.-para-1">
               <content>
                 <p>Artículo 163. La muerte en acción de armas, cuando un buque se pierda en la mar, será probada con
 los siguientes documentos:
@@ -3453,9 +3425,9 @@ III. La relación oficial de bajas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-164">
-            <num>Artículo 164</num>
-            <paragraph id="art-164-para-1">
+          <article id="art-164.">
+            <num>Artículo 164.</num>
+            <paragraph id="art-164.-para-1">
               <content>
                 <p>Artículo 164. La muerte de los militares ocurrida por caída al mar sin naufragio, encontrándose en
 embarcaciones dependientes del Ejército, Fuerza Aérea, Armada y Guardia Nacional, será probada con
@@ -3465,13 +3437,13 @@ reciban sobre el particular.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-164" placement="bottom">
+            <note placementBase="#art-164." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-165">
-            <num>Artículo 165</num>
-            <paragraph id="art-165-para-1">
+          <article id="art-165.">
+            <num>Artículo 165.</num>
+            <paragraph id="art-165.-para-1">
               <content>
                 <p>Artículo 165. La muerte de los militares ocurrida por naufragio de buque será probada:
 I. En embarcaciones dependientes de la Armada de México, con la baja oficial de la embarcación
@@ -3483,9 +3455,9 @@ información oficial que se rinda sobre el particular.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-166">
-            <num>Artículo 166</num>
-            <paragraph id="art-166-para-1">
+          <article id="art-166.">
+            <num>Artículo 166.</num>
+            <paragraph id="art-166.-para-1">
               <content>
                 <p>Artículo 166. La muerte de un militar ocurrida como consecuencia de lesiones recibidas en acción de
 armas, será probada:
@@ -3501,9 +3473,9 @@ además el certificado médico del hospital.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-167">
-            <num>Artículo 167</num>
-            <paragraph id="art-167-para-1">
+          <article id="art-167.">
+            <num>Artículo 167.</num>
+            <paragraph id="art-167.-para-1">
               <content>
                 <p>Artículo 167. La muerte por lesiones sufridas en otros actos del servicio será probada:
 I. Con acta que se levante en averiguación de los hechos o con copia de las diligencias practicadas
@@ -3522,13 +3494,13 @@ V. A falta de los documentos a que se refieren las cuatro fracciones anteriores,
 pruebas que establece el Código Federal de Procedimientos Civiles.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-167" placement="bottom">
+            <note placementBase="#art-167." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-168">
-            <num>Artículo 168</num>
-            <paragraph id="art-168-para-1">
+          <article id="art-168.">
+            <num>Artículo 168.</num>
+            <paragraph id="art-168.-para-1">
               <content>
                 <p>Artículo 168. El fallecimiento o la incapacidad como consecuencia de otros actos del servicio, cuando
 éstos se refieran a atenciones médico-quirúrgicas, será probada necesariamente y en todo caso, con la
@@ -3536,13 +3508,13 @@ sentencia ejecutoriada dictada por los tribunales militares en la que se declare
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-168" placement="bottom">
+            <note placementBase="#art-168." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-169">
-            <num>Artículo 169</num>
-            <paragraph id="art-169-para-1">
+          <article id="art-169.">
+            <num>Artículo 169.</num>
+            <paragraph id="art-169.-para-1">
               <content>
                 <p>Artículo 169. La muerte proveniente de enfermedades contraídas en el servicio será probada:
 I. Con el informe del Comandante o Jefe de quien dependía el militar, que acredite el cargo o comisión
@@ -3554,18 +3526,18 @@ IV. Con copia certificada del acta de defunción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-170">
-            <num>Artículo 170</num>
-            <paragraph id="art-170-para-1">
+          <article id="art-170.">
+            <num>Artículo 170.</num>
+            <paragraph id="art-170.-para-1">
               <content>
                 <p>Artículo 170. La muerte por causas ajenas al servicio se acreditará únicamente con la copia
 certificada del acta de defunción expedida por el Registro Civil.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-171">
-            <num>Artículo 171</num>
-            <paragraph id="art-171-para-1">
+          <article id="art-171.">
+            <num>Artículo 171.</num>
+            <paragraph id="art-171.-para-1">
               <content>
                 <p>Artículo 171. La incapacidad por lesiones recibidas en acción de armas u otros actos de servicio, será
 probada:
@@ -3581,13 +3553,13 @@ IV. A falta de los documentos a que se refieren las tres fracciones anteriores, 
 prueba que establece el Código Federal de Procedimientos Civiles.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-171" placement="bottom">
+            <note placementBase="#art-171." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-172">
-            <num>Artículo 172</num>
-            <paragraph id="art-172-para-1">
+          <article id="art-172.">
+            <num>Artículo 172.</num>
+            <paragraph id="art-172.-para-1">
               <content>
                 <p>Artículo 172. La incapacidad proveniente de enfermedades contraídas en el servicio será probada:
 
@@ -3605,13 +3577,13 @@ causalidad entre el servicio y la enfermedad debiendo practicarse el reconocimie
 médicos especialistas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-172" placement="bottom">
+            <note placementBase="#art-172." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-173">
-            <num>Artículo 173</num>
-            <paragraph id="art-173-para-1">
+          <article id="art-173.">
+            <num>Artículo 173.</num>
+            <paragraph id="art-173.-para-1">
               <content>
                 <p>Artículo 173. Cuando la incapacidad o la muerte de un militar ocurran antes de transcurridos dos
 años de recibidas las lesiones en acción de armas o en otros actos del servicio, se presume la relación
@@ -3625,16 +3597,16 @@ en actos del servicio, se presume la relación de causalidad entre los mismos y 
 Después de los plazos indicados debe probarse las relaciones de causalidad expresadas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-173" placement="bottom">
+            <note placementBase="#art-173." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-173" placement="bottom">
+            <note placementBase="#art-173." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-174">
-            <num>Artículo 174</num>
-            <paragraph id="art-174-para-1">
+          <article id="art-174.">
+            <num>Artículo 174.</num>
+            <paragraph id="art-174.-para-1">
               <content>
                 <p>Artículo 174. La incapacidad por causas extrañas al servicio se acreditará únicamente con los
 certificados que deben expedir los médicos militares o navales especialistas que designen las Secretarías
@@ -3642,13 +3614,13 @@ de la Defensa Nacional o de Marina.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-174" placement="bottom">
+            <note placementBase="#art-174." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-175">
-            <num>Artículo 175</num>
-            <paragraph id="art-175-para-1">
+          <article id="art-175.">
+            <num>Artículo 175.</num>
+            <paragraph id="art-175.-para-1">
               <content>
                 <p>Artículo 175. En los casos de retiro por haber cumplido la edad límite que fija esta Ley, se
 comprobará aquélla por los siguientes medios:
@@ -3663,16 +3635,16 @@ la edad clínica.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-175" placement="bottom">
+            <note placementBase="#art-175." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-175" placement="bottom">
+            <note placementBase="#art-175." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-176">
-            <num>Artículo 176</num>
-            <paragraph id="art-176-para-1">
+          <article id="art-176.">
+            <num>Artículo 176.</num>
+            <paragraph id="art-176.-para-1">
               <content>
                 <p>Artículo 176. El grado militar será probado con el contrato de enganche de los individuos de tropa con
 el acuerdo suscrito por autoridad competente que ordenó el conferimiento del grado y con copia de las
@@ -3682,9 +3654,9 @@ necesaria la ratificación del Senado de la República.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-177">
-            <num>Artículo 177</num>
-            <paragraph id="art-177-para-1">
+          <article id="art-177.">
+            <num>Artículo 177.</num>
+            <paragraph id="art-177.-para-1">
               <content>
                 <p>Artículo 177. Las Secretarías de la Defensa Nacional y de Marina, informarán al Instituto y al Banco
 Nacional del Ejército, Fuerza Aérea y Armada, SNC, en un término no mayor de 15 días, contados a
@@ -3705,18 +3677,18 @@ en relación con las funciones que les señala esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-178">
-            <num>Artículo 178</num>
-            <paragraph id="art-178-para-1">
+          <article id="art-178.">
+            <num>Artículo 178.</num>
+            <paragraph id="art-178.-para-1">
               <content>
                 <p>Artículo 178. Las Secretarías de la Defensa Nacional y de Marina, dispondrán dentro de los primeros
 meses de cada año, se practique examen médico a todos los militares.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-179">
-            <num>Artículo 179</num>
-            <paragraph id="art-179-para-1">
+          <article id="art-179.">
+            <num>Artículo 179.</num>
+            <paragraph id="art-179.-para-1">
               <content>
                 <p>Artículo 179. Las direcciones de las Secretarías de la Defensa Nacional y de Marina en su caso, que
 tengan relación con el manejo del personal, están obligadas a comunicar al órgano encargado
@@ -3726,9 +3698,9 @@ causal, a fin de iniciar el trámite respectivo, sujetándose al procedimiento e
               </content>
             </paragraph>
           </article>
-          <article id="art-180">
-            <num>Artículo 180</num>
-            <paragraph id="art-180-para-1">
+          <article id="art-180.">
+            <num>Artículo 180.</num>
+            <paragraph id="art-180.-para-1">
               <content>
                 <p>Artículo 180.- Los extractos de antecedentes que se formulen para definir los derechos que
 corresponda a los retirados deben contener:
@@ -3746,19 +3718,19 @@ IX. Clave Única de Registro de Población.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-180" placement="bottom">
+            <note placementBase="#art-180." placement="bottom">
               <p>Fracción reformada DOF 08-05-2006</p>
             </note>
-            <note placementBase="#art-180" placement="bottom">
+            <note placementBase="#art-180." placement="bottom">
               <p>Fracción reformada DOF 08-05-2006</p>
             </note>
-            <note placementBase="#art-180" placement="bottom">
+            <note placementBase="#art-180." placement="bottom">
               <p>Fracción adicionada DOF 08-05-2006</p>
             </note>
           </article>
-          <article id="art-181">
-            <num>Artículo 181</num>
-            <paragraph id="art-181-para-1">
+          <article id="art-181.">
+            <num>Artículo 181.</num>
+            <paragraph id="art-181.-para-1">
               <content>
                 <p>Artículo 181. El tiempo de servicios comprende tanto el de los efectivos como el de los abonos y será
 computado en la forma establecida en la Ley para la Comprobación, Ajuste y Cómputo de Servicios
@@ -3773,13 +3745,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-181" placement="bottom">
+            <note placementBase="#art-181." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-182">
-            <num>Artículo 182</num>
-            <paragraph id="art-182-para-1">
+          <article id="art-182.">
+            <num>Artículo 182.</num>
+            <paragraph id="art-182.-para-1">
               <content>
                 <p>Artículo 182. La Junta Directiva al acordar el beneficio de retiro, fijará su cuantía ampliando hasta esa
 fecha el cómputo del tiempo de servicios del militar.
@@ -3790,9 +3762,9 @@ sin modificar la situación de retiro en la que haya sido colocado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-183">
-            <num>Artículo 183</num>
-            <paragraph id="art-183-para-1">
+          <article id="art-183.">
+            <num>Artículo 183.</num>
+            <paragraph id="art-183.-para-1">
               <content>
                 <p>Artículo 183. En todos los casos en que se requiera la presentación de certificados y dictámenes
 médicos, éstos deberán estar suscritos, cuando menos por dos médicos militares o navales especialistas
@@ -3800,13 +3772,13 @@ en el padecimiento que presenta el militar.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-183" placement="bottom">
+            <note placementBase="#art-183." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-184">
-            <num>Artículo 184</num>
-            <paragraph id="art-184-para-1">
+          <article id="art-184.">
+            <num>Artículo 184.</num>
+            <paragraph id="art-184.-para-1">
               <content>
                 <p>Artículo 184. En los casos de retiro voluntario, los militares en servicio activo formularán por escrito y
 por los conductos debidos su solicitud de retiro, a la Secretaría que corresponda. Anexarán la
@@ -3814,9 +3786,9 @@ documentación comprobatoria de sus derechos, que no obre ya en su expediente mi
               </content>
             </paragraph>
           </article>
-          <article id="art-185">
-            <num>Artículo 185</num>
-            <paragraph id="art-185-para-1">
+          <article id="art-185.">
+            <num>Artículo 185.</num>
+            <paragraph id="art-185.-para-1">
               <content>
                 <p>Artículo 185. No podrá tramitarse ninguna solicitud de retiro voluntario:
 I. Cuando las Secretarías de la Defensa Nacional o de Marina, en sus respectivos casos, no hayan
@@ -3833,9 +3805,9 @@ establecimiento nacional o extranjero.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-186">
-            <num>Artículo 186</num>
-            <paragraph id="art-186-para-1">
+          <article id="art-186.">
+            <num>Artículo 186.</num>
+            <paragraph id="art-186.-para-1">
               <content>
                 <p>Artículo 186. En los casos de retiro forzoso, las dependencias encargadas del manejo del personal
 militar en las Secretarías de la Defensa Nacional o de Marina, informarán a la Dirección encargada de
@@ -3848,13 +3820,13 @@ retiro ante la Secretaría que corresponda y acompañarán la documentación com
 derechos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-186" placement="bottom">
+            <note placementBase="#art-186." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-187">
-            <num>Artículo 187</num>
-            <paragraph id="art-187-para-1">
+          <article id="art-187.">
+            <num>Artículo 187.</num>
+            <paragraph id="art-187.-para-1">
               <content>
                 <p>Artículo 187. Al recibirse las solicitudes o informes especificados en el artículo anterior, las
 Secretarías respectivas ordenarán el cómputo de servicios del interesado, la obtención de las pruebas
@@ -3862,9 +3834,9 @@ necesarias para acreditar las causas de retiro y la formulación del extracto de
               </content>
             </paragraph>
           </article>
-          <article id="art-188">
-            <num>Artículo 188</num>
-            <paragraph id="art-188-para-1">
+          <article id="art-188.">
+            <num>Artículo 188.</num>
+            <paragraph id="art-188.-para-1">
               <content>
                 <p>Artículo 188. Con apoyo en las pruebas reunidas, la Secretaría de que se trate declarará la
 procedencia del retiro, por estimar comprobada la personalidad militar del interesado, encontrarse en el
@@ -3885,9 +3857,9 @@ recibirán en un plazo de quince días siguientes a la terminación del plazo an
               </content>
             </paragraph>
           </article>
-          <article id="art-189">
-            <num>Artículo 189</num>
-            <paragraph id="art-189-para-1">
+          <article id="art-189.">
+            <num>Artículo 189.</num>
+            <paragraph id="art-189.-para-1">
               <content>
                 <p>Artículo 189. Si la Dirección encargada de tramitar administrativamente los retiros de la Secretaría
 respectiva estimare la procedencia del retiro, pero el Presidente de la República o la propia Secretaría
@@ -3901,13 +3873,13 @@ su caso, dejen sin efecto las resoluciones de otorgamiento de beneficio y su apr
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-189" placement="bottom">
+            <note placementBase="#art-189." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-190">
-            <num>Artículo 190</num>
-            <paragraph id="art-190-para-1">
+          <article id="art-190.">
+            <num>Artículo 190.</num>
+            <paragraph id="art-190.-para-1">
               <content>
                 <p>Artículo 190. En caso de retiro voluntario, el militar podrá desistirse de su solicitud desde la
 Declaración de Procedencia de Retiro que formule la Dirección encargada de tramitar
@@ -3917,13 +3889,13 @@ denegado si aparece comprobada alguna causa de retiro forzoso.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-190" placement="bottom">
+            <note placementBase="#art-190." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-191">
-            <num>Artículo 191</num>
-            <paragraph id="art-191-para-1">
+          <article id="art-191.">
+            <num>Artículo 191.</num>
+            <paragraph id="art-191.-para-1">
               <content>
                 <p>Artículo 191. Para la comprobación de la causa de retiro voluntario y la cuantificación del beneficio
 económico de retiro, sólo se tomará en cuenta el cómputo de servicios que se haga dentro del trámite de
@@ -3940,9 +3912,9 @@ fecha de reingreso al activo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-192">
-            <num>Artículo 192</num>
-            <paragraph id="art-192-para-1">
+          <article id="art-192.">
+            <num>Artículo 192.</num>
+            <paragraph id="art-192.-para-1">
               <content>
                 <p>Artículo 192. Los familiares de militares que se consideren con derecho a beneficio, solicitarán el
 otorgamiento de compensación o pensión directamente al Instituto, acompañando la documentación
@@ -3972,16 +3944,16 @@ Las objeciones sólo podrán referirse a la inexistencia de personalidad militar
 de servicios, en su caso, de la persona señalada por los familiares.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-192" placement="bottom">
+            <note placementBase="#art-192." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-192" placement="bottom">
+            <note placementBase="#art-192." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-193">
-            <num>Artículo 193</num>
-            <paragraph id="art-193-para-1">
+          <article id="art-193.">
+            <num>Artículo 193.</num>
+            <paragraph id="art-193.-para-1">
               <content>
                 <p>Artículo 193. En los casos en que los militares y los familiares de éstos hubieran formulado
 objeciones a las declaraciones pronunciadas por la Dirección encargada de tramitar administrativamente
@@ -3995,13 +3967,13 @@ dejaren transcurrir el primer plazo señalado en el artículo 188 de esta Ley -l
 una aceptación tácita-, se tendrá como definitiva dicha declaración.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-193" placement="bottom">
+            <note placementBase="#art-193." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-194">
-            <num>Artículo 194</num>
-            <paragraph id="art-194-para-1">
+          <article id="art-194.">
+            <num>Artículo 194.</num>
+            <paragraph id="art-194.-para-1">
               <content>
                 <p>Artículo 194. Cuando en las declaraciones de la Dirección encargada de tramitar administrativamente
 los retiros de las Secretarías de la Defensa Nacional o de Marina, respectivamente, se reconociere la
@@ -4013,13 +3985,13 @@ a la Secretaría de Hacienda y Crédito Público.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-194" placement="bottom">
+            <note placementBase="#art-194." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-195">
-            <num>Artículo 195</num>
-            <paragraph id="art-195-para-1">
+          <article id="art-195.">
+            <num>Artículo 195.</num>
+            <paragraph id="art-195.-para-1">
               <content>
                 <p>Artículo 195. Cuando estando concluido el trámite conforme al procedimiento establecido en esta
 Ley, existan pruebas supervenientes con las que se acredite que la incapacidad o fallecimiento fue
@@ -4030,13 +4002,13 @@ efectos de que se le otorgue el beneficio económico que le corresponda con apeg
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-195" placement="bottom">
+            <note placementBase="#art-195." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-196">
-            <num>Artículo 196</num>
-            <paragraph id="art-196-para-1">
+          <article id="art-196.">
+            <num>Artículo 196.</num>
+            <paragraph id="art-196.-para-1">
               <content>
                 <p>Artículo 196. Al recibir el Instituto la documentación proveniente de la Dirección encargada de tramitar
 administrativamente los retiros de la Secretaría de que se trate, realizará el estudio de los antecedentes y
@@ -4066,16 +4038,16 @@ dichas Direcciones.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-196" placement="bottom">
+            <note placementBase="#art-196." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
-            <note placementBase="#art-196" placement="bottom">
+            <note placementBase="#art-196." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-197">
-            <num>Artículo 197</num>
-            <paragraph id="art-197-para-1">
+          <article id="art-197.">
+            <num>Artículo 197.</num>
+            <paragraph id="art-197.-para-1">
               <content>
                 <p>Artículo 197. En tanto se llevan a cabo los trámites a que se refiere el artículo 196 de la Ley, el
 Instituto cubrirá con cargo al erario federal el 50% del haber o haber de retiro que percibía el militar
@@ -4085,13 +4057,13 @@ cantidad que les ha sido cubierta.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-197" placement="bottom">
+            <note placementBase="#art-197." placement="bottom">
               <p>Artículo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-198">
-            <num>Artículo 198</num>
-            <paragraph id="art-198-para-1">
+          <article id="art-198.">
+            <num>Artículo 198.</num>
+            <paragraph id="art-198.-para-1">
               <content>
                 <p>Artículo 198. Al notificarse la resolución anterior, que tendrá carácter de provisional, los interesados
 podrán ejercitar dentro de un plazo de quince días el recurso de reconsideración, contando con quince
@@ -4104,13 +4076,13 @@ Si dentro del primer plazo manifiestan su conformidad o dejaren que transcurra e
 significará una aceptación tácita, se tendrá como definitiva la resolución de la Junta.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-198" placement="bottom">
+            <note placementBase="#art-198." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-199">
-            <num>Artículo 199</num>
-            <paragraph id="art-199-para-1">
+          <article id="art-199.">
+            <num>Artículo 199.</num>
+            <paragraph id="art-199.-para-1">
               <content>
                 <p>Artículo 199. Si los interesados interpusieran el recurso de reconsideración, se tramitará éste, y la
 Junta del Instituto dictará resolución definitiva, en que se ratificará, modificará o revocará la anterior,
@@ -4119,9 +4091,9 @@ mismo o las ya existentes que hubieren sido impugnadas por los recurrentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-200">
-            <num>Artículo 200</num>
-            <paragraph id="art-200-para-1">
+          <article id="art-200.">
+            <num>Artículo 200.</num>
+            <paragraph id="art-200.-para-1">
               <content>
                 <p>Artículo 200. Agotado el procedimiento a que se refieren los artículos precedentes, para el efecto de
 su sanción, y a fin de que puedan ser ejecutados, el Instituto remitirá de oficio a la Secretaría de
@@ -4141,9 +4113,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-201">
-            <num>Artículo 201</num>
-            <paragraph id="art-201-para-1">
+          <article id="art-201.">
+            <num>Artículo 201.</num>
+            <paragraph id="art-201.-para-1">
               <content>
                 <p>Artículo 201. La aprobación o denegación será comunicada de inmediato al Instituto por la Secretaría
 de Hacienda y Crédito Público.
@@ -4154,18 +4126,18 @@ documentación enviada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-202">
-            <num>Artículo 202</num>
-            <paragraph id="art-202-para-1">
+          <article id="art-202.">
+            <num>Artículo 202.</num>
+            <paragraph id="art-202.-para-1">
               <content>
                 <p>Artículo 202. La Secretaría de origen, al recibir la notificación a que se refiere el artículo anterior,
 girará las órdenes de baja en el activo y alta en situación de retiro del militar, cuando así proceda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-203">
-            <num>Artículo 203</num>
-            <paragraph id="art-203-para-1">
+          <article id="art-203.">
+            <num>Artículo 203.</num>
+            <paragraph id="art-203.-para-1">
               <content>
                 <p>Artículo 203. Los militares con licencia ilimitada, extraordinaria o especial, y los familiares de militares
 fallecidos deberán señalar en el escrito en que soliciten beneficio, un domicilio para notificaciones y, si lo
@@ -4174,9 +4146,9 @@ domicilio determinará la suspensión del trámite de beneficio hasta que se lle
               </content>
             </paragraph>
           </article>
-          <article id="art-204">
-            <num>Artículo 204</num>
-            <paragraph id="art-204-para-1">
+          <article id="art-204.">
+            <num>Artículo 204.</num>
+            <paragraph id="art-204.-para-1">
               <content>
                 <p>Artículo 204. A los militares en servicio activo se les notificará personalmente o por conducto del
 Comandante o Jefe de la corporación, Dependencia o fuerza a la que perteneciere, quien hará la entrega
@@ -4185,9 +4157,9 @@ escribir. El recibo deberá remitirse de inmediato al Instituto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-205">
-            <num>Artículo 205</num>
-            <paragraph id="art-205-para-1">
+          <article id="art-205.">
+            <num>Artículo 205.</num>
+            <paragraph id="art-205.-para-1">
               <content>
                 <p>Artículo 205. Si durante la tramitación del retiro, o del beneficio del retiro, el militar en servicio activo
 pasare a gozar de licencia ilimitada, extraordinaria o especial, no se suspenderá el procedimiento, pero sí
@@ -4197,9 +4169,9 @@ corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-206">
-            <num>Artículo 206</num>
-            <paragraph id="art-206-para-1">
+          <article id="art-206.">
+            <num>Artículo 206.</num>
+            <paragraph id="art-206.-para-1">
               <content>
                 <p>Artículo 206. Los términos señalados para los trámites de retiro y de beneficio económico, se
 computarán en días hábiles y empezarán a correr el día siguiente de aquel en que surta efectos la
@@ -4214,9 +4186,9 @@ estado en posibilidad de recibirla del tribunal de que se trate.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-207">
-            <num>Artículo 207</num>
-            <paragraph id="art-207-para-1">
+          <article id="art-207.">
+            <num>Artículo 207.</num>
+            <paragraph id="art-207.-para-1">
               <content>
                 <p>Artículo 207. En los trámites de retiro y de beneficio, los militares deberán promover personalmente
 ante la Secretaría respectiva, salvo el caso de incapacidad declarada judicialmente, en que lo hará su
@@ -4225,9 +4197,9 @@ Los familiares incapacitados legalmente actuarán por medio de sus representante
               </content>
             </paragraph>
           </article>
-          <article id="art-208">
-            <num>Artículo 208</num>
-            <paragraph id="art-208-para-1">
+          <article id="art-208.">
+            <num>Artículo 208.</num>
+            <paragraph id="art-208.-para-1">
               <content>
                 <p>Artículo 208. Las notificaciones serán personales o por correo certificado con acuse de recibo. Si el
 correo devolviere el oficio de notificación sin ser entregado o no remitiere al Instituto la tarjeta de acuse
@@ -4243,9 +4215,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-209">
-            <num>Artículo 209</num>
-            <paragraph id="art-209-para-1">
+          <article id="art-209.">
+            <num>Artículo 209.</num>
+            <paragraph id="art-209.-para-1">
               <content>
                 <p>Artículo 209. En la aplicación de esta Ley y con las condiciones y las limitaciones que establece la
 misma, serán considerados:
@@ -4258,22 +4230,22 @@ servicio o a consecuencia de ellos, como soldados.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-209" placement="bottom">
+            <note placementBase="#art-209." placement="bottom">
               <p>Fracción reformada DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-210">
-            <num>Artículo 210</num>
-            <paragraph id="art-210-para-1">
+          <article id="art-210.">
+            <num>Artículo 210.</num>
+            <paragraph id="art-210.-para-1">
               <content>
                 <p>Artículo 210. Los derechos que se otorguen en contravención a lo dispuesto por la presente Ley y por
 aquellas que deban aplicarse en conexión con la misma, son nulos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-211">
-            <num>Artículo 211</num>
-            <paragraph id="art-211-para-1">
+          <article id="art-211.">
+            <num>Artículo 211.</num>
+            <paragraph id="art-211.-para-1">
               <content>
                 <p>Artículo 211. La acción de nulidad a que se refiere el artículo anterior, deberá ejercitarse
 exclusivamente por el Instituto, dentro de los cinco años siguientes a la fecha en que se hayan otorgado
@@ -4281,9 +4253,9 @@ los derechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-212">
-            <num>Artículo 212</num>
-            <paragraph id="art-212-para-1">
+          <article id="art-212.">
+            <num>Artículo 212.</num>
+            <paragraph id="art-212.-para-1">
               <content>
                 <p>Artículo 212. Es compatible el disfrute de un haber de retiro con una pensión militar e igualmente son
 compatibles hasta dos pensiones militares.
@@ -4295,9 +4267,9 @@ de las percepciones periódicas que subsistan, la cantidad que hubiere recibido 
               </content>
             </paragraph>
           </article>
-          <article id="art-213">
-            <num>Artículo 213</num>
-            <paragraph id="art-213-para-1">
+          <article id="art-213.">
+            <num>Artículo 213.</num>
+            <paragraph id="art-213.-para-1">
               <content>
                 <p>Artículo 213. Los derechos fijados en esta Ley, sólo se modificarán o declararán insubsistentes por la
 Junta Directiva del Instituto en los casos y con los requisitos expresamente señalados en el propio
@@ -4307,9 +4279,9 @@ Secretaría de Hacienda y Crédito Público, para los efectos de su aprobación 
               </content>
             </paragraph>
           </article>
-          <article id="art-214">
-            <num>Artículo 214</num>
-            <paragraph id="art-214-para-1">
+          <article id="art-214.">
+            <num>Artículo 214.</num>
+            <paragraph id="art-214.-para-1">
               <content>
                 <p>Artículo 214. Las controversias que surjan sobre la aplicación de esta Ley, así como aquellas en que
 el Instituto tuviere el carácter de actor o demandado, serán de la competencia de los Tribunales
@@ -4318,13 +4290,13 @@ Tribunales Locales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-214" placement="bottom">
+            <note placementBase="#art-214." placement="bottom">
               <p>Artículo reformado DOF 03-04-2012</p>
             </note>
           </article>
-          <article id="art-215">
-            <num>Artículo 215</num>
-            <paragraph id="art-215-para-1">
+          <article id="art-215.">
+            <num>Artículo 215.</num>
+            <paragraph id="art-215.-para-1">
               <content>
                 <p>Artículo 215. Quienes en ejercicio de sus funciones intervengan en la tramitación de las prestaciones
 que otorga la presente Ley y no cumplan con alguna de las obligaciones que les fije, o conociendo la
@@ -4339,9 +4311,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-216">
-            <num>Artículo 216</num>
-            <paragraph id="art-216-para-1">
+          <article id="art-216.">
+            <num>Artículo 216.</num>
+            <paragraph id="art-216.-para-1">
               <content>
                 <p>Artículo 216. Si durante la tramitación de uno de los beneficios que establece esta Ley, se descubre
 la comisión de un delito o hubiere datos suficientes para presumirlo, el Instituto denunciará los hechos al
@@ -4354,9 +4326,9 @@ sentido de la sentencia que pudiera dictarse en el proceso penal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-217">
-            <num>Artículo 217</num>
-            <paragraph id="art-217-para-1">
+          <article id="art-217.">
+            <num>Artículo 217.</num>
+            <paragraph id="art-217.-para-1">
               <content>
                 <p>Artículo 217. El Instituto tomará las medidas pertinentes en contra de quienes indebidamente
 aprovechen o hagan uso de los derechos o beneficios establecidos por esta Ley y ejercitará ante los
@@ -4366,18 +4338,18 @@ perjuicio a su patrimonio o traten de realizar alguno de los actos anteriormente
               </content>
             </paragraph>
           </article>
-          <article id="art-218">
-            <num>Artículo 218</num>
-            <paragraph id="art-218-para-1">
+          <article id="art-218.">
+            <num>Artículo 218.</num>
+            <paragraph id="art-218.-para-1">
               <content>
                 <p>Artículo 218. Las relaciones entre el Instituto y su personal, se regirán por la Ley Federal de los
 Trabajadores al Servicio del Estado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-219">
-            <num>Artículo 219</num>
-            <paragraph id="art-219-para-1">
+          <article id="art-219.">
+            <num>Artículo 219.</num>
+            <paragraph id="art-219.-para-1">
               <content>
                 <p>Artículo 219. Los trabajadores del Instituto quedarán bajo el régimen de la Ley del Instituto de
 Seguridad y Servicios Sociales de los Trabajadores del Estado.
@@ -4387,9 +4359,9 @@ administrativos aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-220">
-            <num>Artículo 220</num>
-            <paragraph id="art-220-para-1">
+          <article id="art-220.">
+            <num>Artículo 220.</num>
+            <paragraph id="art-220.-para-1">
               <content>
                 <p>Artículo 220. El Gobierno Federal aportará al Instituto y al Banco Nacional del Ejército, Fuerza Aérea
 y Armada, SNC, las cantidades necesarias para cumplir las obligaciones que impone esta Ley, respecto a
@@ -4398,9 +4370,9 @@ fondo de trabajo y fondo de ahorro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-221">
-            <num>Artículo 221</num>
-            <paragraph id="art-221-para-1">
+          <article id="art-221.">
+            <num>Artículo 221.</num>
+            <paragraph id="art-221.-para-1">
               <content>
                 <p>Artículo 221. El Gobierno Federal destinará anualmente una cantidad equivalente al 15% de los
 haberes, haberes de retiro y pensiones para las siguientes prestaciones:
@@ -4411,13 +4383,13 @@ los familiares de los militares sentenciados, en los términos del artículo 142
 II. Para las que no hubiese cuota específica.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-221" placement="bottom">
+            <note placementBase="#art-221." placement="bottom">
               <p>Párrafo reformado DOF 20-11-2008</p>
             </note>
           </article>
-          <article id="art-222">
-            <num>Artículo 222</num>
-            <paragraph id="art-222-para-1">
+          <article id="art-222.">
+            <num>Artículo 222.</num>
+            <paragraph id="art-222.-para-1">
               <content>
                 <p>Artículo 222. El presupuesto de gastos y demás erogaciones derivadas del funcionamiento del
 Instituto, serán cubiertas con cargo a su propio patrimonio; sin embargo, el Gobierno Federal asume la
@@ -4427,18 +4399,18 @@ Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-223">
-            <num>Artículo 223</num>
-            <paragraph id="art-223-para-1">
+          <article id="art-223.">
+            <num>Artículo 223.</num>
+            <paragraph id="art-223.-para-1">
               <content>
                 <p>Artículo 223. Los bienes, derechos y fondos del Instituto gozarán de todas las franquicias que en los
 mismos casos disfrute la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-224">
-            <num>Artículo 224</num>
-            <paragraph id="art-224-para-1">
+          <article id="art-224.">
+            <num>Artículo 224.</num>
+            <paragraph id="art-224.-para-1">
               <content>
                 <p>Artículo 224. El Instituto se presume de acreditada solvencia, por lo que no estará obligado a
 constituir depósitos ni fianzas legales, ni aun tratándose del juicio de amparo.
@@ -4450,9 +4422,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-225">
-            <num>Artículo 225</num>
-            <paragraph id="art-225-para-1">
+          <article id="art-225.">
+            <num>Artículo 225.</num>
+            <paragraph id="art-225.-para-1">
               <content>
                 <p>Artículo 225. No obstante su plena capacidad para actuar en juicio, el Instituto no podrá desistir de
 continuar ninguna acción judicial cuando se trate de asuntos que afecten a su patrimonio, si no media
@@ -4460,14 +4432,24 @@ para ello autorización expresa de su Junta Directiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-226">
-            <num>Artículo 226</num>
-            <paragraph id="art-226-para-1">
+          <article id="art-226.">
+            <num>Artículo 226.</num>
+            <paragraph id="art-226.-para-1">
               <content>
                 <p>Artículo 226. Para la determinación de las categorías y grados de accidentes o enfermedades que
 den origen a retiro por incapacidad se aplicarán las siguientes tablas:
-
-Primera Categoría
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-226." placement="bottom">
+              <p>Párrafo reformado DOF 20-11-2008</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primera Categoría
 1. La pérdida anatómica o funcional, total e irreparable, de ambos globos oculares.
 2. Las alteraciones orgánicas o funcionales irreparables, de ambos ojos. Que provoquen que la visión
 central, aun después de corregir los vicios de refracción, alcance a lo sumo, en cada ojo 20/200 de la
@@ -4682,8 +4664,15 @@ Secretaría de Servicios Parlamentarios
 122. Otras alteraciones o estados que se constituyen con la suma de diversas categorías o trastornos
 funcionales, y que a criterio médico ocasionen incapacidades mayores al 60% de función en relación a la
 actividad del sujeto.
-Reforma DOF 20-11-2008: Derogó de esta Categoría el entonces último párrafo
-Segunda Categoría
+Reforma DOF 20-11-2008: Derogó de esta Categoría el entonces último párrafo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segunda Categoría
 1. Las alteraciones orgánicas o funcionales e irreparables de ambos ojos que provoquen que la visión
 central de cada uno de ellos, aun después de corregir los vicios de refracción, esté comprendida entre
 20/100 a 20/70 de la agudeza visual normal.
@@ -4765,8 +4754,15 @@ disminuyen la capacidad del individuo entre el 40 y 50% y que no han quedado com
 categoría.
 45. Se deroga.
 Numeral derogado DOF 20-11-2008
-Reforma DOF 20-11-2008: Derogó de esta Categoría el entonces último párrafo
-Tercera Categoría
+Reforma DOF 20-11-2008: Derogó de esta Categoría el entonces último párrafo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercera Categoría
 1. Las alteraciones orgánicas o funcionales irreparables de ambos ojos, que provoquen que la visión
 central de cada uno de ellos aun después de corregir los defectos de refracción, esté comprendida entre
 20/70 y 20/50 de la agudeza visual normal.
@@ -4876,9 +4872,6 @@ ameritan cambio de Arma o Servicio a petición de un Consejo Médico)
 Lista reformada DOF 20-11-2008. Lista con sus numerales derogada DOF 27-01-2015</p>
               </content>
             </paragraph>
-            <note placementBase="#art-226" placement="bottom">
-              <p>Párrafo reformado DOF 20-11-2008</p>
-            </note>
           </article>
           <article id="art-226">
             <num>Artículo 226</num>
@@ -4937,9 +4930,9 @@ a las actividades específicas del militar, sin afectar al servicio y sin ningú
               <p>Artículo adicionado DOF 27-01-2015</p>
             </note>
           </article>
-          <article id="art-227">
-            <num>Artículo 227</num>
-            <paragraph id="art-227-para-1">
+          <article id="art-227.">
+            <num>Artículo 227.</num>
+            <paragraph id="art-227.-para-1">
               <content>
                 <p>Artículo 227. La contabilidad del Instituto queda sujeta a la revisión y glosa de las autoridades
 federales, dentro del ámbito de las facultades de su competencia, mediante una auditoría de carácter
@@ -4949,9 +4942,9 @@ disposiciones legales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-228">
-            <num>Artículo 228</num>
-            <paragraph id="art-228-para-1">
+          <article id="art-228.">
+            <num>Artículo 228.</num>
+            <paragraph id="art-228.-para-1">
               <content>
                 <p>Artículo 228. El Instituto empleará los servicios del Banco Nacional del Ejército, Fuerza Aérea y
 Armada, SNC, en forma preferente como su agente financiero y como fiduciario para sus operaciones, en
@@ -4959,31 +4952,73 @@ igualdad de circunstancias con otras instituciones de la misma índole, todo sin
 que este ordenamiento le señala. Asimismo, el Banco Nacional del Ejército, Fuerza Aérea y Armada,
 SNC, promoverá el ahorro entre los militares y sus familiares y les facilitará dentro de sus autorizaciones
 y posibilidades, los servicios bancarios que a éstos sean útiles.
-TRANSITORIOS
-Primero: Este Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de
-la Federación.
-Segundo: A partir de la entrada en vigor de esta Ley, se abroga la Ley del Instituto de Seguridad
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero: Este Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo: A partir de la entrada en vigor de esta Ley, se abroga la Ley del Instituto de Seguridad
 Social para las Fuerzas Armadas Mexicanas publicada en el Diario Oficial de la Federación el 29 de
 junio de 1976, dejando a salvo los derechos y beneficios que la misma otorga a quienes los vienen
-ejerciendo y disfrutando. Se derogan las demás disposiciones que se opongan al presente ordenamiento.
-Tercero: Los militares retirados con derecho a percibir haber de retiro, deberán recibir este beneficio
+ejerciendo y disfrutando. Se derogan las demás disposiciones que se opongan al presente ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero: Los militares retirados con derecho a percibir haber de retiro, deberán recibir este beneficio
 de conformidad con las resoluciones acordadas por la Junta Directiva del Instituto y sancionadas por la
 Secretaría de Hacienda y Crédito Público.
 66 de 81
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Cuarto: La prima contenida en el artículo 66 deberá ser revisada por el Instituto al cumplirse un año
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto: La prima contenida en el artículo 66 deberá ser revisada por el Instituto al cumplirse un año
 de vigencia de la Ley, para el efecto de determinar el factor de prima que permita, en su caso, mantener
-el equilibrio financiero del seguro de vida militar.
-Quinto: Los militares que con antelación al 18 de agosto de 1995, se encontraban con licencia
+el equilibrio financiero del seguro de vida militar.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto: Los militares que con antelación al 18 de agosto de 1995, se encontraban con licencia
 ilimitada o hubiesen recibido compensación y que se hayan acogido al seguro de vida militar potestativo
 en términos de la ley anterior, continuarán pagando la prima anual equivalente a $0.30 (treinta centavos)
 con derecho a una suma asegurada de $7,500.00 (siete mil quinientos pesos 00/100 M.N.) por muerte
 natural, $15,000.00 (quince mil pesos 00/100 M.N.) por muerte accidental o $22,500.00 (veintidós mil
-quinientos pesos 00/100 M.N.) por fallecimiento en accidente colectivo, según proceda.
-Sexto: A todos los militares que estén en situación de retiro antes de la vigencia de esta Ley, se les
+quinientos pesos 00/100 M.N.) por fallecimiento en accidente colectivo, según proceda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto: A todos los militares que estén en situación de retiro antes de la vigencia de esta Ley, se les
 sustituirá la “ayuda para militares retirados” por la cantidad que se determine conforme a lo establecido
 en el artículo 31 de la ley, de acuerdo al haber establecido en los tabuladores actuales autorizados por la
 Secretaría de Hacienda y Crédito Público, para el grado que sirvió de base para el cálculo de su haber de
@@ -5082,8 +5117,15 @@ padecimientos que por producir trastornos funcionales de menos del 20% ameritan 
 Servicio a petición de un Consejo Médico, del artículo 226; de la Ley del Instituto de Seguridad Social
 para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
 de la Federación, salvo las disposiciones que impliquen impacto económico, las cuales se aplicarán en
 los siguientes términos:
 a) A partir del 1 de enero de 2008, los haberes de retiro, compensaciones y pensiones se integrarán
@@ -5139,11 +5181,25 @@ Año Haberes Haberes de Retiro Pensiones
 2008 11.8% 11.8% 0%
 2009 12.8% 12.8% 5%
 2010 13.9% 13.9% 10%
-2011 15.0% 15.0% 15%
-SEGUNDO. El porcentaje correspondiente al año 2008 será proporcionado del presupuesto actual de
+2011 15.0% 15.0% 15%</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. El porcentaje correspondiente al año 2008 será proporcionado del presupuesto actual de
 las dependencias y entidades involucradas: Secretaría de la Defensa Nacional, Secretaría de Marina e
-Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
-TERCERO. Se derogan las disposiciones que se opongan al presente ordenamiento, quedando a
+Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Se derogan las disposiciones que se opongan al presente ordenamiento, quedando a
 salvo los derechos y beneficios que se vengan ejerciendo y disfrutando en términos de las Leyes del
 Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas de 1976 y 2003.
 71 de 81
@@ -5197,10 +5253,24 @@ ARTÍCULO ÚNICO.- Se reforman los artículos 12, fracción VII; 31, fracción I
 subsecuente en su orden; y un segundo párrafo a la fracción I del artículo 102 de la Ley del Instituto de
 Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 ………
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación, salvo lo dispuesto en el transitorio siguiente.
-SEGUNDO.- Los militares que pasen a situación de retiro y los que se encuentren en dicha situación
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación, salvo lo dispuesto en el transitorio siguiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Los militares que pasen a situación de retiro y los que se encuentren en dicha situación
 con 20 hasta 29 años de servicios efectivos, a partir del mes de enero de 2016 percibirán su haber de
 retiro con el total del porcentaje adicional que se establece en la fracción III del artículo 31, para dicho
 efecto, a partir del mes de enero de 2012 se aplicará al monto del haber de retiro integrado con la suma
@@ -5217,8 +5287,15 @@ servicios
 26 12.00% 20.00% 30.00% 42.00% 56.00%
 27 12.00% 20.00% 30.00% 42.00% 57.00%
 28 12.00% 20.00% 30.00% 44.00% 58.00%
-29 12.00% 20.00% 30.00% 44.00% 59.00%
-TERCERO. El porcentaje correspondiente al año 2012, será proporcionado del presupuesto de las
+29 12.00% 20.00% 30.00% 44.00% 59.00%</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. El porcentaje correspondiente al año 2012, será proporcionado del presupuesto de las
 Secretarías de la Defensa Nacional y de Marina, según corresponda.
 México, D.F., a 16 de febrero de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe
 Acosta Naranjo, Presidente.- Ludivina Menchaca Castellanos, Secretaria.- Dip. Gloria Romero León,
@@ -5233,15 +5310,8 @@ LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
-DECRETO por el que se adicionan las fracciones XXV, XXVI y XXVII al artículo 18 y un</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
-              <content>
-                <p>artículo 138 Bis a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas
+DECRETO por el que se adicionan las fracciones XXV, XXVI y XXVII al artículo 18 y un
+artículo 138 Bis a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas
 Mexicanas.
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2012
 Artículo Único. Se adicionan las fracciones XXV, XXVI y XXVII al artículo 18 y un artículo 138 Bis a la
@@ -5316,10 +5386,24 @@ Publicado en el Diario Oficial de la Federación el 24 de mayo de 2017
 Artículo Único. Se adiciona un párrafo segundo a la fracción IV del artículo 108 de la Ley del Instituto
 de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Dentro del término de 45 días posteriores a la entrada en vigor del presente Decreto, el
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Dentro del término de 45 días posteriores a la entrada en vigor del presente Decreto, el
 Ejecutivo Federal y la Secretaría del ramo competente, deberán realizar las adecuaciones normativas al
 Reglamento de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas.
 Ciudad de México, a 4 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.- Sen.
@@ -5373,27 +5457,83 @@ fracciones III, párrafo segundo y V; 91, fracciones I, incisos a) y b), III y I
 párrafo segundo y VI; 114; 116; 132; 135; 164; 175, fracciones II y III, y 226 Bis, párrafo primero, de la
 Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el
-27 de mayo de 2019.
-Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el
+27 de mayo de 2019.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter
 general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior
-seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
-Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las
-adecuaciones reglamentarias en materia de Guardia Nacional.
-Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se
-resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
-Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las
+adecuaciones reglamentarias en materia de Guardia Nacional.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se
+resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no
 incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente
-ejercicio fiscal.
-Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el
+ejercicio fiscal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el
 personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un
 Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y
-especialidad.
-Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de
+especialidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de
 Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en
 el Reglamento vigente en la materia.
 80 de 81

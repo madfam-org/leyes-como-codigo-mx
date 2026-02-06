@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2006-06-27/lviv/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2006-06-27/lviv/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -102,9 +102,9 @@
         </chapter>
         <chapter id="chapter-18">
           <num>CAPÍTULO II De las Responsabilidades</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>ARTÍCULO 1.- La presente Ley es reglamentaria del artículo 4o. de la Constitución Política de los
 Estados Unidos Mexicanos en materia de vivienda. Sus disposiciones son de orden público e interés
@@ -124,13 +124,13 @@ desordenado crecimiento de las zonas urbanas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Párrafo reformado DOF 24-03-2014</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>ARTÍCULO 2.- Se considerará vivienda digna y decorosa la que cumpla con las disposiciones
 jurídicas aplicables en materia de asentamientos humanos y construcción, salubridad, cuente con
@@ -145,13 +145,13 @@ desastres y la protección física de sus ocupantes ante los elementos naturales
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Artículo reformado DOF 20-04-2015</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>ARTÍCULO 3.- Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e inclusión
 social de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la
@@ -172,13 +172,13 @@ Los representantes gubernamentales en los órganos de gobierno, administración 
 dichos organismos, cuidarán que sus actividades se ajusten a lo dispuesto en esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Párrafo reformado DOF 16-06-2011</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>ARTÍCULO 4.- Para los efectos de esta Ley, se entenderá por:
 I. Autoproducción de vivienda: el proceso de gestión de suelo, construcción y distribución de vivienda
@@ -241,19 +241,19 @@ XV. Secretaría: La Secretaría de Desarrollo Agrario, Territorial y Urbano.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción adicionada DOF 20-04-2015</p>
             </note>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción adicionada DOF 20-04-2015</p>
             </note>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción adicionada DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>ARTÍCULO 5.- Las políticas y los programas públicos de vivienda, así como los instrumentos y apoyos
 a la vivienda deberán considerar los distintos tipos y modalidades de producción habitacional, entre otras:
@@ -268,9 +268,9 @@ propósito.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>ARTÍCULO 6.- La Política Nacional de Vivienda tiene por objeto cumplir los fines de esta Ley y deberá
 considerar los siguientes lineamientos:
@@ -320,28 +320,28 @@ federales, estatales y municipales en materia de vivienda.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 20-04-2015</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción adicionada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción adicionada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción adicionada DOF 24-03-2014</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>ARTÍCULO 7.- La programación del sector público en materia de vivienda se establecerá en:
 I. El Programa Nacional de Vivienda;
@@ -364,16 +364,16 @@ disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, l
 Federación y del Presupuesto de Egresos de la Federación para el ejercicio fiscal de que se trate.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>ARTÍCULO 8.- El Programa Nacional de Vivienda contendrá:
 I. Un diagnóstico de la situación habitacional de todo el país, así como un señalamiento
@@ -430,13 +430,13 @@ artículo, en el ámbito de sus respectivas competencias, se coordinarán con la
 su ejecución.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>ARTÍCULO 9.- El Programa Nacional de Vivienda será formulado por la Secretaría, aprobado por el
 Presidente de la República mediante decreto y estará sometido a un proceso permanente de control y
@@ -456,13 +456,13 @@ competencias, y orientará la planeación y programación de las acciones de las
 municipios en la materia.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>ARTÍCULO 10.- Los programas institucionales en materia de vivienda deberán ajustarse a la Ley de
 Planeación y a lo dispuesto por esta Ley y el Programa Nacional de Vivienda.
@@ -473,9 +473,9 @@ el proceso de presupuestación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>ARTÍCULO 11.- Las dependencias y entidades de la Administración Pública Federal que lleven a
 cabo acciones de vivienda formularán sus programas anuales que servirán de base para la integración de
@@ -487,9 +487,9 @@ deberán considerar los lineamientos de la Dependencia coordinadora de sector.</
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>ARTÍCULO 12.- Las dependencias, entidades y organismos de la Administración Pública Federal que
 tengan a su cargo el financiamiento, instrumentación o ejecución de programas y acciones de vivienda,
@@ -519,9 +519,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>ARTÍCULO 13.- Se establece el Sistema Nacional de Vivienda como un mecanismo permanente de
 coordinación y concertación entre los sectores público, social y privado, que tiene por objeto:
@@ -538,9 +538,9 @@ con la vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>ARTÍCULO 14.- El Sistema Nacional de Vivienda estará integrado por:
 I. El Consejo;
@@ -557,19 +557,19 @@ celebren.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>ARTÍCULO 15.- Las atribuciones en materia de vivienda serán ejercidas por el Gobierno Federal, las
 entidades federativas, los municipios y las alcaldías en sus respectivos ámbitos de competencia.
@@ -584,13 +584,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>ARTÍCULO 16.- Corresponde al Gobierno Federal, por conducto de la Secretaría:
 I. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la Política Nacional de Vivienda
@@ -649,13 +649,13 @@ XIX. Las demás que le otorguen la presente Ley u otros ordenamientos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>ARTÍCULO 17.- La Secretaría promoverá que los gobiernos de las entidades federativas expidan sus
 respectivas leyes de vivienda, en donde establezcan la responsabilidad y compromiso de los gobiernos
@@ -717,34 +717,34 @@ ambiente.
 , 14-05-2019</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>ARTÍCULO 18.- Se crea la Comisión como un organismo descentralizado, de utilidad pública e interés
 social, con personalidad jurídica y patrimonio propio. Su domicilio será en la Ciudad de México.
@@ -754,13 +754,13 @@ Ley.
 Reforma DOF 14-05-2019: Derogó del artículo el entonces párrafo tercero</p>
               </content>
             </paragraph>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>ARTÍCULO 19.- Corresponde a la Comisión:
 I. Formular y ejecutar su programa institucional, así como las disposiciones y reglas de operación
@@ -841,76 +841,76 @@ XXV. Las demás que le otorguen la presente Ley u otros ordenamientos.
 Fracción recorrida DOF 14-05-2019</p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 20-04-2015</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 14-06-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción adicionada DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>ARTÍCULO 20.- La Comisión contará con patrimonio propio que estará constituido por los bienes,
 derechos y obligaciones que adquiera o que se les asignen o adjudiquen; los que adquieran por cualquier
@@ -922,9 +922,9 @@ Administración Pública Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>ARTÍCULO 21.- Para su operación, administración y funcionamiento, la Comisión contará con una
 Junta Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir
@@ -932,9 +932,9 @@ con su objeto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>ARTÍCULO 22.- La Junta de Gobierno de la Comisión estará integrada por:
 I. Secretaría de Desarrollo Agrario, Territorial y Urbano, preside la Junta;
@@ -963,34 +963,34 @@ ellos nombrará un suplente, quien deberá tener nivel de Director General o su 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>ARTÍCULO 23.- La Junta de Gobierno tendrá las atribuciones indelegables siguientes:
 I. Aprobar el Estatuto Orgánico, así como la demás normatividad necesaria para el funcionamiento de
@@ -1036,9 +1036,9 @@ XIV. Las demás que determine esta Ley y el Estatuto Orgánico de la Comisión.<
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>ARTÍCULO 24.- La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año
 y las extraordinarias que proponga el Director General de la Comisión.
@@ -1047,9 +1047,9 @@ Sus decisiones se tomarán por mayoría de votos de los miembros presentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>ARTÍCULO 25.- El Director General de la Comisión tendrá la representación legal de la misma,
 además de las facultades y obligaciones establecidas por los artículos 22 y 59 de la Ley Federal de las
@@ -1072,13 +1072,13 @@ VIII. Proponer a la Junta de Gobierno, las condiciones generales de trabajo de l
 IX. Las demás que determine esta Ley y el Estatuto Orgánico de la Comisión.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Fracción derogada DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>ARTÍCULO 26.- La Comisión contará con un órgano de vigilancia que estará integrado por un
 Comisario Público Propietario y un Suplente, designados por la Secretaría de Función Pública.
@@ -1092,9 +1092,9 @@ desarrollará sus funciones conforme a los lineamientos que emita la Secretaría
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>ARTÍCULO 27.- Las dependencias y entidades de la Administración Pública Federal tendrán la
 obligación de proporcionar la información o cooperación técnica que la Comisión les solicite, en términos
@@ -1102,9 +1102,9 @@ de la normatividad aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>ARTÍCULO 28.- El Consejo será la instancia de consulta y asesoría del Ejecutivo Federal, que tendrá
 por objeto proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento
@@ -1112,9 +1112,9 @@ de la Política Nacional de Vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>ARTÍCULO 29.- Para el cumplimiento de su objeto, el Consejo tendrá las siguientes funciones:
 I. Conocer, analizar y formular propuestas respecto de las políticas de vivienda contenidas en el
@@ -1139,9 +1139,9 @@ los lineamientos para su operación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>ARTÍCULO 30.- El Ejecutivo Federal determinará la forma de integración del Consejo, atendiendo
 principios de pluralidad y equidad, considerando el régimen federal del país y la representatividad de los
@@ -1180,43 +1180,43 @@ invitación respecto a los representantes incluidos en las fracciones V a IX de 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción adicionada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Párrafo adicionado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>ARTÍCULO 31.- La participación en el Consejo será a título honorífico, por lo que sus integrantes no
 percibirán retribución o contraprestación alguna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>ARTÍCULO 32.- La Comisión Intersecretarial será la instancia de carácter permanente del Ejecutivo
 Federal que tendrá por objeto garantizar que la ejecución de los programas y el fomento de las acciones
@@ -1225,9 +1225,9 @@ Vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>ARTÍCULO 33.- La Comisión Intersecretarial será presidida por el Titular del Ejecutivo Federal, a
 través del Titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano o por quien éste designe y
@@ -1261,22 +1261,22 @@ materia de vivienda.
 La Comisión Intersecretarial contará con un Secretario Ejecutivo, que será el Titular de la Comisión.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Párrafo reformado DOF 23-06-2017</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>ARTÍCULO 34.- Para cumplir con su objeto, la Comisión Intersecretarial tendrá las siguientes
 funciones:
@@ -1304,9 +1304,9 @@ VIII. Las demás que determine el Titular del Ejecutivo Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>ARTÍCULO 35.- Los acuerdos de la Comisión Intersecretarial serán obligatorios para las
 dependencias que la integran y se ejecutarán de conformidad con las atribuciones que les confieren la
@@ -1316,9 +1316,9 @@ agrupadas para el cumplimiento de los mismos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>ARTÍCULO 36.- Los acuerdos de la Comisión Intersecretarial deberán notificarse a la Comisión
 Intersecretarial de Desarrollo Social, con el fin de garantizar la integralidad en el diseño y ejecución de la
@@ -1327,9 +1327,9 @@ aportarle elementos para la realización de sus funciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>ARTÍCULO 37.- La Comisión Intersecretarial sesionará de manera ordinaria, cuando menos, una vez
 por trimestre y de manera extraordinaria las veces que resulte necesario.
@@ -1338,9 +1338,9 @@ integran.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>ARTÍCULO 38.- Para cumplir con el objeto de esta Ley, el Ejecutivo Federal, a través de la Secretaría
 y con la participación que corresponda a las demás dependencias y entidades de la Administración
@@ -1394,34 +1394,34 @@ Territorial y Desarrollo Urbano y demás ordenamientos aplicables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción reformada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción adicionada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Fracción adicionada DOF 24-03-2014</p>
             </note>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>ARTÍCULO 39.- El Gobierno Federal, a través de los acuerdos o convenios que celebre con los
 gobiernos de las entidades federativas y municipios, podrá transferir recursos económicos para
@@ -1439,9 +1439,9 @@ ambos órdenes de gobierno cuenten con mayor capacidad técnica y operativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>ARTÍCULO 40.- En situaciones de desastre el Gobierno Federal, en coordinación con las entidades
 federativas y municipios, deberá establecer programas de vivienda emergente para la atención a
@@ -1454,18 +1454,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>ARTÍCULO 41.- El Ejecutivo Federal promoverá la participación de los sectores social y privado en la
 instrumentación de los programas y acciones de vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>ARTÍCULO 42.- Los acuerdos y convenios que se celebren con los sectores social y privado podrán
 tener por objeto:
@@ -1492,9 +1492,9 @@ X. Las demás acciones que acuerden las partes para el cumplimiento de esta Ley.
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>ARTÍCULO 43.- Se crea el Sistema de Información, que tendrá por objeto integrar, generar y difundir
 la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política
@@ -1521,16 +1521,16 @@ Vivienda en México, que permita conocer a profundidad el efecto del sector en e
 economía.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Párrafo reformado DOF 20-04-2015</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>ARTÍCULO 44.- El Sistema de Información contendrá los elementos que permita mantener
 actualizado el inventario habitacional, determinar los cálculos sobre el rezago y las necesidades de
@@ -1546,9 +1546,9 @@ de las medidas de control para evitar su especulación y sus efectos en los prog
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>ARTÍCULO 45.- La Secretaría, en coordinación con la Comisión diseñarán y promoverán mecanismos
 e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia
@@ -1557,13 +1557,13 @@ materia habitacional.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>ARTÍCULO 46.- Los gobiernos de las entidades federativas y de los municipios, las organizaciones de
 los sectores social y privado, así como las instituciones de educación superior y de investigación,
@@ -1573,13 +1573,13 @@ la conjunción de recursos para financiar proyectos que detonen el desarrollo de
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Artículo reformado DOF 24-03-2014</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>ARTÍCULO 47.- Los instrumentos y apoyos en materia de financiamiento para la realización de las
 acciones de vivienda serán el crédito, los subsidios que para tal efecto destinen el Gobierno Federal y los
@@ -1597,13 +1597,13 @@ situación de pobreza y a los productores sociales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>ARTÍCULO 48.- Las inversiones que realicen las dependencias y entidades de la Administración
 Pública Federal, así como las entidades y organismos encargados de ejecutar o financiar programas de
@@ -1619,9 +1619,9 @@ la continuidad y complementariedad que requieren los programas habitacionales.</
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>ARTÍCULO 49.- Las reglas de operación de los programas de las dependencias, entidades y
 organismos de la Administración Pública Federal en materia de mejoramiento de vivienda, contemplarán
@@ -1630,9 +1630,9 @@ federativas y municipios para la aplicación de dichos programas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>ARTÍCULO 50.- El Gobierno Federal, por conducto de sus dependencias y entidades competentes, en
 los términos de las disposiciones jurídicas aplicables y de conformidad con las disponibilidades
@@ -1642,9 +1642,9 @@ materia de vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>ARTÍCULO 51.- Los programas, fondos y recursos federales destinados a satisfacer las necesidades
 de vivienda de la población en situación de pobreza, se sujetarán a lo dispuesto en esta Ley, en la Ley
@@ -1652,9 +1652,9 @@ General de Desarrollo Social y en las reglas de operación correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>ARTÍCULO 52.- El Ejecutivo Federal, por conducto de sus dependencias y entidades competentes, se
 coordinará con las entidades federativas donde se ubiquen pueblos y comunidades indígenas y
@@ -1667,13 +1667,13 @@ sectores privado y social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Artículo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>ARTÍCULO 53.- Las dependencias y entidades federales que realicen acciones de vivienda deberán
 dar publicidad a los listados de beneficiarios de las acciones que realicen, una vez realizado el proceso
@@ -1682,9 +1682,9 @@ posibilidad de difusión en la localidad de que se trate.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>ARTÍCULO 54.- El sector público, con la participación que corresponda de los sectores social y
 privado, diseñará, coordinará, concertará y fomentará esquemas para que el crédito destinado a los
@@ -1700,9 +1700,9 @@ aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>ARTÍCULO 55.- El Gobierno Federal desarrollará y fomentará instrumentos de seguro y garantía para
 impulsar el acceso al crédito público y privado a todos los sectores de la población, preferentemente el
@@ -1714,13 +1714,13 @@ Social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>ARTÍCULO 56.- Los organismos que financien vivienda para los trabajadores, en cumplimiento a la
 obligación que consigna el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, se
@@ -1729,9 +1729,9 @@ de las normas a que se refiere este capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>ARTÍCULO 57.- La Comisión; el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; el
 Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado y
@@ -1742,13 +1742,13 @@ caso, el arrendamiento o transmisión del uso por cualquier título de dichas vi
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>ARTÍCULO 58.- Las instituciones de banca de desarrollo vinculadas con el sector de vivienda,
 deberán diseñar e instrumentar mecanismos que fomenten la concurrencia de diversas fuentes de
@@ -1758,9 +1758,9 @@ Secretaría de Hacienda y Crédito Público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>ARTÍCULO 59.- Para el otorgamiento del financiamiento destinado a los distintos tipos, modalidades y
 necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo de los beneficiarios,
@@ -1778,9 +1778,9 @@ adquisición de vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>ARTÍCULO 60.- Se fomentarán programas que estipulen que al cumplimiento pactado de los
 depósitos en los montos y plazos de ahorro, se establezcan compromisos de crédito, subsidio o ambos,
@@ -1789,9 +1789,9 @@ disposiciones aplicables, considerando las condiciones socioeconómicas de ahorr
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>ARTÍCULO 61.- Los subsidios que en materia de vivienda y de suelo otorgue el Gobierno Federal se
 destinarán exclusivamente a los hogares en situación de pobreza, la cual se definirá, identificará y medirá
@@ -1809,9 +1809,9 @@ que se realicen en cumplimiento a lo dispuesto por el presente ordenamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>ARTÍCULO 62.- Los programas federales que otorguen subsidios para la vivienda se sujetarán a lo
 que determine el Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente. Para
@@ -1837,9 +1837,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>ARTÍCULO 63.- Para garantizar la aplicación de los principios de equidad e inclusión social en el
 acceso a los subsidios, el Gobierno Federal elaborará reglas para su distribución atendiendo lo dispuesto
@@ -1847,9 +1847,9 @@ en el artículo 3 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>ARTÍCULO 64.- Las instancias que otorguen subsidios federales en materia de vivienda, deberán
 proporcionar la información de los beneficiarios a la Secretaría, quien la remitirá a la Secretaría de
@@ -1858,13 +1858,13 @@ Social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>ARTÍCULO 65.- Los apoyos e instrumentos que el Gobierno Federal establezca en materia de suelo,
 se dirigirán a:
@@ -1875,9 +1875,9 @@ subsidio, para la adquisición de suelo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>ARTÍCULO 66.- El Gobierno Federal, por conducto de la Secretaría y con la participación de las
 demás dependencias y entidades competentes de la Administración Pública Federal, instrumentará
@@ -1889,13 +1889,13 @@ los convenios y acuerdos necesarios.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>ARTÍCULO 67.- La Comisión, con el apoyo de la banca de desarrollo, instrumentará programas de
 acompañamiento para el mejoramiento progresivo de la vivienda, en beneficio de la población en
@@ -1904,9 +1904,9 @@ adquirido por otra vía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>ARTÍCULO 68.- La adquisición de suelo o la constitución de reservas territoriales destinada a fines
 habitacionales deberá observar las disposiciones legales en materia de asentamientos humanos, agraria
@@ -1914,9 +1914,9 @@ y ambiental aplicables. Esta disposición se aplicará a todo tipo de operacione
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>ARTÍCULO 69.- Los programas apoyados con recursos de las dependencias, entidades u organismos
 federales, que se destinen a la constitución de reservas territoriales y de aprovechamiento de suelo para
@@ -1933,13 +1933,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>ARTÍCULO 70.- El Gobierno Federal promoverá e impulsará proyectos inmobiliarios en los que se
 transfieran tierras de uso común o parceladas a sociedades mercantiles o civiles en las que participen
@@ -1948,9 +1948,9 @@ conformidad con esta Ley, la Ley Agraria y demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>ARTÍCULO 71.- Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la
 Secretaría promoverá, en coordinación con las autoridades competentes tanto federales como locales,
@@ -1973,19 +1973,19 @@ correspondientes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Párrafo reformado DOF 20-04-2015</p>
             </note>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Párrafo adicionado DOF 26-12-2013</p>
             </note>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>ARTÍCULO 72.- La Secretaría, con base en el modelo normativo que al efecto formule, promoverá
 que las autoridades competentes expidan, apliquen y mantengan en vigor y permanentemente
@@ -1999,13 +1999,13 @@ garanticen la seguridad estructural, la habitabilidad, la eficiencia y sustentab
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-72" placement="bottom">
+            <note placementBase="#art-72." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>ARTÍCULO 73.- Las acciones de suelo y vivienda financiadas con recursos federales, así como las de
 los organismos que financien vivienda para los trabajadores en cumplimiento a la obligación que
@@ -2023,13 +2023,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>ARTÍCULO 74.- Las acciones de vivienda que se realicen en las entidades federativas y municipios,
 deberán ser congruentes con las necesidades de cada centro de población y con los planes y programas
@@ -2040,9 +2040,9 @@ posibles impactos sobre el medio ambiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>ARTÍCULO 75.- Con la finalidad de promover una adecuada convivencia social, la administración y
 mantenimiento de conjuntos habitacionales y en general de la vivienda multifamiliar quedará a cargo o
@@ -2056,13 +2056,13 @@ procesos productivos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>ARTÍCULO 76.- La Secretaría y la Comisión promoverán que las autoridades de las entidades
 federativas, los municipios y las alcaldías celebren acuerdos y convenios con los sectores social y
@@ -2073,13 +2073,13 @@ habitacionales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-76" placement="bottom">
+            <note placementBase="#art-76." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>ARTÍCULO 77.- La Secretaría y la Comisión fomentarán la participación de los sectores público, social
 y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de ecotécnicas y de nuevas
@@ -2091,13 +2091,13 @@ a las características propias de la población, estableciendo mecanismos de inv
 experimentación tecnológicas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-77" placement="bottom">
+            <note placementBase="#art-77." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>ARTÍCULO 78.- El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico de la
 vivienda y los prototipos constructivos deberán considerar los espacios interiores y exteriores que faciliten
@@ -2110,16 +2110,16 @@ habitables y auxiliares y seguridad para los diferentes tipos de vivienda y de s
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-78" placement="bottom">
+            <note placementBase="#art-78." placement="bottom">
               <p>Párrafo reformado DOF 14-06-2024</p>
             </note>
-            <note placementBase="#art-78" placement="bottom">
+            <note placementBase="#art-78." placement="bottom">
               <p>Párrafo reformado DOF 20-04-2015</p>
             </note>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>ARTÍCULO 79.- La Secretaría de Economía, considerando la opinión de la Secretaría, dictará las
 disposiciones necesarias para regular y orientar la transferencia de tecnología aplicable a la vivienda y
@@ -2133,13 +2133,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-79" placement="bottom">
+            <note placementBase="#art-79." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>ARTÍCULO 80.- Las dependencias y entidades de la Administración Pública Federal apoyarán de
 manera prioritaria la aplicación de las normas a que se refiere este capítulo. La Secretaría promoverá el
@@ -2148,13 +2148,13 @@ presente Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>ARTÍCULO 81.- El Gobierno Federal fomentará en los tres órdenes de gobierno, en el ámbito de sus
 respectivas competencias, la utilización de insumos básicos para la construcción de vivienda, que
@@ -2163,13 +2163,13 @@ calidad y sustentabilidad de la vivienda.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Artículo reformado DOF 23-06-2017</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>ARTÍCULO 82.- La Comisión promoverá la celebración de acuerdos y convenios con productores de
 materiales básicos para la construcción de vivienda a precios preferenciales para:
@@ -2185,9 +2185,9 @@ necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>ARTÍCULO 83.- La Secretaría y la Comisión promoverán el uso de materiales y productos que
 contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, así como aquellos que
@@ -2197,13 +2197,13 @@ normatividad aplicable en la materia.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>ARTÍCULO 84.- Las dependencias y entidades competentes de la Administración Pública Federal
 diseñarán mecanismos de promoción para la innovación e intercambio tecnológico en la producción y el
@@ -2212,9 +2212,9 @@ públicas de investigación y educación superior del país.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>ARTÍCULO 85.- El Gobierno Federal deberá apoyar la producción social de vivienda en sus diversos
 tipos y modalidades, mediante el desarrollo de instrumentos jurídicos, programáticos, financieros,
@@ -2227,9 +2227,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>ARTÍCULO 86.- La Comisión fomentará, en coordinación con las dependencias y entidades federales,
 así como con las entidades federativas y municipios, el desarrollo de programas de suelo y vivienda
@@ -2241,9 +2241,9 @@ organismos no gubernamentales, asociaciones gremiales e instituciones de asisten
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>ARTÍCULO 87.- Las políticas y programas dirigidos al estímulo y apoyo de la producción social de
 vivienda y a la vivienda de las comunidades rurales y de los pueblos y comunidades indígenas y
@@ -2271,16 +2271,16 @@ el adelanto científico.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-87" placement="bottom">
+            <note placementBase="#art-87." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
-            <note placementBase="#art-87" placement="bottom">
+            <note placementBase="#art-87." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>ARTÍCULO 88.- La Comisión, en coordinación con los organismos de vivienda y con las entidades
 federales, estatales y municipales fomentará en los programas y proyectos de producción social de
@@ -2290,9 +2290,9 @@ establecido en las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>ARTÍCULO 89.- Como apoyo al desarrollo de la producción social de vivienda, la Comisión fomentará
 la realización de convenios de capacitación, investigación y desarrollo tecnológico con universidades,
@@ -2305,9 +2305,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>ARTÍCULO 90.- Las acciones y recursos que las dependencias y entidades del Gobierno Federal
 programen o destinen para el fomento y estímulo a la producción social de vivienda, deberán guardar
@@ -2316,9 +2316,9 @@ modalidades y necesidades de vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>ARTÍCULO 91.- Las organizaciones de la sociedad civil que tengan por objeto la adquisición,
 mejoramiento, construcción o producción social de la vivienda, así como el otorgamiento de asesoría
@@ -2328,9 +2328,9 @@ la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la 
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>ARTÍCULO 92.- Son sociedades cooperativas de vivienda aquéllas que se constituyan con objeto de
 construir, adquirir, arrendar, mejorar, mantener, administrar o financiar viviendas, o de producir, obtener o
@@ -2346,9 +2346,9 @@ de Información.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>ARTÍCULO 93.- El patrimonio de las sociedades cooperativas será variable y se integrará por:
 I. El capital social constituido por las partes sociales que suscriban e integren los socios, que serán
@@ -2363,18 +2363,18 @@ que considere necesarios la asamblea general.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>ARTÍCULO 94.- La Ley General de Sociedades Cooperativas se aplicará de manera supletoria en lo
 que no se oponga a la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>ARTÍCULO 95.- Toda persona podrá denunciar ante la Secretaría o ante otras autoridades
 competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los
@@ -2383,13 +2383,13 @@ regulen materias relacionadas con la vivienda.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-95" placement="bottom">
+            <note placementBase="#art-95." placement="bottom">
               <p>Artículo reformado DOF 14-05-2019</p>
             </note>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>ARTÍCULO 96.- La denuncia popular podrá ejercitarse por cualquier persona, por escrito y debe
 constar de:
@@ -2403,9 +2403,9 @@ Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>ARTÍCULO 97.- Los servidores públicos que intervengan en los programas habitacionales que utilicen
 indebidamente su posición, para beneficiarse o favorecer a terceros en los procesos de producción y
@@ -2415,19 +2415,54 @@ Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Ser
 su caso por el Código Penal Federal.
 Toda persona tendrá derecho al acceso a la información pública sobre vivienda, en los términos de la
 Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se abroga la Ley Federal de Vivienda, publicada en el Diario Oficial de la Federación el 7
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se abroga la Ley Federal de Vivienda, publicada en el Diario Oficial de la Federación el 7
 de febrero de 1984, y se derogan todas las disposiciones legales y reglamentarias en materia de vivienda
-que se opongan al presente Decreto.
-TERCERO.- La Comisión Nacional de Vivienda quedará constituida a partir de la entrada en vigor del
+que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- La Comisión Nacional de Vivienda quedará constituida a partir de la entrada en vigor del
 presente Decreto, asumiendo las funciones e integrándose con la estructura orgánica, recursos
 financieros, materiales y humanos que actualmente tiene asignados la Comisión Nacional de Fomento a
-la Vivienda, órgano desconcentrado de la Secretaría de Desarrollo Social.
-CUARTO.- El Ejecutivo Federal, deberá expedir el Estatuto Orgánico de la Comisión Nacional de
-Vivienda, a más tardar a los sesenta días naturales a la entrada en vigor del presente Decreto.
-QUINTO.- El personal que, en virtud de este Decreto, pase, de la Comisión Nacional de Fomento a la
+la Vivienda, órgano desconcentrado de la Secretaría de Desarrollo Social.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- El Ejecutivo Federal, deberá expedir el Estatuto Orgánico de la Comisión Nacional de
+Vivienda, a más tardar a los sesenta días naturales a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- El personal que, en virtud de este Decreto, pase, de la Comisión Nacional de Fomento a la
 Vivienda a la Comisión Nacional de Vivienda, de ninguna forma resultará afectado en las prerrogativas y
 32 de 43
 LEY DE VIVIENDA
@@ -2475,15 +2510,8 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 DECRETO por el que se adiciona un segundo párrafo al artículo 71 de la Ley de Vivienda.
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
-Artículo Único. Se adiciona un segundo párrafo, recorriéndose el subsecuente en su orden, al</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
-              <content>
-                <p>artículo 71 de la Ley de Vivienda, para quedar como sigue:
+Artículo Único. Se adiciona un segundo párrafo, recorriéndose el subsecuente en su orden, al
+artículo 71 de la Ley de Vivienda, para quedar como sigue:
 ………
 Transitorio
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
@@ -2591,33 +2619,12 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de
 Vivienda.
 Publicado en el Diario Oficial de la Federación el 14 de mayo de 2019
-Artículo Único.- Se reforman la fracción V y el segundo párrafo del artículo 7; el primer párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
-              <content>
-                <p>artículo 9; las fracciones III, IV y V del artículo 14; el primer párrafo del artículo 15; el primer párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
-              <content>
-                <p>artículo 16; el primer párrafo, las fracciones III y IV del apartado A, el primer párrafo y las fracciones I, V y
+Artículo Único.- Se reforman la fracción V y el segundo párrafo del artículo 7; el primer párrafo del
+artículo 9; las fracciones III, IV y V del artículo 14; el primer párrafo del artículo 15; el primer párrafo del
+artículo 16; el primer párrafo, las fracciones III y IV del apartado A, el primer párrafo y las fracciones I, V y
 VII del apartado B del artículo 17; el primer párrafo del artículo 18; las fracciones I, II y XX del artículo 19;
-las fracciones I, II, III, IV, V, VI, VII y el segundo párrafo del artículo 22; las fracciones II, III, IV, VI y VII del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
-              <content>
-                <p>artículo 30; la fracción I y el tercer párrafo del artículo 33; el primer párrafo, las fracciones I, IX y el
+las fracciones I, II, III, IV, V, VI, VII y el segundo párrafo del artículo 22; las fracciones II, III, IV, VI y VII del
+artículo 30; la fracción I y el tercer párrafo del artículo 33; el primer párrafo, las fracciones I, IX y el
 segundo párrafo del artículo 38; los párrafos segundo y tercero del artículo 43; artículo 45; artículo 47; el
 segundo párrafo del artículo 55; artículo 57; artículo 64; artículo 66; artículo 69; el primero y tercer
 párrafos del artículo 71; artículo 72; artículo 73; el segundo y tercer párrafos del artículo 75; artículo 76; el
@@ -2628,17 +2635,45 @@ un tercer párrafo al artículo 30; y se derogan el tercer párrafo del artícul
 IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 19; la fracción V del artículo 25 de la Ley de
 Vivienda, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Fideicomiso Fondo Nacional de Habitaciones Populares continuará cumpliendo con sus
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El Fideicomiso Fondo Nacional de Habitaciones Populares continuará cumpliendo con sus
 fines y objetivos hasta en tanto se lleve a cabo su extinción, conforme a las disposiciones que resulten
 aplicables; una vez que ello suceda, la Comisión asumirá las atribuciones que se le conceden conforme a
-lo dispuesto en este Decreto.
-Tercero.- En el primer año natural, posterior a la publicación del presente Decreto en el Diario Oficial
+lo dispuesto en este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- En el primer año natural, posterior a la publicación del presente Decreto en el Diario Oficial
 de la Federación, la Comisión transferirá a la Secretaría el Sistema de Información referido en el artículo
-4 de la Ley de Vivienda.
-Cuarto.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente
+4 de la Ley de Vivienda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente
 Decreto, se cubrirán con cargo al presupuesto autorizado para el presente ejercicio fiscal a la Secretaría
 de Desarrollo Agrario, Territorial y Urbano, y para los ejercicios subsecuentes, se cubrirán con cargo al
 presupuesto que en su caso apruebe la Cámara de Diputados, por lo que no se requerirán recursos

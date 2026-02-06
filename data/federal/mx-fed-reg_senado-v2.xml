@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2010-06-04/reg_senado/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2010-06-04/reg_senado/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -1187,8 +1187,15 @@ acuerdos parlamentarios correspondientes.</p>
               <content>
                 <p>Artículo 54
 1. Se presentan en sesión secreta:
-I. Las acusaciones que se hagan contra los servidores públicos considerados en el Título
-Cuarto de la Constitución o los miembros de la Junta de Gobierno del Banco de México;
+I. Las acusaciones que se hagan contra los servidores públicos considerados en el Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto de la Constitución o los miembros de la Junta de Gobierno del Banco de México;
 II. Los asuntos que por su gravedad o trascendencia plantean al Pleno conjuntamente la Mesa
 y los grupos parlamentarios en materia de faltas a la disciplina parlamentaria por parte de los
 senadores;
@@ -1206,7 +1213,7 @@ IV. Aquellos otros asuntos que a juicio de la Mesa deben tener el carácter de r
 conforme a las normas legales aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-4" placement="bottom">
               <p>Fracción reformada DOF 14-03-2017</p>
             </note>
           </article>
@@ -3318,15 +3325,15 @@ de Reglamentos y Prácticas Parlamentarias, en términos del artículo 102 de la
               </content>
             </paragraph>
           </article>
-          <article id="art-167">
-            <num>Artículo 167</num>
-            <paragraph id="art-167-para-1">
+          <article id="art-167.">
+            <num>Artículo 167.</num>
+            <paragraph id="art-167.-para-1">
               <content>
                 <p>Artículo 167. (Se deroga)
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-167" placement="bottom">
+            <note placementBase="#art-167." placement="bottom">
               <p>Artículo derogado DOF 09-10-2017</p>
             </note>
           </article>
@@ -3690,8 +3697,15 @@ Numeral reformado DOF 06-12-2024</p>
               <content>
                 <p>Artículo 187
 1. En las discusiones y votaciones de proyectos de dictamen en las reuniones de comisiones
-unidas, se aplican en lo conducente las normas establecidas en el Capítulo Séptimo del Título
-Sexto de este Reglamento.
+unidas, se aplican en lo conducente las normas establecidas en el Capítulo Séptimo del Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto de este Reglamento.
 2. Cuando las circunstancias para el desahogo de una iniciativa o proyecto así lo requieran, las
 comisiones unidas pueden acordar un formato especial para la formulación y discusión de un
 dictamen.</p>
@@ -4395,15 +4409,8 @@ Cámara de Diputados, se procede conforme lo establece el artículo 72 de la Con
 cumplimiento del inciso a) del artículo 72 de la Constitución, se acompañan de los documentos a
 que se refiere el artículo 220 de este Reglamento.
 2. Cuando el Senado es Cámara de origen de los proyectos de ley o decreto enviados al Ejecutivo
-Federal, la Mesa lleva el seguimiento y cómputo de los plazos a que se refiere el inciso b) del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
-              <content>
-                <p>artículo 72 constitucional.</p>
+Federal, la Mesa lleva el seguimiento y cómputo de los plazos a que se refiere el inciso b) del
+artículo 72 constitucional.</p>
               </content>
             </paragraph>
           </article>
@@ -4490,15 +4497,8 @@ en su Libro de Leyes.</p>
               <content>
                 <p>Artículo 227
 1. Cuando el Senado funge como Cámara revisora, una vez aprobado en sus términos un proyecto
-de ley o decreto que le sea enviado por la Cámara de Diputados conforme a lo dispuesto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
-              <content>
-                <p>artículo 72, inciso a), de la Constitución, lo remite al Ejecutivo Federal para sus efectos
+de ley o decreto que le sea enviado por la Cámara de Diputados conforme a lo dispuesto en el
+artículo 72, inciso a), de la Constitución, lo remite al Ejecutivo Federal para sus efectos
 constitucionales.
 2. Cuando el Senado funge como Cámara de origen, en términos de lo que dispone el artículo 72,
 inciso g), de la Constitución y aprueba las modificaciones o reformas hechas a un proyecto por la
@@ -4759,15 +4759,8 @@ Presidente de la República, o bien objetarlos, conforme lo establecen las leyes
 públicos que realiza el Titular del Ejecutivo Federal y no existan disposiciones expresas que
 regulen el procedimiento relativo en la Constitución o las leyes correspondientes, se está a lo
 dispuesto por el presente Reglamento. En todo caso, se garantizará el derecho de audiencia de
-los servidores públicos de que se trate, de conformidad con lo establecido en el párrafo 3 del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-255">
-            <num>Artículo 255</num>
-            <paragraph id="art-255-para-1">
-              <content>
-                <p>artículo 255 de este Reglamento.
+los servidores públicos de que se trate, de conformidad con lo establecido en el párrafo 3 del
+artículo 255 de este Reglamento.
 2. Cuando finaliza un período de sesiones ordinarias del Congreso de la Unión sin que el Senado
 concluya el trámite de ratificación o aprobación de un nombramiento, la Mesa remite a la
 Comisión Permanente, de ser el caso, el expediente relativo para los efectos procedentes.</p>
@@ -5072,57 +5065,57 @@ DE LA REMOCION Y DESIGNACION DEL JEFE DE GOBIERNO DEL DISTRITO FEDERAL</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-260">
-            <num>Artículo 260</num>
-            <paragraph id="art-260-para-1">
+          <article id="art-260.">
+            <num>Artículo 260.</num>
+            <paragraph id="art-260.-para-1">
               <content>
                 <p>Artículo 260. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-260" placement="bottom">
+            <note placementBase="#art-260." placement="bottom">
               <p>Artículo derogado DOF 14-03-2017</p>
             </note>
           </article>
-          <article id="art-261">
-            <num>Artículo 261</num>
-            <paragraph id="art-261-para-1">
+          <article id="art-261.">
+            <num>Artículo 261.</num>
+            <paragraph id="art-261.-para-1">
               <content>
                 <p>Artículo 261. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-261" placement="bottom">
+            <note placementBase="#art-261." placement="bottom">
               <p>Artículo derogado DOF 14-03-2017</p>
             </note>
           </article>
-          <article id="art-262">
-            <num>Artículo 262</num>
-            <paragraph id="art-262-para-1">
+          <article id="art-262.">
+            <num>Artículo 262.</num>
+            <paragraph id="art-262.-para-1">
               <content>
                 <p>Artículo 262. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-262" placement="bottom">
+            <note placementBase="#art-262." placement="bottom">
               <p>Artículo derogado DOF 14-03-2017</p>
             </note>
           </article>
-          <article id="art-263">
-            <num>Artículo 263</num>
-            <paragraph id="art-263-para-1">
+          <article id="art-263.">
+            <num>Artículo 263.</num>
+            <paragraph id="art-263.-para-1">
               <content>
                 <p>Artículo 263. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-263" placement="bottom">
+            <note placementBase="#art-263." placement="bottom">
               <p>Artículo derogado DOF 14-03-2017</p>
             </note>
           </article>
-          <article id="art-264">
-            <num>Artículo 264</num>
-            <paragraph id="art-264-para-1">
+          <article id="art-264.">
+            <num>Artículo 264.</num>
+            <paragraph id="art-264.-para-1">
               <content>
                 <p>Artículo 264. Derogado
 
@@ -5132,7 +5125,7 @@ ENTIDADES FEDERATIVAS
 Denominación de la Sección reformada DOF 23-05-2018</p>
               </content>
             </paragraph>
-            <note placementBase="#art-264" placement="bottom">
+            <note placementBase="#art-264." placement="bottom">
               <p>Artículo derogado DOF 14-03-2017</p>
             </note>
           </article>
@@ -5628,15 +5621,8 @@ Senado.</p>
             <paragraph id="art-285-para-1">
               <content>
                 <p>Artículo 285
-1. En cumplimiento de las atribuciones que le confieren las fracciones II y IV del párrafo 1 del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-283">
-            <num>Artículo 283</num>
-            <paragraph id="art-283-para-1">
-              <content>
-                <p>artículo 283 de este Reglamento, la Mesa atiende los siguientes criterios:
+1. En cumplimiento de las atribuciones que le confieren las fracciones II y IV del párrafo 1 del
+artículo 283 de este Reglamento, la Mesa atiende los siguientes criterios:
 I. Respecto de organizaciones interparlamentarias permanentes, se designan en cada caso
 representantes por una o dos legislaturas;
 II. En la integración de representaciones permanentes y delegaciones a eventos en el exterior
@@ -6199,22 +6185,50 @@ sede de la reunión de que se trata. En caso de flagrancia, el Presidente manda 
 cometan faltas o delitos para ponerlos a disposición de la autoridad competente.
 3. Si los medios indicados no bastan para contener el desorden, el Presidente suspende la sesión o
 reunión hasta que el orden se restablece.
-ARTICULOS TRANSITORIOS
-PRIMERO. El presente Reglamento se publicará en el Diario Oficial de la Federación y entrará en
+ARTICULOS TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Reglamento se publicará en el Diario Oficial de la Federación y entrará en
 vigor el primero de septiembre de 2010. A partir de esa fecha dejarán de ser aplicables en cuanto se
 refiere al Senado de la República, las disposiciones relativas del Reglamento para el Gobierno Interior del
 Congreso General de los Estados Unidos Mexicanos, conforme al artículo Segundo Transitorio del
 Decreto de fecha 14 de diciembre de 2004, publicado en el Diario Oficial de la Federación el 30 de
 diciembre del mismo año, por el que se reformó el artículo 3, numeral 1, de la Ley Orgánica del Congreso
-General de los Estados Unidos Mexicanos.
-SEGUNDO. La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de
+General de los Estados Unidos Mexicanos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de
 difusión para con los senadores, e inducción y capacitación entre el personal de apoyo, para el debido
-conocimiento y aplicación del Reglamento del Senado de la República.
-TERCERO. Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa
+conocimiento y aplicación del Reglamento del Senado de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Dentro de un año contado a partir de la publicación del Reglamento del Senado, la Mesa
 someterá a la consideración del Pleno, el proyecto de Estatuto para los Servicios Parlamentarios,
 Administrativos y Técnicos. Dicho proyecto será coordinado por la Mesa Directiva, con la colaboración de
-las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración
-CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas
+las comisiones de Reglamentos y Prácticas Parlamentarias y de Administración</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Senado emitidas
 hasta antes de la entrada en vigor de este Reglamento.
 Dado en el salón de sesiones de la Cámara de Senadores a los veintidós días del mes de abril de dos
 mil diez.- Sen. Carlos Navarrete Ruiz, Presidente.- Rúbrica.- Sen. Francisco Arroyo Vieyra,
@@ -6228,15 +6242,8 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 06-12-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
-DECRETO aprobado por el Honorable Congreso de la Unión, por el que se modifica el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-219">
-            <num>Artículo 219</num>
-            <paragraph id="art-219-para-1">
-              <content>
-                <p>artículo 219 del Reglamento del Senado de la República.
+DECRETO aprobado por el Honorable Congreso de la Unión, por el que se modifica el
+artículo 219 del Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2010
 ARTICULO UNICO.- Se modifica el artículo 219 del Reglamento del Senado de la República, para
 quedar como sigue:
@@ -6274,13 +6281,34 @@ Publicado en el Diario Oficial de la Federación el 20 de diciembre de 2011
 ARTÍCULO ÚNICO.- Se adiciona un numeral 5 al artículo 300 y se modifica el numeral 3 del artículo
 301, ambos del Reglamento del Senado de la República, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO. La Mesa Directiva, a través de la Secretaría General de Servicios Administrativos, dictará
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. La Mesa Directiva, a través de la Secretaría General de Servicios Administrativos, dictará
 las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias para
-garantizar el adecuado funcionamiento del Centro.
-TERCERO. La estructura, organización, facultades y funcionamiento del Centro de Estudios
+garantizar el adecuado funcionamiento del Centro.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. La estructura, organización, facultades y funcionamiento del Centro de Estudios
 Internacionales Gilberto Bosques, serán establecidos en el Estatuto para los Servicios Parlamentarios,
 Administrativos y Técnicos del Senado de la República.
 México, D.F., a 14 de diciembre de 2011.- El Vicepresidente, Sen. José González Morfín.- Rúbrica.-
@@ -6307,16 +6335,16 @@ REGLAMENTO DEL SENADO DE LA REPÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 06-12-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
-DECRETO por el que se adiciona una Sección Décima, al Capítulo Segundo del Título
-Octavo del Reglamento del Senado de la República, que estará conformada por el</p>
+DECRETO por el que se adiciona una Sección Décima, al Capítulo Segundo del Título</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-265">
-            <num>Artículo 265</num>
-            <paragraph id="art-265-para-1">
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
               <content>
-                <p>artículo 265 Bis.
+                <p>Octavo del Reglamento del Senado de la República, que estará conformada por el
+artículo 265 Bis.
 Publicado en el Diario Oficial de la Federación el 18 de diciembre de 2014
 ARTÍCULO ÚNICO.- Se adiciona una Sección Décima, al Capítulo Segundo del Título Octavo del
 Reglamento del Senado de la República, que estará conformada por el artículo 265 Bis, para quedar de
@@ -6428,10 +6456,24 @@ Publicado en el Diario Oficial de la Federación el 9 de octubre de 2017
 Artículo Único.- Se reforma el numeral 2, del artículo 231, y se derogan la fracción IV del artículo 163
 y el artículo 167 del Reglamento del Senado de la República, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 28
 de septiembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Sen. Lorena Cuéllar
 Cisneros, Secretaria.- Rúbrica.
@@ -6506,19 +6548,47 @@ REGLAMENTO DEL SENADO DE LA REPÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 06-12-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
-DECRETO por el que se reforman los artículos 230, 265 y la denominación de la Sección
-Novena del Capítulo Segundo del Título Octavo, del Reglamento del Senado de la
+DECRETO por el que se reforman los artículos 230, 265 y la denominación de la Sección</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Novena del Capítulo Segundo del Título Octavo, del Reglamento del Senado de la
 República.
 Publicado en el Diario Oficial de la Federación el 23 de mayo de 2018
-Artículo Único.- Se reforman los artículos 230, fracción X; 265, párrafo 1, y el nombre de la Sección
-Novena del Capítulo Segundo del Título Octavo, con la denominación: “DE LA AUTORIZACIÓN DE
+Artículo Único.- Se reforman los artículos 230, fracción X; 265, párrafo 1, y el nombre de la Sección</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Novena del Capítulo Segundo del Título Octavo, con la denominación: “DE LA AUTORIZACIÓN DE
 CONVENIOS AMISTOSOS SOBRE LÍMITES ENTRE ENTIDADES FEDERATIVAS”; y se deroga el
 párrafo 3 del artículo 265, todos del Reglamento del Senado de la República, para quedar como sigue
 ……..
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Sen.
 Juan G. Flores Ramírez, Secretario.- Rúbrica.
 105 de 120
@@ -6580,10 +6650,24 @@ Artículo Único.- Se reforma el párrafo 1 del artículo 309 y se adiciona una 
 mismo párrafo, recorriéndose en su orden las subsecuentes, todos del Reglamento del Senado de la
 República, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Rúbrica.- Sen.
 Juan G. Flores Ramírez, Secretario.- Rúbrica.
 109 de 120
@@ -6696,27 +6780,41 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman y adicionan diversas disposiciones del Reglamento del
 Senado de la República.
 Publicado en el Diario Oficial de la Federación el 11 de noviembre de 2022
-Artículo Único.- Se reforman las fracciones IV y V del numeral 1 del artículo 41; numeral 2 del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
-              <content>
-                <p>artículo 65; numeral 1 y fracción I y numeral 2 del artículo 73; numerales 4 y 5 del artículo 169; el numeral
+Artículo Único.- Se reforman las fracciones IV y V del numeral 1 del artículo 41; numeral 2 del
+artículo 65; numeral 1 y fracción I y numeral 2 del artículo 73; numerales 4 y 5 del artículo 169; el numeral
 1 del artículo 303; numerales 1, 2 y 3 del artículo 307; numeral 2 del artículo 309; y se adicionan los
 numerales 3 y 4 al artículo 1; un numeral 2 al artículo 37; un párrafo segundo al numeral 2 del artículo 73;
 un numeral 2 al artículo 174 del Reglamento del Senado de la República, para quedar como sigue:
 ……..
-Transitorio
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- La Mesa, a través de la Secretaría General de Servicios Administrativos, dictará las
+Transitorio</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- La Mesa, a través de la Secretaría General de Servicios Administrativos, dictará las
 medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias en el
 presupuesto de egresos del Senado para el ejercicio fiscal de 2023, para garantizar la implementación
-del uso de los medios digitales.
-Tercero.- Una vez que el presente Decreto entre en vigor, el Senado de la República tendrá 365 días
+del uso de los medios digitales.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Una vez que el presente Decreto entre en vigor, el Senado de la República tendrá 365 días
 naturales para realizar las adecuaciones tecnológicas necesarias a fin de permitir la implementación del
 presente Decreto.
 SALÓN DE SESIONES DE LA HONORABLE CÁMARA DE SENADORES.- Ciudad de México, a 4 de
@@ -6744,15 +6842,8 @@ REGLAMENTO DEL SENADO DE LA REPÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 06-12-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
-DECRETO por el que se adiciona una fracción VIII al numeral 1 del artículo 56 y un</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
-              <content>
-                <p>artículo 56 Quinquies al Reglamento del Senado de la República.
+DECRETO por el que se adiciona una fracción VIII al numeral 1 del artículo 56 y un
+artículo 56 Quinquies al Reglamento del Senado de la República.
 Publicado en el Diario Oficial de la Federación el 22 de septiembre de 2023
 Artículo Único.- Se adiciona una fracción VIII al numeral 1 del artículo 56 y un artículo 56 Quinquies
 al Reglamento del Senado de la República, para quedar como sigue:
@@ -6790,15 +6881,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman y adicionan diversos artículos del Reglamento del
 Senado de la República, en materia de reunión de comisiones y votos particulares.
 Publicado en el Diario Oficial de la Federación el 6 de diciembre de 2024
-Artículo Único.- Se reforman la fracción III del numeral 1 del artículo 76; los numerales 1 y 3 del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
-              <content>
-                <p>artículo 139, el numeral 2 del artículo 186, el numeral 2 del artículo 188, las fracciones I y IX del numeral
+Artículo Único.- Se reforman la fracción III del numeral 1 del artículo 76; los numerales 1 y 3 del
+artículo 139, el numeral 2 del artículo 186, el numeral 2 del artículo 188, las fracciones I y IX del numeral
 1 del artículo 199, y el numeral 1 del artículo 207; y se adiciona un numeral 3 al artículo 209, del
 Reglamento del Senado de la República, para quedar como sigue:
 ……

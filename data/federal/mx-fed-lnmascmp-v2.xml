@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2014-12-29/lnmascmp/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2014-12-29/lnmascmp/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -60,9 +60,9 @@
         </chapter>
         <chapter id="chapter-8">
           <num>CAPÍTULO II DE LOS FACILITADORES</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. Objeto general
 Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo
@@ -76,9 +76,9 @@ la oralidad, la economía procesal y la confidencialidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Ámbito de competencia
 1 de 21
@@ -96,9 +96,9 @@ lo dispuesto por la legislación procedimental penal y demás disposiciones jur�
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Glosario
 Para los efectos de esta Ley se entenderá por:
@@ -130,13 +130,13 @@ Procuradurías o fiscalías generales de las entidades federativas, encargada de
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Principios de los Mecanismos Alternativos
 2 de 21
@@ -167,9 +167,9 @@ mecanismo alternativo con apego a la verdad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Procedencia
 El Mecanismo Alternativo será procedente en los casos previstos por la legislación procedimental
@@ -177,9 +177,9 @@ penal aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. Oportunidad
 Los Mecanismos Alternativos podrán ser aplicados desde el inicio del procedimiento penal y hasta
@@ -188,9 +188,9 @@ corresponda, de conformidad con lo dispuesto en la legislación procedimental pe
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Derechos de los Intervinientes
 Los Intervinientes en los Mecanismos Alternativos tendrán los derechos siguientes:
@@ -217,9 +217,9 @@ IX. Los demás previstos en la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Obligaciones de los Intervinientes
 Son obligaciones de los Intervinientes:
@@ -234,9 +234,9 @@ V. Las demás que contemplen la presente Ley y otras disposiciones aplicables.</
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. Solicitud para la aplicación del Mecanismo Alternativo y su inicio
 Los Mecanismos Alternativos se solicitarán de manera verbal o escrita ante la autoridad competente.
@@ -251,9 +251,9 @@ se refiere el artículo siguiente, dará inicio el Mecanismo Alternativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Derivación
 El Ministerio Público, una vez recibida la denuncia o querella orientará al denunciante o querellante
@@ -276,9 +276,9 @@ previsto en esta Ley y se cumplan los requisitos de oportunidad y procedencia.</
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Elección de órgano por parte de los Intervinientes
 Cuando el imputado haya sido vinculado a proceso, los Intervinientes podrán optar por que el
@@ -287,13 +287,13 @@ hubiere.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. Admisibilidad
 El Órgano, al recibir la solicitud examinará la controversia y determinará si es susceptible de
@@ -309,9 +309,9 @@ se fijará la Cita o Invitación correspondiente al Requerido a la sesión inici
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Registro del Mecanismo Alternativo
 Con la solicitud planteada se abrirá y registrará el expediente del caso, mismo que contendrá una
@@ -319,9 +319,9 @@ breve relación de los hechos, el Mecanismo Alternativo a aplicar y el resultado
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Invitación al Requerido
 La Invitación al Requerido la realizará el Órgano dentro de los cinco días hábiles siguientes contados
@@ -331,9 +331,9 @@ preferentemente de manera personal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. Contenido de la Invitación
 La Invitación a que se refiere el artículo anterior deberá precisar:
@@ -351,9 +351,9 @@ VI. Nombre y firma del Facilitador que la elaboró.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. Sesiones preliminares
 El Facilitador podrá tener, cuando las características del caso así lo requieran, sesiones privadas de
@@ -366,9 +366,9 @@ conjuntas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Aceptación de sujetarse al Mecanismo Alternativo
 Cuando el Solicitante y el Requerido acepten someterse a un Mecanismo Alternativo manifestarán su
@@ -376,9 +376,9 @@ voluntad en ese sentido y se registrará esa circunstancia por escrito.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Suspensión de la prescripción
 El término de la prescripción de la acción penal se suspenderá durante la sustanciación de los
@@ -387,9 +387,9 @@ actualice alguna de las causales de conclusión, salvo que ésta produzca la ext
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. De las sesiones de Mecanismos Alternativos
 Las sesiones de Mecanismos Alternativos se realizarán únicamente con la presencia de los
@@ -412,13 +412,13 @@ El Mecanismo Alternativo se dará por concluido si alguno de los Intervinientes 
 confidencial, sin perjuicio de las responsabilidades en que se incurra por tal conducta.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. Mecanismo alternativo en detención por flagrancia o medida cautelar
 En los casos en los que el imputado se encuentre detenido por flagrancia el Ministerio Público podrá
@@ -436,9 +436,9 @@ de participar en el Mecanismo Alternativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Concepto
 Es el mecanismo voluntario mediante el cual los Intervinientes, en libre ejercicio de su autonomía,
@@ -448,9 +448,9 @@ Intervinientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Desarrollo de la sesión
 Una vez que los Intervinientes acuerden sujetarse a la mediación, el Facilitador hará una presentación
@@ -470,18 +470,18 @@ con las disposiciones aplicables previstas en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. Oralidad de la sesiones
 Todas las sesiones de mediación serán orales y sólo se registrará el Acuerdo alcanzado, en su caso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Pluralidad de sesiones
 Cuando una sesión no sea suficiente para que los Intervinientes se avengan, se procurará conservar
@@ -491,9 +491,9 @@ razonable y sin que ello pueda propiciar el agravamiento de la controversia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Concepto
 Es el mecanismo voluntario mediante el cual los Intervinientes, en libre ejercicio de su autonomía,
@@ -508,9 +508,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Desarrollo de la sesión
 La conciliación se desarrollará en los mismos términos previstos para la mediación; sin embargo, a
@@ -521,9 +521,9 @@ controversia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Concepto
 La junta restaurativa es el mecanismo mediante el cual la víctima u ofendido, el imputado y, en su
@@ -534,9 +534,9 @@ imputado a la comunidad y la recomposición del tejido social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Desarrollo de la sesión
 Es posible iniciar una junta restaurativa por la naturaleza del caso o por el número de involucrados en
@@ -565,9 +565,9 @@ previsto en esta Ley</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Alcance de la reparación
 La Reparación del daño derivada de la junta restaurativa podrá comprender lo siguiente:
@@ -590,9 +590,9 @@ curso de la sesión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Sustitución del Mecanismo Alternativo
 En el supuesto de que los Intervinientes hubieren participado en alguno de los Mecanismos
@@ -602,9 +602,9 @@ Facilitador fijará fecha y hora para iniciar dicho Mecanismo en una sesión pos
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Salvaguarda de derechos
 Cuando no se alcance Acuerdo, los Intervinientes conservarán sus derechos para resolver la
@@ -615,9 +615,9 @@ salvo los derechos de los Intervinientes respecto de lo no resuelto en el Acuerd
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Conclusión anticipada de los Mecanismos Alternativos
 El Mecanismo Alternativo se tendrá por concluido de manera anticipada en los casos siguientes:
@@ -634,9 +634,9 @@ con la Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Requisitos de los Acuerdos
 En caso de que el Mecanismo Alternativo concluya con una solución mutuamente acordada por los
@@ -665,9 +665,9 @@ observarán las reglas aplicables para la protección de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Efectos de los Acuerdos
 El Acuerdo celebrado entre los Intervinientes con las formalidades establecidas por esta Ley será
@@ -675,9 +675,9 @@ válido y exigible en sus términos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Cumplimiento de los Acuerdos
 Corresponde al Ministerio Público o al Juez aprobar el cumplimiento del Acuerdo, en cuyo caso
@@ -689,9 +689,9 @@ efectos de la reparación del daño.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Área de seguimiento
 El Órgano contará con un área de seguimiento, la cual tendrá la obligación de monitorear e impulsar el
@@ -708,9 +708,9 @@ principios y disposiciones establecidas en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Integración
 El Órgano designará personal cuya función será dar seguimiento al Acuerdo alcanzado en el
@@ -720,9 +720,9 @@ incumplimiento, a efecto de que se determinen las consecuencias jurídicas respe
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Reuniones de revisión
 El área de seguimiento se comunicará periódicamente con los Intervinientes, de acuerdo con la
@@ -738,9 +738,9 @@ porque el cumplimiento se torne imposible, se procederá de conformidad con el a
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Comunicación
 Si por riesgo de revictimización no se lleva a cabo la reunión, o bien, de la reunión de revisión se
@@ -750,9 +750,9 @@ continúe con el procedimiento penal, si la víctima así lo decide.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Del Órgano
 La Fiscalía General de la República y las procuradurías o fiscalías estatales deberán contar con
@@ -766,13 +766,13 @@ Para cumplir con las finalidades señaladas en el párrafo precedente, el Órgan
 Facilitadores certificados y demás personal profesional necesario para el ejercicio de sus funciones.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Capacitación y difusión
 Las instituciones mencionadas en el artículo precedente estarán obligadas a estandarizar programas
@@ -783,9 +783,9 @@ algún Órgano y de permanencia, de conformidad con las pautas generales estable
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Interdisciplinariedad
 El Órgano contará con personal profesional de las disciplinas necesarias para el cumplimiento del
@@ -794,9 +794,9 @@ necesario para realizar las labores de apoyo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Bases de datos
 El Órgano estará obligado a conservar una base de datos de los asuntos que tramite de acuerdo con
@@ -815,9 +815,9 @@ participado en Mecanismos Alternativos, si ha celebrado Acuerdos y si los ha inc
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Autoridades auxiliares y redes de apoyo
 El Órgano podrá celebrar convenios para su adecuado funcionamiento con los servicios auxiliares y
@@ -838,9 +838,9 @@ por la falta o inoportunidad del auxilio requerido</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Coordinación entre la Federación y entidades federativas
 La Fiscalía General de la República y procuradurías y fiscalías generales de las entidades federativas,
@@ -849,13 +849,13 @@ colaboración para el cumplimiento de los objetivos previstos en esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. Del Consejo de certificación en sede judicial
 El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas, que cuenten
@@ -864,9 +864,9 @@ sede judicial, para los efectos establecidos en la presente Ley y contará con u
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Criterios mínimos de certificación
 La Conferencia y el Consejo serán las Instancias responsables de emitir los criterios mínimos para la
@@ -887,9 +887,9 @@ artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Requisitos para ser Facilitador
 Los Facilitadores deberán:
@@ -908,9 +908,9 @@ V. Los demás requisitos que establezca esta Ley y otras disposiciones que resul
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Vigencia de la certificación
 El Órgano deberá realizar las tareas de certificación periódica de los Facilitadores que presten los
@@ -919,9 +919,9 @@ la Conferencia o el Consejo y tendrá una vigencia de tres años, que podrá ser
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Requisitos mínimos de ingreso y permanencia
 Para ingresar al Órgano los Facilitadores deberán cubrir 180 horas de capacitación teórico-práctica en
@@ -932,9 +932,9 @@ periodo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Obligaciones de los Facilitadores
 Son obligaciones de los Facilitadores:
@@ -974,9 +974,9 @@ correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. Impedimentos y Excusas
 Los Facilitadores deberán excusarse o podrán ser recusados para conocer de los asuntos en que
@@ -1011,8 +1011,15 @@ TRANSITORIOS
 LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-PRIMERO. La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia
 Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de
 Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por
 el que se expide el Código Nacional de Procedimientos Penales.
@@ -1021,12 +1028,33 @@ Decreto entrarán en vigor en las regiones y gradualidad en las que se lleve a c
 refiere el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de
 Procedimientos Penales, serán aplicables para los procedimientos iniciados con anterioridad a la entrada
 en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la
-Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO. A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y
+Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. A partir de la entrada en vigor del presente Decreto, el Poder Judicial de la Federación y
 los poderes judiciales de las entidades federativas que cuenten con un Órgano, conformarán, dentro del
-término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.
-CUARTO. La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos
+término de sesenta días hábiles, el Consejo a que se refiere el artículo 46 de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. La certificación inicial de Facilitadores a que se refiere la Ley Nacional de Mecanismos
 Alternativos de Solución de Controversias en Materia Penal deberá concluirse antes del dieciocho de
 junio de 2016.
 Dentro de los sesenta días siguientes a la publicación de este Decreto en el Diario Oficial de la
@@ -1035,11 +1063,25 @@ Secretaría Técnica del Consejo de certificación en sede judicial deberán ela
 mínimos de certificación de Facilitadores. Para la elaboración de los criterios referidos deberán tomar en
 consideración la opinión de los representantes de las zonas en que estén conformadas la Conferencia y
 el Consejo. El proyecto deberá ser sometido a consideración del Pleno de la Conferencia o el Consejo en
-la sesión plenaria siguiente al vencimiento del plazo a que se refiere este párrafo.
-QUINTO. La Federación y las entidades federativas emitirán las disposiciones administrativas que
+la sesión plenaria siguiente al vencimiento del plazo a que se refiere este párrafo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. La Federación y las entidades federativas emitirán las disposiciones administrativas que
 desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad
-con el artículo primero transitorio anterior.
-SEXTO. La Federación y las entidades federativas, en su ámbito de competencia respectivo,
+con el artículo primero transitorio anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. La Federación y las entidades federativas, en su ámbito de competencia respectivo,
 proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación
 del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la
 Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones
@@ -1062,34 +1104,55 @@ DECRETO por el que se expide la Ley de la Fiscalía General de la República, se
 Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan
 diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
-Artículo Trigésimo.- Se reforma la fracción XIV del artículo 3; el artículo 11; el párrafo primero del</p>
+Artículo Trigésimo.- Se reforma la fracción XIV del artículo 3; el artículo 11; el párrafo primero del
+artículo 40; y el artículo 45 de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias
+en Materia Penal, para quedar como sigue:
+………
+Transitorios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
               <content>
-                <p>artículo 40; y el artículo 45 de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias
-en Materia Penal, para quedar como sigue:
-………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -1099,8 +1162,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 17 de 21
 LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL
@@ -1131,13 +1201,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -1154,29 +1238,64 @@ transición.
 LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -1187,14 +1306,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -1207,12 +1340,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

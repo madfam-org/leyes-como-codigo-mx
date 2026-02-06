@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2005-01-20/lcec_120419/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2005-01-20/lcec_120419/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -75,9 +75,9 @@
         </chapter>
         <chapter id="chapter-12">
           <num>Capítulo Segundo Del Recurso de Revisión</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley es de orden público y de observancia en todo el territorio nacional.
 Tiene por objeto normar la constitución y funcionamiento de las Cámaras de Comercio, Servicios y
@@ -86,9 +86,9 @@ También tiene por objeto normar al Sistema de Información Empresarial Mexicano
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- Para los efectos de esta Ley, se entenderá por:
 I. Estado: la sociedad mexicana que habita el territorio nacional y es regida por un gobierno
@@ -125,18 +125,18 @@ cometerse la infracción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- La aplicación de esta Ley para efectos administrativos corresponde al Poder Ejecutivo
 Federal a través de la Secretaría de Economía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Las Cámaras y sus Confederaciones son instituciones de interés público, autónomas, con
 personalidad jurídica y patrimonio propio, constituidas conforme a lo dispuesto en esta Ley y para los
@@ -162,9 +162,9 @@ actuarán como asociaciones sujetas al derecho común.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- Las instituciones constituidas y organizadas de acuerdo con esta Ley deberán usar en
 sus denominaciones los términos "Cámara" o "Confederación", seguidos de los vocablos que conforme a
@@ -177,9 +177,9 @@ aprobación de la Secretaría, salvo lo dispuesto en otras Leyes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- La Secretaría tendrá las siguientes atribuciones y facultades:
 I. Autorizar, previa opinión de la Confederación correspondiente, la constitución de nuevas Cámaras;
@@ -205,9 +205,9 @@ XI. Las demás señaladas en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- Las Cámaras tendrán por objeto:
 I. Representar, promover y defender los intereses generales del comercio, los servicios, el turismo o
@@ -255,16 +255,16 @@ les señalen otros ordenamientos legales.
 Fracción recorrida DOF 12-04-2019</p>
               </content>
             </paragraph>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción reformada DOF 12-04-2019</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción adicionada DOF 12-04-2019</p>
             </note>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- Las Cámaras que representen la actividad comercial, de servicios y turismo integrarán la
 Confederación de Cámaras de Comercio, Servicios y Turismo.
@@ -273,9 +273,9 @@ Industria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- Las Confederaciones tendrán por objeto:
 I. Representar los intereses generales de la actividad comercial o industrial, según corresponda;
@@ -294,9 +294,9 @@ VIII. Cumplir con el objeto que esta Ley establece para las Cámaras.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- Las Cámaras de Comercio, Servicios y Turismo tendrán una circunscripción Regional
 correspondiente a uno o más municipios aledaños en una entidad federativa y una o más de las
@@ -310,9 +310,9 @@ establecidos en el capítulo VIII del presente título en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- Las Cámaras de Industria serán específicas o genéricas, nacionales o regionales.
 Las Cámaras de Industria específicas nacionales se integrarán con empresas y sus establecimientos
@@ -335,9 +335,9 @@ esta Ley y de su Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- La Secretaría podrá autorizar la creación de nuevas Cámaras de Comercio, Servicios y
 Turismo, o de Industria específica nacional y genérica regional, debiendo ser escuchada, para tal efecto,
@@ -375,9 +375,9 @@ Para la constitución de una Cámara la Secretaría se reserva la facultad de em
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Los requisitos que debe satisfacer el grupo promotor en su solicitud a la Confederación
 para constituir una Cámara de Comercio, Servicios y Turismo son los siguientes:
@@ -392,9 +392,9 @@ V. Cumplir con los demás requisitos que se establecen en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Los requisitos que debe satisfacer el grupo promotor en su solicitud a la Confederación
 para constituir una Cámara de Industria son los siguientes:
@@ -447,9 +447,9 @@ i) Cumplir con los demás requisitos que se establecen en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- Para constituir una Cámara deberá seguirse el procedimiento siguiente:
 I. En el caso de Cámaras de Comercio, Servicios y Turismo.
@@ -485,9 +485,9 @@ de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- Los Estatutos de las Cámaras y Confederaciones deberán contener por lo menos lo
 siguiente:
@@ -525,13 +525,13 @@ La Secretaría registrará los Estatutos y sus modificaciones, los cuales deber�
 otorgado ante fedatario público competente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Fracción reformada DOF 09-06-2009</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- La afiliación a las Cámaras será un acto voluntario de los Comerciantes e Industriales.
 Los afiliados tendrán los siguientes derechos y obligaciones ante su Cámara:
@@ -549,9 +549,9 @@ VIII. Los demás que establezcan esta Ley, su Reglamento o los Estatutos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- Las Cámaras tendrán los siguientes derechos y obligaciones frente a sus
 Confederaciones:
@@ -611,9 +611,9 @@ respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- Las Confederaciones tendrán los siguientes derechos y obligaciones frente a las
 Cámaras afiliadas:
@@ -669,9 +669,9 @@ respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- La Asamblea General es el órgano supremo de las Cámaras y Confederaciones.
 Estará integrada respectivamente por sus afiliados y por representantes de las Cámaras, y le
@@ -690,9 +690,9 @@ VII. Las demás funciones que establezcan esta Ley, su Reglamento y los propios 
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- La Asamblea General deberá celebrar al menos una sesión ordinaria durante los
 primeros tres meses de cada año. La convocatoria, desarrollo y acuerdos de toda la sesión serán
@@ -700,9 +700,9 @@ registrados en el acta correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- El Consejo Directivo será el órgano ejecutivo de una Cámara o Confederación y tendrá
 las siguientes atribuciones:
@@ -736,22 +736,22 @@ XI. Las demás que señalen esta Ley y los Estatutos respectivos.
  (se recorre)</p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción adicionada DOF 09-06-2009</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 09-06-2009</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 09-06-2009</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 09-06-2009</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- El Consejo Directivo de una Cámara o Confederación se integrará en la forma que
 establezcan sus Estatutos a fin de representar al sector que les corresponda y proporcionar servicios a
@@ -772,9 +772,9 @@ hayan sido electos por la Asamblea General.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- El Consejo Directivo será encabezado por un Presidente, los Vicepresidentes que se
 requieran según los Estatutos y el objeto de la Cámara o Confederación, un Tesorero y un Secretario, de
@@ -806,9 +806,9 @@ representantes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- El patrimonio de las Cámaras y Confederaciones será destinado estrictamente a
 satisfacer su objeto y comprenderá:
@@ -825,9 +825,9 @@ VIII. Los demás ingresos que obtenga por cualquier otro concepto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- Las Cámaras de Comercio, Servicios y Turismo y las Cámaras de Industria podrán
 establecer en su circunscripción las delegaciones que consideren necesarias para el cumplimiento de su
@@ -839,18 +839,18 @@ Las delegaciones no tienen personalidad jurídica ni patrimonio propios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Las delegaciones son parte integral de la Cámara a la que representan, por lo que los
 afiliados de la delegación lo son de la Cámara, con todos los derechos y obligaciones correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Las delegaciones tendrán las funciones señaladas para las Cámaras por esta Ley,
 exclusivamente dentro de su circunscripción y en cumplimiento a los acuerdos del Consejo Directivo y de
@@ -862,9 +862,9 @@ determinen sus Estatutos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- El SIEM es un instrumento del Estado mexicano con el propósito de captar, integrar,
 procesar y suministrar información oportuna y confiable sobre las características y ubicación de los
@@ -894,18 +894,18 @@ a cargo de las Cámaras, cuando así lo autorice la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- Todos los Comerciantes e Industriales, sin excepción y obligatoriamente, deberán de
 registrar y actualizar anualmente cada uno de sus establecimientos en el SIEM.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- El SIEM tendrá las siguientes características:
 I. El registro tendrá un costo nominal aprobado por la Secretaría, de acuerdo con los costos de
@@ -923,9 +923,9 @@ hechos se produzcan y en la misma Cámara en que se registró inicialmente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- La información que deberán proporcionar los Comerciantes e Industriales será de dos
 tipos:
@@ -942,9 +942,9 @@ de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- La administración del SIEM estará a cargo de la Secretaría, quien garantizará que el
 sistema opere eficientemente en todo momento, para ello:
@@ -969,9 +969,9 @@ derechos o les impondrá las obligaciones inherentes a los afiliados de las mism
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- La Secretaría establecerá conjuntamente con las Cámaras y sus Confederaciones las
 reglas de operación del SIEM. Estas reglas de operación deberán considerar por lo menos los siguientes
@@ -992,9 +992,9 @@ XI. La información pública que habrá de aparecer en la página principal del 
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Las Cámaras se disolverán:
 I. Por acuerdo de la Asamblea General, que deberá ser convocada especialmente para este efecto;
@@ -1010,18 +1010,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- La liquidación estará a cargo de al menos un representante de la Secretaría, uno de la
 Confederación respectiva y otro de la Cámara de que se trate.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- La Secretaría, previo cumplimiento de la garantía de audiencia de acuerdo a lo
 establecido en la Ley Federal de Procedimiento Administrativo, podrá aplicar las sanciones previstas en
@@ -1035,9 +1035,9 @@ reincidencias posteriores podrá imponerse multa por el doble de la sanción imp
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- La Secretaría sancionará con multa de dos mil a tres mil salarios mínimos a las Cámaras
 o Confederaciones que incurran en las conductas siguientes:
@@ -1049,9 +1049,9 @@ III. No contribuir al sostenimiento de la Confederación respectiva en los térm
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- La Secretaría sancionará con multa de dos mil a tres mil salarios mínimos a quienes
 utilicen o incorporen en su denominación o razón social los términos "Cámara" o "Confederación"
@@ -1065,9 +1065,9 @@ el artículo 5 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- La Secretaría sancionará con multa de doscientos a seiscientos salarios mínimos, según
 la capacidad económica del infractor, a aquellos Comerciantes o Industriales que incurran en las
@@ -1085,9 +1085,9 @@ En caso de reincidencia, se podrá imponer multa de hasta por el doble de la san
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- La Secretaría solicitará a la Asamblea General que, conforme a sus Estatutos, tome los
 acuerdos necesarios para corregir cualquiera de las condiciones de los integrantes del Consejo Directivo
@@ -1101,9 +1101,9 @@ en forma diversa a la establecida en esta Ley o en las reglas de operación que 
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- La Secretaría previa opinión de las dependencias competentes y de la Confederación,
 podrá ordenar la destitución del Consejo Directivo de una Cámara, cuando éste se negara a cumplir con
@@ -1114,9 +1114,9 @@ conducción de la Cámara.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Cualquier otra infracción a esta Ley que no esté expresamente prevista en este título
 podrá ser sancionada por la Secretaría con multa de quince a trescientos salarios mínimos. En caso de
@@ -1124,9 +1124,9 @@ reincidencia, podrá imponer multa de hasta por el doble de la sanción anterior
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- La aplicación de las sanciones que se establecen en este título no libera al infractor del
 cumplimiento de las obligaciones que dispone esta Ley; se impondrán sin perjuicio de la responsabilidad
@@ -1134,9 +1134,9 @@ civil o penal que resulte.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Las personas afectadas por las resoluciones dictadas por la Secretaría, con fundamento
 en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los
@@ -1208,15 +1208,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se adiciona la fracción XIV al artículo 7 de la Ley de Cámaras
 Empresariales y sus Confederaciones.
 Publicado en el Diario Oficial de la Federación el 12 de abril de 2019
-Artículo Único.- Se adiciona la fracción XIV, recorriéndose la actual XIV para pasar a ser XV, al</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
-              <content>
-                <p>artículo 7 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:
+Artículo Único.- Se adiciona la fracción XIV, recorriéndose la actual XIV para pasar a ser XV, al
+artículo 7 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:
 ……..
 Transitorio
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial

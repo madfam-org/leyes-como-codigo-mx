@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1959-12-19/200_291214/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1959-12-19/200_291214/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -147,9 +147,9 @@ ser revocada antes de ese término u otorgada para un nuevo período.
           <p>Artículo reformado DOF 13-01-1986</p>
         </note>
       </article>
-      <article id="art-10">
-        <num>Artículo 10</num>
-        <paragraph id="art-10-para-1">
+      <article id="art-10.">
+        <num>Artículo 10.</num>
+        <paragraph id="art-10.-para-1">
           <content>
             <p>Artículo 10.- El Estado Mexicano reconoce la personalidad jurídica del Banco Interamericano de
 Desarrollo.
@@ -162,13 +162,13 @@ sentencia ejecutoriada en su contra.
 </p>
           </content>
         </paragraph>
-        <note placementBase="#art-10" placement="bottom">
+        <note placementBase="#art-10." placement="bottom">
           <p>Párrafo reformado DOF 13-01-1986</p>
         </note>
       </article>
-      <article id="art-11">
-        <num>Artículo 11</num>
-        <paragraph id="art-11-para-1">
+      <article id="art-11.">
+        <num>Artículo 11.</num>
+        <paragraph id="art-11.-para-1">
           <content>
             <p>Artículo 11.- Los funcionarios y empleados del Banco Interamericano de Desarrollo, así como las
 propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las
@@ -177,9 +177,9 @@ Especializada de Representantes de los Gobiernos de los Estados Miembros.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-12">
-        <num>Artículo 12</num>
-        <paragraph id="art-12-para-1">
+      <article id="art-12.">
+        <num>Artículo 12.</num>
+        <paragraph id="art-12.-para-1">
           <content>
             <p>Artículo 12.- El Gobierno Federal requerirá exclusivamente la aprobación del Senado, de conformidad
 con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados
@@ -292,7 +292,7 @@ diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de
 5 de 5</p>
           </content>
         </paragraph>
-        <note placementBase="#art-12" placement="bottom">
+        <note placementBase="#art-12." placement="bottom">
           <p>Artículo reformado DOF 29-12-2014</p>
         </note>
       </article>

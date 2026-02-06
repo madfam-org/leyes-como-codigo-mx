@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2008-04-16/lsnieg/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2008-04-16/lsnieg/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -75,9 +75,9 @@
         </chapter>
         <chapter id="chapter-11">
           <num>CAPÍTULO II De las Sanciones</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>ARTÍCULO 1.- La presente Ley, reglamentaria del Apartado B del artículo 26 de la Constitución
 Política de los Estados Unidos Mexicanos, es de orden público, de interés social y de observancia
@@ -90,9 +90,9 @@ del Instituto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>ARTÍCULO 2.- Para efectos de esta Ley se entenderá por:
 I. Actividades Estadísticas y Geográficas o Actividades: las relativas al diseño, captación,
@@ -155,19 +155,19 @@ e) Los tribunales administrativos federales.
 Cuando el Instituto genere Información se considerará como Unidad para efectos de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Inciso reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Inciso reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>ARTÍCULO 3.- El Sistema Nacional de Información Estadística y Geográfica, tiene la finalidad de
 suministrar a la sociedad y al Estado Información de calidad, pertinente, veraz y oportuna, a efecto de
@@ -176,9 +176,9 @@ Serán principios rectores del Sistema los de accesibilidad, transparencia, obje
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>ARTÍCULO 4.- El Sistema Nacional de Información Estadística y Geográfica tendrá como objetivos:
 I. Producir Información;
@@ -188,9 +188,9 @@ IV. Conservar la Información.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>ARTÍCULO 5.- El Sistema Nacional de Información Estadística y Geográfica estará integrado por:
 I. El Consejo Consultivo Nacional;
@@ -199,9 +199,9 @@ III. El Instituto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>ARTÍCULO 6.- La Información de Interés Nacional será oficial y de uso obligatorio para la Federación,
 las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México.
@@ -210,13 +210,13 @@ Sin perjuicio de lo señalado en el párrafo anterior, las Unidades podrán prod
 información pública oficial adicional a la Información de Interés Nacional.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>ARTÍCULO 7.- La organización, la planeación, el funcionamiento y la coordinación de Actividades
 Estadísticas y Geográficas, así como la evaluación de los resultados del Sistema, se sujetarán a esta
@@ -233,9 +233,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>ARTÍCULO 8.- Las Unidades del Estado participarán en el Sistema a través de:
 I. El Consejo Consultivo Nacional;
@@ -246,9 +246,9 @@ colegiados a que se refieren las fracciones anteriores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>ARTÍCULO 9.- La ordenación y regulación de las actividades necesarias para la planeación,
 programación, producción y difusión de la Información de Interés Nacional, se llevará a cabo a través de
@@ -266,9 +266,9 @@ presupuestaria correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>ARTÍCULO 10.- El Programa Estratégico del Sistema Nacional de Información Estadística y
 Geográfica:
@@ -291,9 +291,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>ARTÍCULO 11.- El Programa Nacional de Estadística y Geografía:
 I. Será elaborado cada seis años en congruencia con el Programa Estratégico del Sistema
@@ -310,13 +310,13 @@ medio ambiente del país.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>ARTÍCULO 12.- El Programa Anual de Estadística y Geografía deberá elaborarse tomando en
 consideración lo dispuesto en el Programa Estratégico del Sistema Nacional de Información Estadística y
@@ -328,18 +328,18 @@ Unidades.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>ARTÍCULO 13.- El Instituto proporcionará a las autoridades competentes la Información de Interés
 Nacional que se requiera para la elaboración del Plan Nacional de Desarrollo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>ARTÍCULO 14.- El Consejo Consultivo Nacional estará integrado por:
 I. El Presidente del Instituto;
@@ -381,19 +381,19 @@ Los integrantes del Consejo desempeñarán sus funciones en dicho órgano colegi
 honoraria.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Inciso reformado DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 14-07-2014</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Párrafo reformado DOF 14-07-2014</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>ARTÍCULO 15.- El Consejo Consultivo Nacional deberá:
 I. Opinar sobre los proyectos de los programas a que se refiere el artículo 9 de esta Ley;
@@ -406,9 +406,9 @@ IV. Opinar sobre los demás asuntos que someta a su consideración la Junta de G
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>ARTÍCULO 16.- El Consejo Consultivo Nacional será presidido por el Presidente del Instituto y fungirá
 como secretario técnico el servidor público del Instituto que aquél determine.
@@ -430,9 +430,9 @@ Instituto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>ARTÍCULO 17.- El Sistema contará con los siguientes Subsistemas Nacionales de Información:
 I. Demográfica y Social;
@@ -452,22 +452,22 @@ La Junta de Gobierno, previa opinión favorable del Consejo, podrá crear otros 
 necesarios para el adecuado funcionamiento del Sistema.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Fracción adicionada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>ARTÍCULO 18.- En el acuerdo de creación de un Subsistema conforme al último párrafo del artículo
 anterior, la Junta de Gobierno deberá señalar como mínimo su infraestructura de información, los
@@ -476,9 +476,9 @@ Unidades- la información básica para dichos indicadores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>ARTÍCULO 19.- Formarán parte de los Subsistemas: los Comités Ejecutivos de Información
 Demográfica y Social, de Información Económica, de Información Geográfica, del Medio Ambiente, y de
@@ -490,13 +490,13 @@ SECCIÓN I
 Del Subsistema Nacional de Información Demográfica y Social</p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Artículo reformado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>ARTÍCULO 20.- El Subsistema Nacional de Información Demográfica y Social, contará con una
 infraestructura de información que contenga como mínimo, un marco geoestadístico y un inventario
@@ -504,9 +504,9 @@ nacional de viviendas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>ARTÍCULO 21.- El Subsistema Nacional de Información Demográfica y Social deberá generar un
 conjunto de indicadores clave, que atenderán como mínimo los temas siguientes: población y dinámica
@@ -519,13 +519,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Artículo reformado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>ARTÍCULO 22.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se
 refiere el artículo anterior, a partir de la información básica que se obtenga de:
@@ -538,9 +538,9 @@ Del Subsistema Nacional de Información Económica</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>ARTÍCULO 23.- El Subsistema Nacional de Información Económica, contará con una infraestructura
 de información que contenga como mínimo, un marco geoestadístico y un Directorio Nacional de
@@ -551,9 +551,9 @@ de los que se pueda obtener Información de Interés Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>ARTÍCULO 24.- El Subsistema Nacional de Información Económica deberá generar un conjunto de
 indicadores clave, relacionados como mínimo con lo siguiente: sistema de cuentas nacionales; ciencia y
@@ -561,9 +561,9 @@ tecnología; información financiera; precios y trabajo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>ARTÍCULO 25.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se
 refiere el artículo anterior a partir de la información básica proveniente de:
@@ -576,9 +576,9 @@ Del Subsistema Nacional de Información Geográfica y del Medio Ambiente</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>ARTÍCULO 26.- El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su
 componente geográfico, generará como mínimo los siguientes grupos de datos: marco de referencia
@@ -602,19 +602,19 @@ las instancias competentes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo adicionado DOF 01-12-2023</p>
             </note>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo adicionado DOF 01-12-2023</p>
             </note>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Artículo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>ARTÍCULO 27.- El Subsistema Nacional de Información Geográfica y del Medio Ambiente, en su
 componente del medio ambiente, procurará describir el estado y las tendencias del medio ambiente,
@@ -625,9 +625,9 @@ siguientes temas: atmósfera, agua, suelo, flora, fauna, residuos peligrosos y r
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>ARTÍCULO 28.- El Instituto elaborará, con la colaboración de las Unidades, los indicadores a que se
 refieren los dos artículos anteriores a partir de la información básica proveniente de:
@@ -719,9 +719,9 @@ De los Comités de los Subsistemas</p>
               <p>Artículo adicionado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>ARTÍCULO 29.- Cada Subsistema contará con un Comité Ejecutivo que se integrará por un
 Vicepresidente de la Junta de Gobierno, designado por el Presidente del Instituto, quien lo presidirá, y por
@@ -764,25 +764,25 @@ Los integrantes de los Comités Ejecutivos desempeñarán sus funciones en dicho
 de manera honoraria.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Párrafo reformado DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 14-07-2014</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción adicionada DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>ARTÍCULO 30.- Los Comités Ejecutivos tendrán las facultades siguientes:
 I. Dar a conocer a la Junta de Gobierno, a través de su Presidente, las opiniones que tuvieren
@@ -805,9 +805,9 @@ calidad aquélla Unidad que, en el ámbito de su competencia, haya sometido la p
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>ARTÍCULO 31.- Los Comités Técnicos Especializados serán instancias colegiadas de participación y
 consulta creados por acuerdo de la Junta de Gobierno, integrados por representantes de las Unidades y
@@ -831,9 +831,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>ARTÍCULO 32.- Los Comités Técnicos Especializados a los que se refiere el artículo anterior tendrán
 las funciones siguientes:
@@ -849,9 +849,9 @@ De las Unidades del Estado</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>ARTÍCULO 33.- Las Unidades del Estado distintas al Instituto, cuando desarrollen actividades
 relacionadas con la producción, integración, conservación y difusión de Información de Interés Nacional,
@@ -889,9 +889,9 @@ la conducción de la política monetaria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>ARTÍCULO 34.- Para el correcto funcionamiento y coordinación del Sistema, se designará a un
 coordinador por cada grupo de Unidades correspondientes a una misma cámara legislativa federal o
@@ -906,9 +906,9 @@ coordinador deberá nombrar a su suplente quien deberá ocupar el nivel inmediat
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>ARTÍCULO 35.- Los coordinadores a que se refiere el artículo anterior tendrán bajo su
 responsabilidad:
@@ -925,9 +925,9 @@ coordinen.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>ARTÍCULO 36.- A efecto de apoyar en la capacitación y actualización de los servidores públicos de
 las Unidades, así como en la investigación permanente en temas de producción y análisis de la
@@ -953,9 +953,9 @@ VII. Capacitar a los servidores públicos de las Unidades del Estado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>ARTÍCULO 37.- Los datos que proporcionen para fines estadísticos los Informantes del Sistema a las
 Unidades en términos de la presente Ley, serán estrictamente confidenciales y bajo ninguna
@@ -965,9 +965,9 @@ fiscales, judiciales, administrativos o de cualquier otra índole.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>ARTÍCULO 38.- Los datos e informes que los Informantes del Sistema proporcionen para fines
 estadísticos y que provengan de registros administrativos, serán manejados observando los principios de
@@ -982,18 +982,18 @@ Información, con apego a lo dispuesto en este artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>ARTÍCULO 39.- El Instituto realizará las acciones tendientes a lograr, que los Informantes del Sistema
 incurran en los menores costos posibles en la entrega de la información que les solicite.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>ARTÍCULO 40.- Los Informantes del Sistema a quienes se les requieran datos estadísticos o
 geográficos, deberán ser enterados de:
@@ -1015,9 +1015,9 @@ recopilar datos estadísticos o geográficos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>ARTÍCULO 41.- Los Informantes del Sistema, en su caso, podrán exigir que sean rectificados los
 datos que les conciernan, para lo cual deberán demostrar que son inexactos, incompletos o equívocos.
@@ -1027,9 +1027,9 @@ autoridad que captó la información.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>ARTÍCULO 42.- Los Informantes del Sistema podrán denunciar ante las autoridades administrativas y
 judiciales, todo hecho o circunstancia del que se derive que se hubieren desconocido los principios de
@@ -1037,9 +1037,9 @@ confidencialidad y reserva a que se refiere esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>ARTÍCULO 43.- La información que sea obtenida mediante engaño o cualquier otro medio ilícito
 carecerá de validez. Los Informantes del Sistema de quienes bajo estas circunstancias se hubiere
@@ -1049,9 +1049,9 @@ interesado proporcione a las Unidades, en los términos de esta Ley, la informac
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>ARTÍCULO 44.- El Instituto, cuando no cuente con otros medios técnicos de comprobación o
 validación de la información proporcionada por los Informantes del Sistema, podrá realizar inspecciones
@@ -1065,9 +1065,9 @@ de base para la información suministrada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>ARTÍCULO 45.- Los Informantes del Sistema estarán obligados a proporcionar, con veracidad y
 oportunidad, los datos e informes que les soliciten las autoridades competentes para fines estadísticos,
@@ -1080,9 +1080,9 @@ apoyo en los trabajos de campo que realicen las autoridades para captar Informac
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>ARTÍCULO 46.- Las Unidades estarán obligadas a respetar la confidencialidad y reserva de los datos
 que para fines estadísticos proporcionen los Informantes del Sistema. Los servidores públicos de la
@@ -1105,13 +1105,13 @@ materia, que los mencionados Informantes del Sistema realicen y que son regulado
 respectiva.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>ARTÍCULO 47.- Los datos que proporcionen los Informantes del Sistema, serán confidenciales en
 términos de esta Ley y de las reglas generales que conforme a ella dicte el Instituto.
@@ -1125,9 +1125,9 @@ De las Inspecciones a los Informantes del Sistema</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>ARTÍCULO 48.- El Instituto, en el ejercicio de las facultades que le confiere esta Ley, podrá efectuar
 inspecciones para verificar la autenticidad de la Información, cuando los datos proporcionados sean
@@ -1135,9 +1135,9 @@ incongruentes, incompletos o inconsistentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>ARTÍCULO 49.- Las inspecciones de verificación a que se refiere el artículo anterior, se sujetarán a lo
 siguiente:
@@ -1169,22 +1169,29 @@ persona con quien se entienda la diligencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>ARTÍCULO 50.- Los Informantes del Sistema, respecto de quienes se hubiesen practicado los actos a
 que se refiere el artículo anterior, podrán inconformarse con los hechos asentados en el acta
-correspondiente, mediante la interposición del recurso de revisión a que se refiere el Capítulo II del Título
-Cuarto de esta Ley.
+correspondiente, mediante la interposición del recurso de revisión a que se refiere el Capítulo II del Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto de esta Ley.
 SECCIÓN III
 De la Atención a las Solicitudes Oficiales de Información Provenientes del Extranjero</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>ARTÍCULO 51.- Las solicitudes de Información de Interés Nacional, que formulen gobiernos
 extranjeros u organismos y agencias internacionales, a las dependencias y entidades de la
@@ -1196,37 +1203,30 @@ agrupación o particular de que se trate y hacerse del conocimiento del Institut
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>ARTÍCULO 52.- El Instituto es, conforme a lo dispuesto en el apartado B del artículo 26 de la
 Constitución Política de los Estados Unidos Mexicanos, un organismo público con autonomía técnica y de
 gestión, personalidad jurídica y patrimonio propios, responsable de normar y coordinar el Sistema
-Nacional de Información Estadística y Geográfica, así como de realizar las Actividades a que se refiere el</p>
+Nacional de Información Estadística y Geográfica, así como de realizar las Actividades a que se refiere el
+artículo 59 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
-              <content>
-                <p>artículo 59 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>ARTÍCULO 53.- El Instituto tendrá como objetivo prioritario, realizar las acciones tendientes a lograr
 que la Información de Interés Nacional se sujete a los principios enunciados en el artículo 3 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>ARTÍCULO 54.- El Instituto, conforme a los principios constitucionales que rigen al Sistema, realizará
 las acciones tendientes a lograr:
@@ -1245,9 +1245,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>ARTÍCULO 55.- El Instituto, en su calidad de unidad central coordinadora del Sistema, tendrá las
 funciones siguientes:
@@ -1263,18 +1263,18 @@ V. Las demás que le correspondan conforme a esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>ARTÍCULO 56.- El Instituto establecerá en coordinación con las Unidades, un catálogo nacional de
 indicadores, ajustándose a lo dispuesto en los artículos 22, 25 y 28 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>ARTÍCULO 57.- El Instituto deberá elaborar y someter a consideración del Comité Ejecutivo
 correspondiente, las normas técnicas y las metodologías que sean necesarias para realizar las
@@ -1284,9 +1284,9 @@ en su caso, las mejores prácticas en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>ARTÍCULO 58.- El Instituto regulará, mediante la expedición de disposiciones de carácter general, la
 captación, procesamiento y publicación de la Información, para el debido funcionamiento del Sistema o
@@ -1301,9 +1301,9 @@ y publicación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>ARTÍCULO 59.- El Instituto tendrá las siguientes facultades exclusivas:
 I. Realizar los censos nacionales;
@@ -1322,9 +1322,9 @@ Cualquier contravención a lo dispuesto en este párrafo se sancionará en térm
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>ARTÍCULO 60.- Sólo con la autorización del Instituto y previa opinión favorable de las autoridades
 competentes, las personas físicas o morales nacionales podrán captar fotografías aéreas con cámaras
@@ -1334,9 +1334,9 @@ como una copia de los mismos cuando éste último se los requiera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>ARTÍCULO 61.- Las personas físicas y morales extranjeras requerirán autorización del Instituto para
 efectuar actividades tendientes a:
@@ -1354,9 +1354,9 @@ de 30 días hábiles.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>ARTÍCULO 62.- El Instituto promoverá la adopción de métodos y normas técnicas en la captación de
 los datos objeto de registro, en coordinación con las autoridades a las que competa administrar
@@ -1365,9 +1365,9 @@ padrones, inventarios y demás registros administrativos que permitan obtener In
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>ARTÍCULO 63.- Para el desarrollo de las Actividades Estadísticas y Geográficas colaborarán con el
 Instituto:
@@ -1385,13 +1385,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>ARTÍCULO 64.- Previo cumplimiento de las formalidades legales y administrativas correspondientes y
 acuerdo favorable de su Junta de Gobierno, el Instituto deberá brindar el apoyo que le soliciten:
@@ -1403,9 +1403,9 @@ emergencias o catástrofes originadas por desastres naturales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>ARTÍCULO 65.- Previo cumplimiento de las formalidades legales y administrativas correspondientes y
 del acuerdo favorable de su Junta de Gobierno, el Instituto podrá brindar el apoyo que le soliciten:
@@ -1424,25 +1424,25 @@ SECCIÓN II
 De la Administración del Instituto</p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>ARTÍCULO 66.- El ejercicio de las funciones del Instituto corresponde, en el ámbito de sus respectivas
 competencias, a la Junta de Gobierno y al Presidente del Instituto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>ARTÍCULO 67.- La Junta de Gobierno es el órgano superior de dirección del Instituto, y estará
 integrada por cinco miembros designados por el Presidente de la República con la aprobación de la
@@ -1453,9 +1453,9 @@ actuarán como vicepresidentes de la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>ARTÍCULO 68.- La Presidencia será el órgano superior ejecutivo del Instituto. El Presidente del
 Instituto durará en su cargo seis años y los vicepresidentes de la Junta de Gobierno ocho años. El
@@ -1475,9 +1475,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>ARTÍCULO 69.- La designación de los miembros de la Junta de Gobierno deberá recaer en personas
 que reúnan los requisitos siguientes:
@@ -1494,9 +1494,9 @@ sector público o privado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>ARTÍCULO 70.- Los miembros de la Junta de Gobierno no podrán desempeñar ningún otro empleo,
 cargo o comisión, con excepción de actividades docentes, científicas, culturales o de beneficencia, no
@@ -1504,9 +1504,9 @@ remuneradas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>ARTÍCULO 71.- Las vacantes que se produzcan en la Junta de Gobierno serán cubiertas por el nuevo
 miembro que se designe para integrarla. En caso de vacante en el puesto de Presidente del Instituto, el
@@ -1526,18 +1526,18 @@ hubiere sido miembro de la Junta de Gobierno.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>ARTÍCULO 72.- Los miembros de la Junta de Gobierno se abstendrán de participar con la
 representación del Instituto en actos políticos, partidistas o religiosos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>ARTÍCULO 73.- Son causas de remoción de un miembro de la Junta de Gobierno:
 I. La incapacidad física o mental que impida el correcto ejercicio de sus funciones por más de tres
@@ -1565,9 +1565,9 @@ mayor o motivo justificado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>ARTÍCULO 74.- Compete a la Junta de Gobierno dictaminar sobre la existencia de las causas de
 remoción señaladas en el artículo inmediato anterior, debiendo hacerlo a solicitud del Presidente de la
@@ -1579,9 +1579,9 @@ caso, el afectado hubiere presentado, será enviado al Ejecutivo Federal para su
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>ARTÍCULO 75.- El Presidente del Instituto o cuando menos dos vicepresidentes, podrán convocar a
 reuniones de la Junta de Gobierno.
@@ -1603,9 +1603,9 @@ comunicación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>ARTÍCULO 76.- La remuneración y prestaciones que reciban los miembros de la Junta de Gobierno
 por el desempeño de su cargo, no serán mayores ni menores de las que correspondan al nivel de
@@ -1629,9 +1629,9 @@ De las Atribuciones de la Junta de Gobierno</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>ARTÍCULO 77.- Corresponderá a la Junta de Gobierno, como órgano superior de dirección del
 Instituto, el despacho de los asuntos siguientes:
@@ -1684,9 +1684,9 @@ correspondiente, las mencionadas opiniones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>ARTÍCULO 78.- Además de los temas señalados en las fracciones I a III del artículo 59 del presente
 ordenamiento, sólo podrá considerarse Información de Interés Nacional para efectos de esta Ley, la que
@@ -1717,13 +1717,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-78" placement="bottom">
+            <note placementBase="#art-78." placement="bottom">
               <p>Fracción reformada DOF 14-07-2014</p>
             </note>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>ARTÍCULO 79.- Los miembros de la Junta de Gobierno tendrán la responsabilidad de procurar que las
 relaciones del Instituto con las Unidades del Estado y otros sectores relevantes para el trabajo del propio
@@ -1737,13 +1737,13 @@ SECCIÓN IV
 De las Atribuciones del Presidente del Instituto</p>
               </content>
             </paragraph>
-            <note placementBase="#art-79" placement="bottom">
+            <note placementBase="#art-79." placement="bottom">
               <p>Párrafo reformado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>ARTÍCULO 80.- Corresponden al Presidente del Instituto las atribuciones siguientes:
 I. Tener a su cargo la administración del Instituto, la representación legal de éste, y el ejercicio de
@@ -1768,9 +1768,9 @@ segundo párrafo del artículo 71 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>ARTÍCULO 81.- El Presidente del Instituto tendrá la facultad de determinar el sector que, de entre los
 cuatro señalados en el artículo 79 de esta Ley, deberá atender y coordinar cada uno de los
@@ -1787,13 +1787,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Párrafo reformado DOF 27-01-2017</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>ARTÍCULO 82.- El patrimonio del Instituto se integra con:
 I. Los bienes inmuebles o muebles que adquiera para el cumplimiento de su objeto, incluyendo los
@@ -1808,9 +1808,9 @@ objeto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>ARTÍCULO 83.- De conformidad con lo dispuesto en el artículo 5 de la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria, para su tratamiento presupuestario el Instituto se sujetará a lo siguiente:
@@ -1848,9 +1848,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>ARTÍCULO 84.- El Instituto incorporará, en los términos de las disposiciones aplicables, como parte
 de su presupuesto los ingresos derivados de las cuotas por los servicios que preste por concepto de
@@ -1861,9 +1861,9 @@ Unidades, incorporará en su presupuesto los ingresos que le correspondan al Ins
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>ARTÍCULO 85.- Los recursos que las dependencias y entidades de la Administración Pública Federal,
 el Poder Judicial de la Federación y el Poder Legislativo Federal, así como los órganos constitucionales
@@ -1886,9 +1886,9 @@ De la Transparencia y Rendición de Cuentas del Instituto</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>ARTÍCULO 86.- El Instituto deberá presentar en marzo de cada año al Ejecutivo Federal y al
 Congreso de la Unión:
@@ -1916,9 +1916,9 @@ Fiscalización Superior de la Federación y demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>ARTÍCULO 87.- El Instituto deberá dar a conocer a los Poderes de la Unión y al público en general el
 calendario anual de publicación aprobado por la Junta de Gobierno, mismo que podrá ser revisado en
@@ -1926,9 +1926,9 @@ forma trimestral.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>ARTÍCULO 88.- El Instituto deberá definir las metodologías que habrán de utilizarse en la realización
 de las Actividades Estadísticas y Geográficas, a través de Internet, antes de su implantación, a fin de
@@ -1942,9 +1942,9 @@ observaciones que, en su caso, se reciban.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>ARTÍCULO 89.- El Instituto invitará, a solicitud de los Comités Ejecutivos, a organismos
 internacionales a revisar y opinar respecto de las metodologías que se utilicen para generar la
@@ -1953,9 +1953,9 @@ los informes a los que hace alusión el artículo 86 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>ARTÍCULO 90.- El Instituto deberá hacer del conocimiento público, a través de Internet, los convenios
 de intercambio de información que celebre con otros organismos o agencias nacionales o extranjeras.
@@ -1964,9 +1964,9 @@ información a que se refiere el párrafo anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>ARTÍCULO 91.- El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión
 para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y
@@ -2033,7 +2033,7 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Artículo reformado DOF 27-01-2017</p>
             </note>
           </article>
@@ -2135,9 +2135,9 @@ en términos de la Ley General de Responsabilidades Administrativas.
               <p>Artículo adicionado DOF 27-01-2017</p>
             </note>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>ARTÍCULO 92.- El Instituto deberá establecer, operar y normar el Registro Nacional de Información
 Geográfica, en el que deberá incluirse por lo menos la información proveniente de los temas geográficos
@@ -2147,9 +2147,9 @@ Estadísticas del Sector Público y el Inventario Nacional de Estadística del S
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>ARTÍCULO 93.- La inscripción que sobre los catastros de los municipios y de las entidades
 federativas deba hacerse en el Registro Nacional de Información Geográfica, comprenderá la
@@ -2163,9 +2163,9 @@ internacionales, incluyendo la zona económica exclusiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>ARTÍCULO 94.- El Instituto establecerá, operará y normará el inventario y el directorio señalados en
 los artículos 20 y 23, respectivamente y podrá establecer, operar y normar otros registros que para fines
@@ -2173,9 +2173,9 @@ estadísticos o geográficos estime necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>ARTÍCULO 95.- Las personas físicas con actividades empresariales y las personas morales, sin incluir
 a las del sector público, estarán obligadas a inscribirse en el Directorio Nacional de Unidades
@@ -2187,9 +2187,9 @@ actualización del Directorio Nacional de Unidades Económicas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>ARTÍCULO 96.- El Instituto deberá conservar la Información de Interés Nacional que elaboren el
 propio Instituto y las Unidades, en términos de lo dispuesto en esta Ley y en las disposiciones de carácter
@@ -2199,18 +2199,18 @@ generada por la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>ARTÍCULO 97.- El Instituto implementará un sistema de compilación normativa, en el que se
 conservarán los textos de las normas que en el ejercicio de sus funciones expida.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>ARTÍCULO 98.- El Servicio Público de Información Estadística y Geográfica consiste en poner a
 disposición de los usuarios, sujeto a las normas que al efecto dicte la Junta de Gobierno, la totalidad de la
@@ -2218,9 +2218,9 @@ Información de Interés Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>ARTÍCULO 99.- El Servicio Público de Información Estadística y Geográfica será prestado en forma
 exclusiva por el Instituto. Lo anterior, sin perjuicio de que las propias Unidades den a conocer la
@@ -2237,9 +2237,9 @@ objeto de que sus estudios geográficos estén vinculados con la red mencionada.
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>ARTÍCULO 100.- El Instituto, siguiendo las mejores prácticas internacionales, pondrá a disposición de
 quien lo solicite, los microdatos de las encuestas nacionales y muestras representativas de los operativos
@@ -2249,9 +2249,9 @@ procedimientos y condiciones para facilitar el acceso a dicha información de ma
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>ARTÍCULO 101.- Cuando a petición de algún usuario se requiera al Instituto copia, copia certificada o
 cualquier clase de impresión o respaldo de la Información de Interés Nacional, ésta se entregará al
@@ -2260,9 +2260,9 @@ derechos que para estos casos establezca la Ley Federal de Derechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>ARTÍCULO 102.- El Instituto no estará obligado a proporcionar aquella información que:
 I. Tenga en virtud de cualquier disposición legal el carácter de confidencial, clasificada, reservada o
@@ -2279,9 +2279,9 @@ transparencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>ARTÍCULO 103.- Cometen infracciones a lo dispuesto por esta Ley, quienes en calidad de
 Informantes del Sistema:
@@ -2301,9 +2301,9 @@ infracciones a la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>ARTÍCULO 104.- Son infracciones imputables a los servidores públicos del Instituto o a los servidores
 públicos de las Unidades las siguientes:
@@ -2326,9 +2326,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>ARTÍCULO 105.- Se reputarán infracciones de los recolectores o censores y auxiliares, cuando:
 I. Se nieguen a cumplir con las funciones que les sean encomendadas;
@@ -2344,9 +2344,9 @@ geográfico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>ARTÍCULO 106.- Las infracciones a lo dispuesto por el artículo 103 de esta Ley, serán sancionadas
 con multa de:
@@ -2370,22 +2370,22 @@ telecomunicaciones o de radiodifusión, la multa será de 1,000 hasta 10,000 sal
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo adicionado DOF 14-07-2014</p>
             </note>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo adicionado DOF 14-07-2014</p>
             </note>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo adicionado DOF 14-07-2014</p>
             </note>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo adicionado DOF 14-07-2014</p>
             </note>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>ARTÍCULO 107.- Las infracciones a lo dispuesto por el artículo 104 de esta Ley, tratándose de
 servidores públicos de las Unidades, serán sancionadas con multa de:
@@ -2400,9 +2400,9 @@ III. Para las establecidas en las fracciones V y VI, de 500 hasta 1,000 salarios
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>ARTÍCULO 108.- Las infracciones a lo dispuesto por el artículo 104 de esta Ley, tratándose de
 servidores públicos del Instituto, serán sancionadas con multa de:
@@ -2412,9 +2412,9 @@ III. Para las establecidas en las fracciones V y VI, de 1,000 hasta 2,000 salari
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>ARTÍCULO 109.- Las infracciones a lo dispuesto por el artículo 105 de esta Ley, serán sancionadas
 con multa de:
@@ -2423,18 +2423,18 @@ II. Para las establecidas en las fracciones II y III, de 500 hasta 1,000 salario
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>ARTÍCULO 110.- Para los efectos de este Capítulo, por salario se entiende el salario mínimo general
 diario vigente en el Distrito Federal, al momento de cometerse la infracción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>ARTÍCULO 111.- Para la imposición de las sanciones, el Instituto tomará en cuenta la gravedad de la
 infracción, las condiciones del infractor y la conveniencia de evitar prácticas tendientes a contravenir las
@@ -2444,13 +2444,13 @@ Tributaria, a través de los procedimientos y disposiciones aplicables por dicho
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-111" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo adicionado DOF 14-07-2014</p>
             </note>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>ARTÍCULO 112.- Las sanciones en materia de responsabilidad administrativa de los servidores
 públicos previstas en esta Ley, serán aplicadas por la autoridad competente para sustanciar el
@@ -2460,9 +2460,9 @@ infracción a la Ley, lo deberá hacer del conocimiento de la autoridad que corr
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>ARTÍCULO 113.- En contra de los actos o resoluciones que dicte el Instituto, el interesado podrá
 interponer ante éste, el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que
@@ -2470,9 +2470,9 @@ corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>ARTÍCULO 114.- El plazo para interponer el recurso de revisión, será de quince días contados a partir
 del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución o se tenga
@@ -2480,9 +2480,9 @@ conocimiento del acto que se recurra.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>ARTÍCULO 115.- El escrito de interposición del recurso de revisión deberá presentarse ante el propio
 Instituto y será resuelto por el superior jerárquico del servidor público que haya emitido la resolución
@@ -2508,9 +2508,9 @@ del procedimiento, o el documento sobre el cual no hubiere recaído resolución 
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>ARTÍCULO 116.- La interposición del recurso de revisión suspenderá la ejecución de la resolución o
 del acto impugnado, siempre y cuando:
@@ -2524,9 +2524,9 @@ cinco días siguientes al de la interposición del recurso de revisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>ARTÍCULO 117.- El recurso de revisión se tendrá por no interpuesto y se desechará cuando:
 I. Se presente fuera de plazo;
@@ -2536,9 +2536,9 @@ plazo para interponerlo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>ARTÍCULO 118.- Se desechará por improcedente el recurso de revisión cuando éste se interponga
 contra actos o resoluciones:
@@ -2555,9 +2555,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>ARTÍCULO 119.- Será sobreseído el recurso cuando:
 I. El promovente se desista expresamente del recurso;
@@ -2568,9 +2568,9 @@ IV. Cuando hayan cesado los efectos del acto respectivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>ARTÍCULO 120.- La autoridad encargada de resolver el recurso de revisión podrá:
 I. Desecharlo por improcedente o sobreseerlo;
@@ -2582,9 +2582,9 @@ recurrente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>ARTÍCULO 121.- La resolución del recurso de revisión se fundará en derecho y examinará todos y
 cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar
@@ -2601,9 +2601,9 @@ cumplirse en un plazo de cuatro meses.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>ARTÍCULO 122.- No se podrán revocar o modificar los actos o resoluciones administrativos en la
 parte no impugnada por el recurrente.
@@ -2612,18 +2612,18 @@ precisará ésta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>ARTÍCULO 123.- El recurrente podrá esperar la resolución expresa o impugnar, en un plazo de cuatro
 meses contados a partir de la presentación del recurso, la presunta confirmación del acto impugnado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>ARTÍCULO 124.- La autoridad ante la cual se tramite el recurso podrá dejar sin efectos un
 requerimiento o una sanción, de oficio o a petición de parte interesada, cuando se trate de un error
@@ -2636,9 +2636,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>ARTÍCULO 125.- Cuando haya de tenerse en cuenta nuevos hechos o documentos que no obren en
 el expediente original derivado del acto impugnado, se pondrá de manifiesto a los interesados para que,
@@ -2649,27 +2649,51 @@ recurrente, cuando habiendo podido aportarlos durante el procedimiento administr
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>ARTÍCULO 126.- A lo dispuesto por el presente Capítulo se aplicará supletoriamente el Código
 Nacional de Procedimientos Civiles y Familiares.
 
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor noventa días naturales después de su publicación en el
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-126." placement="bottom">
+              <p>Artículo reformado DOF 14-11-2025</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente Ley entrará en vigor noventa días naturales después de su publicación en el
 Diario Oficial de la Federación, salvo lo dispuesto por el segundo párrafo del artículo 23 de presente
 ordenamiento, que entrará en vigor el 1 de agosto de 2010 y por la fracción III del artículo 59 de esta Ley
 que entrará en vigor tres años después de la entrada en vigor de la presente Ley, debiéndose aplicar
-entre tanto lo dispuesto en el artículo undécimo transitorio.
-SEGUNDO.- La designación de los primeros integrantes de la Junta de Gobierno del Instituto se
+entre tanto lo dispuesto en el artículo undécimo transitorio.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- La designación de los primeros integrantes de la Junta de Gobierno del Instituto se
 realizará en los términos previstos en la presente Ley, dentro de los 90 días naturales siguientes a la
 publicación de la misma en el Diario Oficial de la Federación.
 El periodo del primer Presidente del Instituto vencerá el 31 de diciembre de 2009. Los periodos de los
 primeros vicepresidentes de la Junta de Gobierno vencerán los días 31 de diciembre de 2008, 2010,
 2012 y 2014, respectivamente, debiendo señalar el Ejecutivo Federal cuál de los citados periodos
-corresponde a cada miembro de la Junta de Gobierno.
-TERCERO.- El Instituto Nacional de Estadística y Geografía (INEGI), tendrá la titularidad de todos los
+corresponde a cada miembro de la Junta de Gobierno.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- El Instituto Nacional de Estadística y Geografía (INEGI), tendrá la titularidad de todos los
 bienes, derechos y obligaciones propiedad del Gobierno Federal que estuvieran adscritos o destinados
 bajo cualquier título al servicio del Instituto Nacional de Estadística, Geografía e Informática, órgano
 desconcentrado de la Secretaría de Hacienda y Crédito Público.
@@ -2714,23 +2738,51 @@ como el ubicado en Calle el Salitre Esquina Calle Guayana No. 201, Fraccionamien
 Aguascalientes, Aguascalientes, C.P. 20196, en donde se encuentra ubicado el Taller Infantil de Artes
 Plásticas, la Secretaría de la Función Pública deberá realizar los actos jurídicos que resulten necesarios,
 a efecto de transmitir a título gratuito a favor del Instituto la titularidad de los derechos que correspondan
-a la Federación sobre los mencionados inmuebles.
-CUARTO.- Las personas que a la entrada en vigor de la presente Ley presten un servicio personal
+a la Federación sobre los mencionados inmuebles.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Las personas que a la entrada en vigor de la presente Ley presten un servicio personal
 subordinado al Instituto Nacional de Estadística, Geografía e Informática, formarán parte del personal al
 servicio del Instituto, y conservarán las remuneraciones y prestaciones de las cuales gozan a la entrada
-en vigor de esta Ley.
-QUINTO.- Los traspasos de recursos humanos, financieros y materiales del órgano desconcentrado
+en vigor de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los traspasos de recursos humanos, financieros y materiales del órgano desconcentrado
 Instituto Nacional de Estadística, Geografía e Informática, al organismo Instituto Nacional de Estadística y
 Geografía, deberán efectuarse en los términos de las disposiciones legales aplicables, garantizando la
-continuidad de la operación y de las actividades del Instituto.
-SEXTO.- Para los efectos del transitorio Cuarto del Decreto por el que se declaran reformados los
+continuidad de la operación y de las actividades del Instituto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Para los efectos del transitorio Cuarto del Decreto por el que se declaran reformados los
 artículos 26 y 73 fracción XXIX-D de la Constitución Política de los Estados Unidos Mexicanos, publicado
 en el Diario Oficial de la Federación el 7 de abril de 2006, en los Presupuestos de Egresos de la
 Federación deberán incluirse, en adición a los recursos a que se refiere el segundo párrafo del artículo 83
 de esta Ley, los recursos suficientes para que el Instituto continúe realizando las Actividades Estadísticas
 y Geográficas que de manera regular y periódica hayan sido realizadas por el Instituto Nacional de
-Estadística, Geografía e Informática hasta antes de la entrada en vigor del presente ordenamiento.
-SÉPTIMO.- El Instituto contará con un plazo de 3 meses, contados a partir de la entrada en vigor de la
+Estadística, Geografía e Informática hasta antes de la entrada en vigor del presente ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- El Instituto contará con un plazo de 3 meses, contados a partir de la entrada en vigor de la
 presente Ley, para dar cumplimiento a lo dispuesto en el artículo 100 del presente ordenamiento por lo
 39 de 67
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
@@ -2740,8 +2792,15 @@ Secretaría de Servicios Parlamentarios
 que se refiere a las últimas encuestas nacionales publicadas; y con un plazo de 2 años para el resto de
 las encuestas nacionales y operativos censales concluidos, de conformidad con el calendario que al
 efecto dé a conocer la Junta de Gobierno dentro de los 90 días siguientes a la entrada en vigor de este
-ordenamiento.
-OCTAVO.- El Reglamento Interior del Instituto deberá expedirse en un plazo no mayor de seis meses,
+ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- El Reglamento Interior del Instituto deberá expedirse en un plazo no mayor de seis meses,
 contados a partir del día en que quede legalmente instalada la Junta de Gobierno. En tanto se expida el
 citado Reglamento continuarán aplicándose, en lo que no se opongan a la presente Ley, los artículos 102
 y 103 del Reglamento Interior de la Secretaría de Hacienda y Crédito Público.
@@ -2751,8 +2810,15 @@ opongan a la presente Ley y continuará en vigor el Sistema Integral de Profesio
 Nacional de Estadística, Geografía e Informática, publicado en el Diario Oficial de la Federación el 11 de
 noviembre de 1994. Las medidas administrativas dictadas con fundamento en disposiciones que por esta
 Ley se derogan, continuarán en vigor hasta que no sean revocadas o modificadas expresamente por las
-autoridades competentes.
-NOVENO.- Los poderes, mandatos y en general las representaciones otorgadas y facultades
+autoridades competentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- Los poderes, mandatos y en general las representaciones otorgadas y facultades
 concedidas por el Instituto Nacional de Estadística, Geografía e Informática, con anterioridad a la entrada
 en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o revocados
 expresamente.
@@ -2761,15 +2827,29 @@ de Control en el Instituto Nacional de Estadística, Geografía e Informática, 
 o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán ser concluidos
 respectivamente por la propia Secretaría de la Función Pública o por la Contraloría Interna del Instituto,
 aplicando lo dispuesto en la Ley Federal de Responsabilidades Administrativas de los Servidores
-Públicos y demás ordenamientos legales aplicables en la materia.
-DÉCIMO.- La Junta de Gobierno deberá aprobar y publicar en el Diario Oficial de la Federación a más
+Públicos y demás ordenamientos legales aplicables en la materia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- La Junta de Gobierno deberá aprobar y publicar en el Diario Oficial de la Federación a más
 tardar en el mes de diciembre de 2007, el Programa Estratégico del Sistema Nacional de Información
 Estadística y Geográfica, el Programa Nacional de Estadística y Geografía, y el primer Programa Anual
 de Estadística y Geografía a que se refiere esta Ley.
 En tanto se expiden los programas a que se refiere el párrafo anterior, el Instituto seguirá aplicando en
 todo lo que no se oponga a la presente Ley los programas que se hubieren emitido a efecto de realizar
-las tareas a cargo del Instituto.
-DÉCIMO PRIMERO.- Dentro de los diez días hábiles siguientes a la entrada en vigor del presente
+las tareas a cargo del Instituto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO.- Dentro de los diez días hábiles siguientes a la entrada en vigor del presente
 Decreto, el Banco de México y el Instituto formarán un grupo de trabajo que tendrá como objetivo planear
 e instrumentar la transferencia al segundo, del cálculo y publicación de los índices nacionales de precios
 a que se refiere el artículo 59 de esta Ley. A partir de la entrada en vigor de la fracción III del artículo 59,
@@ -2786,28 +2866,70 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 A partir de la entrada en vigor de la fracción III del artículo 59, el Banco de México tendrá acceso, sin
 restricción alguna, a la metodología, bases de datos, información y procedimientos utilizados por el
-Instituto para calcular los índices nacionales a que se refiere este precepto.
-DÉCIMO SEGUNDO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos
+Instituto para calcular los índices nacionales a que se refiere este precepto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos
 jurídicos hagan mención a la Ley de Información Estadística y Geográfica, o al Instituto Nacional de
 Estadística, Geografía e Informática, la referencia se entenderá hecha a la presente Ley y al Instituto
-Nacional de Estadística y Geografía, respectivamente.
-DÉCIMO TERCERO.- La Junta de Gobierno contará con un plazo de ciento ochenta días, contados a
+Nacional de Estadística y Geografía, respectivamente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO.- La Junta de Gobierno contará con un plazo de ciento ochenta días, contados a
 partir de la designación de sus primeros miembros, para: determinar aquella información que formará
 parte del Acervo de Información Estadística y Geográfica a que se refiere el Título Tercero, Capítulo III de
 esta Ley, y hacer del conocimiento del público, a través de Internet, las metodologías que hasta antes de
-la entrada en vigor de la presente Ley se hubieren utilizado para la producción de dicha información.
-DÉCIMO CUARTO.- A la entrada en vigor de la presente Ley, los comités técnicos sectoriales,
+la entrada en vigor de la presente Ley se hubieren utilizado para la producción de dicha información.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO CUARTO.- A la entrada en vigor de la presente Ley, los comités técnicos sectoriales,
 regionales y especiales de estadística y de información geográfica que se hubieren constituido conforme
 a lo dispuesto en las fracciones II, III y IV del artículo 24 de la Ley de Información Estadística y
 Geográfica, y que se encuentren en funcionamiento, habrán de considerarse como Comités Técnicos
-Especializados a que se refiere el artículo 31 de esta Ley.
-DÉCIMO QUINTO.- Los acuerdos, anexos de ejecución, bases, contratos y convenios, que el Instituto
+Especializados a que se refiere el artículo 31 de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO QUINTO.- Los acuerdos, anexos de ejecución, bases, contratos y convenios, que el Instituto
 Nacional de Estadística, Geografía e Informática haya suscrito hasta antes de la entrada en vigor de la
-presente Ley, se entenderán referidos al Instituto Nacional de Estadística y Geografía.
-DÉCIMO SEXTO.- La Información que al momento de la entrada en vigor de la presente Ley estuviere
+presente Ley, se entenderán referidos al Instituto Nacional de Estadística y Geografía.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEXTO.- La Información que al momento de la entrada en vigor de la presente Ley estuviere
 en proceso de generación por parte de las Unidades, deberá apegarse a las disposiciones que al efecto
-emita el Instituto.
-DÉCIMO SÉPTIMO.- Se abroga la Ley de Información Estadística y Geográfica y las demás
+emita el Instituto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SÉPTIMO.- Se abroga la Ley de Información Estadística y Geográfica y las demás
 disposiciones que se opongan a la presente Ley.
 México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth
 Zavaleta Salgado, Presidenta.- Sen. Adrián Rivera Pérez, Secretario.- Dip. Maria Eugenia Jimenez
@@ -2828,43 +2950,75 @@ y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reform
 adicionan y derogan diversas disposiciones en materia de telecomunicaciones y
 radiodifusión.
 Publicado en el Diario Oficial de la Federación el 14 de julio de 2014
-ARTÍCULO SEXTO.- Se reforman la fracción VII y el segundo párrafo del artículo 14; la fracción II del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-126" placement="bottom">
-              <p>Artículo reformado DOF 14-11-2025</p>
-            </note>
-          </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
-              <content>
-                <p>artículo 29; la fracción I del artículo 78; y se adicionan un tercer párrafo a la fracción I y un segundo
+ARTÍCULO SEXTO.- Se reforman la fracción VII y el segundo párrafo del artículo 14; la fracción II del
+artículo 29; la fracción I del artículo 78; y se adicionan un tercer párrafo a la fracción I y un segundo
 párrafo a las fracciones II, III y IV del artículo 106; y un segundo párrafo al artículo 111 de la Ley del
 Sistema Nacional de Información Estadística y Geográfica, para quedar como sigue:
 ………
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación
-en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
-SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Radio y
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación
+en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Radio y
 Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en
 lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se
-expide por virtud del presente Decreto.
-TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en
+expide por virtud del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en
 vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan,
 salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por
-virtud del presente Decreto.
-CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de
+virtud del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de
 Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes
-a la entrada en vigor del presente Decreto.
-QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a
+a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a
 la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de
 contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por
 virtud del presente Decreto.
 Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar video-
 juegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir
-el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
-SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a
+el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a
 la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
 Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o.,
 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de
@@ -2874,8 +3028,15 @@ perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión
 que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal
 de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del
 presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o
@@ -2891,8 +3052,18 @@ Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas
 fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en
 términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin
 que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
-
-OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-7" placement="bottom">
+              <p>Párrafo adicionado DOF 15-06-2018</p>
+            </note>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente
 Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de
 Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para
 transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas
@@ -2900,8 +3071,15 @@ en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con
 radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de
 Telecomunicaciones y Radiodifusión.
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la
-concesión única podrán consolidar sus títulos en una sola concesión.
-NOVENO. En tanto exista un agente económico preponderante en los sectores de
+concesión única podrán consolidar sus títulos en una sola concesión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO. En tanto exista un agente económico preponderante en los sectores de
 telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores
 viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las
 concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de
@@ -2941,8 +3119,15 @@ concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicac
 y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el
 presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes
-económicos preponderantes la prestación de servicios adicionales.
-DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
+económicos preponderantes la prestación de servicios adicionales.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
 contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio
 del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto
 Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas
@@ -2981,8 +3166,15 @@ previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto
 adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución
 Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario
 Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de
-Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
-DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo
+Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo
 siguiente:
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
 contengan alguna prohibición o restricción expresa para prestar servicios determinados,
@@ -3023,8 +3215,15 @@ concesionarios cuyos títulos de concesión contengan alguna prohibición o rest
 servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos
 opten por transitar a la concesión única, y será independiente de las sanciones económicas que
-procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
-DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones
+procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones
 podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de
 Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al
@@ -3060,8 +3259,15 @@ siguientes. En caso de que el Instituto lo considere necesario podrá prorrogar 
 ocasiones y hasta por noventa días naturales cada una.
 Para aprobar dicho plan el Instituto Federal de Telecomunicaciones deberá determinar que el mismo
 reduce efectivamente la participación nacional del agente económico preponderante por debajo del
-cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
-Octavo Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los
+cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los
 46 de 67
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
@@ -3132,8 +3338,15 @@ a. Las resoluciones mediante las cuales haya determinado al agente económico co
 en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los
 términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y
 b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial
-en algún mercado, así como las medidas específicas que le haya impuesto.
-DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes,
+en algún mercado, así como las medidas específicas que le haya impuesto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes,
 realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se
 refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas
 disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados
@@ -3143,19 +3356,47 @@ En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espect
 transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida
 señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará
 directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia
-pública o bajo un esquema de asociación público-privada.
-DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de
+pública o bajo un esquema de asociación público-privada.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de
 servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del
 presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los
 trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como
-trabajadores del servicio profesional.
-DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo
-dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos
+trabajadores del servicio profesional.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo
+dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos
 para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de
 Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada
-en vigor del presente Decreto.
-DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de
+en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de
 refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión
 correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones
 y Radiodifusión, en los términos que establezca el Instituto. Los permisos que hayan sido otorgados a los
@@ -3173,8 +3414,15 @@ al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en u
 hábiles.
 En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de
 Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
-En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
-DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento
+En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento
 ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión,
 el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que
 se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se
@@ -3183,8 +3431,15 @@ Constitución Política de los Estados Unidos Mexicanos, en materia de telecomun
 el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el
 Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible
 de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de
-competencia y la continuidad en la prestación de los servicios.
-DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.
+competencia y la continuidad en la prestación de los servicios.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los
 programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la
 entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
@@ -3424,8 +3679,21 @@ que correspondan.
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del
 agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley
 Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de
-la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo
-Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos
+la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-10" placement="bottom">
+              <p>Párrafo adicionado DOF 18-12-2015</p>
+            </note>
+            <note placementBase="#art-10" placement="bottom">
+              <p>Párrafo reformado DOF 18-12-2015</p>
+            </note>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos
 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia
 de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González
@@ -3455,12 +3723,33 @@ Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y
 RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE
 2014, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales,
-reglamentarias y administrativas que se opongan al mismo.
-Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales,
+reglamentarias y administrativas que se opongan al mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno
 Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o
 sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones
 digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales
@@ -3494,10 +3783,24 @@ Artículo Cuarto. Se reforman los artículos 81, primer párrafo y 91; se adicio
 91 Ter; 91 Quáter y 91 Quinquies a la Ley del Sistema Nacional de Información Estadística y Geográfica,
 para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a
 la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos
 Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos
 les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación
@@ -3508,26 +3811,61 @@ recursos públicos del Presupuesto de Egresos de la Federación que se encontrab
 entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado
 en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los
-términos en los que fueron nombrados.
-Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados
+términos en los que fueron nombrados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados
 Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de
 la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto,
-para armonizar su normatividad interna en los términos del presente Decreto.
-Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a
+para armonizar su normatividad interna en los términos del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a
 las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente
-Decreto.
-Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se
 entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que
-este ordenamiento legal se abrogue el 17 de julio de 2017.
-Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes
+este ordenamiento legal se abrogue el 17 de julio de 2017.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes
 con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las
 disposiciones aplicables vigentes a su inicio.
 56 de 67
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su
 legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.-
 Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María
@@ -3545,15 +3883,6 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman diversas disposiciones de la Ley Reglamentaria del</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
-              <p>Párrafo adicionado DOF 15-06-2018</p>
-            </note>
-            <note placementBase="#art-29" placement="bottom">
-              <p>Párrafo adicionado DOF 18-12-2015</p>
-            </note>
-            <note placementBase="#art-29" placement="bottom">
-              <p>Párrafo reformado DOF 18-12-2015</p>
-            </note>
           </article>
           <article id="art-5o">
             <num>Artículo 5o</num>
@@ -3613,10 +3942,24 @@ Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas 
 materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de
 julio de 2014, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se
 expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de
 Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en
 materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de
@@ -3645,16 +3988,44 @@ denominada “Del Subsistema Nacional de Gobierno, Seguridad Pública e Impartic
 artículos 17, con una fracción IV; y 29, con una fracción IV, a la Ley del Sistema Nacional de Información
 Estadística y Geográfica, para quedar como sigue:
 ……….
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El subsistema a que se refiere el presente Decreto tendrá por suyas las actividades ya
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El subsistema a que se refiere el presente Decreto tendrá por suyas las actividades ya
 realizadas por el subsistema creado mediante Acuerdo 4ª/X/2008 de la Junta de Gobierno del Instituto
-Nacional de Estadística y Geografía, dando continuidad a las actividades subsecuentes.
-Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
+Nacional de Estadística y Geografía, dando continuidad a las actividades subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
 para el Instituto Nacional de Estadística y Geografía, se cubrirán con cargo a su presupuesto aprobado
-para el presente ejercicio fiscal y los subsecuentes.
-Cuarto.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+para el presente ejercicio fiscal y los subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Se derogan todas las disposiciones que contravengan el presente Decreto.
 Ciudad de México, a 25 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
 Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores
 Ramírez, Secretario.- Rúbricas."
@@ -3672,34 +4043,55 @@ DECRETO por el que se expide la Ley de la Fiscalía General de la República, se
 Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan
 diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
-Artículo Vigésimo Noveno.- Se reforma el inciso a) de la fracción XV del artículo 2; la fracción IV del</p>
+Artículo Vigésimo Noveno.- Se reforma el inciso a) de la fracción XV del artículo 2; la fracción IV del
+artículo 29, y la fracción VIII del artículo 91 Quáter, de la Ley del Sistema Nacional de Información
+Estadística y Geográfica, para quedar como sigue:
+……..
+Transitorios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
               <content>
-                <p>artículo 29, y la fracción VIII del artículo 91 Quáter, de la Ley del Sistema Nacional de Información
-Estadística y Geográfica, para quedar como sigue:
-……..
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -3709,8 +4101,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -3741,13 +4140,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -3759,8 +4172,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 62 de 67
 LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA
@@ -3768,25 +4188,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -3797,14 +4245,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -3817,12 +4279,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -3842,10 +4318,24 @@ Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2023
 Artículo Único.- Se adicionan un segundo y tercer párrafos al artículo 26 de la Ley del Sistema
 Nacional de Información Estadística y Geográfica, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El mapa oficial de la República Mexicana será publicado por el Instituto Nacional de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El mapa oficial de la República Mexicana será publicado por el Instituto Nacional de
 Estadística y Geografía una vez que las autoridades competentes concluyan los procedimientos que en
 materia de límites deban realizarse ante las instancias nacionales e internacionales correspondientes. Lo
 anterior, sujeto a la disponibilidad presupuestaria establecida para el Instituto Nacional de Estadística y
@@ -3869,10 +4359,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Trigésimo.- Se reforma el artículo 126 de la Ley del Sistema Nacional de Información
 Estadística y Geográfica, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -3882,14 +4386,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

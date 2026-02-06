@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2012-01-11/lfea/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2012-01-11/lfea/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -54,9 +54,9 @@
         </chapter>
         <chapter id="chapter-6">
           <num>CAPÍTULO IV Del reconocimiento de certificados digitales y de la celebración de bases de colaboración</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden e interés público y tiene por objeto regular:
 I. El uso de la firma electrónica avanzada en los actos previstos en esta Ley y la expedición de
@@ -67,9 +67,9 @@ reguladas por otros ordenamientos legales, en los términos establecidos en esta
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Para los efectos de la presente Ley se entenderá por:
 I. Actos: las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como
@@ -161,16 +161,16 @@ electrónico. Este medio electrónico estará ubicado en el sistema de trámites
 propias dependencias y entidades.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Están sujetos a las disposiciones de la presente Ley:
 I. Las dependencias y entidades;
@@ -181,9 +181,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Las disposiciones de esta Ley no serán aplicables a los actos en que no sea factible el uso
 de la firma electrónica avanzada por disposición de ley o aquéllos en que exista previo dictamen de la
@@ -200,9 +200,9 @@ que resulte procedente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. La Secretaría, en el ámbito de su competencia, estará facultada para interpretar las
 disposiciones de esta Ley para efectos administrativos.
@@ -212,9 +212,9 @@ deberán publicarse en el Diario Oficial de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella
 deriven, se aplicarán supletoriamente la Ley Federal de Procedimiento Administrativo, el Código Civil
@@ -222,13 +222,13 @@ Federal y el Código Nacional de Procedimientos Civiles y Familiares.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Artículo reformado DOF 14-11-2025</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. La firma electrónica avanzada podrá ser utilizada en documentos electrónicos y, en su
 caso, en mensajes de datos.
@@ -238,9 +238,9 @@ mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Para efectos del artículo 7 de esta Ley, la firma electrónica avanzada deberá cumplir con
 los principios rectores siguientes:
@@ -272,9 +272,9 @@ receptor.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. Para que los sujetos obligados puedan utilizar la firma electrónica avanzada en los actos a
 que se refiere esta Ley deberán contar con:
@@ -283,9 +283,9 @@ II. Una clave privada, generada bajo su exclusivo control.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Las dependencias y entidades en las comunicaciones y, en su caso, actos jurídicos que
 realicen entre las mismas, harán uso de mensajes de datos y aceptarán la presentación de documentos
@@ -294,9 +294,9 @@ servidor público facultado para ello.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Las dependencias y entidades en la realización de los actos a que se refiere esta Ley,
 deberán aceptar el uso de mensajes de datos y la presentación de documentos electrónicos cuando las
@@ -321,9 +321,9 @@ Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. Los sujetos obligados deberán contar con una dirección de correo electrónico para
 recibir, cuando corresponda, mensajes de datos y documentos electrónicos en la realización de los actos
@@ -331,9 +331,9 @@ previstos en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Cada dependencia y entidad creará y administrará un sistema de trámites electrónicos
 que establezca el control de accesos, los respaldos y la recuperación de información, con mecanismos
@@ -348,9 +348,9 @@ este artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. La información contenida en los mensajes de datos y en los documentos electrónicos
 será pública, salvo que la misma esté clasificada como reservada o confidencial en términos de la Ley
@@ -360,9 +360,9 @@ sujetos a las disposiciones aplicables al manejo, seguridad y protección de los
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. Las dependencias y entidades, así como los sujetos obligados deberán conservar en
 medios electrónicos, los mensajes de datos y los documentos electrónicos con firma electrónica
@@ -375,9 +375,9 @@ del Código de Comercio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. Cuando se requiera que un documento impreso y con firma autógrafa, sea presentado o
 conservado en su forma original, tal requisito quedará satisfecho si la copia se genera en un documento
@@ -412,9 +412,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. El certificado digital deberá contener lo siguiente:
 I. Número de serie;
@@ -430,9 +430,9 @@ emitan en términos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Para obtener un certificado digital el interesado accederá a la página Web de la autoridad
 certificadora y llenará el formato de solicitud con los datos siguientes:
@@ -462,9 +462,9 @@ respectivas páginas Web.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. El certificado digital quedará sin efectos o será revocado por la autoridad certificadora
 que lo emitió, cuando se actualice alguno de los supuestos siguientes:
@@ -484,18 +484,18 @@ del certificado digital.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. La vigencia del certificado digital será de cuatro años como máximo, la cual iniciará a
 partir del momento de su emisión y expirará el día y en la hora señalada en el mismo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. El titular de un certificado digital tendrá los derechos siguientes:
 I. A ser informado por la autoridad certificadora que lo emita sobre:
@@ -516,9 +516,9 @@ III. A solicitar la modificación de datos y elementos del certificado digital, 
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. El titular de un certificado digital estará obligado a lo siguiente:
 I. Hacer declaraciones veraces y completas en relación con los datos y documentos que
@@ -534,18 +534,18 @@ modificaciones en los registros correspondientes y emita un nuevo certificado di
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria son
 consideradas autoridades certificadoras para emitir certificados digitales en términos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Las dependencias y entidades, distintas a las mencionadas en el artículo anterior, así
 como los prestadores de servicios de certificación que estén interesados en tener el carácter de autoridad
@@ -560,9 +560,9 @@ establecidos en el Código de Comercio y su Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Las autoridades certificadoras tendrán las atribuciones y obligaciones siguientes:
 I. Emitir, administrar y registrar certificados digitales, así como prestar servicios relacionados con
@@ -591,9 +591,9 @@ aduanera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Las autoridades certificadoras que sean reconocidas como tales en términos del artículo
 24 de esta Ley, podrán dejar de tener ese carácter cuando incumplan las obligaciones previstas en la
@@ -604,9 +604,9 @@ Procedimiento Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria
 podrán coordinarse para acordar y definir los estándares, características y requerimientos tecnológicos a
@@ -616,9 +616,9 @@ avanzada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria y
 demás autoridades certificadoras a que se refiere el artículo 24 podrán celebrar bases o convenios de
@@ -627,9 +627,9 @@ avanzada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. El Ejecutivo Federal, por conducto de la Secretaría, de la Secretaría de Economía o el
 Servicio de Administración Tributaria, a solicitud de cualquier autoridad certificadora, podrá suscribir
@@ -649,9 +649,9 @@ autoridades certificadoras, a través de la página Web de la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Los certificados digitales expedidos fuera de la República Mexicana tendrán la misma
 validez y producirán los mismos efectos jurídicos reconocidos en la presente Ley, siempre y cuando tales
@@ -661,9 +661,9 @@ requisitos, el procedimiento, así como la validez y vigencia del certificado.</
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos
 establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en
@@ -671,14 +671,42 @@ términos de la Ley Federal de Responsabilidades Administrativas de los Servidor
 Cuando las infracciones a la presente Ley impliquen la posible comisión de una conducta sancionada
 en los términos de la legislación civil, penal o de cualquier otra naturaleza, las dependencias y entidades
 lo harán del conocimiento de las autoridades competentes.
-Transitorios
-Primero. La presente Ley entrará en vigor a los ciento veinte días hábiles siguientes al de su
-publicación en el Diario Oficial de la Federación.
-Segundo. Se derogan todas aquellas disposiciones legales y administrativas que se opongan a lo
-previsto en esta Ley.
-Tercero. El Ejecutivo Federal expedirá el Reglamento de la presente Ley dentro de los ciento ochenta
-días hábiles siguientes a la fecha de la entrada en vigor de la Ley.
-Cuarto. Los certificados digitales expedidos con anterioridad a la entrada en vigor de esta Ley por los
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. La presente Ley entrará en vigor a los ciento veinte días hábiles siguientes al de su
+publicación en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se derogan todas aquellas disposiciones legales y administrativas que se opongan a lo
+previsto en esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El Ejecutivo Federal expedirá el Reglamento de la presente Ley dentro de los ciento ochenta
+días hábiles siguientes a la fecha de la entrada en vigor de la Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Los certificados digitales expedidos con anterioridad a la entrada en vigor de esta Ley por los
 prestadores de servicios de certificación que, conforme a las disposiciones jurídicas aplicables, tengan
 reconocida la calidad de autoridad certificadora, así como por la Secretaría, la Secretaría de Economía y
 el Servicio de Administración Tributaria, conservarán su vigencia y alcances, de conformidad con las
@@ -696,11 +724,25 @@ totalidad de los certificados digitales existentes sean homologados en términos
 LEY DE FIRMA ELECTRÓNICA AVANZADA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Quinto. Las disposiciones generales a que se refiere el segundo párrafo del artículo 5 de la presente
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Las disposiciones generales a que se refiere el segundo párrafo del artículo 5 de la presente
 Ley se emitirán en un plazo máximo de noventa días hábiles, contados a partir de la entrada en vigor de
-este ordenamiento.
-Sexto. Para efectos de lo previsto en el primer párrafo del artículo 4 de esta Ley, las dependencias y
+este ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Para efectos de lo previsto en el primer párrafo del artículo 4 de esta Ley, las dependencias y
 entidades deberán remitir a la Secretaría, a más tardar en la fecha de entrada en vigor de esta Ley, su
 programa de instrumentación para el uso de la firma electrónica avanzada, en el que se contemplen los
 distintos actos en los que sea o no factible el uso de la firma electrónica avanzada, con objeto de que la
@@ -732,23 +774,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Trigésimo Quinto.- Se reforman las fracciones I y IX del artículo 2 de la Ley de Firma
 Electrónica Avanzada, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -758,8 +828,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -790,13 +867,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -808,8 +899,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 14 de 18
 LEY DE FIRMA ELECTRÓNICA AVANZADA
@@ -817,25 +915,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -846,14 +972,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -866,12 +1006,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -892,10 +1046,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Décimo Segundo.- Se reforma el artículo 6 de la Ley de Firma Electrónica Avanzada, para
 quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -905,14 +1073,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1976-12-31/136_300118/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1976-12-31/136_300118/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -284,9 +284,9 @@ de regulación monetaria.
             <p>Artículo reformado DOF 28-12-1983</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- El Ejecutivo Federal, al someter al Congreso de la Unión las iniciativas
 correspondientes a la Ley de Ingresos y al Presupuesto de Egresos de la Federación, deberá proponer
@@ -300,9 +300,9 @@ Reforma DOF 27-04-2016: Derogó del artículo el entonces párrafo segundo (ante
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- Para determinar las necesidades financieras a que se refiere el artículo anterior, la
 Secretaría de Hacienda y Crédito Público deberá conocer por conducto de las Secretarías de Estado,
@@ -311,13 +311,13 @@ debidamente aprobados por dicha Secretaría, que requieran de financiamientos pa
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo reformado DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- Los montos de endeudamiento aprobados por el Congreso de la Unión, serán la base
 para la contratación de los créditos necesarios para el financiamiento de los Presupuestos de Egresos de
@@ -327,13 +327,13 @@ dependencia competente en materia de gasto y financiamiento.
 , 27-04-2016</p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Artículo reformado DOF 07-01-1988</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- La Secretaría de Hacienda y Crédito Público, de acuerdo con las facultades que le
 concede el Capítulo II de esta Ley autorizará, en su caso, los financiamientos que promuevan las
@@ -346,22 +346,22 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 27-04-2016</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- Las entidades deberán indicar claramente los recursos que se utilizarán para el pago
 de los financiamientos que promuevan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- En ningún caso se autorizarán financiamientos que generen obligaciones que
 excedan, a juicio de la Secretaría de Hacienda y Crédito Público, de la capacidad de pago de las
@@ -369,9 +369,9 @@ entidades del sector público que los promuevan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTICULO 16.- El monto de las partidas que las entidades deban destinar anualmente para satisfacer
 compromisos derivados de la contratación de financiamientos, será revisado por la Secretaría de
@@ -379,9 +379,9 @@ Hacienda y Crédito Público, a fin de que se incluyan en el Presupuesto de Egre
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTICULO 17.- El Ejecutivo Federal y sus dependencias sólo podrán contratar financiamientos a
 través de la Secretaría de Hacienda y Crédito Público.
@@ -393,16 +393,16 @@ procediéndose en los términos del artículo 6o. de este ordenamiento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Párrafo reformado DOF 07-01-1988</p>
           </note>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Artículo reformado DOF 28-12-1983</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>ARTICULO 18.- Los proyectos a cargo de las dependencias del Gobierno Federal que requieran
 financiamientos para su realización, deberán producir los recursos suficientes para su amortización y las
@@ -421,13 +421,13 @@ financiamiento se considerará como pasivo contingente hasta el pago total del m
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo adicionado DOF 21-12-1995</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>ARTICULO 19.- Las entidades mencionadas en las fracciones III a VI del artículo 1o. de esta Ley,
 requerirán autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la
@@ -456,28 +456,28 @@ las disposiciones de carácter general que expida la Secretaría de Hacienda y C
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo reformado DOF 07-01-1988</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo adicionado DOF 28-12-1983</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción adicionada DOF 28-12-1983</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción adicionada DOF 28-12-1983</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción adicionada DOF 28-12-1983</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción adicionada DOF 28-12-1983</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>ARTICULO 20.- Para los efectos del artículo anterior, las entidades deberán formular para la
 autorización de los créditos externos, la solicitud correspondiente a la Secretaría de Hacienda y Crédito
@@ -491,13 +491,13 @@ información, mediante el examen de registros y documentos de las mismas entidad
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Artículo reformado DOF 07-01-1988</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>ARTICULO 21.- La Secretaría de Hacienda y Crédito Público se abstendrá de autorizar
 financiamientos a favor de las entidades a que se refiere este capítulo, cuando los programas de
@@ -508,9 +508,9 @@ estimará conforme a los criterios que establezca en forma general o particular 
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>ARTICULO 22.- La Secretaría de Hacienda y Crédito Público comunicará por escrito su resolución a
 las entidades solicitantes, precisando, en su caso, las características y condiciones en que los créditos
@@ -533,16 +533,16 @@ nacionales de crédito.
 . Adicionado DOF 07-01-1988</p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Párrafo reformado DOF 07-01-1988</p>
           </note>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Párrafo derogado DOF 28-12-1983</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>ARTICULO 23.- Las entidades acreditadas, ya sean del Gobierno Federal o del sector paraestatal,
 llevarán los registros de los financiamientos en que participen conforme a las reglas que señale la
@@ -553,9 +553,9 @@ Secretaría determine.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>ARTICULO 24.- La Secretaría de Hacienda y Crédito Público vigilará que se incluyan en los
 presupuestos de las entidades del sector público los montos necesarios para satisfacer puntualmente los
@@ -564,9 +564,9 @@ esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>ARTICULO 25.- Las entidades del sector público prestarán todo género de facilidades al personal de
 la Secretaría de Hacienda y Crédito Público que, en su caso, acuda a comprobar la debida contratación,
@@ -574,9 +574,9 @@ aplicación y manejo de la deuda.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>ARTICULO 26.- Sin perjuicio de lo señalado por los artículos del presente capítulo las Secretarías de
 Estado encargadas de la coordinación de los sectores correspondientes, en el desempeño de sus
@@ -585,13 +585,13 @@ entidades de su sector.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>ARTICULO 27.- La Secretaría de Hacienda y Crédito Público mantendrá el registro de las
 obligaciones financieras constitutivas de deuda pública que asuman las entidades, en el que se anotarán
@@ -601,9 +601,9 @@ pública, consignando todos aquellos que resulten significativos para su mejor c
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>ARTICULO 28.- Los titulares de las entidades están obligados a comunicar a la Secretaría de
 Hacienda y Crédito Público los datos de todos los financiamientos contratados así como de los
@@ -611,18 +611,18 @@ movimientos que en éstos se efectúen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>ARTICULO 29.- Las operaciones de crédito autorizadas, así como su registro, sólo podrán
 modificarse con los mismos requisitos y formalidades relativos a su autorización.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>ARTICULO 30.- (Se deroga)
 7 de 22
@@ -633,25 +633,25 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Artículo derogado DOF 27-04-2016</p>
           </note>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>ARTICULO 31.- (Se deroga)
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-31" placement="bottom">
+          <note placementBase="#art-31." placement="bottom">
             <p>Artículo derogado DOF 27-04-2016</p>
           </note>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>ARTICULO 32.- (Se deroga)
 
@@ -741,7 +741,7 @@ Presupuesto, Contabilidad y Gasto Público Federal.
 Publicado en el Diario Oficial de la Federación el 21 de diciembre de 1995</p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Artículo derogado DOF 27-04-2016</p>
           </note>
         </article>
@@ -776,10 +776,24 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO QUINCUAGÉSIMO OCTAVO. Se reforman los artículos 1o., fracción II; 7o.; 9o.; 10,
 segundo párrafo; 11 y 26 de la Ley General de Deuda Pública, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -801,15 +815,36 @@ Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014
 ARTÍCULO TERCERO. Se reforma el artículo 1o., fracciones V y VI; y se adiciona el artículo 1o., con
 una fracción VII a la Ley General de Deuda Pública, para quedar como sigue:
 ………
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, preverá
 lo necesario para que, en la elaboración de la iniciativa de Ley de Ingresos de la Federación y el proyecto
 de Presupuesto de Egresos de la Federación para el ejercicio fiscal 2015, se reflejen las reformas a la
 Ley Federal de Presupuesto y Responsabilidad Hacendaria que se señalan en el artículo segundo,
-fracción I, del presente Decreto.
-Tercero. El Gobierno Federal podrá asumir una proporción de la obligación de pago de las pensiones
+fracción I, del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. El Gobierno Federal podrá asumir una proporción de la obligación de pago de las pensiones
 y jubilaciones en curso de pago, así como las que correspondan a los trabajadores en activo de Petróleos
 Mexicanos y sus organismos subsidiarios reconocidas a la entrada en vigor del presente Decreto y
 registradas actuarialmente en sus estados financieros, conforme a las estipulaciones contractuales
@@ -862,8 +897,15 @@ entrada en vigor del presente Decreto. La Auditoría Superior de la Federación,
 Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las
 responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos
 ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo,
-en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
-Cuarto. El Gobierno Federal podrá asumir una proporción de la obligación de pago a cargo de la
+en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Gobierno Federal podrá asumir una proporción de la obligación de pago a cargo de la
 Comisión Federal de Electricidad de las pensiones y jubilaciones reconocidas y registradas
 actuarialmente en sus estados financieros que correspondan a sus trabajadores que fueron contratados
 hasta el 18 de agosto de 2008, fecha en que la empresa suscribió con el sindicato un convenio para
@@ -918,16 +960,30 @@ entrada en vigor del presente Decreto. La Auditoría Superior de la Federación,
 Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las
 responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos
 ilegales relacionados con las obligaciones de pago de pensiones y jubilaciones mencionadas, incluyendo,
-en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.
-Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria
+en caso de ser procedente, el inicio de los procedimientos en materia de responsabilidad penal.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Las reformas y derogaciones a la Ley Federal de Presupuesto y Responsabilidad Hacendaria
 y la Ley General de Deuda Pública relacionadas con las empresas productivas del Estado y sus
 empresas productivas subsidiarias, a que se refiere el presente Decreto, entrarán en vigor respecto de
 Petróleos Mexicanos y sus organismos subsidiarios y la Comisión Federal de Electricidad, en la fecha en
 que, conforme a cada una de sus leyes, se dé cumplimiento a lo dispuesto en el párrafo segundo del
 vigésimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario
-Oficial de la Federación el 20 de diciembre de 2013.
-Sexto. Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia
+Oficial de la Federación el 20 de diciembre de 2013.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Sin menoscabo de los ingresos que obtenga cada Órgano Regulador Coordinado en Materia
 Energética por concepto de las contribuciones y aprovechamientos que disponga por los servicios que
 preste, con el fin de lograr una oportuna y eficaz instrumentación de sus atribuciones, durante el periodo
 de 2015 a 2018, la Cámara de Diputados realizará las previsiones presupuestales que garanticen que
@@ -974,24 +1030,234 @@ quedar como “Ley Federal de Deuda Pública”, el artículo 12, el artículo 1
             </content>
           </paragraph>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
             <content>
-              <p>artículo 46 de la misma.
-DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de
-los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN,
-quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el</p>
+              <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
             <content>
-              <p>artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo
-dispuesto en dicho programa.
-DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la
+              <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las
+leyes, reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este
+Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
+hacendaria de las Entidades Federativas a que se refiere el Capítulo I del Título Segundo de la Ley de
+Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del
+ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las
+Entidades Federativas y los Municipios, relativo al nivel de aportación al fideicomiso para realizar
+acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por
+ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del
+año 2020 se observará el porcentaje establecido en el artículo citado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y
+los Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio
+fiscal 2018.
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico,
+paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 10 de la Ley de
+Disciplina Financiera de las Entidades Federativas y los Municipios hasta el año 2020. En ningún caso, la
+excepción transitoria deberá considerar personal administrativo.
+Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a
+que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor
+de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las
+Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de las
+17 de 22
+LEY FEDERAL DE DEUDA PÚBLICA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 30-01-2018
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Entidades Federativas, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento
+para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el
+sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 13,
+fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de la Ley de Disciplina
+Financiera de las Entidades Federativas y los Municipios, deberá estar en operación a más tardar el 1o.
+de enero de 2018.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia
+el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios,
+podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios
+anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
+Reforma DOF 30-01-2018: Derogó del artículo el entonces párrafo segundo</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
+hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina
+Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio
+fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de
+acuerdo al artículo 21 de dicha Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina
+Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal
+anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5
+por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las
+que hace referencia el artículo 28 de la Ley de Disciplina Financiera de las Entidades Federativas y los
+Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
+Público, no podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda
+pública de Estados y Municipios asumidas entre el 1o. de enero de 2015 y la fecha en la que el Estado
+celebre el convenio referido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las
+Entidades Federativas y los Municipios, salvo que se trate de deuda pública de los Estados y Municipios
+que haya sido contraída para refinanciar o reestructurar deuda pública asumida con anterioridad al 1o. de
+enero de 2015.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
+Público, podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública
+de los Estados y Municipios, en términos del Capítulo IV del Título Tercero de la Ley de Disciplina
+Financiera de las Entidades Federativas y los Municipios, a partir de los 90 días siguientes a la entrada
+en vigor del presente Decreto en el Diario Oficial de la Federación, siempre y cuando el Estado y, en su
+caso Municipio correspondiente, cumpla con la publicación de su información financiera de acuerdo con
+las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el
+Consejo Nacional de Armonización Contable. Para tal efecto, los entes públicos deberán presentar la
+opinión de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que
+manifieste si el ente público cumple con dicha disposición.
+Asimismo, para efectos del párrafo anterior, el Estado o Municipio deberá estar al corriente en el
+cumplimiento de las obligaciones establecidas en los transitorios Sexto y Séptimo, segundo párrafo, del
+Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los
+Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los
+18 de 22
+LEY FEDERAL DE DEUDA PÚBLICA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 30-01-2018
+Secretaría General
+Secretaría de Servicios Parlamentarios
+municipios, publicado el 26 de mayo de 2015 en el Diario Oficial de la Federación. En caso contrario, el
+Estado o Municipio no podrá acceder a la Deuda Estatal Garantizada, hasta su cumplimiento.
+Adicionalmente, en tanto entra en operación el Sistema de Alertas en los términos establecidos en el
+siguiente artículo transitorio, los convenios que se formalicen con la Deuda Estatal Garantizada deberán
+remitirse a la comisión legislativa bicameral para su análisis y opinión correspondiente. Una vez que entre
+en operación el Sistema de Alertas se aplicará lo dispuesto en el artículo 38 de la Ley de Disciplina
+Financiera de las Entidades Federativas y los Municipios.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley
+de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en operación, a más tardar
+el 1o. de abril de 2017.
+El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo
+anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina
+Financiera de las Entidades Federativas y los Municipios, se ubiquen en un endeudamiento elevado
+conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia los artículos
+34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el
+artículo 46 de la misma.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de
+los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN,
+quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el
+artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo
+dispuesto en dicho programa.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la
 Ley de Disciplina Financiera de las Entidades Federativas y los Municipios sustituirá al Registro de
 Obligaciones y Empréstitos de Entidades y Municipios y entrará en operación, a más tardar el 1o. de abril
 de 2017.
@@ -1002,8 +1268,15 @@ anterioridad a la entrada en vigor del Registro Público Único, se llevarán a 
 disposiciones vigentes en la fecha de inicio del trámite.
 Las referencias al Registro de Obligaciones y Empréstitos de Entidades y Municipios en las leyes y
 disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro
-Público Único.
-DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la
+Público Único.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la
 Ley de Disciplina Financiera de las Entidades Federativas y los Municipios relacionados con el Registro
 Público Único serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las
 disposiciones del Registro de Obligaciones y Empréstitos de Entidades y Municipios.
@@ -1042,15 +1315,36 @@ adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal,
 Pública y General de Contabilidad Gubernamental”, publicado en el Diario Oficial de la Federación el 27
 de abril de 2016, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la
 entrada en operación del Registro Público Único, deberán solicitar su inscripción ante dicho Registro para
 lo cual contarán con un plazo de seis meses contado a partir de la publicación de este Decreto, para lo
 cual los Entes Públicos deberán acreditar que se cumplieron los requisitos aplicables de la normatividad
-vigente en el momento de su contratación.
-Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la
+vigente en el momento de su contratación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la
 medición inicial del Sistema de Alertas para Municipios a más tardar el último día hábil de julio de 2018,
 con base en la información de su Cuenta Pública 2017. Esta medición determinará el Techo de
 Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2019.
@@ -1058,8 +1352,15 @@ En el caso de los Entes Públicos distintos a la administración pública centra
 Federativas y los Municipios, la Secretaría publicará en su página oficial de Internet la medición inicial del
 Sistema de Alertas a más tardar el último día hábil de agosto de 2019, con base en la información de su
 Cuenta Pública 2018. Esta medición determinará el Techo de Financiamiento Neto al cual podrán
-acceder durante el ejercicio fiscal 2020.
-Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera
+acceder durante el ejercicio fiscal 2020.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera
 de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta
 el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y
 cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al

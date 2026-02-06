@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2017-11-17/lgmdfp/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2017-11-17/lgmdfp/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -120,9 +120,9 @@
         </chapter>
         <chapter id="chapter-27">
           <num>CAPÍTULO TERCERO DE LA CAPACITACIÓN</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público, interés social y observancia general en todo el
 territorio nacional, de conformidad con el mandato establecido en el artículo 73, fracción XXI, inciso a) de
@@ -130,9 +130,9 @@ la Constitución Política de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. La presente Ley tiene por objeto:
 I. Establecer la distribución de competencias y la forma de coordinación entre las
@@ -181,22 +181,22 @@ la investigación, de manera que puedan verter sus opiniones, recibir informaci�
 indicios o evidencias.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. La aplicación de la presente Ley corresponde a las autoridades de los tres órdenes de
 gobierno, en el ámbito de sus respectivas competencias, y se interpretará de conformidad con los
@@ -206,9 +206,9 @@ Estado mexicano sea parte, favoreciendo en todo tiempo el principio pro persona.
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Para efectos de esta Ley se entiende por:
 I. Banco Nacional de Datos Forenses: a la herramienta del Sistema Nacional que
@@ -280,42 +280,8 @@ para la identificación, priorizando los procedimientos técnicos que aumenten l
 probabilidades de identificación, incluyendo el análisis de toda la información ante
 mortem y post mortem disponible, basado en el contexto de cada caso;
 
-VIII. Entidades Federativas: a las partes integrantes de la Federación a que se refiere el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 13-05-2022</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 16-07-2025</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 16-07-2025</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 16-07-2025</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 16-07-2025</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 16-07-2025</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 13-05-2022</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 13-05-2022</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Fracción adicionada DOF 13-05-2022</p>
-            </note>
-          </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
-              <content>
-                <p>artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. Entidades Federativas: a las partes integrantes de la Federación a que se refiere el
+artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;
 IX. Familiares: a las personas que, en términos de la legislación aplicable, tengan
 parentesco con la Persona Desaparecida o No Localizada por consanguinidad o afinidad,
 en línea recta ascendente y descendente sin limitación de grado; en línea transversal
@@ -419,55 +385,82 @@ XXVII. Tratados: a los Tratados Internacionales de los que el Estado Mexicano se
 XXVIII. Víctimas: aquellas a las que hace referencia la Ley General de Víctimas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 13-05-2022</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 16-07-2025</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 16-07-2025</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 16-07-2025</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 13-05-2022</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 13-05-2022</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 13-05-2022</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 16-07-2025</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Fracción adicionada DOF 16-07-2025</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Las acciones, medidas y procedimientos establecidos en esta Ley son diseñados,
 implementados y evaluados aplicando los principios siguientes:
@@ -570,19 +563,19 @@ refiere la presente Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. En todo lo no previsto en la presente Ley, son aplicables supletoriamente las disposiciones
 establecidas en el Código Nacional de Procedimientos Penales, el Código Penal Federal y las
@@ -591,9 +584,9 @@ que el Estado Mexicano sea parte.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Las niñas, niños y adolescentes respecto de los cuales haya Noticia, Reporte o Denuncia
 que han desaparecido en cualquier circunstancia, se iniciará carpeta de investigación en todos los casos
@@ -602,9 +595,9 @@ protocolo especializado en búsqueda de personas menores de 18 años de edad que
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Las autoridades que administran las herramientas del Sistema Nacional deben tomar en
 cuenta el interés superior de la niñez, y deben establecer la información segmentada por género, edad,
@@ -615,9 +608,9 @@ con las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. Todas las acciones que se emprendan para la investigación y búsqueda de personas
 menores de dieciocho años de edad desparecidas, garantizarán un enfoque integral, transversal y con
@@ -626,9 +619,9 @@ incluyendo su identidad y nacionalidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Las autoridades de búsqueda e investigación en el ámbito de sus competencias se
 coordinarán con las Procuradurías de Protección de los derechos de niñas, niños y adolescentes para
@@ -643,9 +636,9 @@ Niños y Adolescentes y otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. En los casos de niñas, niños o adolescentes, las medidas de reparación integral, así
 como de atención terapéutica y acompañamiento, deberán realizarse por personal especializado en
@@ -653,9 +646,9 @@ derechos de la niñez y adolescencia y de conformidad con la legislación aplica
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. Para el diseño de las acciones, herramientas y el protocolo especializado para la
 búsqueda e investigación de niñas, niños y adolescentes, el Sistema Nacional tomará en cuenta la
@@ -943,9 +936,9 @@ Búsqueda.
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Los delitos de Desaparición Forzada de Personas y de Desaparición cometida por
 Particulares serán perseguidos de oficio y tienen el carácter de permanentes o continuos, en tanto la
@@ -959,9 +952,9 @@ esclarecimiento de los hechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. El ejercicio de la acción penal y la ejecución de sanciones penales que se impongan
 judicialmente para los delitos de desaparición forzada de personas y de desaparición cometida por
@@ -972,13 +965,13 @@ delitos previstos en los artículos 27, 28, 31, 34, 35, 37 y 41 de esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Párrafo adicionado DOF 19-02-2021</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. Se prohíbe la aplicación de amnistías, indultos y medidas similares de impunidad que
 impidan la investigación, procesamiento o sanción y cualquier otra medida para determinar la verdad y
@@ -986,9 +979,9 @@ obtener reparación plena de los delitos materia de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. A efectos de la extradición, la desaparición forzada de personas y la desaparición
 cometida por particulares no serán considerados delitos de carácter político, delito conexo a un delito
@@ -997,12 +990,19 @@ un delito de este tipo no podrá ser rechazada por este motivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
-                <p>Artículo 17. No constituyen causas de exclusión de los delitos establecidos en los Capítulos Tercero y
-Cuarto del Título Segundo de esta Ley, ni de responsabilidad en términos de lo previsto en las
+                <p>Artículo 17. No constituyen causas de exclusión de los delitos establecidos en los Capítulos Tercero y</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto del Título Segundo de esta Ley, ni de responsabilidad en términos de lo previsto en las
 disposiciones aplicables, la obediencia debida a órdenes o instrucciones superiores que dispongan,
 autoricen o alienten a la comisión de estos delitos.
 En ningún caso pueden invocarse circunstancias especiales, tales como tiempo de guerra, invasión o
@@ -1013,9 +1013,9 @@ cometer el delito de desaparición forzada no sea sancionada o sea objeto de nin
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Para la imposición de una multa es aplicable el concepto días multa previsto en el Código
 Penal Federal.
@@ -1028,9 +1028,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Los delitos previstos en esta Ley deben ser perseguidos, investigados, procesados y
 sancionados conforme a las reglas de autoría, participación y concurso previstas en la legislación penal
@@ -1039,25 +1039,18 @@ Penales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
-                <p>Artículo 20. La tentativa punible de los delitos previstos en esta Ley se sancionará en términos del</p>
+                <p>Artículo 20. La tentativa punible de los delitos previstos en esta Ley se sancionará en términos del
+artículo 63 del Código Penal Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
-              <content>
-                <p>artículo 63 del Código Penal Federal.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Queda prohibido entregar, extraditar, expulsar, deportar o devolver a cualquier persona
 cuando haya razones fundadas para suponer que estaría en peligro de ser sometida a una Desaparición
@@ -1066,9 +1059,9 @@ entregada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Si de las diligencias practicadas en la investigación de hechos probablemente
 constitutivos de delitos distintos a los previstos en esta Ley, el agente del Ministerio Público advierte la
@@ -1077,9 +1070,9 @@ la investigación a la Fiscalía Especializada competente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. Si de las diligencias practicadas en la investigación de hechos probablemente
 constitutivos de delitos previstos en esta Ley, la Fiscalía Especializada advierte la probable comisión de
@@ -1088,9 +1081,9 @@ investigación a las autoridades ministeriales competentes, salvo en el caso de 
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. La investigación, persecución y sanción de los delitos previstos en esta Ley,
 corresponderá a las autoridades federales cuando:
@@ -1119,9 +1112,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. La investigación, persecución y sanción de los delitos previstos en esta Ley,
 corresponderá a las autoridades de las Entidades Federativas en los casos no previstos en el artículo
@@ -1129,9 +1122,9 @@ anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. La investigación, persecución, procesamiento y sanción de los delitos previstos en esta
 Ley deberá ser competencia exclusiva de las autoridades federales o estatales del orden civil, aun
@@ -1139,9 +1132,9 @@ cuando esté involucrado un servidor público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Comete el delito de desaparición forzada de personas, el servidor público o el particular
 que, con la autorización, el apoyo o la aquiescencia de un servidor público, prive de la libertad en
@@ -1150,9 +1143,9 @@ libertad o a proporcionar la información sobre la misma o su suerte, destino o 
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Al servidor público, o el particular que con la autorización, el apoyo o la aquiescencia de
 un servidor público, oculte o se niegue a proporcionar información sobre la privación de la libertad de una
@@ -1161,18 +1154,18 @@ forma se le impondrá la pena prevista en el artículo 30.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Los superiores jerárquicos serán considerados autores del delito de desaparición forzada
 de personas en los términos de lo previsto en la legislación penal aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Se impondrá pena de cuarenta a sesenta años de prisión, y de diez mil a veinte mil días
 multa a las personas que incurran en las conductas previstas en los artículos 27 y 28.
@@ -1183,9 +1176,9 @@ se cumpla con la pena de prisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Se impondrá pena de veinte a treinta años de prisión y de quinientos a ochocientos días
 multa a quien omita entregar a la autoridad o Familiares al nacido de una víctima del delito de
@@ -1197,9 +1190,9 @@ de tal circunstancia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Las sanciones para el delito de desaparición forzada de personas previstas en esta Ley,
 pueden ser aumentadas hasta en una mitad cuando:
@@ -1228,9 +1221,9 @@ la comisión de otros delitos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Las sanciones para el delito de desaparición forzada de personas previstas en esta Ley,
 pueden ser disminuidas, conforme lo siguiente:
@@ -1251,16 +1244,16 @@ parte.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
@@ -1276,9 +1269,9 @@ cinco mil veces el valor diario de la Unidad de Medida y Actualización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Incurre en el delito de desaparición cometida por particulares quien prive de la libertad a
 una persona con la finalidad de ocultar a la víctima o su suerte o paradero. A quien cometa este delito se
@@ -1292,9 +1285,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Se impondrá pena de diez a veinte años de prisión y de quinientos a ochocientos días
 multa a quien omita entregar a la autoridad o Familiares al nacido de una víctima del delito de
@@ -1307,9 +1300,9 @@ circunstancia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Las penas aplicables para los delitos establecidos en los artículos 34 y 35 de esta Ley
 pueden ser determinadas y modificadas conforme a las reglas previstas en los artículos 32 y 33 de esta
@@ -1317,9 +1310,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. A quien oculte, deseche, incinere, sepulte, inhume, desintegre o destruya, total o
 parcialmente, restos de un ser humano o el cadáver de una persona, con el fin de ocultar la comisión de
@@ -1327,9 +1320,9 @@ un delito, se le impondrá pena de quince a veinte años de prisión y de mil a 
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Se impondrá pena de dos a cinco años de prisión, de cien a trescientos días multa y
 destitución e inhabilitación hasta por el mismo lapso de la pena de privación de la libertad impuesta para
@@ -1340,9 +1333,9 @@ búsqueda de Personas Desaparecidas o de la investigación de los delitos establ
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Se impondrá pena de dos a siete años de prisión, de treinta a trescientos días multa y
 destitución e inhabilitación hasta por el mismo lapso de la pena de privación de la libertad impuesta para
@@ -1351,9 +1344,9 @@ las acciones de búsqueda e investigación a que se refiere el artículo anterio
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Se impondrá pena de tres a siete años de prisión a quien, conociendo el paradero o
 destino final de una niña o niño a los que se refieren los delitos establecidos en los artículos 31 y 35 de la
@@ -1361,9 +1354,9 @@ Ley, y a sabiendas de la misma, no proporcione información para su localizació
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Se impondrá pena de seis a doce años de prisión y de seiscientos a mil días multa a
 quien falsifique, oculte o destruya documentos que prueben la verdadera identidad de una niña o niño a
@@ -1374,9 +1367,9 @@ o niño a que se refiere el párrafo anterior, con el conocimiento de dicha circ
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Los servidores públicos federales y locales que incumplan injustificadamente con alguna
 de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionados en términos
@@ -1391,9 +1384,9 @@ públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento
 injustificado o la actuación negligente ante cualquier obligación relacionada con la búsqueda inmediata de
@@ -1404,7 +1397,7 @@ información generada por ella, con fines distintos a los señalados por esta Le
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
           </article>
@@ -1424,9 +1417,9 @@ Gobernación.
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. El Sistema Nacional tiene como objetivo diseñar y evaluar de manera eficiente y
 armónica los recursos del Estado Mexicano para establecer las bases generales, políticas públicas y
@@ -1436,9 +1429,9 @@ sanción de los delitos en materia de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. El Sistema Nacional se integra por:
 I. La persona titular de la Secretaría de Gobernación, quien lo presidirá;
@@ -1493,43 +1486,43 @@ otorgadas por la Constitución y las leyes a cada institución.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. El Sistema Nacional sesionará válidamente con la presencia de la mayoría de sus
 integrantes y sus resoluciones deben ser tomadas por mayoría de votos. El Presidente tiene voto
@@ -1537,9 +1530,9 @@ dirimente en caso de empate.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Las sesiones del Sistema Nacional deben celebrarse de manera ordinaria, por lo menos,
 cada seis meses por convocatoria de la Secretaría Ejecutiva del Sistema Nacional, por instrucción de la
@@ -1558,13 +1551,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. El Sistema Nacional para el ejercicio de sus facultades contará con las siguientes
 herramientas:
@@ -1584,19 +1577,19 @@ VII Bis. La Base Nacional de Carpetas de Investigación, y
 VIII. Otros registros necesarios para su operación en términos de lo que prevé esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. El Sistema Nacional tiene las siguientes atribuciones:
 I. Expedir modelos de lineamientos que permitan la coordinación entre autoridades en materia de
@@ -1650,13 +1643,13 @@ XVI. Emitir el Protocolo Homologado de Búsqueda, y
 XVII. Las demás que se requieran para el cumplimiento de los objetivos de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. La Comisión Nacional de Búsqueda es un órgano administrativo desconcentrado de la
 Secretaría de Gobernación, que determina, ejecuta y da seguimiento a las acciones de búsqueda de
@@ -1680,13 +1673,13 @@ la Comisión Nacional de Búsqueda y realizar, en el ámbito de sus competencias
 las previstas en esta Ley para la Comisión Nacional de Búsqueda.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo reformado DOF 13-05-2022</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. La Comisión Nacional de Búsqueda está a cargo de una persona titular nombrada y
 removida por el Presidente de la República, a propuesta del Secretario de Gobernación.
@@ -1714,9 +1707,9 @@ corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. Para la consulta pública a la que se hace referencia en el artículo anterior, la Secretaría
 de Gobernación deberá observar, como mínimo, las siguientes bases:
@@ -1727,9 +1720,9 @@ acompañada de una exposición fundada y motivada sobre la idoneidad del perfil 
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. La Comisión Nacional de Búsqueda tiene las siguientes atribuciones:
 I. Emitir y ejecutar el Programa Nacional de Búsqueda, rector en la materia, de
@@ -1970,46 +1963,46 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción derogada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. En la integración y operación de los grupos a que se refiere el artículo 53, fracción XVIII,
 la Comisión Nacional de Búsqueda tiene las siguientes atribuciones:
@@ -2021,9 +2014,9 @@ IV. Disolver los grupos de trabajo cuando hayan cumplido su finalidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. Los servidores públicos integrantes de la Comisión Nacional de Búsqueda deben estar
 certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el
@@ -2031,9 +2024,9 @@ Sistema Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Los informes previstos en el artículo 53, fracción V, deben contener, al menos, lo
 siguiente:
@@ -2050,9 +2043,9 @@ V. Las demás que señale el Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. El Consejo Nacional de Seguridad Pública, de conformidad con la Ley General del
 Sistema Nacional de Seguridad Pública, analizará los informes sobre los avances y resultados de la
@@ -2062,9 +2055,9 @@ cumplimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. La Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, para realizar
 sus actividades, deben contar como mínimo con:
@@ -2085,18 +2078,18 @@ IV. La estructura administrativa necesaria para el cumplimiento de sus funciones
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. El Consejo Ciudadano es un órgano ciudadano de consulta del Sistema Nacional, en
 materia de búsqueda de personas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. El Consejo Ciudadano está integrado por:
 I. Cinco Familiares;
@@ -2115,13 +2108,13 @@ La duración de su función será de tres años, sin posibilidad de reelección,
 ningún cargo como servidor público.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-60" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Párrafo reformado DOF 28-04-2022</p>
             </note>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Quienes integren el Consejo Ciudadano ejercerán su función en forma honorífica, y no
 deben recibir emolumento o contraprestación económica alguna por su desempeño.
@@ -2142,22 +2135,22 @@ La Secretaría de Gobernación proveerá al Consejo Ciudadano de los recursos fi
 de infraestructura y humanos necesarios para el desempeño de sus funciones.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo reformado DOF 28-04-2022</p>
             </note>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo reformado DOF 28-04-2022</p>
             </note>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo reformado DOF 28-04-2022</p>
             </note>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo reformado DOF 28-04-2022</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El Consejo Ciudadano tiene las funciones siguientes:
 29 de 81
@@ -2193,18 +2186,18 @@ consulta de las Comisiones Locales de Búsqueda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. Las decisiones que el Consejo Ciudadano adopte son públicas, en apego a la legislación
 de transparencia y protección de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. El Consejo Ciudadano integrará de entre sus miembros un Comité para la evaluación y
 seguimiento de las acciones emprendidas por la Comisión Nacional de Búsqueda, que tendrá las
@@ -2227,9 +2220,9 @@ V. Las demás que determine el Consejo Nacional Ciudadano, en el marco de sus at
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. La Comisión Nacional de Búsqueda contará con Grupos de Búsqueda integrados por
 servidores públicos especializados en la búsqueda de personas.
@@ -2239,9 +2232,9 @@ con las autoridades competentes, en términos de las disposiciones aplicables.</
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Los Grupos de Búsqueda, para el adecuado cumplimiento de sus acciones, tienen las
 siguientes atribuciones:
@@ -2261,9 +2254,9 @@ que se encuentran cadáveres o restos humanos de Personas Desaparecidas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. Las Instituciones de Seguridad Pública de los tres órdenes de gobierno, en el ámbito de
 sus respectivas competencias, deben contar y garantizar la disponibilidad inmediata de personal
@@ -2275,9 +2268,9 @@ debe acreditar los criterios de idoneidad que emita la Comisión Nacional de Bú
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. La Fiscalía y las Fiscalías y Procuradurías Locales deben contar con Fiscalías
 Especializadas para la investigación y persecución de los delitos de desaparición forzada de personas y
@@ -2306,16 +2299,16 @@ Todas las autoridades, en el ámbito de sus competencias, están obligadas a col
 con las Fiscalías Especializadas para el cumplimiento de la Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. Los servidores públicos que integren las Fiscalías Especializadas deberán cumplir, como
 mínimo, los siguientes requisitos:
@@ -2337,16 +2330,16 @@ conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en t
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. Las Fiscalías Especializadas, en el ámbito de sus competencias, tienen las atribuciones
 siguientes:
@@ -2474,37 +2467,37 @@ XXVI. Las demás que establezcan otras disposiciones jurídicas aplicables.
 Fracción recorrida DOF 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción adicionada DOF 13-05-2022</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Las Fiscalías Especializadas de las Entidades Federativas deben contar al menos, con
 las características y atribuciones previstas en el artículo anterior.
@@ -2515,13 +2508,13 @@ cuando el asunto no esté contemplado expresamente como competencia de la Federa
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. El servidor público que sea señalado como imputado por el delito de desaparición
 forzada de personas, y que por razón de su encargo o influencia pueda interferir u obstaculizar las
@@ -2534,9 +2527,9 @@ investigaciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Las Fiscalías Especializadas deberán generar criterios y metodología específica para la
 investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las
@@ -2619,9 +2612,9 @@ objetivos previstos en esta Ley.
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. En el supuesto previsto en el artículo 66, la Fiscalía Especializada de la Fiscalía debe
 continuar sin interrupción la investigación de los delitos previstos en esta Ley, en términos de lo que
@@ -2629,7 +2622,7 @@ establezca el Protocolo Homologado de Investigación y el Código Nacional de Pr
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
@@ -2649,9 +2642,9 @@ efectuará en términos de lo previsto en el artículo 303 del Código Nacional 
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. Las autoridades de todos los órdenes de gobierno están obligadas a proporcionar, en el
 ámbito de su competencia, el auxilio e información que las Fiscalías Especializadas les soliciten para la
@@ -2659,22 +2652,22 @@ investigación y persecución de los delitos previstos en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. La Fiscalía celebrará acuerdos interinstitucionales con autoridades e instituciones para
 coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el país.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-76" placement="bottom">
+            <note placementBase="#art-76." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Las personas físicas o jurídicas que cuenten con información que pueda contribuir a la
 investigación y persecución de los delitos previstos en esta Ley, están obligadas a proporcionarla a las
@@ -2683,18 +2676,18 @@ otro medio, en términos de la normativa aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. Las Fiscalías Especializadas no pueden condicionar la recepción de la información a que
 se refiere el párrafo anterior al cumplimiento de formalidad alguna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. La búsqueda tendrá por objeto realizar todas las acciones y diligencias tendientes para
 dar con la suerte o el paradero de la persona hasta su localización, incluidas aquellas para identificar
@@ -2708,9 +2701,9 @@ Homologado de Búsqueda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. Cualquier persona puede solicitar la búsqueda de una Persona Desaparecida o No
 Localizada mediante:
@@ -2735,16 +2728,16 @@ Ningún protocolo establecerá plazos de espera para iniciar la investigación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. El Reporte puede realizarse las veinticuatro horas del día, todos los días del año, a través
 de cualquiera de los siguientes medios:
@@ -2769,13 +2762,13 @@ fracción III, quien reciba el Reporte deberá entregar a la persona que lo real
 el que constará el folio único de búsqueda.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. La presentación de Denuncias se sujetará a lo previsto en el Código Nacional de
 Procedimientos Penales.
@@ -2788,9 +2781,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. Cuando se trate de una Noticia, las autoridades que no pertenezcan a la Comisión
 Nacional de Búsqueda o a las Comisiones Locales de Búsqueda y que tengan conocimiento de ésta,
@@ -2800,9 +2793,9 @@ b) Transmitir la información de manera inmediata a la Comisión correspondiente
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. Las oficinas consulares de México deben recibir las solicitudes de búsqueda de los
 Familiares en México y remitirán sin dilación el Reporte a la Comisión Nacional de Búsqueda.
@@ -2813,9 +2806,9 @@ efectiva a lo largo del proceso de búsqueda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. La autoridad distinta a la Comisión Nacional de Búsqueda que reciba el Reporte debe
 recabar por lo menos, la información siguiente:
@@ -2853,13 +2846,13 @@ momento de recibir el Reporte o Denuncia. La autoridad estará obligada a entreg
 o Denuncia a la persona que haya acudido a realizarla.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-85" placement="bottom">
+            <note placementBase="#art-85." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86. La autoridad que recabe la Denuncia, Reporte o Noticia debe transmitirlo
 inmediatamente, a través de cualquier medio tecnológico o de telecomunicación, a la comisión que
@@ -2873,9 +2866,9 @@ conformidad con la legislación en materia de responsabilidades administrativas.
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87. Una vez que la Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda que
 corresponda reciba, en términos del artículo anterior, un Reporte o Noticia de una Persona Desaparecida
@@ -2898,9 +2891,9 @@ conformidad con las disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88. En el caso de la presentación de una Denuncia, el agente del Ministerio Público que la
 reciba debe proceder sin dilación a aplicar el Protocolo Homologado de Investigación y remitir la
@@ -2910,13 +2903,13 @@ denuncia se iniciará una investigación y se le asignará el número de carpeta
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-88" placement="bottom">
+            <note placementBase="#art-88." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89. Cuando la Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda
 correspondiente tenga Noticia o Reporte de una Persona Desaparecida o No Localizada, iniciará la
@@ -2936,13 +2929,13 @@ por Particulares.
 Reforma DOF 16-07-2025: Derogó del artículo el entonces párrafo tercero</p>
               </content>
             </paragraph>
-            <note placementBase="#art-89" placement="bottom">
+            <note placementBase="#art-89." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90. La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente
 debe instrumentar acciones de búsqueda inmediatamente, conforme al Protocolo Homologado de
@@ -2954,9 +2947,9 @@ materia de Víctimas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91. La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente
 debe solicitar a los Familiares, preferentemente a través del cuestionario establecido en el Protocolo
@@ -2965,9 +2958,9 @@ Desaparecida o No Localizada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92. La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente
 debe asegurar la existencia de mecanismos eficientes para que los Familiares y sus representantes
@@ -2985,9 +2978,9 @@ Penales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93. Durante la búsqueda, la Comisión Nacional de Búsqueda o la Comisión Local de
 Búsqueda correspondiente presumirá que la Persona Desaparecida o No Localizada, se encuentra con
@@ -3000,9 +2993,9 @@ encontrados y plenamente identificados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94. A efecto de determinar la ubicación de la Persona Desaparecida o No Localizada, la
 Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente debe consultar,
@@ -3039,9 +3032,9 @@ correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95. Cuando sea necesario para la búsqueda de una Persona Desaparecida, la Comisión
 Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente podrá solicitar al Ministerio
@@ -3054,9 +3047,9 @@ debiendo la Comisión motivar dicho carácter.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96. Si en cualquier momento durante la búsqueda la persona es localizada, la Comisión
 Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente debe, como mínimo:
@@ -3085,9 +3078,9 @@ VI. Actualizar el Registro Nacional que corresponda en términos del artículo 1
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97. Cuando alguna autoridad identifique a una persona que por circunstancias ajenas a su
 voluntad, desconoce o no recuerda sus datos de parentesco, identidad y domicilio, debe dar aviso a la
@@ -3099,9 +3092,9 @@ respectivos al Registro Nacional en términos del artículo 106 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98. Las autoridades involucradas en la búsqueda y localización de Personas Desaparecidas
 o No Localizadas, en el ámbito de sus competencias, deben asegurar la cadena de custodia de la
@@ -3114,9 +3107,9 @@ DE LOS PROTOCOLOS</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99. La Comisión Nacional de Búsqueda o la Comisión Local de Búsqueda correspondiente y
 las Fiscalías Especializadas, de conformidad con las atribuciones que le confiere esta Ley, deberán
@@ -3196,9 +3189,9 @@ Familiares, conforme a estándares internacionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100. Para elaborar y actualizar los protocolos a que se refiere el presente Capítulo, se debe
 considerar, entre otros, los elementos siguientes:
@@ -3226,9 +3219,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. Además de lo establecido en el artículo anterior, los protocolos contendrán las medidas
 que deberán realizar la Comisión Nacional de Búsqueda y las Comisiones Locales de Búsqueda, así
@@ -3237,9 +3230,9 @@ privadas. Dichas medidas serán obligatorias a todas las instancias que integran
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102. El Registro Nacional es una herramienta de búsqueda e identificación que organiza y
 concentra la información sobre Personas Desaparecidas y No Localizadas, con el objeto de proporcionar
@@ -3247,9 +3240,9 @@ apoyo en las investigaciones para su búsqueda, localización e identificación.
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103. El Registro Nacional se conforma con la información que recaban las autoridades de la
 Federación y de las Entidades Federativas.
@@ -3259,9 +3252,9 @@ Personas Desaparecidas o No Localizadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. Corresponde a la Comisión Nacional de Búsqueda administrar y coordinar la operación
 del Registro Nacional.
@@ -3271,9 +3264,9 @@ Nacional de Búsqueda, en términos de lo que establece esta Ley y su Reglamento
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105. El Registro Nacional debe estar interconectado con las herramientas de búsqueda e
 identificación previstas en esta Ley y ser actualizado en tiempo real, mediante personal designado y
@@ -3292,13 +3285,13 @@ se dejará constancia de ello, sin perjuicio del seguimiento de la investigació
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-105" placement="bottom">
+            <note placementBase="#art-105." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106. El Registro Nacional debe contener los siguientes campos:
 I. En relación con la persona que reporta la desaparición o no localización, salvo que sea anónima:
@@ -3361,9 +3354,9 @@ búsqueda o investigación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107. Los datos obtenidos inicialmente a través de la Denuncia, Reporte o Noticia deberán
 asentarse en el Registro Nacional de manera inmediata y actualizarse en tiempo real.
@@ -3381,16 +3374,16 @@ En ningún caso podrá negarse la recepción de una denuncia por desaparición.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-107" placement="bottom">
+            <note placementBase="#art-107." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-107" placement="bottom">
+            <note placementBase="#art-107." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108. Los datos personales contenidos en el Registro Nacional deben ser utilizados
 exclusivamente con el fin de determinar la suerte o paradero de la Persona Desaparecida o No
@@ -3412,9 +3405,9 @@ identificación de Personas Desaparecidas o No Localizadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109. El Registro Nacional puede ser consultado en su versión pública, a través de la página
 electrónica que para tal efecto establezca la Comisión Nacional de Búsqueda, de conformidad con lo que
@@ -3423,9 +3416,9 @@ protección de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110. El Registro Nacional deberá contener como mínimo los siguientes criterios de
 clasificación:
@@ -3444,13 +3437,13 @@ DEL REGISTRO NACIONAL DE PERSONAS FALLECIDAS NO IDENTIFICADAS Y NO
 RECLAMADAS</p>
               </content>
             </paragraph>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111. El Registro Nacional de Personas Fallecidas No Identificadas y No Reclamadas se
 encuentra a cargo de la Fiscalía, formará parte del Banco Nacional de Datos Forenses y contiene
@@ -3474,16 +3467,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-111" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-111" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112. El Registro Nacional de Personas Fallecidas y No Identificadas deberá contener como
 mínimo, los siguientes campos:
@@ -3522,9 +3515,9 @@ identificación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113. El Registro Nacional de Personas Fallecidas y No Identificadas es una herramienta de
 búsqueda e identificación. La información contenida se actualiza en tiempo real por parte de los servicios
@@ -3542,22 +3535,22 @@ Para cumplir con sus obligaciones de búsqueda, la Comisión Nacional de Búsque
 Locales de Búsqueda pueden consultar en cualquier momento este registro.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-113" placement="bottom">
+            <note placementBase="#art-113." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114. El personal de servicios periciales y servicios médicos forenses deberá estar
 permanentemente capacitado y actualizado de conformidad con el protocolo que corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115. La Comisión Nacional de Búsqueda, las Comisiones Locales de Búsqueda, las Fiscalías
 Especializadas y de los servicios periciales y servicios médicos forenses se encuentran obligados a
@@ -3566,9 +3559,9 @@ la información contenida en los registros previstos en esta Ley, dejando consta
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116. La información contenida en el Registro Nacional de Personas Fallecidas y No
 Identificadas estará sujeta a las disposiciones en materia de protección de datos personales y se utilizará
@@ -3576,9 +3569,9 @@ Identificadas estará sujeta a las disposiciones en materia de protección de da
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117. El Registro Nacional de Personas Fallecidas y No Identificadas deberá contar con las
 herramientas tecnológicas necesarias para permitir la interrelación, el resguardo y la confiabilidad de la
@@ -3586,9 +3579,9 @@ información.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118. Ninguna autoridad podrá ordenar la inhumación, en fosas comunes, de cadáveres o
 restos humanos sin identificar, antes de cumplir obligatoriamente con lo que establece el protocolo
@@ -3598,9 +3591,9 @@ DEL BANCO NACIONAL DE DATOS FORENSES</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119. El Banco Nacional de Datos Forenses está a cargo de la Fiscalía y que tiene por objeto
 concentrar la información relevante para la búsqueda e identificación de Personas Desaparecidas, así
@@ -3636,22 +3629,22 @@ deberán proporcionar la información que les sea requerida por la Fiscalía par
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-119" placement="bottom">
+            <note placementBase="#art-119." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-119" placement="bottom">
+            <note placementBase="#art-119." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-119" placement="bottom">
+            <note placementBase="#art-119." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-119" placement="bottom">
+            <note placementBase="#art-119." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120. Corresponde a la Fiscalía coordinar la operación y centralizar la información del Banco
 Nacional de Datos Forenses, así como administrar el Registro Forense Federal, en términos de lo que
@@ -3661,13 +3654,13 @@ forense y compartir la información con la Fiscalía, en términos de lo que est
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-120" placement="bottom">
+            <note placementBase="#art-120." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121. Los servicios periciales y los servicios médicos forenses de la Federación y de las
 Entidades Federativas deben capturar en el registro forense que corresponda, la información que
@@ -3679,9 +3672,9 @@ Nacional de Datos Forenses.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122. La autoridad pericial encargada de la toma de muestras debe informar a la persona que
 suministra la muestra o a su representante legal el uso que le dará a la información que recabe y
@@ -3691,9 +3684,9 @@ identificación de Personas Desaparecidas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123. La persona que proporcione información para análisis pericial debe otorgar previamente
 su consentimiento por escrito, y tiene derecho a designar, a su cargo, a peritos independientes para que
@@ -3712,9 +3705,9 @@ formulen deben cumplir las disposiciones de la legislación procesal penal aplic
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124. El Banco Nacional de Datos Forenses, además de la información pericial y forense, útil
 para la identificación de una persona, debe contar con una base de datos de información genética que
@@ -3736,9 +3729,9 @@ I del presente artículo con su aceptación expresa, informada y por escrito en 
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125. La información contenida en los registros forenses a que se refiere esta Sección puede
 utilizarse en otras investigaciones cuando aporte elementos para la localización de una persona, cuando
@@ -3747,9 +3740,9 @@ la reparación integral.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126. La información contenida en los registros forenses a que se refiere esta Sección puede
 ser confrontada con la información que esté en poder de otras autoridades e instituciones, nacionales o
@@ -3763,13 +3756,13 @@ Cuando se trate de personas migrantes desaparecidas en México, se estará a lo 
 disposiciones legales aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-126" placement="bottom">
+            <note placementBase="#art-126." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127. Los datos personales contenidos en el Banco Nacional de Datos Forenses deberán ser
 tratados de acuerdo con las disposiciones jurídicas aplicables en materia de transparencia y protección
@@ -3786,9 +3779,9 @@ DE LA DISPOSICIÓN DE CADÁVERES DE PERSONAS</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128. Los cadáveres o restos de personas cuya identidad se desconozca o no hayan sido
 reclamados no pueden ser incinerados, destruidos o desintegrados, ni disponerse de sus pertenencias.
@@ -3813,16 +3806,16 @@ En caso de emergencia sanitaria o desastres naturales, se adoptarán las medidas
 Secretaría de Salud.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-128" placement="bottom">
+            <note placementBase="#art-128." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-128" placement="bottom">
+            <note placementBase="#art-128." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129. Las autoridades correspondientes deben recabar, ingresar y actualizar las muestras
 necesarias para ingresar los datos al Registro Nacional de Personas Fallecidas No Identificadas y No
@@ -3837,13 +3830,13 @@ individualizada, con las medidas que garanticen toda la información requerida p
 en un lugar claramente identificado que permita su posterior localización.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130. Para efectos de lo dispuesto en esta Sección, la Conferencia Nacional de Procuración
 de Justicia y la Secretaría de Salud, determinarán las técnicas y procedimientos que deberán aplicarse
@@ -3854,9 +3847,9 @@ DE LAS HERRAMIENTAS TECNOLÓGICAS</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131. Las bases y los registros a que se refiere esta Ley deben estar diseñados de tal forma
 que:
@@ -3867,15 +3860,8 @@ operación, mapas criminológicos, estructura y actividad de grupos de delincuen
 entre otros;
 III. Cuenten con las características técnicas y soporte tecnológico adecuado, de conformidad con
 los lineamientos que para tal efecto emita la Fiscalía, los que deberán ser acordes con los
-lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
-              <content>
-                <p>artículo 53 de esta Ley, y
+lineamientos que emita la Comisión Nacional de Búsqueda en términos de la fracción XIV del
+artículo 53 de esta Ley, y
 
 IV. Permitan su actualización permanente por parte de las Fiscalías Especializadas y demás
 autoridades competentes, en términos de lo previsto en esta Ley.
@@ -3887,13 +3873,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-131." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132. La Fiscalía debe emitir los lineamientos tecnológicos necesarios para garantizar que los
 registros y el Banco Nacional de Datos Forenses a que se refiere este Título cuenten con las
@@ -3912,19 +3898,19 @@ Registro Nacional.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133. Además de lo establecido en este Capítulo, la Federación y las Entidades Federativas,
 deberán contar, al menos, con:
@@ -3941,19 +3927,19 @@ información tecnológica y de inteligencia artificial.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-133" placement="bottom">
+            <note placementBase="#art-133." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-133" placement="bottom">
+            <note placementBase="#art-133." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-133" placement="bottom">
+            <note placementBase="#art-133." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134. El Programa Nacional de Búsqueda y Localización, a cargo de la Comisión Nacional de
 Búsqueda, deberá contener, como mínimo:
@@ -4001,9 +3987,9 @@ plazo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135. La elaboración del Programa Nacional de Exhumaciones e Identificación Forense, a
 cargo de la Fiscalía, deberá contener, como mínimo:
@@ -4055,16 +4041,16 @@ la opinión de la Comisión Nacional de Búsqueda y expertos en la materia.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-135" placement="bottom">
+            <note placementBase="#art-135." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-135" placement="bottom">
+            <note placementBase="#art-135." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136. La Comisión Ejecutiva y las Comisiones de Víctimas deben proporcionar, en el ámbito
 de sus atribuciones, medidas de ayuda, asistencia y atención, por sí mismas o en coordinación con otras
@@ -4072,9 +4058,9 @@ instituciones competentes, en los términos del presente Título y de la Ley Gen
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137. Las Víctimas directas de los delitos de desaparición forzada de personas y desaparición
 cometida por particulares tendrán, además de los derechos a la verdad, memoria, el acceso a la justicia,
@@ -4097,16 +4083,16 @@ los Familiares y personas autorizadas de acuerdo a lo establecido en la presente
 aplicable.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-137" placement="bottom">
+            <note placementBase="#art-137." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
-            <note placementBase="#art-137" placement="bottom">
+            <note placementBase="#art-137." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>Artículo 138. Los Familiares de las Víctimas de los delitos de desaparición forzada de personas y
 desaparición por particulares tendrán, además de los derechos contenidos en otros ordenamientos
@@ -4147,20 +4133,27 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>Artículo 139. Los Familiares, a partir del momento en que tengan conocimiento de la desaparición, y
 lo hagan del conocimiento de la autoridad competente, pueden solicitar y tienen derecho a recibir de
-inmediato y sin restricción alguna, las medidas de ayuda, asistencia y atención previstas en los Títulos
-Segundo, Tercero y Cuarto de la Ley General de Víctimas.</p>
+inmediato y sin restricción alguna, las medidas de ayuda, asistencia y atención previstas en los Títulos</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo, Tercero y Cuarto de la Ley General de Víctimas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>Artículo 140. Las medidas a que se refiere el artículo anterior deben ser proporcionadas por la
 Comisión Ejecutiva y las Comisiones de Víctimas en tanto realizan las gestiones para que otras
@@ -4171,9 +4164,9 @@ grupal o familiar, según corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>Artículo 141. Cuando durante la búsqueda o investigación exista un cambio de fuero, las Víctimas
 deben seguir recibiendo las medidas de ayuda, asistencia y atención por la Comisión de Atención a
@@ -4182,9 +4175,9 @@ Víctimas del fuero que corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>Artículo 142. Los Familiares, otras personas legitimadas por la ley y el Ministerio Público podrán
 solicitar a la autoridad jurisdiccional en materia civil que corresponda según la competencia, que emita la
@@ -4200,9 +4193,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>Artículo 143. Para determinar la competencia de la autoridad jurisdiccional que conozca de la
 Declaración Especial de Ausencia se estará a cualquiera de los siguientes criterios:
@@ -4213,9 +4206,9 @@ IV. El lugar en donde se esté llevando a cabo la investigación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>Artículo 144. Las leyes de la Federación y de las Entidades Federativas deben establecer el
 procedimiento a que se refiere este Capítulo, sin que el plazo para resolver sobre la Declaración Especial
@@ -4240,9 +4233,9 @@ desistirse de continuar con el procedimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>Artículo 145. La Declaración Especial de Ausencia tiene como finalidad:
 I. Reconocer y proteger la personalidad jurídica y los derechos de la Persona Desaparecida, y
@@ -4251,9 +4244,9 @@ Persona Desaparecida.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-146">
-            <num>Artículo 146</num>
-            <paragraph id="art-146-para-1">
+          <article id="art-146.">
+            <num>Artículo 146.</num>
+            <paragraph id="art-146.-para-1">
               <content>
                 <p>Artículo 146. La Declaración Especial de Ausencia tendrá, como mínimo, los siguientes efectos:
 I. Garantizar la conservación de la patria potestad de la Persona Desaparecida y la protección de los
@@ -4285,18 +4278,18 @@ restablecimiento de sus derechos y cumplimiento de obligaciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-147">
-            <num>Artículo 147</num>
-            <paragraph id="art-147-para-1">
+          <article id="art-147.">
+            <num>Artículo 147.</num>
+            <paragraph id="art-147.-para-1">
               <content>
                 <p>Artículo 147. La Declaración Especial de Ausencia sólo tiene efectos de carácter civil, por lo que no
 produce efectos de prescripción penal ni constituye prueba plena en otros procesos judiciales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-148">
-            <num>Artículo 148</num>
-            <paragraph id="art-148-para-1">
+          <article id="art-148.">
+            <num>Artículo 148.</num>
+            <paragraph id="art-148.-para-1">
               <content>
                 <p>Artículo 148. La Comisión Nacional de Búsqueda debe continuar con la búsqueda, de conformidad
 con esta Ley, así como de las Fiscalías Especializadas de continuar con la investigación y persecución
@@ -4305,9 +4298,9 @@ solicitado la Declaración Especial de Ausencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-149">
-            <num>Artículo 149</num>
-            <paragraph id="art-149-para-1">
+          <article id="art-149.">
+            <num>Artículo 149.</num>
+            <paragraph id="art-149.-para-1">
               <content>
                 <p>Artículo 149. Si la Persona Desaparecida declarada ausente es localizada con vida, ésta puede
 solicitar, ante el órgano jurisdiccional que declaró la ausencia, la recuperación de sus bienes.
@@ -4316,9 +4309,9 @@ competente iniciar los procedimientos que conforme a la legislación civil aplic
               </content>
             </paragraph>
           </article>
-          <article id="art-150">
-            <num>Artículo 150</num>
-            <paragraph id="art-150-para-1">
+          <article id="art-150.">
+            <num>Artículo 150.</num>
+            <paragraph id="art-150.-para-1">
               <content>
                 <p>Artículo 150. Las Víctimas de los delitos establecidos en la presente Ley tienen derecho a ser
 reparadas integralmente conforme a las medidas de restitución, rehabilitación, compensación,
@@ -4328,9 +4321,9 @@ El derecho para que la víctima solicite la reparación integral es imprescripti
               </content>
             </paragraph>
           </article>
-          <article id="art-151">
-            <num>Artículo 151</num>
-            <paragraph id="art-151-para-1">
+          <article id="art-151.">
+            <num>Artículo 151.</num>
+            <paragraph id="art-151.-para-1">
               <content>
                 <p>Artículo 151. La reparación integral a las Víctimas de los delitos establecidos en la presente Ley
 comprenderá, además de lo establecido en la Ley General de Víctimas y en la jurisprudencia de la Corte
@@ -4355,9 +4348,9 @@ administrativos y/o judiciales que correspondan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-152">
-            <num>Artículo 152</num>
-            <paragraph id="art-152-para-1">
+          <article id="art-152.">
+            <num>Artículo 152.</num>
+            <paragraph id="art-152.-para-1">
               <content>
                 <p>Artículo 152. La Federación y las Entidades Federativas, en el ámbito de sus respectivas
 competencias, son responsables de asegurar la reparación integral a las Víctimas por Desaparición
@@ -4382,9 +4375,9 @@ competencias acciones de bienestar integral, con énfasis para hijos e hijas de 
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-153">
-            <num>Artículo 153</num>
-            <paragraph id="art-153-para-1">
+          <article id="art-153.">
+            <num>Artículo 153.</num>
+            <paragraph id="art-153.-para-1">
               <content>
                 <p>Artículo 153. Las Fiscalías Especializadas, en el ámbito de sus respectivas competencias, deben
 establecer programas para la protección de las Víctimas, los Familiares y toda persona involucrada en el
@@ -4411,9 +4404,9 @@ campo, garantizando todas las medidas de protección a su integridad física.</p
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
+          <article id="art-154.">
+            <num>Artículo 154.</num>
+            <paragraph id="art-154.-para-1">
               <content>
                 <p>Artículo 154. Las Fiscalías Especializadas pueden otorgar, con apoyo de la Comisión Ejecutiva y de
 las Comisiones de Víctimas, como medida urgente de protección la reubicación temporal, la protección
@@ -4429,9 +4422,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-155">
-            <num>Artículo 155</num>
-            <paragraph id="art-155-para-1">
+          <article id="art-155.">
+            <num>Artículo 155.</num>
+            <paragraph id="art-155.-para-1">
               <content>
                 <p>Artículo 155. Las Fiscalías Especializadas pueden otorgar, con apoyo de la Comisión Ejecutiva y de
 las Comisiones de Víctimas, como medida de protección para enfrentar el riesgo, la entrega de equipo
@@ -4444,9 +4437,9 @@ lo dispuesto en la Ley para la Protección de Personas Defensoras de Derechos Hu
               </content>
             </paragraph>
           </article>
-          <article id="art-156">
-            <num>Artículo 156</num>
-            <paragraph id="art-156-para-1">
+          <article id="art-156.">
+            <num>Artículo 156.</num>
+            <paragraph id="art-156.-para-1">
               <content>
                 <p>Artículo 156. La incorporación a los programas de protección de personas a que se refiere el artículo
 153 de esta Ley debe ser autorizada por el agente del Ministerio Público encargado de la investigación o
@@ -4454,18 +4447,18 @@ por los titulares de las Fiscalías Especializadas correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-157">
-            <num>Artículo 157</num>
-            <paragraph id="art-157-para-1">
+          <article id="art-157.">
+            <num>Artículo 157.</num>
+            <paragraph id="art-157.-para-1">
               <content>
                 <p>Artículo 157. La información y documentación relacionada con las personas protegidas debe ser
 tratada con estricta reserva o confidencialidad, según corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-158">
-            <num>Artículo 158</num>
-            <paragraph id="art-158-para-1">
+          <article id="art-158.">
+            <num>Artículo 158.</num>
+            <paragraph id="art-158.-para-1">
               <content>
                 <p>Artículo 158. La Secretaría de Gobernación, la Fiscalía, así como las Fiscalías y Procuradurías
 Locales y las Instituciones de Seguridad Pública deberán coordinarse para implementar las medidas de
@@ -4475,13 +4468,13 @@ Lo anterior con independencia de las establecidas en la Ley General para la Prev
 Violencia y la Delincuencia, así como en la Ley General del Sistema Nacional de Seguridad Pública.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-158" placement="bottom">
+            <note placementBase="#art-158." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-159">
-            <num>Artículo 159</num>
-            <paragraph id="art-159-para-1">
+          <article id="art-159.">
+            <num>Artículo 159.</num>
+            <paragraph id="art-159.-para-1">
               <content>
                 <p>Artículo 159. Todo establecimiento, instalación o cualquier sitio en control de las autoridades
 federales, estatales o municipales en donde pudieran encontrarse personas en privación de la libertad,
@@ -4490,9 +4483,9 @@ grabaciones deberán almacenarse de forma segura por dos años.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-160">
-            <num>Artículo 160</num>
-            <paragraph id="art-160-para-1">
+          <article id="art-160.">
+            <num>Artículo 160.</num>
+            <paragraph id="art-160.-para-1">
               <content>
                 <p>Artículo 160. La Fiscalía, así como las Fiscalías y Procuradurías Locales deben administrar bases de
 datos estadísticas relativas a la incidencia de los delitos previstos en esta Ley, garantizando que los
@@ -4506,13 +4499,13 @@ zonas de alto riesgo en los que aumente la probabilidad de comisión de alguno d
 esta Ley para garantizar su prevención.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-160" placement="bottom">
+            <note placementBase="#art-160." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-161">
-            <num>Artículo 161</num>
-            <paragraph id="art-161-para-1">
+          <article id="art-161.">
+            <num>Artículo 161.</num>
+            <paragraph id="art-161.-para-1">
               <content>
                 <p>Artículo 161. El Sistema Nacional, a través de la Comisión Nacional de Búsqueda, la Secretaría de
 Gobernación, la Fiscalía, así como las Fiscalías y Procuradurías Locales y las Instituciones de Seguridad
@@ -4562,16 +4555,16 @@ a este delito, que permitan la elaboración de políticas públicas que lo preve
 XII. Las demás que establezcan otras disposiciones jurídicas aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-161" placement="bottom">
+            <note placementBase="#art-161." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-161" placement="bottom">
+            <note placementBase="#art-161." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-162">
-            <num>Artículo 162</num>
-            <paragraph id="art-162-para-1">
+          <article id="art-162.">
+            <num>Artículo 162.</num>
+            <paragraph id="art-162.-para-1">
               <content>
                 <p>Artículo 162. Las Fiscalías Especializadas deben intercambiar la información que favorezca la
 investigación de los delitos previstos en esta Ley y que permita la identificación y sanción de los
@@ -4585,9 +4578,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-163">
-            <num>Artículo 163</num>
-            <paragraph id="art-163-para-1">
+          <article id="art-163.">
+            <num>Artículo 163.</num>
+            <paragraph id="art-163.-para-1">
               <content>
                 <p>Artículo 163. La Fiscalía, así como las Fiscalías y Procuradurías Locales deben diseñar los
 mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta
@@ -4595,13 +4588,13 @@ Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-163" placement="bottom">
+            <note placementBase="#art-163." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-164">
-            <num>Artículo 164</num>
-            <paragraph id="art-164-para-1">
+          <article id="art-164.">
+            <num>Artículo 164.</num>
+            <paragraph id="art-164.-para-1">
               <content>
                 <p>Artículo 164. El Sistema Nacional, a través de la Secretaría de Gobernación y con la participación de
 la Comisión Nacional de Búsqueda, debe coordinar el diseño y aplicación de programas que permitan
@@ -4612,9 +4605,9 @@ delitos conexos y la desigualdad social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-165">
-            <num>Artículo 165</num>
-            <paragraph id="art-165-para-1">
+          <article id="art-165.">
+            <num>Artículo 165.</num>
+            <paragraph id="art-165.-para-1">
               <content>
                 <p>Artículo 165. Los programas de prevención a que se refiere el presente Título deben incluir metas e
 indicadores a efecto de evaluar las capacitaciones y procesos de sensibilización impartidos a servidores
@@ -4622,13 +4615,13 @@ públicos, sector privado y población general.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-165" placement="bottom">
+            <note placementBase="#art-165." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-166">
-            <num>Artículo 166</num>
-            <paragraph id="art-166-para-1">
+          <article id="art-166.">
+            <num>Artículo 166.</num>
+            <paragraph id="art-166.-para-1">
               <content>
                 <p>Artículo 166. La Federación, las Entidades Federativas, los municipios y demarcaciones territoriales
 de la Ciudad de México están obligados a remitir anualmente al Centro Nacional de Prevención del Delito
@@ -4642,9 +4635,9 @@ materia de transparencia, acceso a la información pública y protección de dat
               </content>
             </paragraph>
           </article>
-          <article id="art-167">
-            <num>Artículo 167</num>
-            <paragraph id="art-167-para-1">
+          <article id="art-167.">
+            <num>Artículo 167.</num>
+            <paragraph id="art-167.-para-1">
               <content>
                 <p>Artículo 167. La Comisión Nacional de Búsqueda, las Fiscalías Especializadas y la autoridad
 municipal que el titular del Ayuntamiento determine deben establecer programas obligatorios de
@@ -4654,9 +4647,9 @@ y acciones previstas en este ordenamiento, con la finalidad de prevenir la comis
               </content>
             </paragraph>
           </article>
-          <article id="art-168">
-            <num>Artículo 168</num>
-            <paragraph id="art-168-para-1">
+          <article id="art-168.">
+            <num>Artículo 168.</num>
+            <paragraph id="art-168.-para-1">
               <content>
                 <p>Artículo 168. La Fiscalía, así como las Fiscalías Locales y las instituciones de Seguridad Pública, con
 el apoyo de la Comisión Nacional de Búsqueda, deben capacitar, en el ámbito de sus competencias, al
@@ -4668,13 +4661,13 @@ psicosocial.
 , 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-168" placement="bottom">
+            <note placementBase="#art-168." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-169">
-            <num>Artículo 169</num>
-            <paragraph id="art-169-para-1">
+          <article id="art-169.">
+            <num>Artículo 169.</num>
+            <paragraph id="art-169.-para-1">
               <content>
                 <p>Artículo 169. Las Instituciones de Seguridad Pública seleccionarán, de conformidad con los
 procedimientos de evaluación y controles de confianza aplicables, al personal policial que conformará los
@@ -4688,9 +4681,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-170">
-            <num>Artículo 170</num>
-            <paragraph id="art-170-para-1">
+          <article id="art-170.">
+            <num>Artículo 170.</num>
+            <paragraph id="art-170.-para-1">
               <content>
                 <p>Artículo 170. La Comisión Nacional de Búsqueda emitirá los lineamientos que permitan a cada orden
 de gobierno determinar el número de integrantes que conformarán los Grupos de Búsqueda de
@@ -4699,9 +4692,9 @@ particulares, así como de Personas No Localizadas que existan en cada Entidad F
               </content>
             </paragraph>
           </article>
-          <article id="art-171">
-            <num>Artículo 171</num>
-            <paragraph id="art-171-para-1">
+          <article id="art-171.">
+            <num>Artículo 171.</num>
+            <paragraph id="art-171.-para-1">
               <content>
                 <p>Artículo 171. La Fiscalía, así como las Fiscalías Locales y las instituciones de seguridad pública
 deben brindar formación continua, así como certificar a su personal en las competencias y habilidades
@@ -4709,13 +4702,13 @@ necesarias para dar cumplimiento a lo previsto en la presente Ley.
 , 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-171" placement="bottom">
+            <note placementBase="#art-171." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-172">
-            <num>Artículo 172</num>
-            <paragraph id="art-172-para-1">
+          <article id="art-172.">
+            <num>Artículo 172.</num>
+            <paragraph id="art-172.-para-1">
               <content>
                 <p>Artículo 172. Sin perjuicio de lo dispuesto en los artículos 170 y 171, la Fiscalía, las Procuradurías
 Locales y las Instituciones de Seguridad Pública deben capacitar a todo el personal policial respecto de
@@ -4724,13 +4717,13 @@ conocimiento, por cualquier medio, de la desaparición o no localización de una
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-172" placement="bottom">
+            <note placementBase="#art-172." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-173">
-            <num>Artículo 173</num>
-            <paragraph id="art-173-para-1">
+          <article id="art-173.">
+            <num>Artículo 173.</num>
+            <paragraph id="art-173.-para-1">
               <content>
                 <p>Artículo 173. La Comisión Ejecutiva y las Comisiones de Víctimas deben capacitar a sus servidores
 públicos, conforme a los más altos estándares internacionales, para brindar medidas de ayuda, asistencia
@@ -4740,18 +4733,39 @@ Además de lo establecido en el párrafo anterior, la Comisión Ejecutiva y las 
 deben implementar programas de difusión a efecto de dar a conocer los servicios y medidas que brindan
 a las Víctimas de los delitos a que se refiere esta Ley, en términos de lo previsto en este ordenamiento.
 ARTÍCULOS SEGUNDO Y TERCERO.- ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial
 de la Federación.
 A partir de la entrada en vigor del presente Decreto y hasta la emisión de los instrumentos a que se
 refiere el Artículo Décimo Cuarto Transitorio, la Procuraduría y las Procuradurías Locales y demás
 autoridades deberán cumplir con las obligaciones de búsqueda conforme a los ordenamientos que se
 hayan expedido con anterioridad, siempre que no se opongan a esta Ley.
 La Procuraduría y las Procuradurías Locales, además de los protocolos previstos en esta Ley,
-continuarán aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.
-Segundo. Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o
-Desaparecidas.
-Tercero. Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en
+continuarán aplicando los protocolos existentes de búsqueda de personas en situación de vulnerabilidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley del Registro Nacional de Datos de Personas Extraviadas o
+Desaparecidas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las Fiscalías Especializadas y la Comisión Nacional de Búsqueda entrarán en
 funcionamiento dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 Dentro de los treinta días siguientes a que la Comisión Nacional de Búsqueda inicie sus funciones,
 ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 53, fracción VIII,
@@ -4773,37 +4787,65 @@ La Comisión Nacional de Búsqueda y las comisiones locales podrán, a partir de
 funcionamiento, ejercer las atribuciones que esta Ley les confiere con relación a los procesos de
 búsqueda que se encuentren pendientes. La Comisión Nacional de Búsqueda coordinará la búsqueda de
 las personas desaparecidas relacionadas con búsquedas en las que, a la entrada en vigor de esta Ley,
-participen autoridades federales.
-Cuarto. Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa
+participen autoridades federales.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las Comisiones Locales de Búsqueda deberán entrar en funciones a partir de los noventa
 días posteriores a la entrada en vigor del presente Decreto.
 La Comisión Nacional de Búsqueda deberá brindar la asesoría necesaria a las entidades federales
-para el establecimiento de sus Comisiones Locales de Búsqueda.
-Quinto. El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la
+para el establecimiento de sus Comisiones Locales de Búsqueda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. El Consejo Ciudadano deberá estar conformado dentro de los noventa días posteriores a la
 entrada en vigor del presente Decreto.
 En un plazo de treinta días posteriores a su conformación el Consejo Ciudadano deberá emitir sus
-reglas de funcionamiento.
-Sexto. El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento
+reglas de funcionamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El Sistema Nacional de Búsqueda de Personas deberá quedar instalado dentro de los ciento
 ochenta días posteriores a la publicación del presente Decreto.
 En la primera sesión ordinaria del Sistema Nacional de Búsqueda, se deberán emitir los lineamientos
 y modelos a que se refiere el artículo 49, fracciones I, VIII, XV y XVI de esta Ley.
 En la segunda sesión ordinaria del Sistema Nacional de Búsqueda, que se lleve conforme a lo
-dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el</p>
+dispuesto por esta Ley, se deberán emitir los criterios de certificación y especialización previstos en el
+artículo 55.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
               <content>
-                <p>artículo 55.
-Séptimo. Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el
+                <p>Séptimo. Dentro de los ciento ochenta días siguientes a la emisión de los lineamientos previstos en el
 artículo transitorio anterior, la Comisión Nacional de Búsqueda deberá contar con la infraestructura
 tecnológica necesaria y comenzar a operar el Registro Nacional de Personas Desaparecidas y No
 Localizadas.
 Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas
 Desaparecidas y No Localizadas, las Entidades Federativas deberán poner en marcha sus registros de
-Personas Desaparecidas y No Localizadas.
-Octavo. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las
+Personas Desaparecidas y No Localizadas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. En tanto comiencen a operar los registros de Personas Desaparecidas y No Localizadas, las
 Procuradurías Locales deberán incorporar en un registro provisional, electrónico o impreso, la
 información de los Reportes, Denuncias o Noticias recibidas conforme a lo que establece el artículo 106
 de esta Ley.
@@ -4815,8 +4857,15 @@ LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMET
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. El Congreso de la Unión deberá legislar en materia de Declaración Especial de Ausencia
 dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el presente Decreto.
 Las Entidades Federativas deberán emitir y, en su caso, armonizar la legislación que corresponda a
 su ámbito de competencia dentro de los ciento ochenta días siguientes a la fecha en que entre en vigor el
@@ -4824,8 +4873,15 @@ presente Decreto.
 En aquellas Entidades Federativas en las que no se haya llevado a cabo la armonización prevista en
 el Capítulo Tercero del Título Cuarto de esta Ley, dentro del plazo señalado en el párrafo anterior,
 resultarán aplicables las disposiciones del referido Capítulo no obstante lo previsto en la legislación local
-aplicable.
-Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones
+aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. A partir de la entrada en vigor de este Decreto, para el caso en que las disposiciones
 contenidas en el mismo contemplen la descripción legal de conductas previstas en otras normas como
 delitos y por virtud de la presente Ley se denominan, tipifican, penalizan o agravan de forma diversa,
 siempre y cuando la conducta y los hechos correspondan a la descripción que ahora se establece, se
@@ -4846,11 +4902,25 @@ Tribunal que corresponda, podrá efectuar la traslación del tipo de conformidad
 haya probado, incluyendo sus modalidades, sin exceder el monto de las penas señaladas en la
 respectiva ley vigente al momento de la comisión de los hechos, y
 VI. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará
-las penas que se hayan impuesto, según las modalidades correspondientes.
-Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en
+las penas que se hayan impuesto, según las modalidades correspondientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en
 vigor del presente Decreto, deberá expedir y armonizar las disposiciones reglamentarias que
-correspondan conforme a lo dispuesto en el presente Decreto.
-Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de
+correspondan conforme a lo dispuesto en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. Dentro de los treinta días siguientes a la creación de la Comisión Nacional de
 Búsqueda, el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública le transferirá las
 herramientas tecnológicas y la información que haya recabado en cumplimiento de lo dispuesto en la Ley
 del Registro Nacional de Datos de Personas Extraviadas o Desaparecidas.
@@ -4881,21 +4951,56 @@ cuyo caso, se asentará en el Registro Nacional de Personas Desaparecidas, y
 IV. Al haberse realizado la acción prevista en la fracción II de este artículo, de no haberse actualizado
 el registro, la Fiscalía Especializada que corresponda estará materialmente imposibilitada para
 actualizarlo. En este supuesto, el registro permanecerá con la anotación de actualización pendiente y
-será migrado, con ese carácter, al registro que corresponda.
-Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las
+será migrado, con ese carácter, al registro que corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. El Banco Nacional de Datos Forenses, los registros forenses Federal y el de las
 Entidades Federativas comenzarán a operar dentro del año siguiente a la entrada en vigor del presente
 Decreto.
 Dentro de los tres meses siguientes a que inicie la operación de dichos registros, las autoridades que
-posean información forense deberán incorporarla al registro que corresponda.
-Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente
+posean información forense deberán incorporarla al registro que corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente
 Decreto, la Conferencia Nacional de Procuración de Justicia deberá emitir el Protocolo Homologado de
-Investigación a que se refiere el artículo 99 de esta Ley.
-Décimo Quinto. Las autoridades e instituciones que recaban la información a que se refiere el artículo
-103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.
-Décimo Sexto. En las Entidades Federativas en las que no exista una Comisión de Atención a
+Investigación a que se refiere el artículo 99 de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Las autoridades e instituciones que recaban la información a que se refiere el artículo
+103 la deberán incorporar en un plazo de un año a partir de la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. En las Entidades Federativas en las que no exista una Comisión de Atención a
 Víctimas, las instituciones públicas competentes de la Entidad Federativa deberán brindar la atención a
-Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.
-Décimo Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente
+Víctimas conforme a lo establecido en el Título Cuarto de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente
 Decreto para las dependencias y entidades paraestatales de la Administración Pública Federal, se
 cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la
 Federación del ejercicio fiscal de que se trate.
@@ -4907,12 +5012,26 @@ LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMET
 PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Octavo. Los lineamientos para determinar las técnicas y procedimientos que deberán
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Octavo. Los lineamientos para determinar las técnicas y procedimientos que deberán
 aplicarse para la conservación de cadáveres o restos de personas a que refiere el artículo 130 de esta
 Ley deberán ser publicados en el Diario Oficial de la Federación dentro del plazo de ciento ochenta días a
-partir de la entrada en vigor de la presente Ley.
-Décimo Noveno. La Procuraduría General de la República debe emitir los lineamientos tecnológicos
+partir de la entrada en vigor de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Noveno. La Procuraduría General de la República debe emitir los lineamientos tecnológicos
 necesarios para garantizar que los registros y el Banco Nacional de Datos Forenses cuenten con las
 características técnicas y soporte tecnológico adecuado, conforme a lo previsto en los artículos 131,
 fracción III y 132, dentro del plazo de ciento ochenta días a partir de la entrada en vigor de esta Ley.
@@ -4921,13 +5040,27 @@ lineamientos necesarios para que las autoridades de los distintos órdenes de go
 homologada la información que será integrada al Registro Nacional de Personas Fallecidas No
 Identificadas y No Reclamadas y al Banco Nacional de Datos Forenses previstos en la Ley General en
 materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema
-Nacional de Búsqueda de Personas.
-Vigésimo. En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de
+Nacional de Búsqueda de Personas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo. En tanto las Entidades Federativas se encuentren en la integración de sus Comisiones de
 Búsqueda, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría
 de Gobierno de cada entidad.
 Asimismo, las Entidades Federativas deberán realizar las previsiones y adecuaciones presupuestales
-necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.
-Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente
+necesarias para dar cumplimiento a las obligaciones establecidas en este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Primero. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente
 Decreto, la Comisión Nacional de Búsqueda deberá emitir los lineamientos a que se refiere la fracción
 XIV del artículo 53 de la Ley.
 Ciudad de México, a 12 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge
@@ -4958,19 +5091,54 @@ Artículo Tercero.- Se adiciona un párrafo segundo al artículo 14 de la Ley Ge
 Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de
 Búsqueda de Personas, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente
-Decreto.
-Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente
 Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con
 anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que
-se haya cometido.
-Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo
-establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto,
+se haya cometido.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo
+establecido en la legislación vigente en el momento en que la misma haya quedado firme.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto,
 se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos
 Mexicanos.
 Ciudad de México, a 18 de febrero de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen.
@@ -4992,39 +5160,11 @@ Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan 
 diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Décimo Cuarto.- Se reforman la actual fracción XIX que pasa a ser la X y la actual fracción
-X para ser la XI recorriéndose las subsecuentes en su orden hasta la fracción XIX, y la fracción XXIII, del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
-              <content>
-                <p>artículo 4; la fracción III, los párrafos segundo, cuarto y quinto del artículo 45; el párrafo primero del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
-              <content>
-                <p>artículo 68, el párrafo segundo del artículo 69; el párrafo primero del artículo 70; el párrafo segundo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
-              <content>
-                <p>artículo 71; el artículo 74; el artículo 76; la fracción IV del artículo 81; los párrafos primero y cuarto del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
-              <content>
-                <p>artículo 111; el párrafo primero del artículo 113; los párrafos primero y sexto del artículo 119; el artículo
+X para ser la XI recorriéndose las subsecuentes en su orden hasta la fracción XIX, y la fracción XXIII, del
+artículo 4; la fracción III, los párrafos segundo, cuarto y quinto del artículo 45; el párrafo primero del
+artículo 68, el párrafo segundo del artículo 69; el párrafo primero del artículo 70; el párrafo segundo del
+artículo 71; el artículo 74; el artículo 76; la fracción IV del artículo 81; los párrafos primero y cuarto del
+artículo 111; el párrafo primero del artículo 113; los párrafos primero y sexto del artículo 119; el artículo
 120; el párrafo segundo del artículo 126; el párrafo segundo del artículo 128; la fracción III del artículo
 131; los párrafos primero y segundo del artículo 132; la fracción II del artículo 133; los párrafos primero y
 segundo del artículo 135; el párrafo primero del artículo 158; el párrafo primero del artículo 160; el párrafo
@@ -5032,23 +5172,51 @@ primero del artículo 161; el artículo 163; el artículo 168; el artículo 171 
 en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema
 Nacional de Búsqueda de Personas, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -5064,8 +5232,15 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -5091,13 +5266,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -5115,29 +5304,64 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -5148,8 +5372,15 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
@@ -5160,8 +5391,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -5169,12 +5407,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -5205,18 +5457,46 @@ tercero y cuarto del artículo 61 de la Ley General en Materia de Desaparición 
 Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, para quedar
 como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio
 constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General
 para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente
-Decreto.
-Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta
@@ -5246,20 +5526,62 @@ Septies, XXVI Octies y XXVI Nonies al artículo 53, y las fracciones III Bis y X
 Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y
 del Sistema Nacional de Búsqueda de Personas, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Centro Nacional deberá comenzar a operar a los noventa días siguientes de la entrada
-en vigor del presente Decreto.
-Tercero.- Iniciada la operación del Centro Nacional, la Comisión Nacional de Búsqueda tendrá
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El Centro Nacional deberá comenzar a operar a los noventa días siguientes de la entrada
+en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Iniciada la operación del Centro Nacional, la Comisión Nacional de Búsqueda tendrá
 noventa días para emitir los Lineamientos a que se refiere la fracción XXVI Septies del artículo 53 de la
-presente Ley.
-Cuarto.- El Sistema Nacional y la Conferencia Nacional de Procuración de Justicia tendrán ciento
+presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- El Sistema Nacional y la Conferencia Nacional de Procuración de Justicia tendrán ciento
 ochenta días para realizar las adecuaciones necesarias en el Protocolo Homologado de Investigación y el
-Protocolo Homologado de Búsqueda, respectivamente, conforme al presente Decreto.
-Quinto.- Quedan derogadas todas las disposiciones que se opongan al contenido del presente
-Decreto.
-Sexto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la
+Protocolo Homologado de Búsqueda, respectivamente, conforme al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Quedan derogadas todas las disposiciones que se opongan al contenido del presente
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la
 Administración Pública Federal y cualquier otro ente público en el ámbito de sus competencias, para dar
 cumplimiento a lo dispuesto en el presente Decreto, deberán cubrirse con cargo a sus respectivos
 presupuestos aprobados para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementarán
@@ -5329,19 +5651,47 @@ párrafo primero, la fracción XLIII, y 89, el párrafo tercero, de la Ley Gener
 Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de
 Personas, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El Sistema Nacional de Búsqueda de Personas sesionará a más tardar dentro de los treinta
-días hábiles siguientes a la entrada en vigor del presente Decreto.
-Segundo.- La Base Nacional de Carpetas de Investigación deberá estar disponible para la integración
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El Sistema Nacional de Búsqueda de Personas sesionará a más tardar dentro de los treinta
+días hábiles siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- La Base Nacional de Carpetas de Investigación deberá estar disponible para la integración
 de la información de las fiscalías dentro de los 180 días naturales siguientes a la entrada en vigor del
 presente Decreto.
 La Fiscalía, las Fiscalías Locales y las Fiscalías Especializadas contarán con un plazo no mayor a 30
 días hábiles para integrar su información a la Base Nacional de Carpetas de Investigación, contados a
-partir de que esté disponible conforme al párrafo anterior.
-Tercero.- La operación y funcionamiento de la Plataforma Única de Identidad, sistemas y registros
+partir de que esté disponible conforme al párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- La operación y funcionamiento de la Plataforma Única de Identidad, sistemas y registros
 materia de la Ley que se reforma se llevará a cabo con los recursos humanos, materiales y financieros,
-asignados a los entes públicos que correspondan.
-Cuarto.- Dentro de los 30 días siguientes a la entrada en vigor del presente Decreto las entidades
+asignados a los entes públicos que correspondan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Dentro de los 30 días siguientes a la entrada en vigor del presente Decreto las entidades
 federativas deberán armonizar sus leyes locales de la materia.
 79 de 81
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR
@@ -5352,9 +5702,23 @@ Secretaría de Servicios Parlamentarios
 Las leyes de las entidades federativas deberán implementar el contenido del presente Decreto,
 particularmente el artículo 68 de la Ley General en Materia de Desaparición Forzada de Personas,
 Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, dentro del
-término de 60 días naturales contados a partir de la armonización a que se refiere el párrafo anterior.
-Quinto.- Se abrogan todas las disposiciones que contravengan el presente Decreto.
-Sexto.- Las entidades federativas y municipios, en un plazo no mayor a 180 días naturales contados a
+término de 60 días naturales contados a partir de la armonización a que se refiere el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Se abrogan todas las disposiciones que contravengan el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- Las entidades federativas y municipios, en un plazo no mayor a 180 días naturales contados a
 partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regulen
 panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado
 a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al
@@ -5366,25 +5730,67 @@ II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los l
 técnicos emitidos por la Comisión Nacional de Búsqueda, y
 III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia de
 Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del
-Sistema Nacional de Búsqueda de Personas.
-Séptimo.- La Fiscalía y las Fiscalías Locales, en un plazo de 90 días contados a partir de la entrada
+Sistema Nacional de Búsqueda de Personas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- La Fiscalía y las Fiscalías Locales, en un plazo de 90 días contados a partir de la entrada
 en vigor del presente Decreto, deberán actualizar todos aquellos registros y bases de datos vinculados
-con el Banco Nacional de Datos Forenses.
-Octavo.- En un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del
-presente Decreto, el Ejecutivo Federal emitirá el reglamento al que remiten las disposiciones de la Ley.
-Noveno.- Los Institutos, Centros Forenses o cualquier autoridad que tenga a su cargo los servicios
+con el Banco Nacional de Datos Forenses.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- En un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del
+presente Decreto, el Ejecutivo Federal emitirá el reglamento al que remiten las disposiciones de la Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- Los Institutos, Centros Forenses o cualquier autoridad que tenga a su cargo los servicios
 periciales y/o de identificación y resguardo forense en las Entidades Federativas deberán contar con la
 sistematización de sus bases de datos, registros o sistemas, en un plazo no mayor al año siguiente de la
-entrada en vigor del presente Decreto.
-Décimo.- Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de
+entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo.- Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de
 personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la
 entrada en vigor del presente Decreto, deberán diseñar, en el ámbito de sus respectivas competencias,
 programas específicos para la atención del rezago de larga data y de reciente ingreso.
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para
 que los entes públicos puedan cumplir con lo previsto en este Decreto.
 80 de 81
 LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR

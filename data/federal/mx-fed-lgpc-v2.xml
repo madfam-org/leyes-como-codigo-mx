@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2012-06-06/lgpc/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2012-06-06/lgpc/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -79,9 +79,9 @@
       </chapter>
       <chapter id="chapter-18">
         <num>Capítulo XVIII De la Atención a la Población Rural Afectada por Contingencias Climatológicas</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es de orden público e interés social y tiene por objeto establecer las
 bases de coordinación entre los distintos órdenes de gobierno en materia de protección civil. Los sectores
@@ -90,13 +90,13 @@ que la misma establece.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Para los efectos de esta Ley se entiende por:
 I. Agente regulador: Lo constituyen las acciones, instrumentos, normas, obras y en general
@@ -387,22 +387,22 @@ grave riesgo, originado por un posible fenómeno perturbador.
 Fracción recorrida DOF 03-06-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción reformada DOF 21-12-2023</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción reformada DOF 03-06-2014</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. Los distintos órdenes de gobierno tratarán en todo momento que los programas y
 estrategias dirigidas al fortalecimiento de los instrumentos de organización y funcionamiento de las
@@ -410,13 +410,13 @@ instituciones de protección civil se sustenten en un enfoque de gestión integr
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. Las políticas públicas en materia de protección civil, se ceñirán al Plan Nacional de
 Desarrollo y al Programa Nacional de Protección Civil, identificando para ello las siguientes prioridades:
@@ -451,25 +451,25 @@ VIII. La atención prioritaria para la población vulnerable.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 07-04-2017</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 07-04-2017</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 07-04-2017</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción adicionada DOF 07-04-2017</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Las autoridades de protección civil, enumeradas en el artículo 27 de esta Ley, deberán
 actuar con base en los siguientes principios:
@@ -489,18 +489,18 @@ VIII. Honradez y de respeto a los derechos humanos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. La coordinación y aplicación de esta Ley, se hará con respeto absoluto a las atribuciones
 constitucionales y legales de las autoridades e instituciones que intervienen en el Sistema Nacional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. Corresponde al Ejecutivo Federal en materia de protección civil:
 I. Asegurar el correcto funcionamiento del Sistema Nacional y dictar los lineamientos generales
@@ -546,9 +546,9 @@ la homologación del marco normativo y las estructuras funcionales de la protecc
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. Los Poderes Legislativo y Judicial de la Unión, las entidades federativas, los municipios,
 las demarcaciones territoriales de la Ciudad de México, los organismos descentralizados, los organismos
@@ -557,13 +557,13 @@ coadyuvar para que las acciones de protección civil se realicen en forma coordi
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. La organización y la prestación de la política pública de protección civil corresponden al
 Estado quien deberá realizarlas en los términos de esta Ley y de su Reglamento, por conducto de la
@@ -580,13 +580,13 @@ fin de impulsar acciones a favor del aprendizaje y práctica de conductas segura
 aprovechamiento de los tiempos oficiales en los medios de comunicación electrónicos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. La Gestión Integral de Riesgos considera, entre otras, las siguientes fases anticipadas a
 la ocurrencia de un agente perturbador:
@@ -601,9 +601,9 @@ VII. Fortalecimiento de la resiliencia de la sociedad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Para que los particulares o dependencias públicas puedan ejercer la actividad de
 asesoría, capacitación, evaluación, elaboración de programas internos de protección civil, de continuidad
@@ -616,9 +616,9 @@ programas internos y especiales de protección civil.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. El emblema distintivo de la protección civil en el país deberá contener el adoptado en el
 ámbito internacional, conforme a la imagen institucional que se defina en el Reglamento y solamente será
@@ -626,9 +626,9 @@ utilizado por el personal y las instituciones autorizadas en los términos del p
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. Los medios de comunicación masiva electrónicos y escritos, al formar parte del Sistema
 Nacional, colaborarán con las autoridades con arreglo a los convenios que se concreten sobre el
@@ -640,9 +640,9 @@ transmisión de información pública acerca de la protección civil.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. El Sistema Nacional es un conjunto orgánico y articulado de estructuras, relaciones
 funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y
@@ -659,13 +659,13 @@ acciones coordinadas, en materia de protección civil.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. El objetivo general del Sistema Nacional es el de proteger a la persona y a la sociedad y
 su entorno ante la eventualidad de los riesgos y peligros que representan los agentes perturbadores y la
@@ -675,9 +675,9 @@ restablecimiento en la población.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. El Sistema Nacional se encuentra integrado por todas las dependencias y entidades de la
 administración pública federal, por los sistemas de protección civil de las entidades federativas, sus
@@ -691,13 +691,13 @@ justifique su utilidad, la información de carácter técnico, ya sea impresa, e
 relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Los gobernadores de los estados, el jefe de gobierno de la Ciudad de México, los
 presidentes municipales y los alcaldes de las demarcaciones territoriales de la Ciudad de México, tendrán
@@ -729,13 +729,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. Es responsabilidad de los gobiernos de las entidades federativas, conforme a su
 disponibilidad presupuestaria, la contratación de seguros y demás instrumentos de administración y
@@ -753,16 +753,16 @@ mejores condiciones para el Estado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. La coordinación ejecutiva del Sistema Nacional recaerá en la secretaría por conducto de
 la Coordinación Nacional, la cual tiene las atribuciones siguientes en materia de protección civil:
@@ -887,34 +887,34 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 22-12-2017</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción adicionada DOF 22-12-2017</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. Para el mejor cumplimiento de sus funciones, la Coordinación Nacional podrá integrar
 Comités Interinstitucionales para los diferentes agentes perturbadores, quienes apoyarán a las
@@ -934,16 +934,16 @@ la población en general, ante el peligro o riesgo específico derivado de un ag
 . Reformado DOF 19-01-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo adicionado DOF 03-06-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo adicionado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. En una situación de emergencia, el auxilio a la población debe constituirse en una
 función prioritaria de la protección civil, por lo que las instancias de coordinación deberán actuar en forma
@@ -973,16 +973,16 @@ En las acciones de gestión de riesgos se dará prioridad a los grupos sociales 
 escasos recursos económicos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. Las políticas, lineamientos y acciones de coordinación entre la federación, las entidades
 federativas, los municipios y demarcaciones territoriales de la Ciudad de México, se llevarán a cabo
@@ -997,13 +997,13 @@ coordinación, con pleno respeto de la autonomía de las entidades federativas y
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. El Centro Nacional es la institución técnica-científica de la Coordinación Nacional de
 Protección Civil encargada de crear, gestionar y promover políticas públicas en materia de prevención de
@@ -1015,9 +1015,9 @@ sociedad en su conjunto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. El Centro Nacional de Comunicación y Operación de Protección Civil, es la instancia
 operativa de comunicación, alertamiento, información, apoyo permanente y enlace entre los integrantes
@@ -1031,9 +1031,9 @@ en el Reglamento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. Las autoridades correspondientes en su ámbito de competencia llevarán a cabo
 proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de
@@ -1042,9 +1042,9 @@ riesgos que pongan en peligro la vida y que puedan provocar daños a la poblaci�
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. El Consejo Nacional es un órgano gubernamental consultivo en materia de protección
 civil. Sus atribuciones son las siguientes:
@@ -1091,16 +1091,16 @@ XIV. Las demás que se establezcan en otras disposiciones normativas y las que s
 para el funcionamiento del Sistema Nacional.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. El Consejo Nacional estará integrado por el Presidente de la República, quien lo presidirá
 y por los titulares de las Secretarías de Estado, los Gobernadores de los Estados, el Jefe de Gobierno de
@@ -1115,13 +1115,13 @@ Los integrantes del Consejo Consultivo podrán ser convocados a las sesiones del
 por invitación que formule el Secretario Ejecutivo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. El Secretario de Seguridad y Protección Ciudadana será el Secretario Ejecutivo del
 Consejo Nacional. El Secretario Técnico será el Coordinador Nacional de Protección Civil.
@@ -1133,13 +1133,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Artículo reformado DOF 21-12-2023</p>
           </note>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. El Consejo Nacional sesionará ordinariamente en pleno por lo menos una vez al año y
 extraordinariamente cuando sea convocado por el Presidente de la República. Corresponde al Secretario
@@ -1177,16 +1177,16 @@ XIII. Las demás que le otorga esta Ley y demás disposiciones aplicables, así 
 encomiende el Consejo Nacional o su Presidente.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Fracción reformada DOF 06-11-2020</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Corresponde al Secretario Técnico:
 I. Suplir al secretario ejecutivo en sus ausencias;
@@ -1210,9 +1210,9 @@ encomendadas por el Presidente o el Secretario Ejecutivo del Consejo Nacional.</
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. La Coordinación Nacional de Protección Civil, para efectos presupuestarios dependerá
 del presupuesto de la Secretaría de Seguridad y Protección Ciudadana, la cual contemplará en cada
@@ -1220,13 +1220,13 @@ ejercicio presupuestario los recursos necesarios para que la Coordinación reali
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-31" placement="bottom">
+          <note placementBase="#art-31." placement="bottom">
             <p>Artículo reformado DOF 21-12-2023</p>
           </note>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32. El Comité Nacional es el mecanismo de coordinación de las acciones en situaciones de
 emergencia y desastre ocasionadas por la presencia de agentes perturbadores que pongan en riesgo a la
@@ -1236,9 +1236,9 @@ establezcan en el Reglamento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33. El Comité Nacional estará constituido por los titulares o por un representante de las
 dependencias y entidades de la administración pública federal, con rango no inferior al de director general
@@ -1264,16 +1264,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Párrafo reformado DOF 21-12-2023</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34. El Comité Nacional tendrá las siguientes atribuciones:
 I. Analizar la situación de emergencia o desastre que afecte al país, a fin de evaluar el alcance del
@@ -1289,9 +1289,9 @@ V. Emitir boletines y comunicados conjuntos hacia los medios de comunicación y 
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35. El Programa Nacional, en el marco del Plan Nacional de Desarrollo, es el conjunto de
 objetivos, políticas, estrategias, líneas de acción y metas para cumplir con el objetivo del Sistema
@@ -1299,9 +1299,9 @@ Nacional, según lo dispuesto por la Ley de Planeación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36. El Programa Nacional, estará basado en los principios que establece esta Ley, la Ley de
 Planeación, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad en
@@ -1309,9 +1309,9 @@ materia de planeación, transparencia y rendición de cuentas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37. En la elaboración de los programas de protección civil de las entidades federativas,
 municipios y demarcaciones territoriales de la Ciudad de México, deberán considerarse las líneas
@@ -1320,13 +1320,13 @@ de Riesgos y conforme lo establezca la normatividad local en materia de planeaci
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38. Los Programas Especiales de Protección Civil son el instrumento de planeación y
 operación que se implementa con la participación corresponsable de diversas dependencias e
@@ -1337,9 +1337,9 @@ etapas consideradas en la Gestión Integral de Riesgos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39. El Programa Interno de Protección Civil se lleva a cabo en cada uno de los inmuebles
 para mitigar los riesgos previamente identificados y estar en condiciones de atender la eventualidad de
@@ -1361,13 +1361,13 @@ Para el caso de las unidades hospitalarias, en la elaboración del programa inte
 en consideración los lineamientos establecidos en el Programa Hospital Seguro.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-39" placement="bottom">
+          <note placementBase="#art-39." placement="bottom">
             <p>Párrafo adicionado DOF 23-06-2017</p>
           </note>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40. Los inmuebles e instalaciones fijas y móviles de las dependencias, entidades,
 instituciones, organismos, industrias o empresas pertenecientes a los sectores público, privado y social, a
@@ -1379,9 +1379,9 @@ El contenido y las especificaciones de este tipo de programas, se precisarán en
             </content>
           </paragraph>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41. Las autoridades federales, de las entidades federativas, municipales y demarcaciones
 territoriales de la Ciudad de México, fomentarán la cultura en materia de protección civil entre la
@@ -1394,22 +1394,22 @@ La población vulnerable y expuesta a un peligro, tiene derecho a estar informad
 con las vías adecuadas de opinión y participación en la gestión del riesgo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42. Corresponde a la Secretaría dictar los lineamientos generales y diseñar formas para
 inducir y conducir la formación de una cultura de protección civil.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43. A fin de fomentar dicha cultura, las autoridades correspondientes dentro de sus
 respectivos ámbitos de competencia, deberán:
@@ -1432,9 +1432,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44. Los integrantes del Sistema Nacional promoverán mecanismos para motivar y facilitar la
 participación de sus dependencias de forma activa, real, concreta y responsable en acciones específicas
@@ -1442,9 +1442,9 @@ que reflejen una cultura de prevención en protección civil.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45. Las autoridades correspondientes en su ámbito de competencia llevarán a cabo
 proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de
@@ -1453,9 +1453,9 @@ la vida y que puedan provocar daños irreversibles a la población.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46. La profesionalización de los integrantes del Sistema Nacional será permanente y tendrá
 por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus
@@ -1465,13 +1465,13 @@ materia.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-46" placement="bottom">
+          <note placementBase="#art-46." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47. Para los efectos del artículo anterior, cada entidad federativa y cada municipio, se
 sujetará a la normatividad que exista en materia de servicio civil de carrera o la que haga sus veces, en la
@@ -1485,9 +1485,9 @@ públicos responsables de la protección civil.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48. La normatividad correspondiente precisará y detallará todos los rubros que atañen a los
 puestos de mando y jerarquías de las Unidades de las entidades federativas, Municipales y de las
@@ -1495,13 +1495,13 @@ demarcaciones territoriales de la Ciudad de México de Protección Civil.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-48" placement="bottom">
+          <note placementBase="#art-48." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>Artículo 49. La Escuela Nacional de Protección Civil es una instancia dependiente de la Coordinación
 Nacional por conducto del CENAPRED, orientada a la formación sistemática e institucionalizada de
@@ -1524,22 +1524,22 @@ cualificaciones.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-49" placement="bottom">
+          <note placementBase="#art-49." placement="bottom">
             <p>Párrafo adicionado DOF 23-06-2017</p>
           </note>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>Artículo 50. La estructura, organización y operación de la Escuela Nacional de Protección Civil se
 especificará en las disposiciones normativas que para tal efecto emita la Coordinación Nacional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>Artículo 51. Para desarrollar actividades especializadas en materia de protección civil, tales como
 tareas de rescate y auxilio, combate a incendios, administración de albergues y centros de acopio,
@@ -1552,13 +1552,13 @@ trámites y procedimientos para obtener los registros correspondientes, así com
 para que estos grupos participen garantizando la seguridad de sus miembros.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-51" placement="bottom">
+          <note placementBase="#art-51." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>Artículo 52. Son derechos y obligaciones de los Grupos Voluntarios:
 I. Disponer del reconocimiento oficial una vez obtenido su registro;
@@ -1567,9 +1567,9 @@ III. Coordinarse con las autoridades de protección civil que correspondan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>Artículo 53. Las personas que deseen desempeñar labores de rescate y auxilio, deberán integrarse o
 constituirse preferentemente en grupos voluntarios.
@@ -1579,9 +1579,9 @@ especialidad aplicable a tareas de protección civil.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>Artículo 54. La Red Nacional de Brigadistas Comunitarios es una estructura organizada y formada por
 voluntarios con el fin de capacitarse y trabajar coordinadamente con las autoridades de protección civil
@@ -1589,9 +1589,9 @@ para enfrentar en su entorno riesgos causados por los diversos agentes perturbad
             </content>
           </paragraph>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>Artículo 55. Los Brigadistas Comunitarios son los voluntarios capacitados en materias afines a la
 protección civil, que han sido registradas en la Red Nacional de Brigadistas Comunitarios, bajo la
@@ -1601,9 +1601,9 @@ atención a refugios temporales, entre otras.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>Artículo 56. La Secretaría coordinará el funcionamiento de la Red Nacional de Brigadistas
 Comunitarios. Para tal efecto, las Unidades de las entidades federativas, Municipales y de las
@@ -1620,13 +1620,13 @@ en la Red Nacional de Brigadistas Comunitarios ante la Coordinación Nacional.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>Artículo 57. Le corresponde a la Secretaría, a través de la Coordinación Nacional, asesorar a las
 entidades federativas y dependencias federales en la aplicación de los instrumentos financieros de
@@ -1634,13 +1634,13 @@ Gestión de Riesgos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-57" placement="bottom">
+          <note placementBase="#art-57." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>Artículo 58. Para acceder a los recursos de los Instrumentos Financieros de Gestión de Riesgos, se
 deberá:
@@ -1655,9 +1655,9 @@ para atender por sí sola la contingencia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>Artículo 59. La declaratoria de emergencia es el acto mediante el cual la Secretaría reconoce que
 uno o varios municipios o demarcaciones territoriales de la Ciudad de México, de una o más entidades
@@ -1667,13 +1667,13 @@ cuya seguridad e integridad está en riesgo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>Artículo 60. La declaratoria de desastre natural es el acto mediante el cual la Secretaría reconoce la
 presencia de un agente natural perturbador severo en determinados municipios o demarcaciones
@@ -1686,13 +1686,13 @@ titulares de las instancias públicas federales, a fin de que éstas puedan aten
 infraestructura, bienes y patrimonio federal a su cargo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-60" placement="bottom">
+          <note placementBase="#art-60." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>Artículo 61. Las declaratorias deberán ser publicadas en el Diario Oficial de la Federación, sin
 perjuicio de que se difundan a través de otros medios de información.
@@ -1701,9 +1701,9 @@ emisión, sin que ello afecte su validez y efectos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>Artículo 62. El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, en términos
 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, proveerá los recursos financieros para
@@ -1718,9 +1718,9 @@ emergente de la población y la reconstrucción de la infraestructura estratégi
             </content>
           </paragraph>
         </article>
-        <article id="art-63">
-          <num>Artículo 63</num>
-          <paragraph id="art-63-para-1">
+        <article id="art-63.">
+          <num>Artículo 63.</num>
+          <paragraph id="art-63.-para-1">
             <content>
               <p>Artículo 63. Las disposiciones administrativas, regularán los procedimientos, fórmulas de
 financiamiento y cofinanciamiento y demás requisitos para el acceso y ejercicio de los recursos de los
@@ -1749,16 +1749,16 @@ Lo anterior, sin menoscabo de las acciones que en el ámbito de su competencia l
 Auditoría Superior de la Federación.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-64">
-          <num>Artículo 64</num>
-          <paragraph id="art-64-para-1">
+        <article id="art-64.">
+          <num>Artículo 64.</num>
+          <paragraph id="art-64.-para-1">
             <content>
               <p>Artículo 64. Ante la inminencia o alta probabilidad de que ocurra un agente natural perturbador que
 ponga en riesgo la vida humana y cuando la rapidez de la actuación del Sistema Nacional sea esencial,
@@ -1772,9 +1772,9 @@ insumos autorizados deberá iniciar al día siguiente de la autorización corres
             </content>
           </paragraph>
         </article>
-        <article id="art-65">
-          <num>Artículo 65</num>
-          <paragraph id="art-65-para-1">
+        <article id="art-65.">
+          <num>Artículo 65.</num>
+          <paragraph id="art-65.-para-1">
             <content>
               <p>Artículo 65. Los fenómenos antropogénicos, son en esencia provocados por la actividad humana y no
 por un fenómeno natural. Generan un marco de responsabilidad civil, por lo que no son competencia de
@@ -1797,16 +1797,16 @@ fenómenos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-65" placement="bottom">
+          <note placementBase="#art-65." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-65" placement="bottom">
+          <note placementBase="#art-65." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-66">
-          <num>Artículo 66</num>
-          <paragraph id="art-66-para-1">
+        <article id="art-66.">
+          <num>Artículo 66.</num>
+          <paragraph id="art-66.-para-1">
             <content>
               <p>Artículo 66. Cada entidad federativa creará y administrará un Fondo de Protección Civil, cuya
 finalidad será la de promover la capacitación, equipamiento y sistematización de las Unidades de
@@ -1815,13 +1815,13 @@ México.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-66" placement="bottom">
+          <note placementBase="#art-66." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-67">
-          <num>Artículo 67</num>
-          <paragraph id="art-67-para-1">
+        <article id="art-67.">
+          <num>Artículo 67.</num>
+          <paragraph id="art-67.-para-1">
             <content>
               <p>Artículo 67. Los Fondos Estatales de Protección Civil se integrarán a través de los recursos
 aportados por la respectiva entidad federativa y, en su caso, municipios y demarcaciones territoriales de
@@ -1843,19 +1843,19 @@ los recursos destinados a la sistematización de las unidades de protección civ
 optimización del manejo e intercambio de información y su homologación a nivel nacional.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-67" placement="bottom">
+          <note placementBase="#art-67." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-67" placement="bottom">
+          <note placementBase="#art-67." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-67" placement="bottom">
+          <note placementBase="#art-67." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-68">
-          <num>Artículo 68</num>
-          <paragraph id="art-68-para-1">
+        <article id="art-68.">
+          <num>Artículo 68.</num>
+          <paragraph id="art-68.-para-1">
             <content>
               <p>Artículo 68. Las autoridades correspondientes establecerán las bases y lineamientos, con apego a lo
 establecido en la presente Ley y su Reglamento, para emitir las convocatorias, recepción, administración,
@@ -1872,13 +1872,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-68" placement="bottom">
+          <note placementBase="#art-68." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-69">
-          <num>Artículo 69</num>
-          <paragraph id="art-69-para-1">
+        <article id="art-69.">
+          <num>Artículo 69.</num>
+          <paragraph id="art-69.-para-1">
             <content>
               <p>Artículo 69. Serán las autoridades competentes en los diferentes órdenes de gobierno las que
 determinarán con apego a su regulación local, los criterios de uso y destino de los donativos, debiendo en
@@ -1886,9 +1886,9 @@ todos los casos rendir un informe detallado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-70">
-          <num>Artículo 70</num>
-          <paragraph id="art-70-para-1">
+        <article id="art-70.">
+          <num>Artículo 70.</num>
+          <paragraph id="art-70.-para-1">
             <content>
               <p>Artículo 70. Sin menoscabo de lo que expresa el artículo anterior, el Ejecutivo Federal deberá
 promover al interior del Consejo Nacional un mecanismo ágil, transparente y efectivo de control y
@@ -1898,13 +1898,13 @@ comunidades en emergencia o desastre.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-70" placement="bottom">
+          <note placementBase="#art-70." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-71">
-          <num>Artículo 71</num>
-          <paragraph id="art-71-para-1">
+        <article id="art-71.">
+          <num>Artículo 71.</num>
+          <paragraph id="art-71.-para-1">
             <content>
               <p>Artículo 71. Los donativos en efectivo recibidos por las instituciones bancarias o financieras, cuando
 sean destinados a la población damnificada, serán deducibles, en términos de la legislación aplicable,
@@ -1914,9 +1914,9 @@ Nacional o por el Consejo Estatal de Protección Civil, respectivamente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-72">
-          <num>Artículo 72</num>
-          <paragraph id="art-72-para-1">
+        <article id="art-72.">
+          <num>Artículo 72.</num>
+          <paragraph id="art-72.-para-1">
             <content>
               <p>Artículo 72. Las autoridades correspondientes deberán verificar que en todo momento las donaciones
 se apliquen estrictamente para beneficiar a la población afectada por la emergencia y/o desastre con
@@ -1925,9 +1925,9 @@ microempresarios y pequeños productores.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
+        <article id="art-73.">
+          <num>Artículo 73.</num>
+          <paragraph id="art-73.-para-1">
             <content>
               <p>Artículo 73. En caso de riesgo inminente, sin perjuicio de la emisión de una declaratoria de
 emergencia o desastre natural y de lo que establezcan otras disposiciones legales, las dependencias y
@@ -1941,13 +1941,13 @@ operaciones, como centro de comando y de coordinación de las acciones en el sit
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-74">
-          <num>Artículo 74</num>
-          <paragraph id="art-74-para-1">
+        <article id="art-74.">
+          <num>Artículo 74.</num>
+          <paragraph id="art-74.-para-1">
             <content>
               <p>Artículo 74. Esta Ley, su Reglamento, así como las disposiciones administrativas en la materia,
 regularán los medios, formalidades y demás requisitos para acceder y hacer uso de los recursos
@@ -1961,13 +1961,13 @@ emita la declaratoria de desastre natural respectiva.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-74" placement="bottom">
+          <note placementBase="#art-74." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-75">
-          <num>Artículo 75</num>
-          <paragraph id="art-75-para-1">
+        <article id="art-75.">
+          <num>Artículo 75.</num>
+          <paragraph id="art-75.-para-1">
             <content>
               <p>Artículo 75. Las Unidades de las entidades federativas, Municipales y demarcaciones territoriales de
 la Ciudad de México de Protección Civil, tendrán la facultad de aplicar las siguientes medidas de
@@ -1992,22 +1992,22 @@ autoridades competentes, la ejecución de alguna o algunas de las medidas de seg
 establezcan en otros ordenamientos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-75" placement="bottom">
+          <note placementBase="#art-75." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-76">
-          <num>Artículo 76</num>
-          <paragraph id="art-76-para-1">
+        <article id="art-76.">
+          <num>Artículo 76.</num>
+          <paragraph id="art-76.-para-1">
             <content>
               <p>Artículo 76. Cuando se apliquen las medidas de seguridad previstas en el artículo anterior, se
 precisará su temporalidad y, en su caso, las acciones para su suspensión.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-77">
-          <num>Artículo 77</num>
-          <paragraph id="art-77-para-1">
+        <article id="art-77.">
+          <num>Artículo 77.</num>
+          <paragraph id="art-77.-para-1">
             <content>
               <p>Artículo 77. Previo a la realización de eventos públicos y en espacios de concentración masiva,
 deberán elaborarse programas específicos de protección civil, los cuales serán entregados
@@ -2018,9 +2018,9 @@ evento o al inicio del mismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-78">
-          <num>Artículo 78</num>
-          <paragraph id="art-78-para-1">
+        <article id="art-78.">
+          <num>Artículo 78.</num>
+          <paragraph id="art-78.-para-1">
             <content>
               <p>Artículo 78. Los particulares que por su uso y destino concentren o reciban una afluencia masiva de
 personas, están obligadas a contar con una unidad interna de protección civil y elaborar un programa
@@ -2029,9 +2029,9 @@ respectivos ordenamientos locales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-79">
-          <num>Artículo 79</num>
-          <paragraph id="art-79-para-1">
+        <article id="art-79.">
+          <num>Artículo 79.</num>
+          <paragraph id="art-79.-para-1">
             <content>
               <p>Artículo 79. Las personas físicas o morales del sector privado cuya actividad sea el manejo,
 almacenamiento, distribución, transporte y utilización de materiales peligrosos, hidrocarburos y explosivos
@@ -2040,9 +2040,9 @@ la fracción XL del artículo 2 de la presente Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-80">
-          <num>Artículo 80</num>
-          <paragraph id="art-80-para-1">
+        <article id="art-80.">
+          <num>Artículo 80.</num>
+          <paragraph id="art-80.-para-1">
             <content>
               <p>Artículo 80. Los responsables de la administración y operación de las actividades señaladas en los
 artículos anteriores deberán integrar las unidades internas con su respectivo personal, de acuerdo con
@@ -2051,9 +2051,9 @@ Leyes y reglamentos locales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-81">
-          <num>Artículo 81</num>
-          <paragraph id="art-81-para-1">
+        <article id="art-81.">
+          <num>Artículo 81.</num>
+          <paragraph id="art-81.-para-1">
             <content>
               <p>Artículo 81. Toda persona física o moral deberá informar a las autoridades competentes, haciéndolo
 de forma directa de cualquier alto riesgo, siniestro o desastre que se presente o pudiera presentarse.
@@ -2065,9 +2065,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-82">
-          <num>Artículo 82</num>
-          <paragraph id="art-82-para-1">
+        <article id="art-82.">
+          <num>Artículo 82.</num>
+          <paragraph id="art-82.-para-1">
             <content>
               <p>Artículo 82. El Gobierno Federal, con la participación de las entidades federativas deberán buscar
 concentrar la información climatológica, geológica, meteorológica y astronómica de que se disponga a
@@ -2075,13 +2075,13 @@ nivel nacional.
 , 19-01-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-82" placement="bottom">
+          <note placementBase="#art-82." placement="bottom">
             <p>Artículo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-83">
-          <num>Artículo 83</num>
-          <paragraph id="art-83-para-1">
+        <article id="art-83.">
+          <num>Artículo 83.</num>
+          <paragraph id="art-83.-para-1">
             <content>
               <p>Artículo 83. El Gobierno Federal, con la participación de las entidades federativas promoverá la
 creación de las bases que permitan la identificación y registro en los Atlas Nacional, de las entidades
@@ -2094,16 +2094,16 @@ CENAPRED.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Párrafo adicionado DOF 23-06-2017</p>
           </note>
         </article>
-        <article id="art-84">
-          <num>Artículo 84</num>
-          <paragraph id="art-84-para-1">
+        <article id="art-84.">
+          <num>Artículo 84.</num>
+          <paragraph id="art-84.-para-1">
             <content>
               <p>Artículo 84. Se consideran como delito grave la construcción, edificación, realización de obras de
 infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar
@@ -2113,13 +2113,13 @@ con la autorización de la autoridad correspondiente.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-85">
-          <num>Artículo 85</num>
-          <paragraph id="art-85-para-1">
+        <article id="art-85.">
+          <num>Artículo 85.</num>
+          <paragraph id="art-85.-para-1">
             <content>
               <p>Artículo 85. Son autoridades competentes para aplicar lo dispuesto por este capítulo, dentro del
 ámbito de sus respectivas atribuciones conforme a la Ley:
@@ -2132,16 +2132,16 @@ IV. El Gobierno de la Ciudad de México, y
 V. Los Municipios y Órganos Político Administrativos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-85" placement="bottom">
+          <note placementBase="#art-85." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-85" placement="bottom">
+          <note placementBase="#art-85." placement="bottom">
             <p>Fracción reformada DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-86">
-          <num>Artículo 86</num>
-          <paragraph id="art-86-para-1">
+        <article id="art-86.">
+          <num>Artículo 86.</num>
+          <paragraph id="art-86.-para-1">
             <content>
               <p>Artículo 86. En el Atlas Nacional de Riesgos y en los respectivos Atlas de las entidades federativas y
 Municipales de Riesgos, deberán establecerse los diferentes niveles de peligro y riesgo, para todos los
@@ -2151,13 +2151,13 @@ construcciones, obras de infraestructura o asentamientos humanos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-87">
-          <num>Artículo 87</num>
-          <paragraph id="art-87-para-1">
+        <article id="art-87.">
+          <num>Artículo 87.</num>
+          <paragraph id="art-87.-para-1">
             <content>
               <p>Artículo 87. En el caso de asentamientos humanos ya establecidos en Zonas de Alto Riesgo, las
 autoridades competentes con base en estudios de riesgos específicos, determinará la realización de las
@@ -2172,9 +2172,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-88">
-          <num>Artículo 88</num>
-          <paragraph id="art-88-para-1">
+        <article id="art-88.">
+          <num>Artículo 88.</num>
+          <paragraph id="art-88.-para-1">
             <content>
               <p>Artículo 88. El Gobierno Federal y los de las entidades federativas buscarán y propondrán
 mecanismos para la transferencia de riesgos a través de la contratación de seguros o de otros
@@ -2182,13 +2182,13 @@ instrumentos financieros.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-89">
-          <num>Artículo 89</num>
-          <paragraph id="art-89-para-1">
+        <article id="art-89.">
+          <num>Artículo 89.</num>
+          <paragraph id="art-89.-para-1">
             <content>
               <p>Artículo 89. Las autoridades federales, de las entidades federativas, los municipios y los órganos
 político administrativos, determinarán qué autoridad bajo su estricta responsabilidad, tendrá competencia
@@ -2198,13 +2198,13 @@ artículos de este capítulo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-89" placement="bottom">
+          <note placementBase="#art-89." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-90">
-          <num>Artículo 90</num>
-          <paragraph id="art-90-para-1">
+        <article id="art-90.">
+          <num>Artículo 90.</num>
+          <paragraph id="art-90.-para-1">
             <content>
               <p>Artículo 90. La autorización de permisos de uso de suelo o de utilización por parte de servidores
 públicos de cualquiera de los tres niveles de gobierno, que no cuenten con la aprobación
@@ -2214,9 +2214,9 @@ términos de esta Ley y de las demás disposiciones legales aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-91">
-          <num>Artículo 91</num>
-          <paragraph id="art-91-para-1">
+        <article id="art-91.">
+          <num>Artículo 91.</num>
+          <paragraph id="art-91.-para-1">
             <content>
               <p>Artículo 91. Es responsabilidad del Gobierno Federal y de las entidades federativas atender los
 efectos negativos provocados por fenómenos climatológicos extremos en el sector rural, en este sentido,
@@ -2227,9 +2227,9 @@ lo establecido en el artículo 126 de la Ley de Desarrollo Rural Sustentable.</p
             </content>
           </paragraph>
         </article>
-        <article id="art-92">
-          <num>Artículo 92</num>
-          <paragraph id="art-92-para-1">
+        <article id="art-92.">
+          <num>Artículo 92.</num>
+          <paragraph id="art-92.-para-1">
             <content>
               <p>Artículo 92. Para dar cumplimiento a la responsabilidad del Gobierno Federal de atender a los
 productores rurales de bajos ingresos afectados por contingencias climatológicas, el Ejecutivo federal
@@ -2239,9 +2239,9 @@ según lo establecido en el artículo 4 de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-93">
-          <num>Artículo 93</num>
-          <paragraph id="art-93-para-1">
+        <article id="art-93.">
+          <num>Artículo 93.</num>
+          <paragraph id="art-93.-para-1">
             <content>
               <p>Artículo 93. Los gobiernos Federal y de las entidades federativas deberán concurrir tanto en acciones
 como en la aportación de recursos, para la instrumentación de programas que coadyuven a la
@@ -2249,58 +2249,152 @@ reincorporación de los productores de bajos ingresos a sus actividades producti
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-93" placement="bottom">
+          <note placementBase="#art-93." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-94">
-          <num>Artículo 94</num>
-          <paragraph id="art-94-para-1">
+        <article id="art-94.">
+          <num>Artículo 94.</num>
+          <paragraph id="art-94.-para-1">
             <content>
               <p>Artículo 94. El Gobierno Federal deberá crear una reserva especial para el sector rural con el
 propósito de proveer de recursos en forma expedita al Programa de Atención a Contingencias
 Climatológicas, cuando los recursos asignados en el Presupuesto de Egresos de la Federación se
 hubiesen agotado.
-Transitorios
-Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo. El Ejecutivo Federal emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. El Ejecutivo Federal emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a
 partir de su publicación.
 30 de 48
 LEY GENERAL DE PROTECCIÓN CIVIL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-12-2023
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Tercero. La presente Ley abroga a la Ley General de Protección Civil publicada en el Diario Oficial de
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. La presente Ley abroga a la Ley General de Protección Civil publicada en el Diario Oficial de
 la Federación el 12 de mayo de 2000 y a sus reformas de 29 de diciembre de 2001, 13 de junio de 2003,
-15 de junio de 2004 y 24 de abril de 2006.
-Cuarto. Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando
-en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
-Quinto. Las demás disposiciones que en materia de protección civil que se contengan en otros
-ordenamientos federales, serán complementarios de esta Ley, en lo que no se opongan a ella.
-Sexto. Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de
+15 de junio de 2004 y 24 de abril de 2006.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando
+en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Las demás disposiciones que en materia de protección civil que se contengan en otros
+ordenamientos federales, serán complementarios de esta Ley, en lo que no se opongan a ella.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de
 la Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a
-la fecha en que sucedieron.
-Séptimo. Los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, los Presidentes
+la fecha en que sucedieron.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. Los Gobernadores de los Estados, el Jefe de Gobierno del Distrito Federal, los Presidentes
 Municipales, y los Jefes Delegacionales del Distrito Federal, contarán con un plazo de hasta 180 días a
-partir de la publicación de esta Ley para dar cumplimiento a lo establecido en el artículo 18 de esta Ley.
-Octavo. Las autoridades locales realizarán las gestiones conducentes con el propósito de que se
+partir de la publicación de esta Ley para dar cumplimiento a lo establecido en el artículo 18 de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las autoridades locales realizarán las gestiones conducentes con el propósito de que se
 realicen las adecuaciones correspondientes en las Leyes y demás disposiciones locales en la materia en
 un plazo no mayor a 365 días a partir de la publicación de esta Ley, ajustándose en todo momento a los
-principios y directrices de esta Ley.
-Noveno. Se deroga.
-
-Décimo. En un plazo no mayor a 90 días a partir de la publicación de esta Ley, el Ejecutivo Federal
+principios y directrices de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Se deroga.
+</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-9" placement="bottom">
+            <p>Artículo derogado DOF 06-11-2020</p>
+          </note>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. En un plazo no mayor a 90 días a partir de la publicación de esta Ley, el Ejecutivo Federal
 elaborará los lineamientos para que los Estados y el Distrito Federal puedan acceder a los recursos para
-cumplir con las obligaciones determinadas en el artículo 18 de esta Ley.
-Décimo Primero. Con relación al artículo 17 de esta Ley, las Entidades Federativas y el Distrito
+cumplir con las obligaciones determinadas en el artículo 18 de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Con relación al artículo 17 de esta Ley, las Entidades Federativas y el Distrito
 Federal, procurarán adecuar tal denominación y la estructura a más tardar en 180 días después de la
-entrada en vigor de la presente normativa.
-Décimo Segundo. Con relación al artículo 31 y en lo referente a los recursos necesarios como los
+entrada en vigor de la presente normativa.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. Con relación al artículo 31 y en lo referente a los recursos necesarios como los
 inmuebles que le sirvan de sede, infraestructura, personal y demás recursos necesarios para la
 realización de sus objetivos, la Secretaría de Gobernación dotará de éstos para que la Coordinación
-realice sus objetivos y se establezca.
-Décimo Tercero. Respecto de la fracción VI del artículo 4, en dicha certificación de competencias
+realice sus objetivos y se establezca.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Respecto de la fracción VI del artículo 4, en dicha certificación de competencias
 deberá ser extensiva a los integrantes de aquellos organismos e instituciones que por su naturaleza
 estén integrados al Sistema Nacional de Protección Civil.
 México, D.F., a 19 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe
@@ -2339,18 +2433,8 @@ LEY GENERAL DE PROTECCIÓN CIVIL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-12-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
-DECRETO por el que se reforman los artículos 2 y 82; y se adicionan la fracción XXI del</p>
-            </content>
-          </paragraph>
-          <note placementBase="#art-94" placement="bottom">
-            <p>Artículo derogado DOF 06-11-2020</p>
-          </note>
-        </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
-            <content>
-              <p>artículo 2, recorriendo el orden de las fracciones subsecuentes, y un segundo y tercer
+DECRETO por el que se reforman los artículos 2 y 82; y se adicionan la fracción XXI del
+artículo 2, recorriendo el orden de las fracciones subsecuentes, y un segundo y tercer
 párrafos al artículo 20 de la Ley General de Protección Civil.
 Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
 Artículo Único.- Se reforma el artículo 2, fracción XVI, y el artículo 82; se adiciona la fracción XXI,
@@ -2476,10 +2560,24 @@ fracciones VI y VIII; 27, párrafo primero; 29, fracción XII; 33, párrafo prim
 primero, segundo y tercero; 68, párrafo segundo; 70; 73; 74, párrafo tercero; 75, párrafo primero; 82; 83;
 84; 85, fracción IV; 86; 88; 89 y 93 de la Ley General de Protección Civil, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a
 las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán
 conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
 Asimismo, las disposiciones establecidas en este Decreto para las alcaldías serán aplicables una vez
@@ -2519,13 +2617,41 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 ARTÍCULO SEXTO. Se reforman los artículos 2, fracción LIX, y 29, fracciones XI y XII de la Ley
 General de Protección Civil, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento
-de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento
+de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán
 coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados
 a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la
 Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los
@@ -2548,8 +2674,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-12-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se
-refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse
+refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse
 con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para
 extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las
 disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el
@@ -2557,13 +2690,27 @@ primer semestre del ejercicio 2021 se suscriban los convenios de extinción o te
 respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente
 Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo
-a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o
+a su presupuesto autorizado, de conformidad con las disposiciones aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o
 análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a
 cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los
 que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su
-Reglamento.
-Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de
+Reglamento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de
 Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo
 de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la
@@ -2606,8 +2753,15 @@ adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad
 Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos
 derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la
-entrada en vigor de este Decreto.
-Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que
+entrada en vigor de este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que
 correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos
 adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo
 a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la
@@ -2619,22 +2773,57 @@ el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal
 correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de
-este Decreto.
-Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan
+este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan
 diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero
-de 2002.
-Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el
+de 2002.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el
 otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial
 obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su
 presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte
-establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá
+establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá
 reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente
-Decreto, en lo que resulte conducente.
-Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá
+Decreto, en lo que resulte conducente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá
 las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex
-Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados
+Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados
 Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a
 lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser
 destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de
@@ -2643,8 +2832,15 @@ Desarrollo Agrario, Territorial y Urbano.
 LEY GENERAL DE PROTECCIÓN CIVIL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-12-2023
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo
 para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación
 sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los
 recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el
@@ -2652,8 +2848,15 @@ ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional 
 resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de
 dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado
-en el transitorio Quinto.
-Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso
+en el transitorio Quinto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso
 al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a
 su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos
 de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
@@ -2665,8 +2868,15 @@ realizará las acciones necesarias para concentrar los recursos federales remane
 la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal
-correspondiente.
-Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el
+correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el
 contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética
 para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter
 de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho
@@ -2677,12 +2887,26 @@ transitorio Cuarto del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para
 efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos
 del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados
-en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no
+en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no
 podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o
 análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este
-Decreto y de sus disposiciones transitorias.
-Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo
+Decreto y de sus disposiciones transitorias.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo
 párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural,
 Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de
 su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se
@@ -2693,8 +2917,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-12-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente
-Decreto.
-Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de
 Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá
 compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y
@@ -2704,8 +2935,15 @@ obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio
 de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la
 Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir
-las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del
+las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-20">
+          <num>Artículo 20</num>
+          <paragraph id="art-20-para-1">
+            <content>
+              <p>Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del
 FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios,
 para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de
 septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los
@@ -2732,23 +2970,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Vigésimo Sexto.- Se reforma la fracción II del artículo 85 de la Ley General de Protección
 Civil, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -2758,8 +3024,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -2790,13 +3063,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -2808,8 +3095,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 45 de 48
 LEY GENERAL DE PROTECCIÓN CIVIL
@@ -2817,25 +3111,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-12-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -2846,14 +3168,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -2866,12 +3202,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2004-01-20/lgds/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2004-01-20/lgds/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -96,9 +96,9 @@
         </chapter>
         <chapter id="chapter-18">
           <num>Capítulo V de la Ley de Coordinación Fiscal, en un plazo no mayor a 90 días y, en su caso, recomendar las modificaciones que se consideren pertinentes.</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público e interés social y de observancia general en todo el
 territorio nacional, y tiene por objeto:
@@ -129,22 +129,22 @@ IX. Promover el establecimiento de instrumentos de acceso a la justicia, a trav�
 popular, en materia de desarrollo social.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Queda prohibida cualquier práctica discriminatoria en la prestación de los bienes y
 servicios contenidos en los programas para el desarrollo social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. La Política de Desarrollo Social se sujetará a los siguientes principios:
 I. Libertad: Capacidad de las personas para elegir los medios para su desarrollo personal así
@@ -197,25 +197,25 @@ en los tratados internacionales aplicables de los que el Estado Mexicano sea par
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción reformada DOF 01-06-2016</p>
             </note>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción reformada DOF 01-06-2012</p>
             </note>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción reformada DOF 01-06-2012</p>
             </note>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción adicionada DOF 01-06-2012</p>
             </note>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción adicionada DOF 22-06-2018</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. La aplicación de la presente Ley corresponde al Ejecutivo Federal por conducto de sus
 dependencias y organismos, a los poderes ejecutivos de las entidades federativas y a los municipios en
@@ -228,13 +228,13 @@ Estados Unidos Mexicanos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Párrafo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Para los efectos de esta Ley se entiende por:
 I. Beneficiarias: Aquellas personas que forman parte de la población atendida por los programas
@@ -273,31 +273,31 @@ garantizan el desarrollo sostenible y con equidad.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción derogada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de
 calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad
@@ -306,13 +306,13 @@ términos de la Constitución Política de los Estados Unidos Mexicanos.
 , 22-06-2018, 15-01-2026</p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Artículo reformado DOF 01-06-2016</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Toda persona tiene derecho a participar y a beneficiarse de los programas de desarrollo
 social, de acuerdo con los principios rectores de la Política de Desarrollo Social, en los términos que
@@ -320,18 +320,18 @@ establezca la normatividad de cada programa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Toda persona o grupo social en situación de vulnerabilidad tiene derecho a recibir
 acciones y apoyos tendientes a disminuir su desventaja.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. Los municipios, las demarcaciones territoriales de la Ciudad de México, los gobiernos de
 las entidades federativas y el Poder Ejecutivo Federal, en sus respectivos ámbitos, formularán y aplicarán
@@ -342,13 +342,13 @@ estableciendo metas cuantificables.
 , 15-01-2026</p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Artículo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Las personas beneficiarias de los programas de desarrollo social tienen los siguientes
 derechos y obligaciones:
@@ -376,16 +376,16 @@ términos que establezca la normatividad correspondiente, y
 IX. Cumplir la normatividad de los programas de desarrollo social.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. La Política Nacional de Desarrollo Social tiene los siguientes objetivos:
 I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o
@@ -409,37 +409,37 @@ implementación y evaluación de los programas de desarrollo social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 26-01-2018</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 26-01-2018</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción adicionada DOF 26-01-2018</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción adicionada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. En la planeación del desarrollo se deberá incorporar la Política Nacional de Desarrollo
 Social de conformidad con esta Ley y las demás disposiciones en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. La planeación del desarrollo social incluirá los programas municipales; planes y
 programas estatales; programas institucionales, regionales y especiales; el Programa Nacional de
@@ -447,9 +447,9 @@ Desarrollo Social; y el Plan Nacional de Desarrollo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. La Política Nacional de Desarrollo Social debe incluir, cuando menos, las siguientes
 vertientes:
@@ -462,22 +462,22 @@ IV. Infraestructura social básica, y
 V. Fomento del sector social de la economía.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 01-06-2016</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. La Elaboración del Programa Nacional de Desarrollo Social estará a cargo del Ejecutivo
 Federal en los términos y condiciones de la Ley de Planeación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal harán
 del conocimiento público cada año sus programas operativos de desarrollo social, a través de los medios
@@ -486,9 +486,9 @@ presupuestos de egresos anuales respectivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Los municipios serán los principales ejecutores de los programas, recursos y acciones
 federales de desarrollo social, de acuerdo a las reglas de operación que para el efecto emita el Ejecutivo
@@ -497,9 +497,9 @@ entidad u organismo federal, estatal o del Distrito Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Los programas, proyectos y acciones, incluidos los recursos, que conforman la Política
 de Desarrollo Social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y
@@ -508,13 +508,13 @@ podrán sufrir disminuciones en sus montos presupuestales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. La Política de Desarrollo Social está conformada por:
 
@@ -546,22 +546,22 @@ de las mujeres y eliminar las brechas de desigualdad entre mujeres y hombres.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 01-06-2016</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 22-06-2018</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. El presupuesto federal destinado al gasto social no podrá ser inferior, en términos reales,
 al del año fiscal anterior. Este gasto se deberá incrementar cuando menos en la misma proporción en que
@@ -571,9 +571,9 @@ Gobierno Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. La distribución de los fondos de aportaciones federales y de los ramos generales
 relativos a los programas sociales de educación, salud, alimentación, infraestructura social y generación
@@ -582,9 +582,9 @@ conforme a la normatividad aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. En el Presupuesto Anual de Egresos de la Federación, se establecerán las partidas
 presupuestales específicas para los programas de desarrollo social y no podrán destinarse a fines
@@ -592,9 +592,9 @@ distintos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. La distribución del gasto social con el que se financiará el desarrollo social, se sujetará a
 los siguientes criterios:
@@ -613,9 +613,9 @@ convenios de coordinación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Los recursos presupuestales federales asignados a los programas de desarrollo social
 podrán ser complementados con recursos provenientes de los gobiernos estatales y municipales, así
@@ -623,9 +623,9 @@ como con aportaciones de organismos internacionales y de los sectores social y p
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. El Ejecutivo Federal podrá establecer y administrar un Fondo de Contingencia Social
 como respuesta a fenómenos económicos y presupuestales imprevistos. En el Presupuesto de Egresos
@@ -635,9 +635,9 @@ utilizados en el ejercicio fiscal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. El Gobierno Federal deberá elaborar y publicar en el Diario Oficial de la Federación las
 reglas de operación de los programas de desarrollo social incluidos en el Presupuesto de Egresos de la
@@ -647,9 +647,9 @@ respectivos periódicos oficiales, la distribución a los municipios de los recu
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Con el propósito de asegurar la equidad y eficacia de los programas de desarrollo social,
 el Gobierno Federal, por conducto de la Secretaría y los gobiernos de las entidades federativas y de los
@@ -657,9 +657,9 @@ municipios, en el ámbito de sus respectivas competencias, integrarán el Padró
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La publicidad y la información relativa a los programas de desarrollo social deberán
 identificarse con el Escudo Nacional en los términos que establece la ley correspondiente e incluir la
@@ -668,9 +668,9 @@ para fines distintos al desarrollo social".</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter
 predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos
@@ -681,13 +681,13 @@ ejecutores de la Política de Desarrollo Social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. El Ejecutivo Federal revisará anualmente las zonas de atención prioritaria, con base en
 los resultados de la evaluación integral de la Política de Desarrollo Social y de la medición de la pobreza
@@ -699,13 +699,13 @@ Oficial de la Federación, junto con el decreto del Presupuesto de Egresos de la
 , 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 08-04-2013</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. La Declaratoria tendrá los efectos siguientes:
 1. Asignar recursos para elevar los índices de bienestar de la población en los rubros deficitarios;
@@ -722,18 +722,18 @@ derechos para el desarrollo social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal podrán
 convenir acciones y destinarán recursos para la ejecución de programas especiales en estas zonas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal
 fomentarán las actividades productivas para promover la generación de empleos e ingresos de personas,
@@ -741,9 +741,9 @@ familias, grupos y organizaciones productivas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Los municipios, los gobiernos de las entidades federativas y el Gobierno Federal
 estimularán la organización de personas, familias, grupos sociales y, en su caso, pueblos y comunidades
@@ -753,13 +753,13 @@ organización y el diseño de proyectos y apoyo legal para la realización de es
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Artículo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. El Gobierno Federal y los gobiernos de las entidades federativas podrán aportar recursos
 como capital de riesgo para dar viabilidad a las empresas sociales y destinar recursos para apoyar a
@@ -768,9 +768,9 @@ social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Los lineamientos y criterios técnicos que establezca el Instituto para la definición,
 identificación y medición de la pobreza son de aplicación obligatoria para las entidades y dependencias
@@ -798,28 +798,28 @@ IX. Grado de Accesibilidad a carretera pavimentada.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 22-06-2018</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 22-06-2018</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 07-11-2013</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 07-11-2013</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción adicionada DOF 07-11-2013</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Las mediciones de pobreza que realice el Instituto deberán hacerse con una periodicidad
 mínima de cada dos años para cada entidad federativa y con información desagregada a nivel municipal
@@ -831,7 +831,7 @@ llevar a cabo estas mediciones.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-37" placement="bottom">
+            <note placementBase="#art-37." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
@@ -851,9 +851,9 @@ espacio.
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. El Sistema Nacional es un mecanismo permanente de concurrencia, colaboración,
 coordinación y concertación de los gobiernos; federal, los de las entidades federativas y los municipales,
@@ -879,9 +879,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. La coordinación del Sistema Nacional compete a la Secretaría, con la concurrencia de las
 dependencias, entidades y organismos federales, de los gobiernos municipales y de las entidades
@@ -894,9 +894,9 @@ objetiva y participativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. En el ámbito de sus atribuciones y en congruencia con las disposiciones de esta Ley las
 legislaturas de las entidades federativas y los municipios emitirán normas en materia de desarrollo social,
@@ -904,13 +904,13 @@ tomando en cuenta sus particularidades.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Artículo reformado DOF 26-01-2018</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Los gobiernos de las entidades federativas instituirán un sistema de planeación del
 desarrollo social; formularán, aprobarán y aplicarán los programas de desarrollo social respectivos, en los
@@ -920,9 +920,9 @@ equidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Los municipios formularán, aprobarán y aplicarán sus propios programas de desarrollo
 social, los cuales deberán estar en concordancia con los de las entidades federativas y el del Gobierno
@@ -930,9 +930,9 @@ Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Corresponde al Gobierno Federal, por conducto de la Secretaría, las siguientes
 atribuciones:
@@ -966,16 +966,16 @@ los municipios en el diseño y ejecución de los programas de desarrollo social,
 XI. Las demás que le señale esta Ley, su reglamento y otras disposiciones aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Corresponde a los gobiernos de las entidades federativas en el ámbito de su
 competencia, las siguientes atribuciones:
@@ -992,9 +992,9 @@ VIII. Las demás que le señala la Ley, su reglamento y demás disposiciones apl
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Corresponde a los ayuntamientos, en el ámbito de su competencia, las siguientes
 atribuciones:
@@ -1019,18 +1019,18 @@ IX. Las demás que le señala la Ley, su reglamento y demás disposiciones aplic
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. En caso de duda sobre la interpretación de las disposiciones de esta Ley para efectos
 administrativos, se estará a lo que resuelva el Ejecutivo Federal, por conducto de la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. La Comisión Nacional es un instrumento de coordinación de los programas, acciones e
 inversiones que para el cumplimiento de los objetivos, estrategias y prioridades de la Política Nacional de
@@ -1040,18 +1040,18 @@ los municipios o en concertación con los sectores social y privado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. La Comisión Nacional tiene por objeto consolidar la integralidad y el federalismo sobre
 bases de coordinación, colaboración y concertación de estrategias y programas de desarrollo social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. La Comisión Nacional será presidida por la persona titular de la Secretaría y además
 estará integrada por:
@@ -1071,16 +1071,16 @@ y de Senadores.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. La Comisión Nacional estará facultada para atender la solicitud de colaboración de los
 sectores social y privado cuando se traten asuntos de su interés o competencia, y sus funciones son las
@@ -1118,13 +1118,13 @@ del Sistema Nacional, y
 XIII. Las demás que le señale esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. La Comisión Intersecretarial será el instrumento de coordinación de las acciones del
 Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de
@@ -1140,13 +1140,13 @@ una vez por bimestre.
 , 01-04-2024, 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Artículo reformado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. La Comisión Intersecretarial tendrá las siguientes funciones:
 I. Recomendar medidas orientadas a hacer compatibles las decisiones vinculadas con las Políticas de
@@ -1167,9 +1167,9 @@ federativas en materia de desarrollo social y proponer, en su caso, modificacion
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. Los acuerdos de la Comisión Intersecretarial serán obligatorios para las dependencias
 del Ejecutivo Federal. Las secretarías de Hacienda y Crédito Público y de la Función Pública vigilarán su
@@ -1177,18 +1177,18 @@ cumplimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. Los acuerdos de la Comisión Intersecretarial serán publicados en el Diario Oficial de la
 Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. El Consejo es el órgano consultivo de la Secretaría, de participación ciudadana y
 conformación plural, que tendrá por objeto analizar y proponer programas y acciones que inciden en el
@@ -1196,9 +1196,9 @@ cumplimiento de la Política Nacional de Desarrollo Social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. El Consejo tendrá las funciones siguientes:
 I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de la Política Nacional de
@@ -1232,9 +1232,9 @@ XIII. Las demás que sean necesarias para el cumplimiento de su objeto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. El Consejo estará integrado por una Presidencia a cargo de la persona titular de la
 Secretaría; una Secretaría Ejecutiva cuya persona titular será designada por la Presidencia, así como por
@@ -1243,13 +1243,13 @@ ausencias por la Secretaría Ejecutiva.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Las personas consejeras deberán contar con ciudadanía mexicana y con un reconocido
 prestigio en los sectores privado y social, así como de los ámbitos académico, profesional, científico y
@@ -1257,22 +1257,22 @@ cultural vinculados con el desarrollo social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-58" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. La Secretaría prestará al Consejo la colaboración necesaria para el ejercicio de sus
 funciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. El Consejo podrá recibir la colaboración de otras dependencias y entidades de la
 Administración Pública Federal, de los gobiernos estatales y municipales, de organizaciones civiles y de
@@ -1280,9 +1280,9 @@ particulares.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. El Gobierno Federal, los de las entidades federativas y los municipios garantizarán el
 derecho de las personas beneficiarias y de la sociedad a participar de manera activa y corresponsable en
@@ -1290,13 +1290,13 @@ la planeación, ejecución, evaluación y supervisión de la política social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. Las organizaciones que tengan como objetivo impulsar el desarrollo social de los
 mexicanos podrán participar en las acciones relacionadas con el diseño, ejecución y evaluación de las
@@ -1304,18 +1304,18 @@ políticas, programas y acciones públicas en esta materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. El Gobierno Federal deberá invitar a las organizaciones, mediante convocatorias públicas
 que deberán contener los requisitos, objetivos y modalidades de participación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. Las organizaciones podrán recibir fondos públicos para operar programas sociales
 propios, a excepción de aquellas en las que formen parte de sus órganos directivos personas servidoras
@@ -1328,13 +1328,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Para efectos del artículo anterior, las organizaciones deberán estar formalmente
 constituidas ante autoridad competente o persona fedataria pública, además de cumplir con lo que
@@ -1342,22 +1342,22 @@ establezca el reglamento respectivo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Las organizaciones estarán sometidas al escrutinio de la Secretaría, sin perjuicio de lo
 que establezcan las leyes respectivas para el uso de fondos públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. Toda persona u organización podrá presentar denuncia ante la autoridad competente
 sobre cualquier hecho, acto u omisión, que produzca o pueda producir daños al ejercicio de los derechos
@@ -1366,9 +1366,9 @@ materias relacionadas con el desarrollo social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente
 por escrito y contenga:
@@ -1384,19 +1384,19 @@ aplicable en materia de responsabilidades administrativas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Fracción reformada DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Párrafo adicionado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. Se reconoce a la Contraloría Social como el mecanismo de las personas beneficiarias, de
 manera organizada, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos
@@ -1404,22 +1404,22 @@ públicos asignados a los programas de desarrollo social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. El Gobierno Federal impulsará la Contraloría Social y le facilitará el acceso a la
 información necesaria para el cumplimiento de sus funciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Son funciones de la Contraloría Social:
 I. Solicitar la información a las autoridades federales, estatales y municipales responsables de los
@@ -1439,9 +1439,9 @@ de responsabilidades administrativas, civiles o penales relacionadas con los pro
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. La evaluación integral de la Política de Desarrollo Social está a cargo del Instituto que
 podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del
@@ -1451,7 +1451,7 @@ Desarrollo Social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-72" placement="bottom">
+            <note placementBase="#art-72." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
@@ -1468,22 +1468,22 @@ metodologías de evaluación integral de la Política de Desarrollo Social.
               <p>Artículo adicionado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Los organismos evaluadores independientes que podrán participar serán instituciones de
 educación superior, de investigación científica u organizaciones no lucrativas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. Para la evaluación integral de la Política de Desarrollo Social, las dependencias de los
 tres órdenes de gobierno ejecutoras de los programas, proyectos y acciones, incluidos los recursos, de
@@ -1492,58 +1492,58 @@ realización de la evaluación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Artículo derogado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-76" placement="bottom">
+            <note placementBase="#art-76." placement="bottom">
               <p>Artículo derogado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Derogado
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-77" placement="bottom">
+            <note placementBase="#art-77." placement="bottom">
               <p>Artículo derogado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. La evaluación será anual, definiendo como periodo del primero de mayo al treinta de abril
 y podrá también ser multianual en los casos que así se determine.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. Los resultados de las evaluaciones serán publicados en el Diario Oficial de la
 Federación y deberán ser entregados a las Comisiones de Desarrollo Social de las Cámaras de
@@ -1551,9 +1551,9 @@ Diputados y de Senadores del Congreso de la Unión, y a la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. De acuerdo con los resultados de las evaluaciones, el Instituto podrá emitir las
 sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del
@@ -1569,13 +1569,13 @@ de lo previsto en la legislación en materia de transparencia.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. El Instituto, en su carácter de evaluador de la Política de Desarrollo Social y medición de
 pobreza, se regirá por los principios de independencia, objetividad, transparencia y rigor técnico y tendrá
@@ -1599,13 +1599,13 @@ VIII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. El Instituto promoverá estrategias para el intercambio de información y experiencias con
 las autoridades de los tres órdenes de gobierno, que permitan retroalimentarse sobre la evaluación de los
@@ -1616,13 +1616,13 @@ Desarrollo Social y medición de la pobreza.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-82" placement="bottom">
+            <note placementBase="#art-82." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. Corresponde a la persona titular de la Presidencia del Instituto en materia de medición de
 la pobreza y de la evaluación integral de la Política de Desarrollo Social, coordinar la integración del
@@ -1637,13 +1637,13 @@ Secretaría de Servicios Parlamentarios
 , 16-07-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Artículo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. Corresponde a la Junta de Gobierno del Instituto, en materia de medición de la pobreza y
 la evaluación integral de la Política de Desarrollo Social, la emisión de recomendaciones, así como el
@@ -1663,33 +1663,760 @@ V. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-84." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. Derogado
 
-TRANSITORIOS
-PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-SEGUNDO.- El Titular del Poder Ejecutivo Federal expedirá el reglamento de esta Ley en un plazo no
-mayor de 90 días naturales a partir de su entrada en vigor.
-TERCERO.- En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-85." placement="bottom">
+              <p>Artículo derogado DOF 16-07-2025</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El Titular del Poder Ejecutivo Federal expedirá el reglamento de esta Ley en un plazo no
+mayor de 90 días naturales a partir de su entrada en vigor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- En un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente
 Decreto, deberán quedar constituidos e instalados el Consejo Nacional de Evaluación de la Política de
-Desarrollo Social, la Comisión Nacional, la Comisión Intersecretarial y el Consejo Consultivo.
-CUARTO.- Para el cumplimiento de su objeto, el Consejo Nacional de Evaluación deberá sujetarse a
-criterios de austeridad y eficiencia.
-QUINTO.- Las comisiones de Desarrollo Social, y de Hacienda y Crédito Público de la Cámara de
+Desarrollo Social, la Comisión Nacional, la Comisión Intersecretarial y el Consejo Consultivo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Para el cumplimiento de su objeto, el Consejo Nacional de Evaluación deberá sujetarse a
+criterios de austeridad y eficiencia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Las comisiones de Desarrollo Social, y de Hacienda y Crédito Público de la Cámara de
 Diputados deberán revisar la distribución de los fondos relativos al desarrollo social contenidos en el</p>
               </content>
             </paragraph>
-            <note placementBase="#art-85" placement="bottom">
-              <p>Artículo derogado DOF 16-07-2025</p>
-            </note>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+México, D.F., a 9 de diciembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen.
+Enrique Jackson Ramírez, Presidente.- Dip. Amalín Yabur Elías, Secretario.- Sen. Lydia Madero
+García, Secretaria.- Rúbricas".
+20 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diecinueve días
+del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
+Santiago Creel Miranda.- Rúbrica.
+21 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+DECRETO por el que se adiciona una fracción X al artículo 3 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 1 de junio de 2012
+ARTÍCULO ÚNICO. Se adiciona una fracción X al artículo 3 de la Ley General de Desarrollo Social,
+para quedar como sigue:
+……….
+TRANSITORIO
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.
+México, D.F., a 19 de abril de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
+González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Ludivina Menchaca
+Castellanos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de mayo
+de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación,
+Alejandro Alfonso Poiré Romero.- Rúbrica.
+22 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma el artículo 30 de la Ley General de Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 8 de abril de 2013
+ARTÍCULO ÚNICO.- Se reforma el artículo 30 de la Ley General de Desarrollo Social, para quedar
+como sigue:
+……….
+TRANSITORIO
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+México, D.F., a 7 de marzo de 2013.- Dip. Francisco Arroyo Vieyra, Presidente.- Sen. Ernesto
+Cordero Arroyo, Presidente.- Dip. Fernando Bribiesca Sahagun, Secretario.- Sen. María Elena
+Barrera Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dos de abril de dos
+mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.-
+Rúbrica.
+23 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se adiciona la fracción IX al artículo 36 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 7 de noviembre de 2013
+Artículo Único.- Se adiciona la fracción IX al artículo 36 de la Ley General de Desarrollo Social, para
+quedar como sigue:
+……….
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+México, D.F., a 26 de septiembre de 2013.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. Ricardo
+Anaya Cortés, Presidente.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Dip. Magdalena del
+Socorro Núñez Monreal, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de
+octubre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel
+Osorio Chong.- Rúbrica.
+24 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman los artículos 6, 14, 19 y 36 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
+Artículo Único.- Se reforman los artículos 6; 14, fracción I; 19, fracción V, y 36, fracción VII de la Ley
+General de Desarrollo Social, para quedar como sigue:
+……..
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 12 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
+Roberto Gil Zuarth, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen. César
+Octavio Pedroza Gaitán, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de mayo de dos mil
+dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.-
+Rúbrica.
+25 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma la fracción VII del artículo 3 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
+Artículo Único.- Se reforma la fracción VII del artículo 3 de la Ley General de Desarrollo Social, para
+quedar como sigue:
+……..
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 12 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
+Roberto Gil Zuarth, Presidente.- Dip. Alejandra Noemí Reynoso Sánchez, Secretaria.- Sen. César
+Octavio Pedroza Gaitán, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de mayo de dos mil
+dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.-
+Rúbrica.
+26 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se adiciona una fracción V al artículo 11 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 26 de enero de 2018
+Artículo Único.- Se adiciona una fracción V al artículo 11 de la Ley General de Desarrollo Social, para
+quedar como sigue:
+……….
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El Ejecutivo Federal, a más tardar a los noventa días naturales siguientes a la entrada en
+vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias
+correspondientes.
+Ciudad de México, a 30 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
+Ernesto Cordero Arroyo, Presidente.- Dip. Marco Antonio Aguilar Yunes, Secretario.- Sen. Rosa
+Adriana Díaz Lizama, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de enero de dos mil
+dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete
+Prida.- Rúbrica.
+27 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma el artículo 40 de la Ley General de Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 26 de enero de 2018
+Artículo Único.- Se reforma el artículo 40 de la Ley General de Desarrollo Social, para quedar como
+sigue:
+……….
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 30 de noviembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
+Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Rosa
+Adriana Díaz Lizama, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinticinco de enero de dos mil
+dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete
+Prida.- Rúbrica.
+28 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman los artículos 6, 19 y 36 de la Ley General de Desarrollo
+Social.
+Publicado en el Diario Oficial de la Federación el 22 de junio de 2018
+Artículo Único.- Se reforman los artículos 6; 19, fracción VII; y 36, fracciones V y VI de la Ley General
+de Desarrollo Social, para quedar como sigue:
+………
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
+Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores
+Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.-
+Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.-
+Rúbrica.
+29 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se adiciona una fracción XI al artículo 3 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 22 de junio de 2018
+Artículo Único. Se adiciona una fracción XI al artículo 3 de la Ley General de Desarrollo Social, para
+quedar como sigue:
+………
+Transitorio
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.
+Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
+Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores
+Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece de junio de dos mil dieciocho.-
+Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.-
+Rúbrica.
+30 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma el artículo 51 de la Ley General de Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
+Artículo Único.- Se reforma el artículo 51 de la Ley General de Desarrollo Social, para quedar como
+sigue:
+………
+Transitorio
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.
+Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
+Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores
+Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.-
+Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.-
+Rúbrica.
+31 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se adiciona un segundo párrafo al artículo 68 de la Ley General de
+Desarrollo Social.
+Publicado en el Diario Oficial de la Federación el 25 de junio de 2018
+Artículo Único.- Se adiciona un segundo párrafo al artículo 68 de la Ley General de Desarrollo Social,
+para quedar como sigue:
+………
+Transitorio
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.
+Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
+Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores
+Ramírez, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veinte de junio de dos mil dieciocho.-
+Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.-
+Rúbrica.
+32 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal
+de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y
+Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de
+la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de
+la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente
+del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de
+la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias
+del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado
+Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo
+Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria
+Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo
+del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo
+referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de
+la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos
+Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia
+Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera
+Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para
+la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de
+Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad
+Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones
+de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de
+la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud,
+de la Ley de Ciencia y Tecnología, en materia de paridad de género.
+Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
+Artículo Vigésimo Primero. Se reforma el artículo 83 de la Ley General de Desarrollo Social, para
+quedar como sigue:
+………
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
+en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
+fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
+caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta
+con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
+Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+33 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel
+López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.-
+Rúbrica.
+34 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y
+comunidades indígenas y afromexicanas.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+Artículo Cuadragésimo Quinto.- Se reforman los artículos 3, fracción VIII; 9; 34 y 51, de la Ley
+General de Desarrollo Social, para quedar como sigue:
+……..
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana
+Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí
+Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+35 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley
+General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad
+Hacendaria y de la Ley General de Contabilidad Gubernamental.
+Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
+Artículo Primero.- Se reforman los artículos 5, fracciones I, VII y X; 10, en su párrafo; 18; 19, en su
+párrafo; 29; 30; 36, en su párrafo; 37; 43, fracciones VII y IX; 49; 51; 57; 58; 61; 64; 65; 68, párrafo
+primero, fracciones I y IV; 69; 72; 73; 74; 80; 81; 82; 83 y 84, así como la denominación del Capítulo II del</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.
+A la entrada en vigor del presente Decreto se extingue el organismo descentralizado de la
+Administración Pública Federal, sectorizado a la Secretaría de Bienestar, denominado Consejo Nacional
+de Evaluación de la Política de Desarrollo Social, conservando su personalidad jurídica para llevar a cabo
+los actos a que se refiere éste.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del
+presente Decreto seguirán vigentes en lo que no se opongan al mismo, hasta en tanto se emitan las
+disposiciones que los sustituyan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los
+recursos presupuestarios, financieros y materiales, además de los inmuebles, derechos y obligaciones
+sobre dichos recursos al Instituto Nacional de Estadística y Geografía, en los términos que determinen
+ambas instituciones, sin perjuicio de lo dispuesto en el Artículo Tercero Transitorio del Decreto por el que
+se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados
+Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación
+el 20 de diciembre de 2024, a más tardar a los 20 días naturales contados a partir de la entrada en vigor
+del presente Decreto.
+El Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá entregar a la Secretaría
+de Hacienda y Crédito Público la información necesaria para integrar la Cuenta Pública y demás informes
+correspondientes al primer trimestre del presente año, de conformidad con las disposiciones jurídicas
+aplicables, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto,
+deberá dar cumplimiento con lo establecido en el artículo 134, párrafo tercero, de la Constitución Política
+de los Estados Unidos Mexicanos, para ajustar su estructura orgánica de conformidad con los principios
+de racionalidad y austeridad republicana, y evitar todo tipo de duplicidad de funciones, con base en las
+necesidades de mejora y modernización de la gestión pública.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la
+Política de Desarrollo Social, en coordinación con la Secretaría de Bienestar, concluya la relación laboral
+36 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+con todo su personal en los términos legales que correspondan. Los pagos correspondientes se
+realizarán con cargo al patrimonio del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+Las personas servidoras públicas del Consejo Nacional de Evaluación de la Política de Desarrollo
+Social que dejen de prestar sus servicios en dicho Consejo y que estén obligadas a presentar declaración
+patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los
+sistemas que la Secretaría Anticorrupción y Buen Gobierno tenga habilitados para tales efectos y
+conforme a la normativa aplicable a la Administración Pública Federal.
+El Instituto Nacional de Estadística y Geografía, conforme a su estructura orgánica y ocupacional, así
+como a su disponibilidad presupuestaria, contratará al personal que requiera bajo el régimen laboral
+previsto en el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, en
+concordancia con la normativa del Instituto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en
+los ordenamientos jurídicos se hagan o le confieran al Consejo Nacional de Evaluación de la Política de
+Desarrollo Social, deberán entenderse hechas o conferidas al Instituto Nacional de Estadística y
+Geografía cuando se refieran a la medición de la pobreza y evaluación integral de la Política de
+Desarrollo Social.
+Asimismo, las referencias y atribuciones que se hagan o le confieran al Consejo Nacional de
+Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas a la Secretaría
+de Hacienda y Crédito Público cuando se refieran al Presupuesto basado en Resultados y al Sistema de
+Evaluación del Desempeño.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- Los instrumentos jurídicos celebrados por el Consejo Nacional de Evaluación de la Política
+de Desarrollo Social seguirán vigentes y surtiendo sus efectos, hasta en tanto se determine su
+modificación, terminación o celebración de nuevos instrumentos jurídicos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- Los asuntos relacionados con el ejercicio de las atribuciones objeto del presente Decreto,
+que se encuentren en trámite, continuarán a cargo de las instituciones que asuman las atribuciones en
+términos del presente Decreto, y serán resueltas conforme a las disposiciones jurídicas vigentes al
+momento de su inicio.
+Las obligaciones a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social al
+momento de su extinción estarán a cargo del Instituto Nacional de Estadística y Geografía, incluyendo la
+defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- El acervo de información estadística, indicadores, estudios, bases de datos, informes y
+cualquier otro documento publicado o por publicar elaborado o en posesión del Consejo Nacional de
+Evaluación de la Política de Desarrollo Social deberá ser puesto a disposición del Instituto Nacional de
+Estadística y Geografía y, una vez revisado, será puesto a disposición de la ciudadanía en un portal
+electrónico público.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo.- Para efectos de lo dispuesto en los transitorios tercero, séptimo, octavo y noveno del
+presente Decreto, el Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá integrar,
+en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por las personas
+titulares de la Dirección General de Administración del Instituto Nacional de Estadística y Geografía, de la
+Secretaría Ejecutiva y de la Coordinación General de Administración del Consejo Nacional de Evaluación
+de la Política de Desarrollo Social, así como cuatro personas servidoras públicas quienes deberán de
+tener al menos el nivel de Dirección de área o equivalente, así como tener conocimiento o estar a cargo
+de los asuntos que se mencionan en dichos transitorios.
+37 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+El Comité de Transferencia estará vigente por un periodo de 20 días naturales contados a partir de la
+entrada en vigor del presente Decreto, en el que sus integrantes participarán con las diversas autoridades
+competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás
+acciones que se consideren necesarias para dichos efectos.
+Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de existir acciones pendientes,
+se estará a lo previsto en el segundo párrafo del transitorio octavo de este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá realizar las reformas
+necesarias a su Reglamento Interior para atender lo dispuesto en el presente Decreto, a más tardar
+dentro de los 20 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo
+Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente
+Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y
+subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos
+compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán
+ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
+Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez
+García, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de julio de 2025.- Claudia
+Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela
+Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+38 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley
+General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las
+Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y
+Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria
+del Apartado B) del Artículo 123 Constitucional; de la Ley General de Desarrollo Social;
+de la Ley General de Salud; de la Ley General de Educación; de la Ley del Seguro Social;
+de la Ley de Migración; de la Ley General de los Derechos de Niñas, Niños y
+Adolescentes; de la Ley del Instituto de Seguridad y Servicios Sociales de los
+Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley
+Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de
+Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos
+Culturales.
+Publicado en el Diario Oficial de la Federación el 15 de enero de 2026
+Artículo Quinto.- Se reforman los artículos 1, fracción I; 3, fracción VII; 6; 9; 10, fracción I; 11,
+fracciones I y II; 49, fracción I, y 50 fracción I; y se adiciona la fracción VI al artículo 11 y un segundo
+párrafo al artículo 19, de la Ley General de Desarrollo Social, para quedar como sigue:
+……..
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la
+Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en
+el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
+General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley
+General de Acceso de las Mujeres a una Vida Libre de Violencias.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las
+demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y
+reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar
+cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo
+que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este
+Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto
+publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
+General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la
+Igualdad Sustantiva entre Mujeres y Hombres.
+39 de 40
+LEY GENERAL DE DESARROLLO SOCIAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura
+Itzel Castillo Juárez, Presidenta.- Dip. Julieta Villalpando Riquelme, Secretaria.- Sen. María Martina
+Kantún Can, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 13 de enero de 2026.- Claudia
+Sheinbaum Pardo, Presidenta de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela
+Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
+40 de 40</p>
+              </content>
+            </paragraph>
           </article>
           <article id="trans-1">
             <num>PRIMERO</num>

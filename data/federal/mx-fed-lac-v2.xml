@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1995-05-12/lac/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1995-05-12/lac/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -97,9 +97,9 @@
       </chapter>
       <chapter id="chapter-24">
         <num>Capítulo XIX De las sanciones</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es de orden público y tiene por objeto regular la explotación, el uso o
 aprovechamiento del espacio aéreo situado sobre el territorio nacional, respecto de la prestación y
@@ -109,9 +109,9 @@ dominio de la Nación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Para los efectos de esta Ley, se entiende por:
 I. Actos de interferencia ilícita: Actos, o tentativas, destinados a comprometer la seguridad de
@@ -282,13 +282,13 @@ siempre que no se opongan a lo dispuesto en la Constitución Política de los Es
 , 26-06-2017, 18-06-2018, 20-05-2021. Reformado con fracciones en su totalidad DOF 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. La explotación, uso o aprovechamiento del espacio aéreo situado sobre el territorio
 nacional, es de jurisdicción federal.
@@ -306,16 +306,16 @@ bordo de un buque con bandera mexicana, establece el Código Civil Federal.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. La prestación y desarrollo de los servicios de transporte aéreo civil y la navegación civil en
 el espacio aéreo sobre territorio nacional se rige por lo previsto en esta Ley, por los tratados y, a falta de
@@ -328,16 +328,16 @@ IV. Los códigos de Comercio; Civil Federal, y Nacional de Procedimientos Civile
 , 14-11-2025</p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Las aeronaves mexicanas se clasifican en:
 I. Civiles, que podrán ser:
@@ -363,13 +363,13 @@ Nacionales.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Corresponde a la Secretaría, en materia de aviación civil y aeroportuaria, el ejercicio de las
 atribuciones siguientes:
@@ -403,7 +403,7 @@ Secretaría en materias relacionadas con el servicio de transporte aéreo civil.
 , 05-07-2006, 21-05-2013, 18-06-2018, 20-05-2021, 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
@@ -592,9 +592,9 @@ LI. Las demás que señalen esta Ley y otros ordenamientos aplicables.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. La Agencia Federal de Aviación Civil ejerce su autoridad en los aeropuertos, helipuertos y
 aeródromos en general, a través de las personas designadas como comandantes regionales y
@@ -636,25 +636,25 @@ fundadas en la legislación vigente aplicable a la materia.
 , 28-12-2001</p>
             </content>
           </paragraph>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Artículo reformado DOF 23-01-1998</p>
           </note>
         </article>
@@ -714,15 +714,15 @@ del aeropuerto.
             <p>Artículo adicionado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. (Se deroga).
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Artículo derogado DOF 22-12-1995</p>
           </note>
         </article>
@@ -753,9 +753,9 @@ protección del espacio aéreo.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. Se requiere de concesión que otorgue la Secretaría para prestar el servicio público de
 transporte aéreo nacional regular. Tal concesión sólo se otorgará a personas morales mexicanas.
@@ -778,16 +778,16 @@ parte de la Agencia Federal de Aviación Civil.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. Las concesiones se otorgarán hasta por un plazo de treinta años y podrán ser
 prorrogadas en una o varias ocasiones, siempre que cada una de dichas prórrogas no exceda el plazo a
@@ -832,9 +832,9 @@ De los permisos</p>
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Los servicios de transporte aéreo sujetos a permiso son los siguientes:
 , 03-05-2023
@@ -886,40 +886,40 @@ Sección Tercera
 Disposiciones comunes</p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Párrafo adicionado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Párrafo adicionado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. Las concesiones y los permisos se otorgarán a las personas que cumplan con los
 requisitos establecidos en esta Ley y sus reglamentos.
@@ -930,9 +930,9 @@ sujetará a lo dispuesto por la ley de la materia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. El título de concesión o el permiso deberá incluir, cuando menos, lo siguiente:
 I. El nombre y domicilio del concesionario o permisionario;
@@ -949,9 +949,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. Las concesiones o los permisos terminan por:
 I. Vencimiento del plazo establecido en la concesión o de la prórroga que, en su caso, se hubiere
@@ -965,9 +965,9 @@ durante su vigencia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. Las concesiones o asignaciones se pueden revocar por:
 
@@ -1024,40 +1024,40 @@ contado a partir de la fecha en que haya quedado firme la resolución respectiva
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 21-05-2013</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción adicionada DOF 21-05-2013</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Párrafo reformado DOF 06-06-2006</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Párrafo reformado DOF 06-06-2006</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
@@ -1112,9 +1112,9 @@ en que haya quedado firme la resolución respectiva.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. La Secretaría autorizará la cesión total o parcial de los derechos y obligaciones
 establecidos en las concesiones, dentro de un plazo de noventa días naturales contado a partir de la
@@ -1128,13 +1128,13 @@ a ningún Estado extranjero.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. En la prestación de los servicios de transporte aéreo se deberán adoptar las medidas
 necesarias para garantizar las condiciones máximas de seguridad de la aeronave y de su operación, a fin
@@ -1174,9 +1174,9 @@ Del servicio al público de transporte aéreo</p>
             <p>Artículo adicionado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. El servicio al público de transporte aéreo podrá ser: nacional o internacional; regular o no
 regular, y de pasajeros, carga o correo.
@@ -1185,13 +1185,13 @@ mexicanas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. La prestación del servicio público de transporte aéreo nacional regular estará sujeto a lo
 siguiente:
@@ -1210,22 +1210,22 @@ cancelada sin necesidad de declaratoria de la Agencia Federal de Aviación Civil
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. La prestación de servicios de transporte aéreo internacional regular por personas morales
 mexicanas estará sujeta a lo siguiente:
@@ -1256,22 +1256,22 @@ como los criterios a que se refiere el artículo 25 de esta Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. Las sociedades extranjeras requieren de permiso de la Agencia Federal de Aviación Civil
 para prestar el servicio de transporte aéreo internacional regular hacia y desde territorio mexicano; el
@@ -1279,13 +1279,13 @@ referido permiso será otorgado conforme a los tratados celebrados con los Estad
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. Las personas concesionarias, asignatarias y permisionarias que cuenten con autorización
 para explotar rutas aéreas en términos de esta Ley deben informar a la Agencia Federal de Aviación Civil
@@ -1294,13 +1294,13 @@ si son las únicas prestadoras del servicio.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. Los servicios de transporte aéreo no regular, nacional e internacional, incluyen, entre
 otros, los de fletamento y de taxis aéreos.
@@ -1331,22 +1331,22 @@ características de las operaciones y la forma de comercialización de los servi
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo adicionado DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. La prestación de servicios de transporte aéreo no regular internacional por parte de
 permisionarios mexicanos o por sociedades extranjeras, se sujeta a lo establecido en los tratados; a falta
@@ -1354,13 +1354,13 @@ de estos, la Agencia Federal de Aviación Civil resolverá lo conducente.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. La Agencia Federal de Aviación Civil, al resolver las solicitudes a que se refieren los
 artículos 19 a 21 y 24 de esta Ley, tomará en cuenta criterios que fomenten la competencia efectiva, la
@@ -1368,13 +1368,13 @@ permanencia, calidad y eficiencia del servicio, así como el desarrollo de los s
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. Las personas concesionarias, asignatarias o permisionarias regulares deben enviar a la
 Agencia Federal de Aviación Civil, para su conocimiento, los acuerdos comerciales y de cooperación que
@@ -1386,13 +1386,13 @@ De los servicios aéreos a terceros
 Denominación de la Sección reformada DOF 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. Se consideran servicios aéreos a terceros aquellos que se prestan con fines de lucro a
 una o más personas físicas o morales, distintas de las propietarias o poseedoras de la misma aeronave.
@@ -1418,13 +1418,13 @@ Secretaría de Servicios Parlamentarios
 Denominación de la Sección reformada DOF 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. La operación de las aeronaves para uso particular es aquella que se realiza sin fines de
 lucro; no requiere de permiso, pero debe contar con los certificados de matrícula y de aeronavegabilidad,
@@ -1436,13 +1436,13 @@ sus reglamentos y por las disposiciones técnico-administrativas aplicables.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. Las aeronaves para uso particular extranjeras pueden sobrevolar el espacio aéreo
 nacional y realizar aterrizajes y despegues en territorio mexicano, siempre que cuenten con la
@@ -1460,22 +1460,22 @@ Reforma DOF 03-05-2023 (Ed. vesp., páginas 2 a 13): Derogó del artículo los e
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Los aerostatos, aeronaves ultraligeras, ligeras deportivas, experimentales, sistema de
 aeronaves pilotadas a distancia u otras análogas, con o sin motor, que no presten servicio público, deben
@@ -1489,13 +1489,13 @@ Sección Quinta
 De las aeronaves de Estado</p>
             </content>
           </paragraph>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. La operación de las aeronaves de Estado no requerirá permiso; se ajustará a la
 obtención de los certificados de matrícula y de aeronavegabilidad correspondientes, y deberá contar con
@@ -1505,9 +1505,9 @@ las mismas, sin perjuicio de lo dispuesto por el artículo 37 de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32. Toda aeronave, para realizar vuelos, debe llevar a bordo la información aeronáutica
 necesaria para sus operaciones, la póliza de seguro, así como los certificados de aeronavegabilidad y de
@@ -1533,22 +1533,22 @@ excepto cuando hayan cambiado las características del equipo o la matrícula de
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo reformado DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo adicionado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo adicionado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo adicionado DOF 26-01-2015</p>
           </note>
         </article>
@@ -1604,9 +1604,9 @@ Secretaría de Servicios Parlamentarios</p>
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33. En las aeronaves civiles no podrán abordar personas armadas, en estado de ebriedad o
 bajo el influjo de estupefacientes, psicotrópicos o enervantes; y sólo con las autorizaciones
@@ -1623,16 +1623,16 @@ administrativas que emita la Agencia Federal de Aviación Civil.
 . Reformado DOF 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Párrafo adicionado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34. La Agencia Federal de Aviación Civil debe regular el transporte aéreo de mercancías
 peligrosas, así como de armas, municiones y explosivos, sin perjuicio de las atribuciones conferidas a
@@ -1643,7 +1643,7 @@ segundo párrafo al artículo 34. Sin embargo, mediante un segundo Decreto publi
 03-05-2023, pero en las páginas 17 a 62, se reformó completo el artículo 34 para quedar con un solo párrafo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
@@ -1697,9 +1697,9 @@ según corresponda.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35. De acuerdo con las reglas de vuelo por instrumentos, para la navegación en el espacio
 aéreo, es obligatorio utilizar los servicios de tránsito aéreo, radioayudas, meteorología,
@@ -1713,13 +1713,13 @@ reglamentos y demás disposiciones técnico-administrativas aplicables.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-35" placement="bottom">
+          <note placementBase="#art-35." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36. El Ejecutivo Federal, por razones de emergencia, seguridad pública o defensa nacional,
 podrá establecer zonas prohibidas, restringidas o peligrosas a la navegación aérea civil.
@@ -1735,16 +1735,16 @@ señalará las áreas donde estos deben llevarse a cabo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-36" placement="bottom">
+          <note placementBase="#art-36." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-36" placement="bottom">
+          <note placementBase="#art-36." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37. Las operaciones de aeronaves militares en cualquier parte del espacio aéreo situado
 sobre el territorio nacional, a excepción de las áreas restringidas para su operación exclusiva, se
@@ -1756,9 +1756,9 @@ correspondan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38. El personal técnico-aeronáutico está constituido por el personal de vuelo que interviene
 directamente en la operación de la aeronave y por el personal de tierra, cuyas funciones se especifiquen
@@ -1808,37 +1808,37 @@ correspondiente y las disposiciones técnico-administrativas emitidas para tal e
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo reformado DOF 23-01-1998</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo adicionado DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo adicionado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo adicionado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39. Las personas concesionarias, asignatarias, o permisionarias tendrán la obligación, de
 conformidad con la ley de la materia, de proporcionar al personal a que se refiere el artículo anterior, la
@@ -1866,13 +1866,13 @@ Sección Segunda
 Del comandante de la aeronave</p>
             </content>
           </paragraph>
-          <note placementBase="#art-39" placement="bottom">
+          <note placementBase="#art-39." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- Toda aeronave deberá contar con un comandante o piloto al mando, quien será la
 máxima autoridad a bordo y el responsable de su operación y dirección y de mantener el orden y la
@@ -1895,16 +1895,16 @@ de aterrizaje en el territorio nacional, o de las autoridades competentes y del 
 aterrizaje se realiza en el extranjero.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Párrafo reformado DOF 23-01-1998</p>
           </note>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41. La persona piloto al mando de la aeronave es responsable de la operación y seguridad
 de la misma desde que la aborda para la preparación del vuelo hasta que se detiene por completo, al
@@ -1921,13 +1921,13 @@ aeronave.
 , 20-05-2021, 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42. Las personas concesionarias, asignatarias, o permisionarias fijarán libremente las tarifas
 por los servicios que presten, en términos que permitan la prestación de los servicios en condiciones
@@ -1951,16 +1951,16 @@ permanecerán vigentes por el tiempo y en las condiciones ofrecidas. Las restric
 del conocimiento del usuario al momento de la contratación del servicio.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Párrafo adicionado DOF 28-12-2001</p>
           </note>
         </article>
@@ -1989,9 +1989,9 @@ la Procuraduría, conforme a lo dispuesto en la Ley Federal de Protección al Co
             <p>Artículo adicionado DOF 26-06-2017</p>
           </note>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43. Cuando la Agencia Federal de Aviación Civil, por sí o a petición de la parte afectada,
 considere que no existe competencia efectiva entre las concesionarias, asignatarias o permisionarias,
@@ -2011,16 +2011,16 @@ Los concesionarios y permisionarios sujetos a tal regulación podrán solicitar 
 Competencia que emita opinión sobre la aplicación y subsistencia de tales condiciones.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44. Toda aeronave civil deberá llevar marcas distintivas de su nacionalidad y matrícula. Las
 aeronaves mexicanas deberán ostentar además, la bandera nacional.
@@ -2035,16 +2035,16 @@ ajustará a lo establecido en las disposiciones técnico-administrativas corresp
 Las aeronaves civiles tienen la nacionalidad del Estado en que estén matriculadas.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45. Pueden matricularse en los Estados Unidos Mexicanos las aeronaves propiedad o en
 legítima posesión de personas mexicanas o extranjeras dedicadas exclusivamente a la operación de
@@ -2067,19 +2067,19 @@ Federal de Aviación Civil con sujeción al reglamento respectivo.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-45" placement="bottom">
+          <note placementBase="#art-45." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-45" placement="bottom">
+          <note placementBase="#art-45." placement="bottom">
             <p>Párrafo adicionado DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-45" placement="bottom">
+          <note placementBase="#art-45." placement="bottom">
             <p>Párrafo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46. La cancelación de la matrícula de una aeronave en el Registro Aeronáutico Mexicano
 tendrá por consecuencia la pérdida de su nacionalidad mexicana y podrá realizarse en los siguientes
@@ -2099,9 +2099,9 @@ VI. Por cualquiera otra causa que señalen los reglamentos respectivos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47. El Registro Aeronáutico Mexicano es público, está a cargo de la Agencia Federal de
 Aviación Civil, y deben inscribirse:
@@ -2126,19 +2126,19 @@ El reglamento respectivo determinará los requisitos a que deberán sujetarse la
 cancelaciones y las certificaciones que deban expedirse.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción adicionada DOF 18-06-2018</p>
           </note>
         </article>
@@ -2489,18 +2489,18 @@ V. Las demás que establezcan la Ley y demás ordenamientos.
             <p>Artículo adicionado DOF 26-06-2017</p>
           </note>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48. Los contratos de servicio de transporte aéreo podrán referirse a pasajeros, carga o
 correo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>Artículo 49. El contrato de transporte de las personas pasajeras es el acuerdo entre una persona
 concesionaria, asignataria o permisionaria y una persona pasajera, por el cual el primero se obliga a
@@ -2524,13 +2524,13 @@ la contratación obligatoria de servicios adicionales.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-49" placement="bottom">
+          <note placementBase="#art-49." placement="bottom">
             <p>Artículo reformado DOF 26-06-2017</p>
           </note>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>Artículo 50. El transporte de animales domésticos en las aeronaves de servicio público de transporte
 aéreo de personas pasajeras será efectuado por la persona concesionaria, asignataria o permisionaria
@@ -2542,13 +2542,13 @@ correspondientes.
 , 26-06-2017, 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-50" placement="bottom">
+          <note placementBase="#art-50." placement="bottom">
             <p>Artículo reformado DOF 10-10-2016</p>
           </note>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>Artículo 51. Para los servicios de transporte aéreo internacional, el contrato de transporte aéreo de
 pasajeros se sujetará a lo dispuesto en los tratados y a esta Ley.
@@ -2558,9 +2558,9 @@ respectivo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>Artículo 52. Cuando se hayan expedido boletos en exceso a la capacidad disponible de la aeronave y
 se tenga por consecuencia la denegación del embarque, el propio concesionario o permisionario, a
@@ -2580,7 +2580,7 @@ además, una indemnización al pasajero afectado que no será inferior al veinti
 del boleto o billete de pasaje o de la parte no realizada del viaje.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-52" placement="bottom">
+          <note placementBase="#art-52." placement="bottom">
             <p>Párrafo reformado DOF 26-06-2017</p>
           </note>
         </article>
@@ -2607,9 +2607,9 @@ Secretaría de Servicios Parlamentarios</p>
             <p>Artículo adicionado DOF 26-06-2017</p>
           </note>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>Artículo 53. Los pasajeros no tendrán los derechos a que se refiere el artículo anterior cuando el
 transporte lo hagan a título gratuito, con tarifas reducidas que no estén disponibles al público, o cuando
@@ -2617,9 +2617,9 @@ no se presenten o lo hicieren fuera del tiempo fijado para documentar el embarqu
             </content>
           </paragraph>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>Artículo 54. En vuelos de conexión, el concesionario o permisionario será responsable, en su caso,
 de los daños causados a pasajeros y equipaje facturado en tránsito o por retraso en el servicio de
@@ -2628,9 +2628,9 @@ permisionario y el pasajero.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>Artículo 55. Se entiende por contrato de transporte de carga el acuerdo entre el concesionario o
 permisionario y el embarcador, por virtud del cual, el primero se obliga frente al segundo, a trasladar sus
@@ -2646,18 +2646,18 @@ dispuesto en los tratados y en esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>Artículo 56. El porteador tendrá derecho de retener la carga hasta en tanto se cubre el precio
 indicado por el transporte en la carta de porte o guía de carga aérea.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>Artículo 57. Se entiende por contrato de transporte de correos, el acuerdo entre el concesionario o
 permisionario y el organismo público descentralizado que preste el servicio público de correo, por virtud
@@ -2668,9 +2668,9 @@ modalidades que convenga a la prestación eficiente del servicio.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>Artículo 58. Los concesionarios o permisionarios serán responsables ante los pasajeros,
 embarcadores o el organismo descentralizado a que se refiere el artículo anterior, por los actos u
@@ -2683,9 +2683,9 @@ Del contrato de fletamento de aeronaves</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>Artículo 59. El fletamento de aeronaves es el contrato mediante el cual el permisionario de la
 prestación del servicio al público de transporte aéreo no regular, en su carácter de fletante, pone a
@@ -2701,9 +2701,9 @@ la aeronave.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>Artículo 60. El fletante responderá exclusivamente ante el fletador por el incumplimiento de las
 obligaciones pactadas entre ellos, y además será responsable por los daños que se produzcan a las
@@ -2715,9 +2715,9 @@ actúen por cuenta y a nombre del propio fletador.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>Artículo 61. Los concesionarios o permisionarios de los servicios de transporte aéreo nacional, serán
 responsables por los daños causados a los pasajeros, a la carga y al equipaje en el transporte.
@@ -2732,9 +2732,9 @@ competente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>Artículo 62. Para los daños a pasajeros, el derecho a percibir indemnizaciones se sujetará a lo
 dispuesto por el artículo 1915 del Código Civil Federal, salvo por lo que se refiere al monto que será el
@@ -2746,13 +2746,13 @@ equivalente a la suma de ciento cincuenta Unidades de Medida y Actualización.
 , 18-06-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Artículo reformado DOF 26-06-2017</p>
           </note>
         </article>
-        <article id="art-63">
-          <num>Artículo 63</num>
-          <paragraph id="art-63-para-1">
+        <article id="art-63.">
+          <num>Artículo 63.</num>
+          <paragraph id="art-63.-para-1">
             <content>
               <p>Artículo 63. Por la pérdida o avería de la carga, los concesionarios o permisionarios deberán cubrir al
 destinatario o, en su defecto, al remitente, una indemnización equivalente a diez Unidades de Medida y
@@ -2760,13 +2760,13 @@ Actualización por kilogramo de peso bruto.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Artículo reformado DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-64">
-          <num>Artículo 64</num>
-          <paragraph id="art-64-para-1">
+        <article id="art-64.">
+          <num>Artículo 64.</num>
+          <paragraph id="art-64.-para-1">
             <content>
               <p>Artículo 64. En los casos de las indemnizaciones previstas en los artículos 62 y 63 anteriores, el
 concesionario o permisionario no gozará del beneficio de limitación de responsabilidad, y deberá cubrir
@@ -2784,13 +2784,13 @@ fecha en que ocurran los daños.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-64" placement="bottom">
+          <note placementBase="#art-64." placement="bottom">
             <p>Artículo reformado DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-65">
-          <num>Artículo 65</num>
-          <paragraph id="art-65-para-1">
+        <article id="art-65.">
+          <num>Artículo 65.</num>
+          <paragraph id="art-65.-para-1">
             <content>
               <p>Artículo 65. Los concesionarios o permisionarios responderán por la pérdida o daño que pueda sufrir
 la carga por el precio total de los mismos, inclusive los derivados de caso fortuito o fuerza mayor, cuando
@@ -2801,9 +2801,9 @@ daño del equipaje facturado, en los términos del párrafo anterior.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-66">
-          <num>Artículo 66</num>
-          <paragraph id="art-66-para-1">
+        <article id="art-66.">
+          <num>Artículo 66.</num>
+          <paragraph id="art-66.-para-1">
             <content>
               <p>Artículo 66. Las reclamaciones para los casos de pérdida o avería de la carga o equipaje facturado,
 deberán presentarse ante el concesionario o permisionario dentro de los quince días siguientes contados
@@ -2818,9 +2818,9 @@ de iniciación del viaje prevista en el contrato de transporte.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-67">
-          <num>Artículo 67</num>
-          <paragraph id="art-67-para-1">
+        <article id="art-67.">
+          <num>Artículo 67.</num>
+          <paragraph id="art-67.-para-1">
             <content>
               <p>Artículo 67. Los concesionarios o permisionarios del servicio al público de transporte aéreo estarán
 exentos de las responsabilidades por daños causados en los siguientes casos:
@@ -2837,34 +2837,27 @@ destinatario de los bienes, o del titular de la carta de porte, respecto del man
             </content>
           </paragraph>
         </article>
-        <article id="art-68">
-          <num>Artículo 68</num>
-          <paragraph id="art-68-para-1">
+        <article id="art-68.">
+          <num>Artículo 68.</num>
+          <paragraph id="art-68.-para-1">
             <content>
               <p>Artículo 68. Los daños que sufran las personas o carga transportadas en aeronaves destinadas a
 servicios aéreos a terceros se sujetarán a las disposiciones del Código Civil Federal.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-68" placement="bottom">
+          <note placementBase="#art-68." placement="bottom">
             <p>Artículo reformado DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-69">
-          <num>Artículo 69</num>
-          <paragraph id="art-69-para-1">
+        <article id="art-69.">
+          <num>Artículo 69.</num>
+          <paragraph id="art-69.-para-1">
             <content>
               <p>Artículo 69. Será nula de pleno derecho toda cláusula que se inserte en los contratos de transporte
 con objeto de establecer límites de responsabilidad inferiores a los previstos en los artículos 62 y 63
-anteriores, o que establezcan causas de exoneración de responsabilidad distintas de las previstas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-67">
-          <num>Artículo 67</num>
-          <paragraph id="art-67-para-1">
-            <content>
-              <p>artículo 67 anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
+anteriores, o que establezcan causas de exoneración de responsabilidad distintas de las previstas en el
+artículo 67 anterior. La nulidad de tales cláusulas no implicará la del contrato de transporte.
 39 de 88
 LEY DE AVIACIÓN CIVIL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
@@ -2875,9 +2868,9 @@ De los daños a terceros</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-70">
-          <num>Artículo 70</num>
-          <paragraph id="art-70-para-1">
+        <article id="art-70.">
+          <num>Artículo 70.</num>
+          <paragraph id="art-70.-para-1">
             <content>
               <p>Artículo 70. Cuando por la operación de una aeronave, por objetos desprendidos de la misma o por
 abordaje, se causen daños a personas o cosas que se encuentren en la superficie, nacerá la
@@ -2897,13 +2890,13 @@ La aeronave se considera en vuelo desde el momento en que inicia la carrera para
 el momento en que concluya el recorrido del aterrizaje.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-70" placement="bottom">
+          <note placementBase="#art-70." placement="bottom">
             <p>Párrafo reformado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-71">
-          <num>Artículo 71</num>
-          <paragraph id="art-71-para-1">
+        <article id="art-71.">
+          <num>Artículo 71.</num>
+          <paragraph id="art-71.-para-1">
             <content>
               <p>Artículo 71. Cuando exista colisión entre dos o más aeronaves, las personas concesionarias,
 asignatarias o permisionarias y, aun en la operación de aeronaves para uso particular, las personas
@@ -2916,13 +2909,13 @@ movimiento, o a personas o bienes a bordo de éstas, por otra aeronave en movimi
 efectiva colisión.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-71" placement="bottom">
+          <note placementBase="#art-71." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-72">
-          <num>Artículo 72</num>
-          <paragraph id="art-72-para-1">
+        <article id="art-72.">
+          <num>Artículo 72.</num>
+          <paragraph id="art-72.-para-1">
             <content>
               <p>Artículo 72. En el caso de daños a personas, se cubrirá la indemnización correspondiente conforme a
 los términos señalados en el primer párrafo del artículo 62 de esta Ley. Para el caso de objetos en la
@@ -2936,16 +2929,16 @@ sus dependientes o de sus personas empleadas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-72" placement="bottom">
+          <note placementBase="#art-72." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-72" placement="bottom">
+          <note placementBase="#art-72." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
+        <article id="art-73.">
+          <num>Artículo 73.</num>
+          <paragraph id="art-73.-para-1">
             <content>
               <p>Artículo 73. Las acciones para exigir las indemnizaciones a que se refiere esta sección, prescribirán
 en un año a partir de la fecha en la cual ocurrieron los hechos.
@@ -2957,9 +2950,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-74">
-          <num>Artículo 74</num>
-          <paragraph id="art-74-para-1">
+        <article id="art-74.">
+          <num>Artículo 74.</num>
+          <paragraph id="art-74.-para-1">
             <content>
               <p>Artículo 74. Las personas concesionarias, asignatarias o permisionarias y, en el caso de las
 operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de aeronaves, que
@@ -2977,13 +2970,13 @@ tratados.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-74" placement="bottom">
+          <note placementBase="#art-74." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-75">
-          <num>Artículo 75</num>
-          <paragraph id="art-75-para-1">
+        <article id="art-75.">
+          <num>Artículo 75.</num>
+          <paragraph id="art-75.-para-1">
             <content>
               <p>Artículo 75. Las reclamaciones por daños deben hacerse valer ante la persona concesionaria,
 asignataria o permisionaria y, en el caso de las operaciones de aeronaves para uso particular, ante la
@@ -2992,13 +2985,13 @@ respectivo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-75" placement="bottom">
+          <note placementBase="#art-75." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-76">
-          <num>Artículo 76</num>
-          <paragraph id="art-76-para-1">
+        <article id="art-76.">
+          <num>Artículo 76.</num>
+          <paragraph id="art-76.-para-1">
             <content>
               <p>Artículo 76. Las personas concesionarias, asignatarias y permisionarias y, en el caso de las
 operaciones para uso particular, la persona propietaria o poseedora de las aeronaves que sobrevuelen,
@@ -3016,7 +3009,7 @@ aviación internacional y a los reglamentos de esta Ley.
 , 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-76" placement="bottom">
+          <note placementBase="#art-76." placement="bottom">
             <p>Artículo reformado DOF 21-05-2013</p>
           </note>
         </article>
@@ -3040,9 +3033,9 @@ Secretaría de Servicios Parlamentarios</p>
             <p>Artículo adicionado DOF 21-05-2013</p>
           </note>
         </article>
-        <article id="art-77">
-          <num>Artículo 77</num>
-          <paragraph id="art-77-para-1">
+        <article id="art-77.">
+          <num>Artículo 77.</num>
+          <paragraph id="art-77.-para-1">
             <content>
               <p>Artículo 77. La Agencia Federal de Aviación Civil está facultada para hacer la declaratoria de
 abandono de aeronaves cuando:
@@ -3064,19 +3057,19 @@ Sector Público.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-77" placement="bottom">
+          <note placementBase="#art-77." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-77" placement="bottom">
+          <note placementBase="#art-77." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-77" placement="bottom">
+          <note placementBase="#art-77." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-78">
-          <num>Artículo 78</num>
-          <paragraph id="art-78-para-1">
+        <article id="art-78.">
+          <num>Artículo 78.</num>
+          <paragraph id="art-78.-para-1">
             <content>
               <p>Artículo 78. En el caso de aeronaves abandonadas en aeródromos o helipuertos en los que no haya
 control de tráfico, o sitios no habilitados para operaciones aéreas, la Agencia Federal de Aviación Civil
@@ -3084,7 +3077,7 @@ dará parte de inmediato a las autoridades competentes.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-78" placement="bottom">
+          <note placementBase="#art-78." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
@@ -3528,15 +3521,8 @@ oficiales mexicanas y las disposiciones técnico-administrativas aplicables.
           <num>Artículo 78</num>
           <paragraph id="art-78-para-1">
             <content>
-              <p>Artículo 78 Quater. Las personas proveedoras de servicio y operadoras aéreas señaladas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-78">
-          <num>Artículo 78</num>
-          <paragraph id="art-78-para-1">
-            <content>
-              <p>artículo 78 Ter deben implementar y mantener la gestión de los riesgos asociados a la fatiga mediante un
+              <p>Artículo 78 Quater. Las personas proveedoras de servicio y operadoras aéreas señaladas en el
+artículo 78 Ter deben implementar y mantener la gestión de los riesgos asociados a la fatiga mediante un
 enfoque prescriptivo cuando solo realicen operaciones nacionales o internacionales, o una combinación
 de estas, conforme a las disposiciones jurídicas aplicables no excediendo las limitaciones prescriptivas
 establecidas por el Gobierno Federal.
@@ -3555,15 +3541,8 @@ oficial mexicana y las disposiciones técnico-administrativas correspondientes.
           <num>Artículo 78</num>
           <paragraph id="art-78-para-1">
             <content>
-              <p>Artículo 78 Quinquies. Las personas proveedoras de servicio y operadoras aéreas señaladas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-78">
-          <num>Artículo 78</num>
-          <paragraph id="art-78-para-1">
-            <content>
-              <p>artículo 78 Ter deben implementar y mantener un Sistema de gestión de los riesgos asociados a la fatiga
+              <p>Artículo 78 Quinquies. Las personas proveedoras de servicio y operadoras aéreas señaladas en el
+artículo 78 Ter deben implementar y mantener un Sistema de gestión de los riesgos asociados a la fatiga
 cuando:
 I. Realicen operaciones a destinos internacionales, traspasando más de dos husos horarios en
 sus operaciones o tengan vuelos nocturnos, o una combinación de estos, y
@@ -3882,9 +3861,9 @@ Organización de Aviación Civil Internacional.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-79">
-          <num>Artículo 79</num>
-          <paragraph id="art-79-para-1">
+        <article id="art-79.">
+          <num>Artículo 79.</num>
+          <paragraph id="art-79.-para-1">
             <content>
               <p>Artículo 79. Las personas concesionarias, asignatarias, operadoras aéreas, o permisionarias y, en el
 caso de las operaciones de aeronaves para uso particular, las personas propietarias o poseedoras de
@@ -3903,22 +3882,22 @@ accidente que afecte o pueda afectar la seguridad operacional.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-79" placement="bottom">
+          <note placementBase="#art-79." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-79" placement="bottom">
+          <note placementBase="#art-79." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-79" placement="bottom">
+          <note placementBase="#art-79." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-79" placement="bottom">
+          <note placementBase="#art-79." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-80">
-          <num>Artículo 80</num>
-          <paragraph id="art-80-para-1">
+        <article id="art-80.">
+          <num>Artículo 80.</num>
+          <paragraph id="art-80.-para-1">
             <content>
               <p>Artículo 80. La búsqueda y salvamento en accidentes de aeronaves civiles es de interés público y las
 autoridades, las personas propietarias, poseedoras, concesionarias, asignatarias, operadoras aéreas,
@@ -3943,19 +3922,19 @@ les requiera la Secretaría a través de la Agencia Federal de Aviación Civil.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-80" placement="bottom">
+          <note placementBase="#art-80." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-80" placement="bottom">
+          <note placementBase="#art-80." placement="bottom">
             <p>Párrafo reformado DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-80" placement="bottom">
+          <note placementBase="#art-80." placement="bottom">
             <p>Párrafo adicionado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-81">
-          <num>Artículo 81</num>
-          <paragraph id="art-81-para-1">
+        <article id="art-81.">
+          <num>Artículo 81.</num>
+          <paragraph id="art-81.-para-1">
             <content>
               <p>Artículo 81. Corresponde a la Secretaría la investigación de los accidentes e incidentes sufridos por
 aeronaves civiles, a través de la Comisión Investigadora y Dictaminadora de Accidentes Aéreos, quien
@@ -3975,7 +3954,7 @@ administrativa, civil o penal.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-81" placement="bottom">
+          <note placementBase="#art-81." placement="bottom">
             <p>Artículo reformado DOF 20-05-2021</p>
           </note>
         </article>
@@ -4099,9 +4078,9 @@ preliminar y, en su caso, final.
             <p>Artículo adicionado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-82">
-          <num>Artículo 82</num>
-          <paragraph id="art-82-para-1">
+        <article id="art-82.">
+          <num>Artículo 82.</num>
+          <paragraph id="art-82.-para-1">
             <content>
               <p>Artículo 82. Se considerará perdida una aeronave, salvo prueba en contrario, en los siguientes casos:
 I. Por declaración de la persona concesionaria, asignataria, operadora aérea o permisionaria y, en
@@ -4115,10 +4094,10 @@ correspondientes.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-82" placement="bottom">
+          <note placementBase="#art-82." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-82" placement="bottom">
+          <note placementBase="#art-82." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
         </article>
@@ -4184,9 +4163,9 @@ para tal efecto.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-83">
-          <num>Artículo 83</num>
-          <paragraph id="art-83-para-1">
+        <article id="art-83.">
+          <num>Artículo 83.</num>
+          <paragraph id="art-83.-para-1">
             <content>
               <p>Artículo 83. En caso de desastre natural, de guerra, de grave alteración del orden público o cuando
 se tema algún peligro inminente para la seguridad nacional, la paz interior del país o para la economía
@@ -4203,9 +4182,9 @@ de los gastos que se originen por el peritaje.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-84">
-          <num>Artículo 84</num>
-          <paragraph id="art-84-para-1">
+        <article id="art-84.">
+          <num>Artículo 84.</num>
+          <paragraph id="art-84.-para-1">
             <content>
               <p>Artículo 84. La Agencia Federal de Aviación Civil vigilará y verificará el cumplimiento de esta Ley, sus
 reglamentos y demás disposiciones aplicables, sin perjuicio de la competencia que expresamente
@@ -4247,7 +4226,7 @@ transparencia y protección de datos personales.
 , 26-06-2017, 03-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Artículo reformado DOF 28-12-2001</p>
           </note>
         </article>
@@ -4299,9 +4278,9 @@ disposiciones aplicables.
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-85">
-          <num>Artículo 85</num>
-          <paragraph id="art-85-para-1">
+        <article id="art-85.">
+          <num>Artículo 85.</num>
+          <paragraph id="art-85.-para-1">
             <content>
               <p>Artículo 85. La Agencia Federal de Aviación Civil aprobará la operación de unidades de inspección
 para las actividades de vigilancia y verificación, siempre que se cumpla con lo dispuesto en la Ley de
@@ -4310,13 +4289,13 @@ mexicano, los reglamentos y demás disposiciones jurídicas aplicables.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-85" placement="bottom">
+          <note placementBase="#art-85." placement="bottom">
             <p>Artículo reformado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-86">
-          <num>Artículo 86</num>
-          <paragraph id="art-86-para-1">
+        <article id="art-86.">
+          <num>Artículo 86.</num>
+          <paragraph id="art-86.-para-1">
             <content>
               <p>Artículo 86. Las infracciones a lo dispuesto en la presente Ley cometidas por la persona
 concesionaria, asignataria, operadora aérea o permisionaria, según se trate, serán sancionadas por la
@@ -4458,58 +4437,58 @@ multa de quinientas a dos mil Unidades de Medida y Actualización.
 (Ed. vesp., páginas 17 a 62)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Párrafo reformado DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Inciso reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Inciso reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Inciso adicionado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Inciso adicionado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
         </article>
@@ -4528,9 +4507,9 @@ Unidades de Medida y Actualización.
             <p>Artículo adicionado DOF 28-12-2001</p>
           </note>
         </article>
-        <article id="art-87">
-          <num>Artículo 87</num>
-          <paragraph id="art-87-para-1">
+        <article id="art-87.">
+          <num>Artículo 87.</num>
+          <paragraph id="art-87.-para-1">
             <content>
               <p>Artículo 87. Se les impondrán a las personas concesionarias, asignatarias, operadoras aéreas y
 permisionarias de servicio al público de transporte aéreo las siguientes sanciones por:
@@ -4620,70 +4599,70 @@ y cuando no sea por falla técnica o emergencia.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 26-06-2017</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción reformada DOF 26-06-2017</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 26-06-2017</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 26-06-2017</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-88">
-          <num>Artículo 88</num>
-          <paragraph id="art-88-para-1">
+        <article id="art-88.">
+          <num>Artículo 88.</num>
+          <paragraph id="art-88.-para-1">
             <content>
               <p>Artículo 88. Se impondrá sanción a la persona comandante o piloto de cualquier aeronave civil por:
 
@@ -4803,85 +4782,85 @@ no sea por falla técnica o emergencia.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 28-12-2001</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción reformada DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
         </article>
@@ -5072,9 +5051,9 @@ correspondientes, multa de quinientas a dos mil Unidades de Medida y Actualizaci
             <p>Artículo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-89">
-          <num>Artículo 89</num>
-          <paragraph id="art-89-para-1">
+        <article id="art-89.">
+          <num>Artículo 89.</num>
+          <paragraph id="art-89.-para-1">
             <content>
               <p>Artículo 89. Cualquier otra infracción o incumplimiento a esta Ley, sus reglamentos, normas oficiales
 mexicanas y disposiciones técnico-administrativas que no esté expresamente prevista en los artículos
@@ -5091,19 +5070,19 @@ Ciudad de México, publicada en el Diario Oficial de la Federación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-89" placement="bottom">
+          <note placementBase="#art-89." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
-          <note placementBase="#art-89" placement="bottom">
+          <note placementBase="#art-89." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-89" placement="bottom">
+          <note placementBase="#art-89." placement="bottom">
             <p>Párrafo reformado DOF 18-06-2018</p>
           </note>
         </article>
-        <article id="art-90">
-          <num>Artículo 90</num>
-          <paragraph id="art-90-para-1">
+        <article id="art-90.">
+          <num>Artículo 90.</num>
+          <paragraph id="art-90.-para-1">
             <content>
               <p>Artículo 90. Sin perjuicio a las demás sanciones que establece esta Ley y su reglamento, se le
 revocará la licencia a la persona comandante de la aeronave que incurra en los siguientes supuestos:
@@ -5132,25 +5111,25 @@ operación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-90" placement="bottom">
+          <note placementBase="#art-90." placement="bottom">
             <p>Párrafo reformado DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-90" placement="bottom">
+          <note placementBase="#art-90." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-90" placement="bottom">
+          <note placementBase="#art-90." placement="bottom">
             <p>Fracción reformada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-90" placement="bottom">
+          <note placementBase="#art-90." placement="bottom">
             <p>Fracción adicionada DOF 03-05-2023</p>
           </note>
-          <note placementBase="#art-90" placement="bottom">
+          <note placementBase="#art-90." placement="bottom">
             <p>Artículo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-91">
-          <num>Artículo 91</num>
-          <paragraph id="art-91-para-1">
+        <article id="art-91.">
+          <num>Artículo 91.</num>
+          <paragraph id="art-91.-para-1">
             <content>
               <p>Artículo 91. Para declarar la revocación de concesiones, permisos y licencias; suspensión de
 servicios; la imposición de las sanciones previstas en esta Ley; así como para la interposición del recurso
@@ -5158,25 +5137,53 @@ administrativo de revisión, se estará a lo dispuesto en la Ley Federal de Proc
             </content>
           </paragraph>
         </article>
-        <article id="art-92">
-          <num>Artículo 92</num>
-          <paragraph id="art-92-para-1">
+        <article id="art-92.">
+          <num>Artículo 92.</num>
+          <paragraph id="art-92.-para-1">
             <content>
               <p>Artículo 92. Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la
 responsabilidad civil o penal que resulte, ni de la revocación que proceda.
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370;
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se derogan los artículos 1o., fracción VIII; 9o., fracciones II y VI; 306 al 326; 329 al 370;
 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555
 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás
 disposiciones que se opongan a la presente Ley.
 Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando mientras se
-expiden los nuevos reglamentos, salvo en lo que se opongan a la presente Ley.
-TERCERO.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se
+expiden los nuevos reglamentos, salvo en lo que se opongan a la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se
 sancionarán y tramitarán de conformidad con las disposiciones vigentes al momento en que se
-cometieron.
-CUARTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la
+cometieron.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Las concesiones y permisos otorgados con anterioridad a la entrada en vigor de la
 presente Ley, serán respetados en sus términos, sin perjuicio de que sus titulares opten por acogerse a la
 presente Ley.
 Por lo que se refiere a los permisos en trámite, se estará a lo dispuesto en esta Ley.
@@ -5198,28 +5205,63 @@ Secretaría de Servicios Parlamentarios
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 LEY de Aeropuertos.
 Publicada en el Diario Oficial de la Federación el 22 de diciembre de 1995
-TRANSITORIOS
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Se derogan los artículos 327; 328; 371 fracción I, incisos b) y c) y 567 de la Ley de Vías
 Generales de Comunicación; el artículo 8 de la Ley de Aviación Civil; así como las demás
 disposiciones que se opongan a la presente Ley.
 Las disposiciones reglamentarias y administrativas en vigor se continuarán aplicando hasta en tanto
 no sean derogadas por otras, salvo en lo que se opongan a la presente Ley.
 Cuando en otras disposiciones se haga referencia a la figura de comandante de aeropuerto, se
-entenderá como comandante de aeródromo en los términos de esta Ley.
-TERCERO. El organismo público descentralizado Aeropuertos y Servicios Auxiliares podrá continuar
+entenderá como comandante de aeródromo en los términos de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. El organismo público descentralizado Aeropuertos y Servicios Auxiliares podrá continuar
 administrando aeropuertos en los términos de su Decreto de creación de fecha 10 de junio de 1965,
 publicado en el Diario Oficial de la Federación el 12 del mismo mes y año, y de sus decretos
 modificatorios, hasta en tanto la Secretaría, de conformidad con lo previsto en esta Ley, otorgue
 concesiones respecto de los aeropuertos administrados por dicho organismo.
 Lo anterior, en el entendido de que Aeropuertos y Servicios Auxiliares deberá ajustarse a lo dispuesto
 en esta Ley, en lo relativo a la construcción, administración, operación y explotación de aeropuertos y en
-la prestación de los servicios.
-CUARTO. Las concesiones, permisos y autorizaciones que se otorguen con motivo de la presente
+la prestación de los servicios.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. Las concesiones, permisos y autorizaciones que se otorguen con motivo de la presente
 Ley, no afectarán los derechos de los trabajadores de Aeropuertos y Servicios Auxiliares, los que serán
-respetados conforme a la ley de la materia.
-QUINTO. Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la entrada en vigor
+respetados conforme a la ley de la materia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO. Las concesiones, permisos y autorizaciones otorgadas con anterioridad a la entrada en vigor
 de la presente Ley, serán respetadas en sus términos hasta su vencimiento.
 Lo anterior, en el entendido de que los concesionarios y permisionarios deberán ajustarse a lo
 dispuesto en esta Ley, en lo relativo a la construcción, administración, operación y explotación de
@@ -5227,10 +5269,24 @@ aeródromos civiles y en la prestación de los servicios aeroportuarios, complem
 Los aeródromos de servicio general que al momento de la publicación de este ordenamiento reciban
 aeronaves destinadas al servicio de transporte aéreo regular, tendrán un plazo máximo de 180 días
 naturales, contados a partir de la publicación de esta Ley, para regularizar su situación ante la Secretaría.
-Por lo que se refiere a las concesiones y permisos en trámite, se estará a lo dispuesto en esta Ley.
-SEXTO. Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se
-sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.
-SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de este ordenamiento, el
+Por lo que se refiere a las concesiones y permisos en trámite, se estará a lo dispuesto en esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO. Las infracciones cometidas con anterioridad a la entrada en vigor de la presente Ley, se
+sancionarán de conformidad con las disposiciones vigentes al momento en que se cometieron.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SEPTIMO. A más tardar en 180 días, contados a partir de la entrada en vigor de este ordenamiento, el
 Ejecutivo Federal constituirá la comisión intersecretarial a que se refiere el artículo 21 de esta Ley.
 69 de 88
 LEY DE AVIACIÓN CIVIL
@@ -5252,15 +5308,8 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman diversos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
-ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
-            <content>
-              <p>artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161,
+ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
+artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161,
 primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del
 Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza
 Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la
@@ -5390,14 +5439,35 @@ Artículo Único. Se reforman la fracción V del artículo 6 y el primer y segun
 se adicionan una nueva fracción XIII, pasando la actual fracción XIII a ser la fracción XIV del artículo 15 y
 un artículo 76 Bis, de la Ley de Aviación Civil, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
 plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en
 el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las
-demás disposiciones administrativas que posibiliten la materialización del mismo.
-Tercero.- La Secretaría de Comunicaciones y Transportes, en coordinación con las secretarías de
+demás disposiciones administrativas que posibiliten la materialización del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- La Secretaría de Comunicaciones y Transportes, en coordinación con las secretarías de
 estado y demás instituciones facultadas para tal efecto, deberán formular las Normas Oficiales Mexicanas
 relativas al contenido del presente Decreto.
 México, D. F., a 4 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco
@@ -5424,14 +5494,35 @@ recorriéndose la actual en su orden; 27, con un último párrafo; 32, con un cu
 “Seguridad operacional”, que comprende los artículos 78 Bis a 78 Bis 10; 86, con una fracción VIII y 88
 Bis a la Ley de Aviación Civil, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes, contarán
 con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para
 realizar en el ámbito de su competencia, las adecuaciones y modificaciones a los reglamentos y a las
-demás disposiciones administrativas que posibiliten el cumplimiento del mismo.
-Tercero. La vigencia de las licencias del personal técnico aeronáutico será de dos años y la
+demás disposiciones administrativas que posibiliten el cumplimiento del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. La vigencia de las licencias del personal técnico aeronáutico será de dos años y la
 Secretaría podrá ampliar la vigencia de las mismas, una vez que realice las adecuaciones y
 modificaciones necesarias que posibiliten su cumplimiento.
 México, D.F., a 15 de diciembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano
@@ -5469,41 +5560,83 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de
 Aviación Civil.
 Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
-Artículo Único.- Se reforman el párrafo segundo del artículo 49; el artículo 50 y el párrafo primero del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
-            <content>
-              <p>artículo 52; el párrafo segundo del artículo 62, las fracciones XI y XII del artículo 87; Se adicionan: las
+Artículo Único.- Se reforman el párrafo segundo del artículo 49; el artículo 50 y el párrafo primero del
+artículo 52; el párrafo segundo del artículo 62, las fracciones XI y XII del artículo 87; Se adicionan: las
 fracciones IV Bis, VIII Bis y VIII Ter al artículo 2; el artículo 42 Bis; un capítulo X Bis comprendiendo los
 artículos 47 Bis al 47 Bis 4; los párrafos tercero, cuarto y quinto al artículo 49, el artículo 52 Bis, un último
 párrafo al artículo 84 y las fracciones XIII y XIV al artículo 87 de la Ley de Aviación Civil, para quedar
 como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
 plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en
 el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las
-demás disposiciones administrativas que posibiliten la materialización del mismo.
-Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
+demás disposiciones administrativas que posibiliten la materialización del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
 plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para elaborar las
-Normas Oficiales Mexicanas a las que se hace referencia en los artículos reformados y adicionados.
-Cuarto.- Los permisionarios y concesionarios del servicio de transporte aéreo comercial en un plazo
+Normas Oficiales Mexicanas a las que se hace referencia en los artículos reformados y adicionados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Los permisionarios y concesionarios del servicio de transporte aéreo comercial en un plazo
 de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, adecuarán sus
-procedimientos con el fin de dar cumplimiento a las disposiciones señaladas en el mismo.
-Quinto.- La Secretaría de Comunicaciones y Transportes, sin modificación al presupuesto del año
+procedimientos con el fin de dar cumplimiento a las disposiciones señaladas en el mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- La Secretaría de Comunicaciones y Transportes, sin modificación al presupuesto del año
 corriente, y en coordinación con los concesionarios y permisionarios, deberá realizar acciones de difusión
-a través de campañas de publicidad, para dar a conocer los alcances del presente Decreto.
-Sexto.- La Secretaría de Comunicaciones y Transportes deberá implementar, en un plazo de hasta
+a través de campañas de publicidad, para dar a conocer los alcances del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- La Secretaría de Comunicaciones y Transportes deberá implementar, en un plazo de hasta
 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, un mecanismo público,
 eficaz y expedito que, en caso de que la salida de un vuelo se retrase o cancele, permita al pasajero
-conocer las causas y determine si es responsable de ellas el concesionario o permisionario.
-Séptimo.- Los permisionarios o concesionarios deberán registrar las políticas de compensación
+conocer las causas y determine si es responsable de ellas el concesionario o permisionario.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo.- Los permisionarios o concesionarios deberán registrar las políticas de compensación
 señaladas en la fracción V, inciso a), del artículo 47 Bis, en un plazo de hasta 90 días naturales, contados
 a partir de la entrada en vigor del presente Decreto.
 Ciudad de México, a 27 de abril de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.-
@@ -5535,10 +5668,24 @@ XIII, XIV, XV, XVI y XVII; 89, párrafos primero y tercero; se adicionan los art
 Ter, I Quáter, I Quinquies y I Sexies; 6, fracciones XVI, XVII y XVIII, recorriéndose la subsecuente en su
 orden; 47, con una fracción VI y 88 Bis 1 a la Ley de Aviación Civil, para quedar como sigue:
 ..........
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- El Ejecutivo Federal contará con un plazo máximo de 180 días, contados a partir de la
 publicación del presente Decreto, para reformar los reglamentos correspondientes y emitir las
 disposiciones administrativas en materia de aeronaves pilotadas a distancia y de seguridad operacional.
 Ciudad de México, a 24 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar
@@ -5561,37 +5708,44 @@ Artículo Único. Se reforman los artículos 2; 4, primer párrafo; 6, fraccione
 primero, segundo y tercer párrafos; 7 Bis, primer y segundo párrafos; 11, primer párrafo y fracciones I, II,
 III y IV; 19, primer párrafo; 41, primer párrafo; 47 Bis, fracción IX, tercer párrafo; 78 Bis 2, fracción VI; 78
 Bis 5, fracciones III y IV; 78 Bis 7, primer párrafo; 79, fracción I; 80, segundo párrafo; 81, primer párrafo;
-86, fracción V; 87, fracciones XIII y XIV, y 90, primer párrafo; se adicionan las fracciones II Bis y III Bis al</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
-            <content>
-              <p>artículo 6; un octavo párrafo al artículo 11; los artículos 17 Bis; 32 Bis; un cuarto párrafo al artículo 33; un
+86, fracción V; 87, fracciones XIII y XIV, y 90, primer párrafo; se adicionan las fracciones II Bis y III Bis al
+artículo 6; un octavo párrafo al artículo 11; los artículos 17 Bis; 32 Bis; un cuarto párrafo al artículo 33; un
 tercer párrafo al artículo 41; una fracción V al artículo 78 Bis 5; 78 Bis 11; un tercer párrafo al artículo 80;
-un segundo y tercer párrafo al artículo 81; los artículos 81 Bis y 81 Ter; un inciso j) a la fracción I del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-86">
-          <num>Artículo 86</num>
-          <paragraph id="art-86-para-1">
-            <content>
-              <p>artículo 86; las fracciones XV, XVI y XVII al artículo 87; las fracciones XVIII, XIX y XX al artículo 88; los
+un segundo y tercer párrafo al artículo 81; los artículos 81 Bis y 81 Ter; un inciso j) a la fracción I del
+artículo 86; las fracciones XV, XVI y XVII al artículo 87; las fracciones XVIII, XIX y XX al artículo 88; los
 artículos 88 Ter y 88 Quáter; las fracciones I, II y III al artículo 90 de la Ley de Aviación Civil, para quedar
 como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se derogan las disposiciones que se opongan al presente Decreto. Seguirán teniendo
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Se derogan las disposiciones que se opongan al presente Decreto. Seguirán teniendo
 aplicación y vigencia las disposiciones y demás circulares obligatorias emitidas con anterioridad a la
 entrada en vigor del presente Decreto, en particular las contenidas en el Acuerdo por el que se dan a
 conocer las disposiciones administrativas de carácter técnico aeronáutico de la Secretaría de
-Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 15 de febrero de 2021.
-Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
+Comunicaciones y Transportes, publicado en el Diario Oficial de la Federación el 15 de febrero de 2021.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un
 plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar, en
 el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las
 demás disposiciones administrativas que posibiliten la materialización del mismo.
@@ -5622,24 +5776,73 @@ Bis, X, XI y XII; 87, fracciones XVIII y XIX; 88, fracciones XXI, XXII, XXIII, X
 fracción IV, y se deroga el artículo 29, los actuales párrafos segundo y tercero, de la Ley de Aviación
 Civil, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
 realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no
 incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio
-fiscal de que se trate.
-Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
-Cuarto. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes,
+fiscal de que se trate.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. A partir de la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes,
 reglamentos y en general en cualquier disposición, que se realice al personal “Diplomado de Estado
-Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.
-Quinto. A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado
+Mayor” y “Diplomado de Estado Mayor Aéreo”, se entenderán hechas al personal “De Estado Mayor”.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A la entrada en vigor del presente Decreto, la designación del personal “Diplomado de Estado
 Mayor” y “Diplomado de Estado Mayor Aéreo”, será reconocida plenamente en igualdad de
-circunstancias que el “De Estado Mayor”.
-Sexto. Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado
+circunstancias que el “De Estado Mayor”.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Los documentos expedidos al personal “Diplomado de Estado Mayor” y “Diplomado de Estado
 Mayor Aéreo”, mantendrán su validez y vigencia, por lo que no será necesaria su reexpedición como “De
-Estado Mayor”.
-Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes,
+Estado Mayor”.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. A la entrada en vigor del presente Decreto, las menciones contenidas en otras leyes,
 reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto del Cuartel General
 Superior del Ejército y Fuerza Aérea, del Estado Mayor Aéreo, del Servicio de Control de Vuelo y del
 Servicio de Material Aéreo, se entenderán referidas al Cuartel General Superior Conjunto del Ejército y
@@ -5716,36 +5919,99 @@ Transitorios
 LEY DE AVIACIÓN CIVIL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La persona titular del Ejecutivo Federal contará con un plazo máximo de 180 días hábiles,
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La persona titular del Ejecutivo Federal contará con un plazo máximo de 180 días hábiles,
 contados a partir de la publicación del presente Decreto, para modificar y expedir los reglamentos
 respectivos.
 La Secretaría de Infraestructura, Comunicaciones y Transportes contará con un plazo máximo de 180
 días hábiles, contados a partir de la publicación del presente Decreto, para expedir las disposiciones
-administrativas correspondientes.
-Tercero. Las disposiciones reglamentarias y administrativas vigentes a la entrada en vigor del
+administrativas correspondientes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las disposiciones reglamentarias y administrativas vigentes a la entrada en vigor del
 presente Decreto, que no se opongan a este continuarán aplicándose hasta en tanto se emitan aquellas
-que las sustituyan.
-Cuarto. La Agencia Federal de Aviación Civil implementará de manera progresiva las fases para la
+que las sustituyan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La Agencia Federal de Aviación Civil implementará de manera progresiva las fases para la
 ejecución de los procesos y procedimientos relacionados con el Sistema de Medicina de Aviación Civil
 conforme a los recursos que le correspondan dentro del presupuesto aprobado, por lo que no se
-aprobarán recursos adicionales en el presente ejercicio.
-Quinto. Las Constancias de Aptitud Psicofísica emitidas antes de la entrada en vigor del presente
+aprobarán recursos adicionales en el presente ejercicio.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Las Constancias de Aptitud Psicofísica emitidas antes de la entrada en vigor del presente
 decreto por la Dirección General de Protección y Medicina Preventiva en el Transporte al personal
-técnico-aeronáutico y los aspirantes a serlo, conservarán la vigencia establecida en los mismos.
-Sexto. Las atribuciones establecidas en el artículo 6 Bis, fracciones XXVI, XXVII, XXVIII, XXIX, XXX,
+técnico-aeronáutico y los aspirantes a serlo, conservarán la vigencia establecida en los mismos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Las atribuciones establecidas en el artículo 6 Bis, fracciones XXVI, XXVII, XXVIII, XXIX, XXX,
 XXXI, XXXIII, XXXIV y XXXV de la Ley de Aviación Civil, del presente Decreto las ejercerá la Dirección
 General de Protección y Medicina Preventiva en el Transporte, hasta en tanto la Agencia Federal de
-Aviación Civil le comunique a dicha Dirección General que está en aptitud de asumirlas.
-Séptimo. Los trámites pendientes por resolver ante la Dirección General de Protección y Medicina
+Aviación Civil le comunique a dicha Dirección General que está en aptitud de asumirlas.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. Los trámites pendientes por resolver ante la Dirección General de Protección y Medicina
 Preventiva en el Transporte, respecto del personal técnico-aeronáutico, antes de la entrada en vigor del
-presente Decreto, deberán concluirse conforme a las disposiciones vigentes al momento de su solicitud.
-Octavo. Los trámites que se encuentren pendientes de resolución a la fecha de entrada en vigor del
+presente Decreto, deberán concluirse conforme a las disposiciones vigentes al momento de su solicitud.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Los trámites que se encuentren pendientes de resolución a la fecha de entrada en vigor del
 presente Decreto, se concluirán conforme a las disposiciones jurídicas vigentes al momento de su
-solicitud.
-Noveno. Los recursos humanos, financieros y materiales con los que cuenta la Secretaría de
+solicitud.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Los recursos humanos, financieros y materiales con los que cuenta la Secretaría de
 Infraestructura, Comunicaciones y Transportes que sean necesarios para el cumplimiento del presente
 Decreto serán transferidos a la Agencia Federal de Aviación Civil.
 Las erogaciones que se generen con motivo de la transferencia deberán efectuarse con cargo al
@@ -5781,10 +6047,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Sexagésimo Cuarto.- Se reforma la fracción IV del artículo 4 de la Ley de Aviación Civil,
 para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -5794,14 +6074,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

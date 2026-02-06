@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1986-12-24/75_100619/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1986-12-24/75_100619/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -264,9 +264,9 @@ aplicable.
             <p>Artículo reformado DOF 05-06-2012</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- La autoridad competente deberá adoptar las medidas de índole técnico-
 administrativas, ambientales y tecnológicas, para la adecuada custodia y preservación de las ediciones
@@ -275,7 +275,7 @@ impreso.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Artículo reformado DOF 31-05-2019</p>
           </note>
         </article>
@@ -291,21 +291,21 @@ impreso.
             <p>Artículo adicionado DOF 05-06-2012</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- Se deroga.
 . Derogado DOF 31-05-2019</p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo reformado DOF 05-06-2012</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12. Se deroga.
 3 de 7
@@ -316,13 +316,13 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Artículo derogado DOF 05-06-2012</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- Para los efectos de esta ley se entiende por gaceta gubernamental, el órgano de
 publicación de los acuerdos, órdenes, resoluciones, circulares, notificaciones, avisos y en general todos
@@ -331,9 +331,9 @@ en el Diario Oficial de la Federación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- El Titular del Ejecutivo Federal, mediante acuerdo, autorizará la edición de las
 gacetas gubernamentales que se hagan necesarias, por sectores o materias, atendiendo a la esfera de
@@ -341,9 +341,9 @@ competencia de las dependencias del propio Ejecutivo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- Cuando conforme a las leyes se deba dar publicidad a actos, documentos o avisos
 por parte de las entidades paraestatales de la Administración Pública Federal, o de los particulares, salvo
@@ -353,18 +353,18 @@ guarden relación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTICULO 16.- Las publicaciones se denominarán "Gaceta", complementándose su denominación
 con el agregado que distinga al sector o área correspondiente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTICULO 17.- En los acuerdos respectivos el Titular del Ejecutivo Federal determinará los sectores
 o materias que deban comprender las "Gacetas", la dependencia responsable de la edición, la
@@ -373,16 +373,30 @@ distribución gratuita que corresponda.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>ARTICULO 18.- Por las inserciones que se realicen en las gacetas se cobrarán los derechos
 conforme a las cuotas determinadas en la ley respectiva.
-TRANSITORIOS
-PRIMERO.- La presente ley entrará en vigor a los tres meses de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las contenidas en la
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente ley entrará en vigor a los tres meses de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las contenidas en la
 presente ley.
 México, D. F., a 9 de diciembre de 1986.- Sen. Gonzalo Martínez Corbalá, Presidente.- Dip. Reyes
 Rodolfo Flores Zaragoza, Presidente.- Sen. Ma. del Carmen Márquez de R., Secretario.- Dip. Antonio
@@ -405,12 +419,33 @@ ARTÍCULO ÚNICO. Se reforman los artículos 4o.; 5o., 6o., 7o., 8o., 9o. y 11; 
 artículos 3o., con una fracción VIII; 7o. Bis y 10. Bis; y se deroga el artículo 12 de la Ley del Diario Oficial
 de la Federación y Gacetas Gubernamentales para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el
-Diario Oficial de la Federación.
-Segundo. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente
-decreto.
-Tercero. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el
+Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente
+decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación
 del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos
 compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para
 tales efectos y no incrementarán su presupuesto regularizable.
@@ -435,13 +470,41 @@ I, III y V; 8o.; 9o. y 10; se adicionan una fracción VII al artículo 3o., pasa
 VIII y IX, y una fracción IV al artículo 6o.; y se derogan los artículos 10 Bis y 11, de la Ley del Diario
 Oficial de la Federación y Gacetas Gubernamentales, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el 1o. de julio de 2019.
-Segundo. La autoridad competente continuará con la venta de ejemplares del Diario Oficial de la
-Federación que tenga en existencia para tal fin al inicio de vigencia del presente ordenamiento.
-Tercero. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente
-Decreto.
-Cuarto. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el 1o. de julio de 2019.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La autoridad competente continuará con la venta de ejemplares del Diario Oficial de la
+Federación que tenga en existencia para tal fin al inicio de vigencia del presente ordenamiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La Secretaría de Gobernación realizará las acciones necesarias para que la implementación
 del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos
 compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para
 tales efectos y no incrementarán su presupuesto regularizable.

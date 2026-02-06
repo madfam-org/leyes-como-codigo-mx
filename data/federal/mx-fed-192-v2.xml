@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1954-12-31/192/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1954-12-31/192/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -238,9 +238,9 @@ Secretaría de Servicios Parlamentarios</p>
           <p>Artículo reformado DOF 12-05-2005</p>
         </note>
       </article>
-      <article id="art-10">
-        <num>Artículo 10</num>
-        <paragraph id="art-10-para-1">
+      <article id="art-10.">
+        <num>Artículo 10.</num>
+        <paragraph id="art-10.-para-1">
           <content>
             <p>Artículo 10.- Todas las operaciones a que se refiere la presente Ley sólo podrán efectuarse por
 conducto de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de
@@ -249,22 +249,22 @@ y Crédito Público.
 </p>
           </content>
         </paragraph>
-        <note placementBase="#art-10" placement="bottom">
+        <note placementBase="#art-10." placement="bottom">
           <p>Artículo reformado DOF 12-05-2005</p>
         </note>
       </article>
-      <article id="art-11">
-        <num>Artículo 11</num>
-        <paragraph id="art-11-para-1">
+      <article id="art-11.">
+        <num>Artículo 11.</num>
+        <paragraph id="art-11.-para-1">
           <content>
             <p>Artículo 11.- El Fiduciario mantendrá invertidos en valores del Estado por lo menos el 10% del
 importe de las garantías que otorgue.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-12">
-        <num>Artículo 12</num>
-        <paragraph id="art-12-para-1">
+      <article id="art-12.">
+        <num>Artículo 12.</num>
+        <paragraph id="art-12.-para-1">
           <content>
             <p>Artículo 12.- Con cargo al fondo se cubrirán los gastos que demande el manejo del fideicomiso,
 incluyendo los honorarios que puedan corresponder al Fiduciario conforme al contrato de fideicomiso
@@ -272,9 +272,9 @@ respectivo.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-13">
-        <num>Artículo 13</num>
-        <paragraph id="art-13-para-1">
+      <article id="art-13.">
+        <num>Artículo 13.</num>
+        <paragraph id="art-13.-para-1">
           <content>
             <p>Artículo 13.- En la forma en que se determine en las reglas de operación, son susceptibles de
 realizarse las operaciones mencionadas en el artículo 3o. de esta ley, cuando se trate del otorgamiento
@@ -285,9 +285,9 @@ en el artículo 10 de esta ley.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-14">
-        <num>Artículo 14</num>
-        <paragraph id="art-14-para-1">
+      <article id="art-14.">
+        <num>Artículo 14.</num>
+        <paragraph id="art-14.-para-1">
           <content>
             <p>Artículo 14.- Queda facultada la Secretaría de Hacienda y Crédito Público para fijar las normas
 complementarias en el contrato de fideicomiso que celebre con el Banco de México, S. A. El Ejecutivo
@@ -295,18 +295,8 @@ expedirá el reglamento de esta ley.
  (se deja sin efecto en lo referente al Banco de México)
 TRANSITORIOS:
 Artículo Primero.- El Ejecutivo Federal determinará, por conducto de la Secretaría de Hacienda y
-Crédito Público, la forma y plazo como deba hacerse la aportación inicial que se cita en la fracción III del</p>
-          </content>
-        </paragraph>
-        <note placementBase="#art-14" placement="bottom">
-          <p>Artículo reformado DOF 23-12-1993</p>
-        </note>
-      </article>
-      <article id="art-2o">
-        <num>Artículo 2o</num>
-        <paragraph id="art-2o-para-1">
-          <content>
-            <p>artículo 2o. de esta ley.
+Crédito Público, la forma y plazo como deba hacerse la aportación inicial que se cita en la fracción III del
+artículo 2o. de esta ley.
 Artículo Segundo.- Se derogan el decreto de 21 de marzo de 1944, publicado en el "Diario Oficial" de
 la Federación el 12 de mayo del mismo año, relativo al Fondo Nacional de Garantía Agrícola y las demás
 disposiciones que se opongan a la presente ley.
@@ -333,6 +323,9 @@ Ganadería y Avicultura, publicada el día 31 de diciembre próximo pasado.
 Publicada en el Diario Oficial de la Federación el 4 de marzo de 1955</p>
           </content>
         </paragraph>
+        <note placementBase="#art-14." placement="bottom">
+          <p>Artículo reformado DOF 23-12-1993</p>
+        </note>
       </article>
       <article id="art-1o">
         <num>Artículo 1o</num>
@@ -384,14 +377,35 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 LEY del Banco de México.
 Publicada en el Diario Oficial de la Federación el 23 de diciembre de 1993
-TRANSITORIOS
-PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de
 este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día
 siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
 La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos
-previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
-SEGUNDO A DECIMO SEPTIMO.- ..........
-DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
+previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>SEGUNDO A DECIMO SEPTIMO.- ..........</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-10">
+        <num>Artículo 10</num>
+        <paragraph id="art-10-para-1">
+          <content>
+            <p>DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
 Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13,
 párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y
 décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del
@@ -420,10 +434,24 @@ Artículo Único. Se reforman los artículos 3o. fracciones I, II, III y IV; 5o.
 párrafo; 9o. y 10 y se adiciona el artículo 1o. con dos párrafos; todos de la Ley que Crea el Fondo de
 Garantía y Fomento para la Agricultura, Ganadería y Avicultura, para quedar como sigue:
 ..........
-TRANSITORIOS
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-Segundo.- Para los efectos del presente Decreto, las Uniones de Crédito que reciban de sus socios
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>Segundo.- Para los efectos del presente Decreto, las Uniones de Crédito que reciban de sus socios
 depósitos de ahorro, deberán ajustarse a los plazos, requisitos, términos y condiciones que establece la
 Ley de Ahorro y Crédito Popular, así como sus reformas subsecuentes.
 México, D.F., a 10 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
@@ -448,10 +476,24 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO SEPTUAGÉSIMO TERCERO. Se reforma el artículo 8o, primer párrafo de la Ley que crea
 el Fondo de Garantía y Fomento a la Agricultura, Ganadería y Avicultura, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio

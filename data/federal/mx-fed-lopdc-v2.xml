@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2006-09-04/lopdc/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2006-09-04/lopdc/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -43,9 +43,9 @@
       </chapter>
       <chapter id="chapter-6">
         <num>Capítulo VI De las Sanciones</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- La presente Ley es de orden público, de aplicación en todo el territorio nacional y tiene
 por objeto regular la organización y el funcionamiento de la Procuraduría de la Defensa del
@@ -55,9 +55,9 @@ recomendaciones en los términos que este mismo ordenamiento establece.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- La Procuraduría de la Defensa del Contribuyente es un organismo público
 descentralizado, no sectorizado, con personalidad jurídica y patrimonio propios, con autonomía técnica,
@@ -73,9 +73,9 @@ podrá ser inferior al presupuesto que se le haya asignado en el ejercicio inmed
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Los servicios que regula esta Ley se prestarán gratuitamente bajo los principios de
 probidad, honradez y profesionalismo. Tratándose de los servicios de representación a que hace
@@ -91,9 +91,9 @@ necesario agotar previamente la investigación a que se refiere la fracción III
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- Los servicios que presta la Procuraduría se otorgarán exclusivamente a petición de parte
 interesada, por el Procurador de la Defensa del Contribuyente, por los Delegados Regionales y por el
@@ -125,9 +125,9 @@ Trabajadores.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- Corresponderá a la Procuraduría de la Defensa del Contribuyente:
 I.- Atender y resolver las solicitudes de asesoría y consulta que le presenten los contribuyentes por
@@ -223,9 +223,9 @@ a los interesados en el acuerdo de admisión de la queja o reclamación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- La Procuraduría se integra por los siguientes órganos:
 I. El Procurador de la Defensa del Contribuyente;
@@ -244,9 +244,9 @@ Procuraduría.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- El Procurador de la Defensa del Contribuyente deberá reunir para su designación los
 siguientes requisitos:
@@ -265,9 +265,9 @@ VI. Ser de reconocida competencia profesional y honorabilidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- La persona titular de la Procuraduría de la Defensa del Contribuyente está obligada a:
 
@@ -300,16 +300,16 @@ XII. Las demás que se determinen en cualquier otra disposición.
 Las funciones establecidas en las fracciones IV, VI, VII, IX y X, son indelegables.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Párrafo reformado DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Fracción reformada DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- La designación de la persona titular de la Procuraduría de la Defensa del Contribuyente,
 será realizada por el Senado de la República o, en su caso, por la Comisión Permanente del Congreso
@@ -325,13 +325,13 @@ que se trate de actividades estrictamente académicas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Artículo reformado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Las y los asesores jurídicos deberán reunir para su nombramiento, los mismos requisitos
 que la persona titular de la Procuraduría de la Defensa del Contribuyente, exceptuando las fracciones III y
@@ -341,13 +341,13 @@ el principio de paridad de género.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Artículo reformado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- Los asesores jurídicos están obligados a:
 I.- Prestar personalmente el servicio de asesoría, representación y defensa de los contribuyentes que
@@ -369,9 +369,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- El Órgano de Gobierno de la Procuraduría es un cuerpo colegiado integrado, procurando
 observar el principio de paridad, por:
@@ -409,9 +409,9 @@ DOF 07-09-2009, 11-05-2022</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- El Órgano de Gobierno tendrá las siguientes atribuciones:
 I.- Analizar y, en su caso, aprobar el proyecto de presupuesto presentado por el Procurador;
@@ -436,20 +436,13 @@ disposición.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- La Procuraduría de la Defensa del Contribuyente tendrá un Órgano Interno de Control,
-cuyo titular será designado por la Secretaría de la Función Publica en términos de lo dispuesto por el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
-            <content>
-              <p>artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y se auxiliará, en el
+cuyo titular será designado por la Secretaría de la Función Publica en términos de lo dispuesto por el
+artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y se auxiliará, en el
 ejercicio de sus facultades, por los titulares de las áreas de auditoria, quejas y responsabilidades,
 designados en los mismos términos.
 El Órgano Interno de Control, su Titular y los titulares de las áreas de auditoria, quejas y
@@ -460,9 +453,9 @@ Interior de la Secretaría de la Función Publica.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- Los procedimientos que se sigan ante la Procuraduría de la Defensa del Contribuyente
 deberán ser breves, sin más formalidad que la de precisar con objetividad la pretensión del contribuyente.
@@ -475,9 +468,9 @@ Procuraduría.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- Cualquier persona podrá presentar quejas o reclamaciones para denunciar presuntas
 ilegalidades contra sus derechos tributarios y acudir ante las oficinas de la Procuraduría de la Defensa
@@ -494,9 +487,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- El Procurador de la Defensa del Contribuyente o, en su caso, los Delegados Regionales,
 pondrán a disposición del público en general formularios que faciliten los trámites que estén bajo su
@@ -507,21 +500,14 @@ Procuraduría de la Defensa del Contribuyente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- La presentación de la queja o reclamación a que se refiere la fracción III del artículo 5,
 podrá hacerse en cualquier tiempo, a menos que, el acto que se reclame de las autoridades fiscales
-federales vaya a ser objeto de defensa contenciosa por la Procuraduría, en términos de la fracción II del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
-            <content>
-              <p>artículo 5, caso en el cual la queja para efectos de la recomendación que le precediera, deberá
+federales vaya a ser objeto de defensa contenciosa por la Procuraduría, en términos de la fracción II del
+artículo 5, caso en el cual la queja para efectos de la recomendación que le precediera, deberá
 presentarse a más tardar dentro de los 15 días hábiles siguientes al en que surta efectos la notificación
 del acto o resolución a impugnarse con el apercibimiento de que, si no se presenta en el término antes
 indicado, se tendrá por no presentada.
@@ -543,9 +529,9 @@ efectos su notificación, no subsana la omisión requerida, se tendrá por no pr
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. En caso de ser procedente o habiéndose cumplido los requisitos omitidos, se emitirá auto
 de admisión dentro de los tres días siguientes a la presentación de la queja o reclamación; en dicho
@@ -570,9 +556,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- Para el trámite de la queja o reclamación, cuando se requiera una investigación, la
 Procuraduría tendrá las siguientes atribuciones:
@@ -584,9 +570,9 @@ conocimiento del asunto y acreditamiento de las quejas o reclamaciones.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- Las pruebas que se presenten, tanto por los interesados como por las autoridades o
 servidores públicos a los que se imputen las violaciones, o bien las que de oficio se requieran o
@@ -598,9 +584,9 @@ exclusivamente en la documentación y pruebas que obren en el propio expediente.
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- El Procurador de la Defensa del Contribuyente podrá dictar:
 I.- Acuerdos de trámite, para que las autoridades fiscales federales aporten información o
@@ -610,9 +596,9 @@ III.- Acuerdos de no responsabilidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- Dentro de los cinco días siguientes a la recepción del informe de las autoridades
 responsables a que se refiere el artículo 19 de esta Ley, la Procuraduría de la Defensa del Contribuyente,
@@ -629,9 +615,9 @@ tributos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- En caso de que no se comprueben las irregularidades imputadas, la Procuraduría en el
 término de cinco días, después de recepcionado el informe de las autoridades responsables, dictará
@@ -644,9 +630,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- La recomendación será pública y no tendrá carácter imperativo para la autoridad o
 servidor público a los cuales se dirija y, en consecuencia, no podrá por sí misma anular, modificar o dejar
@@ -666,9 +652,9 @@ ningún recurso.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- La Procuraduría de la Defensa del Contribuyente estará obligada a entregar las pruebas
 que resulten necesarias a la autoridad a quien se dirigió una recomendación, con el objeto de que dicha
@@ -677,18 +663,18 @@ que se trate.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- Las recomendaciones y los acuerdos de no responsabilidad se referirán a casos
 concretos; las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- Los servidores públicos de las autoridades fiscales federales serán sancionados:
 I.- Con entre cinco y diez salarios mínimos vigentes en el Distrito Federal, elevados al mes cuando:
@@ -765,19 +751,47 @@ MINISTRO PONENTE: SERGIO SALVADOR AGUIRRE ANGUIANO.
 SECRETARIO: EDUARDO DELGADO DURAN.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación,
 correspondiente al día veintiséis de febrero de dos mil ocho.
-VISTOS; Y RESULTANDO:
-PRIMERO a OCTAVO. ……….
-CONSIDERANDO:
-PRIMERO a CUARTO. ……….
-QUINTO. ……….
+VISTOS; Y RESULTANDO:</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO a OCTAVO. ……….
+CONSIDERANDO:</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO a CUARTO. ……….</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO. ……….
 El artículo 5o., fracción VII, de la Ley impugnada, en la parte que interesa, dice textualmente:
 "Artículo 5. Corresponderá a la Procuraduría de la Defensa del Contribuyente:
 (…)
 VII. Informar anualmente al Congreso de la Unión sobre el ejercicio de su función y
 comparecer siempre que sea convocado para ese efecto, ante el Pleno o las
 Comisiones camerales correspondientes; (…)”
-…….
-SEXTO. …….
+…….</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO. …….
 El precepto legal impugnado de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente
 establece, en su parte conducente, lo que sigue:
 "Artículo. 12. El Organo de Gobierno de la Procuraduría es un cuerpo colegiado
@@ -818,17 +832,45 @@ Las sesiones del Organo de Gobierno serán convocadas por el Procurador, o
 mediante solicitud que formulen a éste cuando menos tres de sus miembros. Las
 demás reglas para el debido funcionamiento del Organo de Gobierno se
 establecerán en el Estatuto Orgánico."
-……….
-SEPTIMO. De conformidad con los artículos 73 y 41, fracción IV, de la Ley Reglamentaria de las
+……….</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SEPTIMO. De conformidad con los artículos 73 y 41, fracción IV, de la Ley Reglamentaria de las
 Fracciones I y II del Artículo 105 de la Constitución Federal, la invalidez decretada respecto de los
 artículos 5o., fracción VII, y 12, fracción II, de la Ley Orgánica de la Procuraduría de la Defensa del
 Contribuyente surtirá efectos a partir de la legal notificación de esta sentencia al Congreso de la Unión.
-Por lo expuesto y fundado, se resuelve:
-PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se declara la invalidez de los artículos 5o., fracción VII, y 12, fracción II, de la Ley
+Por lo expuesto y fundado, se resuelve:</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Se declara la invalidez de los artículos 5o., fracción VII, y 12, fracción II, de la Ley
 Orgánica de la Procuraduría de la Defensa del Contribuyente, publicada el cuatro de septiembre de dos
-mil seis, en el Diario Oficial de la Federación.
-TERCERO. Se desestima la acción de inconstitucionalidad respecto del artículo 9o., párrafos primero
+mil seis, en el Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. Se desestima la acción de inconstitucionalidad respecto del artículo 9o., párrafos primero
 y segundo, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, publicada el cuatro de
 septiembre de dos mil seis en el Diario Oficial de la Federación.
 Notifíquese por medio de oficio a las partes interesadas y, en su oportunidad, archívese el expediente
@@ -891,15 +933,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman diversas disposiciones de la Ley Orgánica de la
 Procuraduría de la Defensa del Contribuyente.
 Publicado en el Diario Oficial de la Federación el 7 de septiembre de 2009
-Artículo Único. Se reforman la fracción VII del artículo 5 y la fracción II y el segundo párrafo del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
-            <content>
-              <p>artículo 12 de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como
+Artículo Único. Se reforman la fracción VII del artículo 5 y la fracción II y el segundo párrafo del
+artículo 12 de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como
 sigue:
 ……….
 Transitorios
@@ -945,14 +980,35 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 Artículo Quinto. Se reforman los artículos 8, primer párrafo y fracción III; 9; 10 y 12 de la Ley
 Orgánica de la Procuraduría de la Defensa del Contribuyente, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta

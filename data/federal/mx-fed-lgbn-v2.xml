@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2004-05-20/lgbn/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2004-05-20/lgbn/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -57,9 +57,9 @@
         </chapter>
         <chapter id="chapter-3">
           <num>CAPÍTULO III DE LOS INMUEBLES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL PARAESTATAL</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>ARTÍCULO 1.- La presente Ley es de orden público e interés general y tiene por objeto establecer:
 I.- Los bienes que constituyen el patrimonio de la Nación;
@@ -82,9 +82,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>ARTÍCULO 2.- Para los efectos de esta Ley, se entiende por:
 I.- Dependencias: aquéllas que la Ley Orgánica de la Administración Pública Federal determina como
@@ -118,19 +118,19 @@ IX.- Secretaría: a la Secretaría de Hacienda y Crédito Público.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 17-12-2015</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 03-05-2023</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>ARTÍCULO 3.- Son bienes nacionales:
 I.- Los señalados en los artículos 27, párrafos cuarto, quinto y octavo; 42, fracción IV, y 132 de la
@@ -150,9 +150,9 @@ VI.- Los demás bienes considerados por otras leyes como nacionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>ARTÍCULO 4.- Los bienes nacionales estarán sujetos al régimen de dominio público o a la regulación
 específica que señalen las leyes respectivas.
@@ -161,15 +161,8 @@ específicas. Respecto a estos últimos, se aplicará la presente Ley en lo no p
 ordenamientos y sólo en aquello que no se oponga a éstos.
 Se consideran bienes regulados por leyes específicas, entre otros, los que sean transferidos al
 Servicio de Administración y Enajenación de Bienes de conformidad con la Ley Federal para la
-Administración y Enajenación de Bienes del Sector Público. Para los efectos del penúltimo párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
-              <content>
-                <p>artículo 1 de la citada Ley, se entenderá que los bienes sujetos al régimen de dominio público que
+Administración y Enajenación de Bienes del Sector Público. Para los efectos del penúltimo párrafo del
+artículo 1 de la citada Ley, se entenderá que los bienes sujetos al régimen de dominio público que
 establece este ordenamiento y que sean transferidos al Servicio de Administración y Enajenación de
 Bienes, continuarán en el referido régimen hasta que los mismos sean desincorporados en términos de
 esta Ley.
@@ -186,9 +179,9 @@ Históricos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>ARTÍCULO 5.- A falta de disposición expresa en esta Ley o en las demás disposiciones que de ella
 deriven, se aplicarán, en lo conducente, el Código Civil Federal, la Ley Federal de Procedimiento
@@ -196,13 +189,13 @@ Administrativo y el Código Nacional de Procedimientos Civiles y Familiares.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Artículo reformado DOF 14-11-2025</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>ARTÍCULO 6.- Están sujetos al régimen de dominio público de la Federación:
 I.- Los bienes señalados en los artículos 27, párrafos cuarto, quinto y octavo; 42, fracción IV, y 132 de
@@ -271,16 +264,16 @@ otras leyes especiales que regulen bienes nacionales.
 Fracción recorrida DOF 20-05-2021</p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción adicionada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>ARTÍCULO 7.- Son bienes de uso común:
 I.- El espacio aéreo situado sobre el territorio nacional, con la extensión y modalidades que establezca
@@ -309,9 +302,9 @@ XIV.- Los demás bienes considerados de uso común por otras leyes que regulen b
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>ARTÍCULO 8.- Todos los habitantes de la República pueden usar los bienes de uso común, sin más
 restricciones que las establecidas por las leyes y reglamentos administrativos.
@@ -328,16 +321,16 @@ inhibido, restringido, obstaculizado ni condicionado salvo en los casos que esta
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo adicionado DOF 21-10-2020</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>ARTÍCULO 9.- Los bienes sujetos al régimen de dominio público de la Federación estarán
 exclusivamente bajo la jurisdicción de los poderes federales, en los términos prescritos por esta Ley,
@@ -361,13 +354,13 @@ VI, de esta Ley y se sujetarán a lo previsto en el presente artículo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo adicionado DOF 01-06-2016</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>ARTÍCULO 10.- Sólo los tribunales federales serán competentes para conocer de los juicios civiles,
 mercantiles, penales o administrativos, así como de los procedimientos judiciales no contenciosos que se
@@ -376,9 +369,9 @@ controversias versen sobre derechos de uso sobre los mismos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>ARTÍCULO 11.- Quedan sujetos a las disposiciones de esta Ley y sus reglamentos:
 I.- Los actos de adquisición, administración, control, uso, vigilancia, protección jurídica, valuación y
@@ -398,13 +391,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>ARTÍCULO 12.- Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de
 Marina, así como la Consejería Jurídica del Ejecutivo Federal, prestarán el auxilio necesario cuando
@@ -412,13 +405,13 @@ formalmente se les requiera, con el fin de salvaguardar los intereses patrimonia
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>ARTÍCULO 13.- Los bienes sujetos al régimen de dominio público de la Federación son inalienables,
 imprescriptibles e inembargables y no estarán sujetos a acción reivindicatoria o de posesión definitiva o
@@ -426,9 +419,9 @@ provisional, o alguna otra por parte de terceros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>ARTÍCULO 14.- Las entidades o los particulares que, bajo cualquier título, utilicen inmuebles sujetos
 al régimen de dominio público de la Federación en fines administrativos o con propósitos distintos a los
@@ -436,9 +429,9 @@ de su objeto público, estarán obligados a pagar las contribuciones sobre la pr
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>ARTÍCULO 15.- Los particulares y las instituciones públicas sólo podrán adquirir sobre el uso,
 aprovechamiento y explotación de los bienes sujetos al régimen de dominio público de la Federación, los
@@ -452,9 +445,9 @@ federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>ARTÍCULO 16.- Las concesiones, asignaciones, permisos y autorizaciones sobre bienes sujetos al
 régimen de dominio público de la Federación no crean derechos reales; otorgan simplemente frente a la
@@ -464,13 +457,13 @@ concesión o asignación, el permiso o la autorización correspondiente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>ARTÍCULO 17.- Las concesiones sobre bienes de dominio directo de la Nación cuyo otorgamiento
 autoriza el párrafo sexto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se
@@ -486,9 +479,9 @@ VI.- Si existe algún motivo fundado de interés público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>ARTÍCULO 18.- La revocación y la caducidad de las concesiones o asignaciones sobre bienes sujetos
 al régimen de dominio público de la Federación, cuando proceda conforme a la ley, se dictarán por las
@@ -505,13 +498,13 @@ de indemnización alguna a la persona concesionaria o asignataria.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Artículo reformado DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>ARTÍCULO 19.- Las dependencias administradoras de inmuebles y los organismos descentralizados
 podrán rescatar las concesiones que otorguen sobre bienes sujetos al régimen de dominio público de la
@@ -536,18 +529,18 @@ monto de la indemnización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>ARTÍCULO 20.- Los actos jurídicos mediante los cuales se enajenen los inmuebles federales o los
 pertenecientes a las entidades, en contravención a lo dispuesto en esta Ley, serán nulos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>ARTÍCULO 21.- Las dependencias competentes del Ejecutivo Federal, con la participación que, en su
 caso, corresponda al Instituto Nacional de Estadística, Geografía e Informática, determinarán las normas
@@ -559,18 +552,18 @@ inventarios respectivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>ARTÍCULO 22.- En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a
 lo que resuelva, para efectos administrativos, la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>ARTÍCULO 23.- Las atribuciones que en este Título se otorgan al Poder Legislativo, serán ejercidas
 de forma independiente por conducto de la Cámara de Diputados y de la Cámara de Senadores.
@@ -594,13 +587,13 @@ legislación aplicable, a la Secretaría de Cultura.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>ARTÍCULO 24.- El Poder Legislativo y el Poder Judicial de la Federación deberán conformar su
 respectivo inventario, catastro y centro de documentación e información relativos a los inmuebles
@@ -613,9 +606,9 @@ sea incorporada al Sistema de Información Inmobiliaria Federal y Paraestatal.</
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>ARTÍCULO 25.- Los bienes muebles al servicio de los órganos de los Poderes Legislativo y Judicial
 de la Federación, se regirán por las leyes correspondientes y por las normas que los mismos emitan. En
@@ -625,9 +618,9 @@ adecuados o resulte inconveniente su utilización en el mismo, a fin de proceder
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>ARTÍCULO 26.- El Sistema de Administración Inmobiliaria Federal y Paraestatal constituye un
 conjunto de políticas, criterios y mecanismos de coordinación de acciones tendientes a:
@@ -641,9 +634,9 @@ Pública Federal, sean aplicados con eficiencia y eficacia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>ARTÍCULO 27.- Para la operación del Sistema de Administración Inmobiliaria Federal y Paraestatal,
 se establece un Comité del Patrimonio Inmobiliario Federal y Paraestatal, que se integrará con las
@@ -670,13 +663,13 @@ El Comité podrá invitar a sus sesiones a instituciones destinatarias, cuando c
 resolver problemáticas específicas en materia inmobiliaria.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Párrafo reformado DOF 03-05-2023</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>ARTÍCULO 28.- La Secretaría y las demás dependencias administradoras de inmuebles tendrán en el
 ámbito de sus respectivas competencias, las facultades siguientes:
@@ -703,23 +696,9 @@ derecho convenga, en los casos y términos previstos por la Sección Octava del 
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
-              <content>
-                <p>artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Por orden de los tribunales las
-autoridades administrativas procederán a la ocupación.
-11 de 81
-LEY GENERAL DE BIENES NACIONALES
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
-Secretaría General
-Secretaría de Servicios Parlamentarios</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>ARTÍCULO 29.- Corresponden a la Secretaría, además de las atribuciones que le confiere el artículo
 anterior, las siguientes:
@@ -789,19 +768,19 @@ cuando la Federación o las entidades tengan el carácter de arrendatarias, y
 XXII.- Las demás que le confieran esta Ley u otras disposiciones aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>ARTÍCULO 30.- La Secretaría de Cultura será competente para poseer, vigilar, conservar, administrar
 y controlar los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de
@@ -828,16 +807,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2015</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>ARTÍCULO 31.- Los inmuebles adquiridos por la Federación en el extranjero, no estarán sujetos al
 régimen de dominio público y se regirán por los tratados internacionales correspondientes o, en su
@@ -856,9 +835,9 @@ concentrarse en la Tesorería de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>ARTÍCULO 32.- Las dependencias, las unidades administrativas de la Presidencia de la República y
 las entidades que tengan destinados inmuebles federales o que, en el caso de estas últimas, cuenten con
@@ -910,19 +889,19 @@ se refiere este artículo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>ARTÍCULO 33.- Se constituirá un Fondo que tendrá por objeto coadyuvar a sufragar los gastos que
 genere la administración, valuación y enajenación de inmuebles federales a cargo de la Secretaría.
@@ -936,13 +915,13 @@ Sección Segunda
 Del Sistema de Información Inmobiliaria Federal y Paraestatal</p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Párrafo reformado DOF 03-05-2023</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>ARTÍCULO 34.- El Sistema de Información Inmobiliaria Federal y Paraestatal es la integración
 sistematizada de documentación e información que contiene el registro de la situación física, jurídica y
@@ -951,9 +930,9 @@ evolución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>ARTÍCULO 35.- El Sistema de Información Inmobiliaria Federal y Paraestatal tiene por objeto
 constituir un instrumento de apoyo para alcanzar los fines del Sistema de Administración Inmobiliaria
@@ -961,9 +940,9 @@ Federal y Paraestatal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>ARTÍCULO 36.- La Secretaría, en coordinación con las demás dependencias administradoras de
 inmuebles y con la participación que, en su caso, corresponda al Instituto Nacional de Estadística,
@@ -979,13 +958,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>ARTÍCULO 37.- La Secretaría solicitará, recibirá, compilará y concentrará la información y
 documentación relativas al patrimonio inmobiliario federal y paraestatal. Para ello, integrará lo siguiente:
@@ -1004,9 +983,9 @@ inmuebles.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>ARTÍCULO 38.- Las dependencias administradoras de inmuebles, deberán conformar un inventario,
 un catastro y un centro de documentación e información relativos a los inmuebles federales de su
@@ -1016,9 +995,9 @@ información, respecto de los inmuebles que formen parte de su patrimonio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>ARTÍCULO 39.- No formará parte del Sistema de Información Inmobiliaria Federal y Paraestatal,
 aquella información relativa a los inmuebles del patrimonio inmobiliario federal y paraestatal que se
@@ -1027,9 +1006,9 @@ y Acceso a la Información Pública Gubernamental.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>ARTÍCULO 40.- La Secretaría estará facultada para fusionar o subdividir los inmuebles federales,
 mediante acuerdo administrativo, con la autorización que corresponda a las autoridades locales
@@ -1046,9 +1025,9 @@ judiciales y administrativos, como tercero interesado con la facultad para ofrec
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>ARTÍCULO 41.- Está a cargo de la Secretaría el Registro Público de la Propiedad Federal, en el que
 se inscribirán los actos jurídicos y administrativos que acrediten la situación jurídica y administrativa de
@@ -1063,9 +1042,9 @@ otorga autonomía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>ARTÍCULO 42.- Se inscribirán en el Registro Público de la Propiedad Federal:
 I.- Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión y
@@ -1142,13 +1121,13 @@ los del primero en las relaciones con terceros, quedando a salvo los derechos de
 valer en la vía legal procedente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Fracción adicionada DOF 16-07-2025</p>
             </note>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>ARTÍCULO 43.- Para la inscripción de los títulos y documentos a que se refiere el artículo anterior,
 relativos a cada inmueble, se dedicará un solo folio real, en el cual se consignarán la procedencia de los
@@ -1163,9 +1142,9 @@ anteriores datos se capturarán, almacenarán, procesarán e imprimirán mediant
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>ARTÍCULO 44.- La cancelación de las inscripciones del Registro Público de la Propiedad Federal sólo
 operará:
@@ -1176,9 +1155,9 @@ III.- Cuando se destruya o desaparezca por completo el inmueble objeto de la ins
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>ARTÍCULO 45.- En la cancelación de las inscripciones se asentarán los datos necesarios a fin de que
 se conozca con toda exactitud cuál es la inscripción que se cancela y las causas por las que se hace la
@@ -1186,9 +1165,9 @@ cancelación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>ARTÍCULO 46.- Las constancias del Registro Público de la Propiedad Federal probarán la existencia
 de la inscripción de los actos a que se refieran, las cuales podrán consistir en:
@@ -1203,9 +1182,9 @@ precepto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>ARTÍCULO 47.- El Registro Público de la Propiedad Federal permitirá a las personas que lo soliciten,
 la consulta de las inscripciones de los bienes respectivos y los documentos que con ellas se relacionan, y
@@ -1214,9 +1193,9 @@ los documentos relativos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>ARTÍCULO 48.- En el Registro Público de la Propiedad correspondiente al lugar de ubicación de los
 inmuebles de que se trate, a solicitud de la Secretaría, deberán inscribirse los documentos a que se
@@ -1231,13 +1210,13 @@ a que se refiere el párrafo anterior.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>ARTÍCULO 49.- Para satisfacer las solicitudes de inmuebles federales de dependencias, de las
 unidades administrativas de la Presidencia de la República y de las entidades, la Secretaría deberá:
@@ -1267,25 +1246,25 @@ transmitir el dominio del inmueble en su favor mediante alguno de los actos jur�
 disposición previstos por el artículo 84 de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>ARTÍCULO 50.- La adquisición de derechos de dominio o de uso a título oneroso sobre inmuebles
 ubicados en territorio nacional para el servicio de las dependencias o las unidades administrativas de la
@@ -1335,31 +1314,31 @@ presupuestarias aplicables y obtener la autorización previa de la Secretaría.
 , 03-05-2023</p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo adicionado DOF 16-01-2012</p>
             </note>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Fracción reformada DOF 03-05-2023</p>
             </note>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo reformado DOF 03-05-2023</p>
             </note>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>ARTÍCULO 51.- Cuando se pretenda adquirir el dominio de un inmueble, incluyendo los casos a que
 se refiere el último párrafo del artículo 50 de esta Ley, una vez seleccionado el más apropiado y siempre
@@ -1375,16 +1354,16 @@ correspondientes y remitirá ésta a la Secretaría para su custodia.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Artículo reformado DOF 16-01-2012</p>
             </note>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>ARTÍCULO 52.- Cuando las dependencias o las unidades administrativas de la Presidencia de la
 República, a nombre de la Federación, adquieran en los términos del derecho privado un inmueble para
@@ -1403,13 +1382,13 @@ año.
 , 20-05-2021</p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Artículo reformado DOF 16-01-2012</p>
             </note>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>ARTÍCULO 53.- Las dependencias y las unidades administrativas de la Presidencia de la República,
 aportarán el uno al millar sobre el monto de los precios por las adquisiciones onerosas de inmuebles que
@@ -1418,13 +1397,13 @@ realizará al Fondo a que se refiere el artículo 33 de esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>ARTÍCULO 54. Las dependencias y entidades podrán adquirir los inmuebles, bienes y derechos
 necesarios para la ejecución de los proyectos y programas que tengan a su cargo mediante negociación
@@ -1436,7 +1415,7 @@ un interés económico legítimo y directo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Artículo reformado DOF 16-01-2012</p>
             </note>
           </article>
@@ -1513,9 +1492,9 @@ Secretaría de Servicios Parlamentarios
               <p>Artículo adicionado DOF 16-01-2012</p>
             </note>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>ARTÍCULO 55.- Cuando alguna dependencia o una de las unidades administrativas de la Presidencia
 de la República ejerza la posesión, control o administración a título de dueño, sobre un inmueble del que
@@ -1574,19 +1553,19 @@ que se inscriba en el Registro Público de la Propiedad Federal y en el Registro
 la Propiedad que corresponda al lugar de ubicación del bien.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Inciso reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>ARTÍCULO 56.- En caso de que dentro del plazo señalado en las fracciones I y II del artículo anterior,
 alguna persona presentare oposición al procedimiento administrativo que regula el mismo precepto, la
@@ -1601,13 +1580,13 @@ administradora de inmuebles de que se trate, lo hará de su conocimiento y conti
 procedimiento de expedición de la declaratoria correspondiente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>ARTÍCULO 57.- Tratándose de los inmuebles que con motivo del desempeño de sus atribuciones se
 adjudiquen a la Federación, por conducto de las dependencias, el responsable inmobiliario respectivo
@@ -1628,9 +1607,9 @@ para la prestación de servicios públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>ARTÍCULO 58.- En los casos de las concesiones, permisos o autorizaciones que competa otorgar a
 las dependencias, en las que se establezca que a su término pasarán al dominio de la Federación los
@@ -1663,9 +1642,9 @@ Del Destino de los Inmuebles</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>ARTÍCULO 59.- Están destinados a un servicio público, los siguientes inmuebles federales:
 I.- Los recintos permanentes de los Poderes Legislativo, Ejecutivo y Judicial de la Federación;
@@ -1691,16 +1670,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-59" placement="bottom">
+            <note placementBase="#art-59." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-59" placement="bottom">
+            <note placementBase="#art-59." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>ARTÍCULO 60.- Quedarán sujetos al régimen jurídico de los bienes destinados a un servicio público
 los siguientes inmuebles:
@@ -1711,9 +1690,9 @@ internacionales de las que México sea miembro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>ARTÍCULO 61.- Los inmuebles federales prioritariamente se destinarán al servicio de las instituciones
 públicas, mediante acuerdo administrativo, en el que se especificará la institución destinataria y el uso
@@ -1730,9 +1709,9 @@ como con el valor artístico o histórico que en su caso posean.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>ARTÍCULO 62.- Para resolver sobre el destino de un inmueble federal, la Secretaría y la Secretaría de
 Medio Ambiente y Recursos Naturales, en el ámbito de sus respectivas competencias, deberán tomar en
@@ -1751,13 +1730,13 @@ correspondientes que establecerán los requisitos, plazos, catálogo de usos, de
 demás especificaciones para el destino de los inmuebles federales que sean de su competencia.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-62" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Fracción reformada DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>ARTÍCULO 63.- Las instituciones destinatarias podrán asignar y reasignar entre sus unidades
 administrativas y órganos desconcentrados, los espacios de los inmuebles que le hubiesen sido
@@ -1783,9 +1762,9 @@ convenga la realización de obras en una parte o en la totalidad de los inmueble
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>ARTÍCULO 64.- La Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según
 corresponda, podrán autorizar a las instituciones destinatarias, a solicitud de éstas, a concesionar o
@@ -1807,13 +1786,13 @@ institucional relacionados con actividades académicas y de investigación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>ARTÍCULO 65.- Las dependencias y las unidades administrativas de la Presidencia de la República
 que tengan destinados a su servicio inmuebles federales de la competencia de la Secretaría, bajo su
@@ -1860,13 +1839,13 @@ De los actos señalados en el presente artículo, las destinatarias deberán dar
 dentro de los treinta días siguientes a la realización de cada acto.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>ARTÍCULO 66.- La conservación, mantenimiento y vigilancia de los inmuebles federales destinados,
 quedará a cargo de las instituciones destinatarias, las cuales deberán atender las disposiciones legales y
@@ -1878,9 +1857,9 @@ los lineamientos correspondientes respecto de los inmuebles federales que sean d
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>ARTÍCULO 67.- Para cambiar el uso de los inmuebles destinados, las instituciones destinatarias
 deberán solicitarlo a la Secretaría o a la Secretaría de Medio Ambiente y Recursos Naturales, según
@@ -1895,9 +1874,9 @@ uso que realice.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>ARTÍCULO 68.- En caso de que las instituciones destinatarias no requieran usar la totalidad del
 inmueble, lo dejen de utilizar o de necesitar o le den un uso distinto al autorizado, el responsable
@@ -1924,9 +1903,9 @@ caso, han recibido de conformidad el inmueble puesto a su disposición.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>ARTÍCULO 69.- Si la Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según sea
 el caso, con base en los estudios y evaluaciones que efectúen, detectan que los inmuebles federales
@@ -1944,9 +1923,9 @@ Gobierno Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>ARTÍCULO 70.- El destino únicamente confiere a la institución destinataria el derecho de usar el
 inmueble destinado en el uso autorizado, pero no transmite la propiedad del mismo, ni otorga derecho
@@ -1958,9 +1937,9 @@ administrativa del inmueble.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>ARTÍCULO 71.- No se permitirá a servidores públicos, ni a particulares, que habiten los inmuebles
 destinados al servicio de instituciones públicas, excepto en los siguientes casos:
@@ -1987,13 +1966,13 @@ Sección Tercera
 De las Concesiones</p>
               </content>
             </paragraph>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>ARTÍCULO 72.- Las dependencias administradoras de inmuebles podrán otorgar a los particulares
 derechos de uso o aprovechamiento sobre los inmuebles federales, mediante concesión, para la
@@ -2032,9 +2011,9 @@ Diputados del H. Congreso de la Unión sobre las concesiones otorgadas en el per
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>ARTÍCULO 73.- Las concesiones sobre inmuebles federales, salvo excepciones previstas en otras
 leyes, podrán otorgarse por un plazo de hasta cincuenta años, el cual podrá ser prorrogado una o varias
@@ -2058,9 +2037,9 @@ concesionado pasarán al dominio de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>ARTÍCULO 74.- Las concesiones sobre inmuebles federales se extinguen por cualquiera de las
 causas siguientes:
@@ -2076,9 +2055,9 @@ continuación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>ARTÍCULO 75.- Es causa de caducidad de las concesiones, no iniciar el uso o aprovechamiento del
 inmueble concesionado dentro del plazo señalado en las mismas.
@@ -2090,9 +2069,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>ARTÍCULO 76.- Las concesiones sobre inmuebles federales, podrán ser revocadas por cualquiera de
 estas causas:
@@ -2118,9 +2097,9 @@ a lo dispuesto por el siguiente artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>ARTÍCULO 77.- Las dependencias que otorguen concesiones, podrán autorizar a los concesionarios
 para:
@@ -2150,9 +2129,9 @@ De los Inmuebles Utilizados para Fines Religiosos</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>ARTÍCULO 78.- Los inmuebles federales utilizados para fines religiosos y sus anexidades, así como
 los muebles ubicados en los mismos que se consideren inmovilizados o guarden conexión con el uso o
@@ -2171,9 +2150,9 @@ un objeto público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>ARTÍCULO 79.- Respecto de los muebles e inmuebles federales utilizados para fines religiosos y sus
 anexidades, a la Secretaría le corresponderá:
@@ -2211,13 +2190,13 @@ como a la Secretaría de Cultura respecto de los responsables de estos últimos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-79" placement="bottom">
+            <note placementBase="#art-79." placement="bottom">
               <p>Fracción reformada DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>ARTÍCULO 80.- Respecto de los inmuebles federales utilizados para fines religiosos y sus
 anexidades, a la Secretaría de Gobernación, sin perjuicio de las atribuciones que le confieran otras leyes,
@@ -2243,9 +2222,9 @@ anexidades.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>ARTÍCULO 81.- Si los muebles e inmuebles federales utilizados para fines religiosos y sus
 anexidades están considerados como monumentos históricos o artísticos conforme a la ley de la materia
@@ -2287,16 +2266,16 @@ cultura, conforme al convenio que para tal efecto se celebre, así como verifica
 de seguridad necesarias para salvaguardar estos bienes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2015</p>
             </note>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Fracción reformada DOF 10-01-2012</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>ARTÍCULO 82.- Los gobiernos de las entidades federativas, en auxilio de la Secretaría de
 Gobernación y de la Secretaría, podrán en los términos de los convenios de colaboración o coordinación
@@ -2334,13 +2313,13 @@ XI.- Dar a conocer a las autoridades locales correspondientes, el régimen jurí
 los inmuebles federales utilizados para fines religiosos y sus anexidades.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-82" placement="bottom">
+            <note placementBase="#art-82." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>ARTÍCULO 83.- Las asociaciones religiosas tendrán sobre los inmuebles federales utilizados para
 fines religiosos y sus anexidades, los siguientes derechos y obligaciones:
@@ -2395,19 +2374,19 @@ Sección Quinta
 De los Actos de Administración y Disposición</p>
               </content>
             </paragraph>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Fracción reformada DOF 17-12-2015</p>
             </note>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2012</p>
             </note>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Fracción reformada DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>ARTÍCULO 84.- Los inmuebles federales que no sean útiles para destinarlos al servicio público o que
 no sean de uso común, podrán ser objeto de los siguientes actos de administración y disposición:
@@ -2490,25 +2469,25 @@ apliquen al mejoramiento de las áreas en las que se presten servicios a la ciud
 que disponga el Presupuesto de Egresos de la Federación.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-84." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-84." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-84." placement="bottom">
               <p>Fracción reformada DOF 16-01-2012</p>
             </note>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-84." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-84." placement="bottom">
               <p>Párrafo reformado DOF 03-05-2023</p>
             </note>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>ARTÍCULO 85.- La venta de inmuebles federales que no sean útiles para destinarlos al servicio
 público o que no sean de uso común, se realizará mediante licitación pública, con excepción de los casos
@@ -2532,13 +2511,13 @@ para la licitación anterior, si el respectivo dictamen valuatorio continúa vig
 dictamen, deberá practicarse un nuevo avalúo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-85" placement="bottom">
+            <note placementBase="#art-85." placement="bottom">
               <p>Fracción reformada DOF 03-05-2023</p>
             </note>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>ARTÍCULO 86.- La Secretaría emitirá las normas para la venta de inmuebles federales.
 La Secretaría podrá encomendar la promoción de la venta de inmuebles federales a personas
@@ -2554,9 +2533,9 @@ cubrir los requisitos que se señalen en las disposiciones que emita la propia S
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>ARTÍCULO 87.- Los inmuebles federales que por su superficie y ubicación sean adecuados para su
 aplicación a programas de vivienda, salvo aquellos que sean útiles para destinarlos al servicio público, de
@@ -2573,9 +2552,9 @@ en las demás correlativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>ARTÍCULO 88.- Toda enajenación onerosa de inmuebles federales deberá ser de contado, a
 excepción de las enajenaciones que tengan como finalidad resolver necesidades de vivienda de interés
@@ -2594,9 +2573,9 @@ Dicha dependencia en todo caso se deberá asegurar del cumplimiento de los objet
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>ARTÍCULO 89.- En las enajenaciones a plazo, la Federación se reservará el dominio de los inmuebles
 federales hasta el pago total del precio, de los intereses pactados y de los moratorios, en su caso, y los
@@ -2614,21 +2593,21 @@ contiene este artículo, darán origen a la rescisión del contrato.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>ARTÍCULO 90. (Se deroga)
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-90" placement="bottom">
+            <note placementBase="#art-90." placement="bottom">
               <p>Artículo derogado DOF 16-01-2012</p>
             </note>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>ARTÍCULO 91.- En los casos en que el Gobierno Federal descentralice funciones o servicios a favor
 de los gobiernos de las entidades federativas o de los municipios, y determine la transmisión del dominio
@@ -2637,13 +2616,13 @@ procederá a celebrar los contratos de donación o, en su caso, de cesión gratu
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-91" placement="bottom">
+            <note placementBase="#art-91." placement="bottom">
               <p>Artículo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>ARTÍCULO 92.- La enajenación a título gratuito de inmuebles federales a que se refiere el artículo 84
 de esta Ley, sólo procederá mediante la presentación de proyectos que señalen el uso principal del
@@ -2653,9 +2632,9 @@ bien donado como sus mejoras revertirán a favor de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>ARTÍCULO 93.- El acuerdo administrativo que autorice la enajenación a título gratuito de inmuebles
 federales en los casos previstos por esta Ley, podrá fijar el plazo máximo dentro del cual deberá iniciarse
@@ -2676,9 +2655,9 @@ enajenación respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>ARTÍCULO 94.- Cuando se den los supuestos para la reversión de los inmuebles enajenados a título
 gratuito, a que se refieren los artículos 92 y 93 de esta Ley, la Secretaría substanciará el procedimiento
@@ -2694,9 +2673,9 @@ De la Formalización de los Actos Adquisitivos y Traslativos de Dominio</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>ARTÍCULO 95.- Cuando se determine realizar los actos de enajenación a que se refiere el artículo 84
 de esta Ley, se requerirá de la emisión del acuerdo administrativo que desincorpore del régimen de
@@ -2709,9 +2688,9 @@ Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>ARTÍCULO 96.- Los actos jurídicos relacionados con inmuebles en los que sean parte la Federación y
 que en los términos de esta Ley requieran la intervención de notario, se celebrarán ante los Notarios del
@@ -2743,9 +2722,9 @@ Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>ARTÍCULO 97.- Las entidades podrán elegir libremente al notario público con residencia en la entidad
 federativa en que se ubique el inmueble de que se trate, para formalizar cada uno de los actos
@@ -2762,16 +2741,16 @@ diferente circunscripción territorial, sin perjuicio de las leyes locales en ma
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-97" placement="bottom">
+            <note placementBase="#art-97." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-97" placement="bottom">
+            <note placementBase="#art-97." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>ARTÍCULO 98. Los Notarios del Patrimonio Inmobiliario Federal formalizarán los actos adquisitivos o
 traslativos de dominio de inmuebles que otorguen la Federación o las entidades, y tanto ellos como los
@@ -2794,13 +2773,13 @@ convenir con los Colegios de Notarios respectivos, tarifas y cuotas especiales p
 dichos instrumentos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-98" placement="bottom">
+            <note placementBase="#art-98." placement="bottom">
               <p>Párrafo reformado DOF 16-01-2012</p>
             </note>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>ARTÍCULO 99.- No se requerirá intervención de notario en los casos siguientes:
 I.- Donaciones a favor de la Federación;
@@ -2828,31 +2807,24 @@ necesidades habitacionales, cuando el valor de cada inmueble no exceda de la sum
 multiplicar por diez el salario mínimo general elevado al año que corresponda al Distrito Federal;
 IX.- Enajenaciones que realicen las entidades a personas de escasos recursos para resolver
 necesidades de vivienda de interés social, y
-X.- Las resoluciones judiciales en los casos a que se refieren las fracciones IV, XVIII, XIX y XX del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-99" placement="bottom">
-              <p>Fracción reformada DOF 19-01-2018</p>
-            </note>
-            <note placementBase="#art-99" placement="bottom">
-              <p>Fracción reformada DOF 19-01-2018</p>
-            </note>
-          </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
-              <content>
-                <p>artículo 42 de esta Ley.
+X.- Las resoluciones judiciales en los casos a que se refieren las fracciones IV, XVIII, XIX y XX del
+artículo 42 de esta Ley.
 En los casos a que se refieren las fracciones I, II, III, IV, V, VI y VIII de este artículo, el documento que
 consigne el acto o contrato respectivo tendrá el carácter de instrumento público. En las hipótesis
 previstas por las fracciones VII y IX, se requerirá que la Secretaría autorice los contratos respectivos,
 para que éstos adquieran el carácter de instrumento público.</p>
               </content>
             </paragraph>
+            <note placementBase="#art-99." placement="bottom">
+              <p>Fracción reformada DOF 19-01-2018</p>
+            </note>
+            <note placementBase="#art-99." placement="bottom">
+              <p>Fracción reformada DOF 19-01-2018</p>
+            </note>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>ARTÍCULO 100.- En caso de que los actos de adquisición de inmuebles a favor de la Federación
 estén afectados de nulidad, éstos podrán ser convalidados en términos de lo dispuesto por el Código Civil
@@ -2861,9 +2833,9 @@ términos de las disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>ARTÍCULO 101.- Se deberán publicar en el Diario Oficial de la Federación:
 I.- Los ordenamientos cuya expedición prevé la presente Ley;
@@ -2892,9 +2864,9 @@ De la Realización de Obras y de la Conservación y Mantenimiento</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>ARTÍCULO 102.- La Secretaría determinará las normas y criterios técnicos para la construcción,
 reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles federales
@@ -2904,9 +2876,9 @@ realicen para la seguridad nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>ARTÍCULO 103.- La Secretaría de Cultura, a través del Instituto Nacional de Antropología e Historia y
 del Instituto Nacional de Bellas Artes y Literatura, según corresponda, determinará las normas y criterios
@@ -2917,13 +2889,13 @@ instituciones públicas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-103" placement="bottom">
+            <note placementBase="#art-103." placement="bottom">
               <p>Artículo reformado DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>ARTÍCULO 104.- La Secretaría intervendrá en los términos de la Ley de Obras Públicas y Servicios
 Relacionados con las Mismas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de
@@ -2937,16 +2909,16 @@ servicio de las instituciones públicas, se requerirá de la autorización previ
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Párrafo reformado DOF 03-05-2023</p>
             </note>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2015</p>
             </note>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>ARTÍCULO 105.- Las instituciones destinatarias realizarán las obras de construcción, reconstrucción,
 restauración, modificación, adaptación y de aprovechamiento de espacios de los inmuebles destinados,
@@ -2964,13 +2936,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-105" placement="bottom">
+            <note placementBase="#art-105." placement="bottom">
               <p>Artículo reformado DOF 10-01-2012</p>
             </note>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>ARTÍCULO 106.- Si estuvieran alojadas en un mismo inmueble federal oficinas administrativas de
 diferentes instituciones públicas y se hubiere programado la realización de obras, así como previsto los
@@ -3002,16 +2974,16 @@ Sección Octava
 De la Recuperación de Inmuebles por la Vía Administrativa</p>
               </content>
             </paragraph>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>ARTÍCULO 107.- Independientemente de las acciones en la vía judicial, la dependencia
 administradora de inmuebles de que se trate podrá llevar a cabo el procedimiento administrativo
@@ -3032,9 +3004,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>ARTÍCULO 108.- En cualquiera de los supuestos señalados en el artículo anterior, la dependencia
 administradora de inmuebles dictará un acuerdo de inicio del procedimiento, el que deberá estar fundado
@@ -3044,9 +3016,9 @@ administradora de inmuebles sustente el inicio del procedimiento administrativo 
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>ARTÍCULO 109.- La dependencia administradora de inmuebles al día hábil siguiente a aquél en que
 se acuerde el inicio del procedimiento administrativo, les notificará a las personas en contra de quienes
@@ -3056,9 +3028,9 @@ caso, tuviere y acompañar los documentos en que funde sus excepciones y defensa
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>ARTÍCULO 110.- El procedimiento se sujetará a las siguientes reglas:
 I.- En la notificación se expresará:
@@ -3082,18 +3054,18 @@ c) Se levantará acta administrativa en la que consten las circunstancias anteri
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>ARTÍCULO 111.- Las notificaciones se harán conforme a lo dispuesto en la Ley Federal de
 Procedimiento Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>ARTÍCULO 112.- La dependencia administradora de inmuebles competente recibirá y, en su caso,
 admitirá y desahogará las pruebas a que se refiere la fracción II, inciso a) del artículo 110 de esta Ley en
@@ -3108,9 +3080,9 @@ emitirá la resolución correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>ARTÍCULO 113.- La resolución deberá contener lo siguiente:
 I.- Nombre de las personas sujetas al procedimiento;
@@ -3128,9 +3100,9 @@ Procedimiento Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>ARTÍCULO 114.- Una vez que quede firme la resolución pronunciada, la dependencia administradora
 de inmuebles que dictó la misma, procederá a ejecutarla, estando facultada para que, en caso de ser
@@ -3139,13 +3111,13 @@ Familiares.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-114" placement="bottom">
+            <note placementBase="#art-114." placement="bottom">
               <p>Artículo reformado DOF 14-11-2025</p>
             </note>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>ARTÍCULO 115.- La dependencia administradora de inmuebles podrá celebrar con los particulares
 acuerdos o convenios de carácter conciliatorio en cualquier momento, siempre que no sean contrarios a
@@ -3153,9 +3125,9 @@ las disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>ARTÍCULO 116.- Los inmuebles propiedad de las entidades no se encuentran sujetos al régimen de
 dominio público de la Federación que establece esta Ley, salvo aquellos inmuebles propiedad de los
@@ -3164,15 +3136,8 @@ Las entidades podrán adquirir por sí mismas el dominio o el uso de los inmuebl
 realización de su objeto o fines, así como realizar cualquier acto jurídico sobre inmuebles de su
 propiedad, sujetándose a las normas y bases que establezcan sus órganos de gobierno, en los términos
 de la Ley Federal de las Entidades Paraestatales, sin requerir autorización de la Secretaría. Tratándose
-de la enajenación de inmuebles propiedad de organismos descentralizados, se estará a lo dispuesto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
-              <content>
-                <p>artículo 117 de la presente Ley.
+de la enajenación de inmuebles propiedad de organismos descentralizados, se estará a lo dispuesto en el
+artículo 117 de la presente Ley.
 Los inmuebles propiedad de las entidades, pueden ser objeto de todos los contratos que regula el
 derecho común.
 47 de 81
@@ -3183,9 +3148,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>ARTÍCULO 117.- Los inmuebles propiedad de los organismos descentralizados, con excepción de los
 casos previstos en los párrafos siguientes de este artículo, sólo podrán ser desincorporados del régimen
@@ -3203,9 +3168,9 @@ acuerdo administrativo a que se refiere el primer párrafo de este artículo.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>ARTÍCULO 118.- Los inmuebles propiedad de los organismos descentralizados, excepto los que por
 disposición constitucional sean inalienables, sólo podrán gravarse con autorización expresa del Ejecutivo
@@ -3214,13 +3179,13 @@ financiamiento de las obras o servicios a cargo del organismo descentralizado de
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-118" placement="bottom">
+            <note placementBase="#art-118." placement="bottom">
               <p>Artículo reformado DOF 03-05-2023</p>
             </note>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>ARTÍCULO 119.- Tanto en el macizo continental como en las islas que integran el territorio nacional,
 la zona federal marítimo terrestre se determinará:
@@ -3255,9 +3220,9 @@ la zona federal marítimo terrestre.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>ARTÍCULO 120.- El Ejecutivo Federal, a través de la Secretaría de Medio Ambiente y Recursos
 Naturales, promoverá el uso y aprovechamiento sustentables de la zona federal marítimo terrestre y los
@@ -3278,9 +3243,9 @@ Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>ARTÍCULO 121.- Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que
 celebre la Federación, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, con los
@@ -3323,9 +3288,9 @@ gaceta o periódico oficial de la respectiva entidad federativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>ARTÍCULO 122.- En el caso de que la zona federal marítimo terrestre sea invadida total o
 parcialmente por las aguas, o de que éstas lleguen inclusive a invadir terrenos de propiedad particular
@@ -3336,9 +3301,9 @@ derecho de preferencia para que se les concesione, conforme a lo establecido por
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>ARTÍCULO 123.- Cuando el aprovechamiento o explotación de materiales existentes en la zona
 federal marítimo terrestre se rija por leyes especiales, para que la autoridad competente otorgue la
@@ -3355,9 +3320,9 @@ en lo tocante a la zona federal marítimo terrestre.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>ARTÍCULO 124.- Sólo podrán realizarse obras para ganar artificialmente terrenos al mar, con la previa
 autorización de la Secretaría de Medio Ambiente y Recursos Naturales y con la intervención de la
@@ -3386,9 +3351,9 @@ operación de infraestructura especializada en los litorales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>ARTÍCULO 125.- Cuando por causas naturales o artificiales, se ganen terrenos al mar, los límites de
 la zona federal marítimo terrestre se establecerán de acuerdo con la nueva configuración física del
@@ -3402,9 +3367,9 @@ establezca la Secretaría de Medio Ambiente y Recursos Naturales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>ARTÍCULO 126.- La zona federal marítimo terrestre y los terrenos ganados al mar no podrán ser
 objeto de afectaciones agrarias y, en consecuencia, no podrán estar comprendidos en las resoluciones
@@ -3414,9 +3379,9 @@ aprovechamiento de dichos bienes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>ARTÍCULO 127.- Los concesionarios y permisionarios que aprovechen y exploten la zona federal
 marítimo terrestre, pagarán los derechos correspondientes, conforme a lo dispuesto en la legislación
@@ -3430,13 +3395,13 @@ reglamento. Dichos accesos serán considerados servidumbre, en términos de la f
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-127" placement="bottom">
+            <note placementBase="#art-127." placement="bottom">
               <p>Párrafo adicionado DOF 21-10-2020</p>
             </note>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>ARTÍCULO 128.- Las disposiciones de este Título serán aplicables a los bienes muebles de propiedad
 federal que estén al servicio de las dependencias y las unidades administrativas de la Presidencia de la
@@ -3451,13 +3416,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-128" placement="bottom">
+            <note placementBase="#art-128." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>ARTÍCULO 129.- La Secretaría expedirá las normas generales a que se sujetará el registro,
 afectación, disposición final y baja de los bienes muebles al servicio de las dependencias y las unidades
@@ -3473,16 +3438,16 @@ manejo de los almacenes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>ARTÍCULO 130.- A los Oficiales Mayores o equivalentes de las dependencias y las unidades
 administrativas de la Presidencia de la República les corresponderá, bajo su estricta responsabilidad, lo
@@ -3498,13 +3463,13 @@ El acuerdo administrativo de desincorporación a que se refiere la fracción II 
 a uno o más bienes debidamente identificados de manera individual.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-130" placement="bottom">
+            <note placementBase="#art-130." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>ARTÍCULO 131.- Será responsabilidad de las dependencias y las unidades administrativas de la
 Presidencia de la República, la enajenación, transferencia o destrucción de los bienes muebles de
@@ -3537,16 +3502,16 @@ unidades administrativas de la Presidencia de la República, que éstas determin
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-131" placement="bottom">
+            <note placementBase="#art-131." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-131" placement="bottom">
+            <note placementBase="#art-131." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>ARTÍCULO 132.- Salvo los casos comprendidos en los párrafos tercero y cuarto de este artículo, la
 venta se hará mediante licitación pública. De no lograrse la venta de los bienes a través del
@@ -3585,22 +3550,22 @@ casos de sorteo y de subasta a que se refieren los párrafos primero y segundo d
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Párrafo reformado DOF 14-09-2021</p>
             </note>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-132" placement="bottom">
+            <note placementBase="#art-132." placement="bottom">
               <p>Párrafo reformado DOF 14-09-2021</p>
             </note>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>ARTÍCULO 133.- Las dependencias y las unidades administrativas de la Presidencia de la República,
 con aprobación expresa de su Oficial Mayor o equivalente, o del Comité de Bienes Muebles, en su caso,
@@ -3626,13 +3591,13 @@ la dependencia en cuyos inventarios figure el bien.
 En todo caso, la donación de bienes deberá realizarse a valor de adquisición o de inventario.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-133" placement="bottom">
+            <note placementBase="#art-133." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>ARTÍCULO 134.- La transferencia de bienes muebles podrá realizarse exclusivamente entre
 dependencias y las unidades administrativas de la Presidencia de la República; para ello, deberá
@@ -3642,13 +3607,13 @@ adquisición o de inventario, mediante acta de entrega recepción.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-134" placement="bottom">
+            <note placementBase="#art-134." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>ARTÍCULO 135.- Efectuada la enajenación, transferencia o destrucción, se procederá a la
 cancelación de registros en inventarios y se dará aviso a la Secretaría de la baja respectiva en los
@@ -3656,9 +3621,9 @@ términos que ésta establezca.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>ARTÍCULO 136.- Los actos de disposición final que respecto de los bienes muebles a su servicio,
 realicen en sus representaciones en el extranjero las dependencias, se regirán en lo procedente por este
@@ -3666,13 +3631,13 @@ Capítulo, sin perjuicio de lo dispuesto por la legislación del lugar donde se 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-136" placement="bottom">
+            <note placementBase="#art-136." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>ARTÍCULO 137.- Las dependencias y las unidades administrativas de la Presidencia de la República,
 podrán otorgar bienes muebles en comodato a entidades, a los gobiernos de las entidades federativas y
@@ -3682,13 +3647,13 @@ que deberá ser objeto de acreditación y seguimiento por parte de la instituci�
 , 20-05-2021</p>
               </content>
             </paragraph>
-            <note placementBase="#art-137" placement="bottom">
+            <note placementBase="#art-137." placement="bottom">
               <p>Artículo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>ARTÍCULO 138.- La Secretaría llevará y mantendrá permanentemente actualizado un catálogo o
 registro clasificatorio de los bienes muebles de las dependencias y las unidades administrativas de la
@@ -3697,13 +3662,13 @@ como aquélla que les solicite.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-138" placement="bottom">
+            <note placementBase="#art-138." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>ARTÍCULO 139.- Con excepción de la transferencia y del aviso de baja a que se refieren los artículos
 134 y 135 de la presente Ley, respectivamente, las disposiciones sobre bienes muebles a que se contrae
@@ -3723,9 +3688,9 @@ al órgano de gobierno de la entidad, el que podrá delegarlas en el titular de 
               </content>
             </paragraph>
           </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>ARTÍCULO 140.- Los titulares de las dependencias y de las unidades administrativas de la
 Presidencia de la República, así como los órganos de gobierno de las entidades deberán establecer
@@ -3737,13 +3702,13 @@ a las bases generales que dicten dichos órganos, en los términos de los artíc
 respectivamente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-140" placement="bottom">
+            <note placementBase="#art-140." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>ARTÍCULO 141.- Las funciones de los comités de bienes muebles serán las siguientes:
 I.- Elaborar y autorizar el manual de integración y funcionamiento respectivo;
@@ -3788,19 +3753,19 @@ Las normas a que se refiere el artículo 129 de esta Ley, precisarán cuáles so
 esenciales referidos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-141" placement="bottom">
+            <note placementBase="#art-141." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-141" placement="bottom">
+            <note placementBase="#art-141." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-141" placement="bottom">
+            <note placementBase="#art-141." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>ARTÍCULO 142.- La Secretaría emitirá las normas, procedimientos, criterios y metodologías de
 carácter técnico, conforme a los cuales se llevarán a cabo los avalúos y justipreciaciones de rentas a que
@@ -3808,9 +3773,9 @@ se refieren los artículos 143 y 144 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>ARTÍCULO 143.- Previamente a la celebración de los actos jurídicos a que se refiere el presente
 artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la
@@ -3888,25 +3853,25 @@ Asimismo, la Secretaría podrá practicar todo tipo de trabajos valuatorios a ni
 se lo soliciten las instituciones públicas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-143" placement="bottom">
+            <note placementBase="#art-143." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-143" placement="bottom">
+            <note placementBase="#art-143." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-143" placement="bottom">
+            <note placementBase="#art-143." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-143" placement="bottom">
+            <note placementBase="#art-143." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-143" placement="bottom">
+            <note placementBase="#art-143." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>ARTÍCULO 144.- Previamente a la celebración de los actos jurídicos a que se refiere el presente
 artículo en los que intervengan las dependencias, las unidades administrativas de la Presidencia de la
@@ -3962,25 +3927,25 @@ XIII.- Los demás valores cuya determinación no esté encomendada exclusivament
 por esta Ley u otros ordenamientos jurídicos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-144" placement="bottom">
+            <note placementBase="#art-144." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-144" placement="bottom">
+            <note placementBase="#art-144." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-144" placement="bottom">
+            <note placementBase="#art-144." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-144" placement="bottom">
+            <note placementBase="#art-144." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
-            <note placementBase="#art-144" placement="bottom">
+            <note placementBase="#art-144." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>ARTÍCULO 145.- Cuando con motivo de la celebración de los actos jurídicos a que se refieren los
 artículos 143 y 144, las dependencias, las unidades administrativas de la Presidencia de la República o
@@ -3990,13 +3955,13 @@ dictaminado, salvo las excepciones que esta Ley establece.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-145" placement="bottom">
+            <note placementBase="#art-145." placement="bottom">
               <p>Artículo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-146">
-            <num>Artículo 146</num>
-            <paragraph id="art-146-para-1">
+          <article id="art-146.">
+            <num>Artículo 146.</num>
+            <paragraph id="art-146.-para-1">
               <content>
                 <p>ARTÍCULO 146.- En el caso de que las dependencias, las unidades administrativas de la Presidencia
 de la República o las entidades, pretendan continuar la ocupación de un inmueble arrendado, la
@@ -4007,13 +3972,13 @@ Las instituciones mencionadas no requerirán obtener justipreciaciones de rentas
 las mismas no rebase el importe máximo de rentas que fije anualmente la Secretaría.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-146" placement="bottom">
+            <note placementBase="#art-146." placement="bottom">
               <p>Párrafo reformado DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-147">
-            <num>Artículo 147</num>
-            <paragraph id="art-147-para-1">
+          <article id="art-147.">
+            <num>Artículo 147.</num>
+            <paragraph id="art-147.-para-1">
               <content>
                 <p>ARTÍCULO 147.- La Secretaría tendrá facultades para definir los criterios que habrán de atenderse en
 la determinación de los porcentajes y montos de incremento o reducción a los valores comerciales, con el
@@ -4025,9 +3990,9 @@ pedir opinión a las dependencias y entidades involucradas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-148">
-            <num>Artículo 148</num>
-            <paragraph id="art-148-para-1">
+          <article id="art-148.">
+            <num>Artículo 148.</num>
+            <paragraph id="art-148.-para-1">
               <content>
                 <p>ARTÍCULO 148.- La vigencia de los dictámenes valuatorios y de justipreciaciones de rentas, no
 excederá de un año contado a partir de la fecha de su emisión, salvo lo que dispongan otros
@@ -4035,9 +4000,9 @@ ordenamientos jurídicos en materias específicas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-149">
-            <num>Artículo 149</num>
-            <paragraph id="art-149-para-1">
+          <article id="art-149.">
+            <num>Artículo 149.</num>
+            <paragraph id="art-149.-para-1">
               <content>
                 <p>ARTÍCULO 149.- Se sancionará con prisión de dos a doce años y multa de trescientas a mil veces el
 salario mínimo general diario vigente para el Distrito Federal a quien, vencido el término señalado en la
@@ -4053,9 +4018,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-150">
-            <num>Artículo 150</num>
-            <paragraph id="art-150-para-1">
+          <article id="art-150.">
+            <num>Artículo 150.</num>
+            <paragraph id="art-150.-para-1">
               <content>
                 <p>ARTÍCULO 150.- La pena señalada en el artículo anterior se impondrá a quien use, aproveche o
 explote un bien que pertenece a la Nación, sin haber obtenido previamente concesión, permiso o
@@ -4063,9 +4028,9 @@ autorización, o celebrado contrato con la autoridad competente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-151">
-            <num>Artículo 151</num>
-            <paragraph id="art-151-para-1">
+          <article id="art-151.">
+            <num>Artículo 151.</num>
+            <paragraph id="art-151.-para-1">
               <content>
                 <p>ARTÍCULO 151.- Las obras e instalaciones que sin concesión, permiso, autorización o contrato se
 realicen en inmuebles federales, se perderán en beneficio de la Federación. En su caso, la Secretaría
@@ -4074,9 +4039,9 @@ indemnización o compensación alguna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-152">
-            <num>Artículo 152</num>
-            <paragraph id="art-152-para-1">
+          <article id="art-152.">
+            <num>Artículo 152.</num>
+            <paragraph id="art-152.-para-1">
               <content>
                 <p>ARTÍCULO 152.- A los notarios públicos y a los Notarios del Patrimonio Inmobiliario Federal, que
 autoricen actos jurídicos en contravención de las disposiciones de esta Ley o sus reglamentos, o no
@@ -4088,9 +4053,9 @@ el nombramiento que les hubiere otorgado para actuar con tal carácter.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-153">
-            <num>Artículo 153</num>
-            <paragraph id="art-153-para-1">
+          <article id="art-153.">
+            <num>Artículo 153.</num>
+            <paragraph id="art-153.-para-1">
               <content>
                 <p>ARTÍCULO 153.- Quienes realicen el uso o aprovechamiento de la zona federal marítimo terrestre y
 los terrenos ganados al mar, sin contar con concesión permiso o autorización de la autoridad competente,
@@ -4100,13 +4065,13 @@ con lo dispuesto en la Ley Federal de Responsabilidad Ambiental.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-153" placement="bottom">
+            <note placementBase="#art-153." placement="bottom">
               <p>Artículo adicionado DOF 07-06-2013</p>
             </note>
           </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
+          <article id="art-154.">
+            <num>Artículo 154.</num>
+            <paragraph id="art-154.-para-1">
               <content>
                 <p>ARTÍCULO 154.- Se sancionará con multa de entre tres mil y hasta doce mil veces la Unidad de
 Medida y Actualización vigente a los propietarios de terrenos colindantes con la zona federal marítimo
@@ -4119,14 +4084,45 @@ aprovechamiento de la zona federal marítimo terrestre, en caso de reincidencia,
 señalada en el párrafo anterior, se revocará la concesión, autorización o permiso, observando en lo
 conducente, lo dispuesto en el artículo 18 de esta Ley.
 
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se abroga la Ley General de Bienes Nacionales, publicada en el Diario Oficial de la
-Federación el 8 de enero de 1982.
-TERCERO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en la presente
-Ley.
-CUARTO.- Los inmuebles a que se refiere la fracción V del artículo 6 de esta Ley, son los
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-154." placement="bottom">
+              <p>Artículo adicionado DOF 21-10-2020</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se abroga la Ley General de Bienes Nacionales, publicada en el Diario Oficial de la
+Federación el 8 de enero de 1982.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en la presente
+Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los inmuebles a que se refiere la fracción V del artículo 6 de esta Ley, son los
 nacionalizados a que se refiere el Artículo Decimoséptimo Transitorio de la Constitución Política de los
 Estados Unidos Mexicanos, que las iglesias y agrupaciones religiosas hubiesen administrado o utilizado
 con anterioridad al 29 de enero de 1992, incluyendo aquéllos respecto de los cuales, a la fecha de
@@ -4136,22 +4132,50 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 entrada en vigor del presente ordenamiento, aún no se hubiere expedido la resolución judicial o la
-declaración administrativa correspondiente.
-QUINTO.- Las entidades y los gobiernos del Distrito Federal, estatales y municipales que antes de la
+declaración administrativa correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Las entidades y los gobiernos del Distrito Federal, estatales y municipales que antes de la
 entrada en vigor de la presente Ley, hubieren adquirido de la Federación, mediante enajenación a título
 gratuito, inmuebles considerados monumentos históricos o artísticos conforme a la ley de la materia o la
 declaratoria correspondiente, están obligados a absorber los costos de reparación, conservación y
-mantenimiento y a dar a los inmuebles un uso compatible con su naturaleza.
-SEXTO.- En el caso de los bienes que a la fecha de entrada en vigor de esta Ley, se hayan
+mantenimiento y a dar a los inmuebles un uso compatible con su naturaleza.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- En el caso de los bienes que a la fecha de entrada en vigor de esta Ley, se hayan
 desincorporado del régimen de dominio público de la Federación o autorizado su enajenación a través del
 Decreto respectivo, sin haberse enajenado, se entenderá que dicha desincorporación tiene el efecto a
-que se refiere el artículo 95 de la presente Ley.
-SÉPTIMO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de esta Ley,
+que se refiere el artículo 95 de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor de esta Ley,
 serán resueltos conforme a lo dispuesto por la Ley General de Bienes Nacionales abrogada.
 Los trámites pendientes sobre la desincorporación del régimen de dominio público de la Federación y
 la autorización para la enajenación de inmuebles federales o propiedad de organismos descentralizados,
-se resolverán conforme a lo dispuesto por la presente Ley.
-OCTAVO.- El Ejecutivo Federal deberá expedir, en un plazo no mayor a noventa días naturales
+se resolverán conforme a lo dispuesto por la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- El Ejecutivo Federal deberá expedir, en un plazo no mayor a noventa días naturales
 fatales, contados a partir de la entrada en vigor de esta Ley, el reglamento en el que se determine la
 integración y funcionamiento del nuevo órgano administrativo desconcentrado de la Secretaría que, en
 sustitución de la Comisión de Avalúos de Bienes Nacionales, se hará cargo de las atribuciones que esta
@@ -4163,16 +4187,37 @@ de Bienes Nacionales. En caso de que para dicho efecto se requieran de mayores r
 tendrán que provenir del presupuesto de la Secretaría.
 En tanto se constituya el nuevo órgano desconcentrado a que se refiere este transitorio, la Comisión
 de Avalúos de Bienes Nacionales ejercerá las atribuciones que esta Ley le confiere a la Secretaría en
-materia de administración de inmuebles federales y de valuación de bienes nacionales.
-NOVENO.- La Secretaría de Educación Pública deberá elaborar, a través del Instituto Nacional de
+materia de administración de inmuebles federales y de valuación de bienes nacionales.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- La Secretaría de Educación Pública deberá elaborar, a través del Instituto Nacional de
 Antropología e Historia, y proponer al Ejecutivo Federal el reglamento para el otorgamiento de permisos y
 autorizaciones para la realización de actividades cívicas y culturales en las zonas de monumentos
 arqueológicos, a que se refiere el artículo 30 de esta Ley, dentro de los siguientes seis meses contados a
-partir de la entrada en vigor de la presente Ley.
-DÉCIMO.- Las dependencias administradoras de inmuebles para el ejercicio de las facultades que les
+partir de la entrada en vigor de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- Las dependencias administradoras de inmuebles para el ejercicio de las facultades que les
 confiere esta Ley, promoverán las medidas necesarias ante las instancias correspondientes, sujetándose
-a los recursos humanos, financieros y materiales con los que disponen actualmente.
-DÉCIMO PRIMERO.- La Secretaría, dentro de los sesenta días naturales siguientes a la entrada en
+a los recursos humanos, financieros y materiales con los que disponen actualmente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO.- La Secretaría, dentro de los sesenta días naturales siguientes a la entrada en
 vigor de la presente Ley, deberá formular un programa a efecto de que las dependencias, la Procuraduría
 General de la República, las unidades administrativas de la Presidencia de la República y entidades
 efectúen los trámites necesarios para destinar formalmente a su servicio los inmuebles federales que
@@ -4182,13 +4227,27 @@ de destino.
 LEY GENERAL DE BIENES NACIONALES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-DÉCIMO SEGUNDO.- Las dependencias, la Procuraduría General de la República, las unidades
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO.- Las dependencias, la Procuraduría General de la República, las unidades
 administrativas de la Presidencia de la República y entidades que no cuenten con responsable
 inmobiliario, comunicarán a la Secretaría, en un plazo no mayor a treinta días naturales contados a partir
 de la entrada en vigor del presente ordenamiento, los datos del servidor público que fungirá con tal
-carácter.
-DÉCIMO TERCERO.- Los Poderes Legislativo y Judicial de la Federación, las entidades y las
+carácter.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO.- Los Poderes Legislativo y Judicial de la Federación, las entidades y las
 instituciones de carácter federal con personalidad jurídica y patrimonio propios a las que la Constitución
 Política de los Estados Unidos Mexicanos les otorga autonomía, contarán con un plazo de ciento veinte
 días naturales contados a partir de la fecha de publicación de la presente Ley, para promover la
@@ -4200,17 +4259,41 @@ constituyen, en cada caso, los títulos que acreditan la propiedad de los inmueb
 Poderes, los que contarán con un plazo de ciento veinte días naturales, contados a partir de la fecha de
 la publicación del presente Decreto, para promover su inscripción en el Registro Público de la Propiedad
 Federal y su incorporación al Sistema de Información Inmobiliaria Federal y Paraestatal.
-
-DÉCIMO CUARTO.- En tanto se expiden los reglamentos, normas, bases, lineamientos y demás
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-10" placement="bottom">
+              <p>Párrafo adicionado DOF 31-08-2007</p>
+            </note>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO CUARTO.- En tanto se expiden los reglamentos, normas, bases, lineamientos y demás
 disposiciones derivadas de la presente Ley, se continuarán aplicando las disposiciones reglamentarias y
 administrativas vigentes en lo que no se opongan a este ordenamiento, independientemente de que
 respecto de los inmuebles sujetos al régimen de dominio público de la Federación que formen parte del
 patrimonio de los organismos descentralizados, sus respectivos órganos de gobierno podrán aprobar en
 cada caso específico la realización de los actos jurídicos a que se refieren los artículos 65 y 84 de la
-presente Ley.
-DÉCIMO QUINTO.- Las dependencias administradoras de inmuebles deberán establecer un programa
-para integrar en el registro de la contabilidad gubernamental el valor de los inmuebles de su competencia.
-DÉCIMO SEXTO.- Para dar cumplimiento a lo establecido en la fracción IV, del artículo 2 del Decreto
+presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO QUINTO.- Las dependencias administradoras de inmuebles deberán establecer un programa
+para integrar en el registro de la contabilidad gubernamental el valor de los inmuebles de su competencia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEXTO.- Para dar cumplimiento a lo establecido en la fracción IV, del artículo 2 del Decreto
 que extingue el organismo público descentralizado, Ferrocarriles Nacionales de México y abroga su Ley
 Orgánica, la Secretaría de Comunicaciones y Transportes como responsable del proceso de liquidación
 de dicho organismo, procederá a regularizar la propiedad de las casas habitación y terrenos en posesión
@@ -4254,21 +4337,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman diversas disposiciones de la Ley General de Bienes
 Nacionales.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2012
-Artículo Único.- Se reforman la fracción IV del artículo 81, el segundo párrafo de la fracción VI del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-154" placement="bottom">
-              <p>Artículo adicionado DOF 21-10-2020</p>
-            </note>
-            <note placementBase="#art-154" placement="bottom">
-              <p>Párrafo adicionado DOF 31-08-2007</p>
-            </note>
-          </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
-              <content>
-                <p>artículo 83 y el artículo 105 de la Ley General de Bienes Nacionales, para quedar como sigue:
+Artículo Único.- Se reforman la fracción IV del artículo 81, el segundo párrafo de la fracción VI del
+artículo 83 y el artículo 105 de la Ley General de Bienes Nacionales, para quedar como sigue:
 ……….
 TRANSITORIO
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial
@@ -4298,29 +4368,71 @@ tercero, cuarto y quinto a ser tercero, cuarto, quinto y sexto, respectivamente,
 54 Quáter y 54 Quintus, y se deroga el artículo 90 de la Ley General de Bienes Nacionales, para quedar
 como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
-SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado
 con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en
 vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad
 a la entrada en vigor del mismo.
 En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a
 la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones
 de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por
-terceros interesados en la contratación.
-TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un
+terceros interesados en la contratación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un
 plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los
 proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos
-correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
-CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro
-de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
-QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el
+correspondientes por parte de la Secretaría de Hacienda y Crédito Público.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro
+de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el
 mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté
 en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día
 siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría
-de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
-SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de
+de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de
 Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Adrián Rivera
@@ -4351,13 +4463,34 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 ARTÍCULO NOVENO.- Se adiciona un artículo 153 a la Ley General de Bienes Nacionales, para
 quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el
-Diario Oficial de la Federación.
-SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el
+Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de
 operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del
-presente Decreto.
-TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en
 un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La
 Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones
 en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin
@@ -4385,61 +4518,131 @@ párrafos primero y tercero; 62, fracción V; 64, párrafo tercero; 79, fracció
 fracciones III, VI, segundo párrafo y VII; 103; 104, párrafo segundo, y 105 de la Ley General de Bienes
 Nacionales, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura,
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura,
 por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada
 Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato,
 que se encuentre bajo su resguardo.
 A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos
 y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se
-entenderán referidas a la Secretaría de Cultura.
-TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo
+entenderán referidas a la Secretaría de Cultura.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo
 Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos
 administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor
 del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán
 respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones
-aplicables.
-CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y
+aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y
 Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y
 dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos
 ordenamientos se otorgaban a la Secretaría de Educación Pública.
 Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de
 Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y
-mantendrán su naturaleza jurídica.
-QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y
+mantendrán su naturaleza jurídica.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y
 órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus
-atribuciones.
-SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean
+atribuciones.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean
 competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta
 dependencia, conforme a las disposiciones jurídicas aplicables.
 68 de 81
 LEY GENERAL DE BIENES NACIONALES
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el
 Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades
 administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
 Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario
 de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y
 las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que
 no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría
-de Cultura determinen su modificación o abrogación.
-OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al
+de Cultura determinen su modificación o abrogación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al
 Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas
 disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en
-este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
-NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se
+este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se
 cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a
 las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el
 sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal
 efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en
 su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal
 considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las
-disposiciones aplicables.
-DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+disposiciones aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena
 Barrera Tapia, Secretaria.- Rúbricas."
@@ -4459,15 +4662,43 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 ARTÍCULO SEGUNDO.- Se adiciona un quinto párrafo al artículo 9 de la Ley General de Bienes
 Nacionales, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Ejecutivo Federal, en un plazo de 180 días posteriores a la entrada en vigor de este
-Decreto, emitirá el Reglamento de la Ley Federal de Zonas Económicas Especiales.
-Tercero.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El Ejecutivo Federal, en un plazo de 180 días posteriores a la entrada en vigor de este
+Decreto, emitirá el Reglamento de la Ley Federal de Zonas Económicas Especiales.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades
 paraestatales de la Administración Pública Federal con motivo de la entrada en vigor del presente
-Decreto deberán cubrirse con cargo a su presupuesto autorizado para el ejercicio fiscal que corresponda.
-Cuarto.- En tanto entra en vigor la legislación secundaria a que se refiere el Decreto por el que se
+Decreto deberán cubrirse con cargo a su presupuesto autorizado para el ejercicio fiscal que corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- En tanto entra en vigor la legislación secundaria a que se refiere el Decreto por el que se
 reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Desindexación del Salario Mínimo, publicado en el Diario Oficial de la Federación el 27 de
 enero de 2016, las referencias contenidas en el presente Decreto a la Unidad de Medida y Actualización
@@ -4537,15 +4768,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se adicionan diversas disposiciones a la Ley General de Bienes
 Nacionales, para garantizar el libre acceso y tránsito en las playas.
 Publicado en el Diario Oficial de la Federación el 21 de octubre de 2020
-Artículo Único. Se adiciona un párrafo tercero al artículo 8; un párrafo segundo al artículo 127, y un</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
-              <content>
-                <p>artículo 154 a la Ley General de Bienes Nacionales, para quedar como sigue:
+Artículo Único. Se adiciona un párrafo tercero al artículo 8; un párrafo segundo al artículo 127, y un
+artículo 154 a la Ley General de Bienes Nacionales, para quedar como sigue:
 ………
 Transitorio
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
@@ -4576,37 +4800,58 @@ de la fracción IV, del artículo 55; el párrafo segundo del artículo 56; la f
 primero del artículo 65; el párrafo segundo del artículo 71; la fracción VI del artículo 84; los párrafos
 segundo y tercero del artículo 97; el párrafo segundo del artículo 106; el párrafo primero del artículo 128;
 los párrafos primero y tercero del artículo 129; el párrafo primero del artículo 130; los párrafos primero y
-sexto del artículo 131; los párrafos tercero y cuarto del artículo 132; el párrafo primero del artículo 133; el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
-              <content>
-                <p>artículo 134; el artículo 136; el artículo 137; el artículo 138; el párrafo primero del artículo 140; las
+sexto del artículo 131; los párrafos tercero y cuarto del artículo 132; el párrafo primero del artículo 133; el
+artículo 134; el artículo 136; el artículo 137; el artículo 138; el párrafo primero del artículo 140; las
 fracciones V, X y XI del artículo 141; el párrafo primero y la fracción XII del artículo 143; el párrafo primero
 y las fracciones IV, V, VIII y IX del artículo 144; el artículo 145; y el párrafo primero del artículo 146, y se
 adiciona una fracción XVIII, al artículo 6, de la Ley General de Bienes Nacionales para quedar como
 sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -4621,8 +4866,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -4648,13 +4900,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -4671,29 +4937,64 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -4704,8 +5005,15 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 75 de 81
 LEY GENERAL DE BIENES NACIONALES
@@ -4715,8 +5023,15 @@ Secretaría de Servicios Parlamentarios
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -4724,12 +5039,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -4774,16 +5103,44 @@ tercero; 50, párrafos tercero, fracción III, quinto y sexto; 54 Bis, párrafo 
 párrafo tercero, fracción I; 104, párrafo primero, y 118 de la Ley General de Bienes Nacionales, para
 quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
-Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
 realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de
 Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por
 lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente
-ejercicio fiscal.
-Cuarto. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este
+ejercicio fiscal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este
 Decreto deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. María del Carmen Pinete Vargas, Secretaria.- Sen.
@@ -4807,23 +5164,65 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 Artículo Quinto.- Se reforman los artículos 8, párrafo segundo; 16, y 18, y se adiciona al artículo 42,
 la fracción VIII Bis, de la Ley General de Bienes Nacionales, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación.
 Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo
 día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado
-que emita la persona titular del Ejecutivo Federal.
-Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la
+que emita la persona titular del Ejecutivo Federal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la
 Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado,
-continuarán su trámite y serán resueltos por esta última.
-Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo
-Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
-Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+continuarán su trámite y serán resueltos por esta última.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo
+Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura,
 Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no
-incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
-Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones
+incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones
 correspondientes al Reglamento del Servicio Ferroviario.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez
@@ -4845,10 +5244,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Cuadragésimo Séptimo.- Se reforman los artículos 5 y 114 de la Ley General de Bienes
 Nacionales, para quedar como sigue:
 …….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -4858,14 +5271,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

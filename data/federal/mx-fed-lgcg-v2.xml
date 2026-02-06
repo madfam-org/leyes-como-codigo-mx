@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2008-12-31/lgcg/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2008-12-31/lgcg/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -84,9 +84,9 @@
         </chapter>
         <chapter id="chapter-14">
           <num>CAPÍTULO V De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley es de orden público y tiene como objeto establecer los criterios generales
 que regirán la contabilidad gubernamental y la emisión de información financiera de los entes públicos,
@@ -111,13 +111,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- Los entes públicos aplicarán la contabilidad gubernamental para facilitar el registro y la
 fiscalización de los activos, pasivos, ingresos y gastos y, en general, contribuir a medir la eficacia,
@@ -128,18 +128,18 @@ apoyo a las tareas de planeación financiera, control de recursos, análisis y f
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- La contabilidad gubernamental determinará la valuación del patrimonio del Estado y su
 expresión en los estados financieros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Para efectos de esta Ley se entenderá por:
 I. Armonización: la revisión, reestructuración y compatibilización de los modelos contables
@@ -248,19 +248,19 @@ XXIX. Sistema: el sistema de contabilidad gubernamental que cada ente público u
 instrumento de la administración financiera gubernamental.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- La interpretación de esta Ley, para efectos administrativos, corresponde a la Secretaría
 de Hacienda y a la Secretaría de la Función Pública, en el ámbito de sus respectivas atribuciones.
@@ -271,13 +271,13 @@ máxima publicidad de la información financiera.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Párrafo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- El consejo es el órgano de coordinación para la armonización de la contabilidad
 gubernamental y tiene por objeto la emisión de las normas contables y lineamientos para la generación
@@ -292,20 +292,13 @@ mismos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- Los entes públicos adoptarán e implementarán, con carácter obligatorio, en el ámbito de
-sus respectivas competencias, las decisiones que tome el consejo, de conformidad con lo dispuesto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
-              <content>
-                <p>artículo 9 de esta Ley, dentro de los plazos que éste establezca.
+sus respectivas competencias, las decisiones que tome el consejo, de conformidad con lo dispuesto en el
+artículo 9 de esta Ley, dentro de los plazos que éste establezca.
 Los gobiernos federal y de las entidades federativas publicarán en el Diario Oficial de la Federación y
 en los medios oficiales escritos y electrónicos de difusión locales, respectivamente, las normas que
 apruebe el consejo y, con base en éstas, las demás disposiciones que sean necesarias para dar
@@ -313,9 +306,9 @@ cumplimiento a lo previsto en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- El consejo se integra por:
 I. El Secretario de Hacienda y Crédito Público, quien presidirá el consejo;
@@ -356,19 +349,19 @@ inmediato inferior al del respectivo miembro. Los gobernadores podrán ser supli
 respectivos secretarios de finanzas o equivalentes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo adicionado DOF 12-11-2012</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- El consejo tendrá las facultades siguientes:
 I. Emitir el marco conceptual, los postulados básicos, el plan de cuentas, los elementos mínimos
@@ -427,25 +420,25 @@ contable de las entidades federativas, en términos de lo dispuesto en la presen
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 30-12-2015</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 12-11-2012</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 12-11-2012</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo adicionado DOF 12-11-2012</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo adicionado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- El consejo sesionará, cuando menos, tres veces en un año calendario. Su presidente,
 con apoyo del secretario técnico, realizará las convocatorias que estime pertinentes o resulten
@@ -511,9 +504,9 @@ conformidad con las reglas de operación que emita el Consejo.
               <p>Artículo adicionado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- El titular de la unidad administrativa competente en materia de contabilidad
 gubernamental de la Secretaría de Hacienda fungirá como secretario técnico del consejo y tendrá las
@@ -556,16 +549,16 @@ elementos de las clasificaciones de los ingresos y gastos, y
 XIV. Establecer grupos de trabajo para el mejor desempeño de sus funciones.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 30-12-2015</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- El comité se integra por:
 I. Los miembros de la Comisión Permanente de Funcionarios Fiscales, a que se refiere la Ley
@@ -588,9 +581,9 @@ que sean invitados por el consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- El comité tendrá las funciones siguientes, en términos de sus reglas de operación:
 I. Proponer al secretario técnico la creación o modificación de normas contables y de emisión de
@@ -605,13 +598,13 @@ IV. Elaborar sus reglas de operación y programa anual de trabajo en atención a
 consejo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Fracción reformada DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Cuando el consejo o el secretario técnico adviertan la necesidad de emitir nuevas
 disposiciones o modificar las existentes, este último elaborará el proyecto respectivo.
@@ -634,13 +627,13 @@ La Secretaría de Hacienda podrá emitir, previa opinión de la Secretaría de l
 aprobación del proyecto en cuestión.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- El secretario técnico publicará el plan anual de trabajo del consejo en el Diario Oficial de
 la Federación y en los medios oficiales de las entidades federativas.
@@ -664,13 +657,13 @@ desarrollada expresamente para esos efectos, la cual deberá ser accesible para 
 Reforma DOF 27-04-2016: Derogó del artículo el entonces párrafo quinto</p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Párrafo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- El sistema, al que deberán sujetarse los entes públicos, registrará de manera armónica,
 delimitada y específica las operaciones presupuestarias y contables derivadas de la gestión pública, así
@@ -679,18 +672,18 @@ comprensibles, periódicos y comparables, los cuales serán expresados en térmi
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- Cada ente público será responsable de su contabilidad, de la operación del sistema; así
 como del cumplimiento de lo dispuesto por esta Ley y las decisiones que emita el consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- El sistema estará conformado por el conjunto de registros, procedimientos, criterios e
 informes, estructurados sobre la base de principios técnicos comunes destinados a captar, valuar,
@@ -699,9 +692,9 @@ de la actividad económica, modifican la situación patrimonial del gobierno y d
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- Los entes públicos deberán asegurarse que el sistema:
 I. Refleje la aplicación de los principios, normas contables generales y específicas e
@@ -727,18 +720,18 @@ públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- Los entes públicos deberán contar con manuales de contabilidad, así como con otros
 instrumentos contables que defina el consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- La contabilidad se basará en un marco conceptual que representa los conceptos
 fundamentales para la elaboración de normas, la contabilización, valuación y presentación de la
@@ -747,9 +740,9 @@ ser reconocida e interpretada por especialistas e interesados en la finanzas pú
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- Los postulados tienen como objetivo sustentar técnicamente la contabilidad
 gubernamental, así como organizar la efectiva sistematización que permita la obtención de información
@@ -759,9 +752,9 @@ proporcionen sea oportuna, confiable y comparable para la toma de decisiones.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- Los entes públicos deberán registrar en su contabilidad los bienes muebles e inmuebles
 siguientes:
@@ -777,22 +770,22 @@ conforme a los formatos electrónicos que apruebe el consejo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Párrafo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- Los registros contables de los bienes a que se refiere el artículo anterior se realizarán en
 cuentas específicas del activo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Los entes públicos, conforme lo determine el Consejo en términos de las disposiciones
 jurídicas aplicables, elaborarán un registro auxiliar sujeto a inventario de los bienes bajo su custodia que,
@@ -800,13 +793,13 @@ por su naturaleza, sean inalienables e imprescriptibles.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Artículo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- No se registrarán los bienes señalados en los artículos 27, párrafos cuarto, quinto y
 octavo; y 42, fracción IV de la Constitución Política de los Estados Unidos Mexicanos; ni los de uso
@@ -822,9 +815,9 @@ conformidad con lo que determine el consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Los entes públicos deberán llevar a cabo el levantamiento físico del inventario de los
 bienes a que se refiere el artículo 23 de esta Ley. Dicho inventario deberá estar debidamente conciliado
@@ -838,40 +831,40 @@ acceso público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Los registros contables reflejarán, en la cuenta específica del activo que corresponda, la
 baja de los bienes muebles e inmuebles. El consejo emitirá lineamientos para tales efectos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- Las obras en proceso deberán registrarse invariablemente, en una cuenta contable
 específica del activo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Artículo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- El consejo emitirá, para efectos contables, las disposiciones sobre registro y valuación
 del patrimonio que requiere la aplicación esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- Cuando se realice la transición de una administración a otra, los bienes que no se
 encuentren inventariados o estén en proceso de registro y hubieren sido recibidos o adquiridos durante el
@@ -881,9 +874,9 @@ refiere esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Los entes públicos deberán registrar en una cuenta de activo, los derechos
 patrimoniales que tengan en fideicomisos sin estructura orgánica, mandatos y contratos análogos.
@@ -893,13 +886,13 @@ del Estado.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Artículo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- La contabilidad gubernamental deberá permitir la expresión fiable de las transacciones
 en los estados financieros y considerar las mejores prácticas contables nacionales e internacionales en
@@ -907,9 +900,9 @@ apoyo a las tareas de planeación financiera, control de recursos, análisis y f
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Los registros contables de los entes públicos se llevarán con base acumulativa. La
 contabilización de las transacciones de gasto se hará conforme a la fecha de su realización,
@@ -918,9 +911,9 @@ derecho de cobro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Los entes públicos deberán mantener un registro histórico detallado de las operaciones
 realizadas como resultado de su gestión financiera, en los libros diario, mayor, e inventarios y balances.
@@ -932,9 +925,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- La contabilidad deberá contener registros auxiliares que muestren los avances
 presupuestarios y contables, que permitan realizar el seguimiento y evaluar el ejercicio del gasto público
@@ -942,9 +935,9 @@ y la captación del ingreso, así como el análisis de los saldos contenidos en 
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Para el registro de las operaciones presupuestarias y contables, los entes públicos
 deberán ajustarse a sus respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas,
@@ -960,13 +953,13 @@ corresponda en cada caso.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-37" placement="bottom">
+            <note placementBase="#art-37." placement="bottom">
               <p>Fracción reformada DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- El registro de las etapas del presupuesto de los entes públicos se efectuará en las
 cuentas contables que, para tal efecto, establezca el consejo, las cuales deberán reflejar:
@@ -976,9 +969,9 @@ II. En lo relativo al ingreso, el estimado, modificado, devengado y recaudado.</
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Serán materia de registro y valuación las provisiones que se constituyan para hacer
 frente a los pasivos de cualquier naturaleza, con independencia de que éstos sean clasificados como
@@ -987,9 +980,9 @@ ajustadas periódicamente para mantener su vigencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Los procesos administrativos de los entes públicos que impliquen transacciones
 presupuestarias y contables generarán el registro automático y por única vez de las mismas en los
@@ -997,9 +990,9 @@ momentos contables correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Para el registro único de las operaciones presupuestarias y contables, los entes públicos
 dispondrán de clasificadores presupuestarios, listas de cuentas y catálogos de bienes o instrumentos
@@ -1007,9 +1000,9 @@ similares que permitan su interrelación automática.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- La contabilización de las operaciones presupuestarias y contables deberá respaldarse
 con la documentación original que compruebe y justifique los registros que se efectúen.
@@ -1019,9 +1012,9 @@ de la Federación y sus equivalentes a nivel estatal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Los entes públicos estarán obligados a conservar y poner a disposición de las
 autoridades competentes los documentos, comprobatorios y justificativos, así como los libros principales
@@ -1029,9 +1022,9 @@ de contabilidad, de conformidad con los lineamientos que para tal efecto estable
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Los estados financieros y la información emanada de la contabilidad deberán sujetarse a
 criterios de utilidad, confiabilidad, relevancia, comprensibilidad y de comparación, así como a otros
@@ -1041,9 +1034,9 @@ armonización que la Ley determina.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Los entes públicos deberán expresar de manera destacada en sus estados financieros
 los esquemas de pasivos, incluyendo los que sean considerados deuda pública en términos de la
@@ -1051,9 +1044,9 @@ normativa aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- En lo relativo a la Federación, los sistemas contables de los poderes Ejecutivo,
 Legislativo y Judicial, las entidades de la Administración Pública Paraestatal y los órganos autónomos,
@@ -1108,13 +1101,13 @@ entes públicos.
 , 30-12-2015</p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Artículo reformado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- En lo relativo a las entidades federativas, los sistemas contables de los poderes
 Ejecutivo, Legislativo y Judicial, las entidades de la Administración Pública Paraestatal y los órganos
@@ -1134,13 +1127,13 @@ II. Endeudamiento neto, financiamiento menos amortización, y
 III. Intereses de la deuda.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Párrafo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- En lo relativo a los ayuntamientos de los municipios o los órganos político-
 administrativos de las demarcaciones territoriales de la Ciudad de México y las entidades de la
@@ -1150,13 +1143,13 @@ g) y h), y II, incisos a) y b) de la presente Ley.
 , 19-01-2018</p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Artículo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Las notas a los estados financieros son parte integral de los mismos; éstas deberán
 revelar y proporcionar información adicional y suficiente que amplíe y dé significado a los datos
@@ -1181,9 +1174,9 @@ afectar la posición financiera y patrimonial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- El consejo emitirá los lineamientos en materia de integración y consolidación de los
 estados financieros y demás información presupuestaria y contable que emane de las contabilidades de
@@ -1191,9 +1184,9 @@ los entes públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- La información financiera que generen los entes públicos en cumplimiento de esta Ley
 será organizada, sistematizada y difundida por cada uno de éstos, al menos, trimestralmente en sus
@@ -1205,9 +1198,9 @@ caso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- Los estados financieros y demás información presupuestaria, programática y contable
 que emanen de los registros de los entes públicos, serán la base para la emisión de informes periódicos y
@@ -1219,9 +1212,9 @@ base de devengado y, adicionalmente, se presentarán en flujo de efectivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- La cuenta pública del Gobierno Federal, que será formulada por la Secretaría de
 Hacienda, y las de las entidades federativas deberá atender en su cobertura a lo establecido en su marco
@@ -1229,15 +1222,8 @@ legal vigente y contendrá como mínimo:
 I. Información contable, conforme a lo señalado en la fracción I del artículo 46 de esta Ley;
 II. Información Presupuestaria, conforme a lo señalado en la fracción II del artículo 46 de esta
 Ley;
-III. Información programática, de acuerdo con la clasificación establecida en la fracción III del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
-              <content>
-                <p>artículo 46 de esta Ley;
+III. Información programática, de acuerdo con la clasificación establecida en la fracción III del
+artículo 46 de esta Ley;
 IV. Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los
 objetivos y prioridades definidas en la materia, en el programa económico anual:
 a) Ingresos presupuestarios;
@@ -1249,9 +1235,9 @@ dependencia y entidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- La información presupuestaria y programática que forme parte de la cuenta pública
 deberá relacionarse, en lo conducente, con los objetivos y prioridades de la planeación del desarrollo.
@@ -1266,9 +1252,9 @@ clasificación establecida en la fracción IV del artículo 46 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- Las cuentas públicas de los ayuntamientos de los municipios deberán contener la
 información contable y presupuestaria a que se refiere el artículo 48 de la presente Ley conforme a lo que
@@ -1281,13 +1267,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Artículo reformado DOF 30-12-2015</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- La generación y publicación de la información financiera de los entes públicos a que se
 refiere este Título, se hará conforme a las normas, estructura, formatos y contenido de la información,
@@ -1298,13 +1284,13 @@ información se difundirá en los medios oficiales de difusión en términos de 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- La Secretaría de Hacienda, las secretarías de finanzas o sus equivalentes de las
 entidades federativas, así como las tesorerías de los municipios y sus equivalentes en las demarcaciones
@@ -1317,13 +1303,13 @@ Distrito Federal, de sus demarcaciones territoriales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- La información financiera que deba incluirse en Internet en términos de este Título
 deberá publicarse por lo menos trimestralmente, a excepción de los informes y documentos de naturaleza
@@ -1334,13 +1320,13 @@ correspondiente de los últimos seis ejercicios fiscales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-58" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- El comité evaluará anualmente la calidad de la información financiera que difundan los
 entes públicos en Internet y, en su caso, podrá emitir recomendaciones al ente público correspondiente y
@@ -1355,13 +1341,13 @@ seguimiento de las recomendaciones a que se refiere este artículo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-59" placement="bottom">
+            <note placementBase="#art-59." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- Las disposiciones aplicables al proceso de integración de las leyes de ingresos, los
 presupuestos de egresos y demás documentos que deban publicarse en los medios oficiales de difusión,
@@ -1369,13 +1355,13 @@ se incluirán en las respectivas páginas de Internet.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-60" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- Además de la información prevista en las respectivas leyes en materia financiera, fiscal y
 presupuestaria y la información señalada en los artículos 46 a 48 de esta Ley, la Federación, las
@@ -1422,13 +1408,13 @@ en este artículo para cumplir con las obligaciones de información previstas en
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- Los entes públicos elaborarán y difundirán en sus respectivas páginas de Internet
 documentos dirigidos a la ciudadanía que expliquen, de manera sencilla y en formatos accesibles, el
@@ -1439,13 +1425,13 @@ y contenido.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-62" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- La Iniciativa de Ley de Ingresos, el Proyecto de Presupuesto de Egresos y demás
 documentos de los entes públicos que dispongan los ordenamientos legales, deberán publicarse en las
@@ -1453,13 +1439,13 @@ respectivas páginas de Internet.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- La información que establezca el consejo relativa a la evaluación del desempeño de los
 programas y políticas públicas se difundirá en Internet. La información disponible relativa a la evaluación
@@ -1467,13 +1453,13 @@ más reciente se incluirá junto con la presentación de los documentos señalad
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Los ordenamientos a que se refiere el artículo 63, una vez que hayan sido aprobados
 por los poderes legislativos y los ayuntamientos, así como los dictámenes, acuerdos de comisión y, en su
@@ -1482,13 +1468,13 @@ las respectivas páginas de Internet.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- La Secretaría de Hacienda publicará en el Diario Oficial de la Federación los calendarios
 de ingresos y de presupuesto de egresos en los términos de la Ley Federal de Presupuesto y
@@ -1499,13 +1485,13 @@ presupuesto de egresos con base mensual, en los formatos y plazos que determine 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- Los entes públicos deberán registrar en los sistemas respectivos, los documentos
 justificativos y comprobatorios que correspondan y demás información asociada a los momentos
@@ -1526,13 +1512,13 @@ con actividad empresarial y profesional, y el monto recibido.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-67" placement="bottom">
+            <note placementBase="#art-67." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- La presentación de la información financiera del Gobierno Federal se sujetará a lo
 dispuesto en esta Ley y las leyes Federal de Presupuesto y Responsabilidad Hacendaria y de
@@ -1549,16 +1535,16 @@ identificando el monto correspondiente a cada orden de gobierno.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- Para la presentación de la información financiera y la cuenta pública, los gobiernos de
 las entidades federativas, de los municipios y demarcaciones territoriales del Distrito Federal, incluirán la
@@ -1587,13 +1573,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- Los gobiernos de las entidades federativas, de los municipios y alcaldías de la Ciudad
 de México, deberán observar lo siguiente para la integración de la información financiera relativa a los
@@ -1626,19 +1612,19 @@ disposiciones aplicables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Párrafo reformado DOF 18-07-2016</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Fracción reformada DOF 18-07-2016</p>
             </note>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- En términos de lo dispuesto en los artículos 79, 85, 107 y 110 de la Ley Federal de
 Presupuesto y Responsabilidad Hacendaria; 48 y 49, fracción V, de la Ley de Coordinación Fiscal, y 56
@@ -1649,13 +1635,13 @@ así como los resultados de las evaluaciones que se hayan realizado.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- Las entidades federativas remitirán a la Secretaría de Hacienda, a través del sistema de
 información a que se refiere el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad
@@ -1684,13 +1670,13 @@ obtenidos con los recursos federales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-72" placement="bottom">
+            <note placementBase="#art-72." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- Sin perjuicio de lo dispuesto en esta Ley y en otros ordenamientos, las entidades
 federativas deberán presentar información relativa al Fondo de Aportaciones para la Educación
@@ -1784,28 +1770,28 @@ Pública del Gobierno Federal los formatos y el modelo de estructura de informac
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Párrafo reformado DOF 09-12-2013</p>
             </note>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Inciso reformado DOF 09-12-2013</p>
             </note>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Párrafo reformado DOF 09-12-2013</p>
             </note>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Inciso reformado DOF 09-12-2013</p>
             </note>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Inciso reformado DOF 09-12-2013</p>
             </note>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- Sin perjuicio de lo dispuesto en esta Ley y en otros ordenamientos, las entidades
 federativas deberán presentar información relativa a las aportaciones federales en materia de salud;
@@ -1886,13 +1872,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- Los municipios enviarán a las entidades federativas información sobre la aplicación de
 los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal, en las obras y acciones
@@ -1906,13 +1892,13 @@ actualizarla con la misma periodicidad.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- Los municipios, las demarcaciones territoriales de la Ciudad de México y en su caso, las
 entidades federativas, previo convenio de colaboración administrativa, difundirán en Internet la
@@ -1922,13 +1908,13 @@ para dicho Fondo en la Ley de Coordinación Fiscal.
 . Reformado DOF 19-01-2018</p>
               </content>
             </paragraph>
-            <note placementBase="#art-76" placement="bottom">
+            <note placementBase="#art-76." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77.- Las entidades federativas incluirán en los reportes periódicos a que se refiere el artículo
 46 de esta Ley y difundirán en Internet la información relativa a los fondos de ayuda federal para la
@@ -1945,13 +1931,13 @@ Seguridad Pública los lineamientos y el modelo de estructura de información qu
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-77" placement="bottom">
+            <note placementBase="#art-77." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78.- Las entidades federativas y los municipios observando lo establecido en el artículo 56 de
 esta Ley publicarán e incluirán en los informes trimestrales a que se refieren los artículos 48 de la Ley de
@@ -1988,13 +1974,13 @@ informe, que hayan emitido el Instituto Nacional de Estadística y Geografía o 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-78" placement="bottom">
+            <note placementBase="#art-78." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79.- Los entes públicos deberán publicar en sus páginas de Internet a más tardar el último
 día hábil de abril su programa anual de evaluaciones, así como las metodologías e indicadores de
@@ -2020,19 +2006,19 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-79" placement="bottom">
+            <note placementBase="#art-79." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-79" placement="bottom">
+            <note placementBase="#art-79." placement="bottom">
               <p>Párrafo reformado DOF 30-12-2015</p>
             </note>
-            <note placementBase="#art-79" placement="bottom">
+            <note placementBase="#art-79." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80.- A más tardar el último día hábil de marzo, en los términos del artículo anterior y demás
 disposiciones aplicables, se revisarán y, en su caso, se actualizarán los indicadores de los fondos de
@@ -2061,22 +2047,22 @@ partir de los indicadores que prevé la Ley General de Desarrollo Social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Párrafo reformado DOF 30-12-2015</p>
             </note>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Párrafo reformado DOF 16-07-2025</p>
             </note>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81.- La información respecto al ejercicio y destino del gasto federalizado, así como respecto
 al reintegro de los recursos federales no devengados por las entidades federativas, municipios y
@@ -2085,13 +2071,13 @@ pública, deberá presentarse en los formatos aprobados por el consejo.
 . Reformado DOF 19-01-2018</p>
               </content>
             </paragraph>
-            <note placementBase="#art-81" placement="bottom">
+            <note placementBase="#art-81." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82.- La Auditoría Superior de la Federación y los órganos de fiscalización superior locales
 serán responsables de vigilar la calidad de la información que proporcionen las entidades federativas,
@@ -2100,13 +2086,13 @@ recursos públicos federales que por cualquier concepto les hayan sido ministrad
 . Reformado DOF 19-01-2018</p>
               </content>
             </paragraph>
-            <note placementBase="#art-82" placement="bottom">
+            <note placementBase="#art-82." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83.- La Auditoría Superior de la Federación deberá difundir la información de su programa
 anual de auditorías, relativa a las auditorías que serán realizadas respecto del gasto público federal
@@ -2114,13 +2100,13 @@ transferido a las entidades federativas, municipios y demarcaciones territoriale
 . Reformado DOF 19-01-2018</p>
               </content>
             </paragraph>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Artículo adicionado DOF 12-11-2012</p>
             </note>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84.- Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en
 la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con
@@ -2130,8 +2116,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 lo previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; las leyes
-equivalentes de las entidades federativas, y las demás disposiciones aplicables en términos del Título
-Cuarto de la Constitución Política de los Estados Unidos Mexicanos y de las constituciones de las
+equivalentes de las entidades federativas, y las demás disposiciones aplicables en términos del Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto de la Constitución Política de los Estados Unidos Mexicanos y de las constituciones de las
 entidades federativas.
 
 Las responsabilidades administrativas se fincarán, a quienes directamente hayan ejecutado los actos
@@ -2141,13 +2134,13 @@ fe o negligencia por parte de los mismos.
 Artículo reformado y recorrido (antes artículo 56) DOF 12-11-2012</p>
               </content>
             </paragraph>
-            <note placementBase="#art-84" placement="bottom">
+            <note placementBase="#art-4" placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85.- Se sancionará administrativamente a los servidores públicos en los términos de la
 legislación en materia de responsabilidades administrativas aplicables en cualquiera de los siguientes
@@ -2178,9 +2171,9 @@ Artículo reformado y recorrido (antes artículo 57) DOF 12-11-2012</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86.- Se impondrá una pena de dos a siete años de prisión, y multa de mil a quinientos mil
 días de salario mínimo general vigente en el Distrito Federal, a quien causando un daño a la hacienda
@@ -2192,11 +2185,35 @@ LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor el 1 de enero de 2009.
-SEGUNDO.- El presidente del consejo deberá instalarlo durante los primeros treinta días naturales
-posteriores a la entrada en vigor de este decreto.
-TERCERO.- El consejo estará sujeto a los siguientes plazos:
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-86." placement="bottom">
+              <p>Artículo adicionado DOF 12-11-2012</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente Ley entrará en vigor el 1 de enero de 2009.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El presidente del consejo deberá instalarlo durante los primeros treinta días naturales
+posteriores a la entrada en vigor de este decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- El consejo estará sujeto a los siguientes plazos:
 I. 30 días naturales, contados a partir del día siguiente al de su instalación, para la designación
 de los miembros del comité consultivo;
 II. 30 días naturales, contados a partir del día siguiente de la instalación del comité consultivo,
@@ -2215,8 +2232,15 @@ el marco metodológico sobre la forma y términos en que deberá orientarse el d
 análisis de los componentes de las finanzas públicas con relación a los objetivos y prioridades
 que, en la materia, establezca la planeación del desarrollo, para su integración en la cuenta
 pública, mismos que serán publicados en el Diario Oficial de la Federación y los medios
-oficiales de difusión de las entidades federativas.
-CUARTO.- En lo relativo a la Federación y las entidades federativas, la armonización de los sistemas
+oficiales de difusión de las entidades federativas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- En lo relativo a la Federación y las entidades federativas, la armonización de los sistemas
 contables de las dependencias del poder Ejecutivo; los poderes Legislativo y Judicial; las entidades y los
 órganos autónomos, se ajustará al desarrollo de los elementos técnicos y normativos definidos para cada
 año del horizonte previsto, de la siguiente forma:
@@ -2244,14 +2268,28 @@ presupuestaria y programática, en sus respectivas páginas de internet, para co
 población en general, a más tardar, el 31 de diciembre de 2012, y
 IV. Emitir las cuentas públicas conforme a la estructura establecida en los artículos 53 y 54, así
 como publicarlas para consulta de la población en general, a partir del inicio del ejercicio
-correspondiente al año 2012.
-QUINTO.- Los ayuntamientos de los municipios emitirán información periódica y elaborarán sus
+correspondiente al año 2012.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los ayuntamientos de los municipios emitirán información periódica y elaborarán sus
 cuenta públicas conforme a lo dispuesto en el artículo 55 de esta Ley, a más tardar, el 31 de diciembre de
 2012.
 Los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal emitirán
 información periódica e integrarán la cuenta pública conforme a lo dispuesto en el artículo 55 de esta Ley,
-a más tardar, el 31 de diciembre de 2012.
-SEXTO.- En lo relativo a la Federación, los sistemas contables de las dependencias del poder
+a más tardar, el 31 de diciembre de 2012.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- En lo relativo a la Federación, los sistemas contables de las dependencias del poder
 Ejecutivo; los poderes Legislativo y Judicial; las entidades y los órganos autónomos deberán estar
 operando en tiempo real, a más tardar, el 31 de diciembre de 2011. En el caso de las entidades
 paraestatales del Gobierno Federal, dicho sistema deberá estar operando en las mismas condiciones a
@@ -2260,22 +2298,43 @@ Los sistemas de contabilidad gubernamental de las dependencias del poder Ejecuti
 Legislativo y Judicial; las entidades y los órganos autónomos de las entidades federativas; los
 ayuntamientos de los municipios y los órganos político-administrativos de las demarcaciones territoriales
 del Distrito Federal deberán estar operando y generando en tiempo real estados financieros, sobre el
-ejercicio de los ingresos y gastos y sobre las finanzas públicas, a más tardar, el 31 de diciembre de 2012.
-SÉPTIMO.- El inventario de bienes muebles e inmuebles a que se refiere esta Ley deberá estar
+ejercicio de los ingresos y gastos y sobre las finanzas públicas, a más tardar, el 31 de diciembre de 2012.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- El inventario de bienes muebles e inmuebles a que se refiere esta Ley deberá estar
 integrado, a más tardar el 31 de diciembre de 2011, por las dependencias del poder Ejecutivo; los
 poderes Legislativo y Judicial; las entidades y los órganos autónomos de la Federación; y el 31 de
 diciembre de 2012, por las dependencias del poder Ejecutivo; los poderes Legislativo y Judicial; las
 entidades y los órganos autónomos de las entidades federativas; los ayuntamientos de los municipios y
-los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal.
-OCTAVO.- Desde la entrada en vigor de la presente Ley, hasta el 31 de diciembre de 2012, el consejo
+los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- Desde la entrada en vigor de la presente Ley, hasta el 31 de diciembre de 2012, el consejo
 deberá publicar trimestralmente en internet la información sobre el cumplimiento de lo dispuesto en los
 artículos cuarto, quinto, sexto y séptimo transitorios de este decreto. Para tales efectos, la Federación, las
 entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal proporcionarán
 al consejo la información que éste solicite.
 El incumplimiento de lo dispuesto en los artículos cuarto, quinto, sexto y séptimo de esta Ley será
 sancionado por las autoridades competentes en términos de las disposiciones aplicables en materia de
-responsabilidad administrativa de los servidores públicos.
-NOVENO.- En apoyo al cumplimiento de lo dispuesto en esta Ley, el Presupuesto de Egresos de la
+responsabilidad administrativa de los servidores públicos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- En apoyo al cumplimiento de lo dispuesto en esta Ley, el Presupuesto de Egresos de la
 Federación podrá prever un fondo concursable para que la Secretaría de Hacienda otorgue subsidios a
 las entidades federativas y a los municipios, a través de éstas, que cumplan con lo siguiente:
 I. Elaborar un programa de instrumentación para dar cumplimiento a lo dispuesto en los
@@ -2297,21 +2356,56 @@ VI. Estar al corriente con las obligaciones en las materias de transparencia, re
 y fiscalización conforme al marco constitucional y demás disposiciones aplicables.
 El secretario técnico del consejo emitirá los lineamientos para el otorgamiento de los subsidios a que
 se refiere este artículo. En dichos lineamientos se considerarán requisitos especiales para los municipios
-con menos de veinticinco mil habitantes.
-DÉCIMO.- Los gobiernos federal y de las entidades federativas formularán un programa de
+con menos de veinticinco mil habitantes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- Los gobiernos federal y de las entidades federativas formularán un programa de
 instrumentación de su proceso de transformación. Dicho programa se ajustará a las metas previstas en
 los artículos cuarto, sexto y séptimo transitorios, y lo presentarán al consejo en su primera reunión de
-2009.
-DÉCIMO PRIMERO.- En tanto se expidan las normas contables correspondientes por parte del
+2009.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO.- En tanto se expidan las normas contables correspondientes por parte del
 consejo, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia,
-en lo que no se oponga a la presente Ley.
-DÉCIMO SEGUNDO.- Cuando, en materia de contabilidad gubernamental, una disposición legal haga
+en lo que no se oponga a la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO.- Cuando, en materia de contabilidad gubernamental, una disposición legal haga
 referencia a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se aplicará lo previsto en esta
 Ley.
 Artículo Segundo.- ……….
-TRANSITORIOS
-Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.
-Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto a la Ley que se expide
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto a la Ley que se expide
 a través del presente Decreto.
 México, D.F., a 11 de diciembre de 2008.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen.
 Gustavo Enrique Madero Muñoz, Presidente.- Dip. Manuel Portilla Dieguez, Secretario.- Sen. Gabino
@@ -2334,24 +2428,66 @@ Publicado en el Diario Oficial de la Federación el 12 de noviembre de 2012
 Artículo Único.- Se reforman los artículos 9, fracciones V y IX; 13, fracción I; 46, fracción II, inciso a);
 y actuales 56 y 57, pasando a ser 84 y 85; se adicionan los artículos 5, con un tercer párrafo; 8, con un
 segundo párrafo, pasando los actuales segundo y tercero a ser tercero y cuarto; 9, con un último párrafo;
-23, con un último párrafo; 46, fracción II, inciso b), con un segundo párrafo y, un último párrafo; un Título
-Quinto, denominado “De la Transparencia y Difusión de la Información Financiera”, que comprende los
+23, con un último párrafo; 46, fracción II, inciso b), con un segundo párrafo y, un último párrafo; un Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto, denominado “De la Transparencia y Difusión de la Información Financiera”, que comprende los
 artículos 56 al 83, pasando el actual a ser Título Sexto, que comprende los artículos 84, 85 y 86, de la
 Ley General de Contabilidad Gubernamental, para quedar como sigue:
 ……….
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2013.
-Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-Tercero.- Los entes públicos realizarán las reformas a las leyes, reglamentos y disposiciones
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día 1 de enero de 2013.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Los entes públicos realizarán las reformas a las leyes, reglamentos y disposiciones
 administrativas que, en su caso, sean necesarias para dar cumplimiento a este Decreto, a más tardar a
-los 180 días naturales siguientes a la entrada en vigor del mismo.
-Cuarto.- El Consejo Nacional de Armonización Contable emitirá las normas y formatos para dar
+los 180 días naturales siguientes a la entrada en vigor del mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- El Consejo Nacional de Armonización Contable emitirá las normas y formatos para dar
 cumplimiento a lo dispuesto en el Título Quinto de la Ley General de Contabilidad Gubernamental
 incluido en el presente Decreto a más tardar el último día hábil de febrero de 2013, con el objeto de que
 los entes públicos, presenten de manera progresiva la información financiera en los términos establecidos
 y cumplan en su totalidad con la presentación de la información, a más tardar el 31 de diciembre de 2013.
-Para el caso de los entes públicos municipales, éstos deberán cumplir con lo previsto en el Título
-Quinto de esta Ley, a más tardar el 31 de diciembre de 2014. Sin embargo, el consejo, a solicitud del
+Para el caso de los entes públicos municipales, éstos deberán cumplir con lo previsto en el Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto de esta Ley, a más tardar el 31 de diciembre de 2014. Sin embargo, el consejo, a solicitud del
 ente público municipal interesado por conducto de la Secretaría de Finanzas o equivalente, podrá
 determinar, tomando en cuenta el tamaño poblacional, infraestructura y su insuficiente nivel de desarrollo
 institucional que será permisible una fecha distinta a la anterior para dar cumplimiento a las obligaciones
@@ -2362,8 +2498,15 @@ de esta Ley. El consejo informará su resolución al Congreso de la Unión en un
 contados a partir de la fecha de emisión de la misma.
 En los casos a que se refiere el párrafo anterior el consejo coordinará con las entidades federativas
 los apoyos y asistencia técnica que éstos requieran con el propósito de fortalecer su desarrollo
-institucional, infraestructura tecnológica y la conectividad necesaria para el cumplimiento de esta Ley.
-Quinto.- La obligación de incluir la información financiera correspondiente a los seis años previos al
+institucional, infraestructura tecnológica y la conectividad necesaria para el cumplimiento de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- La obligación de incluir la información financiera correspondiente a los seis años previos al
 ejercicio fiscal en curso, a que se refiere el artículo 58 de la Ley General de Contabilidad Gubernamental,
 35 de 56
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
@@ -2371,30 +2514,58 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 iniciará a partir de las fechas previstas en el artículo transitorio anterior, y así sucesivamente hasta incluir
-la información de los seis años.
-Sexto.- El Congreso de la Unión, en un plazo no mayor a un año, contado a partir de la publicación
+la información de los seis años.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- El Congreso de la Unión, en un plazo no mayor a un año, contado a partir de la publicación
 del presente Decreto, aprobará las modificaciones que sean necesarias al marco jurídico para reformar
 los registros de deuda pública actuales en términos del artículo 61, fracción I, inciso b) con la finalidad de
 transparentar todas las obligaciones de pago a cargo de la Federación, las entidades federativas y
 municipios. Para dicho fin, las Comisiones de Hacienda del Senado de la República y de la Cámara de
 Diputados podrán solicitar a la Secretaría de Hacienda y Crédito Público, al Consejo Nacional de
 Armonización Contable y a la Auditoría Superior de la Federación, diagnósticos e informes sobre el nivel
-de endeudamiento y capacidad de pago de los tres órdenes de gobierno.
-Séptimo.- El Consejo Nacional de Armonización Contable enviará a las Comisiones de Hacienda del
+de endeudamiento y capacidad de pago de los tres órdenes de gobierno.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- El Consejo Nacional de Armonización Contable enviará a las Comisiones de Hacienda del
 Senado de la República y de la Cámara de Diputados así como a las Comisiones de Presupuesto y
 Cuenta Pública y de la Función Pública de la Cámara de Diputados, en un plazo no mayor a 6 meses
 contados a partir de la publicación del presente Decreto, un informe detallado sobre el estado de avance
 en la implantación de las disposiciones de esta Ley y un plan de acciones para estar en posibilidad de
 cumplir con lo previsto en el Artículo Cuarto Transitorio del presente Decreto distinguiendo por ente
-público.
-Octavo.- La Auditoría Superior de la Federación enviará a las Comisiones de Hacienda del Senado de
+público.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- La Auditoría Superior de la Federación enviará a las Comisiones de Hacienda del Senado de
 la República y de la Cámara de Diputados así como a las Comisiones de la Función Pública, de
 Presupuesto y Cuenta Pública y de Vigilancia de la Auditoría Superior de la Federación de la Cámara de
 Diputados en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto, un
 diagnóstico que señale las áreas de opacidad en la ejecución del gasto federalizado y una propuesta de
 modificación al marco jurídico para transparentar aún más el ejercicio de dicho gasto y mejorar los
-resultados del mismo.
-Noveno.- Las entidades federativas podrán presentar y difundir semestralmente la información a que
+resultados del mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- Las entidades federativas podrán presentar y difundir semestralmente la información a que
 se refieren los artículos 73 y 74 de esta Ley cuando la totalidad de las nóminas a que se refieren dichos
 artículos, se pague mediante transferencia electrónica.
 México, D.F., a 6 de noviembre de 2012.- Dip. Jesus Murillo Karam, Presidente.- Sen. Ernesto
@@ -2417,9 +2588,23 @@ ARTÍCULO SEGUNDO.- Se reforma el artículo 73, párrafo primero y fracción II,
 primer párrafo y numeral 1, f) y g), de la Ley General de Contabilidad Gubernamental, para quedar como
 sigue:
 ……….
-TRANSITORIOS
-Primero.- El presente Decreto entrará en vigor el 1 de enero de 2014.
-Segundo.- Para efectos de lo dispuesto en los artículos 26 y 26-A de la Ley de Coordinación Fiscal, la
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el 1 de enero de 2014.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Para efectos de lo dispuesto en los artículos 26 y 26-A de la Ley de Coordinación Fiscal, la
 Secretaría de Educación Pública, en un plazo no mayor a un año, contado a partir de la entrada en vigor
 de este Decreto, deberá:
 I. Conciliar con las autoridades educativas de los Estados, los registros de las plazas que les
@@ -2440,23 +2625,20 @@ autoridades educativas de las entidades federativas establecerán mecanismos de
 transparencia para que el trabajador pueda verificar la información correspondiente a su
 nómina;
 II. Registrar las plazas a que se refiere la fracción anterior en el módulo correspondiente a los
-servicios personales del Sistema de Información y Gestión Educativa a que se refiere el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-86" placement="bottom">
-              <p>Artículo adicionado DOF 12-11-2012</p>
-            </note>
-          </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
-              <content>
-                <p>artículo 12, fracción X, de la Ley General de Educación, y
+servicios personales del Sistema de Información y Gestión Educativa a que se refiere el
+artículo 12, fracción X, de la Ley General de Educación, y
 III. Integrar la nómina del personal educativo que ocupe las plazas previamente conciliadas a que
 se refiere este artículo, incluyendo los sueldos y prestaciones que correspondan en cada
 Estado, con el objeto de realizar los pagos correspondientes en términos del artículo 26-A de
-la Ley de Coordinación Fiscal.
-Tercero.- El Fondo de Aportaciones para la Nómina Educativa entrará en vigor en el ejercicio fiscal
+la Ley de Coordinación Fiscal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- El Fondo de Aportaciones para la Nómina Educativa entrará en vigor en el ejercicio fiscal
 2015.
 En tanto entra en vigor el Fondo de Aportaciones para la Nómina Educativa a que se refiere este
 artículo, seguirán aplicándose las disposiciones correspondientes a la distribución del Fondo de
@@ -2466,8 +2648,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 Aportaciones para la Educación Básica y Normal vigentes hasta antes de la entrada en vigor de este
-Decreto, con base en el presupuesto aprobado para el ejercicio fiscal 2014.
-Cuarto.- Una vez concluida la conciliación a que se refiere el artículo anterior, aquellos estados en
+Decreto, con base en el presupuesto aprobado para el ejercicio fiscal 2014.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Una vez concluida la conciliación a que se refiere el artículo anterior, aquellos estados en
 donde los recursos por concepto del Fondo de Aportaciones para la Educación Básica y Normal,
 transferidos con anterioridad a la conciliación, resulten mayores al valor determinado del Fondo de
 Aportaciones para la Nómina Educativa y Gasto Operativo, serán compensados por dicha diferencia a
@@ -2475,15 +2664,36 @@ través del Fondo de Compensación, cuyos recursos serán destinados exclusivame
 las atribuciones a las que se refieren los artículos 13 y 16 de la Ley General de Educación.
 El Fondo de Compensación será constituido en el ejercicio fiscal 2015 y se actualizará de manera
 anual, conforme a la inflación reportada por el Instituto Nacional de Estadística y Geografía mediante el
-Índice Nacional de Precios al Consumidor.
-Quinto.- Las autoridades competentes respetarán los derechos de los trabajadores de la educación
+Índice Nacional de Precios al Consumidor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Las autoridades competentes respetarán los derechos de los trabajadores de la educación
 en términos de las disposiciones jurídicas aplicables y las relaciones laborales correspondientes se
-mantendrán en los términos vigentes hasta la entrada en vigor del presente Decreto.
-Sexto.- A más tardar a los 45 días naturales siguientes a la entrada en vigor del presente Decreto, la
+mantendrán en los términos vigentes hasta la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- A más tardar a los 45 días naturales siguientes a la entrada en vigor del presente Decreto, la
 Secretaría de Desarrollo Social, previa opinión de la Secretaría de Hacienda y Crédito Público, deberá
 publicar en el Diario Oficial de la Federación los Lineamientos del Fondo de Aportaciones para la
-Infraestructura Social, a que hace referencia el artículo 33 del presente Decreto.
-Séptimo.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de
+Infraestructura Social, a que hace referencia el artículo 33 del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de
 Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal
 por adeudos que correspondan al municipio, demarcación territorial, sus organismos operadores de agua
 y, en su caso, sus organismos auxiliares, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal,
@@ -2499,8 +2709,15 @@ Retención
 2017 85%
 2018 100%
 Lo anterior podrá ser aplicable sin perjuicio de lo establecido en las legislaciones locales en la materia,
-vigentes en la fecha de publicación de esta Ley.
-Octavo.- El coeficiente CPi,t a que se refiere la fórmula establecida en el artículo 2-A de la Ley de
+vigentes en la fecha de publicación de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- El coeficiente CPi,t a que se refiere la fórmula establecida en el artículo 2-A de la Ley de
 Coordinación Fiscal será aplicable a partir del ejercicio fiscal de 2015. La información considerada para el
 cálculo del mismo será aquélla que las entidades federativas proporcionen a la Secretaría de Hacienda y
 Crédito Público, a más tardar el 15 de agosto de 2014.
@@ -2511,17 +2728,38 @@ Ci,t.
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Noveno.- Lo previsto en la fracción II del artículo 2o. de la Ley de Coordinación Fiscal, respecto a la
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- Lo previsto en la fracción II del artículo 2o. de la Ley de Coordinación Fiscal, respecto a la
 no inclusión en la recaudación federal participable del Impuesto sobre la Renta por concepto de salarios
 y, en general, por la prestación de un servicio personal subordinado causado por los servidores públicos;
-así como lo dispuesto en el artículo 3-B de dicha Ley, entrarán en vigor el 1 de enero de 2015.
-Décimo.- Lo dispuesto en el cuarto párrafo del artículo 9o. de la Ley de Coordinación Fiscal, respecto
+así como lo dispuesto en el artículo 3-B de dicha Ley, entrarán en vigor el 1 de enero de 2015.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo.- Lo dispuesto en el cuarto párrafo del artículo 9o. de la Ley de Coordinación Fiscal, respecto
 a la obligación de permitir la identificación del porcentaje total de participaciones federales afectadas por
 cada Entidad y Municipio, así como su destino en el Registro de Obligaciones y Empréstitos de Entidades
 y Municipios entrará en vigor a los 90 días posteriores a la entrada en vigor del presente Decreto en el
-Diario Oficial de la Federación.
-Décimo Primero.- En tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social
+Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero.- En tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social
 emita una medición adicional del número de carencias promedio de la población en pobreza extrema por
 municipio y demarcación territorial, las entidades transferirán a los municipios y demarcaciones
 territoriales los recursos por concepto de Fondo de Aportaciones para la Infraestructura Social, de
@@ -2529,8 +2767,15 @@ acuerdo con lo dispuesto en el primer párrafo del artículo 35 de esta Ley, uti
 para la distribución de los mismos:
 F =F +∆F z
 i,t i,2013 2013,t i,t
-En donde las variables se definen conforme a lo establecido en el artículo 34 de esta Ley.
-Décimo Segundo.- Los municipios que, en los términos del artículo 51 de la Ley de Coordinación
+En donde las variables se definen conforme a lo establecido en el artículo 34 de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo.- Los municipios que, en los términos del artículo 51 de la Ley de Coordinación
 Fiscal vigente hasta antes de la entrada en vigor de este Decreto, hayan afectado como garantía del
 cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua, los
 recursos que les corresponden del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de
@@ -2538,8 +2783,15 @@ las Demarcaciones Territoriales del Distrito Federal, continuarán sujetándose 
 disposiciones emitidas con anterioridad a la entrada en vigor de este Decreto.
 Lo anterior, sin perjuicio de que dichos municipios podrán optar por lo dispuesto en el artículo 51 de
 dicha Ley, que se reforma conforme al presente Decreto, siempre y cuando cumplan lo previsto en dicho
-artículo.
-Décimo Tercero.- De conformidad con las reglas que al efecto emita la Secretaría de Hacienda y
+artículo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero.- De conformidad con las reglas que al efecto emita la Secretaría de Hacienda y
 Crédito Público, la Comisión Nacional del Agua podrá aplicar los pagos corrientes que reciba de los
 municipios o demarcaciones territoriales por concepto de derechos y aprovechamientos de agua, así
 como descargas de aguas residuales, a la disminución de adeudos históricos que registren tales
@@ -2598,13 +2850,34 @@ coordinación con sus municipios o demarcaciones territoriales, que estando adhe
 beneficios dejen de estar obligados al pago de derechos y aprovechamientos por agua y
 derechos por descargas por así disponerlo la ley respectiva, la Comisión Nacional del Agua
 podrá disminuir la totalidad de los adeudos a cargo de dichos contribuyentes de conformidad
-con las reglas que al efecto emita la Secretaría de Hacienda y Crédito Público.
-Décimo Cuarto.- A partir de la entrada en vigor del presente Decreto queda sin efectos el Artículo
-Segundo, fracción III, tercer párrafo del Decreto por el que se reforman, adicionan, derogan y abrogan
+con las reglas que al efecto emita la Secretaría de Hacienda y Crédito Público.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto.- A partir de la entrada en vigor del presente Decreto queda sin efectos el Artículo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo, fracción III, tercer párrafo del Decreto por el que se reforman, adicionan, derogan y abrogan
 diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de
 Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial
-de la Federación el 21 de Diciembre de 2007.
-Décimo Quinto.- El artículo 33, Apartado B, fracción III de la Ley, entrará en vigor a partir del primero
+de la Federación el 21 de Diciembre de 2007.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto.- El artículo 33, Apartado B, fracción III de la Ley, entrará en vigor a partir del primero
 de enero de 2016.
 40 de 56
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
@@ -2633,26 +2906,68 @@ Artículo Primero.- Se reforman los artículos 4, fracción XII; 9, fracción IV
 y se adicionan un último párrafo al artículo 9 y un artículo 10 Bis de la Ley General de Contabilidad
 Gubernamental, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales
 siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán
 cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización
-contable.
-Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más
+contable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más
 tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo
-transitorio anterior.
-Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la
+transitorio anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la
 modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública
 Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de
 la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2
-de enero de 2013.
-Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal
+de enero de 2013.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal
 de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo
 previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del
-presente Decreto.
-Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la
 Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
 Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que
 correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la
@@ -2660,8 +2975,15 @@ entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Pú
 trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
 Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en
 cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el
-ejercicio fiscal correspondiente.
-Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+ejercicio fiscal correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 42 de 56
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
@@ -2688,23 +3010,65 @@ Publicado en el Diario Oficial de la Federación el 27 de abril de 2016
 ARTÍCULO CUARTO.- Se deroga el último párrafo del artículo 15 de la Ley General de Contabilidad
 Gubernamental, para quedar como sigue:
 ……..
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las
 leyes, reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este
-Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
-CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
+Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
 hacendaria de las Entidades Federativas a que se refiere el Capítulo I del Título Segundo de la Ley de
 Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del
-ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.
-QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las
+ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las
 Entidades Federativas y los Municipios, relativo al nivel de aportación al fideicomiso para realizar
 acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por
 ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del
-año 2020 se observará el porcentaje establecido en el artículo citado.
-SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y
+año 2020 se observará el porcentaje establecido en el artículo citado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y
 los Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio
 fiscal 2018.
 Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico,
@@ -2713,8 +3077,15 @@ Disciplina Financiera de las Entidades Federativas y los Municipios hasta el añ
 excepción transitoria deberá considerar personal administrativo.
 Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a
 que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor
-de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
-SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las
+de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las
 Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de las
 Entidades Federativas, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento
 para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
@@ -2722,37 +3093,86 @@ para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el
 sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 13,
 fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, deberá estar en operación a más tardar el 1o.
-de enero de 2018.
-NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia
+de enero de 2018.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia
 el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios,
 podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios
 anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
-Reforma DOF 30-01-2018: Derogó del artículo el entonces párrafo segundo
-DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
+Reforma DOF 30-01-2018: Derogó del artículo el entonces párrafo segundo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
 hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio
 fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de
-acuerdo al artículo 21 de dicha Ley.
-DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina
+acuerdo al artículo 21 de dicha Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal
 anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5
-por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
-DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las
+por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las
 que hace referencia el artículo 28 de la Ley de Disciplina Financiera de las Entidades Federativas y los
-Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
+Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
 Público, no podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda
 pública de Estados y Municipios asumidas entre el 1o. de enero de 2015 y la fecha en la que el Estado
 celebre el convenio referido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las
 Entidades Federativas y los Municipios, salvo que se trate de deuda pública de los Estados y Municipios
 que haya sido contraída para refinanciar o reestructurar deuda pública asumida con anterioridad al 1o. de
-enero de 2015.
-DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
+enero de 2015.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
 Público, podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública
 de los Estados y Municipios, en términos del Capítulo IV del Título Tercero de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, a partir de los 90 días siguientes a la entrada
@@ -2777,37 +3197,51 @@ Adicionalmente, en tanto entra en operación el Sistema de Alertas en los térmi
 siguiente artículo transitorio, los convenios que se formalicen con la Deuda Estatal Garantizada deberán
 remitirse a la comisión legislativa bicameral para su análisis y opinión correspondiente. Una vez que entre
 en operación el Sistema de Alertas se aplicará lo dispuesto en el artículo 38 de la Ley de Disciplina
-Financiera de las Entidades Federativas y los Municipios.
-DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley
+Financiera de las Entidades Federativas y los Municipios.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley
 de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en operación, a más tardar
 el 1o. de abril de 2017.
 El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo
-anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina
+anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, se ubiquen en un endeudamiento elevado
 conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia los artículos
-34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el</p>
+34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el
+artículo 46 de la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
               <content>
-                <p>artículo 46 de la misma.
-DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de
+                <p>DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de
 los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN,
-quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el</p>
+quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el
+artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo
+dispuesto en dicho programa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
               <content>
-                <p>artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo
-dispuesto en dicho programa.
-DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la
+                <p>DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la
 Ley de Disciplina Financiera de las Entidades Federativas y los Municipios sustituirá al Registro de
 Obligaciones y Empréstitos de Entidades y Municipios y entrará en operación, a más tardar el 1o. de abril
 de 2017.
@@ -2818,8 +3252,15 @@ anterioridad a la entrada en vigor del Registro Público Único, se llevarán a 
 disposiciones vigentes en la fecha de inicio del trámite.
 Las referencias al Registro de Obligaciones y Empréstitos de Entidades y Municipios en las leyes y
 disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro
-Público Único.
-DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la
+Público Único.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la
 Ley de Disciplina Financiera de las Entidades Federativas y los Municipios relacionados con el Registro
 Público Único serán aplicables hasta la entrada en operación del mismo. En tanto, seguirán vigentes las
 disposiciones del Registro de Obligaciones y Empréstitos de Entidades y Municipios.
@@ -2856,30 +3297,86 @@ Publicado en el Diario Oficial de la Federación el 18 de julio de 2016
 ARTÍCULO TERCERO.- Se Reforman el primer párrafo y la fracción V del artículo 70 de la Ley
 General de Contabilidad Gubernamental, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-SEGUNDO.- Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación, sin perjuicio de lo previsto en los transitorios siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con
 la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de
 Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia
-Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
-TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Federación, publicada
+Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Federación, publicada
 en el Diario Oficial de la Federación el 29 de mayo de 2009, conforme a lo dispuesto en los artículos
 transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a
-la presente Ley.
-CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización y
+la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización y
 Rendición de Cuentas de la Federación que se encuentren en trámite o pendientes de resolución a la
 entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley
 de Fiscalización y Rendición de Cuentas de la Federación que se abroga, así como los que se deriven de
-las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Federal del año 2015.
-QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior de la Federación previstas
-en la presente Ley entrarán en vigor a partir de la Cuenta de la Hacienda Pública Federal del año 2016.
-SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios
-anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.
-SÉPTIMO.- La Auditoría Superior de la Federación y la Cámara de Diputados, por lo que hace a la
+las funciones de fiscalización y revisión hasta la Cuenta de la Hacienda Pública Federal del año 2015.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Las funciones de fiscalización y revisión de la Auditoría Superior de la Federación previstas
+en la presente Ley entrarán en vigor a partir de la Cuenta de la Hacienda Pública Federal del año 2016.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios
+anteriores entrarán en vigor al día siguiente de la publicación del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- La Auditoría Superior de la Federación y la Cámara de Diputados, por lo que hace a la
 Unidad de Evaluación y Control, deberán actualizar sus reglamentos interiores conforme a lo previsto en
-esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.
-OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la
+esta Ley en un plazo no mayor a 180 días hábiles contados a partir de la vigencia de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- La Auditoría Superior de la Federación deberá actualizar y, en su caso, publicar la
 normatividad que conforme a sus atribuciones deba expedir en un plazo no mayor a 180 días hábiles
 contados a partir de la vigencia de la presente Ley.
 Ciudad de México, a 17 de junio de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
@@ -2959,15 +3456,36 @@ adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal,
 Pública y General de Contabilidad Gubernamental”, publicado en el Diario Oficial de la Federación el 27
 de abril de 2016, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la
 entrada en operación del Registro Público Único, deberán solicitar su inscripción ante dicho Registro para
 lo cual contarán con un plazo de seis meses contado a partir de la publicación de este Decreto, para lo
 cual los Entes Públicos deberán acreditar que se cumplieron los requisitos aplicables de la normatividad
-vigente en el momento de su contratación.
-Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la
+vigente en el momento de su contratación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la
 medición inicial del Sistema de Alertas para Municipios a más tardar el último día hábil de julio de 2018,
 con base en la información de su Cuenta Pública 2017. Esta medición determinará el Techo de
 Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2019.
@@ -2975,8 +3493,15 @@ En el caso de los Entes Públicos distintos a la administración pública centra
 Federativas y los Municipios, la Secretaría publicará en su página oficial de Internet la medición inicial del
 Sistema de Alertas a más tardar el último día hábil de agosto de 2019, con base en la información de su
 Cuenta Pública 2018. Esta medición determinará el Techo de Financiamiento Neto al cual podrán
-acceder durante el ejercicio fiscal 2020.
-Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera
+acceder durante el ejercicio fiscal 2020.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera
 de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta
 el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y
 cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al
@@ -3033,17 +3558,38 @@ Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 Artículo Tercero.- Se reforman los artículos 79, párrafos primero y tercero y 80, párrafos segundo y
 cuarto, de la Ley General de Contabilidad Gubernamental, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
 de la Federación.
 A la entrada en vigor del presente Decreto se extingue el organismo descentralizado de la
 Administración Pública Federal, sectorizado a la Secretaría de Bienestar, denominado Consejo Nacional
 de Evaluación de la Política de Desarrollo Social, conservando su personalidad jurídica para llevar a cabo
-los actos a que se refiere éste.
-Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del
+los actos a que se refiere éste.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del
 presente Decreto seguirán vigentes en lo que no se opongan al mismo, hasta en tanto se emitan las
-disposiciones que los sustituyan.
-Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los
+disposiciones que los sustituyan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los
 recursos presupuestarios, financieros y materiales, además de los inmuebles, derechos y obligaciones
 sobre dichos recursos al Instituto Nacional de Estadística y Geografía, en los términos que determinen
 ambas instituciones, sin perjuicio de lo dispuesto en el Artículo Tercero Transitorio del Decreto por el que
@@ -3054,13 +3600,27 @@ del presente Decreto.
 El Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá entregar a la Secretaría
 de Hacienda y Crédito Público la información necesaria para integrar la Cuenta Pública y demás informes
 correspondientes al primer trimestre del presente año, de conformidad con las disposiciones jurídicas
-aplicables, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente Decreto.
-Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto,
+aplicables, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto,
 deberá dar cumplimiento con lo establecido en el artículo 134, párrafo tercero, de la Constitución Política
 de los Estados Unidos Mexicanos, para ajustar su estructura orgánica de conformidad con los principios
 de racionalidad y austeridad republicana, y evitar todo tipo de duplicidad de funciones, con base en las
-necesidades de mejora y modernización de la gestión pública.
-Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la
+necesidades de mejora y modernización de la gestión pública.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la
 Política de Desarrollo Social, en coordinación con la Secretaría de Bienestar, concluya la relación laboral
 con todo su personal en los términos legales que correspondan. Los pagos correspondientes se
 realizarán con cargo al patrimonio del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
@@ -3077,8 +3637,15 @@ conforme a la normativa aplicable a la Administración Pública Federal.
 El Instituto Nacional de Estadística y Geografía, conforme a su estructura orgánica y ocupacional, así
 como a su disponibilidad presupuestaria, contratará al personal que requiera bajo el régimen laboral
 previsto en el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, en
-concordancia con la normativa del Instituto.
-Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en
+concordancia con la normativa del Instituto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en
 los ordenamientos jurídicos se hagan o le confieran al Consejo Nacional de Evaluación de la Política de
 Desarrollo Social, deberán entenderse hechas o conferidas al Instituto Nacional de Estadística y
 Geografía cuando se refieran a la medición de la pobreza y evaluación integral de la Política de
@@ -3086,23 +3653,51 @@ Desarrollo Social.
 Asimismo, las referencias y atribuciones que se hagan o le confieran al Consejo Nacional de
 Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas a la Secretaría
 de Hacienda y Crédito Público cuando se refieran al Presupuesto basado en Resultados y al Sistema de
-Evaluación del Desempeño.
-Séptimo.- Los instrumentos jurídicos celebrados por el Consejo Nacional de Evaluación de la Política
+Evaluación del Desempeño.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- Los instrumentos jurídicos celebrados por el Consejo Nacional de Evaluación de la Política
 de Desarrollo Social seguirán vigentes y surtiendo sus efectos, hasta en tanto se determine su
-modificación, terminación o celebración de nuevos instrumentos jurídicos.
-Octavo.- Los asuntos relacionados con el ejercicio de las atribuciones objeto del presente Decreto,
+modificación, terminación o celebración de nuevos instrumentos jurídicos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- Los asuntos relacionados con el ejercicio de las atribuciones objeto del presente Decreto,
 que se encuentren en trámite, continuarán a cargo de las instituciones que asuman las atribuciones en
 términos del presente Decreto, y serán resueltas conforme a las disposiciones jurídicas vigentes al
 momento de su inicio.
 Las obligaciones a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social al
 momento de su extinción estarán a cargo del Instituto Nacional de Estadística y Geografía, incluyendo la
-defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.
-Noveno.- El acervo de información estadística, indicadores, estudios, bases de datos, informes y
+defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- El acervo de información estadística, indicadores, estudios, bases de datos, informes y
 cualquier otro documento publicado o por publicar elaborado o en posesión del Consejo Nacional de
 Evaluación de la Política de Desarrollo Social deberá ser puesto a disposición del Instituto Nacional de
 Estadística y Geografía y, una vez revisado, será puesto a disposición de la ciudadanía en un portal
-electrónico público.
-Décimo.- Para efectos de lo dispuesto en los transitorios tercero, séptimo, octavo y noveno del
+electrónico público.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo.- Para efectos de lo dispuesto en los transitorios tercero, séptimo, octavo y noveno del
 presente Decreto, el Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá integrar,
 en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por las personas
 titulares de la Dirección General de Administración del Instituto Nacional de Estadística y Geografía, de la
@@ -3120,13 +3715,34 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de existir acciones pendientes,
-se estará a lo previsto en el segundo párrafo del transitorio octavo de este Decreto.
-Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá realizar las reformas
+se estará a lo previsto en el segundo párrafo del transitorio octavo de este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá realizar las reformas
 necesarias a su Reglamento Interior para atender lo dispuesto en el presente Decreto, a más tardar
-dentro de los 20 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
-Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo
-Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.
-Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente
+dentro de los 20 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo
+Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente
 Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y
 subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos
 compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán

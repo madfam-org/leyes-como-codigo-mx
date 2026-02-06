@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1994-08-04/lfpa/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1994-08-04/lfpa/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -96,9 +96,9 @@
         </chapter>
         <chapter id="chapter-17">
           <num>CAPITULO PRIMERO DISPOSICIONES GENERALES</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- Las disposiciones de esta ley son de orden e interés públicos, y se aplicarán a los actos,
 procedimientos y resoluciones de la Administración Pública Federal centralizada, sin perjuicio de lo
@@ -116,16 +116,16 @@ Para los efectos de esta Ley sólo queda excluida la materia fiscal tratándose 
 los accesorios que deriven directamente de aquéllas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Párrafo adicionado DOF 19-04-2000</p>
             </note>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Párrafo reformado DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- Esta Ley, salvo por lo que toca al título tercero A, se aplicará supletoriamente a las
 diversas leyes administrativas. El Código Nacional de Procedimientos Civiles y Familiares se aplicará, a
@@ -133,13 +133,13 @@ su vez, supletoriamente a esta Ley, en lo conducente.
 , 14-11-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Artículo reformado DOF 19-04-2000</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- Son elementos y requisitos del acto administrativo:
 I. Ser expedido por órgano competente, a través de servidor público, y en caso de que dicho órgano
@@ -171,16 +171,16 @@ XVI. Ser expedido decidiendo expresamente todos los puntos propuestos por las pa
 establecidos por la ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción derogada DOF 24-12-1996</p>
             </note>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción derogada DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Los actos administrativos de carácter general, tales como reglamentos, decretos,
 acuerdos, normas oficiales mexicanas, circulares y formatos, así como los lineamientos, criterios,
@@ -197,7 +197,7 @@ produzcan efectos jurídicos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Artículo reformado DOF 19-04-2000</p>
             </note>
           </article>
@@ -213,9 +213,9 @@ produzcan efectos jurídicos.
               <p>Artículo adicionado DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- La omisión o irregularidad de los elementos y requisitos exigidos por el Artículo 3 de esta
 Ley, o por las leyes administrativas de las materias de que se trate, producirán, según sea el caso,
@@ -223,9 +223,9 @@ nulidad o anulabilidad del acto administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- La omisión o irregularidad de cualquiera de los elementos o requisitos establecidos en las
 fracciones I a X del artículo 3 de la presente Ley, producirá la nulidad del acto administrativo, la cual será
@@ -240,13 +240,13 @@ En caso de que el acto se hubiera consumado, o bien, sea imposible de hecho o de
 sus efectos, sólo dará lugar a la responsabilidad del servidor público que la hubiere emitido u ordenado.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Párrafo reformado DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- La omisión o irregularidad en los elementos y requisitos señalados en las Fracciones XII a
 XVI del Artículo 3 de esta Ley, producirá la anulabilidad del acto administrativo.
@@ -259,18 +259,18 @@ siempre hubiere sido válido.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- El acto administrativo será válido hasta en tanto su invalidez no haya sido declarada por
 autoridad administrativa o jurisdiccional, según sea el caso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- El acto administrativo válido será eficaz y exigible a partir de que surta efectos la
 notificación legalmente efectuada.
@@ -288,9 +288,9 @@ Pública Federal los efectúe.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- Si el acto administrativo requiere aprobación de órganos o autoridades distintos del que
 lo emita, de conformidad a las disposiciones legales aplicables, no tendrá eficacia sino hasta en tanto
@@ -298,9 +298,9 @@ aquélla se produzca.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- El acto administrativo de carácter individual se extingue de pleno derecho, por las
 siguientes causas:
@@ -315,9 +315,9 @@ VI. Por revocación, cuando así lo exija el interés público, de acuerdo con l
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- Las disposiciones de este Título son aplicables a la actuación de los particulares ante la
 Administración Pública Federal, así como a los actos a través de los cuales se desenvuelve la función
@@ -325,26 +325,26 @@ administrativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- La actuación administrativa en el procedimiento se desarrollará con arreglo a los
 principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- El procedimiento administrativo podrá iniciarse de oficio o a petición de parte interesada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- La Administración Pública Federal no podrá exigir más formalidades que las
 expresamente previstas en la ley.
@@ -394,9 +394,9 @@ desconcentrado.
               <p>Artículo adicionado DOF 19-04-2000</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- La Administración Pública Federal, en sus relaciones con los particulares, tendrá las
 siguientes obligaciones:
@@ -431,9 +431,9 @@ fijado por la ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- Salvo que en otra disposición legal o administrativa de carácter general se establezca
 otro plazo, no podrá exceder de tres meses el tiempo para que la dependencia u organismo
@@ -448,7 +448,7 @@ En el caso de que se recurra la negativa por falta de resolución, y ésta a su 
 del mismo término, se entenderá confirmada en sentido negativo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 24-12-1996</p>
             </note>
           </article>
@@ -499,9 +499,9 @@ Secretaría de Servicios Parlamentarios</p>
               <p>Artículo adicionado DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- El procedimiento administrativo continuará de oficio, sin perjuicio del impulso que
 puedan darle los interesados. En caso de corresponderles a estos últimos y no lo hicieren, operará la
@@ -509,9 +509,9 @@ caducidad en los términos previstos en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- Los promoventes con capacidad de ejercicio podrán actuar por sí o por medio de
 representante o apoderado.
@@ -527,9 +527,9 @@ interposición de recursos administrativos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- Cuando en una solicitud, escrito o comunicación fungieren varios interesados, las
 actuaciones a que den lugar se efectuarán con el representante común o interesado que expresamente
@@ -537,9 +537,9 @@ hayan señalado y, en su defecto, con el que figure en primer término.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Todo servidor público estará impedido para intervenir o conocer de un procedimiento
 administrativo cuando:
@@ -566,9 +566,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- El servidor público que se encuentre en alguna de las circunstancias señaladas en el
 artículo anterior, tan pronto tenga conocimiento de la misma, se excusará de intervenir en el
@@ -580,9 +580,9 @@ su superior jerárquico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- La intervención del servidor público en el que concurra cualquiera de los impedimentos a
 que se refiere el Artículo 21 de esta Ley, no implicará necesariamente la invalidez de los actos
@@ -590,9 +590,9 @@ administrativos en que haya intervenido, pero dará lugar a responsabilidad admi
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- El superior jerárquico cuando tenga conocimiento de que alguno de sus subalternos se
 encuentra en alguna de las causales de impedimento a que se refiere el Artículo 21 de la presente Ley,
@@ -600,9 +600,9 @@ ordenará que se inhiba de todo conocimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Cuando el servidor público no se inhibiere a pesar de existir alguno de los impedimentos
 expresados, en cualquier momento de la tramitación del procedimiento, el interesado podrá promover la
@@ -610,9 +610,9 @@ recusación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- La recusación se planteará por escrito ante el superior jerárquico del recusado,
 expresando la causa o causas en que se funda, acompañando al mismo las pruebas pertinentes.
@@ -623,9 +623,9 @@ A falta de informe rendido por el recusado, se tendrá por cierto el impedimento
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Contra las resoluciones adoptadas en materia de impedimentos, excusas y recusaciones
 no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que
@@ -633,9 +633,9 @@ proceda contra la resolución que dé por concluido el procedimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles.
 En los plazos fijados en días no se contarán los inhábiles, salvo disposición en contrario. No se
@@ -657,9 +657,9 @@ requiera el asunto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- En los plazos establecidos por periodos se computarán todos los días; cuando se fijen
 por mes o por año se entenderá que el plazo concluye el mismo número de día del mes o año de
@@ -672,9 +672,9 @@ Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- Las diligencias o actuaciones del procedimiento administrativo se efectuarán conforme a
 los horarios que cada dependencia o entidad de la Administración Pública Federal previamente
@@ -687,9 +687,9 @@ investigación en tales horas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- Sin perjuicio de lo establecido en otras leyes administrativas, la Administración Pública
 Federal, de oficio o a petición de parte interesada, podrá ampliar los términos y plazos establecidos, sin
@@ -698,9 +698,9 @@ exija el asunto y no se perjudiquen los derechos de los interesados o de tercero
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Para efectos de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e
 informes, a falta de términos o plazos establecidos en las leyes administrativas para la realización de
@@ -709,9 +709,9 @@ interesado dicho plazo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- Los interesados en un procedimiento administrativo tendrán derecho de conocer, en
 cualquier momento, el estado de su tramitación, recabando la oportuna información en las oficinas
@@ -721,9 +721,9 @@ o causahabiente, o se trate de asuntos en que exista disposición legal que lo p
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Los interesados podrán solicitar les sea expedida a su costa, copia certificada de los
 documentos contenidos en el expediente administrativo en el que se actúa, salvo en los casos a que se
@@ -731,9 +731,9 @@ refiere el artículo anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o
 documentos y las resoluciones administrativas definitivas podrán realizarse:
@@ -764,19 +764,19 @@ del servicio respectivo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Fracción reformada DOF 30-05-2000</p>
             </note>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Párrafo reformado DOF 24-12-1996</p>
             </note>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Párrafo adicionado DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- Las notificaciones personales se harán en el domicilio del interesado o en el último
 domicilio que la persona a quien se deba notificar haya señalado ante los órganos administrativos en el
@@ -799,9 +799,9 @@ el Diario Oficial de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un
 resumen de las resoluciones por notificar. Dichas publicaciones deberán efectuarse por tres días
@@ -815,9 +815,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido
 realizadas. Los plazos empezarán a correr a partir del día siguiente a aquel en que haya surtido efectos
@@ -829,9 +829,9 @@ nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Toda notificación deberá efectuarse en el plazo máximo de diez días, a partir de la
 emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el
@@ -843,9 +843,9 @@ DE LA IMPUGNACION DE NOTIFICACIONES</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Las notificaciones irregularmente practicadas surtirán efectos a partir de la fecha en que
 se haga la manifestación expresa por el interesado o su representante legal de conocer su contenido o se
@@ -853,9 +853,9 @@ interponga el recurso correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- El afectado podrá impugnar los actos administrativos recurribles que no hayan sido
 notificados o no se hubieren apegado a lo dispuesto en esta ley, conforme a las siguientes reglas:
@@ -892,9 +892,9 @@ impugnación contra el acto se interpuso extemporáneamente, desechará dicho re
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Los escritos dirigidos a la Administración Pública Federal deberán presentarse
 directamente en sus oficinas autorizadas para tales efectos, en las oficinas de correos, mediante
@@ -914,9 +914,9 @@ anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- En ningún caso se podrán rechazar los escritos en las unidades de recepción de
 documentos.
@@ -927,9 +927,9 @@ les podrá declarar la caducidad del ejercicio de su derecho, en los términos p
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Iniciado el procedimiento, el órgano administrativo podrá adoptar las medidas
 provisionales establecidas en las leyes administrativas de la materia, y en su caso, en la presente ley
@@ -938,9 +938,9 @@ para ello.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Los titulares de los órganos administrativos ante quienes se inicie o se tramite cualquier
 procedimiento administrativo, de oficio o a petición de parte interesada, podrán disponer su acumulación.
@@ -948,9 +948,9 @@ Contra el acuerdo de acumulación no procederá recurso alguno.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- En el despacho de los expedientes se guardará y respetará el orden riguroso de
 tramitación en los asuntos de la misma naturaleza; la alteración del orden sólo podrá realizarse cuando
@@ -965,9 +965,9 @@ público infractor.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- Las cuestiones incidentales que se susciten durante el procedimiento no suspenderán la
 tramitación del mismo, incluyendo la recusación, en la inteligencia que de existir un procedimiento
@@ -976,9 +976,9 @@ resolución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- Los incidentes se tramitarán por escrito dentro de los cinco días siguientes a la
 notificación del acto que lo motive, en el que expresará lo que a su derecho conviniere, así como las
@@ -988,9 +988,9 @@ caso, las pruebas que hubiere ofrecido, en el término que se fije y que no exce
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Los actos necesarios para la determinación, conocimiento y comprobación de los
 hechos en virtud de los cuales deba pronunciarse resolución, se realizarán de oficio por el órgano que
@@ -998,9 +998,9 @@ tramite el procedimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- En los procedimientos administrativos se admitirán toda clase de pruebas, excepto la
 confesional de las autoridades. No se considerará comprendida en esta prohibición la petición de
@@ -1016,9 +1016,9 @@ resolución deberá estar debidamente fundada y motivada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- El desahogo de las pruebas ofrecidas y admitidas se realizará dentro de un plazo no
 menor a tres ni mayor de quince días, contado a partir de su admisión.
@@ -1029,18 +1029,18 @@ definitiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- El órgano administrativo notificará a los interesados, con una anticipación de tres días, el
 inicio de las actuaciones necesarias para el desahogo de las pruebas que hayan sido admitidas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- Cuando las disposiciones legales así lo establezcan o se juzgue necesario, se solicitarán
 los informes u opiniones necesarios para resolver el asunto, citándose el precepto que lo exija o
@@ -1048,9 +1048,9 @@ motivando, en su caso, la conveniencia de solicitarlos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- Los informes u opiniones solicitados a otros órganos administrativos podrán ser
 obligatorios o facultativos, vinculantes o no. Salvo disposición legal en contrario, los informes y opiniones
@@ -1063,9 +1063,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- A quien se le solicite un informe u opinión, deberá emitirlo dentro del plazo de quince
 días, salvo disposición que establezca otro plazo.
@@ -1075,9 +1075,9 @@ las pretensiones del interesado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- Concluida la tramitación del procedimiento administrativo y antes de dictar resolución se
 pondrán las actuaciones a disposición de los interesados, para que en su caso, formulen alegatos, los
@@ -1091,9 +1091,9 @@ DE LA TERMINACION</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Ponen fin al procedimiento administrativo:
 I. La resolución del mismo;
@@ -1109,9 +1109,9 @@ regula.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- Todo interesado podrá desistirse de su solicitud o renunciar a sus derechos, cuando
 éstos no sean de orden e interés públicos. Si el escrito de iniciación se hubiere formulado por dos o más
@@ -1119,9 +1119,9 @@ interesados, el desistimiento o la renuncia sólo afectará a aquél que lo hubi
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas
 por los interesados y de oficio las derivadas del mismo; en su caso, el órgano administrativo competente
@@ -1139,9 +1139,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- En los procedimientos iniciados a instancia del interesado, cuando se produzca su
 paralización por causas imputables al mismo, la Administración Pública Federal le advertirá que,
@@ -1158,9 +1158,9 @@ partir de la expiración del plazo para dictar resolución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- En aquellos casos en que medie una situación de emergencia o urgencia, debidamente
 fundada y motivada, la autoridad competente podrá emitir el acto administrativo sin sujetarse a los
@@ -1171,9 +1171,9 @@ DE LAS VISITAS DE VERIFICACION</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- Las autoridades administrativas, para comprobar el cumplimiento de las disposiciones
 legales y reglamentarias podrán llevar a cabo visitas de verificación, mismas que podrán ser ordinarias y
@@ -1181,9 +1181,9 @@ extraordinarias; las primeras se efectuarán en días y horas hábiles, y las se
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- Los verificadores, para practicar visitas, deberán estar provistos de orden escrita con
 firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha
@@ -1192,9 +1192,9 @@ fundamenten.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de
 verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el
@@ -1202,9 +1202,9 @@ desarrollo de su labor.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía,
 expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden
@@ -1213,9 +1213,9 @@ responsable, encargado u ocupante del establecimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- De toda visita de verificación se levantará acta circunstanciada, en presencia de dos
 testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si
@@ -1226,9 +1226,9 @@ cuando el verificador haga constar tal circunstancia en la propia acta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- En las actas se hará constar:
 I. Nombre, denominación o razón social del visitado;
@@ -1252,9 +1252,9 @@ debiendo el verificador asentar la razón relativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- Los visitados a quienes se haya levantado acta de verificación podrán formular
 observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o
@@ -1263,9 +1263,9 @@ se hubiere levantado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar
 bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las
@@ -1578,9 +1578,9 @@ Secretaría de Servicios Parlamentarios</p>
               <p>Artículo adicionado DOF 19-04-2000</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- Las sanciones administrativas deberán estar previstas en las leyes respectivas y podrán
 consistir en:
@@ -1656,18 +1656,18 @@ Reforma DOF 18-05-2018: Derogó del artículo el entonces párrafo segundo (ante
               <p>Artículo adicionado DOF 19-04-2000</p>
             </note>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- Sin perjuicio de lo establecido en las leyes administrativas, en caso de reincidencia se
 duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- Para imponer una sanción, la autoridad administrativa deberá notificar previamente al
 infractor del inicio del procedimiento, para que este dentro de los quince días siguientes exponga lo que a
@@ -1675,9 +1675,9 @@ su derecho convenga y, en su caso aporte las pruebas con que cuente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- La autoridad administrativa fundará y motivará su resolución, considerando:
 I. Los daños que se hubieren producido o puedan producirse;
@@ -1687,9 +1687,9 @@ IV. La reincidencia del infractor.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- Una vez oído al infractor y desahogadas las pruebas ofrecidas y admitidas, se
 procederá, dentro de los diez días siguientes, a dictar por escrito la resolución que proceda, la cual será
@@ -1697,9 +1697,9 @@ notificada en forma personal o por correo certificado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo
 el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que
@@ -1707,18 +1707,18 @@ procedan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- Las sanciones administrativas podrán imponerse en más de una de las modalidades
 previstas en el Artículo 70 de esta Ley, salvo el arresto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77.- Cuando en una misma acta se hagan constar diversas infracciones, en la resolución
 respectiva, las multas se determinarán separadamente así como el monto total de todas ellas.
@@ -1727,18 +1727,18 @@ impondrá la sanción que corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78.- Las sanciones por infracciones administrativas se impondrán sin perjuicio de las penas
 que correspondan a los delitos en que, en su caso, incurran los infractores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79.- La facultad de la autoridad para imponer sanciones administrativas prescribe en cinco
 años. Los términos de la prescripción serán continuos y se contarán desde el día en que se cometió la
@@ -1751,9 +1751,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80.- Cuando el infractor impugnare los actos de la autoridad administrativa se interrumpirá la
 prescripción hasta en tanto la resolución definitiva que se dicte no admita ulterior recurso.
@@ -1762,9 +1762,9 @@ declararla de oficio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81.- Se consideran medidas de seguridad las disposiciones que dicte la autoridad
 competente para proteger la salud y la seguridad públicas. Las medidas de seguridad se establecerán en
@@ -1772,9 +1772,9 @@ cada caso por las leyes administrativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82.- Las autoridades administrativas con base en los resultados de la visita de verificación o
 del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se
@@ -1784,9 +1784,9 @@ respectivas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83.- Los interesados afectados por los actos y resoluciones de las autoridades
 administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un
@@ -1801,13 +1801,13 @@ resuelvan un expediente.
 , 30-05-2000</p>
               </content>
             </paragraph>
-            <note placementBase="#art-83" placement="bottom">
+            <note placementBase="#art-83." placement="bottom">
               <p>Artículo reformado DOF 19-04-2000</p>
             </note>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84.- La oposición a los actos de trámite en un procedimiento administrativo deberá alegarse
 por los interesados durante dicho procedimiento, para su consideración, en la resolución que ponga fin al
@@ -1816,18 +1816,18 @@ definitiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85.- El plazo para interponer el recurso de revisión será de quince días contado a partir del
 día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86.- El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad
 que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado
@@ -1853,13 +1853,13 @@ impugnado debiendo acompañar las documentales con que cuente, incluidas las que
 personalidad cuando actúen en nombre de otro o de personas morales.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-86" placement="bottom">
+            <note placementBase="#art-86." placement="bottom">
               <p>Párrafo reformado DOF 24-12-1996</p>
             </note>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87.- La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y
 cuando:
@@ -1875,9 +1875,9 @@ los cinco días siguientes a su interposición, en cuyo defecto se entenderá ot
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88.- El recurso se tendrá por no interpuesto y se desechará cuando:
 I. Se presente fuera de plazo;
@@ -1887,9 +1887,9 @@ plazo para interponerlo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89.- Se desechará por improcedente el recurso:
 I. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución,
@@ -1907,9 +1907,9 @@ promovente, que pueda tener por efecto modificar, revocar o nulificar el acto re
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90.- Será sobreseído el recurso cuando:
 I. El promovente se desista expresamente del recurso;
@@ -1922,9 +1922,9 @@ VI. No se probare la existencia del acto respectivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91.- La autoridad encargada de resolver el recurso podrá:
 I. Desecharlo por improcedente o sobreseerlo;
@@ -1936,9 +1936,9 @@ lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a 
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92.- La resolución del recurso se fundará en derecho y examinará todos y cada uno de los
 agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios; pero,
@@ -1961,9 +1961,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93.- No se podrán revocar o modificar los actos administrativos en la parte no impugnada por
 el recurrente.
@@ -1972,18 +1972,18 @@ precisará ésta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94.- El recurrente podrá esperar la resolución expresa o impugnar en cualquier tiempo la
 presunta confirmación del acto impugnado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95.- La autoridad podrá dejar sin efectos un requerimiento o una sanción, de oficio o a
 petición de parte interesada, cuando se trate de un error manifiesto o el particular demuestre que ya
@@ -1993,9 +1993,9 @@ La tramitación de la declaración no constituirá recurso, ni suspenderá el pl
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96.- Cuando hayan de tenerse en cuenta nuevos hechos o documentos que no obren en el
 expediente original derivado del acto impugnado, se pondrá de manifiesto a los interesados para que, en
@@ -2003,16 +2003,44 @@ un plazo no inferior a cinco días ni superior a diez, formulen sus alegatos y p
 que estime procedentes.
 No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente,
 cuando habiendo podido aportarlos durante el procedimiento administrativo no lo haya hecho.
-TRANSITORIOS
-PRIMERO. Esta ley entrará en vigor el 1o. de junio de 1995.
-SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley, en
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. Esta ley entrará en vigor el 1o. de junio de 1995.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley, en
 particular los diversos recursos administrativos de las diferentes leyes administrativas en las materias
 reguladas por este ordenamiento. Los recursos administrativos en trámite a la entrada en vigor de esta
-Ley, se resolverán conforme a la ley de la materia.
-TERCERO. En los procedimientos administrativos que se encuentren en trámite, el interesado podrá
+Ley, se resolverán conforme a la ley de la materia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. En los procedimientos administrativos que se encuentren en trámite, el interesado podrá
 optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de
-esta Ley.
-CUARTO. Los procedimientos de conciliación y arbitraje previstos en los ordenamientos materia de la
+esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. Los procedimientos de conciliación y arbitraje previstos en los ordenamientos materia de la
 presente Ley, se seguirán sustanciando conforme a lo dispuesto en dichos ordenamientos legales.
 México, D.F., a 14 de julio de 1994.- Dip. Manuel Huerta Ladrón de Guevara, Presidente.- Sen.
 Ricardo Monreal Avila, Presidente.- Dip. José Raúl Hernández Avila, Secretario.- Sen. Antonio
@@ -2039,10 +2067,24 @@ artículos 6 y 17, el párrafo segundo del artículo 35 y el artículo 86; se ad
 17 B, y un último párrafo al artículo 35, y se derogan las fracciones VI y XI del artículo 3 de la Ley
 Federal de Procedimiento Administrativo, para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación, salvo lo previsto en el artículo siguiente.
-SEGUNDO.- El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación, salvo lo previsto en el artículo siguiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a
 los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la
 Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
 México, D.F., a 10 de diciembre de 1996.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Felipe
@@ -2065,8 +2107,15 @@ adicionan un segundo párrafo al artículo 1, recorriéndose en su orden actual 
 tercero, el artículo 15-A, un título tercero A y los artículos 69-A a 69-Q y 70-A, y se deroga el artículo 4-A
 de la Ley Federal de Procedimiento Administrativo, para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al mes siguiente de su publicación en el Diario
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al mes siguiente de su publicación en el Diario
 Oficial de la Federación, salvo:
 I. Lo previsto en los artículos 69-B, primer párrafo, 69-O y 69-Q, que entrarán en vigor al día hábil
 siguiente en que la dependencia u organismo descentralizado correspondiente publique en el
@@ -2080,19 +2129,47 @@ mediante el que informe que están operando de manera interconectada todos los r
 Personas Acreditadas; dicha publicación deberá hacerse en un plazo máximo de tres años a
 partir del mes siguiente a que se publique este Decreto, y
 III. Lo previsto en el artículo 15-A, fracción I, que entrará en vigor a los seis meses siguientes a la
-publicación de este Decreto.
-SEGUNDO.- Se entenderán otorgadas a la Comisión Federal de Mejora Regulatoria las facultades
+publicación de este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se entenderán otorgadas a la Comisión Federal de Mejora Regulatoria las facultades
 previstas a favor de la Secretaría de Comercio y Fomento Industrial en los artículos 45, 48 y 51 de la Ley
-Federal sobre Metrología y Normalización.
-TERCERO.- La información inscrita en el Registro Federal de Trámites Empresariales a la entrada en
+Federal sobre Metrología y Normalización.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- La información inscrita en el Registro Federal de Trámites Empresariales a la entrada en
 vigor de este Decreto, pasará a formar parte del Registro previsto en este ordenamiento y le será
 aplicable el artículo 69-Q en lo que respecta a la prohibición de aplicar trámites en forma distinta a lo
-previsto en dicho Registro.
-CUARTO.- Los recursos humanos, presupuestales y los bienes, que a la entrada en vigor de este
+previsto en dicho Registro.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los recursos humanos, presupuestales y los bienes, que a la entrada en vigor de este
 Decreto, sean utilizados por la Secretaría de Comercio y Fomento Industrial para el ejercicio de las
 funciones en materia de mejora regulatoria a que se refiere este ordenamiento, se asignarán a la
-Comisión Federal de Mejora Regulatoria.
-QUINTO.- Los asuntos en materia de mejora regulatoria que se encuentren en trámite a la entrada en
+Comisión Federal de Mejora Regulatoria.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los asuntos en materia de mejora regulatoria que se encuentren en trámite a la entrada en
 vigor del presente Decreto, serán resueltos por la Comisión Federal de Mejora Regulatoria, en el ámbito
 de su competencia.
 México, D.F., a 23 de marzo de 2000.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.-
@@ -2119,10 +2196,24 @@ ARTICULO UNICO.- Se reforman la fracción II y penúltimo párrafo del artículo
 se adicionan cinco párrafos al artículo 69-C, todos de la Ley Federal de Procedimiento Administrativo, en
 los términos siguientes:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
 Los recursos administrativos en trámite ante organismos descentralizados a la entrada en vigor del
 mismo, se resolverán conforme a la ley de la materia."
 México, D.F., a 29 de abril de 2000.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Dionisio
@@ -2147,12 +2238,26 @@ Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011
 ARTÍCULO QUINTO.- Se adiciona un artículo 69 C Bis a la Ley Federal de Procedimiento
 Administrativo, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se
 refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública
 Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad
-Artesanal.
-SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento
+Artesanal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento
 Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el
 Diario Oficial de la Federación.
 México, D.F., a 26 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José
@@ -2178,10 +2283,24 @@ ARTÍCULO CUADRÁGESIMO SEGUNDO. Se reforman los artículos 69-C, quinto párraf
 primer párrafo; 69-F, tercer párrafo; y 70-A, último párrafo, de la Ley Federal de Procedimiento
 Administrativo, para quedar como sigue:
 ………
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -2203,10 +2322,24 @@ Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017
 Artículo Primero.- Se reforma la fracción II del artículo 35 de la Ley Federal de Procedimiento
 Administrativo, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
 Ciudad de México, a 14 de marzo de 2017.- Dip. María Guadalupe Murguía Gutiérrez, Presidenta.-
 Sen. Pablo Escudero Morales, Presidente.- Dip. María Eugenia Ocampo Bedolla, Secretaria.- Sen.
 María Elena Barrera Tapia, Secretaria.- Rúbricas."
@@ -2251,10 +2384,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Trigésimo Cuarto.- Se reforma el artículo 2 de la Ley Federal de Procedimiento
 Administrativo, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -2264,14 +2411,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

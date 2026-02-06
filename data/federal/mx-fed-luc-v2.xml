@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2008-08-20/luc/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2008-08-20/luc/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -93,9 +93,9 @@
         </chapter>
         <chapter id="chapter-16">
           <num>Capítulo IV De las notificaciones</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley es de orden público y observancia general en los Estados Unidos
 Mexicanos y tiene por objeto regular la organización y funcionamiento de las uniones, así como las
@@ -103,9 +103,9 @@ operaciones que las mismas podrán realizar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- El Gobierno Federal y las entidades de la administración pública paraestatal no podrán
 responsabilizarse ni garantizar el resultado de las operaciones que realicen las uniones, así como
@@ -115,9 +115,9 @@ así como señalarlo expresamente en su publicidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- Para los efectos de esta ley, se entenderá por:
 I. Comisión, a la Comisión Nacional Bancaria y de Valores;
@@ -147,13 +147,13 @@ V. Secretaría, a la Secretaría de Hacienda y Crédito Público, y
 VI. Unión o uniones, a las uniones de crédito;</p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Las palabras unión de crédito u otras que expresen ideas semejantes en cualquier
 idioma, sólo podrán ser usadas en la denominación de las sociedades a las que haya sido otorgada la
@@ -163,18 +163,18 @@ realicen operaciones sujetas a autorización por esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- El Ejecutivo Federal, a través de la Secretaría podrá interpretar para efectos
 administrativos los preceptos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- La Secretaría podrá solicitar la opinión del Banco de México, así como de las Comisiones
 Nacionales Bancaria y de Valores, de Seguros y Fianzas y de los Sistemas de Ahorro para el Retiro, en
@@ -186,9 +186,9 @@ atribuciones conferidas a esta última.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- Los actos jurídicos que se celebren en contravención a lo establecido en esta Ley, darán
 lugar, en su caso, a la imposición de las sanciones administrativas y penales que el presente
@@ -197,9 +197,9 @@ protección de terceros de buena fe, salvo que esta Ley establezca expresamente 
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- En lo no previsto por esta Ley, a las uniones les aplicarán en el orden siguiente:
 I. Las leyes mercantiles;
@@ -216,9 +216,9 @@ V. El Código Fiscal de la Federación respecto de la actualización de multas.<
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- El plazo para que las autoridades administrativas resuelvan lo que corresponda no podrá
 exceder de noventa días, salvo que en las disposiciones específicas se establezca otro. Transcurrido el
@@ -249,28 +249,21 @@ correr el día hábil inmediato siguiente a la presentación del escrito corresp
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- El plazo a que se refiere el artículo anterior no será aplicable a las promociones
 relacionadas con las autorizaciones relativas a la constitución, fusión, escisión y liquidación de las
 uniones. En estos casos no podrá exceder de ciento ochenta días el plazo para que las autoridades
-administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el</p>
+administrativas resuelvan lo que corresponda, siendo aplicables las demás reglas a que se refiere el
+artículo 9 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
-              <content>
-                <p>artículo 9 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- Las autoridades administrativas competentes, a solicitud de parte interesada, podrán
 ampliar los plazos establecidos en la presente Ley, sin que dicha ampliación exceda en ningún caso de la
@@ -279,18 +272,18 @@ tengan conocimiento de que se perjudica a terceros en sus derechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- No se les aplicará lo establecido en los artículos 9 a 11 a las autoridades administrativas
 en el ejercicio de sus atribuciones de supervisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Para efectos de la presente Ley, los plazos fijados en días se entenderán en días
 naturales, salvo que expresamente se señale que se trata de días hábiles. En los casos en que se haga
@@ -304,9 +297,9 @@ día hábil siguiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Para organizarse y operar como unión se requerirá autorización del Gobierno Federal,
 que compete otorgar discrecionalmente a la Comisión, previo acuerdo de su Junta de Gobierno. Por su
@@ -333,9 +326,9 @@ uniones y serán consideradas como intermediarios financieros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- Sin perjuicio de lo señalado en el artículo anterior, hasta en tanto entre en vigor la
 autorización para organizarse y operar como unión, la sociedad correspondiente, una vez que se haya
@@ -349,9 +342,9 @@ que para ello sea necesaria declaración de autoridad alguna, cuando no se cumpl
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- Las sociedades que se autoricen para operar como uniones, deberán constituirse en
 forma de sociedad anónima de capital variable, organizadas con arreglo a la Ley General de Sociedades
@@ -376,9 +369,9 @@ de su inscripción respectivos dentro de los quince días hábiles siguientes al
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- La solicitud de autorización para constituir y operar una unión deberá acompañarse de la
 documentación e información siguiente:
@@ -434,9 +427,9 @@ unión deberá sujetarse a lo dispuesto en el artículo 43 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- El capital mínimo suscrito y pagado para las uniones será determinado de acuerdo con
 el nivel de operaciones que tenga asignado, conforme a lo siguiente:
@@ -463,9 +456,9 @@ Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo cuarto</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- Todas las acciones de las uniones, serán de igual valor; dentro de cada serie conferirán
 iguales derechos y deberán pagarse íntegramente en efectivo en el acto de ser suscritas, o bien, en
@@ -476,9 +469,9 @@ administración.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- Las uniones podrán emitir acciones no suscritas y que serán entregadas a los
 suscriptores, contra el pago total de su valor nominal y de las primas que, en su caso, determine el
@@ -498,13 +491,13 @@ Las uniones podrán emitir acciones sin expresión de valor nominal.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Las acciones representativas del capital social de las uniones, únicamente podrán ser
 adquiridas por personas físicas o morales, nacionales o extranjeras, que realicen actividades
@@ -550,13 +543,13 @@ Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- Las uniones se abstendrán, en su caso, de efectuar la inscripción en el registro a que se
 refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles de las transmisiones de
@@ -573,13 +566,13 @@ corresponda o que se han satisfecho los requisitos que esta ley contempla.
 Reforma DOF 10-01-2014: Derogó del artículo el entonces párrafo segundo</p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- La adquisición, mediante una o varias operaciones simultáneas, de acciones
 representativas del capital social de una unión, por parte de una persona o grupo de personas, estará
@@ -625,34 +618,34 @@ uniones, a fin de que el accionista pueda obtener la autorización correspondien
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- La administración de las uniones estará encomendada a un consejo de administración y
 a un director general, en sus respectivas esferas de competencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- El consejo de administración de las uniones estará integrado por un mínimo de tres y un
 máximo de quince consejeros propietarios, de los cuales cuando menos el veinticinco por ciento deberán
@@ -669,9 +662,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- Los nombramientos de consejeros de las uniones deberán recaer en personas que
 cuenten con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como con amplios
@@ -696,13 +689,13 @@ financieras, deberán revelar dicha circunstancia a la asamblea de accionistas e
 designación.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Por consejero independiente, deberá entenderse a la persona que sea ajena a la unión
 respectiva, y que reúna los requisitos y condiciones que determine la Comisión, mediante disposiciones
@@ -743,9 +736,9 @@ IX. Las personas relacionadas a que se refiere el artículo 61 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- El consejo de administración deberá reunirse por lo menos trimestralmente y en forma
 extraordinaria, cuando sea convocado por su presidente, al menos el veinticinco por ciento de los
@@ -757,9 +750,9 @@ El Presidente del consejo tendrá voto de calidad en caso de empate.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- Los consejeros estarán obligados a abstenerse expresamente de participar en la
 deliberación y votación de cualquier asunto que implique para ellos un conflicto de intereses. Asimismo,
@@ -770,9 +763,9 @@ solicitada al amparo de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- El consejo de administración, sin perjuicio de las funciones que le son propias, deberá
 contar con un comité de auditoría, con carácter consultivo, cuyo titular deberá ser un consejero
@@ -781,13 +774,13 @@ carácter general que emita la Comisión.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- El consejo de administración de las uniones deberá aprobar el Manual de Políticas y
 Procedimientos, el cual contendrá, entre otros, la regulación aplicable a las operaciones que se realizarán
@@ -795,9 +788,9 @@ a través del departamento especial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Los nombramientos del director general de las uniones y de los directivos que ocupen el
 cargo con la jerarquía inmediata inferior a la de éste, deberán recaer en personas que cuenten con
@@ -811,9 +804,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- La unión de que se trate, deberá verificar que las personas que sean designadas como
 consejeros, director general y directivos con la jerarquía inmediata inferior a la de este último, cumplan,
@@ -827,9 +820,9 @@ aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Los poderes que otorguen las uniones no requerirán otras inserciones que las relativas
 al acuerdo del consejo que haya autorizado el otorgamiento del poder, a las facultades que en la escritura
@@ -838,9 +831,9 @@ comprobación del nombramiento de los consejeros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Los comisarios de las uniones deberán contar con calidad técnica, honorabilidad e
 historial crediticio satisfactorio en términos de las disposiciones a que se refiere el artículo 33 de esta Ley,
@@ -848,9 +841,9 @@ así como con amplios conocimientos y experiencia en materia financiera, contabl
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- No podrán ser comisarios propietarios o suplentes de las uniones:
 I. Sus directores generales, y
@@ -858,9 +851,9 @@ II. Los miembros de sus consejos de administración, propietarios o suplentes.</
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Para la fusión de dos o más uniones o de cualquier sociedad o entidad financiera con
 una unión, se requerirá autorización previa de la Comisión con aprobación de su Junta de Gobierno y se
@@ -903,9 +896,9 @@ pago de sus créditos, sin que esta oposición suspenda la fusión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Para la escisión de una unión, se requerirá autorización previa de la Comisión con
 aprobación de su Junta de Gobierno.
@@ -942,30 +935,23 @@ para organizarse y operar como tal quedará sin efectos, sin que resulte necesar
 declaratoria expresa al respecto.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Las uniones estarán clasificadas en tres niveles de operación conforme al capital mínimo
-suscrito y pagado exigido por esta Ley, y podrán realizar las operaciones en términos de lo previsto en el</p>
+suscrito y pagado exigido por esta Ley, y podrán realizar las operaciones en términos de lo previsto en el
+artículo 40 siguiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
-              <content>
-                <p>artículo 40 siguiente.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Las uniones, en los términos de su autorización y dependiendo del nivel de operaciones
 que les corresponda, sólo podrán realizar las siguientes operaciones:
@@ -1081,22 +1067,22 @@ fideicomisos de garantía, sólo podrá realizarse por las uniones que se ubique
 III.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Las uniones podrán, previa autorización de la Comisión, celebrar operaciones de compra
 y venta de divisas exclusivamente con sus socios.
@@ -1111,9 +1097,9 @@ operaciones normales, de las de sus socios o de las empresas de estos últimos.<
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Las características de las operaciones activas, pasivas, y de servicios que realicen las
 uniones se sujetarán a lo dispuesto por las disposiciones de carácter general que emita la Comisión con
@@ -1121,9 +1107,9 @@ el propósito de atender necesidades de regulación crediticia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- La Comisión autorizará a las uniones el inicio de operaciones o el cambio de nivel de
 operaciones a que se refiere el artículo 39 de esta Ley, cuando acrediten el cumplimiento de lo siguiente:
@@ -1149,9 +1135,9 @@ presente artículo, a más tardar a los treinta días posteriores a que le haya 
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Las uniones en ningún caso podrán dar noticias o información de los préstamos,
 créditos, servicios o cualquier tipo de operaciones, sino al socio, acreditante, acreditado, titular o
@@ -1200,9 +1186,9 @@ conforme a las disposiciones legales aplicables.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Las operaciones de crédito y arrendamiento que practiquen las uniones con sus socios,
 deberán estar relacionadas directamente con las actividades de sus empresas o negocios.
@@ -1217,13 +1203,13 @@ la legislación común.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- La Comisión emitirá lineamientos mínimos de regulación prudencial a los que deberán
 sujetarse las uniones, en temas tales como procesos crediticios, calificación de cartera crediticia,
@@ -1246,9 +1232,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- Al realizar sus operaciones las uniones deben diversificar sus riesgos. La Comisión
 determinará mediante disposiciones de carácter general lo siguiente:
@@ -1282,13 +1268,13 @@ La Comisión, a solicitud de la unión podrá autorizar operaciones específicas
 los límites máximos, cuando las características de las mismas así lo justifiquen.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Fracción adicionada DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- Las uniones deberán mantener un capital neto en relación con los riesgos de mercado,
 de crédito y otros en que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de
@@ -1316,13 +1302,13 @@ El índice de capitalización que, en términos del presente artículo, resulte 
 la Comisión será el utilizado para todos los efectos legales conducentes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Las inversiones con cargo al capital de la unión, se sujetarán a los límites siguientes:
 I. No excederá del sesenta por ciento de la parte básica del capital neto, el importe de las
@@ -1345,24 +1331,17 @@ IV. El importe total del valor de los activos en operaciones de arrendamiento pu
 la fracción XXV del artículo 40, no podrá exceder del cien por ciento del capital contable de la
 unión.
 
-Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del</p>
+Lo dispuesto en las fracciones I y III anteriores, es sin perjuicio de lo previsto en la fracción V del
+artículo 103 de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Fracción adicionada DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
-              <content>
-                <p>artículo 103 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- En los créditos, préstamos o financiamientos que las uniones otorguen, el pago de los
 intereses no podrá ser exigido por adelantado, sino únicamente por períodos vencidos, sin perjuicio de
@@ -1378,9 +1357,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- Para el otorgamiento de sus créditos, las uniones deberán estimar la viabilidad de pago
 de los mismos por parte de los acreditados o contrapartes, valiéndose para ello de un análisis a partir de
@@ -1408,9 +1387,9 @@ La Comisión vigilará que las uniones observen debidamente lo dispuesto en el p
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- Los contratos de crédito refaccionario y de habilitación o avío, que celebren las uniones,
 se ajustarán a lo dispuesto por la Ley General de Títulos y Operaciones de Crédito, y a las bases
@@ -1442,9 +1421,9 @@ siempre que se acredite el cumplimiento de los requisitos señalados en el artí
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- En los contratos de crédito de habilitación o avío, el acreditante se reservará el derecho
 de negociar, afectar en garantía o endosar a entidades financieras del país, los títulos que expida el
@@ -1461,9 +1440,9 @@ siempre que se observen los requisitos y condiciones señalados en el párrafo a
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- La prenda sobre bienes y valores se constituirá en la forma prevista en la Ley General
 de Títulos y Operaciones de Crédito, bastando al efecto que se consigne en el documento de crédito
@@ -1477,9 +1456,9 @@ a disposición de aquél el sobrante que pueda existir.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- Cuando las uniones reciban en prenda créditos en libros, bastará que se haga constar
 así, en los términos del artículo anterior, en el contrato correspondiente, que los créditos dados en prenda
@@ -1491,9 +1470,9 @@ obligaciones y responsabilidades civiles y penales que al mandatario corresponda
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- Las hipotecas constituidas en favor de uniones, sobre la unidad completa de una
 empresa industrial, agrícola, ganadera o dedicada a la explotación de bienes o servicios públicos,
@@ -1525,9 +1504,9 @@ Será aplicable en lo pertinente a las hipotecas a que se refiere este artículo
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- En los contratos de crédito, arrendamiento financiero y factoraje financiero que celebren
 las uniones en que se pacte que el acreditado o mutuatario, arrendatario o factorado puedan disponer de
@@ -1538,9 +1517,9 @@ fijación del saldo resultante a cargo del deudor.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- El contrato o documento en que se hagan constar los créditos, arrendamientos
 financieros o factoraje financiero que otorguen las uniones, junto con la certificación del estado de cuenta
@@ -1557,9 +1536,9 @@ intereses moratorios, y el importe de accesorios generados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- El juez decretará de plano la posesión del bien objeto del contrato de arrendamiento
 financiero, solicitada conforme al artículo 416 de la Ley General de Títulos y Operaciones de Crédito por
@@ -1569,9 +1548,9 @@ solicitud el estado de cuenta certificado en los términos del artículo 57 de e
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- Las uniones, al emitir las cartas de crédito a que se refieren la fracción VII del artículo 40
 de esta Ley, se sujetarán a lo señalado en este artículo y, de manera supletoria, a los usos y prácticas
@@ -1635,9 +1614,9 @@ exigible ante los tribunales competentes del lugar donde se efectúe la confirma
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- Las uniones requerirán del acuerdo de, por lo menos, tres cuartas partes de los
 consejeros que estén presentes en las sesiones del consejo de administración, para aprobar la
@@ -1665,19 +1644,19 @@ socios de la unión.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- Las operaciones con personas relacionadas que deban ser sometidas a la aprobación
 del consejo de administración, se presentarán por conducto y con la opinión favorable del comité de
@@ -1700,15 +1679,8 @@ LEY DE UNIONES DE CRÉDITO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
-menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
-              <content>
-                <p>artículo 27 de la presente Ley.
+menos, una tercera parte deberán ser consejeros independientes, en términos de lo dispuesto en el
+artículo 27 de la presente Ley.
 Las resoluciones del comité requerirán del acuerdo de las tres cuartas partes de los miembros
 presentes en la sesión.
 El citado comité deberá presentar un informe de su gestión al consejo de administración con la
@@ -1723,13 +1695,13 @@ al último día hábil del trimestre calendario inmediato anterior a la fecha en
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- Las uniones podrán ceder o descontar su cartera crediticia con cualquier persona.
 Tratándose de cesiones o descuentos de cartera crediticia que se celebren con el Banco de México,
@@ -1755,9 +1727,9 @@ la debida confidencialidad sobre la información a que tengan acceso con motivo 
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- Las uniones quedarán sujetas, en lo que respecta a las operaciones de fideicomiso de
 garantía que administren de acuerdo con la Sección Segunda del Capítulo V del Título Segundo de la Ley
@@ -1771,9 +1743,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Todo acto o contrato que signifique variación en el activo o en el pasivo de una unión, o
 implique obligación directa o contingente, deberá ser registrado en la contabilidad el mismo día en que se
@@ -1783,9 +1755,9 @@ confiabilidad, oportunidad y transparencia de la información contable y financi
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- Las uniones podrán microfilmar, grabar en formato digital, medios ópticos o magnéticos,
 o conservar en cualquier otro medio que les autorice la Comisión, todos aquellos libros, registros y
@@ -1806,9 +1778,9 @@ fracciones I y XII del artículo 40 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- La Comisión, mediante disposiciones de carácter general que procuren la transparencia
 y confiabilidad de la información financiera de las uniones, señalará los requisitos a que se sujetará la
@@ -1837,9 +1809,9 @@ otros informes, así como señalar la información que deberán revelar en sus d
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- Las uniones estarán obligadas a poner a disposición de sus socios la información
 corporativa, financiera, administrativa, operacional, económica y jurídica que determine la Comisión,
@@ -1850,9 +1822,9 @@ efectos, se podrán utilizar medios automatizados o digitalizados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- La Comisión contará con facultades de inspección y vigilancia, respecto de las personas
 morales que presten servicios de auditoría externa en términos de esta Ley, incluyendo los socios o
@@ -1873,9 +1845,9 @@ presten servicios de auditoría externa, así como sus socios o empleados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- Las uniones deberán observar lo dispuesto en los artículos 67 y 71 de esta Ley,
 respecto a los requisitos que debe cumplir la persona moral que les proporcione los servicios de auditoría
@@ -1884,9 +1856,9 @@ estados financieros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- Los auditores externos que suscriban el dictamen a los estados financieros en
 representación de las personas morales que proporcionen los servicios de auditoría externa deberán
@@ -1909,9 +1881,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- El auditor externo, así como la persona moral de la cual sea socio, estarán obligados a
 conservar la documentación, información y demás elementos utilizados para elaborar su dictamen,
@@ -1940,9 +1912,9 @@ contravención de los criterios de contabilidad emitidos por la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- Las personas a que se refiere el artículo 70 de esta Ley no incurrirán en responsabilidad
 por los daños o perjuicios que ocasionen, derivados de los servicios u opiniones que emitan, cuando
@@ -1955,9 +1927,9 @@ profesión u oficio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- La Comisión fijará las reglas máximas para la estimación de los activos de las uniones y
 las reglas mínimas para la determinación de sus obligaciones y responsabilidades, en aras de procurar la
@@ -1965,9 +1937,9 @@ adecuada valuación de dichos conceptos en la contabilidad de las uniones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- Las uniones estarán sujetas a la supervisión de la Comisión, la que tendrá en lo que no
 se oponga a esta Ley, todas las facultades que en materia de inspección y vigilancia le confiere la Ley
@@ -1975,9 +1947,9 @@ que la rige y la Ley de Instituciones de Crédito.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- Las uniones estarán obligadas a prestar a los inspectores de la Comisión, todo el apoyo
 que se les requiera, proporcionando los datos, informes, registros, libros de actas, auxiliares,
@@ -1986,9 +1958,9 @@ cumplimiento de su cometido; pudiendo tener acceso a sus oficinas, locales y dem
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77.- Los servidores públicos de la Comisión, tendrán prohibido realizar operaciones con las
 uniones sujetas a la supervisión de aquélla, en condiciones preferentes a las ofrecidas al resto de sus
@@ -1996,9 +1968,9 @@ socios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78.- Las uniones deberán presentar la información y documentación que, en el ámbito de sus
 respectivas competencias, les soliciten la Secretaría, la Comisión así como la Comisión Nacional para la
@@ -2029,16 +2001,16 @@ entrega se haga fuera de los plazos establecidos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-78" placement="bottom">
+            <note placementBase="#art-78." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-78" placement="bottom">
+            <note placementBase="#art-78." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79.- Las medidas correctivas deberán tener por objeto prevenir y, en su caso, corregir los
 problemas que las uniones presenten, derivados de las operaciones que realicen y que puedan afectar su
@@ -2056,9 +2028,9 @@ suspensional alguna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80.- Cuando las uniones no cumplan con los requerimientos de capitalización establecidos
 conforme a lo dispuesto en el artículo 48 de esta Ley y en las disposiciones que de ese precepto
@@ -2156,19 +2128,19 @@ estabilidad y solvencia, la calidad de la información contable y financiera, y 
 de dicha información.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-80" placement="bottom">
+            <note placementBase="#art-80." placement="bottom">
               <p>Inciso adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81.- Cuando a juicio de la Comisión existan irregularidades en las uniones, que afecten su
 estabilidad o solvencia y pongan en peligro los intereses de los socios o acreedores, el Presidente de
@@ -2178,9 +2150,9 @@ carácter de interventor-gerente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82.- La intervención gerencial de que habla el artículo anterior se llevará a cabo directamente
 por un interventor-gerente, y al iniciarse dicha intervención se entenderá con el principal funcionario de la
@@ -2188,9 +2160,9 @@ unión que se encuentre en las oficinas de ésta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83.- El interventor-gerente tendrá todas las facultades que normalmente correspondan al
 consejo de administración de la unión y plenos poderes generales para actos de dominio, de
@@ -2204,9 +2176,9 @@ consejo de administración.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84.- Los interventores a que se refiere este capítulo, deberán reunir los requisitos previstos
 en esta Ley para ser director general de una unión, con la salvedad de que podrán ser designados como
@@ -2217,9 +2189,9 @@ empleados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85.- El oficio que contenga el nombramiento de interventor-gerente deberá inscribirse en el
 Registro Público de Comercio que corresponda al domicilio de la unión intervenida, sin más requisitos
@@ -2227,9 +2199,9 @@ que el oficio respectivo de la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86.- Desde el momento de la intervención quedarán supeditadas al interventor-gerente todas
 las facultades del consejo de administración y los poderes de las personas que el interventor determine;
@@ -2247,9 +2219,9 @@ convenientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87.- La Comisión acordará levantar la intervención con carácter de gerencia cuando las
 irregularidades que hayan afectado la estabilidad o solvencia de la unión se hubieran corregido.
@@ -2259,9 +2231,9 @@ de esta Ley, a efecto de que cancele la inscripción respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88.- Las uniones deberán dar aviso a la Comisión por lo menos con treinta días de
 anticipación a la apertura, cambio de ubicación y clausura de cualquier clase de oficinas en el país,
@@ -2270,18 +2242,18 @@ Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89.- Las uniones requerirán de autorización previa de la Comisión para adquirir acciones o
 participaciones en el capital social de empresas o sociedades extranjeras.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90.- Las uniones deberán cerrar sus puertas y suspender operaciones en los días que señale
 la Comisión mediante disposiciones de carácter general.
@@ -2290,9 +2262,9 @@ legales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91.- Las uniones se ajustarán a las disposiciones de carácter general que emita la Comisión,
 en las que establezca la forma y términos que deberá cumplir la publicidad relativa a las características
@@ -2308,9 +2280,9 @@ precepto se emitan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92.- La documentación que utilicen las uniones relacionada con la solicitud y contratación de
 sus operaciones, deberá sujetarse a las disposiciones de esta Ley, las que emanen de ella y las demás
@@ -2320,9 +2292,9 @@ circunstancia que pueda inducir a error, respecto de sus operaciones y servicios
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93.- La Comisión, con acuerdo de su Junta de Gobierno, podrá en todo tiempo determinar
 que se proceda a la remoción de los miembros del consejo de administración, directores o gerentes y
@@ -2366,16 +2338,16 @@ su Junta de Gobierno, podrá revocar, modificar o confirmar la resolución recur
 las partes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-93" placement="bottom">
+            <note placementBase="#art-93." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-93" placement="bottom">
+            <note placementBase="#art-93." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94.- Las uniones podrán contratar con terceros, incluyendo a otras uniones o entidades
 financieras, la prestación de servicios o comisiones necesarios para realizar las operaciones previstas en
@@ -2412,20 +2384,13 @@ las disposiciones de carácter general que emanen de éste.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95.- La Comisión podrá, previo derecho de audiencia de las uniones, suspender o limitar de
-manera parcial la celebración de las operaciones activas, pasivas y de servicios a que se refiere el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
-              <content>
-                <p>artículo 40 de esta Ley, cuando dichas operaciones se ubiquen en cualquiera de los supuestos
+manera parcial la celebración de las operaciones activas, pasivas y de servicios a que se refiere el
+artículo 40 de esta Ley, cuando dichas operaciones se ubiquen en cualquiera de los supuestos
 siguientes:
 I. No se cuente con la infraestructura o controles internos necesarios para realizar las operaciones
 y servicios respectivos, conforme a las disposiciones aplicables;
@@ -2443,9 +2408,9 @@ resultar aplicables en términos de lo previsto en esta Ley y demás disposicion
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96.- La Comisión, en el ejercicio de las facultades a que se refiere esta ley, podrá señalar la
 forma y términos en que se deberá dar cumplimiento a sus requerimientos.
@@ -2472,9 +2437,9 @@ celebrados con la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97.- La Comisión, con el acuerdo de su Junta de Gobierno y previa audiencia de la sociedad
 interesada, podrá declarar la revocación de la autorización otorgada a las uniones, en los siguientes
@@ -2528,16 +2493,16 @@ en dos o más ocasiones en un periodo de tres años o menos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-97" placement="bottom">
+            <note placementBase="#art-97." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-97" placement="bottom">
+            <note placementBase="#art-97." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98.- Las uniones podrán solicitar a la Comisión que, previo acuerdo de su Junta de Gobierno,
 declare la revocación de su autorización para operar con tal carácter, siempre que se cumpla con lo
@@ -2597,9 +2562,9 @@ esta Ley.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99.- La Comisión otorgará el derecho de audiencia a que se refiere el artículo 97, a la
 sociedad interesada a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil
@@ -2631,22 +2596,22 @@ Secretaría de Servicios Parlamentarios
 , 24-01-2024</p>
               </content>
             </paragraph>
-            <note placementBase="#art-99" placement="bottom">
+            <note placementBase="#art-99." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100.- La disolución y liquidación de las uniones se regirá por lo dispuesto en los Capítulos X
 y XI de la Ley General de Sociedades Mercantiles y el concurso mercantil conforme al Capítulo III del</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101.- Tratándose de procedimientos de liquidación o concurso mercantil de uniones en los
 que se desempeñe como liquidador o síndico el Servicio de Administración y Enajenación de Bienes, el
@@ -2663,9 +2628,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102.- Cuando la Comisión o el liquidador encuentre que existe imposibilidad de llevar a cabo
 la liquidación de la sociedad, lo hará del conocimiento del juez competente para que ordene la
@@ -2677,9 +2642,9 @@ judicial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103.- A las uniones les estará prohibido:
 I. Realizar operaciones de descuento, préstamo o crédito de cualquier clase con personas que no
@@ -2788,13 +2753,13 @@ que respecta a operaciones de factoraje financiero.
 XX. Invertir en el capital de entidades financieras.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-103" placement="bottom">
+            <note placementBase="#art-103." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104.- Las infracciones a esta Ley o a las disposiciones que sean emitidas con base en ésta
 por la Comisión, serán sancionadas con multa administrativa que impondrá la citada Comisión, a razón
@@ -2876,22 +2841,22 @@ terceros o del propio sistema financiero y no constituyan delito.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Inciso adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105.- Las infracciones que consistan en realizar operaciones prohibidas o no autorizadas,
 conforme a esta ley y las disposiciones que emanan de ella, serán sancionadas con multa que impondrá
@@ -2913,13 +2878,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-105" placement="bottom">
+            <note placementBase="#art-105." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106.- La infracción a cualquier otro precepto de esta Ley o de las disposiciones que de ella
 deriven, distinta de las señaladas expresamente en algún otro artículo de esta Ley y que no tenga
@@ -2934,13 +2899,13 @@ tercero.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107.- Cuando la Comisión presuma que una persona física o moral está realizando
 operaciones de las reservadas a las uniones, sin contar con la autorización correspondiente, podrá
@@ -2954,9 +2919,9 @@ anterior son de interés público. Será aplicable en lo conducente lo dispuesto
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108.- En los procedimientos administrativos previstos en esta Ley se admitirán las pruebas
 conducentes con los actos sujetos al procedimiento siempre y cuando las mismas sean ofrecidas en el
@@ -2992,25 +2957,25 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo reformado DOF 14-11-2025</p>
             </note>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109.- La facultad de la Comisión para imponer las sanciones de carácter administrativo
 previstas en esta Ley, así como en las disposiciones que de ella emanen, caducará en un plazo de cinco
@@ -3035,9 +3000,9 @@ monto, siempre y cuando no se hubiere interpuesto medio de defensa alguno en con
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110.- La Comisión, en la imposición de sanciones de carácter administrativo a que se refiere
 esta ley, se sujetará a lo siguiente:
@@ -3089,31 +3054,31 @@ f) Las demás circunstancias que la Comisión estime aplicables para tales efect
 Fracción con incisos adicionada DOF 10-01-2014</p>
               </content>
             </paragraph>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-110" placement="bottom">
+            <note placementBase="#art-110." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111.- Las sanciones serán impuestas por la Junta de Gobierno de la Comisión, la que podrá
 delegar esa facultad, en razón de la naturaleza de la infracción o del monto de la multa, al presidente o a
@@ -3121,9 +3086,9 @@ los demás servidores públicos de esa Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112.- La Comisión podrá, atendiendo a las circunstancias de cada caso, además de la
 imposición de la sanción que corresponda, amonestar al infractor, o bien, solamente amonestarlo,
@@ -3146,13 +3111,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-112" placement="bottom">
+            <note placementBase="#art-112." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113.- Las multas a que se refiere el presente Capítulo podrán ser impuestas a las uniones,
 así como a los miembros del consejo de administración, directores generales, directivos, funcionarios,
@@ -3166,13 +3131,13 @@ una vez que hayan quedado firmes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-113" placement="bottom">
+            <note placementBase="#art-113." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114.- La Comisión considerará como atenuante en la imposición de sanciones
 administrativas, cuando el presunto infractor, acredite ante la Comisión haber resarcido el daño causado,
@@ -3181,13 +3146,13 @@ Comisión en materia de inspección y vigilancia, a efecto de deslindar responsa
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-114" placement="bottom">
+            <note placementBase="#art-114." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115.- Los procedimientos para la imposición de las sanciones administrativas a que se refiere
 esta ley se iniciarán con independencia de la opinión de delito que, en su caso, emita la Comisión en
@@ -3195,9 +3160,9 @@ términos del artículo 120 del presente ordenamiento legal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116.- Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental,
 la Comisión, ajustándose a los lineamientos que apruebe su Junta de Gobierno, deberá hacer del
@@ -3217,13 +3182,13 @@ La información antes señalada no será considerada como reservada o confidenci
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-116" placement="bottom">
+            <note placementBase="#art-116." placement="bottom">
               <p>Artículo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117.- Los afectados con motivo de los actos de la Comisión que pongan fin a los
 procedimientos de autorizaciones o de la imposición de sanciones administrativas, podrán acudir en
@@ -3253,18 +3218,18 @@ Comisión lo tendrá por no interpuesto. Si se omitieran las pruebas se tendrán
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118.- La interposición del recurso de revisión suspenderá los efectos del acto impugnado
 cuando se trate de multas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119.- El órgano encargado de resolver el recurso de revisión podrá:
 I. Desecharlo por improcedente;
@@ -3406,9 +3371,9 @@ Ley, según resulte aplicable.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120.- En los casos previstos en los artículos 121 a 128 de esta Ley, se procederá
 indistintamente a petición de la Secretaría, previa opinión de la Comisión; o bien a petición de la unión de
@@ -3426,9 +3391,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121.- Serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta
 mil días de salario, los consejeros, directores generales y demás directivos o empleados, comisarios o
@@ -3455,9 +3420,9 @@ préstamo o crédito, si el monto de la alteración hubiere sido determinante pa
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122.- Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días
 de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no
@@ -3533,9 +3498,9 @@ de ello resulte quebranto o perjuicio patrimonial a la unión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123.- Los consejeros, directores generales y demás directivos, funcionarios y empleados de
 las uniones, o quienes intervengan directamente en la operación, que con independencia de los cargos o
@@ -3550,9 +3515,9 @@ diez años y multa de quinientos a cincuenta mil días de salario.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124.- Los consejeros, directores o gerentes generales y demás directivos, comisarios,
 empleados o accionistas que inciten u ordenen a directivos o empleados de la unión a la comisión de los
@@ -3561,9 +3526,9 @@ de las penas previstas en los artículos respectivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125.- Serán sancionados con penas de prisión de tres a quince años y multa hasta de cien
 mil días de salario, las personas físicas, consejeros, directivos o administradores de personas morales
@@ -3572,9 +3537,9 @@ autorizaciones previstas en la ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126.- Serán sancionados con prisión de uno a seis años las personas que por sí o a través
 de otra persona o por medio de nombres comerciales, por cualquier medio de publicidad se ostenten
@@ -3583,9 +3548,9 @@ operar con tal carácter, según sea el caso, emitida por la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127.- Serán sancionados los servidores públicos de la Comisión, con la pena establecida
 para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos
@@ -3602,9 +3567,9 @@ facultado para ello.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128.- Se sancionará con prisión de tres a quince años al miembro del consejo de
 administración, director general y cualquier otro directivo o empleado de una unión, que por sí o por
@@ -3621,9 +3586,9 @@ relacionado con sus funciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129.- Las uniones en términos de las disposiciones de carácter general que emita la
 Secretaría, escuchando la previa opinión de la Comisión, estarán obligadas a:
@@ -3737,92 +3702,78 @@ relativos para requerir, recibir o conservar tal documentación e información. 
 obligaciones será sancionada en los términos de las leyes correspondientes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Fracción reformada DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Inciso reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Inciso adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Inciso adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-129" placement="bottom">
+            <note placementBase="#art-129." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130.- Los delitos previstos en esta Ley sólo admitirán comisión dolosa. La acción penal en los
 delitos previstos en esta Ley, perseguibles por petición de la Secretaría, por la unión ofendida, o por
 quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría o la
 unión o quien tenga interés jurídico tengan conocimiento del delito y del probable responsable, y si no
-tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
-              <content>
-                <p>artículo 102 del Código Penal Federal. Una vez cubierto el requisito de procedibilidad, la prescripción
+tienen ese conocimiento, en cinco años que se computarán conforme a las reglas establecidas en el
+artículo 102 del Código Penal Federal. Una vez cubierto el requisito de procedibilidad, la prescripción
 seguirá corriendo según las reglas del Código Penal Federal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131.- Serán sancionados con prisión de dos a siete años todo aquél que habiendo sido
-removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
-              <content>
-                <p>artículo 93 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o
+removido, suspendido o inhabilitado, por resolución firme de la Comisión, en términos de lo previsto en el
+artículo 93 de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o
 suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar
 de encontrarse suspendido o inhabilitado para ello.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132.- Las penas previstas en esta Ley, se reducirán en un tercio cuando se acredite haber
 reparado el daño o haber resarcido el perjuicio ocasionado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133.- Las notificaciones de los requerimientos, visitas de inspección ordinarias y especiales,
 medidas cautelares, solicitudes de información y documentación, citatorios, emplazamientos,
@@ -3855,9 +3806,9 @@ Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134.- Las autorizaciones, revocaciones de autorizaciones solicitadas por el interesado o su
 representante, los actos que provengan de trámites promovidos a petición del interesado y demás actos
@@ -3873,9 +3824,9 @@ cualquiera de las formas de notificación señaladas en el artículo 133 de esta
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135.- Las notificaciones de visitas de investigación y de la declaración de intervención a que
 se refiere esta Ley se realizarán en un solo acto y conforme a lo previsto en el reglamento a que hace
@@ -3883,9 +3834,9 @@ referencia el penúltimo párrafo del artículo 133 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136.- Las notificaciones personales podrán efectuarse en las oficinas de las autoridades
 financieras solamente cuando el interesado o su representante acuda a las mismas y manifieste su
@@ -3894,9 +3845,9 @@ un acta que cumpla con la regulación aplicable a este tipo de actos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137.- Las notificaciones personales también podrán practicarse con el interesado o con su
 representante, en el último domicilio que hubiere proporcionado a la autoridad financiera correspondiente
@@ -3942,9 +3893,9 @@ testigos designados no aceptaran la designación, la hará el propio notificador
               </content>
             </paragraph>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>Artículo 138.- En el supuesto de que la persona encargada de realizar la notificación hiciere la
 búsqueda del interesado o su representante en el domicilio a que se refiere el primer párrafo del artículo
@@ -3961,9 +3912,9 @@ público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>Artículo 139.- Las notificaciones que se efectúen mediante oficio entregado por mensajería o por
 correo certificado, con acuse de recibo, surtirán sus efectos al día hábil siguiente a aquél que como fecha
@@ -3971,9 +3922,9 @@ recepción conste en dicho acuse.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>Artículo 140.- En el supuesto de que el día y hora señalados en el citatorio que se hubiere dejado en
 términos del artículo 137 de esta Ley, quien realice la notificación encontrare cerrado el domicilio que
@@ -3997,9 +3948,9 @@ El instructivo hará prueba de la existencia de los actos, hechos u omisiones qu
               </content>
             </paragraph>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>Artículo 141.- Las notificaciones por edictos se efectuarán en el supuesto de que el interesado haya
 desaparecido, hubiere fallecido, se desconozca su domicilio o exista imposibilidad de acceder a él, y no
@@ -4013,9 +3964,9 @@ también se señalará en dicho edicto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>Artículo 142.- Las notificaciones por medios electrónicos, con acuse de recibo, podrán realizarse
 siempre y cuando el interesado o su representante así lo haya aceptado o solicitado expresamente por
@@ -4024,9 +3975,9 @@ que las mismas establezcan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>Artículo 143.- Las notificaciones que no fueren efectuadas conforme a este Capítulo, se entenderán
 legalmente hechas y surtirán sus efectos el día hábil siguiente a aquél en el que el interesado o su
@@ -4034,9 +3985,9 @@ representante se manifiesten sabedores de su contenido.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>Artículo 144.- Para los efectos de esta Ley se tendrá por domicilio para oír y recibir notificaciones
 relacionadas con los actos relativos al desempeño de su encargo como miembros del consejo de
@@ -4052,9 +4003,9 @@ proporcionado ante la propia Comisión o en el procedimiento administrativo de q
               </content>
             </paragraph>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>Artículo 145.- Las notificaciones a que se refiere este capítulo surtirán sus efectos al día hábil
 siguiente al que:
@@ -4068,10 +4019,24 @@ II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los 
 III. Se hubiere efectuado la última publicación a que se refiere el artículo 141, y
 IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
 ARTÍCULO SEGUNDO.- ..........
-TRANSITORIOS
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y
 Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985,
 así como toda referencia en dicha Ley a uniones de crédito.
 Las uniones de crédito autorizadas para operar como tales con arreglo a las disposiciones que se
@@ -4079,8 +4044,15 @@ derogan, se reputarán autorizadas para operar en los términos del presente Dec
 Las uniones de crédito autorizadas para operar como tales antes de la entrada en vigor del presente
 Decreto, únicamente podrán admitir nuevos socios que cumplan con la característica establecida en el
 primer párrafo del artículo 21 del artículo Primero del presente Decreto. Asimismo, no podrán renovar las
-operaciones que hayan pactado con los socios que no acrediten la referida característica.
-Tercero.- En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter
+operaciones que hayan pactado con los socios que no acrediten la referida característica.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- En tanto la Comisión Nacional Bancaria y de Valores, emite las disposiciones de carácter
 general a que se refiere esta Ley, seguirán aplicándose las expedidas con anterioridad a la vigencia de la
 misma, en las materias correspondientes, en lo que no se opongan al presente Decreto. Al expedirse las
 disposiciones a que se refiere este artículo, se señalarán expresamente aquéllas a las que sustituyan o
@@ -4089,16 +4061,37 @@ Sin perjuicio de lo anterior, a la fecha de entrada en vigor del presente Decret
 por el que se determinan los capitales mínimos con que deberán contar los almacenes generales de
 depósito, arrendadoras financieras, uniones de crédito, empresas de factoraje financiero y casas de
 cambio para el año 2008, publicado en el Diario Oficial de la Federación el 31 de marzo de 2008, en todo
-lo relativo a uniones de crédito.
-Cuarto.- Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en
+lo relativo a uniones de crédito.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Las uniones de crédito contarán con un plazo de dos años contados a partir de la entrada en
 vigor del presente Decreto para ajustarse a las disposiciones a que se refieren los artículos 61 y 62 de la
-Ley de Uniones de Crédito.
-Quinto.- Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos
+Ley de Uniones de Crédito.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos
 realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que
 conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional
 Bancaria y de Valores, continuarán en vigor, hasta que, en su caso, sean revocadas o sus términos
-modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos.
-Sexto.- Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del
+modificados expresamente por dicha Comisión o bien, dejen de producir sus efectos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- Las infracciones y delitos cometidos con anterioridad a la fecha de entrada en vigor del
 presente Decreto, se sancionarán conforme a la ley vigente al momento de cometerse las citadas
 infracciones o delitos.
 62 de 69
@@ -4108,17 +4101,38 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 En los procedimientos administrativos que se encuentren en trámite, el interesado podrá optar por su
 continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de las
-disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto.
-Séptimo.- Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada
+disposiciones aplicables a los procedimientos administrativos previstos en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- Las uniones de crédito contarán con un plazo de ciento ochenta días a partir de la entrada
 en vigor del presente Decreto para presentar a la Comisión Nacional Bancaria y de Valores, para su
-aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.
-Octavo.- A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido
+aprobación, sus estatutos sociales a fin de que ajusten su operación a lo previsto en el referido Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- A la entrada en vigor del presente Decreto todas las uniones de crédito que hayan sido
 autorizadas para operar como tales en términos de la Ley General de Organizaciones y Actividades
 Auxiliares del Crédito, serán clasificadas con un nivel de operaciones I.
 Las uniones de crédito podrán solicitar a la Comisión Nacional Bancaria y de Valores, que les autorice
 el cambio de nivel de operaciones previo cumplimiento de los requisitos a que se refieren los artículos 39
-y 43 del artículo Primero de este Decreto.
-Noveno.- Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el
+y 43 del artículo Primero de este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- Las uniones de crédito que a la entrada en vigor del presente Decreto no cumplan con el
 capital mínimo previsto en el artículo 18 del artículo Primero del presente Decreto para el nivel de
 operaciones I, contarán con un plazo de cinco años para integrar el capital mínimo referido.
 Transcurrido el plazo citado, las autorizaciones que haya otorgado la Comisión Nacional Bancaria y de
@@ -4137,8 +4151,15 @@ anterior, con los datos de la respectiva inscripción en el Registro Público de
 Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entrarán, por ministerio de
 ley, en estado de disolución y liquidación, sin necesidad de acuerdo de asamblea general de accionistas.
 La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas
-autorizaciones que conforme a este artículo queden sin efecto.
-Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
+autorizaciones que conforme a este artículo queden sin efecto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
 México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta
 Salgado, Presidenta.- Sen. Gabino Cué Monteagudo, Secretario.- Dip. Ma. Mercedes Maciel Ortiz,
 Secretaria.- Rúbricas."
@@ -4162,23 +4183,9 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en
 materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.
 Publicado en el Diario Oficial de la Federación el 10 de enero de 2014
 UNIONES DE CRÉDITO
-ARTÍCULO NOVENO. Se REFORMAN el inciso a) de la fracción IV del artículo 3o; el artículo 20; el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
-              <content>
-                <p>artículo 21; el tercer párrafo del artículo 22; las fracciones I a IV del artículo 23; el primer párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
-              <content>
-                <p>artículo 26; el artículo 30; el quinto párrafo del artículo 38; las fracciones I, VII y XXV y el cuarto párrafo
+ARTÍCULO NOVENO. Se REFORMAN el inciso a) de la fracción IV del artículo 3o; el artículo 20; el
+artículo 21; el tercer párrafo del artículo 22; las fracciones I a IV del artículo 23; el primer párrafo del
+artículo 26; el artículo 30; el quinto párrafo del artículo 38; las fracciones I, VII y XXV y el cuarto párrafo
 del artículo 40; el artículo 45; el segundo y tercer párrafos del artículo 78; los incisos c) y d) de la fracción
 II del primer párrafo del artículo 80; el primero y tercer párrafos del artículo 93; la fracción III y el segundo
 párrafo del artículo 97; el artículo 99; la fracción I del artículo 103; las fracciones I, inciso e) y III, inciso a)
@@ -4191,28 +4198,14 @@ II y la fracción III del artículo 47; un tercer párrafo, pasando los actuales
 a ser los párrafos cuarto, quinto y sexto del artículo 48; una fracción IV al artículo 49; un párrafo primero,
 pasando el actual primero a ser segundo, y los párrafos tercero y cuarto, al artículo 61; los párrafos
 primero a quinto, pasando los actuales párrafos primero a tercero, a ser los párrafos sexto, séptimo y
-octavo al artículo 62; un cuarto párrafo al artículo 78; un inciso e) a la fracción II del primer párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
-              <content>
-                <p>artículo 80; el artículo 98 Bis; un segundo párrafo a la fracción I del artículo 103; un inciso g) a la fracción
+octavo al artículo 62; un cuarto párrafo al artículo 78; un inciso e) a la fracción II del primer párrafo del
+artículo 80; el artículo 98 Bis; un segundo párrafo a la fracción I del artículo 103; un inciso g) a la fracción
 I, del artículo 104; un segundo párrafo al artículo 106; un segundo párrafo al inciso b) de la fracción III, y
 una fracción IV con sus incisos a) al f) al artículo 110; un Capítulo II Bis “De los programas de
 autocorrección” al Título Sexto que comprenderá de los artículos 119 Bis a 119 Bis 3; los numerales v y vi
 al tercer párrafo, los párrafos octavo, noveno y décimo, pasando los actuales párrafos octavo y noveno a
-ser los párrafos décimo primero y décimo segundo del artículo 129 y se DEROGAN el cuarto párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
-              <content>
-                <p>artículo 18 y el segundo párrafo del artículo 22 todos de la Ley de Uniones de Crédito, para quedar
+ser los párrafos décimo primero y décimo segundo del artículo 129 y se DEROGAN el cuarto párrafo del
+artículo 18 y el segundo párrafo del artículo 22 todos de la Ley de Uniones de Crédito, para quedar
 como sigue:
 ………
 Disposiciones Transitorias
@@ -4262,17 +4255,45 @@ Artículo Décimo Primero.- Se reforman los artículos 99; y 110, fracción I; y
 108, con los párrafos tercero y cuarto, recorriéndose el subsecuente, de la Ley de Uniones de Crédito,
 para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente
 Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento
-vigente al momento de su notificación al presunto infractor.
-Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se
+vigente al momento de su notificación al presunto infractor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se
 hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia,
 antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al
-procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
-Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de
+procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de
 entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las
 Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la
 misma fecha de entrada en vigor del presente Decreto.
@@ -4295,10 +4316,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Vigésimo Sexto.- Se reforma el quinto párrafo del artículo 108 de la Ley de Uniones de
 Crédito, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -4308,14 +4343,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1973-12-17/157/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1973-12-17/157/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -37,18 +37,18 @@
       </chapter>
       <chapter id="chapter-4">
         <num>CAPITULO IV Disposiciones Generales</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>ARTICULO 1.- Se crea la Universidad Autónoma Metropolitana, como organismo descentralizado del
 Estado, con personalidad jurídica y patrimonio propio.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>ARTICULO 2.- La Universidad Autónoma Metropolitana tendrá por objeto:
 I.- Impartir educación superior de licenciatura, maestría y doctorado, y cursos de actualización y
@@ -61,9 +61,9 @@ III.- Preservar y difundir la cultura.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>ARTICULO 3.- La Universidad a fin de realizar su objeto, tendrá facultades para:
 I.- Organizarse, de acuerdo con este ordenamiento, dentro de un régimen de desconcentración
@@ -84,9 +84,9 @@ equivalentes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>ARTICULO 4.- El patrimonio de la Universidad estará constituido por:
 I.- Los ingresos que obtenga por los servicios que preste;
@@ -95,9 +95,9 @@ III.- Los bienes, derechos y demás ingresos que adquiera por cualquier título 
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>ARTICULO 5.- Los ingresos de la Universidad y los bienes de su propiedad no estarán sujetos a
 impuestos o derechos federales, locales o municipales. Tampoco estarán gravados los actos y contratos
@@ -108,9 +108,9 @@ y de los privilegios que disfrutan las oficinas públicas en los servicios teleg
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>ARTICULO 6.- Serán órganos de la Universidad:
 I.- La Junta Directiva;
@@ -125,9 +125,9 @@ IX.- Los Jefes de Departamento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>ARTICULO 7.- La Junta Directiva estará integrada por nueve miembros que el Colegio Académico
 designará por mayoría de votos, tres de los cuales, cuando menos, deberán ser miembros del personal
@@ -135,9 +135,9 @@ académico de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>ARTICULO 8.- Para ser miembro de la Junta Directiva se requiere:
 2 de 9
@@ -152,9 +152,9 @@ IV.- Ser persona honorable y de reconocido prestigio y competencia profesional.<
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>ARTICULO 9.- El cargo de miembro de la Junta Directiva será honorario y quien lo desempeñe sólo
 podrá, dentro de la Universidad, realizar, además, tareas docentes o de investigación.
@@ -164,9 +164,9 @@ hasta que hayan transcurrido dos años de su separación de dicho cargo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- La Junta Directiva celebrará sesiones ordinarias y extraordinarias en la forma y
 términos que señale su reglamento. Cada sesión será presidida por uno de sus miembros, sucediéndose,
@@ -174,9 +174,9 @@ para este efecto, en orden alfabético de apellidos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- Corresponde a la Junta Directiva:
 I.- Nombrar al Rector General de la Universidad, resolver acerca de su renuncia y removerlo por
@@ -197,9 +197,9 @@ el voto aprobatorio de no menos de seis de los miembros de la Junta.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- El Colegio Académico estará integrado por:
 I.- El Rector General de la Universidad, quien lo presidirá;
@@ -219,9 +219,9 @@ voto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- Corresponde al Colegio Académico:
 I.- Establecer, a propuesta del Rector General de la Universidad, las unidades universitarias,
@@ -243,34 +243,27 @@ reglamentarias de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
-              <p>ARTICULO 14.- El Rector General de la Universidad deberá reunir los requisitos a que se refiere el</p>
+              <p>ARTICULO 14.- El Rector General de la Universidad deberá reunir los requisitos a que se refiere el
+artículo 8 de esta ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
-            <content>
-              <p>artículo 8 de esta ley.</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- El Rector General de la Universidad será el representante legal de la institución.
 Durará en su cargo cuatro años y no podrá ser reelecto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTICULO 16.- Son facultades y obligaciones del Rector General:
 I.- Presentar al Colegio Académico el proyecto de presupuesto anual de ingresos y egresos de la
@@ -292,27 +285,27 @@ Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTICULO 17.- El Rector General será sustituido en sus ausencias temporales por el Secretario
 General de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>ARTICULO 18.- La representación de la Universidad en asuntos judiciales corresponderá al Abogado
 General.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>ARTICULO 19.- El Patronato estará integrado por un Presidente, un Vicepresidente, un Secretario, un
 Tesorero y tres vocales.
@@ -321,9 +314,9 @@ ocho años y podrán ser reelectos. El cargo de miembro del Patronato será hono
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>ARTICULO 20.- Corresponde al Patronato:
 I.- Obtener los ingresos necesarios para el financiamiento de la Universidad;
@@ -344,9 +337,9 @@ reglamentarias de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>ARTICULO 21.- La Universidad estará integrada por unidades universitarias, a través de las cuales
 llevará a efecto su desconcentración funcional y administrativa. Las unidades universitarias resolverán
@@ -363,9 +356,9 @@ Cada división estará a cargo de un director y al frente de cada departamento h
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>ARTICULO 22.- En cada unidad universitaria habrá un Consejo Académico integrado por:
 I.- Un Rector, quien lo presidirá;
@@ -380,9 +373,9 @@ pero no voto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>ARTICULO 23.- Corresponde a los Consejos Académicos:
 I.- Dictaminar y armonizar los proyectos sobre planes y programas académicos que le propongan los
@@ -398,17 +391,17 @@ reglamentarias de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>ARTICULO 24.- Los rectores deberán reunir los requisitos a que se refiere el artículo 8 de esta ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>ARTICULO 25.- Los rectores serán los representantes de las respectivas unidades universitarias, sin
 perjuicio de la representación legal que se le otorga al Rector General en los términos del artículo 15 de
@@ -416,9 +409,9 @@ esta ley. Durarán en su cargo cuatro años y no podrán ser reelectos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>ARTICULO 26.- Son facultades y obligaciones de los rectores:
 I.- Nombrar a los secretarios de sus respectivas unidades universitarias, los cuales deberán reunir los
@@ -437,18 +430,18 @@ Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>ARTICULO 27.- Los rectores serán sustituidos en sus ausencias temporales por los secretarios de
 sus respectivas unidades universitarias.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>ARTICULO 28.- Por cada División funcionará un Consejo Divisional, que se integrará por:
 I.- El Director de la División, quien lo presidirá;
@@ -459,20 +452,13 @@ ser reelectos para el período inmediato.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>ARTICULO 29.- Corresponde a los Consejos Divisionales:
-I.- Formular los planes y programas académicos de la división para los efectos de la fracción I del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
-            <content>
-              <p>artículo 23 de esta ley;
+I.- Formular los planes y programas académicos de la división para los efectos de la fracción I del
+artículo 23 de esta ley;
 II.- Designar a los jefes de los departamentos que integren la división, de las ternas que les propongan
 los respectivos rectores;
 III.- Presentar al Consejo Académico respectivo el anteproyecto de presupuesto anual de ingresos y
@@ -486,9 +472,9 @@ reglamentarias de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>ARTICULO 30.- Los Directores de División y los Jefes de Departamento deberán reunir los requisitos
 a que se refiere el Artículo 8 de esta Ley, salvo el referente a la edad, la que podrá ser de más de 25 y
@@ -506,18 +492,18 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>ARTICULO 31.- Los representantes del personal académico y de los alumnos, miembros de los
 consejos académicos, no podrán serlo simultáneamente de los consejos divisionales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>ARTICULO 32.- Los nombramientos definitivos del personal académico deberán hacerse mediante
 oposición o por procedimientos igualmente idóneos para comprobar la capacidad de los candidatos. Para
@@ -527,9 +513,9 @@ No podrán hacerse designaciones de profesores interinos para un plazo mayor de 
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>ARTICULO 33.- El Rector General hará, en los términos de las normas y disposiciones
 reglamentarias, las designaciones o remociones del personal académico, técnico y administrativo que no
@@ -537,18 +523,18 @@ estén reservadas a otros órganos de la Universidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>ARTICULO 34.- Las asociaciones de alumnos serán independientes de los órganos de la Universidad
 y se organizarán democráticamente en la forma que los mismos estudiantes determinen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>ARTICULO 35.- Las relaciones de trabajo entre la Universidad Autónoma Metropolitana y sus
 trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del
@@ -556,9 +542,9 @@ apartado B) del artículo 123 constitucional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>ARTICULO 36.- Serán considerados trabajadores de confianza el Rector General, el Secretario
 General, el Abogado General, los rectores, los secretarios de las unidades universitarias, el Tesorero
@@ -566,29 +552,36 @@ General, el Contralor, los directores de división, los jefes de departamento, d
 generales, jefes y subjefes de departamento administrativo, supervisores, visitadores, inspectores,
 coordinadores, investigadores científicos, abogados, contadores, auditores, cajeros, pagadores,
 auxiliares de compras, almacenistas, intendentes, secretarios particulares y auxiliares, consultores y
-asesores técnicos y demás personal que tenga ese carácter, de conformidad con lo dispuesto por el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-5o">
-          <num>Artículo 5o</num>
-          <paragraph id="art-5o-para-1">
-            <content>
-              <p>artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B)
+asesores técnicos y demás personal que tenga ese carácter, de conformidad con lo dispuesto por el
+artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B)
 del artículo 123 constitucional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>ARTICULO 37.- El personal de la Universidad Autónoma Metropolitana quedará incorporado al
 régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-ARTICULOS TRANSITORIOS
-PRIMERO.- Esta ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario
-Oficial" de la Federación.
-SEGUNDO.- Para el establecimiento de la primera junta Directiva no se exigirá el requisito establecido
+ARTICULOS TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- Esta ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario
+Oficial" de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Para el establecimiento de la primera junta Directiva no se exigirá el requisito establecido
 en el artículo 7 de esta ley y se integrará por dos profesores o investigadores distinguidos que, por cada
 una de las respectivas instituciones, designen el Rector de la Universidad Nacional Autónoma de México,
 el Director General del Instituto Politécnico Nacional, el Presidente de El Colegio de México y el Director
@@ -601,19 +594,47 @@ creada la Universidad.
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA METROPOLITANA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nueva Ley DOF 17-12-1973
 Secretaría General
-Secretaría de Servicios Parlamentarios
-TERCERO.- Durante los dos primeros años de constituida la Junta Directiva, el Colegio Académico se
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Durante los dos primeros años de constituida la Junta Directiva, el Colegio Académico se
 abstendrá de hacer las designaciones a que se refiere la fracción V del artículo 13. A partir del tercer año
 el Colegio nombrará anualmente a un miembro que sustituirá al que ocupe el último lugar en el orden que
 la misma Junta fijará por insaculación, inmediatamente después de constituida.
 Una vez que haya sido sustituida la totalidad de los primeros componentes de la Junta Directiva, sus
-miembros serán reemplazados en la forma establecida en la fracción V del artículo 13 de esta ley.
-CUARTO.- Para la designación de los primeros rectores el Rector General de la Universidad formulará
-las ternas sin observar lo dispuesto en la fracción II del artículo 11 de esta ley.
-QUINTO.- Los primeros directores de división y jefes de departamento de cada unidad universitaria
+miembros serán reemplazados en la forma establecida en la fracción V del artículo 13 de esta ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Para la designación de los primeros rectores el Rector General de la Universidad formulará
+las ternas sin observar lo dispuesto en la fracción II del artículo 11 de esta ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- Los primeros directores de división y jefes de departamento de cada unidad universitaria
 serán designados por el Rector General de la Universidad, de las ternas de candidatos que le presenten
-los rectores.
-SEXTO.- Dentro de los dos primeros meses del ejercicio lectivo inicial, los profesores, los alumnos y
+los rectores.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- Dentro de los dos primeros meses del ejercicio lectivo inicial, los profesores, los alumnos y
 los trabajadores administrativos elegirán a sus representantes ante los órganos colegiados respectivos,
 los que podrán funcionar durante ese plazo aun cuando no se hayan integrado totalmente.
 México, D. F., a 13 de diciembre de 1973.- Vicente Juárez Carro, S. P.- Rafael Hernández Ochoa,

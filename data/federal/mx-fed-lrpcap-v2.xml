@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2011-01-27/lrpcap/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2011-01-27/lrpcap/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -96,18 +96,18 @@
         </chapter>
         <chapter id="chapter-17">
           <num>CAPÍTULO VII DE LOS TRÁMITES PREVISTOS EN LA LEY</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. Las disposiciones de esta Ley son de orden público y de observancia general en la
 República.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Para los efectos de esta Ley se entenderá por:
 I. Asilo Político: Protección que el Estado Mexicano otorga a un extranjero considerado perseguido por
@@ -172,25 +172,25 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 18-02-2022</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 18-02-2022</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 18-02-2022</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 18-02-2022</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Artículo reformado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. La presente Ley tiene por objeto regular el otorgamiento de asilo político, el
 reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como
@@ -200,13 +200,13 @@ y propiciar la interculturalidad.
 , 18-02-2022</p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Artículo reformado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. La Secretaría en la aplicación e interpretación de esta Ley deberá observar las
 disposiciones de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales
@@ -215,9 +215,9 @@ de otras autoridades de conformidad con las disposiciones antes referidas y dem�
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. En aplicación de esta Ley se observarán, entre otros, los siguientes principios y criterios:
 I. No devolución;
@@ -229,9 +229,9 @@ VI. Confidencialidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. Ningún solicitante o refugiado podrá en modo alguno ser rechazado en frontera o devuelto
 de cualquier forma al territorio de otro país donde su vida peligre por los motivos señalados en el artículo
@@ -245,13 +245,13 @@ además del principio de la no devolución se garantizará el derecho a la unida
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Párrafo adicionado DOF 11-11-2020</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. No se impondrá sanción alguna por motivo de su ingreso irregular al país, al refugiado o al
 extranjero que se le otorgue protección complementaria.
@@ -267,9 +267,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. La Secretaría, sin perjuicio de las obligaciones que les correspondan a otras autoridades y
 en coordinación con las mismas, adoptará las medidas que estén a su alcance para que los solicitantes,
@@ -282,9 +282,9 @@ organizaciones de la sociedad civil especializadas en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. En el reconocimiento de la condición de refugiado deberá protegerse la organización y el
 desarrollo de la familia, así como el interés superior del niño, conforme a lo establecido en la Ley General
@@ -292,13 +292,13 @@ de los Derechos de Niñas, Niños y Adolescentes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Artículo reformado DOF 11-11-2020</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. La información aportada por los solicitantes, refugiados, y quienes reciban protección
 complementaria, será tratada con la más estricta confidencialidad, con base en lo establecido por la Ley
@@ -309,9 +309,9 @@ manejada con la misma confidencialidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Todo extranjero que se encuentre en territorio nacional tiene derecho a solicitar, por sí,
 por su representante legal o por interpósita persona, el reconocimiento de la condición de refugiado. Si el
@@ -324,9 +324,9 @@ y su reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. La Secretaría reconocerá la condición de refugiado, mediante un acto declarativo, a los
 extranjeros que se encuentren en cualquiera de los supuestos establecidos en el artículo 13 de esta Ley,
@@ -340,9 +340,9 @@ evidencia, incluyendo la declaración del solicitante.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. La condición de refugiado se reconocerá a todo extranjero que se encuentre en territorio
 nacional, bajo alguno de los siguientes supuestos:
@@ -368,9 +368,9 @@ que hayan perturbado gravemente el orden público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Los refugiados reconocidos bajo los supuestos de la fracción III del artículo 13 de esta
 Ley, que previo a su reconocimiento hayan generado derechos de residencia, podrán optar por mantener
@@ -427,9 +427,9 @@ V. Atender a los asilados con pleno respeto a sus derechos humanos.
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. En materia de refugiados, le compete a la Secretaría lo siguiente:
 I. Efectuar el reconocimiento de la condición de refugiado a los extranjeros que, encontrándose en
@@ -470,13 +470,13 @@ XV. Las demás atribuciones que le confieran el reglamento de esta Ley y demás 
 aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción reformada DOF 18-02-2022</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. En materia de protección complementaria, le compete a la Secretaría lo siguiente:
 I. Otorgar la protección complementaria a los extranjeros que se encuentren en los supuestos
@@ -492,9 +492,9 @@ sus derechos humanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Para el cumplimiento de sus atribuciones la Secretaría podrá:
 I. Promover la participación de organismos nacionales e internacionales, que se hayan destacado por
@@ -505,9 +505,9 @@ perjuicio de las atribuciones que correspondan a otras autoridades en la materia
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. El extranjero que solicite ser reconocido como refugiado deberá presentar por escrito su
 solicitud ante la Secretaría dentro del término de 30 días hábiles contados a partir del día hábil siguiente
@@ -530,9 +530,9 @@ El procedimiento para el reconocimiento de la condición de refugiado será grat
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. El solicitante tendrá derecho a recibir información clara, oportuna y gratuita sobre el
 procedimiento de reconocimiento de la condición de refugiado y sobre los derechos inherentes al mismo,
@@ -540,9 +540,9 @@ así como los recursos que esta Ley y otras le concedan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. Durante el procedimiento, la Secretaría tomará las medidas necesarias para garantizar el
 otorgamiento de asistencia institucional a los solicitantes que requieran atención especial, así como
@@ -561,13 +561,13 @@ Derechos de Niñas, Niños y Adolescentes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Párrafo reformado DOF 11-11-2020</p>
             </note>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Cuando un extranjero que se encuentre en alguno de los lugares destinados al tránsito
 internacional de personas, o sujeto a un procedimiento administrativo migratorio, sin importar la etapa de
@@ -591,22 +591,22 @@ conformidad con las disposiciones aplicables. En todo momento las entrevistas se
 manera personal con el solicitante, pudiendo estar acompañado por su representante legal.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Párrafo reformado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. La Secretaría expedirá a cada solicitante y a sus dependientes una constancia de trámite
 respecto de la solicitud de reconocimiento de la condición de refugiado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. El solicitante deberá aportar sus datos de identificación completos y verídicos, los
 motivos en los cuales basa su solicitud, así como todos los elementos de los que disponga para
@@ -629,13 +629,13 @@ requieran para facilitar la comunicación con el solicitante, mismos que en todo
 preservar la confidencialidad de la información.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Párrafo reformado DOF 11-11-2020</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. La Secretaría analizará y evaluará todas las solicitudes de reconocimiento de la
 condición de refugiado y deberá emitir, en cada caso, resolución escrita, fundada y motivada, dentro de
@@ -657,9 +657,9 @@ Secretaría el adecuado desarrollo del procedimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. La resolución deberá ser notificada por escrito al solicitante. La Secretaría al momento de
 realizar las notificaciones procurará que el solicitante comprenda el sentido de la resolución.
@@ -672,13 +672,13 @@ de defensa que estime pertinentes, de conformidad con las disposiciones aplicabl
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Párrafo reformado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. El reconocimiento de la condición de refugiado es individual.
 9 de 23
@@ -695,9 +695,9 @@ a la Secretaría, procederá a la determinación individual de la condición de 
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. No será reconocida la condición de refugiado al extranjero respecto del cual, una vez
 analizada su solicitud, existan motivos fundados para considerar que se encuentra en alguno de los
@@ -713,9 +713,9 @@ conforme a la legislación nacional y a la del país de origen o del país donde
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La Secretaría podrá otorgar protección complementaria al extranjero que, no
 encontrándose dentro de los supuestos del artículo 13 de esta Ley, requiera protección para no ser
@@ -730,9 +730,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Cuando la Secretaría determine que un solicitante no reúne los requisitos para ser
 reconocido como refugiado, deberá, en cada caso, evaluar si el extranjero requiere protección
@@ -740,18 +740,18 @@ complementaria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La evaluación de protección complementaria deberá ser notificada al extranjero en la
 misma resolución recaída en el procedimiento de reconocimiento de la condición de refugiado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Si la Secretaría determina que un extranjero requiere protección complementaria,
 expedirá el documento migratorio correspondiente que acredite su situación migratoria regular en el país
@@ -765,13 +765,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Artículo reformado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. La Secretaría podrá retirar la protección complementaria otorgada solamente en los
 siguientes casos:
@@ -781,9 +781,9 @@ complementaria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. La Secretaría cesará el reconocimiento de la condición de refugiado al que:
 I. Se ha acogido voluntariamente a la protección del país de su nacionalidad;
@@ -802,9 +802,9 @@ de los motivos contemplados en el artículo 13 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. La Secretaría revocará el reconocimiento de la condición de refugiado cuando, con
 posterioridad a su reconocimiento, un refugiado realice conductas contempladas en las fracciones I y III
@@ -812,9 +812,9 @@ del artículo 27 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. La Secretaría cancelará el reconocimiento de la condición de refugiado, cuando tenga en
 su poder pruebas fehacientes que demuestren que el solicitante ocultó o falseó los hechos declarados
@@ -849,9 +849,9 @@ reglamento.
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Corresponde a la Secretaría cesar, cancelar o revocar el reconocimiento de la condición
 de refugiado. Para lo anterior, la Secretaría deberá emitir resolución fundada y motivada con respecto a
@@ -872,18 +872,18 @@ refugiado serán gratuitos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. La resolución deberá ser notificada por escrito al extranjero. La Secretaría al momento de
 realizar las notificaciones procurará que el extranjero comprenda el sentido de la resolución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Durante la substanciación de un procedimiento de cesación, revocación o cancelación, la
 Secretaría deberá informar a los extranjeros que gozan de la condición derivada de refugiado
@@ -905,13 +905,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Párrafo reformado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Articulo 39. En contra de la resolución procederá el recurso de revisión, mismo que deberá ser
 presentado dentro de los 15 días hábiles siguientes contados a partir de la notificación respectiva. De
@@ -920,9 +920,9 @@ con las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. El refugiado que se encuentre sujeto a un procedimiento de cesación, revocación o
 cancelación del reconocimiento de la condición de refugiado, tendrá entre otros, derecho a:
@@ -936,9 +936,9 @@ mismos que en todo momento deberán de preservar la confidencialidad de la infor
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. La Secretaría tomará las medidas necesarias para garantizar los derechos de los
 refugiados sujetos a un procedimiento de cesación, revocación o cancelación, que requieran atención
@@ -951,13 +951,13 @@ Adolescentes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-41" placement="bottom">
+            <note placementBase="#art-41." placement="bottom">
               <p>Párrafo reformado DOF 11-11-2020</p>
             </note>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. La Secretaría, tomando en consideración el contexto social y cultural de donde provenga
 el refugiado, así como su edad, género y otras circunstancias particulares, lo entrevistará de manera
@@ -966,9 +966,9 @@ revocación o cancelación del reconocimiento de la condición de refugiado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Al extranjero al que le sea cesado el reconocimiento de la condición de refugiado, no
 podrá, bajo ninguna circunstancia, realizar nueva solicitud con base en los mismos hechos y argumentos
@@ -978,9 +978,9 @@ mismos hechos y argumentos por los que fue reconocido o gozar de la condición d
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. En virtud de las condiciones que presentan los refugiados al salir de su país de origen
 respecto de los demás extranjeros, deberán recibir las mayores facilidades posibles para el acceso a los
@@ -1004,13 +1004,13 @@ estancia como residente permanente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-44" placement="bottom">
+            <note placementBase="#art-44." placement="bottom">
               <p>Fracción reformada DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Los extranjeros a los que hace referencia el presente ordenamiento tienen la obligación
 de respetar la Constitución Política de los Estados Unidos Mexicanos, las leyes y reglamentos, así como
@@ -1018,9 +1018,9 @@ las medidas adoptadas para mantener el orden público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. La Secretaría podrá autorizar a un extranjero reconocido como refugiado en otro país,
 que no gozaba de protección efectiva, su internación como refugiado al territorio nacional, de
@@ -1028,9 +1028,9 @@ conformidad con lo establecido en el reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Cuando un extranjero reconocido como refugiado en un tercer país, se interne en
 contravención a las disposiciones de ingreso al territorio nacional, la Secretaría, teniendo en cuenta el
@@ -1048,9 +1048,9 @@ seguridad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. A los refugiados y aquellos extranjeros que se les otorgue protección complementaria se
 les concederá la residencia permanente en los Estados Unidos Mexicanos.
@@ -1062,30 +1062,23 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Los refugiados y aquellos extranjeros que requieren protección complementaria de
 conformidad con los Tratados Internacionales de observancia obligatoria en México y demás
 ordenamientos aplicables, podrán residir en cualquier lugar de la República Mexicana debiendo informar
 a la Secretaría sus cambios de residencia, de conformidad con lo establecido en el reglamento.
 La Secretaría podrá determinar el lugar de residencia de solicitantes, refugiados o extranjeros que
-requieran o reciban protección complementaria, solamente cuando se emitan lineamientos conforme al</p>
+requieran o reciban protección complementaria, solamente cuando se emitan lineamientos conforme al
+artículo 26 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
-              <content>
-                <p>artículo 26 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Los refugiados y aquellos extranjeros que requieran protección complementaria de
 conformidad con los Tratados Internacionales de observancia obligatoria en México y demás
@@ -1093,9 +1086,9 @@ ordenamientos aplicables, estarán exentos del pago de derechos por concepto de 
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Cuando un refugiado o un extranjero que reciba protección complementaria, pretendan
 viajar a su país de origen, deberá de hacerlo del conocimiento de la Secretaría. La información que
@@ -1105,9 +1098,9 @@ protección complementaria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. Si hay razones fundadas para considerar que el solicitante, refugiado, o extranjero que
 reciba protección complementaria, pone en riesgo la seguridad nacional, o bien, si habiendo sido objeto
@@ -1116,9 +1109,9 @@ podrá ser expulsado o devuelto a otro país.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. En caso de presentarse una solicitud de extradición de un extranjero que hubiese
 solicitado el reconocimiento de la condición de refugiado o de un refugiado, la Secretaría de Relaciones
@@ -1140,9 +1133,9 @@ de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. La Secretaría, en el ámbito de sus atribuciones, adoptará las medidas necesarias para
 brindar asistencia institucional a los refugiados, así como auxiliarlos con el objeto de facilitar su inclusión
@@ -1159,13 +1152,13 @@ cualquier otra persona que pudiese encontrarse en estado de vulnerabilidad.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Artículo reformado DOF 18-02-2022</p>
             </note>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. La Secretaría podrá establecer convenios de coordinación con dependencias y entidades
 federales y locales, para que los solicitantes que se encuentren en estado de particular vulnerabilidad y
@@ -1175,9 +1168,9 @@ instituciones que puedan otorgar atención directa a solicitantes y refugiados.<
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. La Secretaría promoverá que las dependencias y entidades federales, estatales,
 municipales, del Distrito Federal y sus Delegaciones, así como las instituciones que otorguen apoyos a
@@ -1187,9 +1180,9 @@ jurídicas que resulten aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. Cuando para el ejercicio de sus derechos y obligaciones el refugiado requiera de los
 servicios consulares de su país de origen para la obtención de documentos, certificación o acreditación
@@ -1200,9 +1193,9 @@ legalización de documentos de conformidad con las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Para efectos de la reunificación familiar, la Secretaría podrá autorizar, por derivación de
 la condición de refugiado, la internación a territorio nacional del cónyuge, concubinario, concubina, hijos,
@@ -1212,9 +1205,9 @@ económica para su manutención.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. La Secretaría, sin perjuicio de las obligaciones que les corresponda a otras autoridades y
 en coordinación con las mismas, adoptará las medidas que estén a su alcance para que los asilados no
@@ -1225,13 +1218,13 @@ ejercicio de sus derechos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-59" placement="bottom">
+            <note placementBase="#art-59." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. La información aportada por los solicitantes de asilo político y asilados será tratada con la
 más estricta confidencialidad, en términos de lo establecido por la Ley Federal de Transparencia y
@@ -1247,13 +1240,13 @@ información, ésta deberá ser tratada de manera confidencial, en términos de 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-60" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Todo extranjero que encuentre en peligro su vida, su libertad o seguridad por ideas o
 actividades políticas directamente relacionadas con su perfil público, y carezca de la protección de su
@@ -1262,13 +1255,13 @@ delegaciones localizadas fuera del Distrito Federal o la Representación, según
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. La Secretaría de Relaciones Exteriores podrá hacer extensivo, por derivación el
 otorgamiento de asilo político al cónyuge, concubinario, concubina, sus hijos y los de su cónyuge,
@@ -1278,13 +1271,13 @@ Secretaría.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-62" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. El solicitante de asilo político deberá presentarse físicamente en la Representación, en la
 sede de la Secretaría de Relaciones Exteriores o en sus delegaciones localizadas fuera del Distrito
@@ -1296,26 +1289,26 @@ verbalmente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. El solicitante de asilo político recibirá información clara, oportuna y gratuita sobre el
 procedimiento de otorgamiento de asilo político, así como sobre sus derechos y obligaciones.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Las Representaciones solo recibirán solicitudes de asilo político de los nacionales de
 aquellos países ante los que se encuentren acreditadas.
@@ -1323,13 +1316,13 @@ Las Representaciones deberán remitir las solicitudes a la Secretaría de Relaci
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Durante el procedimiento, la Secretaría de Relaciones Exteriores o la Representación de
 considerarlo pertinente, tomará las medidas a su alcance para proveer protección a los solicitantes de
@@ -1337,13 +1330,13 @@ asilo político.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. La Representación podrá entrevistar al solicitante hasta en dos ocasiones, a fin de
 recabar elementos suficientes para el análisis de la solicitud. Asimismo recabará la mayor información
@@ -1356,26 +1349,26 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-67" placement="bottom">
+            <note placementBase="#art-67." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. Corresponde a la Secretaría de Relaciones Exteriores la decisión de conceder o no el
 asilo político, previa opinión de la Secretaría.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. La decisión sobre el otorgamiento o no del asilo político será comunicada al solicitante
 del mismo; el reglamento de esta Ley establecerá el plazo para tales efectos.
@@ -1388,13 +1381,13 @@ Migración.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. En caso de que un extranjero se presente en un lugar destinado en México al tránsito
 internacional de personas y solicite se le conceda asilo político, la Secretaría determinará si la solicitud
@@ -1404,13 +1397,13 @@ datos que lo identifiquen, así como las razones que exponga para sustentar su s
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-70" placement="bottom">
+            <note placementBase="#art-70." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. La Secretaría de Relaciones Exteriores podrá retirar el otorgamiento de asilo político en
 los siguientes casos:
@@ -1424,13 +1417,13 @@ IV. Cuando desaparezcan las circunstancias que motivaron su otorgamiento.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. Los asilados podrán renunciar en cualquier momento a la protección que les fue
 otorgada, para lo cual será necesario dar aviso por escrito a la Secretaría de Relaciones Exteriores, la
@@ -1448,26 +1441,26 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-72" placement="bottom">
+            <note placementBase="#art-72." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Al solicitante de asilo político se le concederá la condición de estancia de conformidad
 con lo establecido en la Ley de Migración.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. En caso de presentarse una solicitud de extradición de un asilado, la Secretaría de
 Relaciones Exteriores incluirá la condición de asilado como un elemento al considerar la solicitud de
@@ -1475,13 +1468,13 @@ extradición.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. La Secretaría, en el ámbito de sus atribuciones y en coordinación con la Secretaría de
 Relaciones Exteriores, adoptará las medidas necesarias para brindar asistencia institucional a los
@@ -1489,29 +1482,63 @@ asilados, en los mismos términos que lo establecido en los artículos 54, 55, 5
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Artículo adicionado DOF 30-10-2014</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. El detalle de los procedimientos, plazos, requisitos y criterios de los trámites relacionados
 con la solicitud de otorgamiento de asilo político, el reconocimiento de la condición de refugiado y de
 protección complementaria, se sujetará a lo establecido en el reglamento de la presente Ley.
 
-TRANSITORIOS
-PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO. Los procedimientos de solicitantes y refugiados que hayan sido iniciados conforme a lo
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-76." placement="bottom">
+              <p>Artículo adicionado DOF 30-10-2014</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Los procedimientos de solicitantes y refugiados que hayan sido iniciados conforme a lo
 previsto en la Ley General de Población y su reglamento, y que se encuentren pendientes de resolución
-podrán substanciarse conforme a lo dispuesto por la presente Ley y su reglamento.
-TERCERO. Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán
+podrán substanciarse conforme a lo dispuesto por la presente Ley y su reglamento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Los refugiados reconocidos anteriormente a la entrada en vigor de la presente Ley podrán
 solicitar que se les expida el documento migratorio que acredite su condición de legal estancia en el país
 como residente permanente.
-
-CUARTO. Las secretarías de Gobernación, Educación Pública, Trabajo y Previsión Social, Salud,
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-3" placement="bottom">
+              <p>Artículo reformado DOF 30-10-2014</p>
+            </note>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. Las secretarías de Gobernación, Educación Pública, Trabajo y Previsión Social, Salud,
 Relaciones Exteriores y la Procuraduría General de la República realizarán las acciones necesarias para
 que la implementación del presente Decreto se realice, en su caso, con los recursos aprobados a las
 mismas, para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales
@@ -1520,8 +1547,15 @@ efectos y no incrementarán sus presupuestos regularizables.
 LEY SOBRE REFUGIADOS, PROTECCIÓN COMPLEMENTARIA Y ASILO POLÍTICO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 18-02-2022
 Secretaría General
-Secretaría de Servicios Parlamentarios
-QUINTO. El Ejecutivo a través de la Secretaría de Gobernación, contará con un plazo de 180 días
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. El Ejecutivo a través de la Secretaría de Gobernación, contará con un plazo de 180 días
 naturales para la publicación del reglamento de la presente Ley, en el Diario Oficial de la Federación.
 Artículo Segundo.- ………
 Transitorio
@@ -1555,18 +1589,46 @@ enero de 2011 y se adicionan los artículos 14 Bis; 14 Ter; 35 Bis; un Título S
 Asilo; los artículos 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75 y 76 a la Ley sobre
 Refugiados y Protección Complementaria, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Los asilados reconocidos anteriormente a la entrada en vigor del presente Decreto podrán
 solicitar que se les expida el documento migratorio, que acredite su condición de estancia en el país de
-conformidad con lo establecido en la Ley de Migración.
-Tercero. La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las
+conformidad con lo establecido en la Ley de Migración.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. La Secretaría de Gobernación y la Secretaría de Relaciones Exteriores realizarán las
 acciones necesarias para que la implementación de las presentes modificaciones se lleven a cabo con
 los recursos aprobados en su presupuesto, por lo que no requerirán recursos adicionales para tales
 efectos y no incrementarán su presupuesto regularizable para el presente ejercicio fiscal y los
-subsecuentes.
-Cuarto. Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la
+subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Se deberá establecer en los reglamentos respectivos el procedimiento por medio del cual la
 Comisión Mexicana de Ayuda a Refugiados atenderá y desahogará los casos a los que hacen referencia
 los artículos 35 Bis y 70 de la presente Ley.
 México, D.F., a 25 de septiembre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano
@@ -1590,12 +1652,33 @@ Artículo Segundo.- Se adiciona un tercer párrafo al artículo 6; se reforman e
 párrafo del artículo 20; el segundo párrafo del artículo 23, y el segundo párrafo del artículo 41, de la Ley
 sobre Refugiados, Protección Complementaria y Asilo Político, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la
-Federación.
-Segundo. El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este
-Decreto, expedirá las reformas reglamentarias correspondientes.
-Tercero. El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor a los 60 días de su publicación en el Diario Oficial de la
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. El Ejecutivo Federal, a más tardar dentro de seis meses a partir de la publicación de este
+Decreto, expedirá las reformas reglamentarias correspondientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El Congreso de la Unión deberá destinar los recursos necesarios para la operación de los
 Centros de Asistencia Social, así como para el funcionamiento de las Procuradurías de Protección, de
 conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento. Las
 partidas presupuéstales deberán señalarse en el presupuesto inmediato siguiente a la entrada en vigor
@@ -1634,12 +1717,6 @@ Hernández.- Rúbrica.
 23 de 23</p>
               </content>
             </paragraph>
-            <note placementBase="#art-76" placement="bottom">
-              <p>Artículo adicionado DOF 30-10-2014</p>
-            </note>
-            <note placementBase="#art-76" placement="bottom">
-              <p>Artículo reformado DOF 30-10-2014</p>
-            </note>
           </article>
         </chapter>
       </title>

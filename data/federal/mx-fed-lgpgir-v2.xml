@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2003-10-08/lgpgir/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2003-10-08/lgpgir/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -90,9 +90,9 @@
         </chapter>
         <chapter id="chapter-15">
           <num>CAPÍTULO IV RECURSO DE REVISIÓN Y DENUNCIA POPULAR</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley es reglamentaria de las disposiciones de la Constitución Política de los
 Estados Unidos Mexicanos que se refieren a la protección al ambiente en materia de prevención y
@@ -152,19 +152,19 @@ para la imposición de las sanciones que corresponda.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Párrafo reformado DOF 05-11-2013</p>
             </note>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Fracción reformada DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Fracción reformada DOF 22-05-2006</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- En la formulación y conducción de la política en materia de prevención, valorización y
 gestión integral de los residuos a que se refiere esta Ley, la expedición de disposiciones jurídicas y la
@@ -206,9 +206,9 @@ en otras leyes relacionadas con la materia que regula este ordenamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- Se consideran de utilidad pública:
 I. Las medidas necesarias para evitar el deterioro o la destrucción que los elementos naturales
@@ -229,18 +229,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Se exceptúan de la aplicación de esta Ley los residuos radiactivos, los que estarán
 sujetos a los ordenamientos específicos que resulten aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- Para los efectos de esta Ley se entiende por:
 I. Agente Infeccioso: Microorganismo capaz de causar una enfermedad si se reúnen las
@@ -443,19 +443,19 @@ intrínsecas, sean capaces de provocar daños al ambiente.
 Fracción recorrida DOF 18-01-2021</p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 18-01-2021</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- La Federación, las entidades federativas y los municipios, ejercerán sus atribuciones en
 materia de prevención de la generación, aprovechamiento, gestión integral de los residuos, de prevención
@@ -464,9 +464,9 @@ prevista en esta Ley y en otros ordenamientos legales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- Son facultades de la Federación:
 I. Formular, conducir y evaluar la política nacional en materia de residuos así como elaborar el
@@ -607,31 +607,31 @@ aplicables.
 Fracción recorrida DOF 21-05-2013</p>
               </content>
             </paragraph>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción reformada DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción reformada DOF 07-01-2021</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción adicionada DOF 21-05-2013</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción reformada DOF 22-05-2006</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción adicionada DOF 21-05-2013</p>
             </note>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Fracción adicionada DOF 21-05-2013</p>
             </note>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- Las atribuciones que esta Ley confiere a la Federación, serán ejercidas por el Ejecutivo
 Federal, a través de la Secretaría, salvo las que directamente correspondan al Presidente de la República
@@ -647,9 +647,9 @@ jurídicas que se deriven del presente ordenamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- Son facultades de las Entidades Federativas:
 I. Formular, conducir y evaluar la política estatal, así como elaborar de manera coordinada con
@@ -763,31 +763,31 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 21-05-2013</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 07-01-2021</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción adicionada DOF 07-01-2021</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- Los municipios tienen a su cargo las funciones de manejo integral de residuos sólidos
 urbanos, que consisten en la recolección, traslado, tratamiento, y su disposición final, conforme a las
@@ -830,16 +830,16 @@ jurídicos que resulten aplicables.
 Fracción recorrida DOF 21-05-2013</p>
               </content>
             </paragraph>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 07-01-2021</p>
             </note>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción adicionada DOF 21-05-2013</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- Corresponde al Gobierno de la Ciudad de México, ejercer las facultades y obligaciones
 que este ordenamiento confiere a las entidades federativas y a los municipios.
@@ -851,13 +851,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Artículo reformado DOF 19-01-2018</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- La Federación, por conducto de la Secretaría, podrá suscribir con los gobiernos de las
 entidades federativas convenios o acuerdos de coordinación, con el propósito de asumir las siguientes
@@ -872,13 +872,13 @@ IV. La imposición de las sanciones aplicables, relacionadas con los actos a los
 artículo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Los convenios o acuerdos que suscriba la Federación con las entidades federativas, con
 la participación, en su caso, de sus municipios, para el cumplimiento de los fines a que se refiere el
@@ -890,9 +890,9 @@ surtan sus efectos jurídicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Los gobiernos de las entidades federativas podrán suscribir entre sí y con los municipios
 que corresponda, acuerdos de coordinación, a efecto de que participen en la realización de las funciones
@@ -900,9 +900,9 @@ señaladas en el artículo 12 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- La Secretaría agrupará y subclasificará los residuos peligrosos, sólidos urbanos y de
 manejo especial en categorías, con el propósito de elaborar los inventarios correspondientes, y orientar la
@@ -930,9 +930,9 @@ salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de 
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- La clasificación de un residuo como peligroso, minero o metalúrgico, se debe establecer
 en las normas oficiales mexicanas que especifiquen la forma de determinar sus características, que
@@ -941,13 +941,13 @@ ellos, con base en los conocimientos científicos y las evidencias acerca de su 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Artículo reformado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- Los residuos mineros provenientes del minado y tratamiento de minerales tales como
 jales, residuos de los patios de lixiviación abandonados, así como los metalúrgicos provenientes de los
@@ -969,13 +969,13 @@ responsabilidad.
 , 07-06-2013, 08-05-2023</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Artículo reformado DOF 19-06-2007</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánicos con
 objeto de facilitar su separación primaria y secundaria, de conformidad con los Programas Estatales y
@@ -984,9 +984,9 @@ legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- Los residuos de manejo especial se clasifican como se indica a continuación, salvo
 cuando se trate de residuos considerados como peligrosos en esta Ley y en las normas oficiales
@@ -1025,19 +1025,19 @@ que así lo convengan para facilitar su gestión integral.
 Fracción recorrida DOF 19-03-2014, 04-06-2014</p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción adicionada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción adicionada DOF 04-06-2014</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- La clasificación de los residuos sólidos urbanos y de manejo especial, sujetos a planes
 de manejo se llevará a cabo de conformidad con los criterios que se establezcan en las normas oficiales
@@ -1049,9 +1049,9 @@ deban agregarse a los listados a los que hace referencia el párrafo anterior.</
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Con objeto de prevenir y reducir los riesgos a la salud y al ambiente, asociados a la
 generación y manejo integral de residuos peligrosos, se deberán considerar cuando menos alguno de los
@@ -1074,9 +1074,9 @@ VII. La vulnerabilidad de los seres humanos y demás organismos vivos que se exp
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- Las personas que generen o manejen residuos y que requieran determinar si éstos son
 peligrosos, conforme a lo previsto en este ordenamiento, deberán remitirse a lo que establezcan las
@@ -1084,9 +1084,9 @@ normas oficiales mexicanas que los clasifican como tales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- Las disposiciones del presente Título no serán aplicables a los residuos peligrosos que
 se generen en los hogares en cantidades iguales o menores a las que generan los microgeneradores, al
@@ -1101,9 +1101,9 @@ precepto, la manera de llevar a cabo un manejo integral de éstos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- En el caso de la generación de residuos peligrosos considerados como infecciosos, la
 Secretaría, conjuntamente con la Secretaría de Salud, emitirá las normas oficiales mexicanas mediante
@@ -1111,9 +1111,9 @@ las cuales se regule su manejo y disposición final.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- La Secretaría deberá formular e instrumentar el Programa Nacional para la Prevención y
 Gestión Integral de los Residuos, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión
@@ -1127,13 +1127,13 @@ composición de los residuos, así como la infraestructura para manejarlos integ
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Artículo reformado DOF 21-05-2013</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- Las entidades federativas y los municipios, en el ámbito de sus respectivas
 competencias y en coordinación con la Federación, deberán elaborar e instrumentar los programas
@@ -1158,13 +1158,13 @@ fin de crear sinergias, y
 VI. La asistencia técnica que en su caso brinde la Secretaría.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo reformado DOF 19-03-2014</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Los planes de manejo se establecerán para los siguientes fines y objetivos:
 I. Promover la prevención de la generación y la valorización de los residuos así como su manejo
@@ -1187,19 +1187,19 @@ a la salud, mediante propuestas ambientales, tecnológicas, económicas y social
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Fracción reformada DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Fracción reformada DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Fracción adicionada DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Estarán obligados a la formulación y ejecución de los planes de manejo, según
 corresponda:
@@ -1228,22 +1228,22 @@ mexicana correspondiente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Fracción reformada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Fracción adicionada DOF 19-03-2014</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Artículo reformado DOF 21-05-2013</p>
             </note>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- Los planes de manejo aplicables a productos de consumo que al desecharse se
 convierten en residuos peligrosos, deberán considerar, entre otros, los siguientes aspectos:
@@ -1262,9 +1262,9 @@ comercialización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- La determinación de residuos que podrán sujetarse a planes de manejo se llevará a
 cabo con base en los criterios siguientes y los que establezcan las normas oficiales mexicanas:
@@ -1282,9 +1282,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- Estarán sujetos a un plan de manejo los siguientes residuos peligrosos y los productos
 usados, caducos, retirados del comercio o que se desechen y que estén clasificados como tales en la
@@ -1315,9 +1315,9 @@ mexicana que establece las bases para su clasificación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Los elementos y procedimientos que se deben considerar al formular los planes de
 manejo, se especificarán en las normas oficiales mexicanas correspondientes, y estarán basados en los
@@ -1325,9 +1325,9 @@ principios que señala la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- Las empresas o establecimientos responsables de los planes de manejo deben
 presentar, para su registro a la Secretaría, los relativos a los residuos peligrosos, a los residuos mineros y
@@ -1345,13 +1345,13 @@ En caso de que los planes de manejo planteen formas de manejo contrarias a esta 
 normatividad aplicable, el plan de manejo no deberá aplicarse.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Párrafo reformado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Los sistemas de manejo ambiental que formulen y ejecuten las dependencias federales,
 las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, se sujetarán a
@@ -1359,9 +1359,9 @@ lo que se establece en la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- El Gobierno Federal, los gobiernos de las entidades federativas y los municipios, en la
 esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la
@@ -1387,13 +1387,13 @@ VII. Concertarán acciones e inversiones con los sectores social y privado, inst
 grupos y organizaciones sociales y demás personas físicas y morales interesadas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Fracción reformada DOF 05-12-2014</p>
             </note>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- El Gobierno Federal, los gobiernos de las entidades federativas y los municipios,
 integrarán órganos de consulta en los que participen entidades y dependencias de la administración
@@ -1404,9 +1404,9 @@ funcionamiento, se sujetarán a las disposiciones que para tal efecto se expidan
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Las autoridades de los tres órdenes de gobierno, en el ámbito de sus respectivas
 competencias, integrarán el Sistema de Información sobre la Gestión Integral de Residuos, que
@@ -1418,9 +1418,9 @@ y de Acceso a la Información Pública y demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Las autoridades de los tres órdenes de gobierno elaborarán y difundirán, anualmente,
 informes sobre los aspectos relevantes contenidos en los sistemas de información a los que se hace
@@ -1428,13 +1428,13 @@ referencia en el presente capítulo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Artículo reformado DOF 05-12-2014</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Los tres órdenes de gobierno deben elaborar, actualizar y difundir los inventarios de
 generación de residuos peligrosos, residuos mineros, residuos metalúrgicos, residuos sólidos urbanos y
@@ -1451,13 +1451,13 @@ se sustentará en criterios, métodos y sistemas informáticos, previamente acor
 difundidos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-39" placement="bottom">
+            <note placementBase="#art-39." placement="bottom">
               <p>Párrafo reformado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Los residuos peligrosos, mineros y metalúrgicos deben ser manejados conforme a lo
 dispuesto en la presente Ley, su Reglamento, las normas oficiales mexicanas y las demás disposiciones
@@ -1467,13 +1467,13 @@ En las actividades en las que se generen o manejen residuos peligrosos, se deber
 principios previstos en el artículo 2 de este ordenamiento, en lo que resulten aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo reformado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Los generadores de residuos peligrosos, mineros y metalúrgicos, así como los gestores
 de este tipo de residuos, deben manejarlos de manera segura y ambientalmente adecuada conforme a
@@ -1481,13 +1481,13 @@ los términos señalados en esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-41" placement="bottom">
+            <note placementBase="#art-41." placement="bottom">
               <p>Artículo reformado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Los generadores y demás poseedores de residuos peligrosos, mineros y metalúrgicos,
 pueden contratar los servicios de manejo de estos residuos con empresas o gestores autorizados para
@@ -1515,16 +1515,16 @@ normativa aplicable.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Párrafo reformado DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Párrafo adicionado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Las personas que generen o manejen residuos peligrosos deberán notificarlo a la
 Secretaría o a las autoridades correspondientes de los gobiernos locales, de acuerdo con lo previsto en
@@ -1532,9 +1532,9 @@ esta Ley y las disposiciones que de ella se deriven.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Los generadores de residuos peligrosos tendrán las siguientes categorías:
 I. Grandes generadores;
@@ -1543,9 +1543,9 @@ III. Microgeneradores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Los generadores de residuos peligrosos, mineros y metalúrgicos deben identificar,
 clasificar y manejar sus residuos de conformidad con las disposiciones contenidas en esta Ley y en su
@@ -1556,13 +1556,13 @@ que pueda representar un riesgo a la salud y al ambiente, las instalaciones en l
 éstos, cuando se cierren o se dejen de realizar en ellas las actividades generadoras de tales residuos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Párrafo reformado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- Los grandes generadores de residuos peligrosos, están obligados a registrarse ante la
 Secretaría y someter a su consideración el Plan de Manejo de Residuos Peligrosos, así como llevar una
@@ -1573,9 +1573,9 @@ Equilibrio Ecológico y la Protección al Ambiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- Los pequeños generadores de residuos peligrosos, deberán de registrarse ante la
 Secretaría y contar con una bitácora en la que llevarán el registro del volumen anual de residuos
@@ -1596,13 +1596,13 @@ aplicables en materia de transparencia y acceso a la información.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Artículo reformado DOF 22-05-2015</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- Las personas consideradas como microgeneradores de residuos peligrosos están
 obligadas a registrarse ante las autoridades competentes de los gobiernos de las entidades federativas o
@@ -1617,9 +1617,9 @@ establecen los artículos 12 y 13 del presente ordenamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- La Secretaría, mediante la emisión de normas oficiales mexicanas, podrá establecer
 disposiciones específicas para el manejo y disposición final de residuos peligrosos por parte de los
@@ -1631,9 +1631,9 @@ normas oficiales mexicanas y planes de manejo correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- Se requiere autorización de la Secretaría para:
 I. La prestación de servicios de manejo de residuos peligrosos;
@@ -1658,9 +1658,9 @@ XI. Las demás que establezcan la presente Ley y las normas oficiales mexicanas.
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- Las autorizaciones para el manejo integral de residuos peligrosos, podrán ser
 transferidas, siempre y cuando:
@@ -1669,9 +1669,9 @@ II. Se acredite la subsistencia de las condiciones bajo las cuales fueron otorga
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- Son causas de revocación de las autorizaciones:
 I. Que exista falsedad en la información proporcionada a la Secretaría;
@@ -1687,9 +1687,9 @@ reglamentos ambientales, las normas oficiales mexicanas y demás disposiciones a
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- Las autorizaciones deberán otorgarse por tiempo determinado y, en su caso, podrán ser
 prorrogadas.
@@ -1697,9 +1697,9 @@ El Reglamento que al respecto se expida señalará los términos y condiciones d
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- Se deberá evitar la mezcla de residuos peligrosos con otros materiales o residuos para
 no contaminarlos y no provocar reacciones, que puedan poner en riesgo la salud, el ambiente o los
@@ -1708,9 +1708,9 @@ incompatibilidad entre un residuo peligroso y otro material o residuo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- La Secretaría determinará en el Reglamento y en las normas oficiales mexicanas, la
 forma de manejo que se dará a los envases o embalajes que contuvieron residuos peligrosos y que no
@@ -1729,9 +1729,9 @@ peligrosos, para almacenar agua, alimentos o productos de consumo humano o anima
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- La Secretaría expedirá las normas oficiales mexicanas para el almacenamiento de
 residuos peligrosos, las cuales tendrán como objetivo la prevención de la generación de lixiviados y su
@@ -1745,9 +1745,9 @@ cumpliendo los requisitos que establezca el Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Aquellos generadores que reciclen residuos peligrosos dentro del mismo predio en
 donde se generaron, deberán presentar ante la Secretaría, con 30 días de anticipación a su reciclaje, un
@@ -1761,9 +1761,9 @@ otras, que resulten aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- Quienes realicen procesos de tratamiento físicos, químicos o biológicos de residuos
 peligrosos, deberán presentar a la Secretaría los procedimientos, métodos o técnicas mediante los cuales
@@ -1773,9 +1773,9 @@ efecto se expidan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- Los responsables de procesos de tratamiento de residuos peligrosos en donde se lleve a
 cabo la liberación al ambiente de una sustancia tóxica, persistente y bioacumulable, estarán obligados a
@@ -1783,9 +1783,9 @@ prevenir, reducir o controlar dicha liberación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- Los representantes de los distintos sectores sociales participarán en la formulación de
 los planes y acciones que conduzcan a la prevención, reducción o eliminación de emisiones de
@@ -1794,9 +1794,9 @@ esta Ley, y en cumplimiento a los convenios internacionales en la materia, de lo
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- Tratándose de procesos de tratamiento por incineración y tratamiento térmico por
 termólisis, la solicitud de autorización especificará las medidas para dar cumplimiento a las normas
@@ -1805,9 +1805,9 @@ sea parte.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- El co-procesamiento y la incineración de residuos, se restringirán a las condiciones que
 se establezcan en el Reglamento y en las normas oficiales mexicanas correspondientes, en las cuales se
@@ -1828,7 +1828,7 @@ La Secretaría, al establecer la normatividad correspondiente, tomará en consid
 salud que al respecto establezca la Secretaría de Salud.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-62" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Párrafo reformado DOF 18-01-2021</p>
             </note>
           </article>
@@ -1851,9 +1851,9 @@ aplicables de la Ley de Infraestructura de la Calidad.
               <p>Artículo adicionado DOF 18-01-2021</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- La Secretaría, al reglamentar y normar la operación de los procesos de incineración y
 termovalorización de residuos permitidos, diferenciará estos procesos en su regulación del co-
@@ -1868,13 +1868,13 @@ económicamente factibles. En tales casos, deberán promoverse acciones que tien
 infraestructura de valorización o de tratamiento de estos residuos, por otros medios.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Párrafo reformado DOF 18-01-2021</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- En el caso del transporte y acopio de residuos que correspondan a productos
 desechados sujetos a planes de manejo, en términos de lo dispuesto por el artículo 31 de esta Ley, se
@@ -1883,9 +1883,9 @@ posibles fugas, derrames o liberación al ambiente de sus contenidos que posean 
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Las instalaciones para el confinamiento de residuos peligrosos deberán contar con las
 características necesarias para prevenir y reducir la posible migración de los residuos fuera de las celdas,
@@ -1897,9 +1897,9 @@ consideración el ordenamiento ecológico del territorio y los planes de desarro
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- Quienes generen y manejen residuos peligrosos y requieran de un confinamiento dentro
 de sus instalaciones, deberán apegarse a las disposiciones de esta Ley, las que establezca el
@@ -1914,9 +1914,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- En materia de residuos peligrosos, está prohibido:
 I. El transporte de residuos por vía aérea;
@@ -1944,9 +1944,9 @@ impacto y riesgo ambiental.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- Quienes resulten responsables de la contaminación de un sitio, así como de daños a la
 salud como consecuencia de ésta, estarán obligados a reparar el daño causado, conforme a las
@@ -1959,13 +1959,13 @@ Federal de Responsabilidad Ambiental.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Párrafo adicionado DOF 07-06-2013</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- Las personas responsables de actividades relacionadas con la generación y manejo de
 materiales y residuos peligrosos que hayan ocasionado la contaminación de sitios con éstos, están
@@ -1979,9 +1979,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- Los propietarios o poseedores de predios de dominio privado y los titulares de áreas
 concesionadas, cuyos suelos se encuentren contaminados, serán responsables solidarios de llevar a
@@ -1990,9 +1990,9 @@ del causante de la contaminación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- No podrá transferirse la propiedad de sitios contaminados con residuos peligrosos, salvo
 autorización expresa de la Secretaría.
@@ -2004,9 +2004,9 @@ acreedores a las sanciones penales y administrativas correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- Tratándose de contaminación de sitios con materiales o residuos peligrosos, por caso
 fortuito o fuerza mayor, las autoridades competentes impondrán las medidas de emergencia necesarias
@@ -2014,9 +2014,9 @@ para hacer frente a la contingencia, a efecto de no poner en riesgo la salud o e
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- En el caso de abandono de sitios contaminados con residuos peligrosos o que se
 desconozca el propietario o poseedor del inmueble, la Secretaría, en coordinación con las entidades
@@ -2049,9 +2049,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho
 relacionado con los bienes inmuebles que fueren materia de las declaratorias de remediación, quedarán
@@ -2062,9 +2062,9 @@ contrato que contravenga lo establecido en la mencionada declaratoria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- La Secretaría y las autoridades locales competentes, según corresponda, serán
 responsables de llevar a cabo acciones para identificar, inventariar, registrar y categorizar los sitios
@@ -2073,18 +2073,18 @@ conformidad con los criterios que para tal fin se establezcan en el Reglamento.<
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- Las autoridades locales deberán inscribir en el Registro Público de la Propiedad
 correspondiente los sitios contaminados que se encuentren dentro de su jurisdicción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77.- Las acciones en materia de remediación de sitios, y de reparación y compensación de
 daños ocasionados al ambiente, previstas en este capítulo, se llevarán a cabo de conformidad con lo que
@@ -2092,13 +2092,13 @@ señale el Reglamento, y a lo previsto por la Ley Federal de Responsabilidad Amb
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-77" placement="bottom">
+            <note placementBase="#art-77." placement="bottom">
               <p>Artículo reformado DOF 07-06-2013</p>
             </note>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78.- La Secretaría, en coordinación con la Secretaría de Salud, emitirá las normas oficiales
 mexicanas para la caracterización de los sitios contaminados y evaluará los riesgos al ambiente y la
@@ -2107,9 +2107,9 @@ procedan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79.- La regulación del uso del suelo y los programas de ordenamiento ecológico y de
 desarrollo urbano, deberán ser considerados al determinar el grado de remediación de sitios
@@ -2117,9 +2117,9 @@ contaminados con residuos peligrosos, con base en los riesgos que deberán evita
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80.- Las personas interesadas en obtener autorizaciones para llevar a cabo los servicios a
 terceros para el transporte, acopio, almacenamiento, reutilización, reciclaje, tratamiento y disposición final
@@ -2153,9 +2153,9 @@ resulten aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81.- Para el otorgamiento de la autorización de la prestación de los servicios a que se refiere
 este Capítulo, la Secretaría requerirá de una garantía suficiente para cubrir los daños que se pudieran
@@ -2163,9 +2163,9 @@ causar durante la prestación del servicio y al término del mismo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82.- El monto de las garantías a que se refiere este Capítulo las fijará la Secretaría de
 acuerdo con el volumen y características de los residuos cuyo manejo ha sido autorizado, así como la
@@ -2179,9 +2179,9 @@ se estimará el monto, el cobro y la aplicación de las garantías se establecer
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83.- Tratándose de acopio de residuos peligrosos a los que se hace referencia las fracciones
 I a XI del artículo 31 de este ordenamiento, se estará a lo dispuesto en los planes de manejo, que se
@@ -2189,18 +2189,18 @@ registrarán ante la Secretaría y a lo que establezcan las normas oficiales mex
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84.- El trámite de las autorizaciones a que se refiere este Capítulo, se sujetará a lo dispuesto
 en la Ley Federal de Procedimiento Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85.- La importación y exportación de residuos peligrosos se sujetará a las restricciones o
 condiciones establecidas en esta Ley, su Reglamento, la Ley de Comercio Exterior, la Ley Federal de
@@ -2209,9 +2209,9 @@ ordenamientos legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86.- En la importación de residuos peligrosos se deberán observar las siguientes
 disposiciones:
@@ -2228,9 +2228,9 @@ constituya un obstáculo para la reutilización o reciclaje de los residuos gene
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87.- Las autorizaciones para la exportación de residuos peligrosos sólo se emitirán cuando
 quienes las solicitan cuentan con el consentimiento previo del país importador y, en su caso, de los
@@ -2238,9 +2238,9 @@ gobiernos de los países por los que transiten los residuos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88.- La Secretaría establecerá un sistema de rastreo de residuos peligrosos en el cual se
 llevará un registro de las autorizaciones otorgadas para la importación y exportación de residuos. Dicho
@@ -2252,9 +2252,9 @@ de Información Ambiental y de Recursos Naturales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89.- La Secretaría requerirá la presentación de una póliza de seguro o garantía, por parte del
 solicitante de la autorización de importación o exportación, que asegure que se contará con los recursos
@@ -2267,9 +2267,9 @@ exporten los residuos peligrosos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90.- Por el incumplimiento de las disposiciones legales aplicables, la Secretaría podrá negar
 o revocar las autorizaciones para la importación o exportación de residuos peligrosos, así como para su
@@ -2277,9 +2277,9 @@ tránsito y transporte por el territorio nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91.- Las empresas que importen o exporten residuos peligrosos serán responsables de los
 daños que ocasionen a la salud, al ambiente o a los bienes como consecuencia del movimiento de los
@@ -2288,9 +2288,9 @@ que haya lugar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92.- Los residuos que ingresen ilegalmente al país, deberán ser retornados al país de origen
 en un plazo no mayor a sesenta días. Los costos en los que se incurra durante el proceso de retorno al
@@ -2299,9 +2299,9 @@ importación de los residuos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93.- Cuando se importen a nuestro país productos, equipos, maquinarias o cualquier otro
 insumo, para ser remanufacturados, reciclados, reprocesados y se generen residuos peligrosos mediante
@@ -2310,9 +2310,9 @@ régimen de importación temporal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94.- Las industrias que utilicen insumos sujetos al régimen de importación temporal para
 producir mercancías de exportación, estarán obligadas a informar a la Secretaría acerca de los
@@ -2335,9 +2335,9 @@ similares.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95.- La regulación de la generación y manejo integral de los residuos sólidos urbanos y los
 residuos de manejo especial, se llevará a cabo conforme a lo que establezca la presente Ley, las
@@ -2345,9 +2345,9 @@ disposiciones emitidas por las legislaturas de las entidades federativas y demá
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96.- Las entidades federativas y los municipios, en el ámbito de sus respectivas
 competencias, con el propósito de promover la reducción de la generación, valorización y gestión integral
@@ -2404,22 +2404,22 @@ equipamiento, a fin de garantizar el manejo integral de los residuos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-96" placement="bottom">
+            <note placementBase="#art-96." placement="bottom">
               <p>Fracción reformada DOF 21-05-2013</p>
             </note>
-            <note placementBase="#art-96" placement="bottom">
+            <note placementBase="#art-96." placement="bottom">
               <p>Fracción reformada DOF 30-05-2012</p>
             </note>
-            <note placementBase="#art-96" placement="bottom">
+            <note placementBase="#art-96." placement="bottom">
               <p>Fracción reformada DOF 30-05-2012</p>
             </note>
-            <note placementBase="#art-96" placement="bottom">
+            <note placementBase="#art-96." placement="bottom">
               <p>Fracción adicionada DOF 30-05-2012</p>
             </note>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97.- Las normas oficiales mexicanas establecerán los términos a que deberá sujetarse la
 ubicación de los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la
@@ -2435,9 +2435,9 @@ sitios de disposición final de los residuos sólidos urbanos y de manejo especi
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98.- Para la prevención de la generación, la valorización y la gestión integral de los residuos
 de manejo especial, en particular de los neumáticos usados, las entidades federativas establecerán las
@@ -2451,13 +2451,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-98" placement="bottom">
+            <note placementBase="#art-98." placement="bottom">
               <p>Artículo reformado DOF 04-06-2014</p>
             </note>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99.- Los municipios, de conformidad con las leyes estatales, llevarán a cabo las acciones
 necesarias para la prevención de la generación, valorización y la gestión integral de los residuos sólidos
@@ -2469,9 +2469,9 @@ III. Los ingresos que deberán obtener por brindar el servicio de su manejo inte
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100.- La legislación que expidan las entidades federativas, en relación con la generación,
 manejo y disposición final de residuos sólidos urbanos podrá contener las siguientes prohibiciones:
@@ -2490,16 +2490,16 @@ determinado por la norma oficial mexicana correspondiente y sus planes de manejo
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-100" placement="bottom">
+            <note placementBase="#art-100." placement="bottom">
               <p>Párrafo adicionado DOF 04-06-2014</p>
             </note>
-            <note placementBase="#art-100" placement="bottom">
+            <note placementBase="#art-100." placement="bottom">
               <p>Párrafo adicionado DOF 04-06-2014</p>
             </note>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las
 disposiciones contenidas en el presente ordenamiento, en materia de residuos peligrosos e impondrá las
@@ -2508,31 +2508,31 @@ establece esta Ley y la Ley General del Equilibrio Ecológico y la Protección a
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-101" placement="bottom">
+            <note placementBase="#art-101." placement="bottom">
               <p>Artículo reformado DOF 22-05-2006</p>
             </note>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102.- Las entidades federativas, se coordinarán con la Federación para llevar a cabo las
 actividades de inspección y vigilancia relacionadas con microgeneradores de residuos peligrosos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103.- Si como resultado de una visita de inspección se detecta la comisión de un delito, se
 deberá dar vista a la autoridad competente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. Si de estas visitas de inspección se desprenden infracciones a la presente Ley, en el
 emplazamiento respectivo la autoridad ordenadora requerirá al interesado, cuando proceda, mediante
@@ -2562,13 +2562,13 @@ autoridades de los gobiernos de las entidades federativas y de los municipios qu
 con la Secretaría, de conformidad con los artículos 12 y 13 de este ordenamiento.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-104" placement="bottom">
+            <note placementBase="#art-104." placement="bottom">
               <p>Párrafo adicionado DOF 22-05-2006</p>
             </note>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105.- Cuando proceda, las autoridades competentes que hubieren dictado las medidas de
 seguridad a las que hace referencia al artículo anterior, podrán ordenar al interesado las acciones que
@@ -2578,9 +2578,9 @@ las medidas de seguridad impuestas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106.- De conformidad con esta Ley y su Reglamento, serán sancionadas las personas que
 lleven a cabo cualquiera de las siguientes actividades:
@@ -2641,18 +2641,18 @@ XXIV. Incurrir en cualquier otra violación a los preceptos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107.- Para la imposición de sanciones por infracciones a esta Ley se estará a lo dispuesto en
 la Ley General del Equilibrio Ecológico y la Protección al Ambiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108.- Si vencido el plazo concedido por la autoridad para subsanar la o las infracciones que
 se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, la Secretaría podrá
@@ -2661,9 +2661,9 @@ que el total de las multas exceda del monto máximo permitido.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109.- En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del
 monto originalmente impuesto, sin exceder del doble del máximo permitido, así como la clausura
@@ -2675,9 +2675,9 @@ desvirtuada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110.- En los casos en que la gravedad de la infracción lo amerite, la Secretaría solicitará a
 las autoridades, que hubieren otorgado, la suspensión, revocación o cancelación de las concesiones,
@@ -2686,20 +2686,13 @@ lugar a la comisión de la infracción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111.- Sin perjuicio de la obligación de remediar el sitio a que se refiere esta Ley, la autoridad
-correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-173">
-            <num>Artículo 173</num>
-            <paragraph id="art-173-para-1">
-              <content>
-                <p>artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+correspondiente podrá otorgar al infractor la opción a que se refieren el artículo 168 y el párrafo final del
+artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las
 irregularidades en que hubiere incurrido previamente a que la Secretaría imponga una sanción, dicha
 autoridad deberá considerar tal situación como atenuante de la infracción cometida.
@@ -2714,16 +2707,16 @@ del requerimiento respectivo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-173" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo adicionado DOF 22-05-2006</p>
             </note>
-            <note placementBase="#art-173" placement="bottom">
+            <note placementBase="#art-111." placement="bottom">
               <p>Párrafo adicionado DOF 22-05-2006</p>
             </note>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112.- Las violaciones a los preceptos de esta Ley, y disposiciones que de ella emanen serán
 sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
@@ -2749,19 +2742,19 @@ Distrito Federal al momento de imponer la sanción.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-112" placement="bottom">
+            <note placementBase="#art-112." placement="bottom">
               <p>Fracción reformada DOF 22-05-2006</p>
             </note>
-            <note placementBase="#art-112" placement="bottom">
+            <note placementBase="#art-112." placement="bottom">
               <p>Fracción reformada DOF 22-05-2006</p>
             </note>
-            <note placementBase="#art-112" placement="bottom">
+            <note placementBase="#art-112." placement="bottom">
               <p>Fracción adicionada DOF 22-05-2006</p>
             </note>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113.- En caso de que alguna de las conductas descritas en los artículos anteriores, derive en
 la comisión de algún delito, cualquier sanción señalada en esta Ley no exime a los responsables de la
@@ -2769,9 +2762,9 @@ probable responsabilidad penal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114.- Las autoridades competentes de las entidades federativas y los municipios, procurarán
 establecer sanciones administrativas que contribuyan a inhibir que las personas físicas o morales violen
@@ -2779,9 +2772,9 @@ las disposiciones de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley
 y en las disposiciones que de ella se deriven, se destinarán a la integración de fondos para la
@@ -2789,9 +2782,9 @@ remediación de sitios contaminados que representen un riesgo inminente al ambie
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116.- Los interesados afectados por los actos y resoluciones de las autoridades
 administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un
@@ -2802,9 +2795,9 @@ aquél en que hubiere surtido efectos la notificación de la resolución que se 
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117.- El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad
 que emitió el acto impugnado y será resuelto por el superior jerárquico, salvo que el acto impugnado
@@ -2830,9 +2823,9 @@ personalidad cuando actúen en nombre de otro o de personas morales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118.- La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y
 cuando:
@@ -2848,9 +2841,9 @@ los cinco días siguientes a su interposición, en cuyo defecto se entenderá ot
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119.- El recurso se tendrá por no interpuesto y se desechará cuando:
 I. Se presente fuera de plazo;
@@ -2860,9 +2853,9 @@ plazo para interponerlo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120.- Se desechará por improcedente el recurso:
 I. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución,
@@ -2880,9 +2873,9 @@ promovente, que pueda tener por efecto modificar, revocar o nulificar el acto re
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121.- Será sobreseído el recurso cuando:
 I. El promovente se desista expresamente del recurso;
@@ -2895,9 +2888,9 @@ VI. No se aprobare la existencia del acto respectivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122.- La autoridad encargada de resolver el recurso podrá:
 I. Desecharlo por improcedente o sobreseerlo;
@@ -2909,9 +2902,9 @@ lo sustituya, cuando el recurso interpuesto sea total o parcialmente a favor del
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123.- La resolución del recurso se fundará en derecho y examinará todos y cada uno de los
 agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios; pero
@@ -2929,9 +2922,9 @@ cumplirse en un plazo de cuatro meses.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124.- La substanciación del recurso de revisión a que se refiere el artículo anterior de esta
 Ley, se sujetará a lo dispuesto en la Ley Federal de Procedimiento Administrativo, en sus preceptos
@@ -2944,9 +2937,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125.- Toda persona, grupo social, organización no gubernamental, asociación y sociedad
 podrá denunciar ante la Secretaría, todo hecho, acto u omisión que produzca o pueda producir
@@ -2954,38 +2947,115 @@ desequilibrio ecológico, daños al ambiente, a los recursos naturales o a la sa
 materias de esta Ley y demás ordenamientos que de ella emanen.
 La tramitación de la denuncia popular a que se refiere este precepto, se llevará a cabo de conformidad
 con lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
-TRANSITORIOS
-PRIMERO.- El presente ordenamiento entrará en vigor a los noventa días naturales siguientes a su
-publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al contenido de esta Ley.
-TERCERO.- El Reglamento de la presente Ley deberá ser expedido en un plazo no mayor de ciento
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente ordenamiento entrará en vigor a los noventa días naturales siguientes a su
+publicación en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al contenido de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- El Reglamento de la presente Ley deberá ser expedido en un plazo no mayor de ciento
 ochenta días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la
-Federación.
-CUARTO.- Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las
 materias a que refiere esta Ley, iniciados con anterioridad a la entrada en vigor al presente Decreto, se
-tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.
-QUINTO.- Los gobiernos de las entidades federativas y de los municipios, deberán expedir y, en su
+tramitarán y resolverán conforme a las disposiciones vigentes en ese momento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los gobiernos de las entidades federativas y de los municipios, deberán expedir y, en su
 caso, adecuar sus leyes, reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las
-competencias que a cada uno corresponda.
-SEXTO.- La Secretaría de Comunicaciones y Transportes emitirá en un plazo no mayor a ciento
+competencias que a cada uno corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- La Secretaría de Comunicaciones y Transportes emitirá en un plazo no mayor a ciento
 ochenta días naturales a partir de la publicación del presente Decreto, las modificaciones a que haya
-lugar al Reglamento de Transporte de Materiales y Residuos Peligrosos.
-SÉPTIMO.- Las autorizaciones o permisos otorgados con anterioridad a la fecha de entrada en vigor
+lugar al Reglamento de Transporte de Materiales y Residuos Peligrosos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- Las autorizaciones o permisos otorgados con anterioridad a la fecha de entrada en vigor
 del presente Decreto, seguirán vigentes; su prórroga o renovación se sujetará a las disposiciones del
-presente Decreto.
-OCTAVO.- Los responsables de formular los planes de manejo para los residuos peligrosos a los que
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- Los responsables de formular los planes de manejo para los residuos peligrosos a los que
 hace referencia el artículo 31 de este ordenamiento, contarán con un plazo no mayor a dos años para
-formular y someter a consideración de la Secretaría dichos planes.
-NOVENO.- El procedimiento para la presentación de los anteproyectos de las normas oficiales
+formular y someter a consideración de la Secretaría dichos planes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- El procedimiento para la presentación de los anteproyectos de las normas oficiales
 mexicanas relativas a los procesos de incineración de residuos deberá iniciarse en un plazo no mayor a
 ciento veinte días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la
-Federación.
-DÉCIMO.- El procedimiento para la presentación de los anteproyectos de las normas oficiales
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- El procedimiento para la presentación de los anteproyectos de las normas oficiales
 mexicanas relativas al establecimiento de los criterios para determinar y listar los residuos sujetos a
 planes de manejo y los procedimientos para formularlos y aplicarlos deberá iniciarse en un plazo no
 mayor a ciento veinte días naturales a partir de la publicación del presente Decreto en el Diario Oficial
-de la Federación.
-DÉCIMO PRIMERO.- El plan nacional para la implementación de las acciones para dar cumplimiento
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO.- El plan nacional para la implementación de las acciones para dar cumplimiento
 a las obligaciones derivadas de convenios internacionales de los que México sea parte, relacionadas con
 la gestión y el manejo integral de residuos peligrosos, los contaminantes orgánicos persistentes y otras
 43 de 59
@@ -2994,10 +3064,24 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 08-05-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 materias relacionadas con el objeto de esta Ley, deberá ser publicado en el Diario Oficial de la
-Federación en un plazo no mayor a dos años contados a partir de la publicación del presente Decreto.
-DÉCIMO SEGUNDO.- La vigencia de las autorizaciones a que se refiere el artículo 53 de la presente
-Ley será de cinco años, en tanto no se expida el Reglamento de la Ley.
-DÉCIMO TERCERO.- Para los efectos de la expedición de autorizaciones, hasta en tanto no se
+Federación en un plazo no mayor a dos años contados a partir de la publicación del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO.- La vigencia de las autorizaciones a que se refiere el artículo 53 de la presente
+Ley será de cinco años, en tanto no se expida el Reglamento de la Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO.- Para los efectos de la expedición de autorizaciones, hasta en tanto no se
 expida el Reglamento de la presente Ley, continuarán aplicándose los requisitos, términos, condiciones y
 plazos establecidos en el Reglamento de la Ley General del Equilibrio Ecológico y la Protección al
 Ambiente en Materia de Residuos Peligrosos.
@@ -3096,10 +3180,24 @@ fracción I; y se adicionan los artículos 7, con las fracciones VI, XXIII y XXI
 las subsecuentes; 10 con una fracción IX de la Ley General para la Prevención y Gestión Integral de los
 Residuos, para quedar como sigue:
 ………
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- Las entidades federativas deberán realizar las reformas a su legislación y
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Las entidades federativas deberán realizar las reformas a su legislación y
 reglamentación, en las disposiciones que resulten necesarias para el desarrollo y ejecución del presente
 Decreto.
 México, D.F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Francisco
@@ -3126,13 +3224,34 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 ARTÍCULO CUARTO.- Se reforman los artículos 17 y 77, se adiciona un párrafo al artículo 68, de la
 Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el
-Diario Oficial de la Federación.
-SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el
+Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de
 operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del
-presente Decreto.
-TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en
 un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La
 Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones
 en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin
@@ -3182,10 +3301,24 @@ primer párrafo del artículo 26, y se adiciona una fracción IX al artículo 19
 para que pase a ser fracción X del mismo artículo; una fracción IV al artículo 28, de la Ley General para
 la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- La Secretaría de Medio Ambiente y Recursos Naturales, realizará las modificaciones
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- La Secretaría de Medio Ambiente y Recursos Naturales, realizará las modificaciones
 necesarias a la Norma Oficial Mexicana correspondiente y demás disposiciones que considere aplicables
 a fin de adecuarlas al contenido del presente decreto, en un plazo no mayor de 180 días posteriores a la
 entrada en vigor.
@@ -3206,38 +3339,73 @@ DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Gene
 para la Prevención y Gestión Integral de los Residuos, y de la Ley de Caminos, Puentes y
 Autotransporte Federal.
 Publicado en el Diario Oficial de la Federación el 4 de junio de 2014
-ARTÍCULO PRIMERO.- Se reforman la fracción VIII del artículo 19, la fracción III del artículo 28 y el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
-              <content>
-                <p>artículo 98; se adicionan una fracción X al artículo 19, recorriéndose la subsecuente en su orden y dos
+ARTÍCULO PRIMERO.- Se reforman la fracción VIII del artículo 19, la fracción III del artículo 28 y el
+artículo 98; se adicionan una fracción X al artículo 19, recorriéndose la subsecuente en su orden y dos
 párrafos al artículo 100, a la Ley General para la Prevención y Gestión Integral de los Residuos, para
 quedar como sigue:
 ………
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para
 la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una “Estrategia
-Nacional para la Gestión Integral de Neumáticos Usados”.
-TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en
+Nacional para la Gestión Integral de Neumáticos Usados”.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Los responsables de formular los planes de manejo para los residuos que se incluyan en
 los listados a los que hace referencia el artículo 28, fracción III de la Ley General para la Prevención y
 Gestión Integral de los Residuos, así como los productores, fabricantes, importadores y distribuidores de
 neumáticos usados contarán con un plazo no mayor a dos años para formular y someter a consideración
-de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.
-CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios
-de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.
-QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y
+de la autoridad correspondiente dichos planes a partir de que sean publicadas las listas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- El Ejecutivo Federal deberá publicar la norma oficial mexicana que establezca los criterios
+de gestión, responsabilidad compartida y valorización para el manejo integral de los neumáticos usados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Las concesiones y permisos otorgados para construir, operar, explotar, conservar y
 mantener los caminos y puentes federales con anterioridad a la entrada en vigor del presente Decreto
 continuarán en vigor en los términos y condiciones consignados en los mismos, hasta el término de su
 vigencia.
 Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la presente
-Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.
-SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+Ley de conformidad con las disposiciones aplicables al momento de iniciar dicho trámite.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 29 de abril de 2014.- Dip. Jose Gonzalez Morfin, Presidente.- Sen. Raúl Cervantes
 Andrade, Presidente.- Dip. Xavier Azuara Zuñiga, Secretario.- Sen. Rosa Adriana Díaz Lizama,
 Secretaria.- Rúbricas."
@@ -3279,10 +3447,24 @@ Publicado en el Diario Oficial de la Federación el 22 de mayo de 2015
 Artículo Único. Se reforma el artículo 47 de la Ley General para la Prevención y Gestión Integral de
 los Residuos, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. En un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente
 Decreto, la Secretaría realizará las reformas a que haya lugar al Reglamento de la presente Ley.
 México, D.F., a 8 de abril de 2015.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Julio César
 Moreno Rivera, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Graciela Saldaña
@@ -3329,10 +3511,24 @@ Publicado en el Diario Oficial de la Federación el 19 de enero de 2018
 Artículo Décimo Quinto.- Se reforman los artículos 9, párrafo segundo y 11 de la Ley General para la
 Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a
 las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán
 conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
 ……..
@@ -3356,14 +3552,35 @@ Artículo Único.- Se reforman la fracción IV del artículo 7; la fracción III
 una fracción XXI, recorriéndose la subsecuente en su orden, al artículo 9 de la Ley General para la
 Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del
 presente Decreto, el Poder Ejecutivo Federal deberá publicar las normas oficiales mexicanas que
 establezcan las especificaciones que deban cumplir los sitios de disposición final de residuos sólidos
-urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía.
-Tercero. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del
+urbanos para el aprovechamiento de la materia orgánica en procesos de generación de energía.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. En un plazo máximo de 365 días naturales, contados a partir de la entrada en vigor del
 presente Decreto, los Congresos de las Entidades Federativas armonizarán las legislaciones de su
 competencia en materia de residuos con su contenido.
 Ciudad de México, a 26 de noviembre de 2020.- Sen. Eduardo Ramírez Aguilar, Presidente.- Dip.
@@ -3387,17 +3604,52 @@ Artículo Único.- Se reforman los artículos 62, primer párrafo y 63, primer p
 fracción LXIII al artículo 5, recorriéndose las subsecuentes fracciones, y el artículo 62 Bis de la Ley
 General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 ……..
-Transitorios
-Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
-la Federación.
-Segundo.- Las Legislaturas de los Estados y de la Ciudad de México adecuarán las leyes
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Las Legislaturas de los Estados y de la Ciudad de México adecuarán las leyes
 correspondientes a efecto de que se ajusten a lo dispuesto por el presente Decreto, en un plazo no
-mayor a 180 días contados a partir de su entrada en vigor.
-Tercero.- La Secretaría de Medio Ambiente y Recursos Naturales expedirá en un plazo no mayor a
+mayor a 180 días contados a partir de su entrada en vigor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- La Secretaría de Medio Ambiente y Recursos Naturales expedirá en un plazo no mayor a
 365 días naturales, contados a partir de la publicación del presente Decreto, las disposiciones
-reglamentarias y normativas correspondientes.
-Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-Quinto.- La Secretaría considerará las obligaciones de las empresas que realicen actividades de co-
+reglamentarias y normativas correspondientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- La Secretaría considerará las obligaciones de las empresas que realicen actividades de co-
 procesamiento, así como de incineración en las materias de registro de emisiones y transferencia de
 contaminantes y de registro de compuestos y gases de efecto invernadero, establecidas en la Ley
 General del Equilibrio Ecológico y la Protección al Ambiente y sus reglamentos, y en la Ley General de
@@ -3435,61 +3687,152 @@ fracción II; 16; 17; 33, párrafo primero; 39, párrafo primero; 40, párrafo p
 segundo, tercero y cuarto al artículo 17; la fracción VI al artículo 27, y un párrafo cuarto al artículo 42, de
 la Ley General para la Prevención y Gestión Integral de los Residuos, para quedar como sigue:
 …….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se derogan las disposiciones jurídicas que se opongan al presente Decreto.
-Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se derogan las disposiciones jurídicas que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
 realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de
 Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en
 caso de que se realice alguna modificación a la estructura orgánica de los mismos, ésta deberá llevarse a
 cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que
 en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio
-fiscal.
-Cuarto. La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento
+fiscal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular del Ejecutivo Federal, dentro de un plazo que no excederá los ciento
 ochenta días contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reformas
-correspondientes a las disposiciones reglamentarias respectivas.
-Quinto. En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las
+correspondientes a las disposiciones reglamentarias respectivas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. En tanto se emite la normativa señalada en el artículo anterior, se seguirán aplicando las
 disposiciones que se encontraban vigentes antes de la entrada en vigor del presente Decreto, siempre
 que no se opongan a éste.
 Las menciones a la Ley Minera contenidas en otras leyes, reglamentos y en cualquier disposición de
 carácter general se entienden referidas a la Ley de Minería.
 Las solicitudes en trámite de nueva concesión de exploración y explotación se desecharán sin mayor
-trámite, en virtud de lo dispuesto por el presente Decreto.
-Sexto. Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor
-del presente Decreto tendrán la duración prevista en el título respectivo.
-Séptimo. A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las
+trámite, en virtud de lo dispuesto por el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Las concesiones de exploración y explotación otorgadas con anterioridad a la entrada en vigor
+del presente Decreto tendrán la duración prevista en el título respectivo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. A partir de la entrada en vigor del presente Decreto, no se otorgarán prórrogas a las
 concesiones en Áreas Naturales Protegidas, así como a las ya emitidas para la exploración, explotación y
 beneficio del mercurio dentro del territorio nacional.
 58 de 59
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 08-05-2023
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Octavo. Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los
-plazos se computarán a partir de la entrada en vigor del presente Decreto.
-Noveno. Los procedimientos y recursos administrativos relacionados con las actividades de minería y
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Para efectos de la caducidad a que se refiere el artículo 53 Bis de la Ley de Minería, los
+plazos se computarán a partir de la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. Los procedimientos y recursos administrativos relacionados con las actividades de minería y
 aguas iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán
 conforme a las disposiciones vigentes en el momento de su inicio, y las demás disposiciones aplicables
-en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.
-Décimo. Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco
+en la materia de que se trate, siempre que no se opongan a lo previsto en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. Las personas titulares de concesiones mineras, dentro de los trescientos sesenta y cinco
 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán presentar el
 vehículo financiero a que se refiere la Ley de Minería, que garantice los posibles daños que se generen
 durante la ejecución de las actividades mineras, así como presentar para autorización de la Secretaría de
-Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.
-Décimo Primero. Las personas titulares de concesiones mineras deben garantizar que los depósitos
+Medio Ambiente y Recursos Naturales el Programa de Restauración, Cierre y Post-cierre de Minas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Las personas titulares de concesiones mineras deben garantizar que los depósitos
 o sitios de disposición final de terreros, presas de jales o escorias no afecten núcleos de población, zonas
 productivas o ecosistemas, de conformidad con las disposiciones jurídicas aplicables.
 Cuando las autoridades competentes determinen que los depósitos o sitios de disposición final de
 terreros, presas de jales o escorias presenten riesgos para la seguridad o salud de la población, zonas
 productivas o de los ecosistemas, las personas concesionarias tendrán un plazo de trescientos sesenta y
 cinco días naturales contados a partir de la notificación correspondiente por parte de la autoridad
-competente para realizar la remoción o remediación necesaria.
-Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el
+competente para realizar la remoción o remediación necesaria.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el
 Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido
 en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición
-hasta que éstos se encuentren en los valores en los que se adquirieron.
-Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen
+hasta que éstos se encuentren en los valores en los que se adquirieron.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen
 actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días
 naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del
 Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación

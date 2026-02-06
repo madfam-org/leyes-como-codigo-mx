@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2022-05-17/lgmsv/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2022-05-17/lgmsv/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -66,9 +66,9 @@
         </chapter>
         <chapter id="chapter-11">
           <num>CAPÍTULO III De la participación social de las entidades federativas, municipios, demarcaciones</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público e interés social y de observancia general en todo el
 territorio nacional, en términos de lo dispuesto en el párrafo décimo séptimo del artículo 4o. y 73, fracción
@@ -124,9 +124,9 @@ de movilidad y seguridad vial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos
 Mexicanos y con los Tratados Internacionales de los que el Estado Mexicano sea parte, favoreciendo en
@@ -134,9 +134,9 @@ todo tiempo a las personas la protección más amplia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Glosario.
 Para efectos de esta Ley, se entenderá por:
@@ -304,18 +304,8 @@ cumplimiento de sus fines transita en vialidades de jurisdicción federal, estat
 municipal;
 XXXIX. Persona usuaria: La persona que realiza desplazamientos haciendo uso del sistema de
 movilidad;
-XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-3" placement="bottom">
-              <p>Fracción reformada DOF 29-12-2023</p>
-            </note>
-          </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
-              <content>
-                <p>artículo 2 de Ley General para la Inclusión de las Personas con Discapacidad;
+XL. Personas con discapacidad: Personas a las que hace referencia la fracción XXVII del
+artículo 2 de Ley General para la Inclusión de las Personas con Discapacidad;
 XLI. Personas con movilidad limitada: Toda persona cuya movilidad se ha reducido por
 motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad,
 requiere una atención adecuada y la adaptación a sus necesidades particulares en el
@@ -421,10 +411,13 @@ cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual
 tanto en el ámbito privado como en el público.</p>
               </content>
             </paragraph>
+            <note placementBase="#art-3." placement="bottom">
+              <p>Fracción reformada DOF 29-12-2023</p>
+            </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Principios de movilidad y seguridad vial.
 La Administración Pública Federal, de las entidades federativas, municipal, de las demarcaciones
@@ -516,9 +509,9 @@ circunstancias, las vías de manera preferencial con el fin de garantizar su seg
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Enfoque Sistémico y de Sistemas seguros.
 Las medidas que deriven de la presente Ley tendrán como objetivo prioritario la protección de la vida y
@@ -561,9 +554,9 @@ vulnerabilidad, con base en las necesidades de cada territorio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. Jerarquía de la movilidad.
 La planeación, diseño e implementación de las políticas públicas, planes y programas en materia de
@@ -582,9 +575,9 @@ prioritario de la vía a vehículos que presten servicios de emergencia, cuando 
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Sistema Nacional de Movilidad y Seguridad Vial.
 El Sistema Nacional de Movilidad y Seguridad Vial será el mecanismo de coordinación entre las
@@ -693,9 +686,9 @@ objeto de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. De la política nacional.
 La política nacional de movilidad y seguridad vial se diseñará con un enfoque sistémico y ejecutará
@@ -706,9 +699,9 @@ Política de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. La movilidad es el derecho de toda persona a trasladarse y a disponer de un sistema
 integral de movilidad de calidad, suficiente y accesible que, en condiciones de igualdad y sostenibilidad,
@@ -743,9 +736,9 @@ continental.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. El derecho a la movilidad permite que las personas puedan elegir libremente la forma de
 trasladarse, en y entre los distintos centros de población, a fin de acceder a los bienes, servicios y
@@ -753,9 +746,9 @@ oportunidades que otorgan éstos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. De la seguridad vial.
 La seguridad vial es el conjunto de medidas, normas, políticas y acciones adoptadas para prevenir los
@@ -789,9 +782,9 @@ acciones de prevención, atención durante y posterior a los siniestros viales.<
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. El sistema de movilidad debe contar con las condiciones necesarias que protejan al
 máximo posible la vida, salud e integridad física de las personas en sus desplazamientos por las vías
@@ -804,9 +797,9 @@ constituyan factores de riesgo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. De la accesibilidad.
 Las autoridades competentes en el ámbito de sus atribuciones deberán garantizar que la movilidad
@@ -816,9 +809,9 @@ grupos en situación de vulnerabilidad, tanto en zonas urbanas como rurales e in
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Las leyes y reglamentos en la materia contendrán las previsiones necesarias para
 garantizar, al menos, lo siguiente:
@@ -840,16 +833,16 @@ territorios insulares contemplen las rutas y los servicios más seguros, incluye
 y asequibles para las personas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 29-12-2023</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 29-12-2023</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. De la eficiencia.
 Las autoridades deben, en todo tiempo, maximizar los desplazamientos ágiles y asequibles,
@@ -858,9 +851,9 @@ comunicación disponibles.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. De la sostenibilidad.
 Las autoridades, en sus ámbitos de competencia, deberán satisfacer los requerimientos de movilidad
@@ -875,9 +868,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Las políticas en materia de movilidad deberán fomentar la resiliencia de las personas, de
 la sociedad y del sistema de movilidad, frente a los efectos negativos del cambio climático.
@@ -888,9 +881,9 @@ entre otras.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Las políticas en materia de movilidad que se determinen por las autoridades de los tres
 órdenes de gobierno, promoverán e incentivarán la gradual adopción de las innovaciones tecnológicas en
@@ -898,9 +891,9 @@ los sistemas aplicados al transporte, vehículos, combustibles, fuentes de energ
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. De la calidad.
 Toda persona tiene derecho a buscar y acceder a información sobre el estado del sistema de
@@ -911,9 +904,9 @@ disponibilidad de los servicios auxiliares al transporte.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. El sistema de movilidad deberá ofrecer múltiples opciones de servicios y modos de
 transporte debidamente integrados, que proporcionen disponibilidad, calidad y accesibilidad; que
@@ -924,9 +917,9 @@ servicios de transporte específico para personas con discapacidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. De la inclusión e igualdad.
 El sistema de movilidad debe ser igualitario, equitativo e inclusivo, por lo que las autoridades
@@ -937,9 +930,9 @@ económica, género, edad u otra.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Para cumplir con lo anterior, las autoridades competentes deberán diseñar y operar el
 sistema de movilidad respetando los siguientes criterios:
@@ -970,13 +963,13 @@ espacio público por parte de todas las personas usuarias, de acuerdo con la jer
 movilidad y las necesidades territoriales de los centros de población.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 29-12-2023</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. Derechos de las víctimas de siniestros de tránsito y sus familiares.
 En todo proceso de carácter administrativo, penal o civil que se lleve a cabo como consecuencia de
@@ -1009,9 +1002,9 @@ relacionen con la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Estrategia Nacional de Movilidad y Seguridad Vial.
 La Estrategia Nacional de Movilidad y Seguridad Vial establecerá las bases para el desarrollo de la
@@ -1029,9 +1022,9 @@ Nacional y publicada en el Diario Oficial de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Formulación de la Estrategia Nacional de Movilidad y Seguridad Vial.
 Para la formulación de la Estrategia Nacional se deberá observar, al menos, lo siguiente:
@@ -1060,9 +1053,9 @@ vulnerabilidad y personas con discapacidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Visión a largo plazo de la Estrategia Nacional.
 La Estrategia Nacional tendrá una visión con un horizonte a corto, mediano y largo plazo del
@@ -1085,9 +1078,9 @@ ajustarán sus políticas y acciones a lo establecido en la Estrategia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Indicadores y Bases de Datos de Movilidad y Seguridad Vial contenidas en el
 Sistema de Información Territorial y Urbano.
@@ -1119,9 +1112,9 @@ competentes elaboren las políticas de movilidad y seguridad vial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Integración de Indicadores y Bases de Datos de Movilidad y Seguridad Vial.
 La integración de indicadores y bases de datos del Sistema de Información Territorial y Urbano se
@@ -1138,9 +1131,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Bases de Datos sobre Movilidad y Seguridad Vial.
 La Federación y las entidades federativas, en el ámbito de sus competencias, integrarán las bases de
@@ -1174,9 +1167,9 @@ vehículo necesite registrarlo por motivo de robo o extravío.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Reporte de los Indicadores y Bases de Datos de las entidades federativas al
 Sistema de Información Territorial y Urbano.
@@ -1196,9 +1189,9 @@ locales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Criterios de Movilidad y Seguridad Vial.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -1284,9 +1277,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Movilidad con perspectiva de género.
 En la planeación y diseño de la movilidad y la seguridad vial, así como en los diferentes componentes
@@ -1318,9 +1311,9 @@ Infraestructura</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. De los instrumentos para la Infraestructura de Movilidad y Seguridad Vial.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -1338,9 +1331,9 @@ infraestructura vial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Diseño de la red vial.
 Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la
@@ -1362,9 +1355,9 @@ enfoque de sistemas seguros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Criterios para el diseño de infraestructura vial.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -1458,9 +1451,9 @@ fósiles, así como hacer frente a la agenda de adaptación y mitigación al cam
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. De la Infraestructura Vial.
 La infraestructura vial urbana, rural y carretera se compone de los siguientes elementos:
@@ -1479,9 +1472,9 @@ d) Predominantemente urbanas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Estándares para la construcción de infraestructura vial.
 Toda obra en la vía pública destinada a la construcción o conservación de esta, o a la instalación o
@@ -1515,9 +1508,9 @@ circulación, ascenso y descenso del transporte público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Auditorías e inspecciones de infraestructura y seguridad vial.
 Las autoridades de los tres órdenes de gobierno deberán considerar la implementación de auditorías
@@ -1529,9 +1522,9 @@ infraestructura y seguridad vial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Espacios públicos de diseño universal.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -1545,9 +1538,9 @@ seguros y visibilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Espacios para personas peatonas y vehículos no motorizados.
 A fin de garantizar la vocación de las vías, todos los proyectos de infraestructura vial urbana deberán
@@ -1559,9 +1552,9 @@ de la vía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. De los estudios técnicos.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -1570,9 +1563,9 @@ la seguridad vial, con los principios y criterios establecidos en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Sistemas integrados de modalidades de transporte.
 Los servicios de transporte público y privado, tanto de pasajeros como de carga, podrán desarrollarse
@@ -1592,9 +1585,9 @@ vehículos no motorizados y tracción humana.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Del servicio de transporte público.
 El servicio público de tránsito es la actividad técnica, realizada directamente por la administración
@@ -1620,9 +1613,9 @@ trabajadoras el desplazamiento a sus centros de trabajo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Control de los servicios de transporte.
 Cada autoridad en materia de transporte en los tres órdenes de gobierno definirá las categorías de
@@ -1638,9 +1631,9 @@ podrán prohibir la entrada o salida a su territorio de ninguna mercancía nacio
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Instrumentos de control de operación del transporte.
 Para una adecuada operación de los servicios de transporte, las autoridades competentes deberán
@@ -1657,9 +1650,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. De la información del transporte.
 Las autoridades competentes de los tres órdenes de gobierno, establecerán unidades de información
@@ -1673,13 +1666,13 @@ lengua.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Párrafo adicionado DOF 29-12-2023</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Modernización del parque vehicular.
 A efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros de tránsito, las
@@ -1694,9 +1687,9 @@ De los Instrumentos de Política Pública de Movilidad y Seguridad Vial del Trá
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Modalidades a la circulación de vehículos.
 Las autoridades competentes podrán regular y ordenar la circulación de vehículos mediante el
@@ -1711,9 +1704,9 @@ los permisos otorgados por éstas para suministrar los servicios de transporte.<
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Medidas mínimas de tránsito.
 La Federación, las entidades federativas y los municipios deberán incluir en sus reglamentos de
@@ -1805,16 +1798,16 @@ Las autoridades evaluarán la medida y proporcionalidad de las sanciones de trá
 establezcan.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Inciso adicionado DOF 08-05-2023</p>
             </note>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Inciso adicionado DOF 08-05-2023</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Dispositivos de diseño, control y seguridad del tránsito.
 Las autoridades competentes de los tres órdenes de gobierno, en las regulaciones que se emitan
@@ -1824,9 +1817,9 @@ estándares nacionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. De la acreditación y obtención de licencias y permisos de conducir.
 La Federación, las entidades federativas y los municipios, establecerán en su normativa aplicable que
@@ -1851,9 +1844,9 @@ un periodo no menor a seis meses en caso de conductores de transporte público o
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. Regulación para la emisión de acreditación y obtención de licencias y permisos de
 conducir.
@@ -1872,9 +1865,9 @@ de vehículo de que se trate y tendrán plena validez en territorio nacional.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. Del registro e información de la atención médica prehospitalaria.
 Las autoridades responsables de la atención médica prehospitalaria deberán registrar e informar
@@ -1890,9 +1883,9 @@ Obligados y demás normatividad aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. De los estándares de vehículos nuevos.
 Los vehículos nuevos que se comercialicen en el territorio nacional deberán cumplir con los
@@ -1931,9 +1924,9 @@ Demanda</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. Gestión de la demanda de movilidad.
 La gestión de la demanda de movilidad busca reducir el uso de modos de transporte de carga y
@@ -1944,9 +1937,9 @@ esta Ley y la Ley General de Cambio Climático.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Zonas y tramos de vía de gestión de la demanda de movilidad.
 Las zonas de gestión de la demanda son polígonos en los que se regula el flujo de vehículos
@@ -1973,9 +1966,9 @@ lo dispuesto en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. Instrumentos económicos y financieros en materia de movilidad y seguridad vial.
 La Federación, entidades federativas y municipios y las demarcaciones territoriales de la Ciudad de
@@ -1986,9 +1979,9 @@ sistemas de movilidad, la renovación vehicular, la gestión de la seguridad via
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Impacto a la movilidad y a la seguridad vial.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -2003,9 +1996,9 @@ Instrumentos financieros</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Instrumentos de financiamiento.
 Serán instrumentos de financiamiento público los programas, acciones y proyectos de inversión
@@ -2014,9 +2007,9 @@ relacionados con la movilidad y la seguridad vial que desarrollen las autoridade
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. Priorización de las acciones y recursos en materia de movilidad y seguridad vial.
 Los programas, acciones y proyectos de infraestructura relacionados con la movilidad y la seguridad
@@ -2049,9 +2042,9 @@ jerarquía de la movilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Programas federales de inversión.
 Las dependencias y entidades de la Administración Pública Federal incorporarán en la ejecución de
@@ -2062,9 +2055,9 @@ De la sensibilización, educación y formación en materia de movilidad y seguri
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. De la sensibilización, educación y formación.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -2082,9 +2075,9 @@ transporte público y al uso racional del automóvil particular.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. De la sensibilización.
 La sensibilización en materia de movilidad y seguridad vial tiene como objetivo transmitir información a
@@ -2109,9 +2102,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. De la educación.
 La educación en materia de movilidad y seguridad vial tiene como objetivo transmitir una serie de
@@ -2141,9 +2134,9 @@ activamente a la población en el mejoramiento de su entorno social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. De la formación.
 La formación en materia de movilidad y seguridad vial implica que el personal técnico y/o profesional
@@ -2157,9 +2150,9 @@ seguridad vial acredite su capacidad técnica y operativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. De la Federación.
 Corresponde a la Federación, en las respectivas atribuciones de sus dependencias:
@@ -2189,9 +2182,9 @@ VIII. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. De las Entidades Federativas.
 Corresponde a las entidades federativas:
@@ -2272,9 +2265,9 @@ XXIII. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. De los municipios.
 Corresponde a los municipios las siguientes atribuciones:
@@ -2354,9 +2347,9 @@ XXIV. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. De las demarcaciones territoriales de la Ciudad de México.
 Corresponde a las demarcaciones territoriales de la Ciudad de México:
@@ -2378,9 +2371,9 @@ VII. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. Secretaría de Desarrollo Agrario, Territorial y Urbano.
 Corresponden a la Secretaría de Desarrollo Agrario, Territorial y Urbano las siguientes atribuciones:
@@ -2442,9 +2435,9 @@ XV. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Secretaría de Infraestructura, Comunicaciones y Transportes.
 Corresponden a la Secretaría de Infraestructura, Comunicaciones y Transportes, las siguientes
@@ -2495,9 +2488,9 @@ XV. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. Secretaría de Seguridad y Protección Ciudadana.
 Corresponden a la Secretaría de Seguridad y Protección Ciudadana, las siguientes atribuciones:
@@ -2522,9 +2515,9 @@ VI. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Secretaría de Salud.
 Corresponden a la Secretaría de Salud, a través del Secretariado Técnico del Consejo Nacional para
@@ -2540,23 +2533,16 @@ droga, psicotrópico o estupefaciente;
 IV. Celebrar convenios de cooperación y coordinación en la materia;
 V. Capacitar a quienes realicen las auditorías de seguridad vial y estudios de mejoramiento
 de sitios con elevada incidencia de siniestros de tránsito, en materias de su competencia;
-VI. Fijar los límites de alcohol en la sangre y aire expirado, con base en lo establecido en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
-              <content>
-                <p>artículo 49, que deberán ser los referentes en los operativos de alcoholimetría en todo el
+VI. Fijar los límites de alcohol en la sangre y aire expirado, con base en lo establecido en el
+artículo 49, que deberán ser los referentes en los operativos de alcoholimetría en todo el
 territorio nacional, y
 VII. Las demás previstas para el cumplimiento de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. Mecanismos de coordinación y colaboración.
 Las atribuciones en materia de movilidad y seguridad vial serán ejercidas de manera concurrente por
@@ -2588,9 +2574,9 @@ entidades que señalen sus propios ordenamientos o que sean designadas para tal 
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. Convenios de coordinación metropolitanos.
 En el caso de las zonas metropolitanas que correspondan a una entidad federativa, su planeación y
@@ -2602,9 +2588,9 @@ disposiciones jurídicas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. Convenios de coordinación metropolitanos interestatales e intermunicipales.
 En el caso de que la zona metropolitana, delimitada formalmente, sea de carácter interestatal, las
@@ -2616,9 +2602,9 @@ la movilidad y seguridad vial dentro de su territorio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Naturaleza de los convenios de coordinación metropolitanos.
 Los convenios de coordinación metropolitanos celebrados por los tres órdenes de gobierno, podrán
@@ -2628,9 +2614,9 @@ Ley y demás disposiciones jurídicas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. Observatorios Ciudadanos de Movilidad y Seguridad Vial.
 La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad
@@ -2647,9 +2633,9 @@ territorial, y en general sobre la aplicación de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. A fin de garantizar la participación efectiva de la sociedad, las leyes de las entidades
 federativas deberán tomar en cuenta a las instituciones de planeación y de participación ciudadana
@@ -2658,9 +2644,9 @@ Urbano, sin limitar la posibilidad de crear otros organismos que se consideren n
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. Las autoridades correspondientes deberán proporcionar a los Observatorios la
 información sobre el proceso de reglamentación de la movilidad, del transporte y del tránsito, los planes
@@ -2670,9 +2656,9 @@ la entidad federativa correspondiente, municipio, demarcación territorial y zon
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. Los Observatorios podrán llevar a cabo, de manera conjunta con los institutos de
 planeación de las entidades federativas, municipales, multimunicipales y metropolitanos, procesos de
@@ -2680,25 +2666,60 @@ consulta y deliberación sobre temas de movilidad y seguridad vial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. Las entidades federativas establecerán las regulaciones específicas a que se sujetará la
 creación y operación de los Observatorios, con base en esta Ley.
-Transitorios
-Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
-la Federación.
-Segundo. El Congreso de la Unión y las Legislaturas de las entidades federativas, en un plazo no
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. El Congreso de la Unión y las Legislaturas de las entidades federativas, en un plazo no
 mayor a 180 días, contados a partir de la entrada en vigor de la presente Ley, deberán aprobar las
-reformas necesarias a las leyes de su competencia, a fin de armonizarlas con lo dispuesto en esta Ley.
-Tercero. El Sistema Nacional de Movilidad y Seguridad Vial deberá emitir la Estrategia Nacional de
+reformas necesarias a las leyes de su competencia, a fin de armonizarlas con lo dispuesto en esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El Sistema Nacional de Movilidad y Seguridad Vial deberá emitir la Estrategia Nacional de
 Movilidad y Seguridad Vial en un plazo no mayor a 365 días naturales contados a partir de la entrada en
-vigor de la presente Ley.
-Cuarto. El Sistema Nacional de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos
+vigor de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Sistema Nacional de Movilidad y Seguridad Vial deberá integrarse y emitir los lineamientos
 para su organización y operación, en un plazo no mayor a 180 días naturales contados a partir de la
-entrada en vigor de la presente Ley.
-Quinto. En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la
+entrada en vigor de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. En un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de la
 presente Ley, las Secretarías integrantes del Sistema Nacional de Movilidad y Seguridad Vial, las
 entidades federativas, así como los municipios, deberán integrar los registros, indicadores y bases de
 datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y
@@ -2707,8 +2728,15 @@ Urbano.
 LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 29-12-2023
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se
 cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente
 ejercicio fiscal y subsecuentes, y en caso de que se realice alguna modificación a la estructura orgánica
 de las dependencias y entidades de la Administración Pública Federal, éstas deberán realizarse mediante
@@ -2760,10 +2788,24 @@ Artículo Único.- Se reforman los artículos 3, fracción I; 14, fracciones I y
 adiciona un segundo párrafo al artículo 46 de la Ley General de Movilidad y Seguridad Vial, para quedar
 como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- A la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- A la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas
 contarán con un plazo de 90 días naturales para realizar las adecuaciones a su normatividad
 correspondiente.
 Ciudad de México, a 14 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen.

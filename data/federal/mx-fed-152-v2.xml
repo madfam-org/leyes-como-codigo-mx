@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1931-07-27/152/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1931-07-27/152/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -197,20 +197,13 @@ de toda clase de impuestos, servicios o derechos.</p>
 invariablemente en pesos y, en su caso, sus fracciones. Dichas obligaciones se solventarán mediante la
 entrega, por su valor nominal, de billetes del Banco de México o monedas metálicas de las señaladas en
 el artículo 2o.
-No obstante, si el deudor demuestra que recibió del acreedor monedas de las mencionadas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-2o">
-          <num>Artículo 2o</num>
-          <paragraph id="art-2o-para-1">
-            <content>
-              <p>artículo 2o. bis, podrá solventar su obligación entregando monedas de esa misma clase conforme a la
+No obstante, si el deudor demuestra que recibió del acreedor monedas de las mencionadas en el
+artículo 2o. bis, podrá solventar su obligación entregando monedas de esa misma clase conforme a la
 cotización de éstas para el día en que se haga el pago.
 , 31-08-1936. Fe de erratas DOF 14-10-1936. Reformado DOF 29-12-1938, 07-01-1980, 28-12-1981</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2o" placement="bottom">
+          <note placementBase="#art-7" placement="bottom">
             <p>Artículo reformado DOF 27-04-1935</p>
           </note>
         </article>
@@ -263,9 +256,9 @@ en contrario será nula.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Las piezas perforadas o recortadas, las que tengan marcas o contraseñas y las que
 presenten vestigios de usos no monetarios, carecerán de curso legal y no serán admitidas en oficinas
@@ -289,16 +282,16 @@ no es aplicable al Banco de México.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo adicionado DOF 07-01-1980</p>
           </note>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo adicionado DOF 07-01-1980</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- La emisión de billetes del Banco de México se ajustará a lo dispuesto en esta ley y en la
 Constitutiva de dicha institución.
@@ -306,9 +299,9 @@ Fe de erratas al artículo DOF 29-07-1931. Reformado DOF 27-04-1935</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Corresponderá privativamente al Banco de México ordenar la acuñación de monedas
 según lo exijan las necesidades monetarias de la República y estrictamente dentro de los límites de esas
@@ -316,13 +309,13 @@ necesidades.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Artículo reformado DOF 10-03-1932</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- El Banco de México sólo podrá ordenar la fabricación de moneda metálica a quienes
 previamente la Secretaría de Hacienda y Crédito Público haya autorizado para este efecto.
@@ -330,13 +323,13 @@ Reforma DOF 23-12-1993: Derogó del artículo los entonces párrafos primero y s
 . Fe de erratas DOF 14-04-1932. Reformado DOF 22-03-1933, 07-01-1980</p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 10-03-1932</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- La Reserva Monetaria estará formada por los siguientes recursos:
 a). Los que la integran al ser expedida esta ley.
@@ -353,26 +346,26 @@ cuenta se practiquen.
 , 27-04-1935</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo reformado DOF 22-03-1933</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- La Reserva Monetaria se destinará exclusivamente a sostener el valor de la moneda
 nacional, y a regular su circulación y los cambios sobre el exterior.
 , 27-04-1935</p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Artículo reformado DOF 22-03-1933</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- Los recursos que constituyen la Reserva Monetaria, en los términos del artículo 14 de
 esta ley, serán considerados por su valor comercial en los estados y balances que el Banco de México
@@ -385,13 +378,13 @@ Secretaría de Servicios Parlamentarios
 , 27-04-1935</p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Artículo reformado DOF 22-03-1933</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Queda prohibida la imitación o reproducción total o parcial, de monedas metálicas o de
 billetes, nacionales o extranjeros, en rótulos, viñetas, anuncios o en cualquiera otra forma, salvo en
@@ -408,13 +401,13 @@ el infractor y las circunstancias de éste.
 . Adicionado DOF 07-01-1980</p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Artículo derogado DOF 22-03-1933</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- Queda prohibida la fabricación de piezas nacionales o extranjeras que hubieren tenido el
 carácter de billetes o de monedas metálicas. Los infractores serán sancionados administrativamente por
@@ -426,13 +419,13 @@ piezas mexicanas de las señaladas en el párrafo anterior.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Artículo adicionado DOF 07-01-1980</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- Cuando exista presunción de que una moneda nacional o extranjera es falsa o ha sido
 alterada, su tenedor podrá pedir al Banco de México, directamente o por conducto de cualquiera
@@ -447,13 +440,13 @@ aseguramiento correspondiente.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Artículo adicionado DOF 07-01-1980</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- Si las monedas respecto a las cuales exista presunción de que son falsas o han sido
 alteradas, llegan a poder de una institución de crédito por medio diverso al previsto en el artículo anterior,
@@ -475,13 +468,13 @@ de crédito, es exclusivamente para los propósitos señalados en este artículo
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Artículo adicionado DOF 07-01-1980</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- Las sanciones previstas en esta ley se aplicarán sin perjuicio de las responsabilidades
 que resulten por haberse cometido alguno o algunos de los ilícitos previstos en el Código Penal para el
@@ -489,13 +482,13 @@ Distrito Federal en Materia de Fuero Común y para toda la República en Materia
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Artículo adicionado DOF 07-01-1980</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- Para la adecuada integración del sistema monetario, en función de las necesidades del
 público y de la duración y costo de los materiales relativos, el Banco de México podrá sustituir los billetes
@@ -507,13 +500,13 @@ fecha en que se publique la resolución correspondiente.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Artículo adicionado DOF 07-01-1980</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- El Banco de México, dentro del plazo a que se refiere el artículo anterior, directamente o
 a través de sus corresponsales, canjeará ilimitadamente y a valor nominal los billetes que se retiren de la
@@ -522,7 +515,7 @@ circulación conforme a ese artículo.
 DISPOSICIONES TRANSITORIAS</p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Artículo adicionado DOF 07-01-1980</p>
           </note>
         </article>
@@ -646,54 +639,54 @@ Fe de erratas al artículo DOF 29-07-1931. Derogado DOF 10-03-1932</p>
             <p>Artículo derogado DOF 10-03-1932</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- (Se deroga).
 Fe de erratas al artículo DOF 29-07-1931. Derogado DOF 10-03-1932</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- (Se deroga).
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo derogado DOF 10-03-1932</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- (Se deroga).
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Artículo derogado DOF 10-03-1932</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- (Se deroga).
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo derogado DOF 10-03-1932</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- Se deroga la Ley de 24 de diciembre de 1930, debiendo aplicarse a la formación de
 la Reserva Monetaria, el saldo que exista a favor de la Comisión de Cambios como resultado de las
@@ -709,9 +702,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- Queda facultada la Secretaría de Hacienda y Crédito Público, para proveer en la
 esfera administrativa, a la ejecución de las disposiciones de esta ley.
@@ -772,15 +765,36 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se crea una nueva unidad del Sistema Monetario de los Estados
 Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 22 de junio de 1992
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 1993, con la excepción del décimo
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 1993, con la excepción del décimo
 transitorio, el cual entrará en vigor el día siguiente al de la publicación del Decreto en el Diario Oficial de
-la Federación.
-SEGUNDO.- Los billetes del Banco de México y las monedas metálicas, representativos de la unidad
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Los billetes del Banco de México y las monedas metálicas, representativos de la unidad
 monetaria que se sustituye en virtud del presente Decreto, podrán emitirse con posterioridad al 1º de
 enero de 1993. Tales signos, independientemente de las fechas de su colocación en el público,
-continuarán en la circulación conservando su poder liberatorio, hasta que sean desmonetizados.
-TERCERO.- En tanto los billetes del Banco de México y las monedas metálicas referidos en el artículo
+continuarán en la circulación conservando su poder liberatorio, hasta que sean desmonetizados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- En tanto los billetes del Banco de México y las monedas metálicas referidos en el artículo
 anterior no hayan sido desmonetizados, los billetes y monedas representativos de la nueva unidad
 deberán contener la expresión "nuevos pesos" o el símbolo "N$".
 A partir de la fecha en que los signos monetarios mencionados en primer término hayan sido
@@ -788,24 +802,45 @@ desmonetizados, se iniciará la circulación de signos representativos de la nue
 denominación no figure la palabra "nuevos" ni su abreviatura "N".
 Los signos monetarios metálicos que representen fracciones de la nueva unidad contendrán desde un
 principio sólo la expresión "centavos" o su símbolo "¢", sin anteponer la palabra "nuevos" o su abreviatura
-"N".
-CUARTO.- Los precios, salarios y demás prestaciones de carácter laboral, así como las sumas en
+"N".</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Los precios, salarios y demás prestaciones de carácter laboral, así como las sumas en
 moneda nacional contenidas en estados financieros u otros documentos contables, o en títulos de crédito
 y, en general, cualquier otra suma en dicha moneda, deberán expresarse en "nuevos pesos", "centavos"
 y, en su caso, en fracciones de estos últimos, hasta que los signos monetarios referidos en el segundo
 transitorio sean desmonetizados.
 Se exceptúan de lo previsto en el primer párrafo de este artículo las denominaciones en pesos que
 contengan antiguas monedas mexicanas acuñadas en metales finos así como monedas de curso legal
-acuñadas en dichos metales, las cuales podrán continuar expresándose en pesos.
-QUINTO.- A partir del 1º de enero de 1993 y en tanto los billetes del Banco de México y las monedas
+acuñadas en dichos metales, las cuales podrán continuar expresándose en pesos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- A partir del 1º de enero de 1993 y en tanto los billetes del Banco de México y las monedas
 metálicas representativos de la unidad monetaria que se sustituye no hayan sido desmonetizados, las
 obligaciones de pago en moneda nacional deberán indicar que se denominan en la nueva unidad
 mediante la expresión "nuevos pesos" o el símbolo "N$" y, en su caso, la expresión "centavos" o el
 símbolo "¢".
 A falta de esta indicación, las obligaciones se entenderán contraídas en la nueva unidad monetaria, a
 menos que cualquiera de las partes demuestre que la intención de éstas fue pactar en la unidad
-monetaria que se sustituye en virtud del presente Decreto.
-SEXTO.- Las instituciones de crédito y el Banco de México deberán abstenerse de pagar los cheques
+monetaria que se sustituye en virtud del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- Las instituciones de crédito y el Banco de México deberán abstenerse de pagar los cheques
 expedidos durante el período a que se refiere el artículo anterior, cuyo importe indicado en palabras no
 vaya seguido de la expresión "nuevos pesos". Dichos cheques serán devueltos a quienes los presenten,
 previa la inclusión en el propio título de la causa por la que no se paga.
@@ -819,20 +854,48 @@ referido en el artículo anterior, suscriban usuarios de tarjetas de crédito co
 apertura de crédito en cuenta corriente que originen la expedición de esas tarjetas, el acreditante no
 deberá cubrir su importe a los proveedores respectivos cuando a la suma expresada en cifras no se
 anteponga el símbolo "N$" o, de contener la suma a pagar escrita en palabras, ésta no estuviere seguida
-de la expresión "nuevos pesos".
-SEPTIMO.- Las obligaciones dinerarias contraídas con anterioridad a la entrada en vigor del presente
+de la expresión "nuevos pesos".</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SEPTIMO.- Las obligaciones dinerarias contraídas con anterioridad a la entrada en vigor del presente
 Decreto se solventarán, conforme a lo dispuesto por el artículo 3º. Al efecto, se aplicará la equivalencia
-establecida en el artículo 1º.
-OCTAVO.- En tanto los billetes del Banco de México y las monedas metálicas representativos de la
+establecida en el artículo 1º.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO.- En tanto los billetes del Banco de México y las monedas metálicas representativos de la
 unidad monetaria que se sustituye no hayan sido desmonetizados, el pago en moneda nacional de
 obligaciones contraídas en ésta o en moneda extranjera, independientemente de la fecha en que tales
 obligaciones se hayan contraído, se solventarán entregando, indistintamente, dichos billetes y monedas o
-los nuevos signos monetarios. Al efecto, se aplicará la equivalencia establecida en el artículo 1º.
-NOVENO.- Las expresiones en moneda nacional contenidas en leyes, reglamentos, circulares u otras
+los nuevos signos monetarios. Al efecto, se aplicará la equivalencia establecida en el artículo 1º.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO.- Las expresiones en moneda nacional contenidas en leyes, reglamentos, circulares u otras
 disposiciones, que hayan entrado en vigor con anterioridad al 1º de enero de 1993, se entenderán
 referidas a la unidad monetaria que se sustituye. Al computar, expresar o pagar dichas cantidades en la
-nueva unidad monetaria, se aplicará la equivalencia establecida en el Artículo 1º.
-DECIMO.- A partir del día siguiente a la fecha de publicación de este Decreto, las dependencias y
+nueva unidad monetaria, se aplicará la equivalencia establecida en el Artículo 1º.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO.- A partir del día siguiente a la fecha de publicación de este Decreto, las dependencias y
 entidades de la administración pública federal, en el ámbito de sus respectivas competencias, quedan
 facultadas para tomar las medidas necesarias y dictar las disposiciones conducentes para preparar y
 asegurar la adecuada y oportuna operación del nuevo sistema monetario, con la debida salvaguarda de
@@ -1315,15 +1378,36 @@ el año de acuñación y a la derecha el símbolo de la Casa de Moneda de Méxic
 leyenda "DIEZ PESOS". El marco liso con gráfila escalonada.
 Fe de erratas al párrafo DOF 26-06-1992
 CANTO: Estriado.
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 1993, con excepción del segundo
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 1993, con excepción del segundo
 transitorio, el cual entrará en vigor el día siguiente al de la publicación del Decreto en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se deroga el Decreto por el que se reforma el inciso b) del artículo 2º de la Ley
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se deroga el Decreto por el que se reforma el inciso b) del artículo 2º de la Ley
 Monetaria de los Estados Unidos Mexicanos y se señalan las características de las monedas de cien,
 doscientos, quinientos, mil, dos mil, cinco mil y diez mil pesos, publicado en el Diario Oficial de la
-Federación el 23 de julio de 1990.
-TERCERO.- Las piezas de uno, cinco, diez, veinte, cincuenta, cien, quinientos y mil pesos anteriores a
+Federación el 23 de julio de 1990.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Las piezas de uno, cinco, diez, veinte, cincuenta, cien, quinientos y mil pesos anteriores a
 las previstas en el Decreto referido en el artículo anterior, así como las conmemorativas a que se refiere
 el inciso c) del artículo 2º de la Ley Monetaria de los Estados Unidos Mexicanos, que no hayan sido
 desmonetizadas, continuarán con el poder liberatorio que les señala el artículo 5º de la citada Ley, hasta
@@ -1337,11 +1421,25 @@ El Banco de México, deberá publicar en el Diario Oficial de la Federación un 
 indique que las piezas referidas en el párrafo anterior ya han sido retiradas de la circulación, sin perjuicio
 de lo cual, en los términos de su Ley Orgánica, efectuará el canje de dichas monedas durante un plazo
 de dos años contado a partir de la fecha de publicación del aviso respectivo.
-Fe de erratas al artículo DOF 26-06-1992
-CUARTO.- Se desmonetizan las piezas actuales con denominaciones en centavos de peso. Sin
+Fe de erratas al artículo DOF 26-06-1992</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Se desmonetizan las piezas actuales con denominaciones en centavos de peso. Sin
 perjuicio de lo anterior, el Banco de México, en los términos de su Ley Orgánica, las continuará
-recibiendo para su canje por piezas en circulación, hasta el 1º de enero de 1995.
-QUINTO.- En tanto el Banco de México no retire de la circulación las monedas a que se refiere el
+recibiendo para su canje por piezas en circulación, hasta el 1º de enero de 1995.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- En tanto el Banco de México no retire de la circulación las monedas a que se refiere el
 tercero transitorio, las monedas de uno, dos, cinco y diez pesos a que se refiere el artículo tercero,
 deberán contener en el reverso, en lugar del símbolo "$" el símbolo "N$", y la moneda de diez pesos
 deberá contener además, en lugar de la expresión "pesos" la expresión “nuevos pesos”.
@@ -1374,9 +1472,23 @@ Publicado en el Diario Oficial de la Federación el 8 de diciembre de 1992
 ARTICULO PRIMERO.- Se reforma el primer párrafo del inciso b) del artículo 2º de la Ley Monetaria
 de los Estados Unidos Mexicanos, para quedar en los términos siguientes:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1993.
-SEGUNDO.- La moneda de veinte pesos a que se refiere el artículo segundo de este Decreto, deberá
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1993.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- La moneda de veinte pesos a que se refiere el artículo segundo de este Decreto, deberá
 contener en el reverso el símbolo "N$", en lugar del símbolo "$", hasta que el Banco de México, en
 términos de lo dispuesto por el artículo tercero transitorio del Decreto que reforma y adiciona diversas
 disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las
@@ -1403,10 +1515,24 @@ Publicado en el Diario Oficial de la Federación el 9 de septiembre de 1993
 ARTICULO PRIMERO.- Se reforma el inciso b) del Artículo 2o. de la Ley Monetaria de los Estados
 Unidos Mexicanos, para quedar en los términos siguientes:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- La moneda de cincuenta pesos a que se refiere este Decreto, deberá contener en el
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- La moneda de cincuenta pesos a que se refiere este Decreto, deberá contener en el
 reverso el símbolo "N$", en lugar del símbolo "$" hasta que el Banco de México en términos de lo
 dispuesto por el Artículo Tercero Transitorio del Decreto por el que se crea una nueva unidad del Sistema
 Monetario de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 22 de
@@ -1427,48 +1553,97 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 LEY del Banco de México.
 Publicada en el Diario Oficial de la Federación el 23 de diciembre de 1993
-TRANSITORIOS
-PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de
-este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día
-siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
-La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos
-previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
-SEGUNDO.- El periodo del primer Gobernador del Banco vencerá el 31 de diciembre de 1997. Los
-periodos de los primeros Subgobernadores vencerán los días 31 de diciembre de 1994, 1996, 1998 y
-2000, respectivamente, debiendo el Ejecutivo Federal señalar cuál de los periodos citados corresponderá
-a cada Subgobernador.
-TERCERO.- Las remuneraciones del Gobernador y de los Subgobernadores a que se refiere el
-artículo inmediato anterior, correspondientes al primer ejercicio financiero del Banco, serán determinadas
-de conformidad con lo dispuesto en el artículo 49 de la presente Ley, con anterioridad a que se efectúe la
-designación de los primeros integrantes de la Junta de Gobierno.
-CUARTO.- Las instrucciones del Tesorero de la Federación al Banco, en términos de la fracción I del</p>
+TRANSITORIOS</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
             <content>
-              <p>artículo 12, no tendrán que efectuarse con la antelación señalada en la propia fracción I de dicho artículo,
+              <p>PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de
+este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día
+siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
+La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos
+previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- El periodo del primer Gobernador del Banco vencerá el 31 de diciembre de 1997. Los
+periodos de los primeros Subgobernadores vencerán los días 31 de diciembre de 1994, 1996, 1998 y
+2000, respectivamente, debiendo el Ejecutivo Federal señalar cuál de los periodos citados corresponderá
+a cada Subgobernador.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Las remuneraciones del Gobernador y de los Subgobernadores a que se refiere el
+artículo inmediato anterior, correspondientes al primer ejercicio financiero del Banco, serán determinadas
+de conformidad con lo dispuesto en el artículo 49 de la presente Ley, con anterioridad a que se efectúe la
+designación de los primeros integrantes de la Junta de Gobierno.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Las instrucciones del Tesorero de la Federación al Banco, en términos de la fracción I del
+artículo 12, no tendrán que efectuarse con la antelación señalada en la propia fracción I de dicho artículo,
 durante un plazo de tres años contado a partir de la entrada en vigor de la presente Ley. En el transcurso
 de ese mismo plazo, el Tesorero de la Federación podrá seguir librando los cheques y demás
-documentos a que se refiere la fracción III del referido artículo.
-QUINTO.- El Banco de México, organismo descentralizado del Gobierno Federal, se transforma en la
+documentos a que se refiere la fracción III del referido artículo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- El Banco de México, organismo descentralizado del Gobierno Federal, se transforma en la
 nueva persona de derecho público a que se refiere esta Ley y conserva la titularidad de todos los bienes,
-derechos y obligaciones integrantes del patrimonio del primero.
-SEXTO.- El Reglamento Interior del Banco de México deberá expedirse en un plazo no mayor de seis
+derechos y obligaciones integrantes del patrimonio del primero.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- El Reglamento Interior del Banco de México deberá expedirse en un plazo no mayor de seis
 meses, contado a partir del día en que quede legalmente instalada la Junta de Gobierno. Hasta en tanto
 se expida dicho Reglamento continuará en vigor el publicado en el Diario Oficial de la Federación el 4
 de julio de 1985, y el recurso previsto en el artículo 64 se presentará ante la Gerencia Jurídica del Banco
 de México.
 Cuando en el Reglamento actualmente vigente o en cualquier otro instrumento jurídico se haga
 referencia al Director General del Banco, se entenderá hecha al Gobernador del Banco en el ámbito de
-las atribuciones que le confiere la presente Ley.
-SEPTIMO.- Los poderes, mandatos, designaciones de delegados fiduciarios y en general las
+las atribuciones que le confiere la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SEPTIMO.- Los poderes, mandatos, designaciones de delegados fiduciarios y en general las
 representaciones otorgadas y las facultades concedidas por el Banco de México con anterioridad a la
 entrada en vigor de la presente Ley, subsistirán en sus términos en tanto no sean modificados o
-revocados expresamente.
-OCTAVO.- Las monedas metálicas actualmente en circulación pasarán a formar parte del pasivo en el
+revocados expresamente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO.- Las monedas metálicas actualmente en circulación pasarán a formar parte del pasivo en el
 balance de la Institución, aplicando el régimen previsto en el artículo 56.
 Los fondos del Gobierno Federal depositados en el Banco de México derivados de la diferencia entre
 el valor facial de las monedas entregadas por la Casa de Moneda al propio Banco hasta el día inmediato
@@ -1478,10 +1653,24 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-01-2009
 Secretaría General
 Secretaría de Servicios Parlamentarios
 anterior al que entre en vigor la presente Ley y los costos en que se haya incurrido en su producción,
-quedarán a favor de este último.
-NOVENO.- El Banco de México podrá poner en circulación en cualquier tiempo los billetes con fecha
-de emisión anterior a la entrada en vigor de la presente Ley.
-DECIMO.- El Banco podrá seguir desempeñando el cargo de fiduciario en los fideicomisos que
+quedarán a favor de este último.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO.- El Banco de México podrá poner en circulación en cualquier tiempo los billetes con fecha
+de emisión anterior a la entrada en vigor de la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO.- El Banco podrá seguir desempeñando el cargo de fiduciario en los fideicomisos que
 actualmente maneja, que no estén previstos en el artículo 7o. fracción XI, pudiendo recibir de dichos
 fideicomisos depósitos bancarios de dinero.
 Tratándose de fideicomisos públicos de fomento económico, el Banco sólo podrá seguir
@@ -1499,16 +1688,37 @@ en que están mencionadas: las facultadas para ello de conformidad con el acto j
 fideicomiso; el o los fideicomitentes; el o los fideicomisarios, individualizados, o, a falta de las anteriores,
 el propio Banco de México. En tanto el Banco continúe siendo fiduciario en estos fideicomisos podrá
 concederles financiamiento con carácter extraordinario para evitar eventuales incumplimientos de sus
-obligaciones.
-DECIMO PRIMERO.- En tanto el Banco de México expide las disposiciones a que se refiere esta Ley,
+obligaciones.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO PRIMERO.- En tanto el Banco de México expide las disposiciones a que se refiere esta Ley,
 seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes. Las
 medidas administrativas dictadas con fundamento en disposiciones que por esta Ley se derogan,
-continuarán en vigor hasta que no sean revocadas o modificadas por las autoridades competentes.
-DECIMO SEGUNDO.- A los intermediarios financieros que hayan realizado operaciones con
+continuarán en vigor hasta que no sean revocadas o modificadas por las autoridades competentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO SEGUNDO.- A los intermediarios financieros que hayan realizado operaciones con
 anterioridad a la entrada en vigor de la presente Ley, en contravención a las disposiciones que por ésta
 se derogan, les serán aplicables las disposiciones vigentes al momento en que se hayan realizado tales
-operaciones.
-DECIMO TERCERO.- El último ejercicio financiero del Banco de México, organismo descentralizado
+operaciones.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO TERCERO.- El último ejercicio financiero del Banco de México, organismo descentralizado
 del Gobierno Federal, comenzará el 1o. de enero de 1994 y terminará el 31 de marzo de 1994. Durante
 dicho ejercicio la Institución no quedará sujeta a lo dispuesto por el artículo 7o. de la Ley Orgánica del
 Banco de México.
@@ -1516,8 +1726,15 @@ El primer ejercicio financiero del Banco de México que regula esta Ley se inici
 1994 y terminará el 31 de diciembre de 1994.
 El remanente de operación del Banco de México correspondiente al ejercicio a que se refiere el
 párrafo primero de este artículo, deberá entregarse al Gobierno Federal a más tardar en el mes de abril
-de 1995.
-DECIMO CUARTO.- El Banco de México enviará al Ejecutivo Federal y al Congreso de la Unión o, en
+de 1995.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO CUARTO.- El Banco de México enviará al Ejecutivo Federal y al Congreso de la Unión o, en
 su caso, a su Comisión Permanente, los documentos a que se refiere la fracción I del artículo 51 que
 correspondan al primer ejercicio de la Institución, dentro del mes inmediato siguiente a aquél en que entre
 30 de 33
@@ -1529,23 +1746,51 @@ en vigor la presente Ley, así como un informe sobre la evolución del financiam
 México y del comportamiento de la cuenta de la Tesorería de la Federación que el propio Banco le lleva
 al Gobierno Federal, durante los meses de enero a marzo de 1994.
 Respecto del primer ejercicio de la Institución, el Banco no estará obligado a entregar el informe a que
-se refiere la fracción II del artículo 51.
-DECIMO QUINTO.- A partir de la entrada en vigor de la presente Ley y hasta en tanto el valor real
+se refiere la fracción II del artículo 51.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO QUINTO.- A partir de la entrada en vigor de la presente Ley y hasta en tanto el valor real
 total del capital más las reservas de la Institución sea superior al veinte por ciento del total de los billetes
 y monedas en circulación más las obligaciones de la Institución a favor de entidades financieras y del
 Gobierno Federal, excepto los depósitos a que se refiere la fracción I del artículo 9o., dicho valor total no
 será incrementado conforme al crecimiento del producto interno bruto en los términos del artículo 53.
 Durante el lapso referido, el Gobierno Federal y el Banco podrán acordar reducciones al citado valor real
 total, siempre que ellas no impliquen disminuir dicho valor a una cantidad que represente un porcentaje
-inferior al mencionado ni tampoco tengan por consecuencia expansión monetaria.
-DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley General de Títulos y
+inferior al mencionado ni tampoco tengan por consecuencia expansión monetaria.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO SEXTO.- Los depósitos a que se refiere el artículo 132 de la Ley General de Títulos y
 Operaciones de Crédito deberán constituirse en Nacional Financiera, S.N.C. Aquéllos recibidos por el
 Banco de México con anterioridad al inicio de vigencia de esta Ley serán conservados y entregados por
-éste de conformidad con las disposiciones aplicables.
-DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos
+éste de conformidad con las disposiciones aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO SEPTIMO.- Cuando las leyes, reglamentos, decretos, acuerdos u otros ordenamientos
 jurídicos hagan mención a la Ley Orgánica del Banco de México, o a este último, la referencia se
-entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.
-DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
+entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
 Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13,
 párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y
 décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del
@@ -1570,9 +1815,23 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman y adicionan los artículos 4o. y 5o. de la Ley Monetaria
 de los Estados Unidos Mexicanos.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2004
-Transitorios
-Primero.- El presente Decreto entrará en vigor el 1 de enero de 2006.
-Segundo.- Los signos monetarios fabricados con anterioridad a la fecha de entrada en vigor de este
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el 1 de enero de 2006.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Los signos monetarios fabricados con anterioridad a la fecha de entrada en vigor de este
 Decreto, podrán ser puestos en circulación por el Banco de México con posterioridad a dicha fecha,
 conservando su poder liberatorio hasta que sean desmonetizados.
 México, D.F., a 5 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios
@@ -1598,23 +1857,44 @@ diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y se�
 de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos”, publicado
 en el Diario Oficial de la Federación el 22 de junio de 1992, para quedar en los términos siguientes:
 ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO. Las monedas a que se refiere el presente Decreto podrán comenzar a acuñarse a los tres
-meses siguientes de su publicación en el Diario Oficial de la Federación.
-TERCERO. Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el
-Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el</p>
+TRANSITORIOS</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5o">
-          <num>Artículo 5o</num>
-          <paragraph id="art-5o-para-1">
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
             <content>
-              <p>artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la
-circulación por el Banco de México.
-CUARTO. El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que
+              <p>PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Las monedas a que se refiere el presente Decreto podrán comenzar a acuñarse a los tres
+meses siguientes de su publicación en el Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el
+Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el
+artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la
+circulación por el Banco de México.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que
 se indique que las piezas referidas en el artículo anterior ya han sido retiradas de la circulación, fijando el
 plazo necesario para realizar su canje.
 México, D. F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip.

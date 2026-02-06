@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1992-06-29/lcndh/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1992-06-29/lcndh/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -348,9 +348,9 @@ VII. Tener preferentemente título de licenciado en derecho.
               <p>Artículo reformado DOF 23-01-1998</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. El Presidente de la Comisión Nacional de los Derechos Humanos, será elegido por el
 voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus
@@ -366,10 +366,10 @@ titular.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Párrafo reformado DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Artículo reformado DOF 26-11-2001</p>
             </note>
           </article>
@@ -442,22 +442,22 @@ Senado o la Comisión Permanente.
               <p>Artículo adicionado DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. El Presidente de la Comisión Nacional de los Derechos Humanos durará en su encargo
 cinco años, y podrá ser reelecto por una sola vez.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Artículo reformado DOF 26-11-2001</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- Las funciones del Presidente de la Comisión Nacional, de los Visitadores Generales y de
 la Secretaría Ejecutiva, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión
@@ -466,9 +466,9 @@ profesión, exceptuando las actividades académicas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- El Presidente de la Comisión Nacional y los Visitadores Generales no podrán ser
 detenidos ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones
@@ -482,18 +482,18 @@ asigna esta ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. El Presidente de la Comisión Nacional podrá ser removido de sus funciones y, en su
 caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos por el</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- El Presidente de la Comisión Nacional tendrá las siguientes facultades y obligaciones:
 
@@ -504,21 +504,8 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 funciones de la Comisión;
 IV. Distribuir y delegar funciones en los términos del Reglamento Interno;
 
-V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-15" placement="bottom">
-              <p>Párrafo reformado DOF 26-11-2001</p>
-            </note>
-            <note placementBase="#art-15" placement="bottom">
-              <p>Fracción reformada DOF 26-11-2001</p>
-            </note>
-          </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
-              <content>
-                <p>artículo 52 de esta Ley.
+V.- Presentar anualmente a los Poderes de la Unión, un informe de actividades, en los términos del
+artículo 52 de esta Ley.
 , 30-06-2006
 VI.- Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios
 de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con
@@ -551,25 +538,31 @@ XII. Las demás que le señalen la presente Ley y otros ordenamientos.
 Fracción reformada y recorrida DOF 15-06-2012</p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
+              <p>Párrafo reformado DOF 26-11-2001</p>
+            </note>
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción reformada DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción reformada DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
+              <p>Fracción reformada DOF 26-11-2001</p>
+            </note>
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción reformada DOF 15-06-2012</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción adicionada DOF 15-06-2012</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción adicionada DOF 15-06-2012</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- Tanto el Presidente de la Comisión, como los Visitadores Generales y los visitadores
 adjuntos, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con
@@ -577,9 +570,9 @@ las quejas o inconformidades, presentadas ante la Comisión Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- El Consejo a que se refiere el artículo 5o. de esta ley, estará integrado por diez personas
 que gocen de reconocido prestigio en la sociedad, mexicanos en pleno ejercicio de sus derechos
@@ -620,25 +613,25 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo adicionado DOF 02-04-2014</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo adicionado DOF 02-04-2014</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo adicionado DOF 02-04-2014</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo adicionado DOF 07-11-2013</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Para la elección de los miembros del Consejo Consultivo se aplicará lo previsto en los
 artículos 10 Bis y 10 Ter de esta ley y serán elegidos por el voto de las dos terceras partes de los
@@ -650,16 +643,16 @@ propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Párrafo reformado DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Artículo reformado DOF 26-11-2001</p>
             </note>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. El Consejo Consultivo de la Comisión Nacional tendrá las siguientes facultades:
 
@@ -678,22 +671,22 @@ VII. Conocer el informe del Presidente de la Comisión Nacional respecto al ejer
 Fracción recorrida DOF 23-04-2013</p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo reformado DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 23-04-2013</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción adicionada DOF 23-04-2013</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones
 por mayoría de votos de sus miembros presentes. Las sesiones ordinarias se verificarán cuando menos
@@ -704,9 +697,9 @@ razones de importancia para ello.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- El Titular de la Secretaría Ejecutiva deberá reunir para su designación, los siguientes
 requisitos:
@@ -716,9 +709,9 @@ III.- Ser mayor de treinta años de edad, el día de su nombramiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 9 de 52
@@ -741,16 +734,16 @@ VI.- Enriquecer, mantener y custodiar el acervo documental de la Comisión Nacio
 VII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción derogada DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción derogada DOF 26-11-2001</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- Los Visitadores Generales de la Comisión Nacional deberán reunir para su designación,
 los siguientes requisitos:
@@ -764,16 +757,16 @@ III Bis.- Contar con experiencia mínima de tres años en materia de derechos hu
 IV.- Ser de reconocida buena fama.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción reformada DOF 25-06-2018</p>
             </note>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción adicionada DOF 25-06-2018</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- Los Visitadores Generales tendrán las siguientes facultades y obligaciones:
 I.- Recibir, admitir o rechazar las quejas e inconformidades presentadas por los afectados, sus
@@ -934,9 +927,9 @@ sido postulado para cargo de elección popular en los cuatro años anteriores a 
               <p>Artículo adicionado DOF 27-01-2017</p>
             </note>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Cualquier persona podrá denunciar presuntas violaciones a los derechos humanos y
 acudir ante las oficinas de la Comisión Nacional para presentar, ya sea directamente o por medio de
@@ -950,9 +943,9 @@ efectiva de presentar quejas de manera directa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- La queja sólo podrá presentarse dentro del plazo de un año, a partir de que se hubiera
 iniciado la ejecución de los hechos que se estimen violatorios, o de que el quejoso hubiese tenido
@@ -968,9 +961,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- La instancia respectiva deberá presentarse de forma oral, por escrito o por lenguaje de
 señas mexicanas y podrá formularse por cualquier medio de comunicación eléctrica, electrónica o
@@ -984,22 +977,22 @@ dichos centros o reclusorios o aquéllos podrán entregarse directamente a los V
 adjuntos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Párrafo reformado DOF 10-06-2013</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- La Comisión Nacional designará personal de guardia para recibir y atender las
 reclamaciones o quejas urgentes a cualquier hora del día y de la noche.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. La Comisión Nacional deberá poner a disposición de los reclamantes formularios que
 faciliten el trámite, y en todos los casos ejercerá la suplencia en la deficiencia de la queja, para lo cual la
@@ -1013,22 +1006,22 @@ mexicanas.
 , 01-04-2024</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Artículo reformado DOF 23-04-2013</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- En todos los casos que se requiera, la Comisión Nacional levantará acta circunstanciada
 de sus actuaciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- En el supuesto de que los quejosos o denunciantes no puedan identificar a las
 autoridades o servidores públicos, cuyos actos u omisiones consideren haber afectado sus derechos
@@ -1037,9 +1030,9 @@ identificación en la investigación posterior de los hechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- La formulación de quejas y denuncias, así como las resoluciones y Recomendaciones
 que emita la Comisión Nacional, no afectarán el ejercicio de otros derechos y medios de defensa que
@@ -1049,9 +1042,9 @@ acuerdo de admisión de la instancia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- Cuando la instancia sea inadmisible por ser manifiestamente improcedente o infundada,
 será rechazada de inmediato. Cuando no corresponda de manera ostensible a la competencia de la
@@ -1060,9 +1053,9 @@ servidor público a quien corresponda conocer o resolver el asunto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Una vez admitida la instancia, deberá ponerse en conocimiento de las autoridades
 señaladas como responsables utilizando en casos de urgencia cualquier medio de comunicación
@@ -1079,9 +1072,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- La Comisión Nacional, por conducto de su Presidente y previa consulta con el Consejo,
 puede declinar su competencia en un caso determinado, cuando así lo considere conveniente para
@@ -1089,9 +1082,9 @@ preservar la autonomía y autoridad moral de la institución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- Desde el momento en que se admita la queja, el Presidente o los Visitadores Generales
 o adjuntos y, en su caso, el personal técnico y profesional, se pondrán en contacto inmediato con la
@@ -1106,9 +1099,9 @@ dictará el acuerdo correspondiente, y en su caso, proveerá las acciones y dete
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Si de la presentación de la queja no se deducen los elementos que permitan la
 intervención de la Comisión Nacional, ésta requerirá por escrito al quejoso para que la aclare. Si después
@@ -1117,9 +1110,9 @@ quejoso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- En el informe que deberán rendir las autoridades señaladas como responsables contra
 las cuales se interponga queja o reclamación, se deberá hacer constar los antecedentes del asunto, los
@@ -1131,9 +1124,9 @@ trámite de la queja se tengan por ciertos los hechos materia de la misma, salvo
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Cuando para la resolución de un asunto se requiera una investigación, el Visitador
 General tendrá las siguientes facultades:
@@ -1149,9 +1142,9 @@ conocimiento del asunto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- El Visitador General tendrá la facultad de solicitar en cualquier momento a las
 autoridades competentes, que se tomen todas las medidas precautorias o cautelares necesarias para
@@ -1168,9 +1161,9 @@ asunto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Las pruebas que se presenten, tanto por los interesados como por las autoridades o
 servidores públicos a los que se imputen las violaciones, o bien que la Comisión Nacional requiera y
@@ -1180,18 +1173,18 @@ sobre los hechos materia de la queja.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Las conclusiones del expediente, que serán la base de las recomendaciones, estarán
 fundamentadas exclusivamente en la documentación y pruebas que obren en el propio expediente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- La Comisión Nacional de Derechos Humanos podrá dictar acuerdos de trámite, que
 serán obligatorios para las autoridades y servidores públicos para que comparezcan o aporten
@@ -1200,9 +1193,9 @@ en el Título IV, Capítulo II de la presente ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Concluida la investigación, el Visitador General formulará, en su caso, un proyecto de
 Recomendación, o acuerdo de no responsabilidad en los cuales se analizarán los hechos, los
@@ -1219,18 +1212,18 @@ consideración final.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- En caso de que no se comprueben las violaciones de derechos humanos imputadas, la
 Comisión Nacional dictará acuerdo de no responsabilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. La recomendación será pública y no tendrá carácter imperativo para la autoridad o
 servidor público a los cuales se dirigirá y, en consecuencia, no podrá por sí misma anular, modificar o
@@ -1271,37 +1264,37 @@ recomendación como responsables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Párrafo reformado DOF 26-11-2001</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Párrafo adicionado DOF 15-06-2012</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Inciso adicionado DOF 15-06-2012</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Inciso adicionado DOF 15-06-2012</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Inciso adicionado DOF 15-06-2012</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Inciso adicionado DOF 15-06-2012</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- En contra de las Recomendaciones, acuerdos o resoluciones definitivas de la Comisión
 Nacional, no procederá ningún recurso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- La Comisión Nacional no estará obligada a entregar ninguna de sus pruebas a la
 autoridad a la cual dirigió una Recomendación o a algún particular. Si dichas pruebas le son solicitadas,
@@ -1312,22 +1305,22 @@ ventilada ante la propia Comisión Nacional.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Artículo reformado DOF 14-12-2011</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Las Recomendaciones y los acuerdos de no responsabilidad se referirán a casos
 concretos; las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- La Comisión Nacional notificará inmediatamente a los quejosos los resultados de la
 investigación, la recomendación que haya dirigido a las autoridades o servidores públicos responsables
@@ -1336,9 +1329,9 @@ caso, el acuerdo de no responsabilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- El Presidente de la Comisión Nacional deberá publicar, en su totalidad o en forma
 resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión Nacional. En casos
@@ -1352,9 +1345,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- El Presidente de la Comisión Nacional de los Derechos Humanos presentará
 anualmente ante los Poderes de la Unión, un informe sobre las actividades que haya realizado en el
@@ -1366,13 +1359,13 @@ posible para conocimiento de la sociedad.
 , 30-06-2006</p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Artículo reformado DOF 26-11-2001</p>
             </note>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- Los informes anuales del Presidente de la Comisión Nacional deberán comprender una
 descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos
@@ -1387,18 +1380,18 @@ gobernados y lograr una mayor eficiencia en la prestación de los servidores pú
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- Ninguna autoridad o servidor público dará instrucciones a la Comisión Nacional de
 Derechos Humanos, con motivo de los informes a que se refiere el artículo 52 de esta ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- Las inconformidades se substanciarán mediante los recursos de queja e impugnación,
 con base en lo dispuesto por el artículo 102, apartado B, de la Constitución Política de los Estados
@@ -1408,9 +1401,9 @@ Comisión Nacional de Derechos Humanos sobre estas inconformidades no admitirán
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- El recurso de queja, sólo podrá ser promovido por los quejosos, o denunciantes que
 sufran un perjuicio grave, por las omisiones o por la inacción de los organismos locales, con motivo de los
@@ -1422,9 +1415,9 @@ el recurso de queja deberá ser desestimado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- El recurso de queja deberá ser presentado directamente ante la Comisión Nacional de
 Derechos Humanos, por escrito, o en casos de urgencia, oralmente o por cualquier medio de
@@ -1437,9 +1430,9 @@ considere notoriamente infundado o improcedente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- La tramitación será breve y sencilla. Una vez admitido el recurso, la Comisión Nacional
 correrá traslado del mismo, al organismo estatal contra el cual se presente, para que rinda un informe en
@@ -1454,9 +1447,9 @@ los hechos señalados, salvo prueba en contrario.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- La Comisión Nacional deberá pronunciarse sobre la queja en un término que no exceda
 de sesenta días, a partir de la aceptación del recurso, formulando una Recomendación al organismo
@@ -1467,9 +1460,9 @@ días hábiles, sobre la aceptación y cumplimiento que hubiese dado a dicha Rec
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- La Comisión Nacional ante un recurso de queja por omisión o inactividad, si considera
 que el asunto es importante y el organismo estatal puede tardar mucho en expedir su Recomendación,
@@ -1478,9 +1471,9 @@ su caso, la Recomendación correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- El recurso de impugnación procederá exclusivamente ante la Comisión Nacional y
 contra las resoluciones definitivas de los organismos estatales de derechos humanos o respecto de las
@@ -1492,9 +1485,9 @@ citados organismos, y los derechos deban protegerse de inmediato.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- El recurso de impugnación deberá contener una descripción concreta de los hechos y
 razonamientos en que se apoya, así como las pruebas documentales que se consideren necesarias. A su
@@ -1503,9 +1496,9 @@ sobre la Recomendación que se impugna con los documentos justificativos que con
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- El recurso de impugnación interpuesto contra una Recomendación de carácter local, o
 contra la insuficiencia en el cumplimiento de la misma por la autoridad local, deberá presentarse por
@@ -1516,9 +1509,9 @@ los quince días siguientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- Sólo quienes hayan sido quejosos en un expediente integrado por un organismo estatal
 de derechos humanos, estarán legitimados para interponer los recursos de impugnación, tanto contra las
@@ -1527,9 +1520,9 @@ cumplimiento de ellas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Una vez que la Comisión Nacional hubiese recibido el recurso de impugnación, de
 inmediato examinará su procedencia y en caso necesario requerirá las informaciones que considere
@@ -1553,9 +1546,9 @@ dichos organismos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- Un vez agotada la tramitación, la Comisión Nacional deberá resolver el recurso de
 impugnación en un plazo no mayor de sesenta días hábiles, en el cual deberá pronunciarse por:
@@ -1570,9 +1563,9 @@ Recomendación dirigida a dicha autoridad, la que deberá informar sobre su acep
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- De conformidad con lo establecido en la presente ley, las autoridades y servidores
 públicos de carácter federal, involucrados en asuntos de la competencia de la Comisión, o que por razón
@@ -1586,9 +1579,9 @@ la presente ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- Las autoridades o servidores públicos a los que se les solicite información o
 documentación que se estime con carácter reservado, lo comunicarán a la Comisión Nacional y
@@ -1598,9 +1591,9 @@ proporcione la información o documentación que se manejará en la más estrict
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- En los términos previstos en la presente ley, las autoridades y servidores públicos,
 federales, locales y municipales, colaborarán dentro del ámbito de su competencia, con la Comisión
@@ -1617,9 +1610,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- Las autoridades y los servidores públicos serán responsables penal y
 administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de
@@ -1628,9 +1621,9 @@ disposiciones constitucionales y legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- La Comisión Nacional podrá rendir un informe especial cuando persistan actitudes u
 omisiones que impliquen conductas evasivas o de entorpecimiento por parte de las autoridades y
@@ -1645,9 +1638,9 @@ sancionados de acuerdo con las leyes de la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- La Comisión Nacional deberá poner en conocimiento de las autoridades superiores
 competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con
@@ -1660,7 +1653,7 @@ Responsabilidades Administrativas deba instruirse en contra del servidor públic
 . Reformado DOF 27-01-2017</p>
               </content>
             </paragraph>
-            <note placementBase="#art-72" placement="bottom">
+            <note placementBase="#art-72." placement="bottom">
               <p>Párrafo adicionado DOF 30-06-2006</p>
             </note>
           </article>
@@ -1725,9 +1718,9 @@ comisión públicos o privados, con excepción de los cargos docentes.
               <p>Artículo adicionado DOF 27-01-2017</p>
             </note>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- Además de las denuncias sobre los delitos y faltas administrativas en que puedan
 incurrir las autoridades y servidores públicos en el curso de las investigaciones seguidas por la Comisión
@@ -1748,10 +1741,10 @@ términos que señala el artículo 214, fracción V, del Código Penal Federal.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Párrafo adicionado DOF 30-06-2006</p>
             </note>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Párrafo adicionado DOF 30-06-2006</p>
             </note>
           </article>
@@ -1770,9 +1763,9 @@ cumplida.
               <p>Artículo adicionado DOF 15-06-2012</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- El personal que preste sus servicios a la Comisión Nacional de Derechos Humanos se
 regirá por las disposiciones del apartado B del artículo 123 de la Constitución Política de los Estados
@@ -1789,9 +1782,9 @@ confianza debido a la naturaleza de las funciones que ésta desempeña.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- La Comisión Nacional de los Derechos Humanos contará con patrimonio propio. El
 Gobierno Federal deberá proporcionarle los recursos materiales y financieros para su debido
@@ -1799,23 +1792,44 @@ funcionamiento.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Artículo reformado DOF 06-06-2006</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- La Comisión Nacional de Derechos Humanos tendrá la facultad de elaborar su
 anteproyecto de presupuesto anual de egresos, el cual remitirá directamente al Secretario de Estado
 competente, para el trámite correspondiente.
-TRANSITORIOS
-PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente
-ordenamiento.
-TERCERO.- En tanto el Congreso de la Unión para el Distrito Federal y las Legislaturas de los
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente
+ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- En tanto el Congreso de la Unión para el Distrito Federal y las Legislaturas de los
 estados establezcan los organismos de protección de los derechos humanos a que se refiere el primer
 párrafo del apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, la
 Comisión Nacional de Derechos Humanos podrá seguir conociendo de las quejas que deban ser de
@@ -1823,21 +1837,56 @@ competencia local, de conformidad con lo establecido por dicha Constitución Pol
 La Comisión Nacional conocerá también de las quejas e inconformidades que se presenten en
 relación con las Recomendaciones o acuerdos del organismo de derechos humanos del Distrito Federal,
 así como de la insuficiencia en el cumplimiento de las mismas por parte de las autoridades a las que
-sean emitidas.
-CUARTO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta la
+sean emitidas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los recursos humanos, materiales y presupuestales con que actualmente cuenta la
 Comisión Nacional de Derechos Humanos como órgano desconcentrado de la Secretaría de
 Gobernación, pasarán a formar parte de la Comisión Nacional de Derechos Humanos como organismo
 descentralizado que se crea en esta ley, preservándose los derechos adquiridos de los trabajadores de la
-Comisión.
-QUINTO.- Los actuales funcionarios de la Comisión Nacional de Derechos Humanos permanecerán
-en sus cargos hasta que se haga la designación correspondiente, conforme a lo dispuesto por esta ley.
-SEXTO.- Los actuales miembros del Consejo de la Comisión Nacional de Derechos Humanos,
+Comisión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los actuales funcionarios de la Comisión Nacional de Derechos Humanos permanecerán
+en sus cargos hasta que se haga la designación correspondiente, conforme a lo dispuesto por esta ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Los actuales miembros del Consejo de la Comisión Nacional de Derechos Humanos,
 permanecerán en el desempeño de sus encargos en dicho Consejo, el que realizará una insaculación
-para conocer el orden en que serán substituidos de conformidad con el artículo 17, de esta ley.
-SEPTIMO.- El Reglamento Interior de la Comisión Nacional de Derechos Humanos será expedido por
+para conocer el orden en que serán substituidos de conformidad con el artículo 17, de esta ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SEPTIMO.- El Reglamento Interior de la Comisión Nacional de Derechos Humanos será expedido por
 su Consejo dentro de los seis meses siguientes a la Entrada en vigor de esta ley, y deberá ser publicado
-en el Diario Oficial de la Federación.
-OCTAVO.- El Presidente de la República enviará a la Cámara de Senadores o a la Comisión
+en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- El Presidente de la República enviará a la Cámara de Senadores o a la Comisión
 Permanente del Congreso de la Unión, en su caso, para su aprobación, el nombramiento de Presidente
 23 de 52
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
@@ -1862,15 +1911,8 @@ Secretaría de Servicios Parlamentarios
 ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 DECRETO por el que se reforman diversos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 23 de enero de 1998
-ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
-              <content>
-                <p>artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161,
+ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al
+artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161,
 primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado "Del
 Reclutamiento", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza
 Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la
@@ -1886,15 +1928,8 @@ Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de l
 primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de
 la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del
 Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios
-Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
-              <content>
-                <p>artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman
+Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
+artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman
 los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria
 del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de
 Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley
@@ -1928,8 +1963,15 @@ Publicado en el Diario Oficial de la Federación el 26 de noviembre de 2001
 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES Y RUBROS DE LA LEY
 DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS QUE COMPRENDEN LOS ARTÍCULOS
 2o., 3o., PÁRRAFO CUARTO, 6o., FRACCIONES III Y V; 9o., FRACCIONES I A VII; 10,
-ADICIONANDO UN PÁRRAFO SEGUNDO; 11; 14; 15, FRACCIONES IV, V Y VII; 17, PÁRRAFO
-SEGUNDO; 18; 19, PRIMER PÁRRAFO Y FRACCIÓN IV; 22; 46, PRIMER PÁRRAFO, Y 52.
+ADICIONANDO UN PÁRRAFO SEGUNDO; 11; 14; 15, FRACCIONES IV, V Y VII; 17, PÁRRAFO</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO; 18; 19, PRIMER PÁRRAFO Y FRACCIÓN IV; 22; 46, PRIMER PÁRRAFO, Y 52.
 ARTÍCULO PRIMERO: Se modifica la denominación de la Ley para quedar como sigue: Ley de la
 Comisión Nacional de los Derechos Humanos.
 ARTÍCULO SEGUNDO: Se reforman diversas disposiciones de la Ley de la Comisión Nacional de los
@@ -1937,14 +1979,42 @@ Derechos Humanos para quedar como sigue:
 ..........
 ARTÍCULO TERCERO: Se derogan las fracciones IV y V del artículo 22, para quedar como sigue:
 .........
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO. En el informe correspondiente al año 2001, éste abarcará desde el día 16 de noviembre
-de 2000 hasta el 31 de diciembre de 2001.
-TERCERO. Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al
-presente decreto.
-CUARTO. Toda referencia que se haga en ésta y en otras disposiciones legales a la Comisión
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. En el informe correspondiente al año 2001, éste abarcará desde el día 16 de noviembre
+de 2000 hasta el 31 de diciembre de 2001.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al
+presente decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. Toda referencia que se haga en ésta y en otras disposiciones legales a la Comisión
 Nacional de Derechos Humanos y al Consejo de la Comisión Nacional de Derechos Humanos, deberán
 entenderse hechas a la Comisión Nacional de los Derechos Humanos y al Consejo Consultivo
 respectivamente.
@@ -1967,19 +2037,47 @@ Publicado en el Diario Oficial de la Federación el 26 de enero de 2006
 ARTÍCULO ÚNICO.- Se adiciona una fracción XIV Bis al artículo 6 de la Ley de la Comisión Nacional
 de los Derechos Humanos, para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- La Comisión Nacional de los Derechos Humanos realizará las reformas o adiciones a su
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- La Comisión Nacional de los Derechos Humanos realizará las reformas o adiciones a su
 Reglamento Interior dentro de los sesenta días siguientes a la entrada en vigor del presente decreto,
 donde establecerá las funciones específicas del área encargada del seguimiento, evaluación y monitoreo
 en materia de igualdad entre mujeres y hombres; sin perjuicio de las adecuaciones que sean necesarias
-a la entrada en vigor de la Ley General de Igualdad entre Mujeres y Hombres.
-TERCERO.- Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al efecto
+a la entrada en vigor de la Ley General de Igualdad entre Mujeres y Hombres.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Las adecuaciones reglamentarias a que se refiere el artículo anterior y que al efecto
 realice la Comisión en el ámbito de su competencia, deberán contemplar medidas tendientes a capacitar
 y especializar a los servidores públicos a cargo del área encargada del seguimiento, evaluación y
-monitoreo en materia de igualdad entre mujeres y hombres.
-CUARTO.- El área a que se refieren los numerales anteriores iniciará sus funciones al momento de
+monitoreo en materia de igualdad entre mujeres y hombres.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- El área a que se refieren los numerales anteriores iniciará sus funciones al momento de
 entrar en vigor las adecuaciones al Reglamento Interior de la Comisión, con los recursos y la estructura
 que al efecto disponga ésta de acuerdo con su Presupuesto en vigor; sin perjuicio de las ampliaciones
 presupuestales que se propongan en términos de la Ley de la Comisión Nacional de los Derechos
@@ -2003,13 +2101,34 @@ Publicado en el Diario Oficial de la Federación el 6 de junio de 2006
 ARTÍCULO ÚNICO.- Se reforma el Artículo 75 de la Ley de la Comisión Nacional de los Derechos
 Humanos, para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- El patrimonio del organismo descentralizado denominado "Comisión Nacional de
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El patrimonio del organismo descentralizado denominado "Comisión Nacional de
 Derechos Humanos" pasa a formar parte del organismo autónomo "Comisión Nacional de los Derechos
-Humanos".
-TERCERO.- Para efectos de la regularización de los bienes inmuebles a que se refiere la presente
+Humanos".</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Para efectos de la regularización de los bienes inmuebles a que se refiere la presente
 reforma, la Comisión Nacional de los Derechos Humanos deberá realizar el procedimiento administrativo
 correspondiente ante la Secretaría de la Función Pública, de conformidad con lo dispuesto en la Ley
 General de Bienes Nacionales.
@@ -2076,15 +2195,8 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 de la Comisión Nacional de los Derechos Humanos y se adiciona el artículo 8 de la Ley
 Federal de Responsabilidades Administrativas de los Servidores Públicos.
 Publicado en el Diario Oficial de la Federación el 15 de junio de 2012
-ARTÍCULO PRIMERO.- Se reforman el párrafo primero del artículo 4o, y el párrafo primero del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-5o">
-            <num>Artículo 5o</num>
-            <paragraph id="art-5o-para-1">
-              <content>
-                <p>artículo 5o; se adiciona la fracción XV del artículo 6o; y se deroga la fracción III del artículo 7o; se
+ARTÍCULO PRIMERO.- Se reforman el párrafo primero del artículo 4o, y el párrafo primero del
+artículo 5o; se adiciona la fracción XV del artículo 6o; y se deroga la fracción III del artículo 7o; se
 adicionan las fracciones X y XI recorriéndose la siguiente fracción del artículo 15; y se adiciona un tercer
 párrafo con cuatro incisos al artículo 46, y un artículo 73 bis a la Ley de la Comisión Nacional de los
 Derechos Humanos, para quedar como sigue:
@@ -2232,10 +2344,24 @@ denominado "Del Órgano Interno de Control" al Título II, que comprende los art
 Quáter y 24 Quinquies; 72 Bis; 72 Ter y 72 Quáter a la Ley de la Comisión Nacional de los Derechos
 Humanos, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a
 la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos
 Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos
 les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación
@@ -2246,26 +2372,61 @@ recursos públicos del Presupuesto de Egresos de la Federación que se encontrab
 entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado
 en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los
-términos en los que fueron nombrados.
-Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados
+términos en los que fueron nombrados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados
 Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de
 la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto,
-para armonizar su normatividad interna en los términos del presente Decreto.
-Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a
+para armonizar su normatividad interna en los términos del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a
 las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente
-Decreto.
-Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se
 entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que
 este ordenamiento legal se abrogue el 17 de julio de 2017.
 37 de 52
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Últimas Reformas DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes
 con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las
-disposiciones aplicables vigentes a su inicio.
-Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su
+disposiciones aplicables vigentes a su inicio.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su
 legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.-
 Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María
@@ -2289,10 +2450,24 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
 ARTÍCULO TERCERO.- Se adiciona la fracción XI Bis al artículo 6o. de la Ley de la Comisión
 Nacional de los Derechos Humanos, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario
 Oficial de la Federación el 27 de diciembre de 1991.
 Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente
 Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la
@@ -2304,15 +2479,36 @@ legislación vigente en el momento en que la misma haya quedado firme.
 Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan
 de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra
 violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero
-derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
-Tercero. En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del
+derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del
 presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de
-conformidad con el mismo.
-Cuarto. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
+conformidad con el mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
 adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y
 Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de
-ciento ochenta días posteriores a la publicación del presente Decreto.
-Quinto. La Procuraduría General de la República contará con un plazo de ciento ochenta días
+ciento ochenta días posteriores a la publicación del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. La Procuraduría General de la República contará con un plazo de ciento ochenta días
 siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para
 Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con
 la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
@@ -2323,22 +2519,50 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las
 procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros
-correspondientes.
-Sexto. La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a
+correspondientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a
 la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la
 investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser
-ejercidas por la unidad administrativa especializada correspondiente.
-Séptimo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
+ejercidas por la unidad administrativa especializada correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
 iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la
 Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos
 o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente
-Decreto.
-Octavo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un
 periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las
 gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para
 proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria
-para el cumplimiento de la Ley.
-Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la
+para el cumplimiento de la Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la
 Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de
 Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases
 para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
@@ -2356,8 +2580,15 @@ anterior para que exista sustitución escalonada en la integración del Comité 
 de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los
 sustituyan serán elegidos en los términos de la ley por cuatro años.
 El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su
-encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
-Décimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
+encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
 para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus
 presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas
 deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las
@@ -2366,14 +2597,35 @@ obligaciones establecidas en este Decreto.
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Últimas Reformas DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Primero. Las erogaciones que se generen con motivo de la operación del Mecanismo
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Las erogaciones que se generen con motivo de la operación del Mecanismo
 Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán
-con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
-Décimo Segundo. Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en
+con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en
 los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las
-obligaciones que les competen en términos del presente Decreto.
-Décimo Tercero. En las entidades federativas en las que no exista una Comisión de Atención a
+obligaciones que les competen en términos del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. En las entidades federativas en las que no exista una Comisión de Atención a
 Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas
 conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la
 Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
@@ -2381,17 +2633,38 @@ Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, ser
 Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior.
 En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I
 del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa,
-correspondiente.
-Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del
+correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del
 presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del
 Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir
 convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho
-Registro.
-Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en
+Registro.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en
 vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos
 necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo
-establecido en el mismo.
-Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para
+establecido en el mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para
 Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la
 Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás
 normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo
@@ -2460,34 +2733,55 @@ DECRETO por el que se expide la Ley de la Fiscalía General de la República, se
 Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan
 diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
-Artículo Cuadragésimo Quinto.- Se reforman la fracción V del artículo 9o; y la fracción VIII del</p>
+Artículo Cuadragésimo Quinto.- Se reforman la fracción V del artículo 9o; y la fracción VIII del
+artículo 24 Quinquies de la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como
+sigue:
+………
+Transitorios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
               <content>
-                <p>artículo 24 Quinquies de la Ley de la Comisión Nacional de los Derechos Humanos, para quedar como
-sigue:
-………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -2497,8 +2791,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -2529,13 +2830,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -2547,8 +2862,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 45 de 52
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
@@ -2556,25 +2878,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Últimas Reformas DOF 01-04-20
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -2585,14 +2935,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -2605,12 +2969,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

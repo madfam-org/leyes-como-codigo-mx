@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2014-08-11/lorcme/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2014-08-11/lorcme/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -67,9 +67,9 @@
       </chapter>
       <chapter id="chapter-14">
         <num>Capítulo XIV De la Comisión Reguladora de Energía</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- La presente Ley es reglamentaria del párrafo octavo del artículo 28 de la Constitución
 Política de los Estados Unidos Mexicanos y tiene por objeto regular la organización y funcionamiento de
@@ -77,9 +77,9 @@ los Órganos Reguladores Coordinados en Materia Energética y establecer sus com
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- Los Órganos Reguladores Coordinados en Materia Energética serán las siguientes
 dependencias del Poder Ejecutivo Federal:
@@ -88,9 +88,9 @@ II. La Comisión Reguladora de Energía.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Los Órganos Reguladores Coordinados en Materia Energética tendrán autonomía
 técnica, operativa y de gestión. Contarán con personalidad jurídica y podrán disponer de los ingresos
@@ -108,9 +108,9 @@ las políticas públicas del Ejecutivo Federal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- El Ejecutivo Federal ejercerá sus facultades de regulación técnica y económica en materia
 de electricidad e hidrocarburos, a través de los Órganos Reguladores Coordinados en Materia
@@ -120,9 +120,9 @@ funciones, en atención a la disponibilidad presupuestal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- Los Órganos Reguladores Coordinados en Materia Energética contarán con un Órgano
 de Gobierno integrado por siete Comisionados, incluido su Presidente. Asimismo, contarán con una
@@ -130,9 +130,9 @@ Secretaría Ejecutiva.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- Los Comisionados serán designados por períodos escalonados de siete años de sucesión
 anual, que iniciarán a partir del 1 de enero del año correspondiente, con posibilidad de ser designados,
@@ -153,9 +153,9 @@ Presidente de la República.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- El Comisionado Presidente de los Órganos Reguladores Coordinados en Materia
 Energética será designado de entre la terna que para tal efecto, presente al Senado el Titular del
@@ -175,9 +175,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- Los Comisionados deberán cumplir los siguientes requisitos:
 I. Ser ciudadano mexicano, y estar en pleno goce de sus derechos civiles y políticos;
@@ -200,13 +200,13 @@ Los Comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo, c
 públicos o privados, con excepción de los académicos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- Durante el tiempo de su encargo, los Comisionados sólo podrán ser removidos por alguna
 de las causas siguientes:
@@ -237,9 +237,9 @@ XI. Incurrir en las conductas a que hace referencia la fracción III del artícu
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Las sesiones del Órgano de Gobierno podrán ser ordinarias o extraordinarias,
 debiéndose sesionar ordinariamente por lo menos una vez al mes. Serán ordinarias aquéllas cuya
@@ -262,9 +262,9 @@ presididas por cualquiera de los Comisionados, en los términos que establezca e
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- Las sesiones del Órgano de Gobierno serán públicas, para lo cual deberán ser
 transmitidas a través de medios electrónicos de comunicación, con excepción de las sesiones o partes de
@@ -277,9 +277,9 @@ aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Los Comisionados estarán impedidos para conocer asuntos en que tengan interés
 directo o indirecto.
@@ -312,9 +312,9 @@ expresando concretamente la causa del mismo, en cuyo caso el Órgano de Gobierno
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- Los Comisionados de los Órganos Reguladores Coordinados en Materia Energética
 podrán tratar asuntos de su competencia con personas que representen los intereses de los sujetos
@@ -335,9 +335,9 @@ programadas y aprobadas por el Órgano de Gobierno.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- Los Órganos Reguladores Coordinados en Materia Energética deberán:
 I. Hacer públicas todas sus decisiones incluyendo, en su caso, los votos particulares;
@@ -355,9 +355,9 @@ Federal de Transparencia y Acceso a la Información Pública Gubernamental.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- Los Comisionados y servidores públicos de los Órganos Reguladores Coordinados en
 Materia Energética sujetarán sus actividades al código de conducta que para tal efecto emitan sus
@@ -367,9 +367,9 @@ imparcialidad, respeto y transparencia y deberá ser público.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- El código de conducta a que se refiere el artículo anterior deberá contemplar, por lo
 menos, lo siguiente:
@@ -407,9 +407,9 @@ autorizaciones que en cada caso corresponda.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Las actividades de los Órganos Reguladores Coordinados en Materia Energética
 deberán conducirse bajo el principio de máxima publicidad en todos y cada uno de los procesos que se
@@ -426,9 +426,9 @@ conforme con los procedimientos que correspondan a cada caso.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- Cualquier violación a los valores, principios y prohibiciones establecidos en el código de
 conducta, implicará la imposición de la sanción correspondiente en términos de las disposiciones
@@ -443,9 +443,9 @@ violaciones al presente código de conducta.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- Se crea el Consejo de Coordinación del Sector Energético como mecanismo de
 coordinación entre los Órganos Reguladores Coordinados en Materia Energética, la Secretaría de
@@ -454,9 +454,9 @@ operación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- El Consejo de Coordinación del Sector Energético estará integrado por:
 I. El Titular de la Secretaría de Energía;
@@ -490,9 +490,9 @@ las mismas, así como dar seguimiento a los acuerdos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- El Consejo de Coordinación del Sector Energético tendrá, entre otras, las siguientes
 funciones:
@@ -520,9 +520,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- Los Órganos Reguladores Coordinados en Materia Energética tendrán las siguientes
 atribuciones:
@@ -614,9 +614,9 @@ XXVII. Las demás que le confieran esta Ley y otros ordenamientos jurídicos apl
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- El Comisionado Presidente del Órgano Regulador Coordinado en Materia Energética
 tendrá las siguientes facultades:
@@ -646,9 +646,9 @@ XIII. Las demás que le confieran las leyes y reglamentos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- Los Comisionados tendrán las atribuciones siguientes:
 11 de 26
@@ -668,9 +668,9 @@ V. Las demás que le confieran las leyes y reglamentos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 I. Poner a consideración del Comisionado Presidente los asuntos relativos a las sesiones del
@@ -705,9 +705,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- Los Comisionados y la Secretaría Ejecutiva de los Órganos Reguladores Coordinados
 en Materia Energética contarán con un seguro de responsabilidad civil y asistencia legal, el cual no
@@ -720,9 +720,9 @@ provisiones presupuestarias correspondientes en su presupuesto de gasto de opera
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- Las normas generales, actos u omisiones de los Órganos Reguladores Coordinados en
 Materia Energética podrán ser impugnados únicamente mediante el juicio de amparo indirecto y no serán
@@ -739,15 +739,22 @@ aquéllos que realicen las actividades reguladas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- Los Órganos Reguladores Coordinados en Materia Energética contarán con un Consejo
 Consultivo, órgano propositivo y de opinión que tiene por objeto contribuir al procedimiento de consulta
 pública para analizar los criterios de regulación contenidos en las disposiciones administrativas de
-carácter general que expidan. Lo anterior, sin perjuicio de lo dispuesto en el Capítulo Tercero del Título
-Tercero A de la Ley Federal de Procedimiento Administrativo.
+carácter general que expidan. Lo anterior, sin perjuicio de lo dispuesto en el Capítulo Tercero del Título</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero A de la Ley Federal de Procedimiento Administrativo.
 En el Consejo Consultivo podrán participar, a convocatoria del Órgano de Gobierno y a título gratuito,
 representantes de instituciones destacadas del sector energético y académico, y de asociaciones que
 agrupen a asignatarios, contratistas, permisionarios, autorizados y usuarios.
@@ -757,9 +764,9 @@ funcionamiento del Consejo Consultivo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29.- Los Órganos Reguladores Coordinados en Materia Energética podrán disponer de los
 ingresos derivados de los derechos y aprovechamientos que se establezcan por sus servicios en la
@@ -774,9 +781,9 @@ presupuesto total.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30.- Los Órganos Reguladores Coordinados en Materia Energética deberán sujetarse
 presupuestalmente a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria,
@@ -794,9 +801,9 @@ demás disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31.- Los fideicomisos públicos a los cuales se deberán aportar los remanentes de ingresos
 propios excedentes que obtengan los Órganos Reguladores Coordinados en Materia Energética, se
@@ -834,9 +841,9 @@ VII. Estarán sujetos a las obligaciones en materia de transparencia conforme a 
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- La Cámara de Diputados realizará las acciones necesarias para proveer de recursos
 presupuestarios a los Órganos Reguladores Coordinados en Materia Energética, con el fin de que
@@ -846,9 +853,9 @@ con sus funciones.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33.- El otorgamiento de contratos, permisos y autorizaciones de los Órganos Reguladores
 Coordinados en Materia Energética, implicarán la declaratoria de utilidad pública en predios de propiedad
@@ -865,9 +872,9 @@ aquéllas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34.- Las personas físicas y morales sujetas, conforme a ésta y otras leyes, a la supervisión o
 regulación de los Órganos Reguladores Coordinados en Materia Energética y aquéllas que reciban
@@ -876,9 +883,9 @@ términos de las disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35.- Los contratos, autorizaciones, permisos, adquisiciones, arrendamientos, servicios y
 obras que otorguen o celebren los Órganos Reguladores Coordinados en Materia Energética, estarán
@@ -896,9 +903,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36.- Para el otorgamiento de permisos o autorizaciones y la celebración de contratos
 incluidos aquéllos para la exploración y extracción de hidrocarburos, su administración y supervisión, el
@@ -914,9 +921,9 @@ realicen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37.- Las disposiciones y políticas a que se refiere el artículo anterior deberán prever, cuando
 menos, los mecanismos y procedimientos para:
@@ -933,9 +940,9 @@ corresponda, así como en la administración y supervisión de las actividades r
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38.- Además de las atribuciones establecidas en la Ley de Hidrocarburos y en otras leyes, la
 Comisión Nacional de Hidrocarburos tendrá a su cargo:
@@ -949,9 +956,9 @@ IV. Prestar asesoría técnica a la Secretaría de Energía.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39.- La Comisión Nacional de Hidrocarburos ejercerá sus funciones, procurando que los
 proyectos se realicen con arreglo a las siguientes bases:
@@ -979,9 +986,9 @@ extracción de hidrocarburos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- Corresponde a la Comisión Nacional de Hidrocarburos establecer y administrar el Centro
 Nacional de Información de Hidrocarburos en los términos que establezca la Ley de Hidrocarburos.
@@ -994,9 +1001,9 @@ para el acervo del conocimiento histórico y prospectivo de la producción de hi
             </content>
           </paragraph>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41.- Además de las atribuciones establecidas en la Ley de Hidrocarburos, la Ley de la
 Industria Eléctrica y las demás leyes aplicables, la Comisión Reguladora de Energía deberá regular y
@@ -1012,9 +1019,9 @@ de electricidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42.- La Comisión Reguladora de Energía fomentará el desarrollo eficiente de la industria,
 promoverá la competencia en el sector, protegerá los intereses de los usuarios, propiciará una adecuada
@@ -1025,20 +1032,48 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 cobertura nacional y atenderá a la confiabilidad, estabilidad y seguridad en el suministro y la prestación
 de los servicios.
-TRANSITORIOS
-Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo.- Se abrogan la Ley de la Comisión Reguladora de Energía, publicada en el Diario Oficial de
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Se abrogan la Ley de la Comisión Reguladora de Energía, publicada en el Diario Oficial de
 la Federación el 31 de octubre de 1995 y la Ley de la Comisión Nacional de Hidrocarburos, publicada en
-el Diario Oficial de la Federación el 28 de noviembre de 2008.
-Tercero.- Los Órganos Reguladores Coordinados en Materia Energética deberán expedir su
+el Diario Oficial de la Federación el 28 de noviembre de 2008.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- Los Órganos Reguladores Coordinados en Materia Energética deberán expedir su
 Reglamento Interno dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del
 presente Decreto.
 La normatividad y regulación emitidas por las Comisiones Reguladora de Energía y Nacional de
 Hidrocarburos, con anterioridad a la entrada en vigor de la presente Ley, que no se oponga a lo dispuesto
 en ésta, continuará vigente, sin perjuicio de que pueda ser adecuada, modificada o sustituida, en
-términos de las disposiciones de esta Ley y las demás aplicables.
-Cuarto.- Los Comisionados de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora
+términos de las disposiciones de esta Ley y las demás aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Los Comisionados de la Comisión Nacional de Hidrocarburos y de la Comisión Reguladora
 de Energía en funciones, incluidos sus Presidentes, continuarán en su encargo hasta la conclusión del
 periodo para el que fueron nombrados, sin perjuicio de que puedan ser nombrados nuevamente, por
 única ocasión para cubrir un nuevo período.
@@ -1056,12 +1091,26 @@ designación de un Comisionado cuyo periodo fenecerá el 31 de diciembre de 2020
 El mecanismo para la designación del Comisionado Presidente de los Órganos Reguladores
 Coordinados en Materia Energética, previsto en el artículo 7 de la presente Ley, será aplicable una vez
 que concluyan su encargo los Comisionados Presidentes en funciones a la entrada en vigor de la
-presente Ley.
-Quinto.- Las personas que a la entrada en vigor del presente Decreto ocupen o hayan ocupado el
+presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- Las personas que a la entrada en vigor del presente Decreto ocupen o hayan ocupado el
 cargo de Comisionado en cualquiera de los Órganos Reguladores Coordinados en Materia Energética,
 podrán ser propuestas por el Presidente de la República dentro de la terna respectiva por única ocasión
-para cubrir un segundo periodo.
-Sexto.- Los Órganos Reguladores Coordinados en Materia Energética harán las gestiones necesarias
+para cubrir un segundo periodo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- Los Órganos Reguladores Coordinados en Materia Energética harán las gestiones necesarias
 conforme a las disposiciones jurídicas aplicables para que, a más tardar el 31 de diciembre de 2014, se
 realice la designación de los titulares del Órgano Interno de Control respectivo o, en su caso, la unidad
 responsable de las funciones de auditoría interna.
@@ -1075,10 +1124,24 @@ humanos y presupuestarios, el Órgano Interno de Control en la Secretaría de En
 facultades en relación con los Órganos Reguladores Coordinados en Materia Energética, como lo realiza
 respecto de los órganos desconcentrados de dicha Dependencia.
 ARTÍCULO SEGUNDO Y TERCERO. ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. La Cámara de Diputados realizará las previsiones presupuestales necesarias para que
 las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 México, D.F., a 31 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González
 Morfín, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga,
@@ -1101,23 +1164,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Cuadragésimo Sexto.- Se reforma la fracción V del artículo 8 de la Ley de los Órganos
 Reguladores Coordinados en Materia Energética, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -1127,8 +1218,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -1159,13 +1257,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -1177,8 +1289,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 21 de 26
 LEY DE LOS ÓRGANOS REGULADORES COORDINADOS EN MATERIA ENERGÉTICA
@@ -1186,25 +1305,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Ley Abrogada DOF 18-03-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -1215,14 +1362,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -1235,12 +1396,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -1265,32 +1440,88 @@ Publicado en el Diario Oficial de la Federación el 18 de marzo de 2025
 ARTÍCULO OCTAVO.- Se expide la Ley de la Comisión Nacional de Energía, para quedar como
 sigue:
 …….
-Transitorios
-Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo.- Se abroga la Ley de los Órganos Reguladores Coordinados en Materia Energética
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Se abroga la Ley de los Órganos Reguladores Coordinados en Materia Energética
 publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y se derogan todas las
-disposiciones legales y administrativas que se opongan a la presente Ley.
-Tercero.- Las referencias normativas a la Comisión Nacional de Hidrocarburos y a la Comisión
+disposiciones legales y administrativas que se opongan a la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- Las referencias normativas a la Comisión Nacional de Hidrocarburos y a la Comisión
 Reguladora de Energía se entienden hechas o conferidas a la Secretaría o a la Comisión, conforme a las
-atribuciones, competencias y facultades que les correspondan.
-Cuarto.- La persona titular del Ejecutivo Federal debe expedir el reglamento interior de la Comisión
-dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
-Quinto.- La persona titular del Ejecutivo Federal, dentro de los treinta días naturales siguientes a la
+atribuciones, competencias y facultades que les correspondan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- La persona titular del Ejecutivo Federal debe expedir el reglamento interior de la Comisión
+dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- La persona titular del Ejecutivo Federal, dentro de los treinta días naturales siguientes a la
 entrada en vigor de esta Ley, por única ocasión debe designar directamente a la persona titular de la
-Dirección General de la Comisión sin requerir la ratificación por la Cámara de Senadores.
-Sexto.- La persona titular del Ejecutivo Federal, dentro de los treinta días naturales siguientes a la
+Dirección General de la Comisión sin requerir la ratificación por la Cámara de Senadores.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- La persona titular del Ejecutivo Federal, dentro de los treinta días naturales siguientes a la
 entrada en vigor de esta Ley, debe designar a las personas expertas técnicas que integran el Comité
 Técnico de la Comisión, conforme a lo dispuesto en esta Ley.
 Por única ocasión y para respetar el escalonamiento previsto en esta Ley, las personas expertas
 técnicas del Comité Técnico designadas en términos de esta Ley asumen su cargo, respectivamente,
 dos, tres y cuatro años, según lo determine la persona titular del Ejecutivo Federal en la designación
-correspondiente.
-Séptimo.- Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad
+correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo.- Todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad
 emitida por la Comisión Reguladora de Energía y la Comisión Nacional de Hidrocarburos continúan en
 vigor en lo que no se opongan a la presente Ley, sin perjuicio de que sean adecuadas, modificadas o
-sustituidas, en términos de las disposiciones de esta Ley y las demás aplicables.
-Octavo.- Para dar certeza jurídica a la transferencia y continuidad en los actos, solicitudes, asuntos,
+sustituidas, en términos de las disposiciones de esta Ley y las demás aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo.- Para dar certeza jurídica a la transferencia y continuidad en los actos, solicitudes, asuntos,
 trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de cualquier
 naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos en las Comisiones
 24 de 26
@@ -1321,23 +1552,51 @@ La Comisión puede solicitar el apoyo del Instituto Mexicano del Petróleo y del
 Electricidad y Energías Limpias para la gestión documental de los expedientes de las solicitudes,
 asuntos, trámites, procedimientos administrativos, procedimientos seguidos en forma de juicio o actos de
 cualquier naturaleza que se encuentren en proceso de atención o sujetos al cómputo de plazos, para la
-recepción de los expedientes correspondientes a su competencia.
-Noveno.- En tanto no entren en vigor las disposiciones administrativas de carácter general y Normas
+recepción de los expedientes correspondientes a su competencia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno.- En tanto no entren en vigor las disposiciones administrativas de carácter general y Normas
 Oficiales Mexicanas que se expidan, son vigentes y obligatorias para todos los Sujetos Regulados, los
 lineamientos, disposiciones técnicas y administrativas, acuerdos, criterios, así como Normas Oficiales
 Mexicanas, emitidas por la Secretaría y las Comisiones Reguladora de Energía y Nacional de
 Hidrocarburos, que regulen las actividades relacionadas con la presente Ley, y que hayan sido
-publicadas en el Diario Oficial de la Federación.
-Décimo.- A la entrada en vigor de la presente Ley, las Comisiones Reguladora de Energía y Nacional
+publicadas en el Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo.- A la entrada en vigor de la presente Ley, las Comisiones Reguladora de Energía y Nacional
 de Hidrocarburos, en términos de las disposiciones aplicables, deben realizar las acciones que
 correspondan para realizar una transferencia ágil y eficiente de toda la información, expedientes,
 sistemas y cualquier otra documentación que detenten, para continuar con la atención de los asuntos que
-así lo requieran por parte de la Secretaría y la Comisión.
-Décimo Primero.- Los pagos de derechos, aprovechamientos o ingresos propios establecidos en
+así lo requieran por parte de la Secretaría y la Comisión.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero.- Los pagos de derechos, aprovechamientos o ingresos propios establecidos en
 favor de las Comisiones Reguladora de Energía y Nacional de Hidrocarburos, en la Ley Federal de
 Derechos o cualquier otro ordenamiento se entienden en favor de la Comisión o de la Secretaría, según
-corresponda.
-Décimo Segundo.- Los fideicomisos constituidos en términos de lo dispuesto por el artículo 31 de la
+corresponda.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo.- Los fideicomisos constituidos en términos de lo dispuesto por el artículo 31 de la
 Ley de los Órganos Reguladores Coordinados en Materia Energética, continúan su operación hasta en
 tanto la Secretaría de Energía, previa opinión favorable de la Secretaría de Hacienda y Crédito Público,
 emita las disposiciones sobre su extinción; por lo cual, a la entrada en vigor de la presente Ley, las
@@ -1348,18 +1607,39 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Ley Abrogada DOF 18-03-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 administrativas necesarias para transferirlos a la Comisión Nacional de Energía para que continúen con
-su operación hasta en tanto se emitan las disposiciones referidas.
-Décimo Tercero.- La Cámara de Diputados debe realizar las previsiones presupuestales necesarias
+su operación hasta en tanto se emitan las disposiciones referidas.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero.- La Cámara de Diputados debe realizar las previsiones presupuestales necesarias
 para el efecto de que la Comisión cuente con el presupuesto necesario para iniciar sus funciones.
 Los recursos humanos, financieros y materiales con que cuenten las Comisiones Reguladora de
 Energía y Nacional de Hidrocarburos, que estén relacionadas con las funciones que se transfieren o
 asignan a la Comisión y a la Secretaría, se transfieren a la Secretaría o a la Comisión, según
 corresponda, a fin de apoyar el cumplimiento de sus funciones.
 …….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que
 las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio
 Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis

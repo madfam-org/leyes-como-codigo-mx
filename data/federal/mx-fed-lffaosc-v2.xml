@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2004-02-09/lffaosc/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2004-02-09/lffaosc/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -43,20 +43,13 @@
       </chapter>
       <chapter id="chapter-6">
         <num>CAPÍTULO SEXTO De las Infracciones, Sanciones y Medios de Impugnación</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente ley es de orden público e interés social y tiene por objeto:
-I. Fomentar las actividades que realizan las organizaciones de la sociedad civil señaladas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
-            <content>
-              <p>artículo 5 de esta ley;
+I. Fomentar las actividades que realizan las organizaciones de la sociedad civil señaladas en el
+artículo 5 de esta ley;
 II. Establecer las facultades de las autoridades que la aplicarán y los órganos que coadyuvarán en
 ello;
 III. Determinar las bases sobre las cuales la Administración Pública Federal fomentará las actividades
@@ -69,9 +62,9 @@ de la misma.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Para efectos de esta ley, se entenderá por:
 1 de 21
@@ -98,9 +91,9 @@ sociedad civil que sean objeto de fomento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. Podrán acogerse y disfrutar de los apoyos y estímulos que establece esta ley, todas las
 agrupaciones u organizaciones mexicanas que, estando legalmente constituidas, realicen alguna o
@@ -110,9 +103,9 @@ otras disposiciones legales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. Las organizaciones de la sociedad civil que constituyan los capítulos nacionales de
 organizaciones internacionales que cumplan con lo establecido en el artículo 3, podrán gozar de los
@@ -123,21 +116,14 @@ nacional.
 Las organizaciones de la sociedad civil constituidas conforme a las leyes extranjeras, previo
 cumplimiento de las disposiciones correspondientes del Código Civil Federal, que realicen una o más de
 las actividades cuyo fomento tiene por objeto esta ley, gozarán de los derechos que derivan de la
-inscripción en el Registro, con exclusión de los que se establecen en las fracciones II a VIII y XI del</p>
+inscripción en el Registro, con exclusión de los que se establecen en las fracciones II a VIII y XI del
+artículo 6 y del 25, reservados a las organizaciones constituidas conforme a las leyes mexicanas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
-            <content>
-              <p>artículo 6 y del 25, reservados a las organizaciones constituidas conforme a las leyes mexicanas.</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Para efectos de esta ley, las actividades de las organizaciones de la sociedad civil objeto
 de fomento son las siguientes:
@@ -180,34 +166,34 @@ XIX. Las que determinen otras leyes.
 Fracción recorrida DOF 28-01-2011, 25-04-2012</p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Párrafo reformado DOF 28-01-2011</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 24-04-2018</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 01-04-2024</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 16-06-2011</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 25-04-2012</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 28-01-2011</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción adicionada DOF 28-01-2011</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción adicionada DOF 25-04-2012</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Para los efectos de esta ley, las organizaciones de la sociedad civil tienen los siguientes
 derechos:
@@ -224,15 +210,8 @@ Federal, en las áreas vinculadas con las actividades a que se refiere el artíc
 establezcan o deban operar las dependencias o entidades;
 IV. Participar en los mecanismos de contraloría social que establezcan u operen dependencia y
 entidades, de conformidad con la normatividad jurídica y administrativa aplicable;
-V. Acceder a los apoyos y estímulos públicos que para fomento de las actividades previstas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
-            <content>
-              <p>artículo 5 de esta ley, establezcan las disposiciones jurídicas y administrativas aplicables;
+V. Acceder a los apoyos y estímulos públicos que para fomento de las actividades previstas en el
+artículo 5 de esta ley, establezcan las disposiciones jurídicas y administrativas aplicables;
 VI.- Gozar de los incentivos fiscales y demás apoyos económicos y administrativos, que establezcan
 las disposiciones jurídicas en la materia;
 
@@ -253,13 +232,13 @@ y entidades, en relación con las actividades a que se refiere el artículo 5 de
 XII. Ser respetadas en la toma de las decisiones relacionadas con sus asuntos internos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. Para acceder a los apoyos y estímulos que otorgue la Administración Pública Federal,
 dirigidos al fomento de las actividades que esta ley establece, las organizaciones de la sociedad civil
@@ -299,9 +278,9 @@ XIII. Actuar con criterios de imparcialidad y no discriminación en la determina
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. Las organizaciones de la sociedad civil no podrán recibir los apoyos y estímulos públicos
 previstos en esta ley cuando incurran en alguno de los siguientes supuestos:
@@ -313,9 +292,9 @@ organización, ya sea por consanguinidad o afinidad hasta en cuarto grado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. Las organizaciones de la sociedad civil que con los fines de fomento que esta ley
 establece, reciban apoyos y estímulos públicos, deberán sujetarse a las disposiciones jurídicas y
@@ -327,9 +306,9 @@ sea parte.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. El Ejecutivo Federal constituirá la Comisión de Fomento de las Actividades de las
 Organizaciones de la Sociedad Civil para facilitar la coordinación en el diseño, ejecución, seguimiento y
@@ -348,13 +327,13 @@ la facultad de interpretación de esta Ley, para efectos administrativos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo reformado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Para el cumplimiento de su encargo, la Comisión tendrá las siguientes atribuciones:
 I. Definir las políticas públicas para el fomento de las actividades de las organizaciones de la sociedad
@@ -370,9 +349,9 @@ VI. Las demás que le señale la ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. La Secretaría de Desarrollo Social será la encargada de coordinar a las dependencias y
 entidades para la realización de las actividades de fomento a que se refiere la presente ley, sin perjuicio
@@ -380,9 +359,9 @@ de las atribuciones que las demás leyes otorguen a otras autoridades.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- Las dependencias y las entidades, para garantizar el ejercicio de los derechos a que se
 refiere el artículo 6, fomentarán las actividades de las organizaciones mediante alguna o varias de las
@@ -411,13 +390,13 @@ contribuyan al fomento de las actividades objeto de esta ley, y
 VIII. Otorgamiento de los incentivos fiscales previstos en las leyes de la materia.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Párrafo reformado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. La Comisión, en coordinación con las dependencias y entidades de la administración
 pública federal, deberá elaborar y publicar un Informe Anual de las acciones de fomento y de los apoyos
@@ -430,22 +409,22 @@ Federación y demás leyes aplicables.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Párrafo reformado DOF 24-04-2018</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. Se crea el Registro Federal de Organizaciones de la Sociedad Civil, que estará a cargo
 de la Secretaría Técnica de la Comisión, y se auxiliará por un Consejo Técnico Consultivo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. El Registro tendrá las funciones siguientes:
 I. Inscribir a las organizaciones que soliciten el registro, siempre que cumplan con los requisitos que
@@ -479,18 +458,18 @@ XI. Los demás que establezca el Reglamento de esta ley y otras disposiciones le
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Los módulos para el trámite de inscripción deberán ser operados únicamente por el
 Registro.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. Para ser inscritas en el Registro, las organizaciones deberán cumplir con los siguientes
 requisitos:
@@ -516,21 +495,14 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. El Registro deberá negar la inscripción a las organizaciones que quisieran acogerse a
 esta ley sólo cuando:
-I. No acredite que su objeto social consiste en realizar alguna de las actividades señaladas en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
-            <content>
-              <p>artículo 5 de esta ley;
+I. No acredite que su objeto social consiste en realizar alguna de las actividades señaladas en el
+artículo 5 de esta ley;
 II. Exista evidencia de que no realiza cuando menos alguna actividad listada en el artículo 5 de la
 presente ley;
 III. La documentación exhibida presente alguna irregularidad, y
@@ -539,9 +511,9 @@ disposiciones jurídicas en el desarrollo de sus actividades.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. El Registro resolverá sobre la procedencia de la inscripción en un plazo no mayor a
 treinta días hábiles contados a partir de que reciba la solicitud.
@@ -551,18 +523,18 @@ hábiles para que las subsane. Vencido el plazo, si no lo hiciere, se desechará
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. La administración y el funcionamiento del Registro se organizarán conforme al
 Reglamento interno que expida la Comisión.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. El Sistema de Información del Registro funcionará mediante una base de datos
 distribuida y compartida entre las dependencias y entidades de la Administración Pública Federal,
@@ -570,9 +542,9 @@ relacionadas con las actividades señaladas en el artículo 5.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. En el Registro se concentrará toda la información que forme parte o se derive del trámite
 y gestión respecto de la inscripción de las organizaciones en el mismo. Dicha información incluirá todas
@@ -581,9 +553,9 @@ registradas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. Todas las dependencias y entidades, así como las organizaciones inscritas, tendrán
 acceso a la información existente en el Registro, con el fin de estar enteradas del estado que guardan los
@@ -594,13 +566,13 @@ Acceso a la Información Pública.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Párrafo reformado DOF 24-04-2018</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. Las dependencias y entidades que otorguen apoyos y estímulos a las organizaciones con
 inscripción vigente en el Registro, deberán incluir en el Sistema de Información del Registro lo relativo al
@@ -608,9 +580,9 @@ tipo, monto y asignación de los mismos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- El Consejo es un órgano de asesoría y consulta, de carácter honorífico, que tendrá por
 objeto proponer, opinar y emitir recomendaciones respecto de la aplicación y cumplimiento de esta Ley.
@@ -624,13 +596,13 @@ políticas y acciones de fomento de las dependencias y entidades de la Administr
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. El Consejo estará integrado de la siguiente forma:
 I. Una servidora o un servidor público que designe la Comisión, quien lo presidirá;
@@ -654,25 +626,25 @@ base en la terna propuesta por las personas integrantes del mismo.
 , 11-05-2022</p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. El Consejo sesionará ordinariamente en pleno por lo menos dos veces al año, y
 extraordinariamente, cuando sea convocado por su Presidente o por un tercio de los miembros del
@@ -681,9 +653,9 @@ su participación en las reuniones del mismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. Para el cumplimiento de su objeto, el Consejo tendrá las funciones siguientes:
 I. Analizar las políticas del Estado mexicano relacionadas con el fomento a las actividades señaladas
@@ -705,13 +677,13 @@ Secretaría de Servicios Parlamentarios
 VII. Expedir el Manual de Operación conforme al cual regulará su organización y funcionamiento.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Fracción reformada DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Constituyen infracciones a la presente ley, por parte de los sujetos a que la misma se
 refiere y que se acojan a ella:
@@ -741,9 +713,9 @@ XIII. No cumplir con cualquier otra obligación que le corresponda en los térmi
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. Cuando una organización de la sociedad civil con registro vigente cometa alguna de las
 infracciones a que hace referencia el artículo anterior, la Comisión, a través de la Secretaría Técnica,
@@ -780,38 +752,73 @@ que ésta conozca y resuelva de acuerdo con la normatividad vigente, respecto de
 que se hubiesen otorgado en el marco de esta ley.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-31" placement="bottom">
+          <note placementBase="#art-31." placement="bottom">
             <p>Fracción reformada DOF 24-04-2018</p>
           </note>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32. En contra de las resoluciones que se dicten conforme a esta ley, su Reglamento y demás
 disposiciones aplicables, procederán los medios de impugnación establecidos en la Ley Federal de
 Procedimiento Administrativo.
-Transitorios
-Primero. La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo. La Comisión a que hace referencia el artículo 10 deberá quedar conformada dentro de los
-30 días hábiles siguientes a que entre en vigor esta ley.
-Tercero. El Ejecutivo Federal deberá expedir el reglamento de esta ley, en un plazo de 60 días
-hábiles contados a partir de su publicación en el Diario Oficial de la Federación.
-Cuarto. Para efectos de la inscripción de las organizaciones a que se refiere el Capítulo Cuarto de
-esta ley, el Registro deberá conformarse e iniciar su operación dentro de los 120 días hábiles siguientes a
-la fecha de entrada en vigor de esta ley.
-Quinto. La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los
-180 días hábiles siguientes a la fecha de entrada en vigor de este ordenamiento.
-Sexto. Por primera y única ocasión, para la instalación e integración del Consejo a que se refiere el</p>
+Transitorios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
             <content>
-              <p>artículo 26, los consejeros representantes de las organizaciones serán invitados mediante un
+              <p>Primero. La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La Comisión a que hace referencia el artículo 10 deberá quedar conformada dentro de los
+30 días hábiles siguientes a que entre en vigor esta ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. El Ejecutivo Federal deberá expedir el reglamento de esta ley, en un plazo de 60 días
+hábiles contados a partir de su publicación en el Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Para efectos de la inscripción de las organizaciones a que se refiere el Capítulo Cuarto de
+esta ley, el Registro deberá conformarse e iniciar su operación dentro de los 120 días hábiles siguientes a
+la fecha de entrada en vigor de esta ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los
+180 días hábiles siguientes a la fecha de entrada en vigor de este ordenamiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Por primera y única ocasión, para la instalación e integración del Consejo a que se refiere el
+artículo 26, los consejeros representantes de las organizaciones serán invitados mediante un
 procedimiento de insaculación, en tres grupos de tres personas cada uno, que llevará a cabo la Comisión
 a que se refiere el artículo 9 de esta ley, de entre las propuestas que hagan las propias organizaciones.
 12 de 21
@@ -936,10 +943,24 @@ Artículo Único.- Se reforman los artículos 5, fracción I; 14, segundo párra
 fracción II, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la
 Sociedad Civil, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Ejecutivo Federal, a más tardar a los noventa días naturales siguientes a la entrada en
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- El Ejecutivo Federal, a más tardar a los noventa días naturales siguientes a la entrada en
 vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias
 correspondientes.
 Ciudad de México, a 22 de febrero de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
@@ -983,14 +1004,35 @@ Artículo Vigésimo Séptimo. Se reforman las fracciones I, II, III, IV y V del 
 Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, para quedar
 como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta

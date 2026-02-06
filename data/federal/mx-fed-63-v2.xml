@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1996-10-23/63/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1996-10-23/63/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -196,10 +196,27 @@ ARTÍCULO VIGÉSIMO SEGUNDO. Se reforman los artículos 3o, primer párrafo; 7o;
 párrafo de la Ley de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el
 Derecho Internacional, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+        <note placementBase="#art-9o" placement="bottom">
+          <p>Párrafo reformado DOF 09-04-2012</p>
+        </note>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -212,9 +229,6 @@ Alfonso Poiré Romero.- Rúbrica.
 4 de 4</p>
           </content>
         </paragraph>
-        <note placementBase="#art-9o" placement="bottom">
-          <p>Párrafo reformado DOF 09-04-2012</p>
-        </note>
       </article>
     </body>
   </act>

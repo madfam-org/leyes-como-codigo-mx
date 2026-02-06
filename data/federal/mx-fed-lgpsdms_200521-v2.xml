@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2010-11-30/lgpsdms_200521/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2010-11-30/lgpsdms_200521/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -67,9 +67,9 @@
       </chapter>
       <chapter id="chapter-14">
         <num>Capítulo XIV De la Prisión Preventiva y de la Ejecución de Sentencias</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es reglamentaria del párrafo primero de la fracción XXI del artículo 73 de
 la Constitución Política de los Estados Unidos Mexicanos en materia de secuestro. Es de orden público y
@@ -88,9 +88,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Esta Ley establece los tipos penales y punibilidades en materia de secuestro. Para la
 investigación, persecución y sanción de los delitos previstos en la presente ley se aplicará en lo
@@ -103,24 +103,24 @@ esta Ley, durante el proceso penal estarán sujetos a prisión preventiva oficio
 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Párrafo adicionado DOF 27-02-2011</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. El Ministerio Público, en todos los casos, en esta materia procederá de oficio.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. Para los efectos de esta Ley se entenderá por:
 I. Consejo Nacional: Consejo Nacional de Seguridad Pública.
@@ -144,28 +144,28 @@ X. Código Nacional: Código Nacional de Procedimientos Penales.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción derogada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción adicionada DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. El ejercicio de la acción penal y la ejecución de las sanciones por el delito de secuestro,
 son imprescriptibles.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. En el caso del delito de secuestro no procederá el archivo temporal de la investigación,
 aun cuando de las diligencias practicadas no resulten elementos suficientes para el ejercicio de la acción
@@ -181,13 +181,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Artículo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. Sólo podrá suspenderse el proceso penal iniciado por el delito de secuestro o delitos por
 hechos conexos o derivados del mismo, en los casos aplicables a que se refiere el Código Nacional o
@@ -197,13 +197,13 @@ Código Nacional de Procedimientos Penales.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Artículo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. En todos los casos, la sentencia condenatoria que se dicte por los delitos contemplados en
 esta Ley, deberá contemplar la reparación del daño a las víctimas, cuyo monto fijará el juez de la causa
@@ -212,9 +212,9 @@ términos de la ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. Al que prive de la libertad a otro se le aplicarán:
 I. De cuarenta a ochenta años de prisión y de mil a cuatro mil días multa, si la privación de la
@@ -231,13 +231,13 @@ anterior, con independencia de las demás sanciones que conforme a esta Ley le
 correspondan por otros delitos que de su conducta resulten.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. Las penas a que se refiere el artículo 9 de la presente Ley, se agravarán:
 I. De cincuenta a noventa años de prisión y de cuatro mil a ocho mil días multa, si en la privación
@@ -276,16 +276,16 @@ Las sanciones señaladas en el presente artículo se impondrán, sin perjuicio o
 las que correspondan por otros delitos que de las conductas a las que se aplican resulten.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Si la víctima de los delitos previstos en la presente Ley es privada de la vida por los
 autores o partícipes de los mismos, se impondrá a estos una pena de ochenta a ciento cuarenta años de
@@ -293,13 +293,13 @@ prisión y de doce mil a veinticuatro mil días multa.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Si espontáneamente se libera a la víctima del secuestro dentro de los tres días
 siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refiere el artículo 9
@@ -333,19 +333,19 @@ años y de quinientos hasta mil días multa.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 27-02-2011</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 27-02-2011</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. Se impondrá pena de doscientas a setecientas jornadas de trabajo a favor de la
 comunidad, al que simule por sí o por interpósita persona, la privación de su libertad con alguno de los
@@ -353,13 +353,13 @@ propósitos señalados en el artículo 9 de la presente Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. Se impondrán de cuatro a dieciséis años de prisión al que simule la privación de la
 libertad de una persona, con la intención de conseguir alguno de los propósitos señalados en el artículo 9
@@ -370,13 +370,13 @@ libertad o con privar de la libertad a algún miembro de su familia o con quien 
 vínculo, con alguno de los propósitos señalados en el artículo 9 de la presente Ley.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. Se aplicará pena de cuatro a dieciséis años de prisión y de mil cuatrocientos a tres mil
 días multa, al que:
@@ -410,22 +410,22 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Inciso reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. Se aplicará pena de cuatro a dieciséis años de prisión y de cuatrocientos a dos mil días
 multa, al servidor público que:
@@ -443,16 +443,16 @@ vigilancia se incrementarán desde un tercio hasta dos terceras partes.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Párrafo reformado DOF 03-06-2014</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Se aplicará pena de nueve años a veintiséis años de prisión y de cuatrocientos a dos mil
 días de multa al servidor público que, teniendo atribuciones en materia de prevención, investigación,
@@ -464,13 +464,13 @@ preparación o comisión de las conductas previstas en esta Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Artículo reformado DOF 03-06-2014</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. A todo sentenciado por cualquiera de los delitos previstos en esta Ley que sea o hubiere
 sido servidor público de cualquiera de las instituciones policiales, de procuración de justicia, del sistema
@@ -484,9 +484,9 @@ imponga. Dicha inhabilitación correrá a partir de que concluya la pena de pris
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. Los sentenciados por los delitos a que se refiere la presente Ley no tendrán derecho a
 los beneficios de la libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que
@@ -520,16 +520,16 @@ VIII. Se obligue a no molestar a la víctima y a los testigos que depusieron en 
 sus parientes o personas vinculadas a éstos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- La autoridad judicial podrá ordenar que las personas que hayan sido condenadas por
 conductas previstas en el presente ordenamiento queden sujetas a vigilancia por la autoridad policial
@@ -538,13 +538,13 @@ hasta por los cinco años posteriores a su liberación.
 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo segundo</p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. Las instituciones de seguridad pública de los tres órdenes de gobierno se coordinarán a
 través del Centro Nacional de Prevención y Participación Ciudadana del Secretariado Ejecutivo del
@@ -575,9 +575,9 @@ VII. Observar las demás obligaciones establecidas en otros ordenamientos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. La Federación, las entidades federativas, los municipios y los órganos políticos
 administrativos de las demarcaciones territoriales de la Ciudad de México, estarán obligados a remitir al
@@ -588,13 +588,13 @@ de secuestros en su demarcación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Artículo reformado DOF 19-01-2018</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. Los delitos previstos en esta Ley se prevendrán, investigarán, perseguirán y sancionarán
 por la Federación cuando se trate de los casos previstos en la Ley Federal Contra la Delincuencia
@@ -617,19 +617,19 @@ deberá, remitir al Ministerio Público del fuero local los registros de investi
 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo quinto</p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. Para la intervención y aportación voluntaria de comunicaciones privadas, se estará a lo
 dispuesto en el Código Nacional.
@@ -637,13 +637,13 @@ dispuesto en el Código Nacional.
 Reforma DOF 17-06-2016: Derogó del artículo los entonces párrafos segundo a quinto</p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. Los concesionarios de telecomunicaciones, los autorizados o proveedores de servicios
 de aplicaciones y contenidos, de conformidad con las disposiciones aplicables, tratándose de la
@@ -667,25 +667,25 @@ IV. Se deroga.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Fracción derogada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Fracción derogada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Fracción derogada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Fracción derogada DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. En el ámbito de sus respectivas competencias, los titulares del Ministerio Público de la
 Federación y de las entidades federativas expedirán los correspondientes programas para la protección
@@ -697,22 +697,22 @@ en la presente Ley.
 Reforma DOF 17-06-2016: Derogó del artículo el entonces párrafo tercero</p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. La información y la documentación relacionada con las personas protegidas se
 mantendrán en estricta reserva en términos de las disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. Los programas serán reservados y, en su caso, confidenciales, de conformidad con las
 disposiciones aplicables; tales programas deberán comprender, además de lo dispuesto en este Capítulo,
@@ -730,9 +730,9 @@ con lo dispuesto en este Capítulo, otras disposiciones aplicables y las disponi
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. La incorporación al Programa Federal de Protección a Personas, durante el
 procedimiento penal será autorizada por el Fiscal General de la República o el Servidor Público inmediato
@@ -773,22 +773,22 @@ salvaguardar su vida e integridad corporal.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Los programas establecerán, cuando menos, los requisitos de ingreso, protección física o
 electrónica para la víctima o testigo; apoyos para solventar sus necesidades personales básicas, cuando
@@ -799,9 +799,9 @@ los presupuestos autorizados de las dependencias que los proporcionen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. Las Entidades Federativas y la Federación celebrarán convenios de colaboración para
 establecer los mecanismos para incorporar a los programas a personas que deban ser sujetas de
@@ -815,9 +815,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- Las víctimas y ofendidos de las conductas previstas en el presente ordenamiento y los
 testigos en su caso, además de los derechos establecidos en la Constitución Política de los Estados
@@ -855,31 +855,31 @@ XIV. Ser inmediatamente notificado y proveído de la protección correspondiente
 autor o autores del delito del que fue víctima o testigo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción derogada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33. Los procesos administrativos o judiciales en los que sea parte la víctima de las conductas
 previstas en la presente Ley, a partir de la promoción fundada y motivada que realice su representante
@@ -894,9 +894,9 @@ meses más a juicio razonado de la autoridad respectiva.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34. Las víctimas u ofendidos podrán contar con la asistencia gratuita de un asesor jurídico,
 que será designado por la autoridad competente, en términos de las disposiciones aplicables, con el fin
@@ -909,13 +909,13 @@ acciones que prevén las leyes ante los órganos de procuración y administraci�
 IV. La defensa jurídica para obtener las restituciones o reparaciones en el goce de los mismos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35. El Ministerio Público de la Federación o de las entidades federativas deberán restituir a
 las víctimas de las conductas previstas en la presente Ley en el goce de sus derechos en cuanto sea
@@ -928,9 +928,9 @@ gastos alimentarios y de transporte y hospedaje a cargo de ésta, con motivo del
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36. En caso de que el producto, los instrumentos u objetos del hecho delictivo hayan
 desaparecido o no se localicen por causa atribuible al imputado, el Ministerio Publico decretará o
@@ -942,13 +942,13 @@ dominio.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-36" placement="bottom">
+          <note placementBase="#art-36." placement="bottom">
             <p>Artículo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37. El Fondo tiene como objetivo dotar a las autoridades de recursos para apoyar a las
 víctimas y ofendidos por los delitos previstos en la presente Ley, así como incentivar la denuncia.
@@ -963,9 +963,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38. El Fondo se integrará de la siguiente manera:
 I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos de la Federación
@@ -986,13 +986,13 @@ El Fondo a que se refiere este artículo se constituirá en los términos y porc
 Reglamento respectivo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39. La Fiscalía General de la República administrará el Fondo, siguiendo criterios de
 transparencia, oportunidad, eficiencia y racionalidad que serán plasmados en el Reglamento
@@ -1001,13 +1001,13 @@ correspondiente, el cual determinará los criterios de asignación de recursos.
 Los recursos que lo integren serán fiscalizados anualmente por la Auditoría Superior de la Federación.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-39" placement="bottom">
+          <note placementBase="#art-39." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40. Conforme a lo dispuesto por el artículo 73, fracción XXI de la Constitución Política de los
 Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y las
@@ -1083,16 +1083,16 @@ cualquiera que sea su denominación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Párrafo reformado DOF 19-01-2018</p>
           </note>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41. Las procuradurías o fiscalías deberán crear y operar unidades o fiscalías especializadas
 para la investigación de las conductas previstas en esta Ley, que contarán con Ministerios Públicos y
@@ -1104,13 +1104,13 @@ personal en materia de planeación de investigación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Artículo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42. Para ser integrante y permanecer en las unidades especializadas en la investigación y
 persecución de los delitos previstos en esta Ley será necesario cumplir con los siguientes requisitos:
@@ -1132,9 +1132,9 @@ acreditar para continuar en el servicio.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43. Las unidades especiales de investigación tendrán las siguientes facultades:
 I. Solicitar que se le brinde atención médica, psicológica y jurídica a las víctimas de las conductas
@@ -1172,25 +1172,25 @@ derechos humanos, y
 XII. Las demás que disponga la Ley.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Fracción reformada DOF 17-06-2016</p>
           </note>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44. Las autoridades de los distintos órdenes de gobierno deberán prestar el auxilio requerido
 por la autoridad competente conforme a lo dispuesto por esta Ley y las demás disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45. Las autoridades de los gobiernos federal y de las entidades federativas deberán
 establecer mecanismos de cooperación destinados al intercambio de formación y adiestramiento continuo
@@ -1200,9 +1200,9 @@ de Certificación y Acreditación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46. A los imputados y sentenciados por las conductas previstas por esta Ley, se les podrán
 aplicar las medidas de vigilancia especiales previstas en la legislación aplicable.
@@ -1222,13 +1222,13 @@ justificarse para estos efectos traslado alguno, salvo petición del Titular del
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-46" placement="bottom">
+          <note placementBase="#art-46." placement="bottom">
             <p>Artículo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47. Durante su estancia en los centros penitenciarios, los imputados y sentenciados por las
 conductas previstas en esta Ley, sólo podrán tener los objetos que les sean entregados por conducto de
@@ -1236,13 +1236,13 @@ las autoridades competentes.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Artículo reformado DOF 17-06-2016</p>
           </note>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48. Los imputados o sentenciados por las conductas previstas en esta Ley, que proporcionen
 datos fehacientes o suficientes elementos de convicción para la detención de los demás participantes,
@@ -1252,23 +1252,68 @@ en establecimientos distintos a aquél en donde compurguen su sentencia los miem
 delictivo.
 
 ARTÍCULOS SEGUNDO A OCTAVO. ……….
-ARTÍCULOS TRANSITORIOS
-Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en
+ARTÍCULOS TRANSITORIOS</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-48." placement="bottom">
+            <p>Artículo reformado DOF 17-06-2016</p>
+          </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en
 materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las
 disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se
-observará respecto de la ejecución de las penas correspondientes.
-Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
-Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos
+observará respecto de la ejecución de las penas correspondientes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos
 aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el
-presente.
-Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal
+presente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal
 Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el presente Decreto
 seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos
 seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados
-por los mismos artículos.
-Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los
+por los mismos artículos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los
 Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el
 Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en
 materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las
@@ -1278,29 +1323,71 @@ LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLA
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de
 Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas
 previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular,
 teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial
-de la Federación.
-Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará
 en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en
 cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y,
 respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto
-de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
-Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito
+de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito
 de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los
-términos de lo dispuesto en la ley de la materia.
-Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a
+términos de lo dispuesto en la ley de la materia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a
 que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la
-Seguridad Pública que respectivamente hayan recibido.
-Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos
+Seguridad Pública que respectivamente hayan recibido.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos
 previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro,
 Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos,
 para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de
-secuestro, en la ley de la materia que al efecto se expida.
-Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de
+secuestro, en la ley de la materia que al efecto se expida.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de
 esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos
 que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para
 Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo
@@ -1347,46 +1434,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
 Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman diversos artículos de la Ley General para Prevenir y
-Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del</p>
-            </content>
-          </paragraph>
-          <note placementBase="#art-48" placement="bottom">
-            <p>Artículo reformado DOF 17-06-2016</p>
-          </note>
-        </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
-            <content>
-              <p>artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
-            <content>
-              <p>artículo 25 del Código Penal Federal.
+Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
+artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el
+artículo 25 del Código Penal Federal.
 Publicado en el Diario Oficial de la Federación el 3 de junio de 2014
-Artículo Primero.- Se reforman la fracción I del artículo 9; las fracciones I y II del artículo 10; el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
-            <content>
-              <p>artículo 11; el primero, cuarto y quinto párrafos del artículo 12; el artículo 13; el primer párrafo del artículo
+Artículo Primero.- Se reforman la fracción I del artículo 9; las fracciones I y II del artículo 10; el
+artículo 11; el primero, cuarto y quinto párrafos del artículo 12; el artículo 13; el primer párrafo del artículo
 14; el primer párrafo del artículo 15; el primer párrafo del artículo 16 y el artículo 17, de la Ley General
-para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
-            <content>
-              <p>artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
+para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del
+artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ……….
 Transitorio
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
@@ -1429,30 +1485,30 @@ segundo párrafo y fracción V; 23, primer, tercer y cuarto párrafos; 24, prime
 26, segundo párrafo; 29, primer, quinto, fracción III y sexto párrafos; 32, primer párrafo, y fracciones I, IV,
 VII, IX y XI; 34, primer párrafo; 36; 40 fracción XIX; 43, fracción II; 46; 47; 48. Se adiciona la fracción X
 del artículo 4 y un segundo párrafo al artículo 7. Se derogan el segundo párrafo del artículo 1; segundo
-párrafo del artículo 2; la fracción IX del artículo 4; el segundo párrafo del artículo 20; el quinto párrafo del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
-            <content>
-              <p>artículo 23; segundo, tercero, cuarto y quintos párrafos del artículo 24; las fracciones I, II, III y IV del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
-            <content>
-              <p>artículo 25; tercer párrafo del artículo 26 y fracción VIII del artículo 32, de la Ley General para Prevenir y
+párrafo del artículo 2; la fracción IX del artículo 4; el segundo párrafo del artículo 20; el quinto párrafo del
+artículo 23; segundo, tercero, cuarto y quintos párrafos del artículo 24; las fracciones I, II, III y IV del
+artículo 25; tercer párrafo del artículo 26 y fracción VIII del artículo 32, de la Ley General para Prevenir y
 Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la
 Constitución Política de los Estados Unidos Mexicanos, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación salvo lo previsto en el siguiente artículo.
-Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación salvo lo previsto en el siguiente artículo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la
 Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción
 XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y
 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los
@@ -1462,8 +1518,15 @@ expide el Código Nacional de Procedimientos Penales publicado en el Diario Ofic
 de marzo de 2014.
 Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los
 preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las
-disposiciones que les dieron origen.
-Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y
+disposiciones que les dieron origen.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y
 las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una
 Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
 Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas
@@ -1474,11 +1537,25 @@ LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLA
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una
 vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la
-Constitución Política de los Estados Unidos Mexicanos.
-Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que
+Constitución Política de los Estados Unidos Mexicanos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que
 hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con
 base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia
 penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente
@@ -1489,8 +1566,15 @@ el Ministerio Público investigue y acredite lo conducente, y efectuada la audie
 revisión, sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19
 de la Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de
 Procedimientos Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia
-de la misma en términos de los artículos 176 a 182 del citado Código.
-Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de
+de la misma en términos de los artículos 176 a 182 del citado Código.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de
 Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las
 entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que
 Intervienen en el Procedimiento Penal.
@@ -1563,35 +1647,56 @@ Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan 
 diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Décimo Tercero.- Se reforma el párrafo primero del artículo 29; la fracción I, del artículo 38;
-el párrafo primero del artículo 39; el párrafo primero del artículo 40; el artículo 41; y la fracción X del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
-            <content>
-              <p>artículo 43; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro,
+el párrafo primero del artículo 39; el párrafo primero del artículo 40; el artículo 41; y la fracción X del
+artículo 43; de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro,
 Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos
 Mexicanos, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -1601,8 +1706,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 24 de 27
 LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI
@@ -1634,13 +1746,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -1658,29 +1784,64 @@ LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLA
 DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -1691,14 +1852,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -1712,12 +1887,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

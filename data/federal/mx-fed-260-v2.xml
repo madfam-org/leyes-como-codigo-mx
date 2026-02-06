@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2003-04-10/260/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2003-04-10/260/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -75,9 +75,9 @@
         </chapter>
         <chapter id="chapter-13">
           <num>Capítulo Segundo De las Competencias</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley tiene por objeto establecer las bases para la organización,
 funcionamiento y desarrollo del Sistema de Servicio Profesional de Carrera en las dependencias de la
@@ -88,9 +88,9 @@ principios de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- El Sistema de Servicio Profesional de Carrera es un mecanismo para garantizar la
 igualdad de oportunidades en el acceso a la función pública con base en el mérito y con el fin de impulsar
@@ -108,13 +108,13 @@ equidad, competencia por mérito y equidad de género.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Párrafo reformado DOF 09-01-2006</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- Para los efectos de esta Ley se entenderá por:
 I. Sistema: El Servicio Profesional de Carrera de la Administración Pública Federal Centralizada;
@@ -132,29 +132,22 @@ Administración Pública Federal, que desempeña un cargo de confianza en alguna
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Los servidores públicos de carrera se clasificarán en servidores públicos eventuales y
 titulares. Los eventuales son aquellos que, siendo de primer nivel de ingreso se encuentran en su primer
-año de desempeño, los que hubieren ingresado con motivo de los casos excepcionales que señala el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
-              <content>
-                <p>artículo 34 y aquellos que ingresen por motivo de un convenio.
+año de desempeño, los que hubieren ingresado con motivo de los casos excepcionales que señala el
+artículo 34 y aquellos que ingresen por motivo de un convenio.
 El servidor público de carrera ingresará al Sistema a través de un concurso de selección y sólo podrá
 ser nombrado y removido en los casos y bajo los procedimientos previstos por esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- El Sistema comprenderá, tomando como base el Catálogo, los siguientes rangos:
 a) Director General;
@@ -179,9 +172,9 @@ reclutamiento y selección que establece esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- Los servidores públicos de libre designación y los trabajadores de base de la
 Administración Pública Federal tendrán acceso al servicio profesional de carrera, sujetándose, en su
@@ -191,9 +184,9 @@ separado de la plaza que ocupa, no pudiendo permanecer activo en ambas situacion
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- El Gabinete de Apoyo es la unidad administrativa adscrita a los Secretarios,
 Subsecretarios, Oficiales Mayores, Titulares de Unidad, Titulares de Órganos Desconcentrados y
@@ -211,9 +204,9 @@ servidores públicos de carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- El Sistema no comprenderá al personal que preste sus servicios en la Presidencia de la
 República, la Secretaría de Relaciones Exteriores, los rangos de Secretarios de Despacho, Jefes de
@@ -227,13 +220,13 @@ dependencias.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Artículo reformado DOF 01-09-2005</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- El desempeño del servicio público de carrera será incompatible con el ejercicio de
 cualquier otro cargo, profesión o actividad que impida o menoscabe el estricto cumplimiento de los
@@ -241,9 +234,9 @@ deberes del servidor público de carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- Los servidores públicos de carrera tendrán los siguientes derechos:
 I. Tener estabilidad y permanencia en el servicio en los términos y bajo las condiciones que prevé esta
@@ -270,9 +263,9 @@ disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- Son obligaciones de los servidores públicos de carrera:
 I. Ejercer sus funciones con estricto apego a los principios de legalidad, objetividad, imparcialidad,
@@ -302,9 +295,9 @@ XI. Las demás que señalen las leyes y disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- Cada dependencia establecerá las tareas inherentes a los diversos cargos a su
 adscripción, de acuerdo con esta Ley y su Reglamento, sin perjuicio de lo dispuesto en la Ley Federal de
@@ -313,9 +306,9 @@ aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- El Sistema comprende los Subsistemas de Planeación de Recursos Humanos; Ingreso;
 Desarrollo Profesional; Capacitación y Certificación de Capacidades; Evaluación del Desempeño;
@@ -362,13 +355,13 @@ Compete a las dependencias de la Administración Pública administrar el Sistema
 competencia con base en la normatividad expedida por la Secretaría.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Inciso adicionado DOF 09-01-2006</p>
             </note>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- La Secretaría establecerá un Subsistema de Planeación de Recursos Humanos para el
 eficiente ejercicio del Sistema.
@@ -404,13 +397,13 @@ Sección Segunda
 Del Registro Único del Servicio Profesional de Carrera</p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 09-01-2006</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- El Registro Único del Servicio Público Profesional es un padrón que contiene
 información básica y técnica en materia de recursos humanos de la Administración Pública y se establece
@@ -419,9 +412,9 @@ Los datos personales que en él se contengan serán considerados confidenciales.
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- El Registro sistematizará la información relativa a la planeación de recursos humanos,
 ingreso, desarrollo profesional, capacitación y certificación de capacidades, evaluación del desempeño y
@@ -429,9 +422,9 @@ separación de los miembros del Sistema.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- El Registro deberá incluir a cada servidor público que ingrese al Sistema.
 Los datos del Registro respecto al proceso de capacitación y desarrollo deberán actualizarse de
@@ -440,9 +433,9 @@ ocupar vacantes de distinto perfil.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- El Registro acopiará información de recursos humanos proporcionada por las
 autoridades o instituciones con las cuales se suscriban convenios, con la finalidad de permitir la
@@ -450,18 +443,18 @@ participación temporal de aspirantes a servidores públicos en los concursos.</
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- El Sistema, en coordinación con las dependencias, registrará y procesará la información
 necesaria para la definición de los perfiles y requerimientos de los cargos incluidos en el Catálogo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- Será motivo de baja del Registro, la separación del servidor público del Sistema por
 causas distintas a la renuncia.
@@ -473,9 +466,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- El aspirante a ingresar al Sistema deberá cumplir, además de lo que señale la
 convocatoria respectiva, los siguientes requisitos:
@@ -490,18 +483,18 @@ salud, religión, estado civil, origen étnico o condición social para la perte
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- Reclutamiento es el proceso que permite al Sistema atraer aspirantes a ocupar un cargo
 en la Administración Pública con los perfiles y requisitos necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- El reclutamiento se llevará a cabo a través de convocatorias públicas abiertas para
 ocupar las plazas del primer nivel de ingreso al Sistema.
@@ -513,9 +506,9 @@ de aspirantes al concurso anual.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- El mecanismo de selección para ocupar las plazas que no sean de primer nivel de
 ingreso será desarrollado por el Comité de conformidad con los procedimientos establecidos en esta Ley,
@@ -523,18 +516,18 @@ su Reglamento y demás disposiciones relativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Los Comités deberán llevar a cabo el procedimiento de selección para ocupar cargos de
 nueva creación, mediante convocatorias públicas abiertas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- Cuando se trate de cubrir plazas vacantes distintas al primer nivel de ingreso, los
 Comités deberán emitir convocatoria pública abierta. Para la selección, además de los requisitos
@@ -543,9 +536,9 @@ los resultados de las evaluaciones de los servidores públicos de carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Los aspirantes a servidores públicos eventuales únicamente participarán en los procesos
 de selección relativos a dicha categoría.
@@ -560,9 +553,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Se entenderá por convocatoria pública y abierta aquella dirigida a servidores públicos en
 general o para todo interesado que desee ingresar al Sistema, mediante convocatoria publicada en el
@@ -574,9 +567,9 @@ relacionado con la selección de los candidatos finalistas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- La selección es el procedimiento que permite analizar la capacidad, conocimientos,
 habilidades y experiencias de los aspirantes a ingresar al Sistema. Su propósito es el garantizar el
@@ -590,9 +583,9 @@ Para la determinación de los resultados, los Comités podrán auxiliarse de exp
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- La Secretaría emitirá las guías y lineamientos generales para la elaboración y aplicación
 de los mecanismos y herramientas de evaluación que operarán los Comités para las diversas
@@ -605,13 +598,13 @@ referencia el artículo 2 de esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Párrafo adicionado DOF 09-01-2006</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- El examen de conocimientos, la experiencia y la aptitud en los cargos inmediatos
 inferiores de la vacante serán elementos importantes en la valoración para ocupar un cargo público de
@@ -620,9 +613,9 @@ cuando los aspirantes no obtengan una calificación mínima aprobatoria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Cada dependencia, en coordinación con la Secretaría establecerá los parámetros
 mínimos de calificación para acceder a los diferentes cargos. Los candidatos que no cumplan con la
@@ -633,13 +626,13 @@ procurando el equilibrio entre ambos géneros.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo reformado DOF 09-01-2006</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- Los candidatos seleccionados por los Comités se harán acreedores al nombramiento
 como Servidor Público de Carrera en la categoría que corresponda. En el caso del primer nivel de
@@ -653,9 +646,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- En casos excepcionales y cuando peligre o se altere el orden social, los servicios
 públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del país, como consecuencia
@@ -672,9 +665,9 @@ temporalidad de la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Desarrollo Profesional es el proceso mediante el cual los servidores públicos de carrera
 con base en el mérito podrán ocupar plazas vacantes de igual o mayor jerarquía, en cualquier
@@ -683,9 +676,9 @@ propósito.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- Los Comités, en coordinación con la Secretaría, integrarán el Subsistema de Desarrollo
 Profesional y deberán, a partir del Catálogo, establecer trayectorias de ascenso y promoción, así como
@@ -693,9 +686,9 @@ sus respectivas reglas a cubrir por parte de los servidores públicos de carrera
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Los servidores públicos de carrera podrán acceder a un cargo del Sistema de mayor
 responsabilidad o jerarquía, una vez cumplidos los procedimientos de reclutamiento y selección
@@ -710,9 +703,9 @@ convocatorias respectivas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Cada Servidor Público de Carrera en coordinación con el Comité correspondiente podrá
 definir su plan de carrera partiendo del perfil requerido para desempeñar los distintos cargos de su
@@ -720,9 +713,9 @@ interés.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- La movilidad en el Sistema podrá seguir las siguientes trayectorias:
 I. Vertical o trayectorias de especialidad que corresponden al perfil del cargo en cuyas posiciones
@@ -739,9 +732,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Cuando por razones de reestructuración de la Administración Pública, desaparezcan
 cargos del Catálogo de puestos y servidores públicos de carrera cesen en sus funciones, el Sistema
@@ -750,9 +743,9 @@ mantenga convenios, otorgándoles prioridad en un proceso de selección.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Los servidores públicos de carrera, previa autorización de su superior jerárquico y de la
 Secretaría, podrán realizar el intercambio de sus respectivos cargos para reubicarse en otra ciudad o
@@ -760,9 +753,9 @@ dependencia. Los cargos deberán ser del mismo nivel y perfil de acuerdo al Cat�
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Los cargos deberán relacionarse en su conjunto con las categorías de sueldo que les
 correspondan, procurando que entre un cargo inferior y el inmediato superior, existan condiciones
@@ -770,9 +763,9 @@ salariales proporcionales y equitativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Las dependencias, en apego a las disposiciones que al efecto emita la Secretaría,
 podrán celebrar convenios con autoridades federales, estatales, municipales y del Distrito Federal, y
@@ -782,9 +775,9 @@ carrera y de ampliar sus experiencias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- La Capacitación y la Certificación de Capacidades son los procesos mediante los cuales
 los servidores públicos de carrera son inducidos, preparados, actualizados y certificados para
@@ -793,9 +786,9 @@ proceso en las dependencias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Los Comités, con base en la detección de las necesidades de cada dependencia
 establecerán programas de capacitación para el puesto y en desarrollo administrativo y calidad, para los
@@ -808,9 +801,9 @@ actualización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- La capacitación tendrá los siguientes objetivos:
 I. Desarrollar, complementar, perfeccionar o actualizar los conocimientos y habilidades necesarios
@@ -821,9 +814,9 @@ III. Certificar a los servidores profesionales de carrera en las capacidades pro
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- El programa de capacitación tiene como propósito que los servidores públicos de carrera
 dominen los conocimientos y competencias necesarios para el desarrollo de sus funciones.
@@ -838,9 +831,9 @@ que los acrediten.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- Los servidores públicos de carrera podrán solicitar su ingreso en distintos programas de
 capacitación con el fin de desarrollar su propio perfil profesional y alcanzar a futuro distintas posiciones
@@ -849,9 +842,9 @@ corresponda a su plan de carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Las dependencias, en apego a las disposiciones que al efecto emita la Secretaría,
 podrán celebrar convenios con instituciones educativas, centros de investigación y organismos públicos o
@@ -860,9 +853,9 @@ institucionales de formación de los servidores profesionales de carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- Los Comités en coordinación con la Secretaría, determinarán mediante la forma y
 términos en que se otorgará el apoyo institucional necesario para que los servidores profesionales de
@@ -871,9 +864,9 @@ la disponibilidad presupuestal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- Al Servidor Público de Carrera que haya obtenido una beca para realizar estudios de
 capacitación especial o educación formal, se le otorgarán las facilidades necesarias para su
@@ -885,9 +878,9 @@ proporcional a los servicios prestados, los gastos erogados por ese concepto a l
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- Los servidores profesionales de carrera deberán ser sometidos a una evaluación para
 certificar sus capacidades profesionales en los términos que determine la Secretaría por lo menos cada
@@ -898,9 +891,9 @@ en el Sistema y en su cargo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- Cuando el resultado de la evaluación de capacitación de un Servidor Público de Carrera
 no sea aprobatorio deberá presentarla nuevamente. En ningún caso, ésta podrá realizarse en un periodo
@@ -913,9 +906,9 @@ Administración Pública Federal y por consiguiente, causará baja del Registro.
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- La Evaluación del Desempeño es el método mediante el cual se miden, tanto en forma
 individual como colectiva, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones y
@@ -929,9 +922,9 @@ puesto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- La Evaluación del Desempeño tiene como principales objetivos los siguientes:
 I. Valorar el comportamiento de los servidores públicos de carrera en el cumplimiento de sus
@@ -948,9 +941,9 @@ conformidad con lo dispuesto por esta Ley y su Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- Los estímulos al desempeño destacado consisten en la cantidad neta que se entrega al
 Servidor Público de Carrera de manera extraordinaria con motivo de la productividad, eficacia y
@@ -963,9 +956,9 @@ cumplimiento de las metas comprometidas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Cada Comité desarrollará, conforme al Reglamento y los lineamientos que emita la
 Secretaría, un proyecto de otorgamiento de reconocimientos, incentivos y estímulos al desempeño
@@ -983,9 +976,9 @@ cuenta dentro de las agendas individuales de desarrollo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- Los Comités en coordinación con la Secretaría realizarán las descripciones y
 evaluaciones de los puestos que formen parte del Sistema. Asimismo, establecerán los métodos de
@@ -1000,9 +993,9 @@ Público de Carrera en el Sistema y en su puesto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- Para efectos de esta Ley se entenderá por separación del Servidor Público de Carrera la
 terminación de su nombramiento o las situaciones por las que dicho nombramiento deje de surtir sus
@@ -1010,9 +1003,9 @@ efectos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- El nombramiento de los servidores profesionales de carrera dejará de surtir efectos sin
 responsabilidad para las dependencias, por las siguientes causas:
@@ -1035,9 +1028,9 @@ Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- La licencia es el acto por el cual un Servidor Público de Carrera, previa autorización del
 Comité, puede dejar de desempeñar las funciones propias de su cargo de manera temporal, conservando
@@ -1059,9 +1052,9 @@ motivos justificados a juicio de la dependencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- Para cubrir el cargo del Servidor Público de Carrera que obtenga licencia se nombrará
 un Servidor Público de Carrera que actuará de manera provisional. La designación del servidor público
@@ -1071,9 +1064,9 @@ puntuación adicional en su evaluación de desempeño.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- La pertenencia al servicio no implica inamovilidad de los servidores públicos de carrera y
 demás categorías en la administración pública, pero sí garantiza que no podrán ser removidos de su
@@ -1082,9 +1075,9 @@ aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- La Secretaría con apoyo de las dependencias establecerá mecanismos de evaluación
 sobre la operación del Sistema a efecto de contar con elementos suficientes para su adecuado
@@ -1092,9 +1085,9 @@ perfeccionamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- La evaluación de resultados de los programas de capacitación que se impartan se
 realizará con base en las valoraciones del desempeño de los servidores públicos que participaron,
@@ -1102,9 +1095,9 @@ buscando el desarrollo de la capacitación en la proporción que se identifiquen
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- Los Comités desarrollarán la información necesaria que permita a la Secretaría evaluar
 los resultados de la operación del Sistema y emitirá reportes sobre el comportamiento observado en cada
@@ -1112,9 +1105,9 @@ uno de los Subsistemas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- Para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, el
 Sistema contará con los siguientes órganos:
@@ -1127,9 +1120,9 @@ corresponda con base en la normatividad que emita la Secretaría para estos efec
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- La Secretaría se encargará de dirigir, coordinar, dar seguimiento y evaluar el
 funcionamiento del Sistema en las dependencias y vigilará que sus principios rectores sean aplicados
@@ -1143,9 +1136,9 @@ disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- La Secretaría contará con las siguientes facultades:
 I. Emitir los criterios y establecer los programas generales del Sistema, para su implantación gradual,
@@ -1189,9 +1182,9 @@ Del Consejo Consultivo</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- El Consejo es un órgano de apoyo para el Sistema. Estará integrado por el titular de la
 Secretaría, por los responsables de cada Subsistema, por los presidentes de los comités técnicos de
@@ -1213,9 +1206,9 @@ aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- El Consejo estará presidido por el titular de la Secretaría y contará con un Secretario
 Técnico.
@@ -1224,9 +1217,9 @@ De los Comités Técnicos de Profesionalización y Selección</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- En cada dependencia se instalará un Comité que será el cuerpo técnico especializado
 encargado de la implantación, operación y evaluación del Sistema al interior de la misma. Asimismo, será
@@ -1237,9 +1230,9 @@ civiles especializadas, nacionales e internacionales y de colegios de profesiona
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- Los Comités son responsables de planear, organizar e impartir la inducción general y la
 inducción al puesto. Para ello, podrán coordinar la realización de cursos con instituciones de educación
@@ -1247,9 +1240,9 @@ media superior, técnica y superior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- Los Comités estarán integrados por un funcionario de carrera representante del área de
 recursos humanos de la dependencia, un representante de la Secretaría y el Oficial Mayor o su
@@ -1267,9 +1260,9 @@ Secretaría deberá certificar el desarrollo de los procedimientos y su resultad
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- En cada dependencia, los Comités tendrán las siguientes atribuciones:
 I. Emitir reglas generales y dictar actos que definan las modalidades a través de las cuales se
@@ -1297,9 +1290,9 @@ X. Las demás que se deriven de esta Ley y su Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- En contra de las resoluciones que recaigan en el procedimiento de selección en los
 términos de esta Ley, el interesado podrá interponer ante la Secretaría, recurso de revocación dentro del
@@ -1308,9 +1301,9 @@ aspirante que obtuvo la calificación más alta en el procedimiento de selecció
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77.- El recurso de revocación se tramitará de conformidad a lo siguiente:
 18 de 24
@@ -1335,9 +1328,9 @@ en un término que no excederá de quince días hábiles.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78.- El recurso de revocación contenido en el presente Título, versará exclusivamente en la
 aplicación correcta del procedimiento y no en los criterios de evaluación que se instrumenten.
@@ -1347,9 +1340,9 @@ presente Título.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79.- El Tribunal Federal de Conciliación y Arbitraje será competente para conocer de los
 conflictos individuales de carácter laboral que se susciten entre las dependencias y los servidores
@@ -1359,9 +1352,9 @@ supletoriamente la Ley Federal del Trabajo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80.- En el caso de controversias de carácter administrativo derivadas de la aplicación de esta
 Ley competerá conocerlas y resolverlas al Tribunal Federal de Justicia Fiscal y Administrativa.
@@ -1442,8 +1435,15 @@ Publicado en el Diario Oficial de la Federación el 1º de septiembre de 2005
 Artículo Unico.- Se reforma el Artículo 8 de la Ley del Servicio Profesional de Carrera en la
 Administración Pública Federal para quedar como sigue:
 ..........
-TRANSITORIOS
-Primero.- Los criterios y mecanismos de profesionalización de los servidores públicos de la Secretaría
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- Los criterios y mecanismos de profesionalización de los servidores públicos de la Secretaría
 de Relaciones Exteriores no miembros del Servicio Exterior Mexicano con plazas de estructura de los
 niveles de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo
 referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal, quedarán
@@ -1453,8 +1453,15 @@ de la Secretaría de Relaciones Exteriores en condiciones generales de igualdad,
 principios de legalidad, eficiencia, imparcialidad, equidad, certidumbre laboral, capacitación, movilidad,
 desarrollo profesional y humano y competencia por mérito. Hasta en tanto se definan estas disposiciones,
 los servidores públicos no miembros del Servicio Exterior Mexicano permanecerán como servidores
-públicos de libre designación.
-Segundo.- Se integrará una Comisión Ad-hoc que será presidida por el Presidente de la Comisión de
+públicos de libre designación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se integrará una Comisión Ad-hoc que será presidida por el Presidente de la Comisión de
 Personal de la Secretaría de Relaciones Exteriores, la cual estará conformada por el Presidente de la
 Asociación del Servicio Exterior Mexicano por miembros del Servicio Exterior Mexicano y por servidores
 públicos de la Secretaría de Relaciones Exteriores no miembros del servicio exterior que ocupan plaza de
@@ -1483,8 +1490,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 09-01-2006
 Secretaría General
 Secretaría de Servicios Parlamentarios
 La Secretaría de Relaciones Exteriores, deberá coordinar la integración de la Comisión en un plazo no
-mayor a 30 días contados a partir de la publicación del presente Decreto.
-Tercero.- En tanto no entre en vigor la normatividad que formule el Congreso a la que se hace
+mayor a 30 días contados a partir de la publicación del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- En tanto no entre en vigor la normatividad que formule el Congreso a la que se hace
 mención en el Primer Transitorio de este Decreto, las plazas vacantes en la Secretaría de Relaciones
 Exteriores serán cubiertas, indistintamente, por miembros del Servicio Exterior Mexicano y/o los
 servidores públicos de la Secretaría de Relaciones Exteriores no miembros del Servicio Exterior que
@@ -1494,8 +1508,15 @@ Pública Federal. En el caso de plazas vacantes del nivel de Enlace, éstas podr
 indistintamente por miembros del Servicio Exterior Mexicano y/o servidores públicos no miembros del
 Servicio Exterior Mexicano, en el entendido de que estos últimos serán considerados como servidores
 públicos de libre designación en tanto no se emitan las disposiciones del régimen jurídico señalado en el
-Primer Transitorio de este Decreto.
-Cuarto.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Primer Transitorio de este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación.
 México, D.F., a 28 de junio de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip.
 Manlio Fabio Beltrones Rivera, Presidente.- Sen. Lucero Saldaña Pérez, Secretaria.- Dip. Marcos

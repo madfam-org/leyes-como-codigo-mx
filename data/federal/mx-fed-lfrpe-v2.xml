@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2004-12-31/lfrpe/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2004-12-31/lfrpe/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -40,9 +40,9 @@
       </chapter>
       <chapter id="chapter-5">
         <num>CAPÍTULO V Del Derecho del Estado de Repetir contra los Servidores Públicos</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>ARTÍCULO 1.- La presente Ley es reglamentaria del sexto párrafo del artículo 109 de la Constitución
 Política de los Estados Unidos Mexicanos y sus disposiciones son de orden público e interés general;
@@ -58,13 +58,13 @@ virtud de no existir fundamento legal o causa jurídica de justificación para l
 trate.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo reformado DOF 29-12-2023</p>
           </note>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>ARTÍCULO 2.- Son sujetos de esta Ley, los entes públicos federales. Para los efectos de la misma, se
 entenderá por entes públicos federales, salvo mención expresa en contrario, a los Poderes Judicial,
@@ -94,19 +94,19 @@ que realicen en ejercicio de las funciones de su competencia.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Párrafo reformado DOF 30-04-2009</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Párrafo adicionado DOF 30-04-2009</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>ARTÍCULO 3.- Se exceptúan de la obligación de indemnizar, de acuerdo con esta Ley, además de los
 casos fortuitos y de fuerza mayor, los daños y perjuicios que no sean consecuencia de la actividad
@@ -117,9 +117,9 @@ indemnización sea el único causante del daño.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>ARTÍCULO 4.- Los daños y perjuicios materiales que constituyan la lesión patrimonial reclamada,
 incluidos los personales y morales, habrán de ser reales, evaluables en dinero, directamente
@@ -128,9 +128,9 @@ población.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>ARTÍCULO 5.- Los entes públicos federales cubrirán las indemnizaciones derivadas de
 responsabilidad patrimonial que se determinen conforme a esta Ley, con cargo a sus respectivos
@@ -144,9 +144,9 @@ de la presente Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>ARTÍCULO 6.- Los entes públicos federales, tomando en cuenta la disponibilidad de recursos para el
 ejercicio fiscal correspondiente, incluirán en sus respectivos anteproyectos de presupuesto los recursos
@@ -158,9 +158,9 @@ Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondient
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>ARTÍCULO 7.- El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, en los
 términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, deberá autorizar el traspaso de
@@ -177,9 +177,9 @@ correspondientes deberán ser aprobados por los órganos de gobierno respectivos
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>ARTÍCULO 8.- Las indemnizaciones fijadas por autoridades administrativas que excedan del monto
 máximo presupuestado en un ejercicio fiscal determinado serán cubiertas en el siguiente ejercicio fiscal,
@@ -187,9 +187,9 @@ según el orden de registro a que se refiere el artículo 16 de la presente Ley.
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>ARTÍCULO 9.- La presente Ley se aplicará supletoriamente a las diversas leyes administrativas que
 contengan un régimen especial de responsabilidad patrimonial del Estado. A falta de disposición expresa
@@ -198,9 +198,9 @@ el Código Fiscal de la Federación, el Código Civil Federal y los principios g
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTÍCULO 10.- Los entes públicos tendrán la obligación de denunciar ante el Ministerio Público a
 toda persona que directa o indirectamente participe, coadyuve, asista o simule la producción de daños
@@ -209,9 +209,9 @@ alguna de las indemnizaciones a que se refiere esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTÍCULO 11.- La indemnización por Responsabilidad Patrimonial del Estado derivada de la
 actividad administrativa irregular, deberá pagarse al reclamante de acuerdo a las modalidades que
@@ -242,18 +242,18 @@ antecedentes referidos en el numeral anterior y el comportamiento del ingreso-ga
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTÍCULO 12.- Las indemnizaciones corresponderán a la reparación integral del daño y, en su caso,
 por el daño personal y moral.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTÍCULO 13.- El monto de la indemnización por daños y perjuicios materiales se calculará de
 acuerdo con los criterios establecidos por la Ley de Expropiación, el Código Fiscal de la Federación, la
@@ -262,9 +262,9 @@ los valores comerciales o de mercado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTÍCULO 14.- Los montos de las indemnizaciones se calcularán de la siguiente forma:
 I. En el caso de daños personales:
@@ -284,9 +284,9 @@ Código Civil Federal en su artículo 1915.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTÍCULO 15.- Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los
 términos y condiciones dispuestos por esta Ley y a las que ella remita. En los casos de haberse
@@ -298,9 +298,9 @@ deducible corresponde al Estado y no podrá disminuirse de la indemnización.</p
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTÍCULO 16.- Las sentencias firmes deberán registrarse por el ente público federal responsable,
 quienes deberán llevar un registro de indemnizaciones debidas por responsabilidad patrimonial, que será
@@ -310,18 +310,18 @@ cronológico en que se emitan las resoluciones de las autoridades administrativa
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTÍCULO 17.- Los procedimientos de responsabilidad patrimonial de los entes públicos federales se
 iniciarán por reclamación de la parte interesada.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>ARTÍCULO 18.- La parte interesada deberá presentar su reclamación ante la dependencia o entidad
 presuntamente responsable u organismo constitucional autónomo, conforme a lo establecido en la Ley
@@ -335,13 +335,13 @@ como dañoso, el procedimiento de responsabilidad patrimonial del Estado se susp
 en los otros procedimientos, la autoridad competente no haya dictado una resolución que cause estado.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 12-06-2009</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>ARTÍCULO 19.- El procedimiento de responsabilidad patrimonial deberá ajustarse, además de lo
 dispuesto por esta Ley, a lo dispuesto por la Ley Federal de Procedimiento Contencioso Administrativo,
@@ -349,22 +349,22 @@ en la vía jurisdiccional.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Artículo reformado DOF 12-06-2009</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>ARTÍCULO 20.- La nulidad o anulabilidad de actos administrativos por la vía administrativa, o por la
 vía jurisdiccional contencioso-administrativa, no presupone por sí misma derecho a la indemnización.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>ARTÍCULO 21.- El daño que se cause al patrimonio de los particulares por la actividad administrativa
 irregular, deberá acreditarse tomando en consideración los siguientes criterios:
@@ -379,9 +379,9 @@ atenuar o agravar la lesión patrimonial reclamada.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>ARTÍCULO 22.- La responsabilidad del Estado deberá probarla el reclamante que considere
 lesionado su patrimonio, por no tener la obligación jurídica de soportarlo. Por su parte, al Estado
@@ -393,9 +393,9 @@ acaecimiento, o bien, la existencia de la fuerza mayor que lo exonera de respons
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>ARTÍCULO 23.- Las resoluciones que dicte el ente público federal con motivo de las reclamaciones
 que prevé la presente Ley, deberán contener como elementos mínimos los siguientes: El relativo a la
@@ -412,13 +412,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Artículo reformado DOF 12-06-2009</p>
           </note>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>ARTÍCULO 24.- Las resoluciones de la autoridad administrativa que nieguen la indemnización, o que,
 por su monto, no satisfagan al interesado podrán impugnarse mediante recurso de revisión en vía
@@ -427,13 +427,13 @@ Administrativa.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Artículo reformado DOF 12-06-2009</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>ARTÍCULO 25.- El derecho a reclamar indemnización prescribe en un año, mismo que se computará
 a partir del día siguiente a aquel en que se hubiera producido la lesión patrimonial, o a partir del momento
@@ -445,13 +445,13 @@ probablemente produjeron los daños o perjuicios.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Párrafo reformado DOF 12-06-2009</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>ARTÍCULO 26.- Los reclamantes afectados podrán celebrar convenio con los entes públicos
 federales, a fin de dar por concluida la controversia, mediante la fijación y el pago de la indemnización
@@ -460,9 +460,9 @@ por parte de la contraloría interna o del órgano de vigilancia correspondiente
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>ARTÍCULO 27.- En caso de concurrencia acreditada en términos del artículo 21 de esta Ley, el pago
 de la indemnización deberá distribuirse proporcionalmente entre todos los causantes de la lesión
@@ -497,9 +497,9 @@ materia que regula la presente Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>ARTÍCULO 28.- En el supuesto de que el reclamante se encuentre entre los causantes de la lesión
 cuya reparación solicita, la proporción cuantitativa de su participación en el daño y perjuicio causado se
@@ -507,9 +507,9 @@ deducirá del monto de la indemnización total.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>ARTÍCULO 29.- En el supuesto de que entre los causantes de la lesión patrimonial reclamada no se
 pueda identificar su exacta participación en la producción de la misma, se establecerá entre ellos una
@@ -518,9 +518,9 @@ partes iguales entre todos los cocausantes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>ARTÍCULO 30.- En el supuesto de que las reclamaciones deriven de hechos o actos dañosos
 producidos como consecuencia de una concesión de servicio público por parte de la Administración
@@ -533,9 +533,9 @@ concesionario y no se derive de una determinación del concesionante.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>ARTÍCULO 31.- El Estado podrá repetir de los servidores públicos el pago de la indemnización
 cubierta a los particulares cuando, previa substanciación del procedimiento administrativo disciplinario
@@ -551,9 +551,9 @@ resultado dañoso.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>ARTÍCULO 32.- El Estado podrá, también, instruir igual procedimiento a los servidores públicos por él
 nombrados, designados o contratados y, en general, a toda persona que desempeñe un empleo, cargo o
@@ -563,9 +563,9 @@ anterior, sin perjuicio de lo dispuesto por otras leyes aplicables en la materia
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>ARTÍCULO 33.- Los servidores públicos podrán impugnar las resoluciones administrativas por las que
 se les imponga la obligación de resarcir los daños y perjuicios que el Estado haya pagado con motivo de
@@ -580,9 +580,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>ARTÍCULO 34.- La presentación de reclamaciones por responsabilidad patrimonial del Estado
 interrumpirá los plazos de prescripción que la Ley Federal de Responsabilidades Administrativas de los
@@ -592,9 +592,9 @@ se dicte en el primero de los procedimientos mencionados.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>ARTÍCULO 35.- Las cantidades que se obtengan con motivo de las sanciones económicas que las
 autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley
@@ -603,9 +603,23 @@ corresponda, al monto de los recursos previstos para cubrir las obligaciones ind
 de la responsabilidad patrimonial de los entes públicos federales.
 ARTÍCULO SEGUNDO.- .........
 ARTÍCULO TERCERO.- .........
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.
-SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados
 con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido
 los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones
 aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
@@ -630,10 +644,24 @@ ARTÍCULO ÚNICO.- Se reforma el segundo párrafo del artículo 2 de la Ley Fede
 Responsabilidad Patrimonial del Estado y se adiciona un cuarto párrafo al mismo artículo, para quedar
 como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del
 presente Decreto.
 México, D. F., a 31 de marzo de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César
 Horacio Duarte Jáquez, Presidente.- Sen. Gabino Cue Monteagudo, Secretario.- Dip. Santiago
@@ -655,10 +683,24 @@ Publicado en el Diario Oficial de la Federación el 12 de junio de 2009
 ARTÍCULO PRIMERO.- Se reforman los artículos 18, primer párrafo; 19; 23; 24 y 25, segundo párrafo
 de la Ley Federal de Responsabilidad Patrimonial del Estado, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Los casos de reclamación presentados ante el Tribunal Federal de Justicia Fiscal y
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Los casos de reclamación presentados ante el Tribunal Federal de Justicia Fiscal y
 Administrativa que se encuentren en trámite en los términos de la ley que se modifica, deberán
 resolverse de manera definitiva por el mismo.
 México, D.F., a 14 de abril de 2009.- Sen. Gustavo E. Madero Muñoz, Presidente.- Dip. César
@@ -681,23 +723,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Vigésimo Quinto.- Se reforma el párrafo primero del artículo 2 de la Ley Federal de
 Responsabilidad Patrimonial del Estado, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -707,8 +777,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -739,13 +816,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -757,8 +848,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 12 de 15
 LEY FEDERAL DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO
@@ -766,25 +864,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 29-12-2023
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -795,14 +921,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -815,12 +955,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

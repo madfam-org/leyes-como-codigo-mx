@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2014-05-23/lfce/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2014-05-23/lfce/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -236,9 +236,9 @@
           </chapter>
           <chapter id="chapter-52">
             <num>Capítulo VI del Título IV del Libro Tercero con el artículo 110 Bis; 117, el párrafo cuarto; 119, el párrafo tercero; 125, el párrafo cuarto; 126, las fracciones II Bis, II Bis 1 y II Bis 2, y el párrafo segundo; 127, las</num>
-            <article id="art-1">
-              <num>Artículo 1</num>
-              <paragraph id="art-1-para-1">
+            <article id="art-1.">
+              <num>Artículo 1.</num>
+              <paragraph id="art-1.-para-1">
                 <content>
                   <p>Artículo 1. La presente Ley es reglamentaria del artículo 28 de la Constitución Política de los Estados
 Unidos Mexicanos en materia de libre concurrencia, competencia económica, monopolios, prácticas
@@ -247,9 +247,9 @@ actividad económica y de observancia general en toda la República.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-2">
-              <num>Artículo 2</num>
-              <paragraph id="art-2-para-1">
+            <article id="art-2.">
+              <num>Artículo 2.</num>
+              <paragraph id="art-2.-para-1">
                 <content>
                   <p>Artículo 2. Esta Ley tiene por objeto promover, proteger y garantizar la libre concurrencia y la
 competencia económica, así como prevenir, investigar, combatir, perseguir con eficacia, castigar
@@ -259,9 +259,9 @@ eficiente de los mercados.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-3">
-              <num>Artículo 3</num>
-              <paragraph id="art-3-para-1">
+            <article id="art-3.">
+              <num>Artículo 3.</num>
+              <paragraph id="art-3.-para-1">
                 <content>
                   <p>Artículo 3. Para los efectos de esta Ley, se entiende por:
 I. Agente Económico: Toda persona física o moral, con o sin fines de lucro, dependencias y
@@ -327,37 +327,37 @@ XIV Bis. Reglamento: El reglamento que al efecto se expida de esta Ley;
 XV. Secretaría: La Secretaría de Economía.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción reformada DOF 27-01-2017</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-4">
-              <num>Artículo 4</num>
-              <paragraph id="art-4-para-1">
+            <article id="art-4.">
+              <num>Artículo 4.</num>
+              <paragraph id="art-4.-para-1">
                 <content>
                   <p>Artículo 4. Están sujetos a lo dispuesto por esta Ley todos los Agentes Económicos. Serán
 responsables solidarios los Agentes Económicos que hayan tomado o adoptado la decisión, así como
@@ -366,21 +366,21 @@ realización de la conducta prohibida por esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-5">
-              <num>Artículo 5</num>
-              <paragraph id="art-5-para-1">
+            <article id="art-5.">
+              <num>Artículo 5.</num>
+              <paragraph id="art-5.-para-1">
                 <content>
                   <p>Artículo 5. Se deroga
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-5" placement="bottom">
+              <note placementBase="#art-5." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-6">
-              <num>Artículo 6</num>
-              <paragraph id="art-6-para-1">
+            <article id="art-6.">
+              <num>Artículo 6.</num>
+              <paragraph id="art-6.-para-1">
                 <content>
                   <p>Artículo 6. No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva en las
 áreas estratégicas determinadas en la Constitución Política de los Estados Unidos Mexicanos, así como
@@ -389,13 +389,13 @@ que expida el Congreso de la Unión.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-6" placement="bottom">
+              <note placementBase="#art-6." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-7">
-              <num>Artículo 7</num>
-              <paragraph id="art-7-para-1">
+            <article id="art-7.">
+              <num>Artículo 7.</num>
+              <paragraph id="art-7.-para-1">
                 <content>
                   <p>Artículo 7. No constituyen monopolios las asociaciones de trabajadores constituidas conforme a la
 legislación de la materia para la protección de sus propios intereses.
@@ -408,9 +408,9 @@ señala el artículo 28 de la Constitución Política de los Estados Unidos Mexi
                 </content>
               </paragraph>
             </article>
-            <article id="art-8">
-              <num>Artículo 8</num>
-              <paragraph id="art-8-para-1">
+            <article id="art-8.">
+              <num>Artículo 8.</num>
+              <paragraph id="art-8.-para-1">
                 <content>
                   <p>Artículo 8. No constituyen monopolios las asociaciones o sociedades cooperativas de productores
 para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados
@@ -431,21 +431,14 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 Los Agentes Económicos referidos en este artículo estarán sujetos a lo dispuesto en esta Ley
-respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el</p>
+respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el
+artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-28">
-              <num>Artículo 28</num>
-              <paragraph id="art-28-para-1">
-                <content>
-                  <p>artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.</p>
-                </content>
-              </paragraph>
-            </article>
-            <article id="art-9">
-              <num>Artículo 9</num>
-              <paragraph id="art-9-para-1">
+            <article id="art-9.">
+              <num>Artículo 9.</num>
+              <paragraph id="art-9.-para-1">
                 <content>
                   <p>Artículo 9. Para la imposición, en los términos del artículo 28 de la Constitución Política de los
 Estados Unidos Mexicanos, de precios máximos a los bienes y servicios que sean necesarios para la
@@ -468,13 +461,13 @@ sanción, respecto de los precios que se determinen conforme a este artículo, d
 dispone la Ley Federal de Protección al Consumidor.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-9" placement="bottom">
+              <note placementBase="#art-9." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-10">
-              <num>Artículo 10</num>
-              <paragraph id="art-10-para-1">
+            <article id="art-10.">
+              <num>Artículo 10.</num>
+              <paragraph id="art-10.-para-1">
                 <content>
                   <p>Artículo 10. La Comisión es un organismo público descentralizado de la Administración Pública
 Federal, sectorizado a la Secretaría, con personalidad jurídica y patrimonio propio, autonomía de gestión
@@ -486,13 +479,13 @@ desempeñarse de manera profesional e imparcial en sus actuaciones.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-10" placement="bottom">
+              <note placementBase="#art-10." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-11">
-              <num>Artículo 11</num>
-              <paragraph id="art-11-para-1">
+            <article id="art-11.">
+              <num>Artículo 11.</num>
+              <paragraph id="art-11.-para-1">
                 <content>
                   <p>Artículo 11. El domicilio de la Comisión será la Ciudad de México y, sujeta a la disponibilidad
 presupuestaria, podrá establecer oficinas de representación fuera de la Ciudad de México.
@@ -506,13 +499,13 @@ Secretaría de Servicios Parlamentarios
 De las Atribuciones de la Comisión</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-11" placement="bottom">
+              <note placementBase="#art-11." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-12">
-              <num>Artículo 12</num>
-              <paragraph id="art-12-para-1">
+            <article id="art-12.">
+              <num>Artículo 12.</num>
+              <paragraph id="art-12.-para-1">
                 <content>
                   <p>Artículo 12. La Comisión tendrá las siguientes atribuciones:
 I. Garantizar la libre concurrencia y competencia económica; prevenir, investigar y combatir los
@@ -668,71 +661,71 @@ XXXVIII. Las demás que le confieran ésta y otras leyes.
 Fracción recorrida DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción reformada DOF 14-11-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-12" placement="bottom">
+              <note placementBase="#art-12." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-13">
-              <num>Artículo 13</num>
-              <paragraph id="art-13-para-1">
+            <article id="art-13.">
+              <num>Artículo 13.</num>
+              <paragraph id="art-13.-para-1">
                 <content>
                   <p>Artículo 13. En la Comisión se garantizará la separación entre la unidad que conoce de los
 procedimientos de investigación y el Pleno, quien resolverá dichos procedimientos.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-13" placement="bottom">
+              <note placementBase="#art-13." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
@@ -818,45 +811,45 @@ empleo, trabajo o comisión públicos o privados, con excepción de los cargos d
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-14">
-              <num>Artículo 14</num>
-              <paragraph id="art-14-para-1">
+            <article id="art-14.">
+              <num>Artículo 14.</num>
+              <paragraph id="art-14.-para-1">
                 <content>
                   <p>Artículo 14. Se deroga
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-14" placement="bottom">
+              <note placementBase="#art-14." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-15">
-              <num>Artículo 15</num>
-              <paragraph id="art-15-para-1">
+            <article id="art-15.">
+              <num>Artículo 15.</num>
+              <paragraph id="art-15.-para-1">
                 <content>
                   <p>Artículo 15. Se deroga
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-15" placement="bottom">
+              <note placementBase="#art-15." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-16">
-              <num>Artículo 16</num>
-              <paragraph id="art-16-para-1">
+            <article id="art-16.">
+              <num>Artículo 16.</num>
+              <paragraph id="art-16.-para-1">
                 <content>
                   <p>Artículo 16. Se deroga
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-16" placement="bottom">
+              <note placementBase="#art-16." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-17">
-              <num>Artículo 17</num>
-              <paragraph id="art-17-para-1">
+            <article id="art-17.">
+              <num>Artículo 17.</num>
+              <paragraph id="art-17.-para-1">
                 <content>
                   <p>Artículo 17. Se deroga
 
@@ -869,13 +862,13 @@ Secretaría de Servicios Parlamentarios
 De las Atribuciones del Pleno</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-17" placement="bottom">
+              <note placementBase="#art-17." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-18">
-              <num>Artículo 18</num>
-              <paragraph id="art-18-para-1">
+            <article id="art-18.">
+              <num>Artículo 18.</num>
+              <paragraph id="art-18.-para-1">
                 <content>
                   <p>Artículo 18. El Pleno deliberará de forma colegiada y decidirá los casos por mayoría de votos, salvo
 las decisiones que requieran una mayoría calificada en los términos de esta Ley.
@@ -903,21 +896,8 @@ demás disposiciones aplicables.
 Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI,
 XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo
 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las
-atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el</p>
-                </content>
-              </paragraph>
-              <note placementBase="#art-18" placement="bottom">
-                <p>Párrafo reformado DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-18" placement="bottom">
-                <p>Párrafo reformado DOF 16-07-2025</p>
-              </note>
-            </article>
-            <article id="art-94">
-              <num>Artículo 94</num>
-              <paragraph id="art-94-para-1">
-                <content>
-                  <p>artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán
+atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el
+artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán
 ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos
 cuatro Personas Comisionadas.
 
@@ -929,13 +909,19 @@ unidades de la misma, las cuales estarán bajo el mando y supervisión del Pleno
 Presidente, según se trate.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-94" placement="bottom">
+              <note placementBase="#art-18." placement="bottom">
+                <p>Párrafo reformado DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-18." placement="bottom">
+                <p>Párrafo reformado DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-18." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-19">
-              <num>Artículo 19</num>
-              <paragraph id="art-19-para-1">
+            <article id="art-19.">
+              <num>Artículo 19.</num>
+              <paragraph id="art-19.-para-1">
                 <content>
                   <p>Artículo 19. La Persona Comisionada Presidente presidirá el Pleno y a la Comisión. En caso de
 ausencia, le suplirá la Persona Comisionada de mayor antigüedad y, a igualdad de antigüedad, la de
@@ -948,13 +934,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-19" placement="bottom">
+              <note placementBase="#art-19." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-20">
-              <num>Artículo 20</num>
-              <paragraph id="art-20-para-1">
+            <article id="art-20.">
+              <num>Artículo 20.</num>
+              <paragraph id="art-20.-para-1">
                 <content>
                   <p>Artículo 20. Corresponde a la Persona Comisionada Presidente:
 
@@ -995,25 +981,25 @@ XII. Las demás que le confieran esta Ley, el estatuto orgánico, el Pleno y las
 aplicables.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-20" placement="bottom">
+              <note placementBase="#art-20." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-20" placement="bottom">
+              <note placementBase="#art-20." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-20" placement="bottom">
+              <note placementBase="#art-20." placement="bottom">
                 <p>Fracción reformada DOF 27-01-2017</p>
               </note>
-              <note placementBase="#art-20" placement="bottom">
+              <note placementBase="#art-20." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-20" placement="bottom">
+              <note placementBase="#art-20." placement="bottom">
                 <p>Fracción reformada DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-21">
-              <num>Artículo 21</num>
-              <paragraph id="art-21-para-1">
+            <article id="art-21.">
+              <num>Artículo 21.</num>
+              <paragraph id="art-21.-para-1">
                 <content>
                   <p>Artículo 21. Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo que
 ejercieron su función, los Comisionados no podrán desempeñarse como consejeros, administradores,
@@ -1030,9 +1016,9 @@ De las Causas de Remoción</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-22">
-              <num>Artículo 22</num>
-              <paragraph id="art-22-para-1">
+            <article id="art-22.">
+              <num>Artículo 22.</num>
+              <paragraph id="art-22.-para-1">
                 <content>
                   <p>Artículo 22. Los Comisionados serán sujetos de juicio político en términos del Título Cuarto de la
 Constitución Política de los Estados Unidos Mexicanos y del Título Segundo de la Ley Federal de
@@ -1040,9 +1026,9 @@ Responsabilidades de los Servidores Públicos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-23">
-              <num>Artículo 23</num>
-              <paragraph id="art-23-para-1">
+            <article id="art-23.">
+              <num>Artículo 23.</num>
+              <paragraph id="art-23.-para-1">
                 <content>
                   <p>Artículo 23. La persona titular del Ejecutivo Federal podrá remover a las Personas Comisionadas de
 su encargo, por las siguientes causas graves:
@@ -1069,16 +1055,16 @@ Sección IV
 De las Prohibiciones</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-23" placement="bottom">
+              <note placementBase="#art-23." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-23" placement="bottom">
+              <note placementBase="#art-23." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-24">
-              <num>Artículo 24</num>
-              <paragraph id="art-24-para-1">
+            <article id="art-24.">
+              <num>Artículo 24.</num>
+              <paragraph id="art-24.-para-1">
                 <content>
                   <p>Artículo 24. Las Personas Comisionadas estarán impedidas y deberán excusarse inmediatamente de
 conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un
@@ -1120,25 +1106,25 @@ asunto.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-24" placement="bottom">
+              <note placementBase="#art-24." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-24" placement="bottom">
+              <note placementBase="#art-24." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-24" placement="bottom">
+              <note placementBase="#art-24." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-24" placement="bottom">
+              <note placementBase="#art-24." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-24" placement="bottom">
+              <note placementBase="#art-24." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-25">
-              <num>Artículo 25</num>
-              <paragraph id="art-25-para-1">
+            <article id="art-25.">
+              <num>Artículo 25.</num>
+              <paragraph id="art-25.-para-1">
                 <content>
                   <p>Artículo 25. Fuera de las audiencias previstas en los procedimientos establecidos en esta Ley, los
 Comisionados podrán tratar asuntos de su competencia con personas que representen los intereses de
@@ -1172,22 +1158,22 @@ El Pleno emitirá las demás reglas de contacto aplicables a la Autoridad Invest
 orgánico.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-25" placement="bottom">
+              <note placementBase="#art-25." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-25" placement="bottom">
+              <note placementBase="#art-25." placement="bottom">
                 <p>Párrafo reformado DOF 27-01-2017</p>
               </note>
-              <note placementBase="#art-25" placement="bottom">
+              <note placementBase="#art-25." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-25" placement="bottom">
+              <note placementBase="#art-25." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-26">
-              <num>Artículo 26</num>
-              <paragraph id="art-26-para-1">
+            <article id="art-26.">
+              <num>Artículo 26.</num>
+              <paragraph id="art-26.-para-1">
                 <content>
                   <p>Artículo 26. La Autoridad Investigadora es el órgano de la Comisión encargado de desahogar la
 etapa de investigación y es parte en el procedimiento seguido en forma de juicio. En el ejercicio de sus
@@ -1196,9 +1182,9 @@ sobre su funcionamiento y resoluciones.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-27">
-              <num>Artículo 27</num>
-              <paragraph id="art-27-para-1">
+            <article id="art-27.">
+              <num>Artículo 27.</num>
+              <paragraph id="art-27.-para-1">
                 <content>
                   <p>Artículo 27. La Autoridad Investigadora tendrá un titular que la representará y contará con la
 estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, mismos que
@@ -1206,9 +1192,9 @@ estarán sujetos a lo que se establezca en el estatuto orgánico de la Comisión
                 </content>
               </paragraph>
             </article>
-            <article id="art-28">
-              <num>Artículo 28</num>
-              <paragraph id="art-28-para-1">
+            <article id="art-28.">
+              <num>Artículo 28.</num>
+              <paragraph id="art-28.-para-1">
                 <content>
                   <p>Artículo 28. La Autoridad Investigadora tendrá las siguientes atribuciones:
 I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes las denuncias
@@ -1267,53 +1253,53 @@ Disposiciones Regulatorias y en el estatuto orgánico de la Comisión.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción reformada DOF 20-05-2021</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-28" placement="bottom">
+              <note placementBase="#art-28." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-29">
-              <num>Artículo 29</num>
-              <paragraph id="art-29-para-1">
+            <article id="art-29.">
+              <num>Artículo 29.</num>
+              <paragraph id="art-29.-para-1">
                 <content>
                   <p>Artículo 29. Para el desempeño de sus funciones, la Autoridad Investigadora podrá aplicar separada
 o indistintamente las medidas de apremio establecidas en esta Ley, según corresponda.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-29" placement="bottom">
+              <note placementBase="#art-29." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-30">
-              <num>Artículo 30</num>
-              <paragraph id="art-30-para-1">
+            <article id="art-30.">
+              <num>Artículo 30.</num>
+              <paragraph id="art-30.-para-1">
                 <content>
                   <p>Artículo 30. La persona titular de la Autoridad Investigadora será designada y removida por el Pleno
 de la Comisión por mayoría de tres Personas Comisionadas, siendo necesario el voto favorable de la
@@ -1326,13 +1312,13 @@ Secretaría de Servicios Parlamentarios
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-30" placement="bottom">
+              <note placementBase="#art-30." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-31">
-              <num>Artículo 31</num>
-              <paragraph id="art-31-para-1">
+            <article id="art-31.">
+              <num>Artículo 31.</num>
+              <paragraph id="art-31.-para-1">
                 <content>
                   <p>Artículo 31. La persona titular de la Autoridad Investigadora durará en su encargo cuatro años,
 pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño.
@@ -1365,28 +1351,28 @@ El incumplimiento a esta disposición se sancionará en términos del artículo 
 Responsabilidades Administrativas de los Servidores Públicos.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-31" placement="bottom">
+              <note placementBase="#art-31." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-31" placement="bottom">
+              <note placementBase="#art-31." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-31" placement="bottom">
+              <note placementBase="#art-31." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-31" placement="bottom">
+              <note placementBase="#art-31." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-31" placement="bottom">
+              <note placementBase="#art-31." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-31" placement="bottom">
+              <note placementBase="#art-31." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-32">
-              <num>Artículo 32</num>
-              <paragraph id="art-32-para-1">
+            <article id="art-32.">
+              <num>Artículo 32.</num>
+              <paragraph id="art-32.-para-1">
                 <content>
                   <p>Artículo 32. La persona titular de la Autoridad Investigadora podrá ser removida del cargo por el
 Pleno por las siguientes causas:
@@ -1408,13 +1394,13 @@ Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Resp
 Administrativas de los Servidores Públicos.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-32" placement="bottom">
+              <note placementBase="#art-32." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-33">
-              <num>Artículo 33</num>
-              <paragraph id="art-33-para-1">
+            <article id="art-33.">
+              <num>Artículo 33.</num>
+              <paragraph id="art-33.-para-1">
                 <content>
                   <p>Artículo 33. En el desempeño de su encargo, la persona titular de la Autoridad Investigadora será
 independiente en sus decisiones y funcionamiento, profesional en su desempeño e imparcial en sus
@@ -1423,13 +1409,13 @@ transparencia, así como a las reglas de contacto que se establezcan en el estat
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-33" placement="bottom">
+              <note placementBase="#art-33." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-34">
-              <num>Artículo 34</num>
-              <paragraph id="art-34-para-1">
+            <article id="art-34.">
+              <num>Artículo 34.</num>
+              <paragraph id="art-34.-para-1">
                 <content>
                   <p>Artículo 34. Cuando las quejas o denuncias se presenten en contra de la persona titular de la
 Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el
@@ -1437,13 +1423,13 @@ trámite de los casos a los que se refieran las denuncias haya finalizado.
 , 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-34" placement="bottom">
+              <note placementBase="#art-34." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-35">
-              <num>Artículo 35</num>
-              <paragraph id="art-35-para-1">
+            <article id="art-35.">
+              <num>Artículo 35.</num>
+              <paragraph id="art-35.-para-1">
                 <content>
                   <p>Artículo 35. Para efectos de esta Ley, además de los supuestos establecidos en la Ley Federal de
 Responsabilidades Administrativas de los Servidores Públicos, la persona titular de la Autoridad
@@ -1456,13 +1442,13 @@ III. Someter a sabiendas, a la consideración del Pleno, información falsa o al
 IV. Contravenir, a sabiendas, las disposiciones del Pleno sobre las reglas de contacto.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-35" placement="bottom">
+              <note placementBase="#art-35." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-36">
-              <num>Artículo 36</num>
-              <paragraph id="art-36-para-1">
+            <article id="art-36.">
+              <num>Artículo 36.</num>
+              <paragraph id="art-36.-para-1">
                 <content>
                   <p>Artículo 36. La persona titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier
 otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo,
@@ -1483,109 +1469,109 @@ Secretaría de Servicios Parlamentarios
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-36" placement="bottom">
+              <note placementBase="#art-36." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-37">
-              <num>Artículo 37</num>
-              <paragraph id="art-37-para-1">
+            <article id="art-37.">
+              <num>Artículo 37.</num>
+              <paragraph id="art-37.-para-1">
                 <content>
                   <p>Artículo 37. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-37" placement="bottom">
+              <note placementBase="#art-37." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-38">
-              <num>Artículo 38</num>
-              <paragraph id="art-38-para-1">
+            <article id="art-38.">
+              <num>Artículo 38.</num>
+              <paragraph id="art-38.-para-1">
                 <content>
                   <p>Artículo 38. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-38" placement="bottom">
+              <note placementBase="#art-38." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-39">
-              <num>Artículo 39</num>
-              <paragraph id="art-39-para-1">
+            <article id="art-39.">
+              <num>Artículo 39.</num>
+              <paragraph id="art-39.-para-1">
                 <content>
                   <p>Artículo 39. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-39" placement="bottom">
+              <note placementBase="#art-39." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-40">
-              <num>Artículo 40</num>
-              <paragraph id="art-40-para-1">
+            <article id="art-40.">
+              <num>Artículo 40.</num>
+              <paragraph id="art-40.-para-1">
                 <content>
                   <p>Artículo 40. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-40" placement="bottom">
+              <note placementBase="#art-40." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-41">
-              <num>Artículo 41</num>
-              <paragraph id="art-41-para-1">
+            <article id="art-41.">
+              <num>Artículo 41.</num>
+              <paragraph id="art-41.-para-1">
                 <content>
                   <p>Artículo 41. Se deroga
 , 20-05-2021. Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-41" placement="bottom">
+              <note placementBase="#art-41." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-42">
-              <num>Artículo 42</num>
-              <paragraph id="art-42-para-1">
+            <article id="art-42.">
+              <num>Artículo 42.</num>
+              <paragraph id="art-42.-para-1">
                 <content>
                   <p>Artículo 42. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-42" placement="bottom">
+              <note placementBase="#art-42." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-43">
-              <num>Artículo 43</num>
-              <paragraph id="art-43-para-1">
+            <article id="art-43.">
+              <num>Artículo 43.</num>
+              <paragraph id="art-43.-para-1">
                 <content>
                   <p>Artículo 43. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-43" placement="bottom">
+              <note placementBase="#art-43." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-44">
-              <num>Artículo 44</num>
-              <paragraph id="art-44-para-1">
+            <article id="art-44.">
+              <num>Artículo 44.</num>
+              <paragraph id="art-44.-para-1">
                 <content>
                   <p>Artículo 44. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-44" placement="bottom">
+              <note placementBase="#art-44." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-45">
-              <num>Artículo 45</num>
-              <paragraph id="art-45-para-1">
+            <article id="art-45.">
+              <num>Artículo 45.</num>
+              <paragraph id="art-45.-para-1">
                 <content>
                   <p>Artículo 45. Se deroga
 . Derogado DOF 16-07-2025
@@ -1596,38 +1582,38 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-45" placement="bottom">
+              <note placementBase="#art-45." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-46">
-              <num>Artículo 46</num>
-              <paragraph id="art-46-para-1">
+            <article id="art-46.">
+              <num>Artículo 46.</num>
+              <paragraph id="art-46.-para-1">
                 <content>
                   <p>Artículo 46. Se deroga
 . Derogado DOF 16-07-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-46" placement="bottom">
+              <note placementBase="#art-46." placement="bottom">
                 <p>Artículo reformado DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-47">
-              <num>Artículo 47</num>
-              <paragraph id="art-47-para-1">
+            <article id="art-47.">
+              <num>Artículo 47.</num>
+              <paragraph id="art-47.-para-1">
                 <content>
                   <p>Artículo 47. La Comisión se sujetará a lo dispuesto por el artículo 5, fracción II, de la Ley Federal de
 Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-47" placement="bottom">
+              <note placementBase="#art-47." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-48">
-              <num>Artículo 48</num>
-              <paragraph id="art-48-para-1">
+            <article id="art-48.">
+              <num>Artículo 48.</num>
+              <paragraph id="art-48.-para-1">
                 <content>
                   <p>Artículo 48. El patrimonio de la Comisión se integra con:
 I. Los bienes muebles e inmuebles que adquiera para el cumplimiento de su objeto, incluyendo
@@ -1641,9 +1627,9 @@ su objeto.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-49">
-              <num>Artículo 49</num>
-              <paragraph id="art-49-para-1">
+            <article id="art-49.">
+              <num>Artículo 49.</num>
+              <paragraph id="art-49.-para-1">
                 <content>
                   <p>Artículo 49. La Comisión deberá publicar la versión estenográfica de sus sesiones, y los acuerdos y
 resoluciones del pleno en su sitio de internet y, en el Diario Oficial de la Federación cuando así lo
@@ -1686,13 +1672,13 @@ rendir en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendari
 Fiscalización Superior de la Federación y demás disposiciones aplicables.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-49" placement="bottom">
+              <note placementBase="#art-49." placement="bottom">
                 <p>Fracción reformada DOF 27-01-2017</p>
               </note>
             </article>
-            <article id="art-50">
-              <num>Artículo 50</num>
-              <paragraph id="art-50-para-1">
+            <article id="art-50.">
+              <num>Artículo 50.</num>
+              <paragraph id="art-50.-para-1">
                 <content>
                   <p>Artículo 50. El personal que preste sus servicios en la Comisión se regirá por las disposiciones del
 Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley
@@ -1703,9 +1689,9 @@ trabajadores de confianza debido a la naturaleza de las funciones que ésta dese
                 </content>
               </paragraph>
             </article>
-            <article id="art-51">
-              <num>Artículo 51</num>
-              <paragraph id="art-51-para-1">
+            <article id="art-51.">
+              <num>Artículo 51.</num>
+              <paragraph id="art-51.-para-1">
                 <content>
                   <p>Artículo 51. Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la
 Comisión, estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución Política de
@@ -1721,13 +1707,13 @@ Los servidores públicos de la Comisión estarán sujetos a las reglas de contac
 Comisión en su estatuto orgánico.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-51" placement="bottom">
+              <note placementBase="#art-51." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-52">
-              <num>Artículo 52</num>
-              <paragraph id="art-52-para-1">
+            <article id="art-52.">
+              <num>Artículo 52.</num>
+              <paragraph id="art-52.-para-1">
                 <content>
                   <p>Artículo 52. Están prohibidos los monopolios, las prácticas monopólicas, las concentraciones ilícitas y
 las barreras que, en términos de esta Ley, disminuyan, dañen, impidan o condicionen de cualquier forma
@@ -1736,9 +1722,9 @@ comercialización de bienes o servicios.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-53">
-              <num>Artículo 53</num>
-              <paragraph id="art-53-para-1">
+            <article id="art-53.">
+              <num>Artículo 53.</num>
+              <paragraph id="art-53.-para-1">
                 <content>
                   <p>Artículo 53. Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos,
 convenios, arreglos, combinaciones o intercambios de información entre Agentes Económicos que sean
@@ -1762,16 +1748,16 @@ sanciones establecidas en esta Ley, sin perjuicio de la responsabilidad civil y 
 pudiere resultar.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-53" placement="bottom">
+              <note placementBase="#art-53." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-53" placement="bottom">
+              <note placementBase="#art-53." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-54">
-              <num>Artículo 54</num>
-              <paragraph id="art-54-para-1">
+            <article id="art-54.">
+              <num>Artículo 54.</num>
+              <paragraph id="art-54.-para-1">
                 <content>
                   <p>Artículo 54. Se consideran prácticas monopólicas relativas, las consistentes en cualquier acto,
 contrato, convenio, procedimiento o combinación que:
@@ -1786,13 +1772,13 @@ Agentes Económicos para competir en los mercados.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-54" placement="bottom">
+              <note placementBase="#art-54." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-55">
-              <num>Artículo 55</num>
-              <paragraph id="art-55-para-1">
+            <article id="art-55.">
+              <num>Artículo 55.</num>
+              <paragraph id="art-55.-para-1">
                 <content>
                   <p>Artículo 55. Las prácticas serán ilícitas y se sancionarán si son demostrados los supuestos de las
 fracciones anteriores, salvo que el Agente Económico demuestre que generan ganancias en eficiencia e
@@ -1814,9 +1800,9 @@ de dichas prácticas superan sus efectos anticompetitivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-56">
-              <num>Artículo 56</num>
-              <paragraph id="art-56-para-1">
+            <article id="art-56.">
+              <num>Artículo 56.</num>
+              <paragraph id="art-56.-para-1">
                 <content>
                   <p>Artículo 56. Los supuestos a los que se refiere la fracción I del artículo 54 de esta Ley, consisten en
 cualquiera de los siguientes:
@@ -1872,9 +1858,9 @@ procedimiento previsto en el artículo 94 de esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-57">
-              <num>Artículo 57</num>
-              <paragraph id="art-57-para-1">
+            <article id="art-57.">
+              <num>Artículo 57.</num>
+              <paragraph id="art-57.-para-1">
                 <content>
                   <p>Artículo 57. La Comisión proveerá lo conducente para prevenir y eliminar las barreras a la libre
 concurrencia y la competencia económica, en las proporciones necesarias para eliminar los efectos
@@ -1882,9 +1868,9 @@ anticompetitivos, a través de los procedimientos previstos en esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-58">
-              <num>Artículo 58</num>
-              <paragraph id="art-58-para-1">
+            <article id="art-58.">
+              <num>Artículo 58.</num>
+              <paragraph id="art-58.-para-1">
                 <content>
                   <p>Artículo 58. Para la determinación del mercado relevante, deberán considerarse los siguientes
 criterios:
@@ -1909,9 +1895,9 @@ Denominación de la Sección reformada DOF 16-07-2025</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-59">
-              <num>Artículo 59</num>
-              <paragraph id="art-59-para-1">
+            <article id="art-59.">
+              <num>Artículo 59.</num>
+              <paragraph id="art-59.-para-1">
                 <content>
                   <p>Artículo 59. Para determinar si uno o varios Agentes Económicos tienen poder sustancial o poder
 sustancial conjunto en el mercado relevante, o bien, para resolver sobre condiciones de competencia,
@@ -1947,19 +1933,19 @@ acudir a otros proveedores.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-59" placement="bottom">
+              <note placementBase="#art-59." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-59" placement="bottom">
+              <note placementBase="#art-59." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-59" placement="bottom">
+              <note placementBase="#art-59." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-59" placement="bottom">
+              <note placementBase="#art-59." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-59" placement="bottom">
+              <note placementBase="#art-59." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
             </article>
@@ -1983,9 +1969,9 @@ De la Determinación del Insumo Esencial</p>
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-60">
-              <num>Artículo 60</num>
-              <paragraph id="art-60-para-1">
+            <article id="art-60.">
+              <num>Artículo 60.</num>
+              <paragraph id="art-60.-para-1">
                 <content>
                   <p>Artículo 60. Para determinar la existencia de insumo esencial, la Comisión deberá considerar:
 I. Si el insumo es controlado por uno, o varios Agentes Económicos con poder sustancial o que
@@ -1999,13 +1985,13 @@ IV. Las circunstancias bajo las cuales el Agente Económico llegó a controlar e
 V. Los demás criterios que, en su caso, se establezcan en las Disposiciones Regulatorias.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-60." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-61">
-              <num>Artículo 61</num>
-              <paragraph id="art-61-para-1">
+            <article id="art-61.">
+              <num>Artículo 61.</num>
+              <paragraph id="art-61.-para-1">
                 <content>
                   <p>Artículo 61. Para los efectos de esta Ley, se entiende por concentración la fusión, adquisición del
 control o cualquier acto por virtud del cual se unan sociedades, asociaciones, acciones, partes sociales,
@@ -2018,9 +2004,9 @@ De las Concentraciones Ilícitas</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-62">
-              <num>Artículo 62</num>
-              <paragraph id="art-62-para-1">
+            <article id="art-62.">
+              <num>Artículo 62.</num>
+              <paragraph id="art-62.-para-1">
                 <content>
                   <p>Artículo 62. Se consideran ilícitas aquellas concentraciones que tengan por objeto o efecto
 obstaculizar, disminuir, dañar o impedir la libre concurrencia o la competencia económica.
@@ -2029,9 +2015,9 @@ De la Evaluación de las Concentraciones</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-63">
-              <num>Artículo 63</num>
-              <paragraph id="art-63-para-1">
+            <article id="art-63.">
+              <num>Artículo 63.</num>
+              <paragraph id="art-63.-para-1">
                 <content>
                   <p>Artículo 63. Para determinar si la concentración no debe ser autorizada o debe ser sancionada en los
 términos de esta Ley, se considerarán los siguientes elementos:
@@ -2065,13 +2051,13 @@ VI. Los demás criterios e instrumentos analíticos que se establezcan en las Di
 Regulatorias y los criterios técnicos.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-63" placement="bottom">
+              <note placementBase="#art-63." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-64">
-              <num>Artículo 64</num>
-              <paragraph id="art-64-para-1">
+            <article id="art-64.">
+              <num>Artículo 64.</num>
+              <paragraph id="art-64.-para-1">
                 <content>
                   <p>Artículo 64. La Comisión considerará como indicios de una concentración ilícita, que la concentración
 o tentativa de la misma:
@@ -2094,19 +2080,19 @@ Sección IV
 De las Concentraciones que No Pueden ser Investigadas</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-64" placement="bottom">
+              <note placementBase="#art-64." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-64" placement="bottom">
+              <note placementBase="#art-64." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-64" placement="bottom">
+              <note placementBase="#art-64." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-65">
-              <num>Artículo 65</num>
-              <paragraph id="art-65-para-1">
+            <article id="art-65.">
+              <num>Artículo 65.</num>
+              <paragraph id="art-65.-para-1">
                 <content>
                   <p>Artículo 65. No podrán ser investigadas con fundamento en esta Ley, las concentraciones que hayan
 obtenido resolución favorable por parte de la Comisión, excepto cuando dicha resolución se haya
@@ -2117,13 +2103,13 @@ la Comisión, una vez transcurridos tres años a partir de su realización.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-65" placement="bottom">
+              <note placementBase="#art-65." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-66">
-              <num>Artículo 66</num>
-              <paragraph id="art-66-para-1">
+            <article id="art-66.">
+              <num>Artículo 66.</num>
+              <paragraph id="art-66.-para-1">
                 <content>
                   <p>Artículo 66. La investigación de la Comisión iniciará de oficio, o a solicitud del Ejecutivo Federal, por
 sí o por conducto de la Secretaría, de la Procuraduría o a petición de parte y estará a cargo de la
@@ -2138,9 +2124,9 @@ Secretaría o la Procuraduría tendrán carácter preferente.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-67">
-              <num>Artículo 67</num>
-              <paragraph id="art-67-para-1">
+            <article id="art-67.">
+              <num>Artículo 67.</num>
+              <paragraph id="art-67.-para-1">
                 <content>
                   <p>Artículo 67. Cualquier persona en el caso de violaciones a esta Ley en materia de prácticas
 monopólicas absolutas, prácticas monopólicas relativas o concentraciones ilícitas, podrá denunciarlas
@@ -2148,9 +2134,9 @@ ante la Autoridad Investigadora.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-68">
-              <num>Artículo 68</num>
-              <paragraph id="art-68-para-1">
+            <article id="art-68.">
+              <num>Artículo 68.</num>
+              <paragraph id="art-68.-para-1">
                 <content>
                   <p>Artículo 68. El escrito de denuncia debe contener al menos:
 I. Nombre, denominación o razón social del denunciante;
@@ -2172,9 +2158,9 @@ conducente durante la investigación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-69">
-              <num>Artículo 69</num>
-              <paragraph id="art-69-para-1">
+            <article id="art-69.">
+              <num>Artículo 69.</num>
+              <paragraph id="art-69.-para-1">
                 <content>
                   <p>Artículo 69. La Autoridad Investigadora analizará las denuncias presentadas y dentro de los quince
 días siguientes a aquél en que las reciba, por conducto de la oficialía de partes, deberá dictar un acuerdo
@@ -2215,16 +2201,16 @@ cuales se considera que no existen elementos suficientes para iniciar una invest
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-69" placement="bottom">
+              <note placementBase="#art-69." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-69" placement="bottom">
+              <note placementBase="#art-69." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-70">
-              <num>Artículo 70</num>
-              <paragraph id="art-70-para-1">
+            <article id="art-70.">
+              <num>Artículo 70.</num>
+              <paragraph id="art-70.-para-1">
                 <content>
                   <p>Artículo 70. La Autoridad Investigadora desechará la denuncia por notoriamente improcedente,
 cuando:
@@ -2251,9 +2237,9 @@ Del Desahogo de la Investigación</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-71">
-              <num>Artículo 71</num>
-              <paragraph id="art-71-para-1">
+            <article id="art-71.">
+              <num>Artículo 71.</num>
+              <paragraph id="art-71.-para-1">
                 <content>
                   <p>Artículo 71. Para iniciar una investigación por prácticas monopólicas o concentraciones ilícitas se
 requerirá de una causa objetiva.
@@ -2271,13 +2257,13 @@ cuando existan causas debidamente justificadas para ello a juicio de la Autorida
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-71" placement="bottom">
+              <note placementBase="#art-71." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-72">
-              <num>Artículo 72</num>
-              <paragraph id="art-72-para-1">
+            <article id="art-72.">
+              <num>Artículo 72.</num>
+              <paragraph id="art-72.-para-1">
                 <content>
                   <p>Artículo 72. La Autoridad Investigadora podrá ordenar la acumulación de expedientes que se
 encuentren relacionados por razón de la materia. De igual forma, podrá ordenar la apertura de nuevas
@@ -2286,9 +2272,9 @@ adecuado para la pronta y expedita tramitación de las investigaciones.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-73">
-              <num>Artículo 73</num>
-              <paragraph id="art-73-para-1">
+            <article id="art-73.">
+              <num>Artículo 73.</num>
+              <paragraph id="art-73.-para-1">
                 <content>
                   <p>Artículo 73. La Autoridad Investigadora podrá requerir de cualquier persona, los informes y
 documentos que estime necesarios para realizar sus investigaciones, debiendo señalar el carácter del
@@ -2308,16 +2294,16 @@ o el procedimiento seguido en forma de juicio.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-73" placement="bottom">
+              <note placementBase="#art-73." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-73" placement="bottom">
+              <note placementBase="#art-73." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-74">
-              <num>Artículo 74</num>
-              <paragraph id="art-74-para-1">
+            <article id="art-74.">
+              <num>Artículo 74.</num>
+              <paragraph id="art-74.-para-1">
                 <content>
                   <p>Artículo 74. Las Autoridades Públicas prestarán, dentro del ámbito de su competencia, el auxilio que
 le sea requerido por los servidores públicos de la Autoridad Investigadora para el cumplimiento de sus
@@ -2325,9 +2311,9 @@ atribuciones y aplicación de esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-75">
-              <num>Artículo 75</num>
-              <paragraph id="art-75-para-1">
+            <article id="art-75.">
+              <num>Artículo 75.</num>
+              <paragraph id="art-75.-para-1">
                 <content>
                   <p>Artículo 75. La Autoridad Investigadora por conducto de su titular, podrá ordenar la práctica de visitas
 de verificación, las cuales se sujetarán a las reglas siguientes:
@@ -2455,9 +2441,9 @@ hubiese negado a firmarla, circunstancia que no afectará su validez.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-76">
-              <num>Artículo 76</num>
-              <paragraph id="art-76-para-1">
+            <article id="art-76.">
+              <num>Artículo 76.</num>
+              <paragraph id="art-76.-para-1">
                 <content>
                   <p>Artículo 76. La información y documentos que haya obtenido la Autoridad Investigadora en el
 ejercicio de sus atribuciones serán considerados como reservados, confidenciales o públicos en los
@@ -2465,9 +2451,9 @@ términos de esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-77">
-              <num>Artículo 77</num>
-              <paragraph id="art-77-para-1">
+            <article id="art-77.">
+              <num>Artículo 77.</num>
+              <paragraph id="art-77.-para-1">
                 <content>
                   <p>Artículo 77. En cualquier momento la Autoridad Investigadora podrá presentar denuncia o querella
 ante la Fiscalía General de la República respecto de probables conductas delictivas en materia de libre
@@ -2495,13 +2481,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-77" placement="bottom">
+              <note placementBase="#art-77." placement="bottom">
                 <p>Párrafo reformado DOF 20-05-2021</p>
               </note>
-              <note placementBase="#art-77" placement="bottom">
+              <note placementBase="#art-77." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-77" placement="bottom">
+              <note placementBase="#art-77." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
@@ -2562,9 +2548,9 @@ De la Conclusión de la Investigación</p>
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-78">
-              <num>Artículo 78</num>
-              <paragraph id="art-78-para-1">
+            <article id="art-78.">
+              <num>Artículo 78.</num>
+              <paragraph id="art-78.-para-1">
                 <content>
                   <p>Artículo 78. Concluida la investigación, la Autoridad Investigadora, en un plazo no mayor de treinta
 días, presentará al Pleno un dictamen que proponga:
@@ -2587,19 +2573,19 @@ siguientes a la fecha en la que la Autoridad Investigadora haya presentado el di
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-78" placement="bottom">
+              <note placementBase="#art-78." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-78" placement="bottom">
+              <note placementBase="#art-78." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-78" placement="bottom">
+              <note placementBase="#art-78." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-79">
-              <num>Artículo 79</num>
-              <paragraph id="art-79-para-1">
+            <article id="art-79.">
+              <num>Artículo 79.</num>
+              <paragraph id="art-79.-para-1">
                 <content>
                   <p>Artículo 79. El dictamen deberá contener al menos lo siguiente:
 I. La identificación del o los Agentes Económicos investigados y, en su caso, del o los probables
@@ -2612,27 +2598,27 @@ que se estimen violadas, así como las consecuencias que pueden derivar de dicha
                 </content>
               </paragraph>
             </article>
-            <article id="art-80">
-              <num>Artículo 80</num>
-              <paragraph id="art-80-para-1">
+            <article id="art-80.">
+              <num>Artículo 80.</num>
+              <paragraph id="art-80.-para-1">
                 <content>
                   <p>Artículo 80. El procedimiento iniciará con el emplazamiento al o los probables responsables, con el
 dictamen de probable responsabilidad a que se refiere el artículo 79 de esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-81">
-              <num>Artículo 81</num>
-              <paragraph id="art-81-para-1">
+            <article id="art-81.">
+              <num>Artículo 81.</num>
+              <paragraph id="art-81.-para-1">
                 <content>
                   <p>Artículo 81. Son partes en el procedimiento seguido en forma de juicio, el Agente Económico en
 contra de quien se emita el dictamen de probable responsabilidad y la Autoridad Investigadora.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-82">
-              <num>Artículo 82</num>
-              <paragraph id="art-82-para-1">
+            <article id="art-82.">
+              <num>Artículo 82.</num>
+              <paragraph id="art-82.-para-1">
                 <content>
                   <p>Artículo 82. Quien haya presentado la denuncia que dio inicio a la investigación será coadyuvante de
 la Autoridad Investigadora en el procedimiento seguido en forma de juicio, en los términos que determine
@@ -2647,9 +2633,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-83">
-              <num>Artículo 83</num>
-              <paragraph id="art-83-para-1">
+            <article id="art-83.">
+              <num>Artículo 83.</num>
+              <paragraph id="art-83.-para-1">
                 <content>
                   <p>Artículo 83. El procedimiento seguido en forma de juicio se tramitará conforme a lo siguiente:
 I. Una vez emplazado, el probable responsable tendrá acceso al expediente y un plazo de
@@ -2702,25 +2688,25 @@ Secretaría de Servicios Parlamentarios
 De la Valoración de las Pruebas</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-83" placement="bottom">
+              <note placementBase="#art-83." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-83" placement="bottom">
+              <note placementBase="#art-83." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-83" placement="bottom">
+              <note placementBase="#art-83." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-83" placement="bottom">
+              <note placementBase="#art-83." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-83" placement="bottom">
+              <note placementBase="#art-83." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-84">
-              <num>Artículo 84</num>
-              <paragraph id="art-84-para-1">
+            <article id="art-84.">
+              <num>Artículo 84.</num>
+              <paragraph id="art-84.-para-1">
                 <content>
                   <p>Artículo 84. La Comisión goza de la más amplia libertad para hacer el análisis de las pruebas, para
 determinar el valor de las mismas, unas enfrente de las otras, y para fijar el resultado final de dicha
@@ -2730,9 +2716,9 @@ conjunto de los elementos probatorios directos, indirectos e indiciarios que apa
                 </content>
               </paragraph>
             </article>
-            <article id="art-85">
-              <num>Artículo 85</num>
-              <paragraph id="art-85-para-1">
+            <article id="art-85.">
+              <num>Artículo 85.</num>
+              <paragraph id="art-85.-para-1">
                 <content>
                   <p>Artículo 85. La resolución definitiva deberá contener al menos lo siguiente:
 I. La apreciación de los medios de convicción conducentes para tener o no por acreditada la
@@ -2747,9 +2733,9 @@ IV. La determinación sobre imposición de sanciones.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-86">
-              <num>Artículo 86</num>
-              <paragraph id="art-86-para-1">
+            <article id="art-86.">
+              <num>Artículo 86.</num>
+              <paragraph id="art-86.-para-1">
                 <content>
                   <p>Artículo 86. Las siguientes concentraciones deberán ser autorizadas por la Comisión antes de que se
 lleven a cabo:
@@ -2789,19 +2775,19 @@ Los Agentes Económicos involucrados que no se encuentren en los supuestos estab
 fracciones I, II y III de este artículo podrán notificarla voluntariamente a la Comisión.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-86" placement="bottom">
+              <note placementBase="#art-86." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-86" placement="bottom">
+              <note placementBase="#art-86." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-86" placement="bottom">
+              <note placementBase="#art-86." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-87">
-              <num>Artículo 87</num>
-              <paragraph id="art-87-para-1">
+            <article id="art-87.">
+              <num>Artículo 87.</num>
+              <paragraph id="art-87.-para-1">
                 <content>
                   <p>Artículo 87. Los Agentes Económicos deben obtener la autorización para realizar la concentración a
 que se refiere el artículo anterior antes de que suceda cualquiera de los siguientes supuestos:
@@ -2819,9 +2805,9 @@ antes de que surtan efectos jurídicos o materiales en territorio nacional.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-88">
-              <num>Artículo 88</num>
-              <paragraph id="art-88-para-1">
+            <article id="art-88.">
+              <num>Artículo 88.</num>
+              <paragraph id="art-88.-para-1">
                 <content>
                   <p>Artículo 88. Están obligados a notificar la concentración los Agentes Económicos que participen
 directamente en la misma.
@@ -2843,9 +2829,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-89">
-              <num>Artículo 89</num>
-              <paragraph id="art-89-para-1">
+            <article id="art-89.">
+              <num>Artículo 89.</num>
+              <paragraph id="art-89.-para-1">
                 <content>
                   <p>Artículo 89. La notificación de concentración se hará por escrito y deberá contener y acompañar:
 I. Nombre, denominación o razón social de los Agentes Económicos que notifican la
@@ -2887,9 +2873,9 @@ copia certificada.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-90">
-              <num>Artículo 90</num>
-              <paragraph id="art-90-para-1">
+            <article id="art-90.">
+              <num>Artículo 90.</num>
+              <paragraph id="art-90.-para-1">
                 <content>
                   <p>Artículo 90. Para el desahogo del procedimiento de notificación, se estará a lo siguiente:
 39 de 86
@@ -2993,25 +2979,25 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-90" placement="bottom">
+              <note placementBase="#art-90." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-90" placement="bottom">
+              <note placementBase="#art-90." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-90" placement="bottom">
+              <note placementBase="#art-90." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-90" placement="bottom">
+              <note placementBase="#art-90." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-90" placement="bottom">
+              <note placementBase="#art-90." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-91">
-              <num>Artículo 91</num>
-              <paragraph id="art-91-para-1">
+            <article id="art-91.">
+              <num>Artículo 91.</num>
+              <paragraph id="art-91.-para-1">
                 <content>
                   <p>Artículo 91. Las condiciones que la Comisión podrá establecer o aceptar de los Agentes Económicos,
 en términos del artículo anterior, podrán consistir en:
@@ -3028,9 +3014,9 @@ guardar proporción con la corrección que se pretenda.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-92">
-              <num>Artículo 92</num>
-              <paragraph id="art-92-para-1">
+            <article id="art-92.">
+              <num>Artículo 92.</num>
+              <paragraph id="art-92.-para-1">
                 <content>
                   <p>Artículo 92. Al hacerse la notificación de la concentración, los Agentes Económicos podrán solicitar a
 la Comisión expresamente que el procedimiento sea desahogado conforme a lo previsto en el presente
@@ -3074,9 +3060,9 @@ Comisión emitirá un acuerdo de recepción a trámite conforme a lo previsto en
                 </content>
               </paragraph>
             </article>
-            <article id="art-93">
-              <num>Artículo 93</num>
-              <paragraph id="art-93-para-1">
+            <article id="art-93.">
+              <num>Artículo 93.</num>
+              <paragraph id="art-93.-para-1">
                 <content>
                   <p>Artículo 93. No se requerirá la autorización de concentraciones a que se refiere el artículo 86 de esta
 Ley en los casos siguientes:
@@ -3128,10 +3114,10 @@ VII. Se deroga
 VIII. En los demás casos que establezcan las Disposiciones Regulatorias.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-93" placement="bottom">
+              <note placementBase="#art-93." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-93" placement="bottom">
+              <note placementBase="#art-93." placement="bottom">
                 <p>Fracción derogada DOF 16-07-2025</p>
               </note>
             </article>
@@ -3167,9 +3153,9 @@ la fracción II de este artículo.
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-94">
-              <num>Artículo 94</num>
-              <paragraph id="art-94-para-1">
+            <article id="art-94.">
+              <num>Artículo 94.</num>
+              <paragraph id="art-94.-para-1">
                 <content>
                   <p>Artículo 94. La Comisión iniciará de oficio o a solicitud del Ejecutivo Federal, por sí o por conducto de
 la Secretaría, el procedimiento de investigación cuando existan elementos que hagan suponer que no
@@ -3192,15 +3178,8 @@ II. La Autoridad Investigadora contará con todas las facultades de investigaci�
 esta Ley, incluyendo requerir los informes y documentos necesarios, citar a declarar a quienes
 tengan relación con el caso de que se trate, realizar visitas de verificación y ordenar cualquier
 diligencia que considere pertinente. Tratándose de insumos esenciales, la Autoridad
-Investigadora deberá analizar durante esta investigación todos los supuestos previstos en el</p>
-                </content>
-              </paragraph>
-            </article>
-            <article id="art-60">
-              <num>Artículo 60</num>
-              <paragraph id="art-60-para-1">
-                <content>
-                  <p>artículo 60 de esta Ley;
+Investigadora deberá analizar durante esta investigación todos los supuestos previstos en el
+artículo 60 de esta Ley;
 III. Concluida la investigación y si existen elementos para determinar que no existen condiciones
 de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro
 de los cuarenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en
@@ -3308,28 +3287,28 @@ considera que no existen elementos suficientes para iniciar una investigación.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-94." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-94." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-94." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-94." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-94." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-60" placement="bottom">
+              <note placementBase="#art-94." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-95">
-              <num>Artículo 95</num>
-              <paragraph id="art-95-para-1">
+            <article id="art-95.">
+              <num>Artículo 95.</num>
+              <paragraph id="art-95.-para-1">
                 <content>
                   <p>Artículo 95. Las resoluciones en las que la Comisión determine la existencia de barreras a la
 competencia y libre concurrencia o de insumos esenciales, deberán ser notificadas a las autoridades que
@@ -3340,9 +3319,9 @@ Reforma DOF 16-07-2025: Derogó del artículo los entonces párrafos segundo a q
                 </content>
               </paragraph>
             </article>
-            <article id="art-96">
-              <num>Artículo 96</num>
-              <paragraph id="art-96-para-1">
+            <article id="art-96.">
+              <num>Artículo 96.</num>
+              <paragraph id="art-96.-para-1">
                 <content>
                   <p>Artículo 96. Cuando las disposiciones legales o reglamentarias prevengan expresamente que deba
 resolverse u opinar sobre cuestiones de competencia efectiva, existencia de poder sustancial en el
@@ -3409,9 +3388,9 @@ para ello.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-97">
-              <num>Artículo 97</num>
-              <paragraph id="art-97-para-1">
+            <article id="art-97.">
+              <num>Artículo 97.</num>
+              <paragraph id="art-97.-para-1">
                 <content>
                   <p>Artículo 97. En el caso del artículo 9 de esta Ley, la Comisión podrá emitir opinión a petición del
 Ejecutivo Federal, misma que deberá sustanciarse en términos del artículo anterior, salvo que se solicite
@@ -3420,9 +3399,9 @@ términos previstos en esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-98">
-              <num>Artículo 98</num>
-              <paragraph id="art-98-para-1">
+            <article id="art-98.">
+              <num>Artículo 98.</num>
+              <paragraph id="art-98.-para-1">
                 <content>
                   <p>Artículo 98. Cuando la Comisión, por así disponerlo las Leyes o cuando así lo determine el Ejecutivo
 Federal mediante acuerdos o decretos, o a solicitud de éste, por sí o por conducto de la Secretaría, emita
@@ -3453,9 +3432,9 @@ competente, la resolución respectiva por parte de la Comisión en términos de 
                 </content>
               </paragraph>
             </article>
-            <article id="art-99">
-              <num>Artículo 99</num>
-              <paragraph id="art-99-para-1">
+            <article id="art-99.">
+              <num>Artículo 99.</num>
+              <paragraph id="art-99.-para-1">
                 <content>
                   <p>Artículo 99. Para efectos del artículo anterior, se estará a lo siguiente:
 I. La convocante de la licitación o concurso deberá enviar a la Comisión, con un mínimo de treinta
@@ -3479,9 +3458,9 @@ considerando los plazos señalados en las fracciones II y III del artículo ante
                 </content>
               </paragraph>
             </article>
-            <article id="art-100">
-              <num>Artículo 100</num>
-              <paragraph id="art-100-para-1">
+            <article id="art-100.">
+              <num>Artículo 100.</num>
+              <paragraph id="art-100.-para-1">
                 <content>
                   <p>Artículo 100. El Agente Económico sujeto a una investigación por práctica monopólica relativa o
 concentración ilícita podrá, por una sola ocasión, manifestar por escrito su voluntad de acogerse al
@@ -3520,40 +3499,40 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-100" placement="bottom">
+              <note placementBase="#art-100." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-100" placement="bottom">
+              <note placementBase="#art-100." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-100" placement="bottom">
+              <note placementBase="#art-100." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-100" placement="bottom">
+              <note placementBase="#art-100." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-100" placement="bottom">
+              <note placementBase="#art-100." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-100" placement="bottom">
+              <note placementBase="#art-100." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-101">
-              <num>Artículo 101</num>
-              <paragraph id="art-101-para-1">
+            <article id="art-101.">
+              <num>Artículo 101.</num>
+              <paragraph id="art-101.-para-1">
                 <content>
                   <p>Artículo 101. Se deroga
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-101" placement="bottom">
+              <note placementBase="#art-101." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-102">
-              <num>Artículo 102</num>
-              <paragraph id="art-102-para-1">
+            <article id="art-102.">
+              <num>Artículo 102.</num>
+              <paragraph id="art-102.-para-1">
                 <content>
                   <p>Artículo 102. La resolución a la que se refiere el artículo anterior, podrá decretar:
 I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas, según
@@ -3577,22 +3556,22 @@ de la práctica monopólica relativa o concentración ilícita revelada a la Com
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-102" placement="bottom">
+              <note placementBase="#art-102." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-102" placement="bottom">
+              <note placementBase="#art-102." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-102" placement="bottom">
+              <note placementBase="#art-102." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-102" placement="bottom">
+              <note placementBase="#art-102." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-103">
-              <num>Artículo 103</num>
-              <paragraph id="art-103-para-1">
+            <article id="art-103.">
+              <num>Artículo 103.</num>
+              <paragraph id="art-103.-para-1">
                 <content>
                   <p>Artículo 103. Cualquier Agente Económico que haya incurrido o esté incurriendo en una práctica
 monopólica absoluta; haya participado directamente en prácticas monopólicas absolutas en
@@ -3646,13 +3625,13 @@ ejercer terceros.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-103" placement="bottom">
+              <note placementBase="#art-103." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-104">
-              <num>Artículo 104</num>
-              <paragraph id="art-104-para-1">
+            <article id="art-104.">
+              <num>Artículo 104.</num>
+              <paragraph id="art-104.-para-1">
                 <content>
                   <p>Artículo 104. Cualquier Agente Económico podrá solicitar a la Comisión una opinión formal en materia
 de libre concurrencia y competencia económica cuando se refiera a la aparición de cuestiones nuevas o
@@ -3707,9 +3686,9 @@ práctica.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-105">
-              <num>Artículo 105</num>
-              <paragraph id="art-105-para-1">
+            <article id="art-105.">
+              <num>Artículo 105.</num>
+              <paragraph id="art-105.-para-1">
                 <content>
                   <p>Artículo 105. Los Agentes Económicos podrán solicitar a la Comisión una opinión formal por escrito
 en el que conste claramente:
@@ -3737,9 +3716,9 @@ VII. Cualquier otra información o documentación pertinente para el asunto en c
                 </content>
               </paragraph>
             </article>
-            <article id="art-106">
-              <num>Artículo 106</num>
-              <paragraph id="art-106-para-1">
+            <article id="art-106.">
+              <num>Artículo 106.</num>
+              <paragraph id="art-106.-para-1">
                 <content>
                   <p>Artículo 106. Cuando la Comisión reciba una solicitud de opinión formal se sujetará a lo siguiente:
 I. Dentro de los diez días siguientes a la recepción de la solicitud de opinión formal, el
@@ -3772,9 +3751,9 @@ correspondiente.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-107">
-              <num>Artículo 107</num>
-              <paragraph id="art-107-para-1">
+            <article id="art-107.">
+              <num>Artículo 107.</num>
+              <paragraph id="art-107.-para-1">
                 <content>
                   <p>Artículo 107. Los Agentes Económicos podrán retirar la solicitud de una opinión formal en cualquier
 momento. Sin embargo, la información facilitada en el contexto de dicha solicitud quedará en poder de la
@@ -3787,9 +3766,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-108">
-              <num>Artículo 108</num>
-              <paragraph id="art-108-para-1">
+            <article id="art-108.">
+              <num>Artículo 108.</num>
+              <paragraph id="art-108.-para-1">
                 <content>
                   <p>Artículo 108. Las opiniones formales en materia de libre concurrencia y competencia económica
 emitidas por la Comisión deberán contener:
@@ -3801,18 +3780,18 @@ solicitud. Asimismo, pueden abordar aspectos adicionales a los recogidos en la s
                 </content>
               </paragraph>
             </article>
-            <article id="art-109">
-              <num>Artículo 109</num>
-              <paragraph id="art-109-para-1">
+            <article id="art-109.">
+              <num>Artículo 109.</num>
+              <paragraph id="art-109.-para-1">
                 <content>
                   <p>Artículo 109. Las opiniones formales se harán públicas en el sitio de internet de la Comisión,
 salvaguardando la Información Confidencial.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-110">
-              <num>Artículo 110</num>
-              <paragraph id="art-110-para-1">
+            <article id="art-110.">
+              <num>Artículo 110.</num>
+              <paragraph id="art-110.-para-1">
                 <content>
                   <p>Artículo 110. Sin perjuicio del procedimiento para la emisión de opiniones formales, la Comisión
 deberá ofrecer orientación general a cualquier persona física o moral, así como a cualquier Autoridad
@@ -3837,9 +3816,9 @@ un plazo no mayor a diez días hábiles.
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-111">
-              <num>Artículo 111</num>
-              <paragraph id="art-111-para-1">
+            <article id="art-111.">
+              <num>Artículo 111.</num>
+              <paragraph id="art-111.-para-1">
                 <content>
                   <p>Artículo 111. La representación de los Agentes Económicos ante la Comisión deberá acreditarse
 mediante testimonio notarial o copia certificada del documento o instrumento que contenga las facultades
@@ -3868,9 +3847,9 @@ fuera del horario establecido para la oficialía de partes.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-112">
-              <num>Artículo 112</num>
-              <paragraph id="art-112-para-1">
+            <article id="art-112.">
+              <num>Artículo 112.</num>
+              <paragraph id="art-112.-para-1">
                 <content>
                   <p>Artículo 112. Las actuaciones y promociones se deben presentar en idioma español y estar firmadas
 por quienes intervienen en ellas. Cuando alguno de los promoventes o personas que intervengan en una
@@ -3884,9 +3863,9 @@ tal efecto. La falta de firma o huella no invalidará las actuaciones.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-113">
-              <num>Artículo 113</num>
-              <paragraph id="art-113-para-1">
+            <article id="art-113.">
+              <num>Artículo 113.</num>
+              <paragraph id="art-113.-para-1">
                 <content>
                   <p>Artículo 113. El promovente puede presentar documentos junto con su promoción en idioma distinto
 al español, para lo cual deberá acompañar la traducción realizada por un perito traductor de los aspectos
@@ -3907,9 +3886,9 @@ En lo no previsto, se estará a lo dispuesto en las Disposiciones Regulatorias.<
                 </content>
               </paragraph>
             </article>
-            <article id="art-114">
-              <num>Artículo 114</num>
-              <paragraph id="art-114-para-1">
+            <article id="art-114.">
+              <num>Artículo 114.</num>
+              <paragraph id="art-114.-para-1">
                 <content>
                   <p>Artículo 114. Cuando los plazos fijados por esta Ley, por su Reglamento o por las Disposiciones
 Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o
@@ -3918,13 +3897,13 @@ años, el cómputo se hará de fecha a fecha, considerando incluso los días inh
 Cuando no se especifique plazo, se entenderán cinco días para cualquier actuación.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-114" placement="bottom">
+              <note placementBase="#art-114." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-115">
-              <num>Artículo 115</num>
-              <paragraph id="art-115-para-1">
+            <article id="art-115.">
+              <num>Artículo 115.</num>
+              <paragraph id="art-115.-para-1">
                 <content>
                   <p>Artículo 115. Las actuaciones se practicarán en días y horas hábiles.
 Son días hábiles todos los del año, menos los sábados y domingos, y aquellos que se declaren
@@ -3944,13 +3923,13 @@ Si la diligencia se inició en día y hora hábiles, puede llevarse hasta su fin
 necesidad de habilitación expresa.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-115" placement="bottom">
+              <note placementBase="#art-115." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-116">
-              <num>Artículo 116</num>
-              <paragraph id="art-116-para-1">
+            <article id="art-116.">
+              <num>Artículo 116.</num>
+              <paragraph id="art-116.-para-1">
                 <content>
                   <p>Artículo 116. Las promociones y documentos deben presentarse únicamente en la oficialía de partes
 de la Comisión dentro del horario y calendario de labores que sean publicados en el Diario Oficial de la
@@ -3972,9 +3951,9 @@ los presentados en la oficialía de partes, se tendrán por no presentada la pro
                 </content>
               </paragraph>
             </article>
-            <article id="art-117">
-              <num>Artículo 117</num>
-              <paragraph id="art-117-para-1">
+            <article id="art-117.">
+              <num>Artículo 117.</num>
+              <paragraph id="art-117.-para-1">
                 <content>
                   <p>Artículo 117. Quien comparezca a la Comisión, en el primer escrito o en la primera diligencia en que
 intervenga, deberá designar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su
@@ -3990,19 +3969,19 @@ Todas las notificaciones surtirán sus efectos al día siguiente a aquel en que 
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-117" placement="bottom">
+              <note placementBase="#art-117." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-117" placement="bottom">
+              <note placementBase="#art-117." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-117" placement="bottom">
+              <note placementBase="#art-117." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-118">
-              <num>Artículo 118</num>
-              <paragraph id="art-118-para-1">
+            <article id="art-118.">
+              <num>Artículo 118.</num>
+              <paragraph id="art-118.-para-1">
                 <content>
                   <p>Artículo 118. Todos los procedimientos a que se refiere esta Ley, así como cualquier solicitud se
 podrán sustanciar por medios electrónicos conforme a las Disposiciones Regulatorias, observando en
@@ -4014,9 +3993,9 @@ Disposiciones Regulatorias establezcan.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-119">
-              <num>Artículo 119</num>
-              <paragraph id="art-119-para-1">
+            <article id="art-119.">
+              <num>Artículo 119.</num>
+              <paragraph id="art-119.-para-1">
                 <content>
                   <p>Artículo 119. Toda persona que tenga conocimiento o relación con algún hecho que investigue la
 Comisión o con la materia de sus procedimientos en trámite, tiene la obligación de proporcionar en el
@@ -4032,16 +4011,16 @@ y reiteraciones que estime pertinentes, salvo disposición en contrario.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-119" placement="bottom">
+              <note placementBase="#art-119." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-119" placement="bottom">
+              <note placementBase="#art-119." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-120">
-              <num>Artículo 120</num>
-              <paragraph id="art-120-para-1">
+            <article id="art-120.">
+              <num>Artículo 120.</num>
+              <paragraph id="art-120.-para-1">
                 <content>
                   <p>Artículo 120. La Comisión adoptará sus resoluciones con base en los hechos que tenga
 conocimiento, la información y medios de convicción disponibles, cuando el Agente Económico
@@ -4060,22 +4039,22 @@ Investigadora y los Agentes Económicos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-121">
-              <num>Artículo 121</num>
-              <paragraph id="art-121-para-1">
+            <article id="art-121.">
+              <num>Artículo 121.</num>
+              <paragraph id="art-121.-para-1">
                 <content>
                   <p>Artículo 121. En lo no previsto por esta Ley, su Reglamento o en las Disposiciones Regulatorias, se
 aplicará supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 , 14-11-2025</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-121" placement="bottom">
+              <note placementBase="#art-121." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-122">
-              <num>Artículo 122</num>
-              <paragraph id="art-122-para-1">
+            <article id="art-122.">
+              <num>Artículo 122.</num>
+              <paragraph id="art-122.-para-1">
                 <content>
                   <p>Artículo 122. La Comisión cuidará que los procedimientos no se suspendan ni se interrumpan, para lo
 cual proveerá lo necesario para que concluyan con la respectiva resolución. Asimismo, dictará todas las
@@ -4084,9 +4063,9 @@ regularizar el procedimiento.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-123">
-              <num>Artículo 123</num>
-              <paragraph id="art-123-para-1">
+            <article id="art-123.">
+              <num>Artículo 123.</num>
+              <paragraph id="art-123.-para-1">
                 <content>
                   <p>Artículo 123. La Comisión puede allegarse, antes de emitir resolución que ponga fin al procedimiento
 correspondiente, de los medios de convicción que considere necesarios para conocer la verdad sobre los
@@ -4097,9 +4076,9 @@ Económicos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-124">
-              <num>Artículo 124</num>
-              <paragraph id="art-124-para-1">
+            <article id="art-124.">
+              <num>Artículo 124.</num>
+              <paragraph id="art-124.-para-1">
                 <content>
                   <p>Artículo 124. La información y los documentos que la Comisión haya obtenido directamente en la
 realización de sus investigaciones y diligencias de verificación, será considerada como Información
@@ -4114,9 +4093,9 @@ salvaguardar en los términos de esta Ley aquélla que sea confidencial.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-125">
-              <num>Artículo 125</num>
-              <paragraph id="art-125-para-1">
+            <article id="art-125.">
+              <num>Artículo 125.</num>
+              <paragraph id="art-125.-para-1">
                 <content>
                   <p>Artículo 125. Para efectos de esta Ley, la Información Confidencial sólo tendrá tal carácter cuando el
 Agente Económico así lo solicite, acredite que tiene tal carácter y presente un resumen de la información,
@@ -4140,16 +4119,16 @@ ejercicio de sus atribuciones.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-125" placement="bottom">
+              <note placementBase="#art-125." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-125" placement="bottom">
+              <note placementBase="#art-125." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-126">
-              <num>Artículo 126</num>
-              <paragraph id="art-126-para-1">
+            <article id="art-126.">
+              <num>Artículo 126.</num>
+              <paragraph id="art-126.-para-1">
                 <content>
                   <p>Artículo 126. La Comisión, para el desempeño de las funciones que le atribuye esta Ley, podrá
 aplicar separada o indistintamente las siguientes medidas de apremio:
@@ -4187,31 +4166,31 @@ agotar previamente las medidas de apremio contempladas en este mismo artículo.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Fracción adicionada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-126" placement="bottom">
+              <note placementBase="#art-126." placement="bottom">
                 <p>Párrafo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-127">
-              <num>Artículo 127</num>
-              <paragraph id="art-127-para-1">
+            <article id="art-127.">
+              <num>Artículo 127.</num>
+              <paragraph id="art-127.-para-1">
                 <content>
                   <p>Artículo 127. La Comisión podrá aplicar las siguientes sanciones:
 I. Ordenar las medidas necesarias para la corrección o supresión de la práctica monopólica o
@@ -4244,30 +4223,8 @@ civil en que se incurra;
 
 VIII. Multa de cincuenta mil veces el valor diario de la Unidad de Medida y Actualización y hasta
 por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber
-llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el</p>
-                </content>
-              </paragraph>
-              <note placementBase="#art-127" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-127" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-127" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-127" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-127" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-            </article>
-            <article id="art-86">
-              <num>Artículo 86</num>
-              <paragraph id="art-86-para-1">
-                <content>
-                  <p>artículo 86, sin haber obtenido previamente la autorización correspondiente.
+llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el
+artículo 86, sin haber obtenido previamente la autorización correspondiente.
 La multa establecida en esta fracción será de doscientas mil veces el valor diario de la
 Unidad de Medida y Actualización y hasta el equivalente al quince por ciento de los ingresos
 61 de 86
@@ -4371,64 +4328,72 @@ LEY FEDERAL DE COMPETENCIA ECONÓMICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
-El Ejecutivo Federal ejecutará las multas previstas por este artículo, así como las previstas en el</p>
-                </content>
-              </paragraph>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción adicionada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción reformada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción adicionada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Fracción adicionada DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Inciso reformado DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Inciso reformado DOF 16-07-2025</p>
-              </note>
-              <note placementBase="#art-86" placement="bottom">
-                <p>Inciso reformado DOF 16-07-2025</p>
-              </note>
-            </article>
-            <article id="art-126">
-              <num>Artículo 126</num>
-              <paragraph id="art-126-para-1">
-                <content>
-                  <p>artículo 126 de esta Ley.
+El Ejecutivo Federal ejecutará las multas previstas por este artículo, así como las previstas en el
+artículo 126 de esta Ley.
 En ningún caso la Comisión administrará ni dispondrá de los fondos a que se refiere este artículo.</p>
                 </content>
               </paragraph>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción adicionada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción reformada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción adicionada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Fracción adicionada DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Inciso reformado DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Inciso reformado DOF 16-07-2025</p>
+              </note>
+              <note placementBase="#art-127." placement="bottom">
+                <p>Inciso reformado DOF 16-07-2025</p>
+              </note>
             </article>
-            <article id="art-128">
-              <num>Artículo 128</num>
-              <paragraph id="art-128-para-1">
+            <article id="art-128.">
+              <num>Artículo 128.</num>
+              <paragraph id="art-128.-para-1">
                 <content>
                   <p>Artículo 128. En el caso de aquellos Agentes Económicos que, por cualquier causa, no declaren o no
 se les hayan determinado ingresos acumulables para efectos del Impuesto sobre la Renta o la Comisión
@@ -4444,13 +4409,13 @@ Actualización, para la infracción a que se refiere la fracción VIII del artí
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-128" placement="bottom">
+              <note placementBase="#art-128." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-129">
-              <num>Artículo 129</num>
-              <paragraph id="art-129-para-1">
+            <article id="art-129.">
+              <num>Artículo 129.</num>
+              <paragraph id="art-129.-para-1">
                 <content>
                   <p>Artículo 129. La Comisión deberá garantizar que las multas impuestas en términos de esta Ley
 tengan carácter disuasivo.
@@ -4459,13 +4424,13 @@ y predecible la metodología y los criterios para la imposición de multas.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-129" placement="bottom">
+              <note placementBase="#art-129." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-130">
-              <num>Artículo 130</num>
-              <paragraph id="art-130-para-1">
+            <article id="art-130.">
+              <num>Artículo 130.</num>
+              <paragraph id="art-130.-para-1">
                 <content>
                   <p>Artículo 130. Para individualizar las multas como sanción se deberá considerar, cuando sean
 aplicables según el tipo de infracción; la gravedad de la infracción; el daño causado; los indicios de
@@ -4480,13 +4445,13 @@ Actualización vigente al momento de la realización de la conducta.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-130" placement="bottom">
+              <note placementBase="#art-130." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-131">
-              <num>Artículo 131</num>
-              <paragraph id="art-131-para-1">
+            <article id="art-131.">
+              <num>Artículo 131.</num>
+              <paragraph id="art-131.-para-1">
                 <content>
                   <p>Artículo 131. Cuando la infracción sea cometida por quien haya sido sancionado previamente por la
 realización de prácticas monopólicas o concentraciones ilícitas, la Comisión considerará los elementos a
@@ -4519,16 +4484,16 @@ acciones de los Agentes Económicos, éstas se ejecutarán hasta que se resuelva
 en su caso, se promueva.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-131" placement="bottom">
+              <note placementBase="#art-131." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
-              <note placementBase="#art-131" placement="bottom">
+              <note placementBase="#art-131." placement="bottom">
                 <p>Fracción reformada DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-132">
-              <num>Artículo 132</num>
-              <paragraph id="art-132-para-1">
+            <article id="art-132.">
+              <num>Artículo 132.</num>
+              <paragraph id="art-132.-para-1">
                 <content>
                   <p>Artículo 132. Los incidentes relativos a la verificación del cumplimiento y ejecución de las
 resoluciones de la Comisión, la imposición de sanciones relacionadas con el incumplimiento a las
@@ -4546,16 +4511,16 @@ prorrogarse por una sola ocasión.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-132" placement="bottom">
+              <note placementBase="#art-132." placement="bottom">
                 <p>Párrafo reformado DOF 14-11-2025</p>
               </note>
-              <note placementBase="#art-132" placement="bottom">
+              <note placementBase="#art-132." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-133">
-              <num>Artículo 133</num>
-              <paragraph id="art-133-para-1">
+            <article id="art-133.">
+              <num>Artículo 133.</num>
+              <paragraph id="art-133.-para-1">
                 <content>
                   <p>Artículo 133. El incidente podrá iniciarse de oficio o a petición de quien demuestre tener interés
 jurídico. Iniciado el procedimiento se dará vista al Agente Económico de que se trate para que dentro de
@@ -4573,9 +4538,9 @@ Pleno para que resuelva lo conducente dentro de los veinte días siguientes.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-134">
-              <num>Artículo 134</num>
-              <paragraph id="art-134-para-1">
+            <article id="art-134.">
+              <num>Artículo 134.</num>
+              <paragraph id="art-134.-para-1">
                 <content>
                   <p>Artículo 134. Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica
 monopólica o una concentración ilícita, así como la Comisión, cuando corresponda, podrán interponer las
@@ -4590,13 +4555,13 @@ previstas en este artículo.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-134" placement="bottom">
+              <note placementBase="#art-134." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-135">
-              <num>Artículo 135</num>
-              <paragraph id="art-135-para-1">
+            <article id="art-135.">
+              <num>Artículo 135.</num>
+              <paragraph id="art-135.-para-1">
                 <content>
                   <p>Artículo 135. En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de
 las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para
@@ -4611,25 +4576,25 @@ III. Procurar la conservación de la información y documentación, y
 IV. Las demás que se consideren necesarias o convenientes.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-135" placement="bottom">
+              <note placementBase="#art-135." placement="bottom">
                 <p>Párrafo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-136">
-              <num>Artículo 136</num>
-              <paragraph id="art-136-para-1">
+            <article id="art-136.">
+              <num>Artículo 136.</num>
+              <paragraph id="art-136.-para-1">
                 <content>
                   <p>Artículo 136. Se deroga
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-136" placement="bottom">
+              <note placementBase="#art-136." placement="bottom">
                 <p>Artículo derogado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-137">
-              <num>Artículo 137</num>
-              <paragraph id="art-137-para-1">
+            <article id="art-137.">
+              <num>Artículo 137.</num>
+              <paragraph id="art-137.-para-1">
                 <content>
                   <p>Artículo 137. Las facultades de la Comisión para iniciar los procedimientos que pudieran derivar en
 responsabilidad e imposición de sanciones de conformidad con esta Ley, se extinguen en un plazo de
@@ -4638,13 +4603,13 @@ otros casos, a partir de que cesó la conducta prohibida por esta Ley.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-137" placement="bottom">
+              <note placementBase="#art-137." placement="bottom">
                 <p>Artículo reformado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-138">
-              <num>Artículo 138</num>
-              <paragraph id="art-138-para-1">
+            <article id="art-138.">
+              <num>Artículo 138.</num>
+              <paragraph id="art-138.-para-1">
                 <content>
                   <p>Artículo 138. En la elaboración y expedición de las disposiciones que contengan las directrices,
 guías, lineamientos y criterios técnicos a que hace referencia el artículo 12, fracción XXII, de esta Ley, se
@@ -4668,9 +4633,9 @@ Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-139">
-              <num>Artículo 139</num>
-              <paragraph id="art-139-para-1">
+            <article id="art-139.">
+              <num>Artículo 139.</num>
+              <paragraph id="art-139.-para-1">
                 <content>
                   <p>Artículo 139. La Comisión podrá certificar, en términos del Reglamento y las Disposiciones
 Regulatorias que al efecto emita, previo pago de derechos, aquellos programas de cumplimiento que
@@ -4682,13 +4647,13 @@ como atenuante, en los términos que establezca el Reglamento.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-139" placement="bottom">
+              <note placementBase="#art-139." placement="bottom">
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-140">
-              <num>Artículo 140</num>
-              <paragraph id="art-140-para-1">
+            <article id="art-140.">
+              <num>Artículo 140.</num>
+              <paragraph id="art-140.-para-1">
                 <content>
                   <p>Artículo 140. La Comisión determinará la existencia de Agentes Económicos Preponderantes en los
 sectores de Telecomunicaciones y Radiodifusión y les impondrá las medidas necesarias para evitar que
@@ -4707,13 +4672,13 @@ previstos en esta Ley.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-140" placement="bottom">
+              <note placementBase="#art-140." placement="bottom">
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-141">
-              <num>Artículo 141</num>
-              <paragraph id="art-141-para-1">
+            <article id="art-141.">
+              <num>Artículo 141.</num>
+              <paragraph id="art-141.-para-1">
                 <content>
                   <p>Artículo 141. Para la determinación de un Agente Económico como Preponderante, así como para la
 imposición y revisión de las medidas necesarias para evitar que se afecten la competencia y la libre
@@ -4793,13 +4758,13 @@ para efectos del procedimiento establecido en este artículo.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-141" placement="bottom">
+              <note placementBase="#art-141." placement="bottom">
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-142">
-              <num>Artículo 142</num>
-              <paragraph id="art-142-para-1">
+            <article id="art-142.">
+              <num>Artículo 142.</num>
+              <paragraph id="art-142.-para-1">
                 <content>
                   <p>Artículo 142. En los casos de concesionarios de radiodifusión y telecomunicaciones que sirvan a un
 mismo mercado o zona de cobertura geográfica que, a opinión vinculante por parte de la Agencia, impida
@@ -4815,13 +4780,13 @@ efecto.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-142" placement="bottom">
+              <note placementBase="#art-142." placement="bottom">
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-143">
-              <num>Artículo 143</num>
-              <paragraph id="art-143-para-1">
+            <article id="art-143.">
+              <num>Artículo 143.</num>
+              <paragraph id="art-143.-para-1">
                 <content>
                   <p>Artículo 143. Cuando el concesionario incumpla lo previsto en el artículo anterior, además de las
 sanciones previstas en el artículo 127 de esta Ley, la Comisión podrá imponer los límites siguientes:
@@ -4836,13 +4801,13 @@ Para efectos de lo anterior, la Comisión podrá solicitar opinión de la Agenci
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-143" placement="bottom">
+              <note placementBase="#art-143." placement="bottom">
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-144">
-              <num>Artículo 144</num>
-              <paragraph id="art-144-para-1">
+            <article id="art-144.">
+              <num>Artículo 144.</num>
+              <paragraph id="art-144.-para-1">
                 <content>
                   <p>Artículo 144. Para la imposición de los límites a que se refiere el artículo anterior, la Comisión
 considerará:
@@ -4865,42 +4830,80 @@ zona de cobertura.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-144" placement="bottom">
+              <note placementBase="#art-144." placement="bottom">
                 <p>Artículo adicionado DOF 16-07-2025</p>
               </note>
             </article>
-            <article id="art-145">
-              <num>Artículo 145</num>
-              <paragraph id="art-145-para-1">
+            <article id="art-145.">
+              <num>Artículo 145.</num>
+              <paragraph id="art-145.-para-1">
                 <content>
                   <p>Artículo 145. En el caso de que las medidas impuestas por la Comisión en términos de los dos
 artículos anteriores no hayan resultado eficaces, la Comisión dará vista a la Agencia para que esta, en su
 caso, ordene lo conducente en términos de las disposiciones jurídicas aplicables.
 
 ARTÍCULO SEGUNDO.- ……….
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su
-publicación en el Diario Oficial de la Federación.
-Segundo. Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la
+TRANSITORIOS</p>
+                </content>
+              </paragraph>
+              <note placementBase="#art-145." placement="bottom">
+                <p>Artículo adicionado DOF 16-07-2025</p>
+              </note>
+            </article>
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
+                <content>
+                  <p>Primero. El presente Decreto entrará en vigor a los cuarenta y cinco días naturales siguientes al de su
+publicación en el Diario Oficial de la Federación.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. Se abroga la Ley Federal de Competencia Económica publicada en el Diario Oficial de la
 Federación el 24 de diciembre de 1992.
 Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se
 sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las unidades
 administrativas que establezca el estatuto orgánico emitido conforme al transitorio siguiente. Las
 resoluciones que recaigan en dichos procedimientos sólo podrán ser impugnadas mediante el juicio de
 amparo, conforme a lo dispuesto por el artículo 28 de la Constitución Política de los Estados Unidos
-Mexicanos.
-Tercero. Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto
+Mexicanos.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. Para el caso de la designación del primer titular como Autoridad Investigadora, por cuanto
 hace al requisito establecido en la fracción VII del artículo 31 de esta Ley, deberá atenderse en el sentido
 de que durante los tres años previos a su nombramiento, no haya ocupado ningún empleo, cargo o
 función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que
 haya estado sujeto a alguno de los procedimientos, previstos en la Ley Federal de Competencia
 Económica publicada en el Diario Oficial de la Federación el 24 de diciembre de 1992, vigente hasta
-antes de la entrada en vigor del presente Decreto.
-Cuarto. El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente
+antes de la entrada en vigor del presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. El Pleno de la Comisión deberá adecuar su Estatuto Orgánico a lo dispuesto en el presente
 Decreto en un plazo que no excederá de treinta días contados a partir de su entrada en vigor. En tanto se
 efectúe la adecuación, se continuará aplicando el Estatuto Orgánico vigente al momento de la entrada en
-vigor del presente Decreto, en lo que no se oponga a éste.
-Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de
+vigor del presente Decreto, en lo que no se oponga a éste.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-5">
+              <num>Artículo 5</num>
+              <paragraph id="art-5-para-1">
+                <content>
+                  <p>Quinto. Dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, la Cámara de
 Diputados del Congreso de la Unión deberá integrar un grupo de trabajo técnico, con el objeto de analizar
 y formular propuestas de ajustes a legislación penal vigente, en la materia objeto del presente Decreto. El
 grupo de trabajo deberá presentar las propuestas correspondientes dentro de los sesenta días siguientes
@@ -4909,11 +4912,25 @@ al de su instalación.
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Sexto. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el
+Secretaría de Servicios Parlamentarios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-6">
+              <num>Artículo 6</num>
+              <paragraph id="art-6-para-1">
+                <content>
+                  <p>Sexto. En un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto, el
 Pleno publicará las Disposiciones Regulatorias a que hace referencia el artículo 12, fracción XXII de la
-Ley Federal de Competencia Económica.
-Séptimo. Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el
+Ley Federal de Competencia Económica.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-7">
+              <num>Artículo 7</num>
+              <paragraph id="art-7-para-1">
+                <content>
+                  <p>Séptimo. Dentro del plazo de un año contado a partir de la entrada en vigor del presente Decreto, el
 Congreso de la Unión deberá realizar las adecuaciones al marco jurídico a efecto de armonizarlo con los
 principios en materia de competencia y libre concurrencia previstos en el artículo 28 de la Constitución.
 Para lo anterior, el Congreso de la Unión podrá solicitar opinión a la Comisión Federal de Competencia
@@ -4946,23 +4963,27 @@ segundo; 25, párrafo quinto; 34; la denominación del Título IV para quedar co
 Control de la Comisión Federal de Competencia Económica"; 37; 38; 39, primer párrafo, fracciones I, VIII,
 X, XIV, XVII, XXIV y XXVI; 40; 41, primer párrafo, fracciones I, III, IV, V, VI, VII, VIII y IX; 42; 43; la
 denominación del Capítulo IV del Título IV "De la Responsabilidad del Titular del Órgano Interno de
-Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del</p>
+Control"; 44; 45; 46; 49, fracción IV; y se derogan las fracciones III, XI, XII, XV, XVIII, XIX, XX y XXI del
+artículo 39 de la Ley Federal de Competencia Económica, para quedar como sigue:
+………
+Transitorios</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-145" placement="bottom">
-                <p>Artículo adicionado DOF 16-07-2025</p>
-              </note>
             </article>
-            <article id="art-39">
-              <num>Artículo 39</num>
-              <paragraph id="art-39-para-1">
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
                 <content>
-                  <p>artículo 39 de la Ley Federal de Competencia Económica, para quedar como sigue:
-………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a
+                  <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. La Cámara de Diputados del H. Congreso de la Unión, dentro de los 180 días siguientes a
 la publicación de este Decreto, iniciará los procesos de designación de los titulares de los Órganos
 Internos de Control de los organismos a los que la Constitución Política de los Estados Unidos Mexicanos
 les otorga autonomía y que ejerzan recursos públicos del Presupuesto de Egresos de la Federación
@@ -4973,26 +4994,61 @@ recursos públicos del Presupuesto de Egresos de la Federación que se encontrab
 entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado
 en el Diario Oficial de la Federación el 27 de mayo de 2015, los cuales continuarán en su encargo en los
-términos en los que fueron nombrados.
-Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados
+términos en los que fueron nombrados.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. Los órganos de gobierno de los organismos a los que la Constitución Política de los Estados
 Unidos Mexicanos les otorga autonomía y que ejercen recursos públicos del Presupuesto de Egresos de
 la Federación, tendrán un plazo de ciento ochenta días, a partir de la publicación del presente Decreto,
-para armonizar su normatividad interna en los términos del presente Decreto.
-Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a
+para armonizar su normatividad interna en los términos del presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. Los recursos humanos, financieros y materiales que actualmente se encuentran asignados a
 las Contralorías, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente
 Decreto.
 73 de 86
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se
+Secretaría de Servicios Parlamentarios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-5">
+              <num>Artículo 5</num>
+              <paragraph id="art-5-para-1">
+                <content>
+                  <p>Quinto. Las referencias relativas a la Ley General de Responsabilidades Administrativas se
 entenderán a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos hasta que
-este ordenamiento legal se abrogue el 17 de julio de 2017.
-Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes
+este ordenamiento legal se abrogue el 17 de julio de 2017.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-6">
+              <num>Artículo 6</num>
+              <paragraph id="art-6-para-1">
+                <content>
+                  <p>Sexto. Los procedimientos administrativos iniciados por las autoridades federales correspondientes
 con la anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las
-disposiciones aplicables vigentes a su inicio.
-Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su
+disposiciones aplicables vigentes a su inicio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-7">
+              <num>Artículo 7</num>
+              <paragraph id="art-7-para-1">
+                <content>
+                  <p>Séptimo. El Congreso de la Unión, en un plazo no mayor a ciento ochenta días, deberá armonizar su
 legislación conforme al presente Decreto.
 Ciudad de México, a 15 de diciembre de 2016.- Dip. Edmundo Javier Bolaños Aguilar, Presidente.-
 Sen. Pablo Escudero Morales, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. María
@@ -5011,34 +5067,55 @@ DECRETO por el que se expide la Ley de la Fiscalía General de la República, se
 Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan
 diversas disposiciones de distintos ordenamientos legales.
 Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
-Artículo Quincuagésimo Primero.- Se reforman la fracción VII del artículo 28; la fracción IX del</p>
+Artículo Quincuagésimo Primero.- Se reforman la fracción VII del artículo 28; la fracción IX del
+artículo 41; y el párrafo primero del artículo 77 de la Ley Federal de Competencia Económica, para
+quedar como sigue:
+………
+Transitorios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-41">
-              <num>Artículo 41</num>
-              <paragraph id="art-41-para-1">
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
                 <content>
-                  <p>artículo 41; y el párrafo primero del artículo 77 de la Ley Federal de Competencia Económica, para
-quedar como sigue:
-………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+                  <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -5048,8 +5125,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-5">
+              <num>Artículo 5</num>
+              <paragraph id="art-5-para-1">
+                <content>
+                  <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -5080,13 +5164,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-6">
+              <num>Artículo 6</num>
+              <paragraph id="art-6-para-1">
+                <content>
+                  <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-7">
+              <num>Artículo 7</num>
+              <paragraph id="art-7-para-1">
+                <content>
+                  <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -5098,8 +5196,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-8">
+              <num>Artículo 8</num>
+              <paragraph id="art-8-para-1">
+                <content>
+                  <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 76 de 86
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
@@ -5107,25 +5212,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-9">
+              <num>Artículo 9</num>
+              <paragraph id="art-9-para-1">
+                <content>
+                  <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -5136,14 +5269,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -5156,12 +5303,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -5186,8 +5347,15 @@ primero y actual; 24, párrafos primero, segundo y sus fracciones II y III y cua
 quinto, sexto y séptimo; 28, fracciones I, II, X y XI; 29; 30; 31, párrafo primero, fracciones I, II, III, V y VI;
 32, párrafo primero; 33; la denominación del Capítulo IV del Título III del Libro Primero; 34; 35, párrafo
 primero; 36; la denominación del Título V del Libro Primero; 47, párrafo primero; 51, párrafo primero; 53,
-párrafo primero; 54, fracción III; la denominación de la Sección II del Capítulo V del Título Único del Libro
-Segundo; 59, párrafo primero; 60, fracción I; 63, fracción V; 64, fracciones II y III; 65, párrafo segundo; 71,
+párrafo primero; 54, fracción III; la denominación de la Sección II del Capítulo V del Título Único del Libro</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo; 59, párrafo primero; 60, fracción I; 63, fracción V; 64, fracciones II y III; 65, párrafo segundo; 71,
 párrafo cuarto; 73, párrafo primero; 78, párrafos primero, segundo y tercero; 83, fracciones II, III, párrafo
 segundo, V y VI, párrafos primero y cuarto; 86, fracciones I, II y III; 90, fracciones V, párrafo primero, VI y
 párrafo cuarto; 94, fracciones III, párrafo primero, y VII, párrafo cuarto; 100, párrafo primero y fracción II;
@@ -5207,19 +5375,11 @@ recorren en su orden los subsecuentes; 103, los párrafos cuarto, quinto, sexto,
                 </content>
               </paragraph>
             </article>
-            <article id="art-13">
-              <num>Artículo 13</num>
-              <paragraph id="art-13-para-1">
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
                 <content>
-                  <p>artículo 13; 14; 15; 16; 17; párrafos segundo y tercero al artículo 23; todo el Título IV del Libro Primero,
-incluidos sus Capítulos I, II, III, IV y V y sus artículos 37, 38, 39, 40, 41, 42, 43, 44, 45 y 46; las fracciones
-I, II, III, IV, V y VI y un párrafo segundo al artículo 47; la fracción V al artículo 53; la fracción VI al artículo
-59; el párrafo tercero de la fracción VI al artículo 83; las fracciones IV y VII al artículo 93; párrafos
-segundo, tercero, cuarto y quinto al artículo 95; 101 y 136, de la Ley Federal de Competencia Económica,
-para quedar como sigue:
-……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de
+                  <p>Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de
 la Federación, conforme a los siguientes párrafos.
 79 de 86
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
@@ -5228,17 +5388,38 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 Las reformas a los párrafos Décimo Quinto a Vigésimo del Artículo 28 de la Constitución Política de
 los Estados Unidos Mexicanos, entrarán en vigor al día siguiente a aquel en que se integre el Pleno de la
-Comisión Nacional Antimonopolio.
-Segundo. En tanto se integra el Pleno de la Comisión Nacional Antimonopolio conforme al artículo
-Tercero Transitorio del presente Decreto, la Comisión Federal de Competencia Económica continuará en
+Comisión Nacional Antimonopolio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. En tanto se integra el Pleno de la Comisión Nacional Antimonopolio conforme al artículo</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero Transitorio del presente Decreto, la Comisión Federal de Competencia Económica continuará en
 sus funciones conforme al marco jurídico previo a la entrada en vigor del presente Decreto.
 Los procedimientos iniciados por la Comisión Federal de Competencia Económica y por el Instituto
 Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica,
 preponderancia y participación cruzada, con anterioridad al día siguiente a aquel en que se integre el
 Pleno de la Comisión Nacional Antimonopolio, continuarán su trámite conforme a las disposiciones
 vigentes al momento de su inicio, ante las unidades administrativas que establezca el Estatuto Orgánico
-que al efecto se emita conforme al artículo Noveno Transitorio.
-Tercero. El nombramiento y ratificación de las primeras Personas Comisionadas que integrarán el
+que al efecto se emita conforme al artículo Noveno Transitorio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. El nombramiento y ratificación de las primeras Personas Comisionadas que integrarán el
 Pleno de la Comisión Nacional Antimonopolio deberá realizarse en términos del artículo 13 Bis de la Ley
 Federal de Competencia Económica contenida en este Decreto.
 Con el objeto de asegurar el escalonamiento en el cargo de las Personas Comisionadas de la
@@ -5254,8 +5435,15 @@ El Pleno de la Comisión Nacional Antimonopolio se entenderá integrado una vez 
 nombradas y ratificadas las cinco Personas Comisionadas y la persona titular del Ejecutivo Federal haya
 designado a quien fungirá como Persona Comisionada Presidenta.
 El procedimiento previsto en este artículo Tercero Transitorio deberá iniciarse al momento en que
-entre en vigor el presente Decreto.
-Cuarto. A partir de que entre en vigor el presente Decreto, se suspenden los plazos de todos los
+entre en vigor el presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. A partir de que entre en vigor el presente Decreto, se suspenden los plazos de todos los
 procedimientos de investigación sustanciados por la Autoridad Investigadora de la Comisión Federal de
 Competencia Económica y del Instituto Federal de Telecomunicaciones de conformidad con los artículos
 66 a 79, 94, fracciones I a III, y 96, fracciones I a V, de la Ley Federal de Competencia Económica
@@ -5270,18 +5458,39 @@ Comisión Nacional Antimonopolio.
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Quinto. A partir de que entre en vigor el presente Decreto, la Comisión Federal de Competencia
+Secretaría de Servicios Parlamentarios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-5">
+              <num>Artículo 5</num>
+              <paragraph id="art-5-para-1">
+                <content>
+                  <p>Quinto. A partir de que entre en vigor el presente Decreto, la Comisión Federal de Competencia
 Económica, la Secretaría de Economía y demás dependencias de la Administración Pública Federal
 iniciarán los trámites administrativos correspondientes para que la Comisión Nacional Antimonopolio se
-encuentre plenamente funcional una vez que se integre su Pleno.
-Sexto. A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional
+encuentre plenamente funcional una vez que se integre su Pleno.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-6">
+              <num>Artículo 6</num>
+              <paragraph id="art-6-para-1">
+                <content>
+                  <p>Sexto. A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional
 Antimonopolio, quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el
 presente Decreto.
 A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio,
 cualquier referencia en la normativa federal o local a la Comisión Federal de Competencia Económica se
-entenderá como a la Comisión Nacional Antimonopolio.
-Séptimo. Los actos jurídicos que la Comisión Federal de Competencia Económica hubiere emitido
+entenderá como a la Comisión Nacional Antimonopolio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-7">
+              <num>Artículo 7</num>
+              <paragraph id="art-7-para-1">
+                <content>
+                  <p>Séptimo. Los actos jurídicos que la Comisión Federal de Competencia Económica hubiere emitido
 con anterioridad al día siguiente a la integración del Pleno de la Comisión Nacional Antimonopolio, así
 como cualquier acto o autorización emitida por el Pleno de la Comisión Federal de Competencia
 Económica, continuarán surtiendo todos sus efectos legales.
@@ -5292,24 +5501,52 @@ tramite o del que sea parte, sea de naturaleza civil, penal, administrativa o de
 En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos
 equivalentes celebrados por la Comisión Federal de Competencia Económica, se entenderán como
 vigentes y obligarán en sus términos a la Comisión Nacional Antimonopolio, sin perjuicio del derecho de
-las partes a ratificar, modificar o rescindir posteriormente los que, en su caso, correspondan.
-Octavo. Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con
+las partes a ratificar, modificar o rescindir posteriormente los que, en su caso, correspondan.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-8">
+              <num>Artículo 8</num>
+              <paragraph id="art-8-para-1">
+                <content>
+                  <p>Octavo. Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con
 anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio,
 continuarán surtiendo todos sus efectos legales, incluyendo, más no limitado a, las medidas y
 obligaciones asimétricas impuestas a los Agentes Económicos Preponderantes.
 A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la
 Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades del
 Instituto Federal de Telecomunicaciones, únicamente respecto de cualquier procedimiento en curso en
-materia de competencia económica, de preponderancia y de participación cruzada.
-Noveno. El Estatuto Orgánico de la Comisión Nacional Antimonopolio y el Reglamento de la Ley
+materia de competencia económica, de preponderancia y de participación cruzada.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-9">
+              <num>Artículo 9</num>
+              <paragraph id="art-9-para-1">
+                <content>
+                  <p>Noveno. El Estatuto Orgánico de la Comisión Nacional Antimonopolio y el Reglamento de la Ley
 Federal de Competencia Económica se deberán emitir en un plazo no mayor a ciento ochenta días
 naturales contados a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional
-Antimonopolio.
-Décimo. En tanto se efectúen las adecuaciones señaladas en el artículo Noveno Transitorio y se
+Antimonopolio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo. En tanto se efectúen las adecuaciones señaladas en el artículo Noveno Transitorio y se
 expiden las disposiciones reglamentarias de esta Ley, se continuará aplicando el Estatuto Orgánico, las
 Disposiciones Regulatorias, Criterios, Lineamientos y demás normativa emitida por la Comisión Federal
-de Competencia Económica, en lo que no se oponga al presente Decreto.
-Décimo Primero. Los procedimientos previstos en los artículos 132 y 133 de esta Ley también serán
+de Competencia Económica, en lo que no se oponga al presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Primero. Los procedimientos previstos en los artículos 132 y 133 de esta Ley también serán
 aplicables respecto de actos emitidos por la Comisión Federal de Competencia Económica o del Instituto
 Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica,
 preponderancia y participación cruzada.
@@ -5317,26 +5554,54 @@ preponderancia y participación cruzada.
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Segundo. Una vez que sea designada la Persona Comisionada Presidente deberá realizar el
+Secretaría de Servicios Parlamentarios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Segundo. Una vez que sea designada la Persona Comisionada Presidente deberá realizar el
 registro de la Comisión Nacional Antimonopolio en el Registro Público de Organismos Descentralizados,
 de conformidad con lo previsto en la Ley Federal de las Entidades Paraestatales y demás normativa
-aplicable.
-Décimo Tercero. El titular de la Autoridad Investigadora de la Comisión Federal de Competencia
+aplicable.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Tercero. El titular de la Autoridad Investigadora de la Comisión Federal de Competencia
 Económica continuará en su encargo como titular de la Autoridad Investigadora de la Comisión Nacional
 Antimonopolio.
 Para efectos de lo anterior, se tomará en consideración el plazo que haya durado en su encargo en la
 Comisión Federal de Competencia Económica para determinar el plazo restante de su encargo de
-conformidad con el artículo 31 de la Ley Federal de Competencia Económica.
-Décimo Cuarto. La Comisión Nacional Antimonopolio deberá contar con el presupuesto suficiente
+conformidad con el artículo 31 de la Ley Federal de Competencia Económica.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Cuarto. La Comisión Nacional Antimonopolio deberá contar con el presupuesto suficiente
 para cumplir cabalmente con su mandato y desempeñar sus atribuciones durante el resto del ejercicio
 fiscal de 2025, conforme a lo dispuesto en el artículo Décimo Primero Transitorio del Presupuesto de
 Egresos de la Federación para el ejercicio Fiscal de 2025.
 La Cámara de Diputados o, en su caso, la Secretaría de Hacienda y Crédito Público, asignará el
 presupuesto necesario para garantizar el cumplimiento de las atribuciones de la Comisión Nacional
 Antimonopolio durante el ejercicio fiscal de 2026 y subsecuentes, a partir de la propuesta que presente la
-Comisión Nacional Antimonopolio, en los plazos y términos previstos en la legislación aplicable.
-Décimo Quinto. Los recursos materiales, incluyendo los registros, padrones, plataformas o cualquier
+Comisión Nacional Antimonopolio, en los plazos y términos previstos en la legislación aplicable.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Quinto. Los recursos materiales, incluyendo los registros, padrones, plataformas o cualquier
 sistema electrónico, de la Comisión Federal de Competencia Económica y aquellos del Instituto Federal
 de Telecomunicaciones, exclusivamente relacionados con el cumplimiento de funciones en materia de
 competencia económica, preponderancia y participación cruzada, pasarán a la Comisión Nacional
@@ -5345,8 +5610,15 @@ los regulan hasta en tanto se emita la normativa que refiere el artículo Noveno
 Decreto.
 La Comisión Nacional Antimonopolio garantizará la confidencialidad, resguardo e integridad de la
 información confidencial que reciba, misma que deberá ser resguardada de manera independiente y a la
-que no tendrá acceso ningún otro órgano, entidad o dependencia.
-Décimo Sexto. La Comisión Federal de Competencia Económica dispondrá de los recursos
+que no tendrá acceso ningún otro órgano, entidad o dependencia.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Sexto. La Comisión Federal de Competencia Económica dispondrá de los recursos
 financieros con los que cuente, incluidos los contenidos en sus fideicomisos, para el pago de
 indemnizaciones que incluyan sueldos y salarios de conformidad con la normativa aplicable para el
 personal que no se transfiera a la Comisión Nacional Antimonopolio, siempre y cuando dichos recursos
@@ -5373,8 +5645,15 @@ institucional e individual, según corresponda, a la persona servidora pública 
 designe o en los medios que esta determine y conforme a la normativa aplicable a la Administración
 Pública Federal, en los sistemas habilitados para tales efectos, en el entendido de que la entrega que se
 realice, no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la
-autoridad competente con posterioridad.
-Décimo Séptimo. A la fecha de integración del Pleno de la Comisión Nacional Antimonopolio, la
+autoridad competente con posterioridad.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Séptimo. A la fecha de integración del Pleno de la Comisión Nacional Antimonopolio, la
 Comisión Federal de Competencia Económica deberá enterar la totalidad de los recursos presupuestales
 y financieros disponibles con los que cuente, a la Tesorería de la Federación, incluyendo los derivados de
 la extinción de sus fideicomisos, mandatos o contratos análogos, así como los productos y
@@ -5390,21 +5669,42 @@ por la institución que actúe como fiduciaria.
 Los recursos federales a que se refiere el párrafo primero de este artículo Transitorio deberán ser
 concentrados por concepto de aprovechamientos en la Tesorería de la Federación y se destinarán por la
 Secretaría de Hacienda y Crédito Público a cubrir las asignaciones presupuestales necesarias para el
-funcionamiento de la Comisión Nacional Antimonopolio.
-Décimo Octavo. El Órgano Interno de Control de la Comisión Federal de Competencia Económica
+funcionamiento de la Comisión Nacional Antimonopolio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Octavo. El Órgano Interno de Control de la Comisión Federal de Competencia Económica
 queda extinto a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional
 Antimonopolio. Los asuntos y procedimientos que estén a su cargo, así como los expedientes y archivos,
 serán transferidos al Órgano Interno de Control en la Secretaría de Economía y serán tramitados y
-resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
-Décimo Noveno. A partir de la entrada en vigor del presente Decreto, las personas titulares de las
+resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Noveno. A partir de la entrada en vigor del presente Decreto, las personas titulares de las
 Unidades de Administración y Finanzas o sus equivalentes de la Comisión Federal de Competencia
 Económica, el Instituto Federal de Telecomunicaciones y la Secretaría de Economía, en el ámbito de sus
 respectivas competencias, deberán coordinar el proceso de transferencia de los recursos humanos,
 materiales, financieros, presupuestales, sistemas tecnológicos e informáticos en materia administrativa
 correspondientes. Lo anterior, sin perjuicio de la coordinación que pudiera existir de manera simultánea
 entre las unidades administrativas con funciones sustantivas concerniente a los sistemas informáticos,
-bases de datos, expedientes, entre otros.
-Vigésimo. En un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a
+bases de datos, expedientes, entre otros.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-20">
+              <num>Artículo 20</num>
+              <paragraph id="art-20-para-1">
+                <content>
+                  <p>Vigésimo. En un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a
 aquel en el que se integre su Pleno, previa autorización de la Secretaría de Hacienda y Crédito Público,
 la Comisión Nacional Antimonopolio deberá fijar las tarifas o determinar las contraprestaciones derivadas
 de aprovechamientos por los bienes y servicios que preste, mediante Acuerdo que emita el Pleno.
@@ -5441,10 +5741,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Trigésimo Segundo.- Se reforman los artículos 12, fracción XXVIII; 121 y 132 de la Ley
 Federal de Competencia Económica, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
+                <content>
+                  <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -5454,14 +5768,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

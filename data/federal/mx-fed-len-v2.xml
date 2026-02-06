@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2019-03-12/len/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2019-03-12/len/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -43,9 +43,9 @@
       </chapter>
       <chapter id="chapter-6">
         <num>CAPÍTULO VI De la Extensión Académica</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley tiene por objeto normar la educación pública que imparte la Secretaría de
 Marina a través de la Universidad Naval, en sus diversos niveles educativos, la cual está orientada al
@@ -56,9 +56,9 @@ Educación Pública, con respeto de los derechos humanos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. El Secretario de Marina, tiene la facultad y responsabilidad de establecer o modificar las
 políticas y normas del Sistema Educativo Naval, así como de ordenar mediante acuerdos la creación de
@@ -69,9 +69,9 @@ doctrinariamente del Estado Mayor General de la Armada.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. Para los efectos de esta Ley y su Reglamento, se entenderá por:
 I. Autoridad Educativa Naval:·El Secretario de Marina, Oficial Mayor de Marina y Rector de la
@@ -104,9 +104,9 @@ XV. Universidad Naval: Institución representativa del Sistema Educativo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. La Secretaría ofrecerá a todos los mexicanos, por nacimiento en igualdad de género la
 oportunidad de efectuar estudios en el Sistema Educativo, de acuerdo a los lineamientos normativos y
@@ -116,27 +116,27 @@ extensión académica que la Rectoría establezca a través de convenios suscrit
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Las faltas en contra de la disciplina naval, cometidas por los Discentes serán procesadas
 conforme a los reglamentos correspondientes de cada Establecimiento Educativo Naval.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Al frente de la Universidad Naval estará el Rector, con grado de Almirante, el cual deberá
 contar con al menos dos posgrados o equivalentes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. El Rector tendrá las facultades que le confieren el Reglamento Interior de la Secretaría de
 Marina, asimismo, será responsable de:
@@ -163,9 +163,9 @@ V. Las demás que establecen las disposiciones jurídicas aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. El Sistema Educativo es el conjunto de recursos humanos, financieros, de infraestructura y
 procesos educativos a través de los cuales, la Secretaría de Marina, ofrece una educación naval integral
@@ -173,18 +173,18 @@ de calidad, mediante el desarrollo de competencias y valores.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. La Autoridad Educativa Naval asignará a la Universidad Naval los recursos humanos,
 materiales y financieros suficientes para atender las necesidades del Sistema Educativo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. Los objetivos del Sistema Educativo son:
 I. Desarrollar en los Discentes de la Armada de México, una formación académica integral de
@@ -211,13 +211,13 @@ VII. Fomentar la doctrina y Cultura Naval de México en los civiles y militares 
 extranjeros.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Fracción reformada DOF 24-03-2023</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. El Sistema Educativo estará constituido por:
 I. Autoridad Educativa Naval;
@@ -229,9 +229,9 @@ VI. Establecimientos Educativos Navales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. Los Establecimientos Educativos Navales se clasifican en:
 I. Centros de Estudios;
@@ -243,9 +243,9 @@ VI. Otras que designe la Autoridad Educativa Naval.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. Los niveles en el Sistema Educativo son:
 I. Adiestramiento;
@@ -255,9 +255,9 @@ IV. Superior.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. Las modalidades en el Sistema Educativo son:
 I. Escolarizada: Es la modalidad de educación formal, la cual implica la presencia física del
@@ -274,18 +274,18 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. El Plan General establece, los planes y programas para alcanzar una educación integral
 de calidad, conforme al Modelo Educativo que deberá cubrir las necesidades de la Secretaría.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. El Plan General para su desarrollo armónico, secuencial e integral contendrá:
 I. Las normas que garanticen la formación de los Discentes en los ámbitos académico, de
@@ -296,9 +296,9 @@ III. La permanente profesionalización de los Docentes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Los Directores de los Establecimientos Educativos Navales supervisarán que la currícula
 sea analizada y evaluada anualmente y del resultado propondrán al Rector las modificaciones que
@@ -309,9 +309,9 @@ III. Los avances en las áreas humanística, científica, tecnológica y náutic
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. El Modelo Educativo define el diseño, estructura, planes y programas; que sirve de guía
 para la ejecución y evaluación del proceso formativo de calidad, así como también la evaluación de los
@@ -319,27 +319,27 @@ Docentes y Discentes pertenecientes al modelo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. El Rector será responsable de conducir la integración, evaluación y actualización del
 Modelo Educativo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. Los Directores de los Establecimientos Educativos Navales, serán los responsables de
 aplicar el desarrollo del Modelo Educativo de acuerdo al nivel y modalidad correspondiente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. La extensión académica comprenderá los siguientes aspectos:
 I. Convenios académicos;
@@ -348,9 +348,9 @@ III. La difusión de la Cultura Naval.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. Los convenios académicos realizados por la Universidad Naval con Instituciones de
 educación pública y privada, nacional o extranjera para la mejor prestación de los servicios educativos a
@@ -365,9 +365,9 @@ los avances científicos y tecnológicos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. La Secretaría por conducto del Estado Mayor General de la Armada y en coordinación
 con la Autoridad Educativa Naval, ofrecerá a nivel nacional e internacional los estudios previstos en el
@@ -378,20 +378,48 @@ Educativas competentes, a fin de determinar el grado académico que corresponda.
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. La difusión de la Cultura Naval de la Secretaría estará a cargo de la Universidad Naval, la
 cual será promovida a través de los Establecimientos Educativos Navales, orientada al fortalecimiento de
 la filosofía institucional que contribuya al desarrollo académico y profesional de los Discentes.
-Transitorios
-Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo. El Ejecutivo Federal, dentro del plazo de ciento ochenta días siguientes a la entrada en
-vigor de la presente Ley, expedirá el Reglamento correspondiente.
-Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.
-Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. El Ejecutivo Federal, dentro del plazo de ciento ochenta días siguientes a la entrada en
+vigor de la presente Ley, expedirá el Reglamento correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se derogan todas las disposiciones que se opongan a la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se
 realizarán con cargo al presupuesto autorizado a la Secretaría de Marina en cada ejercicio fiscal, por lo
 que no se requerirán recursos adicionales para el ejercicio fiscal de que se trate.
 Ciudad de México, a 19 de febrero de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí

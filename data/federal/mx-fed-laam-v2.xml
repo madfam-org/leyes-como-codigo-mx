@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2004-06-25/laam/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2004-06-25/laam/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -92,19 +92,12 @@ jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de Méxic
             <paragraph id="art-2o-para-1">
               <content>
                 <p>ARTICULO 2o.- Es facultad del Mando Supremo ascender al personal de Vicealmirantes,
-Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
-              <content>
-                <p>artículo 89, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
+Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el
+artículo 89, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-89" placement="bottom">
+            <note placementBase="#art-2o" placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
@@ -216,9 +209,9 @@ disposiciones para ese grado, a efecto de poder tomar parte en promociones poste
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>ARTICULO 10.- Cuando dos o más miembros de la Armada de México del mismo cuerpo o servicio
 tengan despacho o nombramiento con antigüedad de igual fecha, deberá considerarse como más antiguo
@@ -227,22 +220,22 @@ mayor tiempo de servicio, y si aun éste fuere igual, al de mayor edad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>ARTICULO 11.- En igualdad de competencia profesional determinada por el promedio de las
 calificaciones obtenidas en el concurso de selección, será ascendido el de mayor antigüedad en el grado.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>ARTICULO 12.- El personal naval que sea ascendido por haber obtenido alguna de las vacantes
 existentes, ocupará su nuevo lugar escalafonario atendiendo a la prelación que ocupaba en el grado
@@ -250,13 +243,13 @@ anterior.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>ARTICULO 13.- El Alto Mando ordenará a la Jefatura de Operaciones Navales y a la unidad
 administrativa correspondiente, la formulación anual del escalafón del personal de Almirantes, Capitanes
@@ -265,13 +258,13 @@ difundidos a todo el personal de la Institución.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>ARTICULO 14.- Los órganos asesores auxiliarán al Alto Mando en el proceso para calificar,
 seleccionar y proponer al personal naval para ascenso, de Marinero hasta Capitán de Corbeta. Para los
@@ -289,16 +282,16 @@ Comisión Coordinadora para Ascensos en términos de las disposiciones aplicable
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2025</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>ARTICULO 15.- Los ascensos en tiempo de paz tienen por objeto cubrir las vacantes de la Armada de
 México con personal apto e idóneo para desempeñar las labores del grado inmediato superior, los cuales
@@ -308,26 +301,26 @@ Alto Mando.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>ARTICULO 16.- Para determinar su derecho al ascenso, desde Marinero hasta Capitán de Corbeta,
 se convocará a concurso de selección al personal de un mismo escalafón y grado.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>ARTICULO 17.- Los requisitos indispensables para ser convocado al concurso de selección para
 ascenso, en lo conducente, serán los establecidos en los Capítulos II, III y IV de este Título, además de
@@ -337,13 +330,13 @@ como no encontrarse comprendido en los supuestos que prevé el artículo 51 de e
 El Reglamento de esta Ley establecerá las bases para definir la comprobación de estos requisitos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>ARTICULO 18.- Los ascensos a los grados de Capitán de Navío, Contralmirante, Vicealmirante y
 Almirante, serán conferidos por el Mando Supremo, atendiendo preferentemente al mérito, aptitud,
@@ -351,13 +344,13 @@ competencia profesional y conducta militar y civil, así como antigüedad en el 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-18" placement="bottom">
+            <note placementBase="#art-18." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>ARTICULO 19.- Cuando una persona militar de la Armada sea excluida por estar imposibilitada para
 participar en el concurso de selección por enfermedad u otras causas de fuerza mayor comprobadas,
@@ -366,13 +359,13 @@ exclusión, siempre y cuando pueda concursar dentro del periodo que al efecto se
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>ARTICULO 20.- Cuando una persona militar de la Armada se encuentre en cualquiera de los
 supuestos siguientes, se considerará el grado que ostente como grado tope:
@@ -393,19 +386,19 @@ indicados y que la persona militar ostente un mismo grado.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Párrafo reformado DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>ARTICULO 21.- El grado tope se comunicará por escrito por la Jefatura de Operaciones Navales al
 personal núcleo de los Cuerpos y por la unidad administrativa correspondiente al personal núcleo de los
@@ -413,13 +406,13 @@ servicios y las escalas de los Cuerpos y Servicios.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>ARTICULO 22.- Para ascender de Marinero a Cabo, se requerirá:
 I.- Tener como mínimo un año de antigüedad en el grado;
@@ -430,9 +423,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>ARTICULO 23.- Para ascender de Cabo a Tercer Maestre o sus equivalentes se requerirá:
 I.- Tener como mínimo dos años de antigüedad en el grado;
@@ -444,9 +437,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>ARTICULO 24.- Para ascender de Tercer Maestre a Segundo Maestre o sus equivalentes se
 requerirá:
@@ -459,9 +452,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>ARTICULO 25.- Para ascender de Segundo Maestre a Primer Maestre o sus equivalentes se
 requerirá:
@@ -479,9 +472,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>ARTICULO 26.- El personal de los establecimientos de educación naval egresará con el grado que
 establece la Ley Orgánica de la Armada de México.
@@ -490,13 +483,13 @@ Reglamento respectivo para prácticas y examen profesional, ascenderá al grado 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>ARTICULO 27.- Para ascender de Primer Maestre o sus equivalentes a Teniente de Corbeta, se
 requerirá:
@@ -508,9 +501,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>ARTICULO 28.- Para ascender de Teniente de Corbeta a Teniente de Fragata, se requerirá:
 I.- Tener como mínimo tres años de antigüedad en el grado;
@@ -521,9 +514,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>ARTICULO 29.- Para ascender de Teniente de Fragata a Teniente de Navío, se requerirá:
 I.- Tener como mínimo tres años de antigüedad en el grado;
@@ -534,9 +527,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>ARTICULO 30.- Para ascender de Teniente de Navío a Capitán de Corbeta, se requerirá:
 I.- Tener como mínimo tres años de antigüedad en el grado;
@@ -554,13 +547,13 @@ IV.- Obtener en el concurso de selección para ascenso un promedio de calificaci
 coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>ARTICULO 31.- Para ascender de Capitán de Corbeta a Capitán de Fragata, se requerirá:
 I.- Tener como mínimo tres años de antigüedad en el grado;
@@ -571,9 +564,9 @@ coloque entre el número de vacantes existentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>ARTICULO 32.- Para el ascenso de Capitán de Fragata a Capitán de Navío, se le informará al Mando
 Supremo lo siguiente:
@@ -588,16 +581,16 @@ corresponderán al grado de la persona participante.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>ARTICULO 33.- Para el ascenso a Contralmirantes, Vicealmirantes y Almirantes, se le informará al
 Mando Supremo lo siguiente:
@@ -617,16 +610,16 @@ corresponderán al grado de la persona participante.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>ARTICULO 34.- El concurso de selección para ascenso tiene por objeto determinar el orden de
 prelación del personal convocado, conforme a lo siguiente:
@@ -644,19 +637,19 @@ grado que ostenta la persona convocada.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Párrafo reformado DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>ARTICULO 35.- El concurso de selección para ascenso estará integrado por los siguientes exámenes:
 I.- Examen médico;
@@ -673,28 +666,28 @@ y Servicios.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>ARTICULO 36.- Las normas para el concurso de selección para ascenso se harán del conocimiento
 del personal oportunamente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>ARTICULO 37.- Los ascensos en tiempo de guerra se otorgarán al personal de la Armada de México,
 para:
@@ -705,13 +698,13 @@ II.- Cubrir necesidades operativas, y
 III.- Cubrir vacantes.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-37" placement="bottom">
+            <note placementBase="#art-37." placement="bottom">
               <p>Párrafo reformado DOF 17-12-2025</p>
             </note>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>ARTICULO 38.- Las propuestas para ascenso en los supuestos mencionados en el artículo anterior,
 serán formuladas por el Mando de quien dependa el personal considerado, fundamentando las causas de
@@ -719,9 +712,9 @@ la mencionada propuesta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>ARTICULO 39.- El Mando Supremo determinará a propuesta del Alto Mando, el procedimiento que
 deba seguirse para otorgar los ascensos en tiempo de guerra establecidos en el artículo 37 de la
@@ -729,18 +722,18 @@ presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>ARTICULO 40.- Para ascender en tiempo de guerra, no se requiere que el personal reúna los
 requisitos establecidos para los ascensos en tiempo de paz.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>ARTICULO 41.- El Mando Supremo, a propuesta del Alto Mando, podrá ascender al personal de la
 Armada de México, por méritos especiales cuando realice cualquiera de los hechos siguientes:
@@ -751,9 +744,9 @@ IV.- Efectuar actos en los que se demuestre un alto valor, espíritu de cuerpo o
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>ARTICULO 42.- Las propuestas para ascensos en los casos mencionados en el artículo anterior,
 serán formuladas por el Mando de quien dependa el personal considerado, fundamentando las causas
@@ -761,22 +754,22 @@ que las justifiquen.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>ARTICULO 43.- La Jefatura de Operaciones Navales efectuará el estudio para determinar la
 procedencia de la propuesta a que se refieren los artículos 38 y 42 de la presente Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Artículo reformado DOF 17-12-2025</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>ARTICULO 44.- Para ascender por méritos especiales, no se requiere que el personal reúna los
 requisitos establecidos para el ascenso en tiempo de paz.</p>
@@ -820,9 +813,9 @@ independientemente de los años de servicio y años en el grado que haya cumplid
               <p>Artículo adicionado DOF 01-06-2011</p>
             </note>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>ARTICULO 45.- El grado que ostente el personal de la milicia permanente será acreditado con la
 expedición del despacho correspondiente y a falta de éste, con el documento oficial por el que se haya
@@ -830,13 +823,13 @@ comunicado el ascenso al grado respectivo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>ARTICULO 46.- En los despachos se harán constar los datos siguientes:
 I.- Nombre, apellidos paterno y materno;
@@ -847,26 +840,26 @@ IV.- Cuerpo o Servicio al que pertenezca, y
 V.- Pertenencia a la milicia permanente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>ARTICULO 47.- Los despachos del personal de Almirantes y de Capitanes de Navío serán legalizados
 con las firmas del Mando Supremo y del Alto Mando y llevarán el gran sello de la Nación.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>ARTICULO 48.- Los despachos del personal con el grado de Capitán de Corbeta y Fragata, así como
 de la categoría de Oficiales, serán legalizados con las firmas del Alto Mando y de las personas servidoras
@@ -874,26 +867,26 @@ públicas de las unidades administrativas correspondientes.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>ARTICULO 49.- El grado que ostente el personal de la milicia auxiliar, será acreditado por el
 nombramiento que se les expida, firmado por el Alto Mando.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>ARTICULO 50.- En los nombramientos se harán constar los datos siguientes:
 I.- Nombre, apellidos paterno y materno;
@@ -904,13 +897,13 @@ IV.- Cuerpo o Servicio a que pertenezca, y
 V.- Pertenencia a la milicia auxiliar.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>ARTICULO 51.- En ningún caso serán conferidos ascensos al personal de la Armada de México que
 se encuentre en alguna de las siguientes situaciones:
@@ -931,22 +924,22 @@ X.- Suspenso en sus derechos escalafonarios para fines de ascenso determinado po
 disciplinario.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Fracción reformada DOF 12-06-2009</p>
             </note>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Fracción reformada DOF 16-04-2009</p>
             </note>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Fracción reformada DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>ARTICULO 52.- El personal naval podrá interponer el recurso de inconformidad ante la Junta Naval
 por sentirse afectado en sus derechos, por exclusión del concurso de selección para ascenso o por
@@ -954,13 +947,13 @@ postergación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Artículo reformado DOF 17-12-2025</p>
             </note>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>ARTICULO 53.- El personal de la Armada de México tendrá un plazo de 30 días naturales siguientes
 a la fecha de recepción del documento por el que se le comunique la exclusión o la postergación, para
@@ -969,9 +962,9 @@ inconformidad se sujetará a lo dispuesto en las disposiciones reglamentarias qu
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>ARTICULO 54.- En caso de procedencia del recurso de inconformidad por exclusión, el Alto Mando
 ordenará que se incluya al personal interesado en el proceso de selección, debiendo realizar las
@@ -984,13 +977,13 @@ de la presente Ley.
 , 17-12-2025</p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Artículo reformado DOF 27-08-2010</p>
             </note>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>ARTICULO 55.- En caso de procedencia de la inconformidad por postergación, se ordenará el
 ascenso del personal postergado quien no perderá su antigüedad, ni su lugar escalafonario
@@ -999,13 +992,13 @@ que haya dejado de recibir.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Artículo reformado DOF 17-12-2025</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>ARTICULO 56.- Cuando la Junta Naval emita dictamen de no procedencia, se le hará comunicación
 debidamente fundada y motivada al personal que se inconformó, si persistiera la inconformidad, la
@@ -1103,10 +1096,27 @@ VIII; y 54, así como la denominación del Capítulo VI del Título Segundo y se
 del artículo 4o.; artículo 7o.; párrafos segundo y tercero, del artículo 15; Apartados a), b), c), d) y e) de la
 fracción II del artículo 34, a de la Ley de Ascensos de la Armada de México, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-56." placement="bottom">
+              <p>Artículo reformado DOF 17-12-2025</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente
 Decreto.
 México, D. F., a 27 de abril de 2010.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Francisco
 Javier Ramírez Acuña, Presidente.- Sen. Adrian Rivera Perez, Secretario.- Dip. Georgina Trujillo
@@ -1150,10 +1160,24 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2011
 ARTÍCULO SEGUNDO.- Se adiciona un artículo 44 Bis a la Ley de Ascensos de la Armada de
 México, para quedar como sigue:
 ……….
-Transitorios
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- El Presidente de la República podrá conferir ascensos post mortem que estén motivados
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- El Presidente de la República podrá conferir ascensos post mortem que estén motivados
 por actos realizados con anterioridad a la entrada del presente Decreto, con sujeción a las disposiciones
 del mismo.
 México, D. F., a 27 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge
@@ -1177,16 +1201,44 @@ primero y fracción IV; 21; 32, fracción III; 33, fracción III; 34, párrafo p
 primero; 43; 44 Bis, párrafos primero y cuarto; 47; 48; 52; 54; 55 y 56 y se adiciona al artículo 54, un
 párrafo segundo, de la Ley de Ascensos de la Armada de México, para quedar como sigue:
 …….
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Ejecutivo Federal expedirá las modificaciones del Reglamento de la presente Ley y
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El Ejecutivo Federal expedirá las modificaciones del Reglamento de la presente Ley y
 demás disposiciones administrativas que resulten necesarias para el cumplimiento del presente Decreto,
-en un plazo que no excederá de 180 días naturales, contados a partir del día siguiente de su publicación.
-Tercero.- Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con
+en un plazo que no excederá de 180 días naturales, contados a partir del día siguiente de su publicación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con
 cargo al presupuesto aprobado de la Secretaría de Marina, por lo que no se autorizarán ampliaciones
-líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
-Cuarto.- Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto,
+líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto,
 relacionados con las modificaciones a los preceptos legales contemplados en la misma, se resolverán de
 conformidad con las disposiciones que les dieron origen.
 Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura
@@ -1200,9 +1252,6 @@ Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 18 de 18</p>
               </content>
             </paragraph>
-            <note placementBase="#art-56" placement="bottom">
-              <p>Artículo reformado DOF 17-12-2025</p>
-            </note>
           </article>
           <article id="trans-1">
             <num>PRIMERO</num>

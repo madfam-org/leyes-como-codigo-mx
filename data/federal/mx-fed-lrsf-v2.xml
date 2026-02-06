@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1995-05-12/lrsf/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1995-05-12/lrsf/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -58,9 +58,9 @@
       </chapter>
       <chapter id="chapter-11">
         <num>Capítulo XI De las sanciones</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es de orden público y de observancia en todo el territorio nacional, y tiene
 por objeto regular la construcción, operación, explotación, conservación, mantenimiento y garantía de
@@ -75,13 +75,13 @@ servicio público de transporte ferroviario.
 , 16-07-2025</p>
             </content>
           </paragraph>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Para los efectos de esta Ley, se entenderá por:
 I. Agencia: La Agencia de Trenes y Transporte Público Integrado; organismo
@@ -180,43 +180,43 @@ encuentren en los patios que, a su vez, sean indispensables para la operación.
 Fracción recorrida DOF 26-01-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. Las vías férreas son vías generales de comunicación cuando:
 I. Comuniquen entre sí a dos o más entidades federativas;
@@ -231,9 +231,9 @@ control de tráfico y las señales para la operación ferroviaria.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. Son de jurisdicción federal las vías generales de comunicación ferroviaria, el servicio
 público de transporte ferroviario que en ellas opera y sus servicios auxiliares, las denuncias o querellas
@@ -252,13 +252,13 @@ En todo caso, las autoridades que conozcan de las controversias proveerán lo ne
 se interrumpa la prestación del servicio público de transporte ferroviario.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Párrafo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. A falta de disposición expresa en esta Ley o en los tratados internacionales aplicables, se
 aplicarán:
@@ -269,13 +269,13 @@ IV. Los códigos de Comercio; Civil Federal; y Nacional de Procedimientos Civile
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 14-11-2025</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Corresponde a la Secretaría, en materia de servicio ferroviario, el ejercicio de las
 atribuciones siguientes:
@@ -293,16 +293,16 @@ servicio podrá otorgarse mediante asignación o concesión.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
@@ -550,9 +550,9 @@ Secretaría de Servicios Parlamentarios</p>
             <p>Artículo adicionado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. Se requiere de concesión o asignación para:
 
@@ -565,31 +565,24 @@ concesión o asignación, y
 
 II. Prestar el servicio público de transporte ferroviario.
 Las concesiones o asignaciones de que trata el presente artículo podrán comprender los permisos
-para prestar Servicios Auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el</p>
-            </content>
-          </paragraph>
-          <note placementBase="#art-7" placement="bottom">
-            <p>Párrafo reformado DOF 16-07-2025</p>
-          </note>
-          <note placementBase="#art-7" placement="bottom">
-            <p>Párrafo reformado DOF 16-07-2025</p>
-          </note>
-        </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
-            <content>
-              <p>artículo 15 de la presente Ley.
+para prestar Servicios Auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el
+artículo 15 de la presente Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
+            <p>Párrafo reformado DOF 16-07-2025</p>
+          </note>
+          <note placementBase="#art-7." placement="bottom">
+            <p>Párrafo reformado DOF 16-07-2025</p>
+          </note>
+          <note placementBase="#art-7." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. Las vías generales de comunicación ferroviaria se mantendrán en todo momento dentro
 del dominio público de la Federación. Las Vías férreas que se construyan al amparo de una concesión o
@@ -598,7 +591,7 @@ condiciones y plazo de la concesión o asignación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
@@ -647,9 +640,9 @@ dichas contraprestaciones.
             <p>Artículo adicionado DOF 08-06-2016</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. Las concesiones a que se refiere este capítulo se otorgarán mediante licitación pública,
 conforme a lo siguiente:
@@ -714,31 +707,31 @@ licitación. En estos casos, se declarará desierta la licitación y podrá expe
 convocatoria.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. La Secretaría podrá otorgar asignaciones a los estados, municipios y entidades
 paraestatales de la Administración Pública Federal, sin sujetarse al procedimiento de licitación a que se
@@ -754,16 +747,16 @@ interés general, interés social o razones de seguridad nacional que lo justifi
 . Reformado DOF 16-07-2025</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo adicionado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Párrafo adicionado DOF 03-05-2023</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Las concesiones se otorgarán hasta por un plazo de 50 años, y podrán ser prorrogadas,
 en una o varias ocasiones, hasta por un plazo que en total no exceda de 50 años, siempre que el
@@ -783,9 +776,9 @@ respectivos y demás disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. El título de concesión o asignación deberá contener, como mínimo, lo siguiente:
 
@@ -813,31 +806,31 @@ concesionaria o asignataria, y
 IX. En su caso, forma de pago de las contraprestaciones.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Inciso reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Inciso reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Inciso reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. Los bienes muebles concesionados o asignados en los términos de esta ley, podrán
 enajenarse cuando en razón de su uso o características hayan sido sustituidos, tales como rieles,
@@ -855,13 +848,13 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. Las vías férreas, el derecho de vía, los centros de control de tráfico, las señales de
 operación ferroviaria y los demás bienes que se hubieren concesionado o asignado, al terminar la
@@ -875,13 +868,13 @@ Sección Segunda
 De los permisos</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. Se requiere permiso para:
 I. Prestar los servicios auxiliares a que se refiere el artículo 44 de esta Ley;
@@ -909,22 +902,22 @@ y V del presente artículo.
 Reforma DOF 26-01-2015: Derogó del artículo el entonces párrafo segundo</p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. Los permisos a que se refiere el artículo anterior se otorgarán previo cumplimiento de los
 requisitos exigidos; por los plazos y con las condiciones que establezca el Reglamento del Servicio
@@ -941,13 +934,13 @@ Sección Tercera
 Disposiciones comunes</p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Las concesiones sólo se otorgarán a personas morales mexicanas.
 La inversión extranjera podrá participar hasta el cuarenta y nueve por ciento en el capital social de las
@@ -964,9 +957,9 @@ Los permisos sólo se otorgarán a personas físicas o morales mexicanas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. La Secretaría tratándose de concesiones y la Agencia de permisos, autorizarán, dentro
 de un plazo de 90 días naturales, contados a partir de la presentación de la solicitud, la cesión total o
@@ -978,13 +971,13 @@ anterior, deberán dar aviso a la autoridad competente en materia de competencia
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. Los concesionarios o permisionarios en ningún caso podrán ceder, ni en forma alguna
 gravar, transferir o enajenar la concesión o el permiso, los derechos en ellos conferidos, así como los
@@ -992,9 +985,9 @@ bienes afectos a la concesión, a ningún gobierno o Estado extranjero.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. Las concesiones y permisos, según sea el caso, terminan por:
 I. Vencimiento del plazo establecido en la concesión o el permiso o las prórrogas que se hubieren
@@ -1009,9 +1002,9 @@ durante su vigencia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
 13 de 42
@@ -1079,55 +1072,55 @@ previstas en dichas fracciones.
 Reforma DOF 26-01-2015: Derogó del artículo el entonces párrafo cuarto</p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Párrafo reformado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Párrafo adicionado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Párrafo reformado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Párrafo adicionado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado
 para obtener, directa o indirectamente, otra concesión o permiso de los contemplados en la presente Ley,
@@ -1136,9 +1129,9 @@ respectiva.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. Para atender necesidades derivadas de caso fortuito o de fuerza mayor, la Secretaría
 estará facultada para imponer modalidades en la operación y explotación de las vías férreas y en la
@@ -1148,9 +1141,9 @@ afectación habida en virtud de la modalidad impuesta.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. Los servicios ferroviarios se prestarán a todos los usuarios solicitantes de manera
 permanente, uniforme y en condiciones equitativas en cuanto a oportunidad, calidad y precio.
@@ -1173,19 +1166,19 @@ IV. Las demás causas que se establezcan en la presente Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. Es de utilidad pública la construcción, conservación y mantenimiento de las vías férreas.
 La Secretaría, a petición de la Agencia o por cuenta de las personas interesadas, concesionarias o
@@ -1198,26 +1191,26 @@ utilizados para la construcción, conservación y mantenimiento de las vías fé
 correspondientes, conforme a las disposiciones legales aplicables.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. Las personas concesionarias y asignatarias de vías férreas contarán con centros de
 control de tráfico, los que se deberán establecer dentro del territorio nacional.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. Para realizar trabajos de construcción o reconstrucción en las vías generales de
 comunicación ferroviarias, la persona interesada deberá:
@@ -1247,16 +1240,16 @@ solicitarse una nueva cuando existan cambios de acuerdo a las necesidades propia
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Párrafo adicionado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. Los concesionarios realizarán la conservación y el mantenimiento de la vía general de
 comunicación ferroviaria con la periodicidad y las especificaciones técnicas que al efecto establezcan los
@@ -1269,9 +1262,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. Si la persona concesionaria o asignataria no opera, mantiene o conserva las vías férreas
 en buen estado, en términos de la presente Ley, la Agencia podrá nombrar un verificador especial por el
@@ -1280,13 +1273,13 @@ por tal verificación serán por cuenta de la persona concesionaria o asignatari
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Toda obra que se requiera para la prestación del servicio ferroviario dentro de los límites
 de un centro de población, deberá cumplir con lo dispuesto en la legislación, programas y zonificación en
@@ -1298,13 +1291,13 @@ eviten el paso por las poblaciones.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. Las obras de construcción y mantenimiento de los cruzamientos de vías férreas se harán
 por cuenta de la persona operadora de la vía u obra que cruce a la ya establecida, previo cumplimiento
@@ -1320,7 +1313,7 @@ vía u obra que cruce a la establecida con anterioridad.
 , 16-07-2025</p>
             </content>
           </paragraph>
-          <note placementBase="#art-31" placement="bottom">
+          <note placementBase="#art-31." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
@@ -1360,9 +1353,9 @@ vía u obra que cruce a la establecida con anterioridad.
             <p>Artículo adicionado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32. En los terrenos adyacentes a las vías generales de comunicación materia de esta Ley,
 hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse obras o
@@ -1370,13 +1363,13 @@ industrias que requieran el empleo de explosivos, salvo previa autorización exp
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33. La Agencia, en coordinación con la autoridad municipal correspondiente, de acuerdo a lo
 previsto en la legislación aplicable, podrá requerir que los predios colindantes a las vías férreas, se
@@ -1384,13 +1377,13 @@ cerquen o delimiten, según se requiera, respecto del derecho de vía, por razon
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34. Se requiere autorización de la Agencia para la instalación de líneas de transmisión
 eléctrica, fibra óptica, postes, cercas, ductos de petróleo o sus derivados, o cualquiera otra obra
@@ -1414,19 +1407,19 @@ Las obras o instalaciones a que se refiere este artículo no deberán perjudicar
 público de transporte ferroviario o las instalaciones de las vías férreas.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35. Las personas concesionarias o asignatarias, a cambio de una contraprestación
 previamente convenida, deberán prestar a otras personas concesionarias o asignatarias los servicios de
@@ -1445,13 +1438,13 @@ de los convenios que celebren en términos del presente artículo.
 , 16-07-2025</p>
             </content>
           </paragraph>
-          <note placementBase="#art-35" placement="bottom">
+          <note placementBase="#art-35." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36. Las personas concesionarias y asignatarias deberán permitir la interconexión en su
 modalidad de derechos de paso obligatorios: (i) estipulados en los títulos de concesión y asignación; (ii)
@@ -1470,13 +1463,13 @@ concesionaria o asignataria.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-36" placement="bottom">
+          <note placementBase="#art-36." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-36" placement="bottom">
+          <note placementBase="#art-36." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-36" placement="bottom">
+          <note placementBase="#art-36." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
@@ -1521,9 +1514,9 @@ origen o la persona concesionaria o asignataria de destino.
             <p>Artículo adicionado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37. El servicio público de transporte ferroviario podrá ser:
 I. De pasajeros, y
@@ -1531,9 +1524,9 @@ II. De carga.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38. Las personas concesionarias o asignatarias que presten el servicio público de transporte
 ferroviario deberán contar con el equipo adecuado para el tipo de servicio que ejercen y el personal
@@ -1542,13 +1535,13 @@ funcionalidad, de acuerdo con lo dispuesto en esta Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39. El equipo ferroviario deberá cumplir las condiciones de peso, dimensiones, capacidad y
 otras especificaciones; con la verificación técnica de sus condiciones físicas y mecánicas, y obtener la
@@ -1557,9 +1550,9 @@ El equipo tractivo deberá contar con dispositivos de control gráfico o electr�
             </content>
           </paragraph>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40. El personal que opere o auxilie en la operación del equipo ferroviario deberá obtener
 licencia federal ferroviaria que expida la Agencia, y someterse a los exámenes médicos que establezca la
@@ -1569,13 +1562,13 @@ cumpla con lo dispuesto en el párrafo anterior.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41. Las personas concesionarias y asignatarias del servicio público de transporte ferroviario
 tendrán la obligación, de conformidad con la ley de la materia, de proporcionar al personal a que se
@@ -1597,13 +1590,13 @@ asignatarias del servicio público del transporte ferroviario.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42. La concesión y asignación para la prestación del servicio público de transporte ferroviario
 de carga autoriza a sus titulares para realizar el transporte de cualquier tipo de bienes.
@@ -1613,13 +1606,13 @@ circulen en las vías férreas, sin perjuicio de las atribuciones que la ley oto
 Ejecutivo Federal.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43. El Gobierno Federal promoverá la prestación del servicio público de transporte ferroviario
 en las comunidades aisladas que no cuenten con otro medio de transporte al público.
@@ -1633,16 +1626,16 @@ atender de manera adecuada a las personas con discapacidad y a las personas de e
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44. Los permisos que en los términos de esta Ley otorgue la Agencia para la prestación de
 Servicios Auxiliares, serán los siguientes:
@@ -1654,13 +1647,13 @@ IV. Talleres de mantenimiento de equipo ferroviario, y
 V. Centros de abasto para la operación de los equipos.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45. Los permisionarios, en lo conducente, estarán obligados a contar con las instalaciones
 que se requieran para garantizar que los servicios se presten con seguridad, eficiencia, higiene, rapidez y
@@ -1676,9 +1669,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46. Las personas concesionarias, asignatarias y permisionarias fijarán libremente las tarifas,
 en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad,
@@ -1702,13 +1695,13 @@ términos de sus facultades.
 , 24-04-2018, 16-07-2025</p>
             </content>
           </paragraph>
-          <note placementBase="#art-46" placement="bottom">
+          <note placementBase="#art-46." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47. La Agencia deberá establecer bases de regulación tarifaria, por sí o a petición de parte
 afectada, previa resolución de la autoridad facultada en materia de competencia económica que
@@ -1724,19 +1717,19 @@ subsistan las condiciones que la motivaron.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48. El transporte ferroviario internacional es el que se opera de otro país al territorio nacional,
 o viceversa, y se ajustará a los términos y condiciones previstos en los tratados internacionales aplicables
@@ -1744,9 +1737,9 @@ o, en su defecto, a los convenios celebrados entre las empresas ferroviarias par
             </content>
           </paragraph>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>Artículo 49. Los equipos ferroviarios extranjeros que se internen en el territorio nacional deberán
 cumplir con los requisitos de seguridad establecidos por esta Ley.
@@ -1758,9 +1751,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>Artículo 50. Las medidas que adopten las personas concesionarias y asignatarias del servicio público
 de transporte ferroviario de pasajeros, deberán ser suficientes para garantizar la seguridad e integridad
@@ -1772,13 +1765,13 @@ ampare los daños que pudieren ocasionarse a su persona y a su equipaje.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-50" placement="bottom">
+          <note placementBase="#art-50." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>Artículo 51. Las personas concesionarias y asignatarias del servicio público de transporte ferroviario
 de carga son responsables de las pérdidas y daños que sufran los bienes o productos que transporten,
@@ -1795,13 +1788,13 @@ IV. Cuando sean falsas las declaraciones o instrucciones del cargador, del consi
 destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-51" placement="bottom">
+          <note placementBase="#art-51." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>Artículo 52. En los casos en que la persona usuaria del servicio pretenda que la persona
 concesionaria o asignataria responda ante la pérdida o daño que puedan sufrir sus bienes por el precio
@@ -1814,13 +1807,13 @@ a la cantidad equivalente a 15 días de salario mínimo general vigente en el Di
 o la parte proporcional que corresponda tratándose de embarque de menor peso.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-52" placement="bottom">
+          <note placementBase="#art-52." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>Artículo 53. Es obligación de las personas concesionarias y asignatarias del servicio público de
 transporte ferroviario de pasajeros o de carga, en los términos que determine la Agencia, conforme al
@@ -1839,16 +1832,16 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-53" placement="bottom">
+          <note placementBase="#art-53." placement="bottom">
             <p>Párrafo reformado DOF 06-11-2020</p>
           </note>
-          <note placementBase="#art-53" placement="bottom">
+          <note placementBase="#art-53." placement="bottom">
             <p>Artículo reformado DOF 26-01-2015</p>
           </note>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>Artículo 54. El derecho a percibir las indemnizaciones establecidas en este capítulo y la fijación del
 monto se sujetará a las disposiciones del Código Civil para el Distrito Federal en materia común y para
@@ -1857,18 +1850,18 @@ en el artículo 501 de la Ley Federal del Trabajo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>Artículo 55. Las indemnizaciones a que se refiere el presente capítulo, deberán cubrirse en un plazo
 máximo de noventa días naturales, contado a partir de que se presente la reclamación correspondiente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>Artículo 56. En caso de desastre natural, de guerra, de grave alteración del orden público o cuando
 se prevea algún peligro inminente para la seguridad nacional, la paz interior del país o para la economía
@@ -1885,9 +1878,9 @@ de los gastos que se originen por el peritaje.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>Artículo 57. La Agencia verificará el cumplimiento de esta Ley, el Reglamento del Servicio Ferroviario
 y demás disposiciones aplicables. Para tal efecto, las personas concesionarias, asignatarias y
@@ -1901,13 +1894,13 @@ la operación y explotación del servicio ferroviario.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-57" placement="bottom">
+          <note placementBase="#art-57." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>Artículo 58. Las certificaciones de las unidades de verificación establecidas por terceros tendrán
 validez cuando dichas unidades hayan sido previamente autorizadas por la Agencia en términos de lo
@@ -1918,13 +1911,13 @@ capacitado para que realicen por sí la verificación físico-mecánica de su eq
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>Artículo 59. Las infracciones a lo dispuesto en la presente ley, serán sancionadas por la Agencia de
 acuerdo con lo siguiente:
@@ -2000,52 +1993,52 @@ cuantías señaladas.
 Reforma DOF 16-07-2025: Derogó del artículo el entonces párrafo tercero</p>
             </content>
           </paragraph>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Párrafo reformado DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción adicionada DOF 26-01-2015</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción adicionada DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>Artículo 60. Las personas que, sin contar con la concesión, asignación o el permiso respectivo
 realicen las obras o instalaciones a que se refieren los artículos 7, fracción I, o 34 de la presente Ley o
@@ -2066,16 +2059,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-60" placement="bottom">
+          <note placementBase="#art-60." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
-          <note placementBase="#art-60" placement="bottom">
+          <note placementBase="#art-60." placement="bottom">
             <p>Párrafo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>Artículo 61. Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la
 responsabilidad civil o penal que resulte, ni de la revocación que proceda de la concesión, asignación o
@@ -2083,29 +2076,60 @@ permiso.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-61" placement="bottom">
+          <note placementBase="#art-61." placement="bottom">
             <p>Artículo reformado DOF 16-07-2025</p>
           </note>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>Artículo 62. Para declarar la revocación de las concesiones, asignaciones y permisos; suspensión de
 servicios; la imposición de las sanciones previstas en esta Ley, así como para la interposición del recurso
 administrativo de revisión, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
-TRANSITORIOS
-Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo. La Secretaría dará trámite a las solicitudes a que se refieren los artículos 9, fracción I y 16,
-segundo párrafo, de la presente Ley, 180 días después de que la misma entre en vigor.
-Tercero. Se derogan:
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-62." placement="bottom">
+            <p>Artículo reformado DOF 16-07-2025</p>
+          </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La Secretaría dará trámite a las solicitudes a que se refieren los artículos 9, fracción I y 16,
+segundo párrafo, de la presente Ley, 180 días después de que la misma entre en vigor.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se derogan:
 I. Los artículos 1, fracción V; 9, fracción I, y del 129 al 145 de la Ley de Vías Generales de
 Comunicación;
 II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y
-III. Todas las disposiciones que se opongan a la presente Ley.
-Cuarto. Ferrocarriles Nacionales de México, organismo público descentralizado, continuará
+III. Todas las disposiciones que se opongan a la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Ferrocarriles Nacionales de México, organismo público descentralizado, continuará
 administrando y operando los ferrocarriles mexicanos al amparo de su Ley Orgánica, hasta en tanto la
 Secretaría, de conformidad con lo previsto en la presente Ley, otorgue concesiones y permisos a terceras
 personas respecto de las vías férreas, el servicio público de transporte ferroviario y los servicios
@@ -2113,15 +2137,36 @@ auxiliares que actualmente opera dicho organismo.
 Lo anterior, en el entendido de que Ferrocarriles Nacionales de México deberá ajustarse a lo
 dispuesto en esta Ley en lo relativo a la construcción, operación, explotación, conservación y
 mantenimiento de vías férreas, la prestación del servicio público de transporte ferroviario y los servicios
-auxiliares.
-Quinto. Las concesiones y permisos que se otorguen con motivo de la presente Ley, no afectarán los
+auxiliares.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Las concesiones y permisos que se otorguen con motivo de la presente Ley, no afectarán los
 derechos de los trabajadores activos, jubilados y pensionados del organismo público descentralizado
 Ferrocarriles Nacionales de México, los que serán respetados conforme a lo establecido en el artículo
-123 constitucional, y a la Ley Federal del Trabajo.
-Sexto. Los titulares de los contratos celebrados con Ferrocarriles Nacionales de México para la
+123 constitucional, y a la Ley Federal del Trabajo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Los titulares de los contratos celebrados con Ferrocarriles Nacionales de México para la
 prestación del servicio de talleres de mantenimiento de equipo ferroviario y de terminales de carga,
-podrán continuar desempeñando sus actividades en los términos y condiciones pactados.
-Séptimo. En tanto se expiden las disposiciones reglamentarias y administrativas a que se refiere la
+podrán continuar desempeñando sus actividades en los términos y condiciones pactados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. En tanto se expiden las disposiciones reglamentarias y administrativas a que se refiere la
 presente Ley, se continuarán aplicando las expedidas en la materia con anterioridad a la vigencia de la
 misma, en lo que no se opongan.
 26 de 42
@@ -2152,29 +2197,78 @@ con las fracciones I, II, III, VI y VII, recorriéndose en su orden las subsecue
 V; 31 Bis; 31 Ter; 31 Quáter; 36 Bis; 36 Ter y 59 con una fracción X, recorriéndose en su orden la
 subsecuente a la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue:
 ..........
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. La Agencia deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 180 días
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La Agencia deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 180 días
 naturales a partir de la entrada en vigor del presente Decreto. La Secretaría a través de la Dirección
 General de Transporte Ferroviario y Multimodal mantendrá a su cargo las facultades que esta Ley le
-otorga a la Agencia hasta en tanto ésta sea creada.
-Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+otorga a la Agencia hasta en tanto ésta sea creada.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Comunicaciones y
 Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su
 presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
 Los recursos humanos, financieros y materiales con los que actualmente cuente la Dirección General
 de Transporte Ferroviario y Multimodal pasarán a formar de la Agencia Reguladora del Transporte
-Ferroviario creada en los términos del presente Decreto.
-Cuarto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones
-correspondientes al Reglamento del Servicio Ferroviario.
-Quinto. La Agencia deberá emitir las reglas de operación del Fondo Nacional de Seguridad para
+Ferroviario creada en los términos del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones
+correspondientes al Reglamento del Servicio Ferroviario.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. La Agencia deberá emitir las reglas de operación del Fondo Nacional de Seguridad para
 Cruces Viales Ferroviarios, con la previa opinión de la Secretaría de Hacienda y Crédito Público, dentro
-de los 180 días naturales siguientes a la fecha de su constitución.
-Sexto. Los compromisos contenidos en los títulos de concesión que no hayan sido cumplidos por los
+de los 180 días naturales siguientes a la fecha de su constitución.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Los compromisos contenidos en los títulos de concesión que no hayan sido cumplidos por los
 actuales concesionarios a juicio de la autoridad competente, tendrán un año para ser solventados. En
-caso contrario se actualizará la causal de revocación a que se refiere el artículo 21 de esta Ley.
-Séptimo. Una vez que la Agencia se encuentre en funciones, los concesionarios deberán: (i) registrar
+caso contrario se actualizará la causal de revocación a que se refiere el artículo 21 de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. Una vez que la Agencia se encuentre en funciones, los concesionarios deberán: (i) registrar
 sus tarifas máximas de flete; y, (ii) proponer para su registro el catálogo de servicios diversos que podrán
 ofrecer a sus usuarios, las reglas de aplicación correspondientes a esos servicios diversos y sus tarifas
 máximas para efectos de lo establecido por el artículo 46 de la presente Ley.
@@ -2187,11 +2281,25 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 En tanto la Agencia registre las tarifas máximas de flete así como los catálogos de servicios diversos,
 junto con sus reglas de aplicación y tarifas, continuarán vigentes las tarifas máximas de flete y los
-servicios diversos y tarifas registrados ante la Secretaría.
-Octavo. La Agencia, dentro de los 60 días naturales siguientes a la fecha de su creación, emitirá los
+servicios diversos y tarifas registrados ante la Secretaría.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. La Agencia, dentro de los 60 días naturales siguientes a la fecha de su creación, emitirá los
 lineamientos en materia de emisiones de ruido y otros contaminantes atribuibles al tránsito ferroviario al
-interior de zonas urbanas o centros de población.
-Noveno. Una vez que la Agencia se encuentre en funciones, requerirá a los concesionarios para que,
+interior de zonas urbanas o centros de población.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Una vez que la Agencia se encuentre en funciones, requerirá a los concesionarios para que,
 en un plazo no mayor a 180 días naturales, entreguen un inventario de las vías cortas o ramales que no
 sean explotadas o se encuentren en desuso. La Agencia verificará el inventario y procederá a establecer
 y ejecutar el mecanismo para, en su caso, reintegrarlas a la Nación.
@@ -2222,13 +2330,34 @@ Publicado en el Diario Oficial de la Federación el 8 de junio de 2016
 Artículo Cuarto.- Se adiciona un artículo 8 Bis a la Ley Reglamentaria del Servicio Ferroviario, para
 quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y
 las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones
-vigentes anteriores a este Decreto.
-Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este
+vigentes anteriores a este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este
 Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
 Ciudad de México, a 26 de abril de 2016.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
 Roberto Gil Zuarth, Presidente.- Dip. Ramón Bañales Arambula, Secretario.- Sen. César Octavio
@@ -2249,10 +2378,24 @@ Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2017
 Artículo Tercero.- Se reforma la fracción VII del artículo 6 Bis de la Ley Reglamentaria del Servicio
 Ferroviario, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 17 de octubre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jorge
 Carlos Ramírez Marín, Presidente.- Sen. Juan Gerardo Flores Ramírez, Secretario.- Dip. María
 Eugenia Ocampo Bedolla, Secretaria.- Rúbricas."
@@ -2305,13 +2448,41 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 ARTÍCULO DÉCIMO. Se reforma el artículo 53, párrafo primero, y se derogan los artículos 2, fracción
 VI; 31 Bis; 31 Ter y 31 Quáter de la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento
-de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento
+de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán
 coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados
 a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la
 Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los
@@ -2334,8 +2505,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se
-refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse
+refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse
 con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para
 extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las
 disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el
@@ -2343,13 +2521,27 @@ primer semestre del ejercicio 2021 se suscriban los convenios de extinción o te
 respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente
 Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo
-a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o
+a su presupuesto autorizado, de conformidad con las disposiciones aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o
 análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a
 cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los
 que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su
-Reglamento.
-Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de
+Reglamento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de
 Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo
 de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la
@@ -2392,8 +2584,15 @@ adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad
 Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos
 derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la
-entrada en vigor de este Decreto.
-Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que
+entrada en vigor de este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que
 correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos
 adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo
 a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la
@@ -2405,22 +2604,57 @@ el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal
 correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de
-este Decreto.
-Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan
+este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan
 diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero
-de 2002.
-Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el
+de 2002.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el
 otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial
 obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su
 presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte
-establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá
+establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá
 reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente
-Decreto, en lo que resulte conducente.
-Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá
+Decreto, en lo que resulte conducente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá
 las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex
-Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados
+Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados
 Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a
 lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser
 destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de
@@ -2429,8 +2663,15 @@ Desarrollo Agrario, Territorial y Urbano.
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo
 para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación
 sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los
 recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el
@@ -2438,8 +2679,15 @@ ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional 
 resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de
 dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado
-en el transitorio Quinto.
-Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso
+en el transitorio Quinto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso
 al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a
 su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos
 de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
@@ -2451,8 +2699,15 @@ realizará las acciones necesarias para concentrar los recursos federales remane
 la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal
-correspondiente.
-Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el
+correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el
 contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética
 para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter
 de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho
@@ -2463,12 +2718,26 @@ transitorio Cuarto del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para
 efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos
 del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados
-en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no
+en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no
 podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o
 análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este
-Decreto y de sus disposiciones transitorias.
-Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo
+Decreto y de sus disposiciones transitorias.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo
 párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural,
 Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de
 su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se
@@ -2479,8 +2748,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente
-Decreto.
-Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de
 Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá
 compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y
@@ -2490,8 +2766,15 @@ obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio
 de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la
 Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir
-las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del
+las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-20">
+          <num>Artículo 20</num>
+          <paragraph id="art-20-para-1">
+            <content>
+              <p>Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del
 FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios,
 para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de
 septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los
@@ -2519,10 +2802,24 @@ Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023
 Artículo Segundo.- Se adiciona un segundo párrafo al artículo 10 de la Ley Reglamentaria del
 Servicio Ferroviario, para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un
 plazo de ciento ochenta días hábiles a partir de su publicación para la adecuación de la normatividad
 aplicable.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro
@@ -2545,8 +2842,15 @@ Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia
 ferroviaria y de armonización normativa.
 Publicado en el Diario Oficial de la Federación el 16 de julio de 2025
 Artículo Primero.- Se reforman los artículos 1; 2, fracciones I, II, III, VII y VIII; 6, fracciones I y II; 6
-Bis, fracciones I, III, V, VII, IX, XIII, XIV, XVI, XVII y XVIII; la denominación del Capítulo II y de la Sección
-Primera; 7, párrafo primero, fracción I, párrafo segundo y su párrafo segundo; 8; 8 Bis, primer párrafo; 9,
+Bis, fracciones I, III, V, VII, IX, XIII, XIV, XVI, XVII y XVIII; la denominación del Capítulo II y de la Sección</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primera; 7, párrafo primero, fracción I, párrafo segundo y su párrafo segundo; 8; 8 Bis, primer párrafo; 9,
 fracciones I, párrafos primero, segundo y tercero, IV, V y VI; 10, actual párrafo segundo; 12, párrafo
 primero, fracciones I, II, incisos a), b) y c), V y VIII; 13; 14; 15, fracciones II y V; 16, párrafo primero; 18;
 21, fracciones IV y XI y párrafos segundo y tercero; 24, párrafos segundo y cuarto; 25, párrafo segundo;
@@ -2563,19 +2867,54 @@ párrafo tercero para convertirse en párrafo cuarto, y un párrafo quinto; al a
 párrafos cuarto, y al artículo 59, las fracciones X Bis y X Ter, y se deroga del artículo 59, el párrafo
 tercero, de la Ley Reglamentaria del Servicio Ferroviario, para quedar como sigue:
 …….
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación.
 Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo
 día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado
-que emita la persona titular del Ejecutivo Federal.
-Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la
+que emita la persona titular del Ejecutivo Federal.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la
 Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado,
-continuarán su trámite y serán resueltos por esta última.
-Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo
-Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
-Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+continuarán su trámite y serán resueltos por esta última.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo
+Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura,
 Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no
 incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
@@ -2583,8 +2922,15 @@ incrementará su presupuesto regularizable en el ejercicio fiscal en el que entr
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones
 correspondientes al Reglamento del Servicio Ferroviario.
 Ciudad de México, a 26 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
 Gerardo Fernández Noroña, Presidente.- Dip. José Luis Montalvo Luna, Secretario.- Sen. Lizeth Sánchez
@@ -2606,10 +2952,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Sexagésimo Octavo.- Se reforma la fracción IV del artículo 5 de la Ley Reglamentaria del
 Servicio Ferroviario, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -2619,14 +2979,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario
@@ -2647,9 +3021,6 @@ Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 42 de 42</p>
             </content>
           </paragraph>
-          <note placementBase="#art-62" placement="bottom">
-            <p>Artículo reformado DOF 16-07-2025</p>
-          </note>
         </article>
         <article id="trans-1">
           <num>Primero</num>

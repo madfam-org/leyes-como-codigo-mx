@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2016-04-27/ldfefm/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2016-04-27/ldfefm/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -66,9 +66,9 @@
         </chapter>
         <chapter id="chapter-8">
           <num>CAPÍTULO VI Del Registro Público Único</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley es de orden público y tiene como objeto establecer los criterios generales
 de responsabilidad hacendaria y financiera que regirán a las Entidades Federativas y los Municipios, así
@@ -83,9 +83,9 @@ la normatividad contable aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- Para efectos de esta Ley, en singular o plural, se entenderá por:
 1 de 34
@@ -248,22 +248,22 @@ Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egre
 Federación.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 10-05-2022</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- A falta de disposición expresa en esta Ley, se aplicarán supletoriamente la Ley Federal
 de Presupuesto y Responsabilidad Hacendaria, la Ley General de Contabilidad Gubernamental y la Ley
@@ -271,9 +271,9 @@ de Coordinación Fiscal; y se estará a la interpretación de la Secretaría par
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- El Consejo Nacional de Armonización Contable, en los términos de la Ley General de
 Contabilidad Gubernamental, emitirá las normas contables necesarias para asegurar su congruencia con
@@ -282,9 +282,9 @@ información financiera referida en la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- Las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos de
 las Entidades Federativas se deberán elaborar conforme a lo establecido en la legislación local aplicable,
@@ -331,16 +331,16 @@ distribución realizada en ejercicios fiscales anteriores.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- El Gasto total propuesto por el Ejecutivo de la Entidad Federativa en el proyecto de
 Presupuesto de Egresos, aquél que apruebe la Legislatura local y el que se ejerza en el año fiscal,
@@ -351,15 +351,8 @@ sea mayor o igual a cero. Igualmente, el Balance presupuestario de recursos disp
 cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o
 igual a cero. El Financiamiento Neto que, en su caso se contrate por parte de la Entidad Federativa y se
 utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro
-del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
-              <content>
-                <p>artículo 46 de esta Ley.
+del Techo de Financiamiento Neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el
+artículo 46 de esta Ley.
 Debido a razones excepcionales, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos
 podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo
 de la Entidad Federativa, deberá dar cuenta a la Legislatura local de los siguientes aspectos:
@@ -387,9 +380,9 @@ Federativa deberá dar cumplimiento a lo previsto en la fracción III y el párr
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- Se podrá incurrir en un Balance presupuestario de recursos disponibles negativo cuando:
 I. Se presente una caída en el Producto Interno Bruto nacional en términos reales, y lo anterior origine
@@ -408,9 +401,9 @@ supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- Toda propuesta de aumento o creación de gasto del Presupuesto de Egresos, deberá
 acompañarse con la correspondiente fuente de ingresos distinta al Financiamiento, o compensarse con
@@ -422,13 +415,13 @@ pública y en los informes que periódicamente entreguen a la Legislatura local,
 la que se haya pagado el nuevo gasto, distinguiendo el Gasto etiquetado y no etiquetado.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- El Presupuesto de Egresos de las Entidades Federativas deberá prever recursos para
 atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por
@@ -459,9 +452,9 @@ establecido en las reglas de operación del Fondo para la Prevención de Desastr
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- En materia de servicios personales, las entidades federativas observarán lo siguiente:
 I. La asignación global de recursos para servicios personales que se apruebe en el Presupuesto de
@@ -495,9 +488,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- Las Entidades Federativas deberán considerar en sus correspondientes Presupuestos
 de Egresos, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se
@@ -508,9 +501,9 @@ el artículo 4, fracción IV de la Ley de Asociaciones Público Privadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de
 Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales de la respectiva
@@ -518,9 +511,9 @@ Entidad Federativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Una vez aprobado el Presupuesto de Egresos, para el ejercicio del gasto, las Entidades
 Federativas deberán observar las disposiciones siguientes:
@@ -577,24 +570,17 @@ oficiales de Internet de las secretarías de finanzas o sus equivalentes de los 
 VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con
 base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y
 que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre
-del ejercicio. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el</p>
+del ejercicio. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el
+artículo 17 de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Párrafo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
-              <content>
-                <p>artículo 17 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Los Ingresos excedentes derivados de Ingresos de libre disposición de las Entidades
 Federativas, deberán ser destinados a los siguientes conceptos:
@@ -633,19 +619,19 @@ términos de las leyes, no resultarán aplicables las disposiciones establecidas
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de
 Ingresos, el Ejecutivo de la Entidad Federativa, por conducto de la secretaría de finanzas o su
@@ -663,9 +649,9 @@ programas sociales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- El Ejecutivo de la Entidad Federativa, por conducto de la secretaría de finanzas o su
 equivalente, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que
@@ -680,13 +666,13 @@ realizará en el marco del principio de balance presupuestario sostenible, por l
 capacidad financiera de la Entidad Federativa.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Párrafo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- Las Entidades Federativas, a más tardar el 15 de enero de cada año, deberán reintegrar
 a la Tesorería de la Federación las Transferencias federales etiquetadas que, al 31 de diciembre del
@@ -709,9 +695,9 @@ fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- Las iniciativas de las Leyes de Ingresos y los proyectos de Presupuestos de Egresos de
 los Municipios se deberán elaborar conforme a lo establecido en la legislación local aplicable, en la Ley
@@ -753,9 +739,9 @@ para cumplir lo previsto en este artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- El Gasto total propuesto por el Ayuntamiento del Municipio en el proyecto de
 Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al Balance
@@ -770,21 +756,14 @@ disponibles sostenible, deberá estar dentro del Techo de Financiamiento Neto qu
 del Sistema de Alertas, de acuerdo con el artículo 46 de esta Ley.
 Debido a las razones excepcionales a que se refiere el artículo 7 de esta Ley, la Legislatura local
 podrá aprobar un Balance presupuestario de recursos disponibles negativo para el Municipio respectivo.
-Para tal efecto, el tesorero municipal o su equivalente, será responsable de cumplir lo previsto en el</p>
+Para tal efecto, el tesorero municipal o su equivalente, será responsable de cumplir lo previsto en el
+artículo 6, párrafos tercero a quinto de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
-              <content>
-                <p>artículo 6, párrafos tercero a quinto de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el proyecto
 de Presupuesto de Egresos, podrán ser hasta por el 2.5 por ciento de los Ingresos totales del respectivo
@@ -792,9 +771,9 @@ Municipio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Los Municipios y sus Entes Públicos deberán observar las disposiciones establecidas en
 los artículos 8, 10, 11, 14, 15 y 17 de esta Ley.
@@ -807,9 +786,9 @@ municipales competentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- Los Entes Públicos no podrán contraer, directa o indirectamente, Financiamientos u
 Obligaciones con gobiernos de otras naciones, con sociedades o particulares extranjeros, ni cuando
@@ -837,16 +816,16 @@ lineamientos aplicables, así como por la Ley de Coordinación Fiscal.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Párrafo adicionado DOF 10-05-2022</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Párrafo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- La Legislatura local, por el voto de las dos terceras partes de sus miembros presentes,
 autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el
@@ -858,15 +837,8 @@ cuyo caso, estará obligado al cumplimiento de lo establecido en el Capítulo II
 Las operaciones de Refinanciamiento o Reestructura no requerirán autorización específica de la
 Legislatura local, siempre y cuando cumplan con las siguientes condiciones:
 I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar
-fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
-              <content>
-                <p>artículo 26, fracción IV de esta Ley, o tratándose de Reestructuraciones exista una mejora en
+fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto por el
+artículo 26, fracción IV de esta Ley, o tratándose de Reestructuraciones exista una mejora en
 las condiciones contractuales;
 II. No se incremente el saldo insoluto, y
 III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, no se otorgue
@@ -881,16 +853,16 @@ Registro Público Único.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Párrafo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- La autorización de los Financiamientos y Obligaciones por parte de la Legislatura local
 deberá especificar por lo menos lo siguiente:
@@ -914,9 +886,9 @@ aplicará lo previsto en el Capítulo III del presente Título.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Los Entes Públicos estarán obligados a contratar los Financiamientos y Obligaciones a
 su cargo bajo las mejores condiciones de mercado.
@@ -929,9 +901,9 @@ mínimo, el importe, tasa, plazo, comisiones y demás accesorios pactados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- El secretario de finanzas, tesorero municipal o su equivalente de cada Ente Público,
 según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento
@@ -995,22 +967,22 @@ aplicará la excepción prevista en el párrafo que antecede.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- En la contratación de Obligaciones que se deriven de arrendamientos financieros o de
 esquemas de Asociaciones Público-Privadas, en lo conducente, los Entes Públicos se sujetarán a lo
@@ -1022,9 +994,9 @@ la legislación aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Tratándose de la contratación de Financiamientos u Obligaciones a través del mercado
 bursátil, el Ente Público deberá fundamentar en el propio documento de colocación, las razones por las
@@ -1046,9 +1018,9 @@ presentación a la Comisión Nacional Bancaria y de Valores, preliminar como def
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- Con excepción de los Financiamientos que se contraten mediante el mercado bursátil,
 cuando la autorización del Financiamiento a que hace referencia el artículo 24 exceda de cien millones de
@@ -1073,13 +1045,13 @@ fracción anterior, a través de medios públicos, incluyendo la página oficial
 Público, publicando el documento en que conste la comparación de las propuestas presentadas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- Las Entidades Federativas y los Municipios podrán contratar Obligaciones a corto plazo
 sin autorización de la Legislatura local, siempre y cuando se cumplan las siguientes condiciones:
@@ -1103,9 +1075,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- Los recursos derivados de las Obligaciones a corto plazo deberán ser destinados
 exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como
@@ -1119,22 +1091,22 @@ conforme a la metodología que para tal efecto emita la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Las Obligaciones a corto plazo a que se refiere el presente Capítulo no podrán ser
 objeto de Refinanciamiento o Reestructura a plazos mayores a un año.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Artículo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- Los Financiamientos de la Ciudad de México se sujetarán a lo siguiente:
 I. Deberán contratarse con apego a lo aprobado por el Congreso de la Unión, en la Ley de Ingresos de
@@ -1193,9 +1165,9 @@ Pública autorizada para el ejercicio fiscal correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- El Ejecutivo Federal, por conducto de la Secretaría, podrá otorgar la garantía del
 Gobierno Federal a las Obligaciones constitutivas de Deuda Pública de los Estados y los Municipios.
@@ -1213,9 +1185,9 @@ Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- En ningún momento, el saldo de la Deuda Estatal Garantizada podrá exceder el 3.5 por
 ciento del Producto Interno Bruto nominal nacional determinado para el ejercicio fiscal anterior por el
@@ -1246,9 +1218,9 @@ estrictamente conforme al orden en que hayan sido presentadas, hasta agotar dich
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- La autorización para celebrar los convenios a que se refiere este Capítulo deberá ser
 emitida por las Legislaturas locales y, en su caso, por los Ayuntamientos. Los convenios deberán ser
@@ -1260,9 +1232,9 @@ Federación respecto a sus Municipios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Los convenios a los que se refiere el presente Capítulo, contendrán como mínimo lo
 siguiente:
@@ -1278,9 +1250,9 @@ locales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Cuando el Estado en cuestión se ubique en un nivel de endeudamiento elevado, según
 el Sistema de Alertas previsto en el siguiente Capítulo del presente Título de esta Ley, el Congreso de la
@@ -1301,9 +1273,9 @@ Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- La totalidad de los convenios que se suscriban por parte de la Federación con los
 Estados, así como los que incluyan a los Municipios que se encuentren en un nivel de endeudamiento
@@ -1314,9 +1286,9 @@ los convenios respectivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- La Secretaría realizará periódicamente la evaluación del cumplimiento de las
 obligaciones específicas de responsabilidad hacendaria a cargo de los Estados; a su vez, los Estados
@@ -1335,9 +1307,9 @@ periódicamente entreguen a la Legislatura local, la información relativa al cu
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- En el caso de que un Estado o Municipio incumpla el convenio respectivo, no podrán
 contratar Deuda Estatal Garantizada adicional y dependiendo del grado de incumplimiento, deberán
@@ -1361,9 +1333,9 @@ derechos adquiridos por terceros en lo que corresponde al Financiamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- El Ejecutivo Federal informará al Congreso de la Unión la Deuda Estatal Garantizada
 otorgada o finiquitada en términos de este Capítulo, a través de los informes trimestrales a que se refiere
@@ -1375,9 +1347,9 @@ en términos del artículo 40 de la presente Ley. Igualmente, enviará un report
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- La Secretaría deberá realizar una evaluación de los Entes Públicos que tengan
 contratados Financiamientos y Obligaciones inscritos en el Registro Público Único, cuya fuente o garantía
@@ -1397,13 +1369,13 @@ mismos Entes Públicos y disponible en el Registro Público Único, por lo que d
 responsable de la validez, veracidad y exactitud de dicha documentación e información.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Párrafo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- La medición del Sistema de Alertas se realizará con base en los siguientes tres
 indicadores:
@@ -1435,13 +1407,13 @@ análisis de las finanzas de los Entes Públicos, podrá publicarlo, sin que ell
 clasificación de los Entes Públicos dentro del Sistema de Alertas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-44" placement="bottom">
+            <note placementBase="#art-44." placement="bottom">
               <p>Fracción reformada DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Los resultados obtenidos de acuerdo con la medición de los indicadores a que hace
 referencia el artículo anterior, serán publicados en el Sistema de Alertas, el cual clasificará a cada uno de
@@ -1452,9 +1424,9 @@ III. Endeudamiento elevado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- De acuerdo a la clasificación del Sistema de Alertas, cada Ente Público tendrá los
 siguientes Techos de Financiamiento Neto:
@@ -1480,9 +1452,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- En caso de que un Ente Público, con excepción del Poder Ejecutivo de la Entidad
 Federativa y de los Municipios, se ubique en un nivel de endeudamiento elevado, deberá firmar un
@@ -1495,13 +1467,13 @@ publicarse a través de las páginas oficiales de Internet del ente responsable 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Artículo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- El Sistema de Alertas será publicado en la página oficial de Internet de la Secretaría de
 manera permanente, debiendo actualizarse de la siguiente manera:
@@ -1515,13 +1487,13 @@ ejercicio fiscal de que se trate.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Artículo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- El Registro Público Único estará a cargo de la Secretaría y tendrá como objeto inscribir y
 transparentar la totalidad de los Financiamientos y Obligaciones a cargo de los Entes Públicos. Los
@@ -1542,9 +1514,9 @@ correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- Para la inscripción, modificación y cancelación de los asientos registrales del Registro
 Público Único se atenderá a lo establecido en esta Ley, a lo que se establezca en el reglamento de dicho
@@ -1560,9 +1532,9 @@ electrónicos, de conformidad con lo que establezca el reglamento de dicho regis
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- Para la inscripción de los Financiamientos y Obligaciones en el Registro Público Único
 se deberá cumplir con lo siguiente:
@@ -1581,13 +1553,13 @@ Financiamientos y Obligaciones de la Entidad Federativa o del Municipio, según 
 III. En el caso de la Ciudad de México se deberá cumplir además con lo previsto en el Capítulo III del</p>
               </content>
             </paragraph>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Párrafo adicionado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- En el Registro Público Único se inscribirán en un apartado específico las Obligaciones
 que se deriven de contratos de Asociaciones Público-Privadas. Para llevar a cabo la inscripción, los
@@ -1597,9 +1569,9 @@ pago de inversión, el plazo del contrato, así como las erogaciones pendientes 
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- La disposición o desembolso del Financiamiento u Obligación a cargo de los Entes
 Públicos estará condicionada a la inscripción de los mismos en el Registro Público Único, excepto
@@ -1613,13 +1585,13 @@ valores a efecto de perfeccionar la inscripción.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Artículo reformado DOF 30-01-2018</p>
             </note>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- Para la cancelación de la inscripción en el Registro Público Único de un Financiamiento
 u Obligación, el Ente Público deberá presentar la documentación mediante la cual el acreedor manifieste
@@ -1627,9 +1599,9 @@ que el Financiamiento u Obligación fue liquidado o, en su caso, que no ha sido 
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- La Secretaría podrá solicitar a las Instituciones financieras, por conducto de la Comisión
 Nacional Bancaria y de Valores, la información correspondiente a las Obligaciones y Financiamientos de
@@ -1644,9 +1616,9 @@ Ley de Uniones de Crédito; así como 34 y 46 Bis de la Ley de Ahorro y Crédito
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- El Registro Público Único se publicará a través de la página oficial de Internet de la
 Secretaría y se actualizará diariamente. La publicación deberá incluir, al menos, los siguientes datos:
@@ -1669,9 +1641,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Para mantener actualizado el Registro Público Único, las Entidades Federativas deberán
 enviar trimestralmente a la Secretaría, dentro del plazo de 30 días naturales posteriores al término de los
@@ -1680,9 +1652,9 @@ Obligación de la Entidad Federativa y de cada uno de sus Entes Públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- Los Entes Públicos se sujetarán a la Ley General de Contabilidad Gubernamental para
 presentar la información financiera en los informes periódicos correspondientes y en su respectiva
@@ -1693,18 +1665,18 @@ General de Salud, relativas a las Transferencias federales etiquetadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- Los Entes Públicos deberán entregar la información financiera que solicite la Secretaría
 para dar cumplimiento a esta Ley, en los términos de las disposiciones que para tal efecto emita.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- La fiscalización sobre el cumplimiento de lo dispuesto en esta Ley corresponderá a las
 entidades de fiscalización superior de las Entidades Federativas, así como a la Auditoría Superior de la
@@ -1717,9 +1689,9 @@ realizado dichos gobiernos locales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en
 la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con
@@ -1729,9 +1701,9 @@ Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- Los servidores públicos y las personas físicas o morales que causen daño o perjuicio
 estimable en dinero a la hacienda de las Entidades Federativas o de los Municipios, incluyendo en su
@@ -1752,9 +1724,9 @@ privadas en los casos en que hayan participado y originen una responsabilidad.</
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- Las sanciones e indemnizaciones que se determinen por el incumplimiento a las
 disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida,
@@ -1762,9 +1734,9 @@ sujetándose al procedimiento de ejecución que establece la legislación aplica
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- Los funcionarios de las Entidades Federativas y los Municipios informarán a la autoridad
 competente cuando las infracciones a esta Ley impliquen la comisión de una conducta sancionada en los
@@ -1772,9 +1744,9 @@ términos de la legislación penal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigirán con
 independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso,
@@ -1782,23 +1754,65 @@ lleguen a determinarse por las autoridades competentes.
 ARTÍCULO SEGUNDO.- …
 ARTÍCULO TERCERO.- …
 ARTÍCULO CUARTO.- …
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación, salvo por lo previsto en los transitorios siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Las Entidades Federativas y, en su caso, los Municipios realizarán las reformas a las
 leyes, reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este
-Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
-CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
+Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
 hacendaria de las Entidades Federativas a que se refiere el Capítulo I del Título Segundo de la Ley de
 Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del
-ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.
-QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las
+ejercicio fiscal 2017, con las salvedades previstas en los transitorios Quinto al Noveno.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- El porcentaje a que hace referencia el artículo 9 de la Ley de Disciplina Financiera de las
 Entidades Federativas y los Municipios, relativo al nivel de aportación al fideicomiso para realizar
 acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por
 ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del
-año 2020 se observará el porcentaje establecido en el artículo citado.
-SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y
+año 2020 se observará el porcentaje establecido en el artículo citado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y
 los Municipios entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio
 fiscal 2018.
 Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico,
@@ -1812,41 +1826,97 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 Las nuevas leyes federales o reformas a las mismas, a que se refiere el último párrafo de la fracción a
 que se refiere el presente transitorio serán aquéllas que se emitan con posterioridad a la entrada en vigor
-de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
-SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las
+de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- El porcentaje a que hace referencia el artículo 12 de la Ley de Disciplina Financiera de las
 Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior de las
 Entidades Federativas, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento
-para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
-OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el
+para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- El registro de proyectos de Inversión pública productiva de cada entidad federativa y el
 sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 13,
 fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, deberá estar en operación a más tardar el 1o.
-de enero de 2018.
-NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia
+de enero de 2018.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia
 el artículo 14, fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios,
 podrán destinarse a reducir el Balance presupuestario de recursos disponibles negativo de ejercicios
 anteriores, a partir de la entrada en vigor de esta Ley y hasta el ejercicio fiscal 2022.
-Reforma DOF 30-01-2018: Derogó del artículo el entonces párrafo segundo
-DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
+Reforma DOF 30-01-2018: Derogó del artículo el entonces párrafo segundo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad
 hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio
 fiscal 2018, con las salvedades previstas en los transitorios Décimo Primero y los que apliquen de
-acuerdo al artículo 21 de dicha Ley.
-DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina
+acuerdo al artículo 21 de dicha Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO.- El porcentaje a que hace referencia el artículo 20 de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal
 anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5
-por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
-DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las
+por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO.- La Comisión Nacional Bancaria y de Valores publicará las disposiciones a las
 que hace referencia el artículo 28 de la Ley de Disciplina Financiera de las Entidades Federativas y los
-Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
+Municipios, a más tardar a los 180 días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
 Público, no podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda
 pública de Estados y Municipios asumidas entre el 1o. de enero de 2015 y la fecha en la que el Estado
 celebre el convenio referido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las
 Entidades Federativas y los Municipios, salvo que se trate de deuda pública de los Estados y Municipios
 que haya sido contraída para refinanciar o reestructurar deuda pública asumida con anterioridad al 1o. de
-enero de 2015.
-DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
+enero de 2015.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO CUARTO.- El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito
 Público, podrá otorgar la garantía del Gobierno Federal a las obligaciones constitutivas de deuda pública
 de los Estados y Municipios, en términos del Capítulo IV del Título Tercero de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, a partir de los 90 días siguientes a la entrada
@@ -1871,37 +1941,51 @@ Adicionalmente, en tanto entra en operación el Sistema de Alertas en los térmi
 siguiente artículo transitorio, los convenios que se formalicen con la Deuda Estatal Garantizada deberán
 remitirse a la comisión legislativa bicameral para su análisis y opinión correspondiente. Una vez que entre
 en operación el Sistema de Alertas se aplicará lo dispuesto en el artículo 38 de la Ley de Disciplina
-Financiera de las Entidades Federativas y los Municipios.
-DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley
+Financiera de las Entidades Federativas y los Municipios.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO QUINTO.- El Sistema de Alertas a que se refiere el Capítulo V del Título Tercero de la Ley
 de Disciplina Financiera de las Entidades Federativas y los Municipios entrará en operación, a más tardar
 el 1o. de abril de 2017.
 El Ejecutivo Federal deberá emitir el reglamento a que se refiere el Capítulo citado en el párrafo
-anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina
+anterior, a más tardar 180 días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEXTO.- En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina
 Financiera de las Entidades Federativas y los Municipios, se ubiquen en un endeudamiento elevado
 conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia los artículos
-34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el</p>
+34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el
+artículo 46 de la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
               <content>
-                <p>artículo 46 de la misma.
-DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de
+                <p>DÉCIMO SÉPTIMO.- Los recursos que sean otorgados a los Entes Públicos a través del esquema de
 los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN,
-quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el</p>
+quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el
+artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo
+dispuesto en dicho programa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
               <content>
-                <p>artículo 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y estarán a lo
-dispuesto en dicho programa.
-DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la
+                <p>DÉCIMO OCTAVO.- El Registro Público Único a que se refiere el Capítulo VI del Título Tercero de la
 Ley de Disciplina Financiera de las Entidades Federativas y los Municipios sustituirá al Registro de
 Obligaciones y Empréstitos de Entidades y Municipios y entrará en operación, a más tardar el 1o. de abril
 de 2017.
@@ -1912,8 +1996,15 @@ anterioridad a la entrada en vigor del Registro Público Único, se llevarán a 
 disposiciones vigentes en la fecha de inicio del trámite.
 Las referencias al Registro de Obligaciones y Empréstitos de Entidades y Municipios en las leyes y
 disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro
-Público Único.
-DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la
+Público Único.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO NOVENO.- Las obligaciones establecidas en los Capítulos I, II y III del Título Tercero de la
 Ley de Disciplina Financiera de las Entidades Federativas y los Municipios relacionados con el Registro
 30 de 34
 LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS
@@ -1961,15 +2052,36 @@ adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal,
 Pública y General de Contabilidad Gubernamental”, publicado en el Diario Oficial de la Federación el 27
 de abril de 2016, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Los Entes Públicos con Financiamientos u Obligaciones contraídos con anterioridad a la
 entrada en operación del Registro Público Único, deberán solicitar su inscripción ante dicho Registro para
 lo cual contarán con un plazo de seis meses contado a partir de la publicación de este Decreto, para lo
 cual los Entes Públicos deberán acreditar que se cumplieron los requisitos aplicables de la normatividad
-vigente en el momento de su contratación.
-Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la
+vigente en el momento de su contratación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- La Secretaría de Hacienda y Crédito Público, publicará en su página oficial de Internet la
 medición inicial del Sistema de Alertas para Municipios a más tardar el último día hábil de julio de 2018,
 con base en la información de su Cuenta Pública 2017. Esta medición determinará el Techo de
 Financiamiento Neto al cual podrán acceder durante el ejercicio fiscal 2019.
@@ -1977,8 +2089,15 @@ En el caso de los Entes Públicos distintos a la administración pública centra
 Federativas y los Municipios, la Secretaría publicará en su página oficial de Internet la medición inicial del
 Sistema de Alertas a más tardar el último día hábil de agosto de 2019, con base en la información de su
 Cuenta Pública 2018. Esta medición determinará el Techo de Financiamiento Neto al cual podrán
-acceder durante el ejercicio fiscal 2020.
-Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera
+acceder durante el ejercicio fiscal 2020.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- En lo correspondiente al segundo párrafo del artículo 14 de la Ley de Disciplina Financiera
 de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a Gasto corriente hasta
 el ejercicio fiscal 2018 los Ingresos excedentes derivados de Ingresos de libre disposición, siempre y
 cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al
@@ -2014,10 +2133,24 @@ Artículo Único.- Se adicionan los artículos 2, con una fracción XIII Bis; y,
 recorriéndose los subsecuentes, de la Ley de Disciplina Financiera de las Entidades Federativas y los
 Municipios, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del
 presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo
 dispuesto en el presente Decreto.
 Ciudad de México, a 5 de abril de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2007-06-15/lfpccs_110518/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2007-06-15/lfpccs_110518/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -55,9 +55,9 @@
       </chapter>
       <chapter id="chapter-10">
         <num>CAPÍTULO X 1 5 d</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- Se expide la presente Ley de conformidad con el artículo 27, fracción XX, de la
 Constitución Política de los Estados Unidos Mexicanos y con lo que se establece en el Título III, Capítulo
@@ -126,9 +126,9 @@ s de la Federación y a las disposiciones de la Ley Federal de Presupuesto y
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- La aplicación de esta Ley corresponde al Ejecutivo Federal, por conducto de la Secretaría
 de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y tiene por objeto regular:
@@ -149,9 +149,9 @@ dV</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Para los efectos de esta Ley, se entiende por:
 e
@@ -307,9 +307,9 @@ resultado de sus prácticas, usos y costumbres.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- La Secretaría tendrá las siguientes atribuciones:
 I. Celebrar convenios o acuerdos de coordinación con otras dependencias y entidades de la
@@ -376,13 +376,13 @@ decisiones de los agentes representados en el Sistema y el diseño de políticas
 XIV. Las demás que señalen esta Ley y su Reglamento.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 11-05-2018</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- El SNICS tendrá las siguientes atribuciones específicas:
 I. Otorgar la inscripción a personas físicas o morales como mantenedores, previo cumplimiento de los
@@ -468,9 +468,9 @@ correspondientes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- Las personas que lleven a cabo actividades con organismos genéticamente modificados
 deberán acatar las disposiciones de esta Ley que les sean aplicables además de cumplir con lo que
@@ -478,9 +478,9 @@ dispone la Ley en la materia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- Se crea el Sistema Nacional de Semillas, con objeto de articular la concurrencia, S e
 c
@@ -514,9 +514,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- Las funciones del Sistema serán:
 I. Promover la concurrencia y participación de los sectores, ramas, grupos y agentes económicos,
@@ -560,9 +560,9 @@ IX. Las demás que le confieran la presente Ley y otras disposiciones legales ap
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- El Sistema se integrará por 16 representantes titulares con su respectivo suplente con
 derecho a voz y voto de cada una de las siguientes dependencias, instituciones y organizaciones: (P
@@ -612,9 +612,9 @@ operación que para tal efecto emita la Secretaría.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Las sesiones que celebre el Sistema serán ordinarias o extraordinarias. Las sesiones
 ordinarias se llevarán a cabo cuando menos cuatro veces al año en forma trimestral y las extraordinarias
@@ -635,9 +635,9 @@ En las reuniones del Sistema podrán asistir invitados quienes podrán participa
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- La Secretaría constituirá el Fondo de Apoyos e Incentivos al Sistema Nacional de
 Semillas como el instrumento financiero para promover programas, acciones y proyectos de
@@ -652,9 +652,9 @@ ra</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- El Fondo de Apoyos e Incentivos será administrado por la Secretaría y operado por el S
 e
@@ -667,9 +667,9 @@ fondos privados o sociales que tengan una relación directa con la producción y
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- El Fondo de Apoyos e Incentivos se podrá integrar con:
 I. Las aportaciones que efectúen los gobiernos federal, estatales, del Distrito Federal y municipales;
@@ -686,9 +686,9 @@ V. Los demás recursos que obtenga por cualquier otro concepto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- La Secretaría, al formular la política y los programas en materia de semillas, considerará
 e
@@ -703,9 +703,9 @@ d</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- El Programa Nacional de Semillas tendrá carácter especial conforme a la Ley de e
 Planeación y establecerá entre otros aspectos, las líneas de política, objetivos, metas, estrategias y
@@ -716,9 +716,9 @@ io</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- La política en materia de semillas tendrá como objetivos:
 I. Promover y fomentar la investigación científica y tecnológica para el mejoramiento y obtención de
@@ -748,9 +748,9 @@ ra</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Los programas, las acciones y las estrategias de la política en materia de semillas S e
 c
@@ -761,9 +761,9 @@ n )</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- La Secretaría de acuerdo con lo dispuesto en el artículo 34 de la Ley de Desarrollo Rural
 Sustentable, en el marco del Sistema Nacional de Investigación y Transferencia Tecnológica para el
@@ -802,13 +802,13 @@ calificación y tecnología de semillas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 11-05-2018</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- Las variedades formadas por las instituciones públicas, podrán ser enajenadas,
 mediante contrato o convenio que les garantice retribución, a aquellas personas físicas o morales que
@@ -819,9 +819,9 @@ R</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- La importación de semillas para fines de investigación, deberá cumplir únicamente con
 IO
@@ -832,18 +832,18 @@ IC</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- El SNICS tendrá a su cargo el Catálogo Nacional de Variedades Vegetales, así como el
 Catálogo de Mantenedores, los cuales publicará anualmente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- La inscripción en el Catálogo Nacional de Variedades Vegetales se establece con fines
 de identificación varietal. Procede la inscripción de una variedad vegetal cuando:
@@ -869,9 +869,9 @@ SNICS.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- La inscripción en el Catálogo Nacional de Variedades Vegetales no confiere protección
 legal sobre los derechos del obtentor de la variedad vegetal, ésta podrá ser solicitada por los interesados
@@ -887,9 +887,9 @@ Consultivos previstos en el artículo 37 del presente ordenamiento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- El Catálogo de Mantenedores tiene por objetivo identificar a las personas físicas o
 morales aprobadas para mantener los caracteres pertinentes de las variedades vegetales. Para la
@@ -920,9 +920,9 @@ IA</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- La calificación de semillas se realizará conforme a los métodos y procedimientos que se IA
 establezcan en las Reglas que expida la Secretaría, el SNICS vigilará su cumplimiento. L
@@ -948,9 +948,9 @@ etiq ueta a que se refiere el artículo 33 de esta Ley.
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- En el caso de variedades vegetales protegidas conforme a la Ley Federal de Variedades
 Vegetales, se deberá contar con el consentimiento del titular del derecho de obtentor para su explotación,
@@ -959,9 +959,9 @@ Vegetales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- La homologación de las categorías de semilla con respecto a los esquemas de
 calificación internacionales o a los aplicados por otros países, será definida y establecida para cada
@@ -974,9 +974,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- En el Reglamento de esta Ley y en las Reglas para cada especie, se establecerán los
 requisitos para la conservación de generaciones de cada categoría, excepto la Certificada. Lo anterior
@@ -984,9 +984,9 @@ será aplicable también a las variedades de uso común.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29.- Para la correcta identificación de las semillas calificadas, deberán ostentar en su envase
 las etiquetas que para tal efecto establezcan las respectivas Normas Oficiales Mexicanas y las Reglas
@@ -998,9 +998,9 @@ rn</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30.- La calificación de semillas podrá ser realizada por: 0 7 e s
 1
@@ -1013,9 +1013,9 @@ los términos de la Ley Federal sobre Metrología y Normalización.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31.- La Secretaría aprobará de conformidad con la Ley Federal sobre Metrología y
 Normalización, a personas morales para operar como organismos de certificación para la calificación de
@@ -1024,9 +1024,9 @@ conformidad con las Normas Oficiales Mexicanas que para tal efecto expida la Sec
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- Los organismos de certificación para la calificación de semillas tendrán las siguientes
 obligaciones:
@@ -1048,9 +1048,9 @@ Mexicanas y a las Reglas a que se refiere esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33.- Para que cualquier semilla de origen nacional o extranjero, pueda ser comercializada o
 ra
@@ -1100,9 +1100,9 @@ Sanidad Vegetal y demás disposiciones que de ella deriven.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34.- Los organismos de certificación que efectúen la calificación de semillas, deberán
 D
@@ -1120,9 +1120,9 @@ Secretaría a través del SNICS.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35.- Para importar semillas con fines de comercialización o puesta en circulación se deberá
 cumplir lo siguiente:
@@ -1147,9 +1147,9 @@ Modificados.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36.- La Secretaría a través del SNICS, podrá verificar y comprobar el cumplimiento de esta
 Ley, su Reglamento, las Normas Oficiales Mexicanas, Normas Mexicanas, Reglas y Guías que de ella
@@ -1159,9 +1159,9 @@ Normalización.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37.- Los Consejos Estatales para el Desarrollo Rural Sustentable, previstos en la Ley de
 Desarrollo Rural Sustentable, promoverán la instalación de Comités Consultivos Regionales o Estatales
@@ -1201,9 +1201,9 @@ operación de estos Comités. L</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38.- Incurre en infracción administrativa a las disposiciones de esta Ley, la persona que:
 I. Comercialice o ponga en circulación cualquier categoría de semillas sin cumplir con lo dispuesto en
@@ -1263,9 +1263,9 @@ O</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39.- Los actos u omisiones contrarios a esta Ley y demás disposiciones que de ella deriven, F
 serán sancionados por la Secretaría a través del SNICS con una o más de las siguientes sanciones:
@@ -1287,9 +1287,9 @@ S</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- El SNICS, al imponer una sanción, la fundará y motivará tomando en cuenta los e
 c
@@ -1317,9 +1317,9 @@ VI. El beneficio directamente obtenido por el infractor.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41.- Las sanciones administrativas previstas en este Capítulo se aplicarán sin perjuicio de la
 responsabilidad civil o penal en que se hubiere incurrido, así como las administrativas que se deriven de dV
@@ -1335,9 +1335,9 @@ s</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42.- Contra los actos de la Secretaría derivados de la aplicación de la presente Ley,
 io
@@ -1345,18 +1345,39 @@ procederá el recurso de revisión. El interesado deberá interponer el recurso,
 responsable, en un término de quince días hábiles, contados a partir de la fecha de la notificación
 respectiva. El recurso se tramitará y substanciará en los términos del Título Sexto de la Ley Federal de
 Procedimiento Administrativo.
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes al de su publicación en el
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes al de su publicación en el
 Diario Oficial de la Federación.
 D
 IA
-R
-SEGUNDO.- El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce IO
+R</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce IO
 meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la O
 contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semillas, publicado F IC
 en el Diario Oficial de la Federación el 26 de mayo de 1993. IA
-L
-TERCERO.- Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas, publicada en el
+L</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas, publicada en el
 Diario Oficial de la Federación el 15 de julio de 1991, así como todas las disposiciones que se opongan a
 la presente Ley. En consecuencia deberá procederse a la liquidación del Organismo Público
 Descentralizado denominado Productora Nacional de Semillas, conforme a lo siguiente:

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2017-01-26/lgpdppso/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2017-01-26/lgpdppso/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -108,9 +108,9 @@
         </chapter>
         <chapter id="chapter-17">
           <num>Capítulo II De las Sanciones</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es reglamentaria de los artículos 6o., Base A, y 16, segundo párrafo, de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de protección de datos personales en posesión
@@ -119,9 +119,9 @@ territorio nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. La presente Ley tiene por objeto:
 I. Establecer las bases, principios y procedimientos para garantizar el derecho que tiene toda persona a
@@ -150,9 +150,9 @@ esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Para los efectos de la presente Ley se entenderá por:
 I. Áreas: Instancias de los sujetos obligados previstas en los respectivos reglamentos interiores,
@@ -282,9 +282,9 @@ Transparencia y Acceso a la Información Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. La presente Ley será aplicable a cualquier tratamiento de datos personales que obren en soportes
 físicos o electrónicos, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento,
@@ -292,9 +292,9 @@ almacenamiento y organización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Para los efectos de la presente Ley, se considerarán como fuentes de acceso público:
 I. Las páginas de Internet o medios remotos o locales de comunicación electrónica, óptica y de otra
@@ -311,9 +311,9 @@ acceso público cuando la información contenida en la misma sea o tenga una pro
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. El Estado garantizará la privacidad de los individuos y deberá velar porque terceras personas no
 incurran en conductas que puedan afectarla arbitrariamente.
@@ -323,9 +323,9 @@ derechos de terceros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Por regla general no podrán tratarse datos personales sensibles, salvo que se cuente con el
 consentimiento expreso de la persona titular o, en su defecto, se trate de los casos establecidos en el artículo 16 de
@@ -340,9 +340,9 @@ niño y el adolescente, en términos de las disposiciones jurídicas aplicables.
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. La aplicación e interpretación de la presente Ley se realizará conforme a lo dispuesto en la
 Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano
@@ -354,9 +354,9 @@ organismos nacionales e internacionales, en materia de protección de datos pers
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. A falta de disposición expresa en la presente Ley, se aplicarán de manera supletoria las disposiciones
 del Código Nacional de Procedimientos Civiles y Familiares y de la Ley Federal de Procedimiento Administrativo.
@@ -366,31 +366,31 @@ disposiciones que les resulten aplicables en materia supletoria a las Autoridade
 interpretación de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo reformado DOF 14-11-2025</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. El responsable deberá observar los principios de licitud, finalidad, lealtad, consentimiento, calidad,
 proporcionalidad, información y responsabilidad en el tratamiento de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. El tratamiento de datos personales por parte del responsable deberá sujetarse a las facultades o
 atribuciones que la normatividad aplicable le confiera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. Todo tratamiento de datos personales que efectúe el responsable deberá estar justificado por
 finalidades concretas, lícitas, explícitas y legítimas, relacionadas con las atribuciones que la normatividad aplicable
@@ -402,9 +402,9 @@ presente Ley y demás disposiciones que resulten aplicables en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. El responsable no deberá obtener y tratar datos personales a través de medios engañosos o
 fraudulentos, y deberá privilegiar la protección de los intereses de la persona titular y la expectativa razonable de
@@ -412,9 +412,9 @@ privacidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Cuando no se actualicen algunas de las causales de excepción previstas en el artículo 16 de la
 presente Ley, el responsable deberá contar con el consentimiento previo de la persona titular para el tratamiento de
@@ -436,9 +436,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. El consentimiento podrá manifestarse de forma expresa o tácita. Se deberá entender que el
 consentimiento es expreso cuando la voluntad de la persona titular se manifieste verbalmente, por escrito, por
@@ -453,9 +453,9 @@ autenticación que al efecto se establezca, salvo en los casos previstos en el a
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. El responsable no estará obligado a recabar el consentimiento de la persona titular para el
 tratamiento de sus datos personales en los siguientes casos:
@@ -479,9 +479,9 @@ los términos de las disposiciones jurídicas en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. El responsable deberá adoptar las medidas necesarias para mantener exactos, completos, correctos
 y actualizados los datos personales en su posesión, a fin de que no se altere la veracidad de éstos.
@@ -497,9 +497,9 @@ datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. El responsable deberá establecer y documentar los procedimientos para la conservación y, en su
 caso, bloqueo y supresión de los datos personales que lleve a cabo, en los cuales se incluyan los periodos de
@@ -515,18 +515,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. El responsable sólo deberá tratar los datos personales que resulten adecuados, relevantes y
 estrictamente necesarios para la finalidad que justifica su tratamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. El responsable deberá informar a la persona titular, a través del aviso de privacidad, la existencia y
 características principales del tratamiento al que serán sometidos sus datos personales, a fin de que pueda tomar
@@ -541,9 +541,9 @@ de acuerdo con los criterios que para tal efecto emita la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. El aviso de privacidad deberá contener, al menos, la siguiente información:
 I. La denominación y el domicilio del responsable;
@@ -569,9 +569,9 @@ transferencias que requieran su consentimiento, previo a que ocurra dicho tratam
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. El aviso de privacidad en su modalidad simplificada deberá contener la información a que se refieren
 las fracciones I, IV, VII y VIII del artículo anterior y señalar el sitio donde se podrá consultar el aviso de privacidad
@@ -582,9 +582,9 @@ privacidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. El responsable deberá implementar los mecanismos previstos en el artículo 24 de la presente Ley
 para acreditar el cumplimiento de los principios, deberes y obligaciones establecidos en la misma y rendir cuentas
@@ -595,9 +595,9 @@ la normativa mexicana podrá valerse de estándares o mejores prácticas naciona
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Entre los mecanismos que deberá adoptar el responsable para cumplir con el principio de
 responsabilidad establecido en la presente Ley están, al menos, los siguientes:
@@ -628,9 +628,9 @@ aplicables en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Con independencia del tipo de sistema en el que se encuentren los datos personales o el tipo de
 tratamiento que se efectúe, el responsable deberá establecer y mantener las medidas de seguridad de carácter
@@ -640,9 +640,9 @@ disponibilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Las medidas de seguridad adoptadas por el responsable deberán considerar:
 I. El riesgo inherente a los datos personales tratados;
@@ -657,9 +657,9 @@ tratados para una tercera persona no autorizada para su posesión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Para establecer y mantener las medidas de seguridad para la protección de los datos personales, el
 responsable deberá realizar, al menos, las siguientes actividades interrelacionadas:
@@ -688,9 +688,9 @@ roles y responsabilidades respecto del tratamiento de los datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Las acciones relacionadas con las medidas de seguridad para el tratamiento de los datos personales
 deberán estar documentadas y contenidas en un sistema de gestión.
@@ -701,9 +701,9 @@ materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. El responsable deberá elaborar un documento de seguridad que contenga, al menos, lo siguiente:
 I. El inventario de datos personales y de los sistemas de tratamiento;
@@ -716,9 +716,9 @@ VII. El programa general de capacitación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. El responsable deberá actualizar el documento de seguridad cuando ocurran los siguientes eventos:
 I. Se produzcan modificaciones sustanciales al tratamiento de datos personales que deriven en un
@@ -731,9 +731,9 @@ IV. Implementación de acciones correctivas y preventivas ante una vulneración 
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. En caso de que ocurra una vulneración a la seguridad, el responsable deberá analizar las causas por
 las cuales se presentó e implementar en su plan de trabajo las acciones preventivas y correctivas para adecuar las
@@ -742,9 +742,9 @@ se repita.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Además de las que señalen las leyes respectivas y la normatividad aplicable, se considerarán como
 vulneraciones de seguridad, en cualquier fase del tratamiento de datos, al menos, las siguientes:
@@ -760,9 +760,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. El responsable deberá llevar una bitácora de las vulneraciones a la seguridad en la que se describa
 ésta, la fecha en la que ocurrió, el motivo de ésta y las acciones correctivas implementadas de forma inmediata y
@@ -770,9 +770,9 @@ definitiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. El responsable deberá informar sin dilación alguna a la persona titular, y según corresponda, a la
 Secretaría y a las Autoridades garantes, las vulneraciones que afecten de forma significativa los derechos
@@ -783,9 +783,9 @@ derechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. El responsable deberá informar a la persona titular al menos lo siguiente:
 I. La naturaleza del incidente;
@@ -797,9 +797,9 @@ V. Los medios donde puede obtener más información al respecto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. El responsable deberá establecer controles o mecanismos que tengan por objeto que todas aquellas
 personas que intervengan en cualquier fase del tratamiento de los datos personales, guarden confidencialidad
@@ -808,9 +808,9 @@ Lo anterior, sin menoscabo de lo establecido en las disposiciones de acceso a la
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. En todo momento la persona titular o su representante podrán solicitar al responsable, el acceso,
 rectificación, cancelación u oposición al tratamiento de los datos personales que le conciernen, de conformidad con lo
@@ -819,27 +819,27 @@ ejercicio de otro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. La persona titular tendrá derecho de acceder a sus datos personales que obren en posesión del
 responsable, así como conocer la información relacionada con las condiciones y generalidades de su tratamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. La persona titular tendrá derecho a solicitar al responsable la rectificación o corrección de sus datos
 personales, cuando éstos resulten ser inexactos, incompletos o no se encuentren actualizados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. La persona titular tendrá derecho a solicitar la cancelación de sus datos personales de los archivos,
 registros, expedientes y sistemas del responsable, a fin de que los mismos ya no estén en su posesión y dejen de ser
@@ -847,9 +847,9 @@ tratados por este último.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. La persona titular podrá oponerse al tratamiento de sus datos personales o exigir que se cese en el
 mismo, cuando:
@@ -868,9 +868,9 @@ sexuales, fiabilidad o comportamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. La recepción y trámite de las solicitudes para el ejercicio de los derechos ARCO que se formulen a
 los responsables, se sujetará al procedimiento establecido en el presente Título y demás disposiciones que resulten
@@ -878,9 +878,9 @@ aplicables en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Para el ejercicio de los derechos ARCO será necesario acreditar la identidad de la persona titular y,
 en su caso, la identidad y personalidad con la que actúe el representante.
@@ -896,9 +896,9 @@ exista un mandato judicial para dicho efecto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. El ejercicio de los derechos ARCO es gratuito. Sólo podrán realizarse cobros para recuperar los
 costos de reproducción, certificación o envío, conforme a la normatividad que resulte aplicable.
@@ -914,9 +914,9 @@ algún servicio o medio que implique un costo a la persona titular.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. El responsable deberá establecer procedimientos sencillos que permitan el ejercicio de los derechos
 ARCO, cuyo plazo de respuesta no deberá exceder de veinte días contados a partir del día siguiente a la recepción
@@ -929,9 +929,9 @@ a la persona titular.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. En la solicitud para el ejercicio de los derechos ARCO no podrán imponerse mayores requisitos que
 los siguientes:
@@ -982,9 +982,9 @@ titulares y la forma en que mantienen contacto cotidiano o común con el respons
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Cuando el responsable no sea competente para atender la solicitud para el ejercicio de los derechos
 ARCO, deberá hacer del conocimiento de la persona titular dicha situación dentro de los tres días siguientes a la
@@ -998,9 +998,9 @@ persona titular.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Cuando las disposiciones aplicables a determinados tratamientos de datos personales establezcan
 un trámite o procedimiento específico para solicitar el ejercicio de los derechos ARCO, el responsable deberá
@@ -1017,9 +1017,9 @@ disposiciones establecidas en este Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Las únicas causas en las que el ejercicio de los derechos ARCO no serán procedente son:
 I. Cuando la persona titular o su representante no estén debidamente acreditadas para ello;
@@ -1045,9 +1045,9 @@ mismo medio en que se llevó a cabo la solicitud, acompañando en su caso, las p
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Contra la negativa de dar trámite a toda solicitud para el ejercicio de los derechos ARCO o por falta
 de respuesta del responsable, procederá la interposición del recurso de revisión a que se refiere el artículo 86 de la
@@ -1055,9 +1055,9 @@ presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Cuando se traten datos personales por vía electrónica en un formato estructurado y comúnmente
 utilizado, la persona titular tendrá derecho a obtener del responsable una copia de los datos objeto de tratamiento en
@@ -1069,9 +1069,9 @@ utilizado, sin impedimentos por parte del responsable del tratamiento de quien s
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. La persona encargada deberá realizar las actividades de tratamiento de los datos personales sin
 ostentar poder alguno de decisión sobre el alcance y contenido del mismo, así como limitar sus actuaciones a los
@@ -1079,9 +1079,9 @@ términos fijados por el responsable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. La relación entre el responsable y la persona encargada deberá estar formalizada mediante contrato
 o cualquier otro instrumento jurídico que decida el responsable, de conformidad con las disposiciones jurídicas
@@ -1110,9 +1110,9 @@ privacidad correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. Cuando la persona encargada incumpla las instrucciones del responsable y decida por sí misma
 sobre el tratamiento de los datos personales, asumirá el carácter de responsable y las consecuencias legales
@@ -1120,9 +1120,9 @@ correspondientes conforme a la legislación en la materia que le resulte aplicab
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. La persona encargada podrá, a su vez, subcontratar servicios que impliquen el tratamiento de datos
 personales por cuenta del responsable, siempre y cuando medie la autorización expresa de este último, en este
@@ -1134,9 +1134,9 @@ autorización a la que refiere el párrafo anterior se entenderá como otorgada 
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Una vez obtenida la autorización expresa del responsable, la persona encargada deberá formalizar
 la relación adquirida con la persona subcontratada a través de un contrato o cualquier otro instrumento jurídico que
@@ -1145,9 +1145,9 @@ contenido de la prestación del servicio en términos de lo previsto en el prese
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. El responsable podrá contratar o adherirse a servicios, aplicaciones e infraestructura en el cómputo
 en la nube, y otras materias que impliquen el tratamiento de datos personales, siempre y cuando la persona
@@ -1158,9 +1158,9 @@ proveedora externa a través de cláusulas contractuales u otros instrumentos ju
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Para el tratamiento de datos personales en servicios, aplicaciones e infraestructura de cómputo en la
 nube y otras materias, en los que el responsable se adhiera a los mismos mediante condiciones o cláusulas
@@ -1195,18 +1195,18 @@ datos personales, conforme a la presente Ley y demás disposiciones que resulten
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Toda transferencia de datos personales, sea esta nacional o internacional, se encuentra sujeta al
 consentimiento de la persona titular, salvo las excepciones previstas en los artículos 16, 60 y 64 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. Toda transferencia deberá formalizarse mediante la suscripción de cláusulas contractuales,
 convenios de colaboración o cualquier otro instrumento jurídico, de conformidad con la normatividad que le resulte
@@ -1224,9 +1224,9 @@ transferente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Cuando la transferencia sea nacional, el receptor de los datos personales deberá tratar los datos
 personales, comprometiéndose a garantizar su confidencialidad y únicamente los utilizará para los fines que fueron
@@ -1235,9 +1235,9 @@ transferente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El responsable sólo podrá transferir o hacer remisión de datos personales fuera del territorio nacional
 cuando el tercero receptor o la persona encargada se obligue a proteger los datos personales conforme a los
@@ -1245,18 +1245,18 @@ principios y deberes que establece la presente Ley y las disposiciones que resul
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. En toda transferencia de datos personales, el responsable deberá comunicar al receptor de los datos
 personales el aviso de privacidad conforme al cual se tratan los datos personales frente a la persona titular.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. El responsable podrá realizar transferencias de datos personales sin necesidad de requerir el
 consentimiento de la persona titular, en los siguientes supuestos:
@@ -1290,9 +1290,9 @@ las obligaciones que resulten aplicables previstas en el presente Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Las remisiones nacionales e internacionales de datos personales que se realicen entre el
 responsable y la persona encargada no requerirán ser informadas a la persona titular, ni contar con su
@@ -1300,9 +1300,9 @@ consentimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Para el cumplimiento de las obligaciones previstas en la presente Ley, el responsable podrá
 desarrollar o adoptar, en lo individual o en acuerdo con otros responsables, encargados u organizaciones, esquemas
@@ -1318,9 +1318,9 @@ resulte aplicable en materia de protección de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. Todo esquema de mejores prácticas que busque la validación o reconocimiento por parte de la
 Secretaría o las Autoridades garantes deberá:
@@ -1341,9 +1341,9 @@ registro administrado por la Secretaría, de acuerdo con las reglas que fije est
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. Cuando el responsable pretenda poner en operación o modificar políticas públicas, sistemas o
 plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que a su juicio y de conformidad con
@@ -1356,9 +1356,9 @@ Secretaría o la Autoridad garante, en el ámbito de su competencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. Para efectos de esta Ley se considerará que se está en presencia de un tratamiento intensivo o
 relevante de datos personales cuando:
@@ -1368,9 +1368,9 @@ III. Se efectúen o pretendan efectuar transferencias de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. La Secretaría o la Autoridad garante, en el ámbito de su competencia, podrá emitir criterios
 adicionales con sustento en parámetros objetivos que determinen que se está en presencia de un tratamiento
@@ -1383,9 +1383,9 @@ mismo, o bien, del interés público que se persigue.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Los sujetos obligados que realicen una evaluación de impacto en la protección de datos personales,
 deberán presentarla ante la Secretaría o las Autoridades garantes, según su ámbito de competencia, treinta días
@@ -1395,9 +1395,9 @@ vinculantes correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. La Secretaría o las Autoridades garantes, según su ámbito de competencia, deberán emitir, de ser el
 caso, recomendaciones no vinculantes sobre la evaluación de impacto en la protección de datos personales
@@ -1408,9 +1408,9 @@ personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Cuando a juicio del sujeto obligado se puedan comprometer los efectos que se pretenden lograr con
 la posible puesta en operación o modificación de políticas públicas, sistemas o plataformas informáticas, aplicaciones
@@ -1420,9 +1420,9 @@ de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. La obtención y tratamiento de datos personales, en términos de lo que dispone esta Ley, por parte
 de los sujetos obligados competentes en instancias de seguridad, procuración y administración de justicia, está
@@ -1440,9 +1440,9 @@ presente Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. En el tratamiento de datos personales, así como en el uso de las bases de datos para su
 almacenamiento, que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y
@@ -1453,9 +1453,9 @@ correspondiente, podrá autorizar la intervención de cualquier comunicación pr
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. Los responsables de las bases de datos a que se refiere este Capítulo deberán establecer medidas
 de seguridad de nivel alto, para garantizar la integridad, disponibilidad y confidencialidad de la información, que
@@ -1464,9 +1464,9 @@ no autorizado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Cada responsable contará con un Comité de Transparencia, el cual se integrará y funcionará
 conforme a lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública y demás
@@ -1475,9 +1475,9 @@ El Comité de Transparencia será la autoridad máxima en materia de protección
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. Para los efectos de la presente Ley y sin perjuicio de otras atribuciones que le sean conferidas en la
 normatividad que le resulte aplicable, el Comité de Transparencia tendrá las siguientes funciones:
@@ -1503,9 +1503,9 @@ declaración de inexistencia que realicen los responsables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. Cada responsable contará con una Unidad de Transparencia que se integrará y funcionará conforme
 a lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, que tendrá además las
@@ -1531,18 +1531,18 @@ cualquier formato accesible correspondiente, en forma más eficiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. El responsable procurará que las personas con algún tipo de discapacidad o grupos de atención
 prioritaria, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. La Secretaría tendrá las siguientes atribuciones:
 I. Garantizar el ejercicio del derecho a la protección de datos personales en posesión de sujetos
@@ -1623,9 +1623,9 @@ XXXII. Las demás que le confiera la presente Ley y demás ordenamientos aplicab
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. En la integración, procedimiento de designación y funcionamiento de las Autoridades garantes se
 estará a lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones
@@ -1633,9 +1633,9 @@ jurídicas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. Las Autoridades garantes tendrán, para los efectos de la presente Ley y sin perjuicio de otras
 atribuciones que tenga conferidas conforme a las disposiciones jurídicas que les resulte aplicable, las siguientes
@@ -1681,9 +1681,9 @@ en la protección de datos personales que le sean presentadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. Los responsables deberán colaborar con la Secretaría y las Autoridades garantes, según
 corresponda, para capacitar y actualizar de forma permanente a todas las personas servidoras públicas que tengan
@@ -1692,9 +1692,9 @@ cualquier otra forma de enseñanza y entrenamiento que se considere pertinente.<
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. La Secretaría y las Autoridades garantes, en el ámbito de sus respectivas competencias, deberán:
 I. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las
@@ -1710,9 +1710,9 @@ ideas entre la sociedad, los órganos de representación ciudadana y los respons
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86. La persona titular o su representante podrá interponer un recurso de revisión ante la Secretaría o las
 Autoridades garantes, según corresponda, o bien, ante la Unidad de Transparencia que haya conocido de la solicitud
@@ -1735,9 +1735,9 @@ presentó su escrito, salvo que acredite haber señalado uno distinto para recib
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87. La persona titular podrá acreditar su identidad a través de cualquiera de los siguientes medios:
 I. Identificación oficial;
@@ -1750,9 +1750,9 @@ de la copia del documento de identificación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88. Cuando la persona titular actúe mediante un representante, este deberá acreditar su personalidad en
 los siguientes términos:
@@ -1764,18 +1764,18 @@ II. Si se trata de una persona moral, mediante instrumento público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89. La interposición del recurso de revisión relacionado con datos personales de personas fallecidas,
 podrá realizarla la persona que acredite tener un interés jurídico o legítimo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90. En la sustanciación de los recursos de revisión, las notificaciones que emitan la Secretaría y las
 Autoridades garantes, según corresponda, surtirán efectos el mismo día en que se practiquen.
@@ -1798,9 +1798,9 @@ este o el de su representante.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91. El cómputo de los plazos señalados en el presente Título comenzará a correr a partir del día
 siguiente a aquél en que haya surtido efectos la notificación correspondiente.
@@ -1814,18 +1814,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92. La persona titular, el responsable o cualquier autoridad deberá atender los requerimientos de
 información en los plazos y términos que la Secretaría y las Autoridades garantes, según corresponda, establezcan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93. Cuando la persona titular, el responsable o cualquier autoridad se niegue a atender o cumplimentar
 los requerimientos, solicitudes de información y documentación, emplazamientos, citaciones o diligencias notificadas
@@ -1836,9 +1836,9 @@ tendrán por ciertos los hechos materia del procedimiento y resolverán con los 
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94. En la sustanciación de los recursos de revisión, las partes podrán ofrecer las siguientes pruebas:
 I. La documental pública;
@@ -1855,9 +1855,9 @@ consideren necesarios, sin más limitación que las establecidas en la legislaci
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95. Transcurrido el plazo previsto en el artículo 45 de la presente Ley para dar respuesta a una solicitud
 para el ejercicio de los derechos ARCO sin que se haya emitido ésta, la persona titular o, en su caso, su
@@ -1866,9 +1866,9 @@ vencido el plazo para dar respuesta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96. El recurso de revisión procederá en los siguientes supuestos:
 I. Se clasifiquen como confidenciales los datos personales sin que se cumplan las características
@@ -1891,9 +1891,9 @@ XII. En los demás casos que disponga la legislación aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97. Los únicos requisitos exigibles en el escrito de interposición del recurso de revisión serán los
 siguientes:
@@ -1917,9 +1917,9 @@ En ningún caso será necesario que la persona titular ratifique el recurso de r
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98. Una vez admitido el recurso de revisión, la Secretaría o, en su caso, las Autoridades garantes
 podrán buscar una conciliación entre la persona titular y el responsable.
@@ -1929,9 +1929,9 @@ acuerdo respectivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99. Admitido el recurso de revisión y sin perjuicio de lo dispuesto por el artículo 59 de la presente Ley, la
 Secretaría o la Autoridad garante promoverá la conciliación entre las partes, de conformidad con el siguiente
@@ -1979,9 +1979,9 @@ contrario, la Secretaría o la Autoridad garante, reanudará el procedimiento.</
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100. La Secretaría o las Autoridades garantes, resolverán el recurso de revisión en un plazo que no
 podrá exceder de cuarenta días, el cual podrá ampliarse hasta por veinte días por una sola vez.
@@ -1990,9 +1990,9 @@ conciliación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. Durante el procedimiento a que se refiere el presente Capítulo, la Secretaría o las Autoridades
 garantes, según corresponda, deberán aplicar la suplencia de la queja a favor de la persona titular, siempre y cuando
@@ -2002,9 +2002,9 @@ pretensiones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102. Si en el escrito de interposición del recurso de revisión la persona titular no cumple con alguno de
 los requisitos previstos en el artículo 97 de la presente Ley y la Secretaría y las Autoridades garantes, según
@@ -2019,9 +2019,9 @@ resolver el recurso, por lo que comenzará a computarse a partir del día siguie
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103. Las resoluciones de la Secretaría o, en su caso, de las Autoridades garantes podrán:
 I. Sobreseer o desechar el recurso de revisión por improcedente;
@@ -2041,9 +2041,9 @@ procedimiento de responsabilidad respectivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. El recurso de revisión podrá ser desechado por improcedente cuando:
 26 de 37
@@ -2069,9 +2069,9 @@ las Autoridades garantes, según corresponda, un nuevo recurso de revisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105. El recurso de revisión solo podrá ser sobreseído cuando:
 I. La persona recurrente se desista expresamente;
@@ -2082,18 +2082,18 @@ V. Quede sin materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106. La Secretaría y las Autoridades garantes deberán notificar a las partes y publicar las resoluciones,
 en versión pública, a más tardar al tercer día siguiente de su emisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107. Las resoluciones de la Secretaría y las Autoridades garantes serán vinculantes, definitivas e
 inatacables para los responsables.
@@ -2102,9 +2102,9 @@ materia de datos personales establecidos por el Poder Judicial de la Federación
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108. La persona titular de la Consejería Jurídica del Ejecutivo Federal podrá interponer recurso de
 revisión en materia de seguridad nacional directamente ante la Suprema Corte de Justicia de la Nación, cuando
@@ -2116,9 +2116,9 @@ resolverá sobre su admisión o improcedencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109. En el escrito del recurso, la persona titular de la Consejería Jurídica del Ejecutivo Federal deberá
 señalar la resolución que se impugna, los fundamentos y motivos por los cuales considera que se pone en peligro la
@@ -2126,9 +2126,9 @@ seguridad nacional, así como los elementos de prueba necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110. La información reservada o confidencial que, en su caso, sea solicitada por la Suprema Corte de
 Justicia de la Nación por resultar indispensable para resolver el asunto, deberá ser mantenida con ese carácter y no
@@ -2145,18 +2145,18 @@ resguardo o salvaguarda de la información por parte de los sujetos obligados.</
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111. La Suprema Corte de Justicia de la Nación resolverá con plenitud de jurisdicción y, en ningún caso,
 procederá el reenvío.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112. Si la Suprema Corte de Justicia de la Nación confirma el sentido de la resolución recurrida, el sujeto
 obligado deberá dar cumplimiento en los términos de lo previsto en la presente Ley.
@@ -2165,9 +2165,9 @@ Corte de Justicia de la Nación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113. Una vez que hayan causado ejecutoria las resoluciones dictadas con motivo de los recursos que se
 sometan a su competencia, la Secretaría podrá emitir los criterios de interpretación que estime pertinentes y que
@@ -2178,9 +2178,9 @@ que hayan causado estado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114. Los criterios se compondrán de un rubro, un texto y el precedente o precedentes que, en su caso,
 hayan originado su emisión.
@@ -2188,9 +2188,9 @@ Todo criterio que emita la Secretaría deberá contener una clave de control par
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115. La Secretaría y las Autoridades garantes, en el ámbito de sus respectivas competencias, tendrán la
 atribución de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley y demás
@@ -2203,9 +2203,9 @@ bases de datos personales, ni podrá invocar la reserva o la confidencialidad de
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116. La verificación podrá iniciarse:
 I. De oficio cuando la Secretaría o las Autoridades garantes cuenten con indicios que hagan presumir
@@ -2230,9 +2230,9 @@ previas, con el fin de contar con elementos para fundar y motivar el acuerdo de 
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117. Para la presentación de una denuncia no podrán solicitarse mayores requisitos que los que a
 continuación se describen:
@@ -2251,9 +2251,9 @@ recibo de la misma. El acuerdo correspondiente se notificará a la persona denun
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118. La verificación iniciará mediante una orden escrita que funde y motive la procedencia de la
 actuación por parte de la Secretaría o las Autoridades garantes, la cual tiene por objeto requerir al responsable la
@@ -2272,9 +2272,9 @@ lleven a cabo las recomendaciones hechas por la Secretaría o las Autoridades ga
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119. El procedimiento de verificación concluirá con la resolución que emita la Secretaría o las
 Autoridades garantes, en la cual se establecerán las medidas que deberá adoptar el responsable en el plazo que la
@@ -2282,9 +2282,9 @@ misma determine.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120. Los responsables podrán voluntariamente someterse a la realización de auditorías por parte de la
 Secretaría o las Autoridades garantes, según corresponda, que tengan por objeto verificar la adaptación, adecuación
@@ -2296,9 +2296,9 @@ recomendaciones que en su caso correspondan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121. Para el cumplimiento de las resoluciones emitidas por la Secretaría o las Autoridades garantes,
 según corresponda, se deberá observar lo dispuesto en el Capítulo V del Título Octavo de la Ley General de
@@ -2306,9 +2306,9 @@ Transparencia y Acceso a la Información Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122. La Secretaría o las Autoridades garantes podrán imponer las siguientes medidas de apremio para
 asegurar el cumplimiento de sus determinaciones:
@@ -2324,9 +2324,9 @@ cubiertas con recursos públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123. Si a pesar de la ejecución de las medidas de apremio previstas en el artículo anterior no se
 cumpliere con la resolución, se requerirá el cumplimiento al superior jerárquico para que en el plazo de cinco días
@@ -2336,18 +2336,18 @@ responsabilidades administrativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124. Las medidas de apremio a que se refiere el presente Capítulo deberán ser aplicadas por la
 Secretaría y las Autoridades garantes, por sí mismas o con el apoyo de la autoridad competente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125. Las multas que fijen la Secretaría y las Autoridades garantes se harán efectivas por el Servicio de
 Administración Tributaria o las Secretarías de Finanzas de las Entidades Federativas, según corresponda, a través
@@ -2355,9 +2355,9 @@ de los procedimientos establecidos en las disposiciones jurídicas aplicables.</
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126. Para calificar las medidas de apremio establecidas en el presente Capítulo, la Secretaría y las
 Autoridades garantes deberán considerar:
@@ -2373,9 +2373,9 @@ desarrollados en este Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127. En caso de reincidencia, la Secretaría o las Autoridades garantes podrán imponer una multa
 equivalente de hasta el doble.
@@ -2384,27 +2384,27 @@ del mismo tipo o naturaleza.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128. Las medidas de apremio deberán aplicarse e implementarse en un plazo máximo de quince días,
 contados a partir de que sea notificada la misma a la persona infractora.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129. La amonestación pública será impuesta por la Secretaría o las Autoridades garantes y será
 ejecutada por el superior jerárquico inmediato de la persona infractora.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130. La Secretaría o las Autoridades garantes podrán requerir a la persona infractora la información
 necesaria para determinar su condición económica, apercibida de que, en caso de no proporcionar la misma, las
@@ -2420,9 +2420,9 @@ para requerir aquella documentación que se considere indispensable para tal efe
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131. En contra de la imposición de medidas de apremio procede el recurso correspondiente ante los
 jueces y tribunales especializados en materia de datos personales establecidos por el Poder Judicial de la
@@ -2430,9 +2430,9 @@ Federación o, en su caso, ante el Poder Judicial correspondiente en las Entidad
               </content>
             </paragraph>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132. Serán causas de sanción por incumplimiento de las obligaciones establecidas en la materia de la
 presente Ley, las siguientes:
@@ -2478,18 +2478,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133. Para las conductas a que se refiere el artículo anterior se dará vista a la autoridad competente para
 que imponga o ejecute la sanción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134. Las responsabilidades que resulten de los procedimientos administrativos correspondientes, en
 términos de lo dispuesto por el artículo 132 de esta Ley, son independientes de las del orden civil, penal o de
@@ -2503,9 +2503,9 @@ las leyes aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135. Ante incumplimientos por parte de los partidos políticos, la Secretaría o la Autoridad garante
 competente dará vista, según corresponda, al Instituto Nacional Electoral o a los organismos públicos locales
@@ -2517,9 +2517,9 @@ correspondiente con el fin de que instrumente los procedimientos administrativos
               </content>
             </paragraph>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136. En aquellos casos en que la persona presunta infractora tenga la calidad de persona servidora
 pública, la Secretaría o la Autoridad garante deberá remitir a la autoridad competente, junto con la denuncia
@@ -2541,17 +2541,31 @@ los hechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137. La Autoridad garante deberá denunciar el incumplimiento de las determinaciones que ésta emita y
 que impliquen la presunta comisión de un delito ante la autoridad competente.
 Artículo Tercero y Artículo Cuarto.- ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.
-Segundo.- A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación, con excepción de lo previsto en el transitorio Tercero de este instrumento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- A la entrada en vigor del presente Decreto se abrogan las disposiciones siguientes:
 I. La Ley Federal de Protección de Datos Personales en Posesión de los Particulares, publicada en el
 Diario Oficial de la Federación el 5 de julio de 2010;
 II. La Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de
@@ -2568,8 +2582,15 @@ Diario Oficial de la Federación el 26 de enero de 2017, y
 V. El Acuerdo mediante el cual se aprueba el Programa Anual de Verificación y Acompañamiento
 Institucional para el cumplimiento de las obligaciones en materia de acceso a la información y
 transparencia por parte de los sujetos obligados del ámbito federal, correspondiente al ejercicio 2025,
-publicado en el Diario Oficial de la Federación el 21 de enero de 2025.
-Tercero.- Los artículos 71 y 72 de la Ley General de Transparencia y Acceso a la Información Pública entrarán
+publicado en el Diario Oficial de la Federación el 21 de enero de 2025.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Los artículos 71 y 72 de la Ley General de Transparencia y Acceso a la Información Pública entrarán
 en vigor cuando se extingan la Comisión Federal de Competencia Económica y el Instituto Federal de
 Telecomunicaciones conforme a lo previsto en los transitorios Décimo y Décimo Primero del “Decreto por el que se
 reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos,
@@ -2577,12 +2598,26 @@ en materia de simplificación orgánica”, publicado en el Diario Oficial de la
 Para efectos del párrafo anterior, la Comisión Federal de Competencia Económica y el Instituto Federal de
 Telecomunicaciones deberán poner a disposición del público y actualizar la información a que se refiere el artículo
 72, fracciones II y V, respectivamente, de la Ley Federal de Transparencia y Acceso a la Información Pública que se
-abroga por virtud del presente Decreto.
-Cuarto.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en
+abroga por virtud del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en
 cualquier disposición normativa, respecto al Instituto Nacional de Transparencia, Acceso a la Información y
 Protección de Datos Personales se entenderán hechas o conferidas a los entes públicos que adquieren tales
-atribuciones o funciones, según corresponda.
-Quinto.- Los derechos laborales de las personas servidoras públicas del Instituto Nacional de Transparencia,
+atribuciones o funciones, según corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Los derechos laborales de las personas servidoras públicas del Instituto Nacional de Transparencia,
 Acceso a la Información y Protección de Datos Personales, serán respetados, en términos de la legislación aplicable.
 Los recursos humanos con que cuente el referido Instituto pasarán a formar parte de la Secretaría Anticorrupción y
 Buen Gobierno y Transparencia para el Pueblo.
@@ -2604,11 +2639,25 @@ entrega-recepción institucional e individual, según corresponda, a la persona 
 Anticorrupción y Buen Gobierno designe y conforme a la normativa aplicable a la Administración Pública Federal, en
 los sistemas de la referida dependencia habilitados para tales efectos o en los medios que ésta determine, en el
 entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a
-determinar por la autoridad competente con posterioridad.
-Sexto.- Los recursos materiales con que cuente el Instituto Nacional de Transparencia, Acceso a la Información y
+determinar por la autoridad competente con posterioridad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- Los recursos materiales con que cuente el Instituto Nacional de Transparencia, Acceso a la Información y
 Protección de Datos Personales serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, dentro de los
-veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
-Séptimo.- El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales
+veinte días hábiles siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales
 transferirá los recursos financieros a la Secretaría de Hacienda y Crédito Público, de conformidad con las
 disposiciones jurídicas aplicables.
 Asimismo, el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales
@@ -2619,14 +2668,28 @@ dentro de los diez días hábiles siguientes a la entrada en vigor del presente 
 LEY GENERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Octavo.- Los registros, padrones y sistemas, internos y externos, que integran la Plataforma Nacional de
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- Los registros, padrones y sistemas, internos y externos, que integran la Plataforma Nacional de
 Transparencia con los que cuenta el Instituto Nacional de Transparencia, Acceso a la Información y Protección de
 Datos Personales, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen
 pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría
 Anticorrupción y Buen Gobierno dentro de los quince días hábiles siguientes a la entrada en vigor del presente
-Decreto.
-Noveno.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto
 Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de acceso a la
 información pública, se sustanciarán ante Transparencia para el Pueblo conforme a las disposiciones aplicables
 vigentes al momento de su inicio.
@@ -2634,8 +2697,15 @@ La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales
 jurídicos emitidos por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos
 Personales, en materia de acceso a la información pública, se llevará a cabo por Transparencia para el Pueblo.
 Transparencia para el Pueblo podrá remitir a la Autoridad garante competente aquellos asuntos que se
-mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
-Décimo.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto
+mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto
 Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos
 personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las
 disposiciones vigentes al momento de su inicio ante la Secretaría Anticorrupción y Buen Gobierno a que se refiere
@@ -2647,29 +2717,71 @@ como el seguimiento de los que se encuentren en trámite, incluso los procedimie
 a cabo por la Secretaría Anticorrupción y Buen Gobierno.
 La Secretaría Anticorrupción y Buen Gobierno podrá remitir a la Autoridad garante competente aquellos asuntos
 que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su
-atención.
-Décimo Primero.- Los municipios podrán cumplir con las obligaciones a su cargo en materia de transparencia y
+atención.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero.- Los municipios podrán cumplir con las obligaciones a su cargo en materia de transparencia y
 acceso a la información, en términos de lo previsto en el transitorio Décimo de la Ley General de Transparencia y
-Acceso a la Información Pública que se abroga por virtud de este Decreto.
-Décimo Segundo.- La persona titular del Ejecutivo Federal deberá expedir las adecuaciones correspondientes a
+Acceso a la Información Pública que se abroga por virtud de este Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo.- La persona titular del Ejecutivo Federal deberá expedir las adecuaciones correspondientes a
 los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interior de Transparencia para
 el Pueblo, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, a fin de
-armonizarlos a lo previsto en el mismo.
-Décimo Tercero.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del
+armonizarlos a lo previsto en el mismo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del
 Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales para el ejercicio de
 sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás
 disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los
 veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
 La Secretaría Anticorrupción y Buen Gobierno, dentro de los treinta días naturales siguientes contados a partir de
 que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad
-correspondiente.
-Décimo Cuarto.- El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y
+correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto.- El Órgano Interno de Control del Instituto Nacional de Transparencia, Acceso a la Información y
 Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente
 Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la
 Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán
-tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
-Décimo Quinto.- Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y Décimo
-Tercero del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección
+tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto.- Para efectos de lo dispuesto en los transitorios Quinto, Sexto, Séptimo, Octavo y Décimo</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero del presente Decreto el Pleno del Instituto Nacional de Transparencia, Acceso a la Información y Protección
 de Datos Personales deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia
 conformado por los Comisionados del mencionado Instituto y once personas servidoras públicas del mismo con al
 menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los
@@ -2681,8 +2793,15 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 El Comité de Transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes
 participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios
-antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
-Décimo Sexto.- El Consejo del Sistema Nacional de Acceso a la Información Pública deberá instalarse a más
+antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto.- El Consejo del Sistema Nacional de Acceso a la Información Pública deberá instalarse a más
 tardar en sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al
 efecto emita la Secretaría Anticorrupción y Buen Gobierno.
 Hasta en tanto las legislaturas de las entidades federativas que correspondan armonizan su marco jurídico en
@@ -2690,12 +2809,26 @@ materia de acceso a la información pública en términos de lo previsto en el t
 se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos
 Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre
 de 2024, la persona titular del poder ejecutivo local de que se trate será integrante del Consejo del Sistema Nacional
-de Acceso a la Información Pública.
-Décimo Séptimo.- La persona titular de la Secretaría Ejecutiva del Consejo del Sistema Nacional de Acceso a la
+de Acceso a la Información Pública.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Séptimo.- La persona titular de la Secretaría Ejecutiva del Consejo del Sistema Nacional de Acceso a la
 Información Pública propondrá las reglas de operación y funcionamiento que se señalan en el artículo 25, fracción
 XV, de la Ley General de Transparencia y Acceso a la Información Pública, para que sean aprobadas en la
-instalación de dicho Consejo.
-Décimo Octavo.- El órgano de control y disciplina del Poder Judicial; los órganos internos de control de los
+instalación de dicho Consejo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Octavo.- El órgano de control y disciplina del Poder Judicial; los órganos internos de control de los
 órganos constitucionales autónomos; las contralorías internas del Congreso de la Unión; el Instituto Nacional
 Electoral; el Centro Federal de Conciliación y Registro Laboral y el Tribunal Federal de Conciliación y Arbitraje en un
 plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar
@@ -2704,13 +2837,27 @@ Para efectos de lo previsto en este transitorio, se suspenden por un plazo de no
 partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de
 impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y
 atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por
-las autoridades que se mencionan en el párrafo anterior.
-Décimo Noveno.- Hasta en tanto las legislaturas de las entidades federativas, emitan legislación para armonizar
+las autoridades que se mencionan en el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Noveno.- Hasta en tanto las legislaturas de las entidades federativas, emitan legislación para armonizar
 su marco jurídico conforme al presente Decreto, los organismos garantes de las mismas continuarán operando y
 realizarán las atribuciones que le son conferidas a las Autoridades garantes locales, así como a los órganos
 encargados de la contraloría interna u homólogos de los poderes legislativo y judicial, así como los órganos
-constitucionales autónomos de las propias entidades federativas en la presente Ley.
-Vigésimo.- El Poder Judicial de la Federación deberá habilitar juzgados de Distrito y tribunales Colegiados de
+constitucionales autónomos de las propias entidades federativas en la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo.- El Poder Judicial de la Federación deberá habilitar juzgados de Distrito y tribunales Colegiados de
 Circuito especializados en materia de acceso a la información pública y protección de datos personales, en un plazo
 no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, a los cuales se
 remitirán los juicios de amparo en dichas materias que se encuentran en trámite para su resolución.
@@ -2739,10 +2886,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Quincuagésimo.- Se reforma el primer párrafo del artículo 9 de la Ley General de Protección
 de Datos Personales en Posesión de Sujetos Obligados, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -2752,14 +2913,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2007-07-25/lfsa/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2007-07-25/lfsa/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -159,9 +159,9 @@
         </chapter>
         <chapter id="chapter-34">
           <num>Capítulo IV De los Delitos</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente Ley es de observancia general en todo el territorio nacional y tiene por objeto
 fijar las bases para: el diagnóstico, prevención, control y erradicación de las enfermedades y plagas que
@@ -177,13 +177,13 @@ Sus disposiciones son de orden público e interés social.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Artículo reformado DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- Las actividades de sanidad animal tienen como finalidad: diagnosticar y prevenir la
 introducción, permanencia y diseminación de enfermedades y plagas que afecten la salud o la vida de los
@@ -214,19 +214,19 @@ Federal, de conformidad con lo dispuesto en el artículo 108 de la presente ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Párrafo reformado DOF 07-06-2012</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Párrafo adicionado DOF 07-06-2012</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Párrafo adicionado DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- La Secretaría es la autoridad responsable de tutelar la sanidad y el bienestar animal, así
 como de las buenas prácticas pecuarias en la producción primaria; y establecimientos Tipo Inspección
@@ -235,13 +235,13 @@ de origen animal.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Artículo reformado DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4.- Para los efectos de la ley se entiende por:
 
@@ -616,8 +616,30 @@ establecimientos dedicados al procesamiento de bienes de origen animal para cons
 óptimas condiciones zoosanitarias, y de reducción de peligros de contaminación, física, química y
 microbiológica a través de la aplicación de Buenas Prácticas de Producción y Buenas Prácticas de
 Manufactura;
-
-Tercero especialista autorizado: Persona moral o médico veterinario autorizado por la Secretaría para
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Párrafo reformado DOF 07-06-2012</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Párrafo reformado DOF 07-06-2012</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Párrafo reformado DOF 07-06-2012</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Párrafo reformado DOF 07-06-2012</p>
+            </note>
+            <note placementBase="#art-4." placement="bottom">
+              <p>Párrafo reformado DOF 07-06-2012</p>
+            </note>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero especialista autorizado: Persona moral o médico veterinario autorizado por la Secretaría para
 auxiliar a la misma o a las personas aprobadas por ésta, como coadyuvantes en la verificación y
 certificación de las disposiciones contenidas en esta Ley y de las que de ella deriven mediante un
 dictamen. Tratándose de buenas prácticas pecuarias aplicadas a la producción primaria y procesamiento
@@ -672,25 +694,10 @@ Secretaría que puede abarcar la totalidad del país o una región específica, 
 de una determinada plaga o enfermedad;</p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Párrafo reformado DOF 07-06-2012</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Párrafo reformado DOF 07-06-2012</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Párrafo reformado DOF 07-06-2012</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Párrafo reformado DOF 07-06-2012</p>
-            </note>
-            <note placementBase="#art-4" placement="bottom">
-              <p>Párrafo reformado DOF 07-06-2012</p>
-            </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- La aplicación de esta Ley corresponde al Ejecutivo Federal por conducto de la Secretaría.
 11 de 65
@@ -706,9 +713,9 @@ Responsabilidad Hacendaria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- Son atribuciones de la Secretaría:
 I. Prevenir la introducción al país de enfermedades y plagas que afecten a los animales y
@@ -927,22 +934,22 @@ estatales y municipales, colaborarán con la Secretaría en el ejercicio de sus 
 naturaleza y gravedad del problema así lo determine esta última.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 07-06-2012</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 07-06-2012</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 07-06-2012</p>
             </note>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- Los funcionarios y empleados públicos federales, estatales y municipales, en la esfera de
 sus respectivas competencias, deberán auxiliar a la Secretaría en el desempeño de sus atribuciones
@@ -956,9 +963,9 @@ Diario Oficial de la Federación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- Las dependencias y entidades de la Administración Pública Federal se coordinarán con la
 Secretaría, cuando realicen actividades que tengan relación con las materias de sanidad animal o de
@@ -966,9 +973,9 @@ buenas prácticas pecuarias de los bienes de origen animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- La Secretaría de Hacienda y Crédito Público colaborará con la Secretaría para que, en el
 ámbito de sus atribuciones, vigile el cumplimiento de las disposiciones de sanidad animal aplicables en la
@@ -977,9 +984,9 @@ que lleven consigo mercancías reguladas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- En los casos de enfermedades, plagas de los animales o residuos ilegales o que
 excedan a los límites máximos establecidos por esta Ley y demás disposiciones de sanidad animal en los
@@ -990,9 +997,9 @@ riesgo en Salud Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- La Secretaría de Medio Ambiente y Recursos Naturales, se coordinará con la Secretaría
 para el caso de las enfermedades y plagas que afecten a la fauna silvestre, a fin de establecer y aplicar
@@ -1000,9 +1007,9 @@ las medidas zoosanitarias correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- La Secretaría de Relaciones Exteriores, a petición de la Secretaría, le informará sobre la
 existencia en el extranjero de enfermedades de los animales de notificación obligatoria o sobre bienes de
@@ -1011,18 +1018,18 @@ sus atribuciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- La Secretaría de Economía deberá consultar a la Secretaría previo a la negociación de
 tratados comerciales internacionales, cuando estos involucren aspectos en materia de sanidad animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Las medidas zoosanitarias tienen por objeto proteger la vida, salud y bienestar de los
 animales incluyendo su impacto sobre la salud humana, así como asegurar el nivel adecuado de
@@ -1030,9 +1037,9 @@ protección zoosanitaria en todo el territorio nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- Las medidas zoosanitarias estarán basadas en principios científicos o en
 recomendaciones internacionales y, en su caso, en análisis de riesgo según corresponda de acuerdo a la
@@ -1041,9 +1048,9 @@ exista intercambio comercial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- Las medidas zoosanitarias se determinarán en disposiciones de sanidad animal las
 cuales podrán comprender los requisitos, especificaciones, criterios o procedimientos para:
@@ -1084,9 +1091,9 @@ científicos sean eficientes para cada caso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- La Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias
 de la administración pública federal, determinará las medidas en materia de buenas prácticas pecuarias
@@ -1099,13 +1106,13 @@ Las medidas en materia de buenas prácticas pecuarias estarán basadas en princi
 recomendaciones internacionales y, en su caso, en análisis de riesgo según corresponda.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- Las medidas a las que refiere este Capítulo, se determinarán en disposiciones de
 reducción de riesgos de contaminación las cuales podrán comprender los requisitos, especificaciones,
@@ -1138,9 +1145,9 @@ científicos sean eficientes para cada caso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- La Secretaría establecerá mediante disposiciones de sanidad animal, las características
 y especificaciones que deberán observarse para procurar el bienestar que todo propietario o poseedor de
@@ -1151,9 +1158,9 @@ su estrés y asegurar su vida y su salud.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- La Secretaría en términos de esta Ley y su Reglamento, emitirá las disposiciones de
 sanidad animal que definirán los criterios, especificaciones, condiciones y procedimientos para
@@ -1175,9 +1182,9 @@ asocia con mayor productividad y beneficios económicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Los propietarios o poseedores de animales domésticos o silvestres en cautiverio,
 deberán proporcionarles alimento y agua en cantidad y calidad adecuada de acuerdo a su especie y
@@ -1188,9 +1195,9 @@ atención inmediata en caso de enfermedad o lesión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- La Secretaría determinará los criterios y requisitos que deberán observarse mediante
 disposiciones de sanidad animal para el manejo y transporte de animales vivos, para procurar su
@@ -1204,9 +1211,9 @@ alimento, evitando el traslado de largas distancias sin periodos de descanso.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- El sacrificio humanitario de cualquier animal no destinado al consumo humano, sólo
 estará justificado si su bienestar está comprometido por el sufrimiento que le cause un accidente,
@@ -1221,9 +1228,9 @@ necesarios para la insensibilización y el sacrificio de animales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- La importación de las mercancías que se enlistan a continuación, queda sujeta a la
 inspección de acuerdo a las disposiciones de sanidad animal aplicables y a la expedición del certificado
@@ -1257,9 +1264,9 @@ se determinará las cantidades máximas a importar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Las mercancías que se pretendan ingresar al territorio nacional, deberán provenir de
 países autorizados que cuenten con servicios veterinarios reconocidos por la Secretaría conforme a lo
@@ -1273,9 +1280,9 @@ comercio exterior las realizará exclusivamente la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- El reconocimiento de zonas, regiones o países como libres de enfermedades y plagas, lo
 realizará la Secretaría en términos de las disposiciones de sanidad animal aplicables.
@@ -1290,9 +1297,9 @@ mercancías que representen riesgo zoosanitario.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- La Secretaría para salvaguardar la sanidad del país establecerá las medidas
 zoosanitarias necesarias mediante disposiciones en materia de sanidad animal.
@@ -1308,9 +1315,9 @@ VI. Bienestar animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Las medidas zoosanitarias o de buenas prácticas pecuarias establecidas por la
 Secretaría, podrán representar un nivel de protección más elevado que el que se lograría mediante
@@ -1325,9 +1332,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- La Secretaría podrá reconocer y, en su caso, solicitar a otros países, la equivalencia de
 las medidas zoosanitarias o de buenas prácticas pecuarias aplicables con base al nivel de protección
@@ -1335,9 +1342,9 @@ requerido, para el caso de las importaciones de mercancías reguladas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- Sin perjuicio de las cuarentenas que se deban aplicar en el país de origen, la Secretaría
 determinará aquellas mercancías reguladas que deban sujetarse al procedimiento de guarda-custodia
@@ -1348,9 +1355,9 @@ correrán por cuenta del importador, propietario o responsable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- La Secretaría, en coordinación con la Secretaría de Hacienda y Crédito Público,
 determinará las condiciones bajo las cuales los particulares que hayan obtenido la concesión o
@@ -1362,9 +1369,9 @@ por cuenta del importador.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Quien importe cualquiera de las mercancías enunciadas en esta Ley, deberá cumplir con
 la hoja de requisitos zoosanitarios o las disposiciones de sanidad animal que previamente establezca la
@@ -1375,9 +1382,9 @@ respecto al uso, dosificación y aquella que la Secretaría determine.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- La Secretaría expedirá el certificado zoosanitario para importación en los puntos de
 ingreso por donde se importen las mercancías reguladas, cuando de la inspección que se realice a las
@@ -1385,9 +1392,9 @@ mismas se determine que cumplen con las disposiciones de sanidad animal aplicabl
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Para efectos de control de la importación, el certificado zoosanitario para importación de
 animales, bienes de origen animal, productos para uso o consumo animal, maquinaria o equipo pecuario
@@ -1401,9 +1408,9 @@ señalarán en el Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- La Secretaría podrá dejar sin efecto los certificados zoosanitarios para importación que
 se hayan expedido ante la inminente introducción y diseminación en el territorio nacional de
@@ -1447,9 +1454,9 @@ serán por cuenta del importador o propietario de la mercancía regulada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- Para el caso de importaciones y dependiendo del riesgo zoosanitario, la Secretaría
 podrá determinar el procedimiento de guarda-custodia cuarentena con cargo al importador y en caso de
@@ -1459,9 +1466,9 @@ zoosanitario.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Las mercancías reguladas únicamente podrán importarse por los puntos de ingreso que
 determinen conjuntamente las Secretarías de Hacienda y Crédito Público y de Agricultura, Ganadería,
@@ -1469,9 +1476,9 @@ Desarrollo Rural, Pesca y Alimentación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Las mercancías reguladas podrán ser importadas únicamente de establecimientos
 autorizados por la Secretaría y así lo determine, bajo cualquiera de los siguientes esquemas:
@@ -1489,9 +1496,9 @@ disposiciones de sanidad animal aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Las mercancías reguladas que representen un riesgo zoosanitario y que no hayan sido
 verificadas en origen, serán inspeccionadas en su totalidad y certificadas en el punto de ingreso al país
@@ -1499,9 +1506,9 @@ de acuerdo a las disposiciones de sanidad animal aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Las mercancías reguladas que representen un riesgo zoosanitario, podrán ser
 verificadas en origen cuando la Secretaría lo determine, y en su caso, a petición de parte con cargo al
@@ -1514,9 +1521,9 @@ ingreso al país.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Para su ingreso al país, los animales vivos deberán ser verificados en el extranjero, en
 los puntos de verificación e Inspección zoosanitaria para animales e inspeccionados y certificados en los
@@ -1525,9 +1532,9 @@ de animales vivos únicamente estará sujeta a inspección y certificación en p
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- La Secretaría podrá permitir la importación de mercancías reguladas provenientes de un
 establecimiento extranjero autorizado por la Secretaría a establecimientos Tipo Inspección Federal con
@@ -1537,9 +1544,9 @@ país.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Los agentes aduanales y los importadores, estarán obligados a que las mercancías a
 importar cumplan con las disposiciones de sanidad animal y que cuenten con el certificado zoosanitario
@@ -1547,9 +1554,9 @@ para importación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- La Secretaría permitirá el tránsito de mercancías reguladas, por territorio nacional, bajo
 la modalidad de tránsito internacional, cuando se cuente con un análisis de riesgo que demuestre que las
@@ -1558,9 +1565,9 @@ salida bajo los términos especificados en el Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Cuando en el punto de ingreso al país, las mercancías reguladas no reúnan los
 requisitos de la Hoja de Requisitos Zoosanitarios o las disposiciones de sanidad animal aplicables, la
@@ -1587,9 +1594,9 @@ lo cual se notificará al país exportador.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- Los funcionarios y empleados públicos federales, estatales y municipales, en el ámbito
 de sus respectivas competencias, deberán auxiliar a las autoridades de inspección zoosanitaria en el
@@ -1601,9 +1608,9 @@ parte.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- La Secretaría podrá autorizar a particulares que instalen y operen puntos de verificación
 e inspección zoosanitaria para importación y estaciones cuarentenarias, cuando cumplan los requisitos,
@@ -1613,9 +1620,9 @@ punto de ingreso al país o en franja fronteriza.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- La Secretaría mediante disposiciones de sanidad animal determinará las características
 y especificaciones que deben reunir las estaciones cuarentenarias, así como las regiones donde se
@@ -1630,9 +1637,9 @@ tratamientos o acondicionamientos a las mercancías de importación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Los interesados en la exportación o reexportación de cualquiera de las mercancías
 enunciadas en este Capítulo, deberán solicitar a la Secretaría la expedición del certificado zoosanitario
@@ -1640,9 +1647,9 @@ para exportación, cuando el país de destino lo requiera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- La Secretaría expedirá los certificados zoosanitarios para exportación, cuando las
 mercancías destinadas a la exportación o reexportación, reúnan los requisitos establecidos por el país
@@ -1658,9 +1665,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- Para fines de exportación la Secretaría, a petición y con cargo a los interesados, podrá
 llevar el control zoosanitario y de riesgos de contaminación en las unidades de producción en las que se
@@ -1671,9 +1678,9 @@ autoridad competente del país al que se destinarán las mercancías.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- Cuando el país importador requiera que la empresa exportadora cuente con la
 autorización de la Secretaría, ésta se otorgará si cumple con las disposiciones de sanidad animal y de
@@ -1683,9 +1690,9 @@ la exportación respectiva, la Secretaría evaluará y determinará lo procedent
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- En el caso de la exportación de productos para uso o consumo animal, la Secretaría a
 solicitud de los interesados, expedirá los certificados de libre venta, de origen y de registro vigente de
@@ -1693,9 +1700,9 @@ empresas y productos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- Con el objeto de prevenir, controlar o erradicar la presencia de enfermedades y plagas
 de los animales y a efecto de mejorar y mantener la condición zoosanitaria en el país, la Secretaría
@@ -1704,9 +1711,9 @@ económico y social de la enfermedad o plaga.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- Las campañas zoosanitarias se regularán a través de disposiciones de sanidad animal
 que serán publicadas en el Diario Oficial de la Federación. Dichas disposiciones establecerán los
@@ -1716,9 +1723,9 @@ prevalencia o zonas libres.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- Las disposiciones de sanidad animal en materia de campañas, establecerán la condición
 zoosanitaria de cada entidad, zona o región, la enfermedad o plaga a prevenir, controlar o erradicar; las
@@ -1733,18 +1740,18 @@ Epidemiológica, de acuerdo con lo que se establezca en el Reglamento de esta Le
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Tratándose de zoonosis, la Secretaría, en coordinación con la Secretaría de Salud,
 establecerá las campañas zoosanitarias y sanitarias correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- La Secretaría emitirá las disposiciones de sanidad animal para establecer, organizar y
 coordinar las campañas y supervisará y evaluará su operación.
@@ -1770,9 +1777,9 @@ VIII. Delimitación de las áreas afectadas que se declararán como zonas bajo c
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- Las campañas estarán operadas bajo la responsabilidad de los organismos auxiliares de
 sanidad animal autorizados por la Secretaría, quienes serán responsables de elaborar e implementar un
@@ -1783,9 +1790,9 @@ sanidad animal por entidad federativa en los términos dispuestos en el Reglamen
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- Cuando se requiera despoblar una unidad de producción, por la presencia de una
 enfermedad o plaga que se encuentre en campaña zoosanitaria o enfermedades enzoóticas que la
@@ -1800,9 +1807,9 @@ fondo de contingencia para la despoblación y demás gastos que se deriven.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- Cuando la enfermedad o plaga se circunscriba o rebase el ámbito territorial de una
 entidad federativa, la Secretaría promoverá la celebración de acuerdos o convenios con los gobiernos de
@@ -1812,9 +1819,9 @@ controlar y erradicar enfermedades o plagas o para proteger zonas libres.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- Cuando una plaga o enfermedad tenga efectos nocivos a la sanidad animal y que no sea
 declarada como campaña oficial, la Secretaría en caso promoverá e inducirá programas para su control.
@@ -1834,9 +1841,9 @@ VI. Los mecanismos de evaluación y financiamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- Cuando exista un riesgo zoosanitario, las unidades de producción, y los
 establecimientos estarán sujetos a la aplicación de medidas zoosanitarias o cuarentenas, estas últimas
@@ -1845,9 +1852,9 @@ disposiciones de sanidad animal correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- Las cuarentenas que se apliquen para enfermedades bajo esquema de campaña o
 enfermedades enzoóticas que la Secretaría determine de impacto zoosanitario, social o económico
@@ -1867,9 +1874,9 @@ de notificación a los particulares afectados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Los requisitos y medidas zoosanitarias que se deberán cumplir para movilizar
 mercancías que estén bajo cuarentena, así como los requisitos y medidas zoosanitarias para movilizar
@@ -1888,9 +1895,9 @@ en instalaciones que determine y autorice la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- Para la aplicación de cuarentenas de bienes de origen animal, animales, productos para
 uso o consumo animal, la Secretaría tomará las muestras correspondientes, sujetándose, en lo
@@ -1898,9 +1905,9 @@ conducente, a lo establecido por la Ley Federal sobre Metrología y Normalizaci�
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- Corresponde a la Federación por conducto de la Secretaría, ejercer de manera exclusiva
 la atribución de determinar los requisitos zoosanitarios que deben observar los interesados en movilizar
@@ -1913,9 +1920,9 @@ de mercancías reguladas determine la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- La movilización de mercancías reguladas en el interior del territorio nacional, quedará
 sujeta a la expedición del certificado zoosanitario de movilización en origen de las mercancías, previo al
@@ -1928,18 +1935,18 @@ dependan de un organismo de certificación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- La movilización de mercancías reguladas por el interior del territorio nacional, podrá
 estar sujeta a su rastreabilidad origen-destino cuando lo determine la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- La Secretaría determinará mediante disposiciones de sanidad animal, las características,
 requisitos o especificaciones que deberán reunir los vehículos y la transportación de animales vivos,
@@ -1948,9 +1955,9 @@ zoosanitario o en su caso un riesgo de contaminación de los bienes de origen an
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- La Secretaría difundirá los puntos de verificación e inspección zoosanitaria autorizados
 para verificar o inspeccionar el cumplimiento de esta Ley y demás disposiciones de sanidad animal. La
@@ -1987,9 +1994,9 @@ artículo, serán por cuenta del propietario o poseedor de las mercancías regul
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- La Secretaría será la autoridad facultada para autorizar o cancelar la operación de los
 puntos de verificación e inspección zoosanitaria.
@@ -2001,9 +2008,9 @@ aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- La Secretaría previo análisis, podrá autorizar la movilización en todo el territorio nacional
 de bienes de origen animal de las distintas especies que se procesen en establecimientos Tipo
@@ -2013,9 +2020,9 @@ el control de riesgo requerido, de acuerdo a lo que se establezca en el Reglamen
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- La Secretaría podrá autorizar la movilización de mercancías de alto riesgo entre zonas
 de diferente estatus zoosanitario, cuando se justifique para fines de tratamiento, investigación o
@@ -2025,9 +2032,9 @@ para su traslado inmediato y en condiciones de seguridad zoosanitaria hacia su d
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- La Secretaría establecerá los requisitos a los que se deberá sujetar la movilización de
 material que contenga agentes patógenos.
@@ -2045,9 +2052,9 @@ establecido por otras disposiciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- Los certificados zoosanitarios deberán de contener cuando menos los siguientes datos:
 nombre y domicilio del propietario o poseedor, lugar de origen, lugar de destino específico, fecha de
@@ -2056,18 +2063,18 @@ establezcan en las disposiciones de sanidad animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77.- Las disposiciones de sanidad animal determinarán aquellas mercancías que requieran
 certificado zoosanitario de movilización de acuerdo al riesgo que representen.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78.- Cuando se detecte o se tenga evidencia científica sobre la presencia o entrada
 inminente de enfermedades y plagas exóticas y de notificación obligatoria, erradicadas, desconocidas o
@@ -2085,9 +2092,9 @@ microbiológicos que pueden afectar a los humanos o animales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79.- La Secretaría podrá acordar y convenir con las entidades federativas, el Distrito Federal
 y los municipios, órganos de coadyuvancia y particulares interesados, la creación de uno o varios fondos
@@ -2112,9 +2119,9 @@ solicitar el apoyo de los servicios veterinarios de otros países u organismos r
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80.- En caso de identificarse una emergencia de salud animal, la Secretaría establecerá las
 medidas zoosanitarias correspondientes, las prohibiciones o requisitos para la movilización, importación y
@@ -2123,9 +2130,9 @@ equipo y maquinaria pecuario usado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81.- Para el desarrollo de infraestructura y operación de los programas, servicios y
 actividades de sanidad animal y de buenas prácticas pecuarias, la Secretaría podrá acordar y convenir
@@ -2136,9 +2143,9 @@ partes involucradas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82.- Le corresponde a la Secretaría asumir los costos inmediatos de despoblación en las
 unidades de producción, cuando se presenten en territorio nacional emergencias zoosanitarias por
@@ -2146,9 +2153,9 @@ enfermedades exóticas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83.- Cuando se requiera despoblar una unidad de producción, por la presencia de un brote
 de enfermedad o plaga que se encuentre en campaña zoosanitaria y si se comprueba que el brote se
@@ -2157,9 +2164,9 @@ efecto, el responsable será sancionado y cubrirá los costos que se originen po
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84.- La Secretaría establecerá las bases para la implementación de sistemas de trazabilidad
 en animales, bienes de origen animal o productos para uso o consumo animal. Los sistemas serán
@@ -2169,9 +2176,9 @@ aplicables a las mercancías reguladas a que se refiere esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85.- Los agentes involucrados en cada eslabón de la cadena de valor, deberán implementar
 y mantener un sistema de trazabilidad documentado en las etapas que le correspondan: producción,
@@ -2181,9 +2188,9 @@ efecto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86.- Los sistemas de trazabilidad en animales o en bienes de origen animal, nacionales o
 importados, garantizarán el rastreo desde el sitio de su producción u origen hasta su sacrificio o
@@ -2191,9 +2198,9 @@ procesamiento y se deberá contar con la relación de proveedores y distribuidor
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87.- Los sistemas de trazabilidad en productos para uso o consumo animal e insumos,
 garantizarán el rastreo de materias primas y producto terminado, desde la adquisición, formulación,
@@ -2207,9 +2214,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88.- Los agentes involucrados deberán notificar a la Secretaría cuando sospeche que alguno
 de los animales, bienes de origen animal, productos para uso o consumo animal, que han producido,
@@ -2221,9 +2228,9 @@ de las razones de este retiro.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89.- Será parte del sistema de trazabilidad de los animales y bienes de origen animal,
 productos para uso o consumo animal nacionales, de importación o exportación regulados por esta Ley y
@@ -2239,9 +2246,9 @@ VI. La identificación individual o en grupo de acuerdo a la especie de los anim
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90.- Las disposiciones de sanidad animal y las relativas a buenas prácticas pecuarias que
 expida la Secretaría, establecerán los requisitos que deberán contener las etiquetas de las mercancías
@@ -2249,9 +2256,9 @@ reguladas para efectos de trazabilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91.- La Secretaría estará facultada para determinar, evaluar, dictaminar, registrar, autorizar o
 certificar:
@@ -2273,9 +2280,9 @@ tiempo de retiro de estas substancias en animales vivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92.- La Secretaría determinará aquellos productos para uso o consumo animal que por sus
 condiciones de inocuidad, eficacia y riesgo requieran de registro o autorización. Los requisitos y
@@ -2289,18 +2296,18 @@ autorización de productos para uso o consumo animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93.- La Secretaría publicará en el Diario Oficial de la Federación el listado de las sustancias o
 productos cuyo uso o consumo en animales estén prohibidas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94.- La Secretaría verificará e inspeccionará permanentemente que los titulares de los
 productos registrados o autorizados comprueben periódicamente que se mantiene vigente el origen de
@@ -2314,9 +2321,9 @@ animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95.- La Secretaría expedirá disposiciones de sanidad animal en las que determinará las
 características y especificaciones zoosanitarias que deberán reunir:
@@ -2333,9 +2340,9 @@ animal, así como el Programa de Monitoreo de Residuos Tóxicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96.- Queda prohibida la importación, producción, almacenamiento o comercialización de
 cualquier material biológico de enfermedades o plagas exóticas, sin autorización específica de la
@@ -2343,9 +2350,9 @@ Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97.- Cuando exista evidencia científica de que un producto registrado o autorizado cause
 riesgo zoosanitario o de contaminación de bienes de origen animal o bien no cumple con las
@@ -2360,9 +2367,9 @@ ordenar el retiro del mercado o determinar las medidas zoosanitarias correspondi
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98.- La aplicación, uso o manejo de organismos genéticamente modificados en programas
 experimentales, pilotos, comerciales o en el control y erradicación de enfermedades o plagas, requerirá
@@ -2377,9 +2384,9 @@ emitidas por el laboratorio productor y autorizadas por la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99.- Los productos que así lo requieran deberán manejarse mediante el uso adecuado de la
 cadena fría y medidas de bioseguridad, siendo responsables de su cumplimiento, las empresas
@@ -2388,18 +2395,18 @@ otra persona física o moral vinculada con el manejo, transporte y distribución
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100.- Los productos veterinarios genéricos que se pretendan registrar o autorizar deben
 demostrar su bioequivalencia mediante estudios de biodisponibilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101.- La Secretaría solicitará al fabricante o a los laboratorios de pruebas aprobados o
 autorizados, la información técnica del producto a registrar o autorizar de acuerdo a lo que se establezca
@@ -2414,9 +2421,9 @@ del titular del registro o de la autorización del producto de que se trate.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102.- Las personas físicas o morales que desarrollen o presten cualquier actividad de salud
 animal o servicio veterinario, deberán asegurarse que los productos para uso o consumo animal que
@@ -2424,9 +2431,9 @@ recomienden o utilicen, cuenten con el registro o autorización correspondiente.
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103.- La Secretaría, a través disposiciones de sanidad animal, podrá determinar aquellos
 productos para uso o consumo animal que sólo podrán ser adquiridos o aplicados mediante receta
@@ -2434,9 +2441,9 @@ médica emitida por médicos veterinarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104.- Los laboratorios de pruebas aprobados o autorizados que realicen constatación de
 productos para uso o consumo animal, se sujetarán a las especificaciones, criterios y procedimientos
@@ -2444,9 +2451,9 @@ establecidos en las disposiciones de sanidad animal correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105.- La Secretaría expedirá las disposiciones de sanidad animal, que establezcan las
 características, condiciones, procedimientos, operación y especificaciones zoosanitarias o las relativas a
@@ -2479,13 +2486,13 @@ su caso programas de verificación de los establecimientos, asimismo determinar�
 contar con médicos veterinarios responsables autorizados.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-105" placement="bottom">
+            <note placementBase="#art-105." placement="bottom">
               <p>Fracción reformada DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106.- Los propietarios, el administrador único, los responsables de la administración o
 poseedores de los establecimientos a los que hace referencia el artículo anterior, y los médicos
@@ -2506,7 +2513,7 @@ enfermedad o plaga de notificación obligatoria, enfermedad o plaga exótica o u
 contaminación de los bienes de origen animal.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-106" placement="bottom">
+            <note placementBase="#art-106." placement="bottom">
               <p>Párrafo reformado DOF 16-02-2018</p>
             </note>
           </article>
@@ -2530,9 +2537,9 @@ tóxicas y/o peligrosas en términos de lo dispuesto el artículo 278 de la Ley 
               <p>Artículo adicionado DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107.- La Secretaría autorizará a petición de parte y previo cumplimiento de las disposiciones
 que emanen de esta Ley y en coordinación con la Secretaría de Salud, de acuerdo al ámbito de
@@ -2556,9 +2563,9 @@ autoridad diversa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108.- La Secretaría promoverá que los centros de sacrificio de animales y establecimientos
 de procesamiento de bienes de origen animal obtengan el carácter de Tipo Inspección Federal una vez
@@ -2578,13 +2585,13 @@ beneficio, en las cuales también ejercerá la inspección, verificación y vigi
 unidad de verificación u organismo de certificación.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-108" placement="bottom">
+            <note placementBase="#art-108." placement="bottom">
               <p>Párrafo reformado DOF 16-02-2018</p>
             </note>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109.- Los propietarios o poseedores de los establecimientos a que hace referencia este
 Capítulo, estarán obligados a proporcionar las facilidades necesarias para llevar a cabo los servicios de
@@ -2592,9 +2599,9 @@ inspección, verificación o certificación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110.- Las personas físicas o morales encargadas de los establecimientos a que se refiere
 esta Ley, deberán solicitar autorización o dar aviso de inicio de funcionamiento a la Secretaría, señalando
@@ -2609,9 +2616,9 @@ cualquier tiempo y lugar, la veracidad de la información proporcionada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111.- Las personas físicas o morales que sean titulares de los registros o autorizaciones de
 productos para uso o consumo animal y se dediquen a la formulación, fabricación, importación,
@@ -2623,9 +2630,9 @@ corresponden a las autorizadas por la Secretaría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112.- La Secretaría controlará la prestación de los servicios veterinarios en el territorio
 nacional, a través de las disposiciones de sanidad animal que para el efecto emita. Se consideran como
@@ -2639,9 +2646,9 @@ Secretaría en los términos del Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113.- La Secretaría, los organismos de certificación, unidades de verificación o laboratorios
 de pruebas aprobados determinarán el grado de cumplimiento de las normas oficiales mexicanas o la
@@ -2651,9 +2658,9 @@ el procedimiento de la evaluación de la conformidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114.- La Secretaría establecerá los lineamientos, procedimientos y criterios generales a los
 que se sujetarán los procedimientos de evaluación de la conformidad, estos últimos serán publicados en
@@ -2661,9 +2668,9 @@ el Diario Oficial de la Federación o estarán previstos en las normas oficiales
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115.- La Secretaría, los organismos de certificación, unidades de verificación o laboratorios
 de pruebas aprobados, podrán evaluar la conformidad a petición de parte. Los resultados se harán
@@ -2671,9 +2678,9 @@ constar por escrito.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116.- La Secretaría, los organismos de certificación, unidades de verificación o laboratorios
 de pruebas aprobados podrán auxiliarse de terceros especialistas autorizados por la misma, para realizar
@@ -2687,9 +2694,9 @@ los organismos de certificación, unidades de verificación y laboratorios de pr
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117.- En ningún caso las personas físicas o morales aprobadas como organismos de
 certificación, unidades de verificación o laboratorios de pruebas podrán evaluar la conformidad de las
@@ -2697,9 +2704,9 @@ normas oficiales a sí mismos o cuando tengan un interés directo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118.- La certificación es el procedimiento mediante el cual la Secretaría o un organismo de
 certificación aprobado por la misma, asegura que un producto, proceso, sistema, servicio o
@@ -2707,9 +2714,9 @@ establecimiento cumple con lo señalado en las normas oficiales mexicanas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119.- La certificación será en aquellas materias para las que los organismos de certificación
 fueron específicamente aprobados por la Secretaría, en los términos de esta Ley y de su Reglamento. La
@@ -2717,9 +2724,9 @@ Secretaría o los organismos de certificación expedirán los certificados respe
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120.- La Secretaría o los organismos de certificación podrán auxiliarse de terceros
 especialistas autorizados por la misma, para certificar procesos, productos, servicios o establecimientos.
@@ -2729,9 +2736,9 @@ disposiciones de sanidad animal específicas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121.- La Secretaría aprobará a los organismos de certificación que podrán realizar la
 certificación a procesos, productos, sistemas y establecimientos en los países de origen para la
@@ -2746,9 +2753,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122.- La verificación es el procedimiento mediante el cual la Secretaría o una unidad de
 verificación aprobada por la misma, realizan en un momento determinado la constatación ocular o
@@ -2761,9 +2768,9 @@ dictámenes del grado de cumplimiento de las normas oficiales mexicanas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123.- Los gastos que se originen de la verificación serán con cargo a las personas a quienes
 se practique la verificación.
@@ -2774,9 +2781,9 @@ acuerdos interinstitucionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124.- Las unidades de verificación aprobadas y los terceros especialistas autorizados sólo
 podrán realizar verificaciones a solicitud de la Secretaría o a petición de parte y sobre las materias en las
@@ -2785,9 +2792,9 @@ verificación que formulen serán reconocidos por la Secretaría y por los organ
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125.- La Secretaría podrá realizar, por conducto de personal oficial, visitas de inspección
 ordinarias o extraordinarias, en términos de la Ley Federal de Procedimiento Administrativo, sin perjuicio
@@ -2796,9 +2803,9 @@ ordenamiento y de las disposiciones que de ella deriven.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126.- La Secretaría podrá inspeccionar en cualquier tiempo y lugar el cumplimiento de las
 disposiciones de sanidad animal o de buenas prácticas pecuarias mediante:
@@ -2816,9 +2823,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127.- La Secretaría contará con puntos de verificación e inspección para asegurar el nivel de
 protección zoosanitario en territorio nacional. En ningún caso, dichos puntos podrán constituir barreras
@@ -2836,9 +2843,9 @@ acuerdos de coordinación para realizar la inspección o verificación</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128.- La Secretaría, podrá inspeccionar en cualquier tiempo y lugar animales, bienes de
 origen animal, establecimientos, vehículos, embalajes, maquinaria, equipos, productos para uso o
@@ -2848,9 +2855,9 @@ buenas prácticas pecuarias de los bienes de origen animal aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129.- Las personas que realicen las actividades que se regulan en esta Ley o en las
 disposiciones que deriven de la misma, deberán otorgar al personal debidamente acreditado de la
@@ -2860,9 +2867,9 @@ disposiciones de esta Ley y las que de ella se deriven.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130.- En aquellos casos en que los presuntos infractores sean sorprendidos en ejecución de
 hechos contrarios a esta Ley o a las disposiciones que deriven de la misma, el personal debidamente
@@ -2872,9 +2879,9 @@ inspección.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131.- En los casos en que no se pudiera identificar a los presuntos infractores de esta Ley y
 de las disposiciones que de ella deriven, la Secretaría pondrá término al procedimiento mediante la
@@ -2883,9 +2890,9 @@ caso, ordenará el destino de las mercancías reguladas que hayan sido abandonad
               </content>
             </paragraph>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132.- Cuando para verificar el cumplimiento de las disposiciones contenidas en esta Ley, su
 Reglamento y demás disposiciones de sanidad animal aplicables se requiera de análisis de muestras, el
@@ -2899,9 +2906,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133.- En la resolución administrativa correspondiente, se señalará o, en su caso, adicionará,
 las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas en la
@@ -2911,9 +2918,9 @@ resolución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134.- Cuando derivado de una certificación o verificación se detecte incumplimiento a las
 disposiciones contenidas en esta Ley o de las disposiciones que de ésta deriven; o exista presunción o
@@ -2923,9 +2930,9 @@ Secretaría a efecto de que ésta realice las acciones conducentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135.- En los casos en que proceda, la Secretaría hará del conocimiento del ministerio público
 la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar
@@ -2933,9 +2940,9 @@ uno o más delitos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136.- Cuando exista riesgo inminente de daño, afectación a la salud animal, o diseminación
 de una enfermedad o plaga por notificación oficial, diagnóstico u otro mecanismo científicamente
@@ -2955,9 +2962,9 @@ que motiven la imposición de la medida de seguridad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137.- Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta
 Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las
@@ -2966,9 +2973,9 @@ a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de segur
               </content>
             </paragraph>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>Artículo 138.- La Secretaría, instrumentará, organizará y operará el Servicio Oficial de Seguridad
 Zoosanitaria en el país, bajo el cual cumplirá las siguientes responsabilidades:
@@ -2992,9 +2999,9 @@ prácticas pecuarias y seguridad de los productos registrados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>Artículo 139.- En los puntos de verificación e inspección para importación y puntos de verificación e
 inspección zoosanitaria, se prestarán los servicios de vigilancia epidemiológica y verificación e inspección
@@ -3007,9 +3014,9 @@ Reglamento de esta Ley y demás disposiciones de sanidad animal aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>Artículo 140.- El Consejo Técnico Consultivo Nacional de Sanidad Animal será el órgano nacional de
 consulta en materia de sanidad animal, que apoyará al Estado y a la sociedad mexicana para el
@@ -3022,9 +3029,9 @@ que se requieran para apoyar las actividades del Consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>Artículo 141.- El Consejo Técnico Consultivo Nacional de Sanidad Animal se integrará con:
 I. Representantes de la Secretaría, y de las dependencias y entidades de la Administración
@@ -3047,13 +3054,13 @@ paridad de género.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-141" placement="bottom">
+            <note placementBase="#art-141." placement="bottom">
               <p>Párrafo adicionado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>Artículo 142.- El Consejo Técnico Consultivo Nacional de Sanidad Animal se apoyará en consejos
 consultivos estatales que, en su caso, se constituirán en cada entidad federativa de la misma manera que
@@ -3064,9 +3071,9 @@ de los consejos consultivos estatales, se llevará a cabo en los términos del R
               </content>
             </paragraph>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>Artículo 143.- Para la coordinación y ejecución de las campañas zoosanitarias o los programas sobre
 buenas prácticas pecuarias, la Secretaría autorizará a las organizaciones de los sectores involucrados de
@@ -3080,9 +3087,9 @@ su función.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>Artículo 144.- Las personas físicas o morales interesadas en operar como órganos de coadyuvancia,
 deberán solicitar y obtener de la Secretaría la aprobación o autorización correspondiente conforme a los
@@ -3110,9 +3117,9 @@ con los dispositivos nacionales de emergencia de salud animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>Artículo 145.- La Secretaría promoverá cursos de capacitación y de formación de profesionales en las
 actividades sujetas a aprobación o autorización de la Secretaría y que requieran conocimientos
@@ -3120,9 +3127,9 @@ específicos relacionados con la sanidad animal o de buenas prácticas pecuarias
               </content>
             </paragraph>
           </article>
-          <article id="art-146">
-            <num>Artículo 146</num>
-            <paragraph id="art-146-para-1">
+          <article id="art-146.">
+            <num>Artículo 146.</num>
+            <paragraph id="art-146.-para-1">
               <content>
                 <p>Artículo 146.- Los profesionistas autorizados, deberán estar permanentemente actualizados y
 aprobar los exámenes de conocimientos y cumplir con los requisitos que se determinen en el Reglamento
@@ -3130,9 +3137,9 @@ de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-147">
-            <num>Artículo 147</num>
-            <paragraph id="art-147-para-1">
+          <article id="art-147.">
+            <num>Artículo 147.</num>
+            <paragraph id="art-147.-para-1">
               <content>
                 <p>Artículo 147.- La Secretaría podrá autorizar laboratorios zoosanitarios para auxiliar a la Secretaría,
 para expedir informes de resultados de pruebas de laboratorio de diagnóstico o constatación de
@@ -3144,9 +3151,9 @@ laboratorios de pruebas aprobados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-148">
-            <num>Artículo 148</num>
-            <paragraph id="art-148-para-1">
+          <article id="art-148.">
+            <num>Artículo 148.</num>
+            <paragraph id="art-148.-para-1">
               <content>
                 <p>Artículo 148.- En ningún caso las personas aprobadas o autorizadas, podrán directa o indirectamente
 certificar, verificar, emitir dictámenes de prueba, o evaluar la conformidad o el cumplimiento de normas
@@ -3155,9 +3162,9 @@ cuando tengan un interés directo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-149">
-            <num>Artículo 149</num>
-            <paragraph id="art-149-para-1">
+          <article id="art-149.">
+            <num>Artículo 149.</num>
+            <paragraph id="art-149.-para-1">
               <content>
                 <p>Artículo 149.- Para otorgar cualquiera de las aprobaciones a que se refiere el presente Capítulo, la
 Secretaría formará comités de evaluación en materia de sanidad animal o buenas prácticas pecuarias,
@@ -3165,9 +3172,9 @@ integrados por profesionistas calificados y con experiencia en los campos de las
               </content>
             </paragraph>
           </article>
-          <article id="art-150">
-            <num>Artículo 150</num>
-            <paragraph id="art-150-para-1">
+          <article id="art-150.">
+            <num>Artículo 150.</num>
+            <paragraph id="art-150.-para-1">
               <content>
                 <p>Artículo 150.- Las especificaciones, requisitos, criterios y procedimientos que deberán satisfacer los
 interesados en obtener de la Secretaría la aprobación o autorización que se regula en este Capítulo, así
@@ -3176,9 +3183,9 @@ establecerán en el Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-151">
-            <num>Artículo 151</num>
-            <paragraph id="art-151-para-1">
+          <article id="art-151.">
+            <num>Artículo 151.</num>
+            <paragraph id="art-151.-para-1">
               <content>
                 <p>Artículo 151.- Es responsabilidad de las personas a que se refiere este Capítulo:
 I. Prestar los servicios veterinarios que se regulan en esta Ley, su Reglamento y en su caso, las
@@ -3208,9 +3215,9 @@ de ella deriven.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-152">
-            <num>Artículo 152</num>
-            <paragraph id="art-152-para-1">
+          <article id="art-152.">
+            <num>Artículo 152.</num>
+            <paragraph id="art-152.-para-1">
               <content>
                 <p>Artículo 152.- Se instituye el Premio Nacional de Sanidad Animal, con el objeto de reconocer y
 premiar anualmente el esfuerzo de quienes se destaquen en la prevención, control y erradicación de las
@@ -3219,18 +3226,18 @@ orientadas a las buenas prácticas pecuarias de los bienes de origen animal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-153">
-            <num>Artículo 153</num>
-            <paragraph id="art-153-para-1">
+          <article id="art-153.">
+            <num>Artículo 153.</num>
+            <paragraph id="art-153.-para-1">
               <content>
                 <p>Artículo 153.- El procedimiento para la selección de los acreedores al premio señalado en el artículo
 anterior y las demás previsiones que sean necesarias, se establecerán en el Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
+          <article id="art-154.">
+            <num>Artículo 154.</num>
+            <paragraph id="art-154.-para-1">
               <content>
                 <p>Artículo 154.- La Secretaría promoverá o en su caso hará obligatorio que los establecimientos de
 procesamiento de bienes de origen animal, obtengan el carácter de Tipo Inspección Federal y la
@@ -3252,13 +3259,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-154" placement="bottom">
+            <note placementBase="#art-154." placement="bottom">
               <p>Párrafo adicionado DOF 07-06-2012</p>
             </note>
           </article>
-          <article id="art-155">
-            <num>Artículo 155</num>
-            <paragraph id="art-155-para-1">
+          <article id="art-155.">
+            <num>Artículo 155.</num>
+            <paragraph id="art-155.-para-1">
               <content>
                 <p>Artículo 155.- La Secretaría podrá establecer contraseñas de calidad zoosanitaria para la
 identificación de las mercancías, instalaciones, procesos o servicios que hayan cumplido con lo dispuesto
@@ -3267,9 +3274,9 @@ Secretaría o por organismo de certificación aprobado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-156">
-            <num>Artículo 156</num>
-            <paragraph id="art-156-para-1">
+          <article id="art-156.">
+            <num>Artículo 156.</num>
+            <paragraph id="art-156.-para-1">
               <content>
                 <p>Artículo 156.- La Secretaría, podrá establecer contraseñas que garanticen el cumplimiento de
 requisitos y especificaciones señaladas en disposiciones de carácter voluntario. Estas contraseñas
@@ -3278,9 +3285,9 @@ menoscabo de lo que establezcan otras dependencias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-157">
-            <num>Artículo 157</num>
-            <paragraph id="art-157-para-1">
+          <article id="art-157.">
+            <num>Artículo 157.</num>
+            <paragraph id="art-157.-para-1">
               <content>
                 <p>Artículo 157.- La Secretaría mediante Acuerdo publicará en el Diario Oficial de la Federación, las
 mercancías, instalaciones, procesos o servicios que podrán ostentar las contraseñas y marcas oficiales
@@ -3288,9 +3295,9 @@ que por su tipo les sean aplicables y que garantizan su calidad zoosanitaria.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-158">
-            <num>Artículo 158</num>
-            <paragraph id="art-158-para-1">
+          <article id="art-158.">
+            <num>Artículo 158.</num>
+            <paragraph id="art-158.-para-1">
               <content>
                 <p>Artículo 158.- La Secretaría integrará y administrará el Sistema de Vigilancia de Sanidad Animal, el
 cual consistirá en un registro público en donde se asentará la información básica sobre los certificados
@@ -3306,9 +3313,9 @@ animal o prestación de servicios veterinarios tendrá efectos declarativos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-159">
-            <num>Artículo 159</num>
-            <paragraph id="art-159-para-1">
+          <article id="art-159.">
+            <num>Artículo 159.</num>
+            <paragraph id="art-159.-para-1">
               <content>
                 <p>Artículo 159.- Para promover el desarrollo de actividades de sanidad animal, prestación de servicios
 veterinarios e instalación y operación de establecimientos certificados, la Secretaría elaborará,
@@ -3321,9 +3328,9 @@ harán en los términos del Reglamento correspondiente de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-160">
-            <num>Artículo 160</num>
-            <paragraph id="art-160-para-1">
+          <article id="art-160.">
+            <num>Artículo 160.</num>
+            <paragraph id="art-160.-para-1">
               <content>
                 <p>Artículo 160.- La Secretaría, sin perjuicio de las atribuciones que correspondan a otras dependencias
 y entidades de la Administración Pública Federal en materia de Sanidad Animal, operará el Sistema
@@ -3342,9 +3349,9 @@ zoosanitaria nacional, constituyéndose este Sistema en la fuente oficial de inf
               </content>
             </paragraph>
           </article>
-          <article id="art-161">
-            <num>Artículo 161</num>
-            <paragraph id="art-161-para-1">
+          <article id="art-161.">
+            <num>Artículo 161.</num>
+            <paragraph id="art-161.-para-1">
               <content>
                 <p>Artículo 161.- La Secretaría determinará y establecerá las medidas aplicables por el Sistema
 Nacional de Vigilancia Epidemiológica, con los siguientes propósitos:
@@ -3376,18 +3383,18 @@ presencia de enfermedades exóticas, endémicas, de carácter toxicológico y de
               </content>
             </paragraph>
           </article>
-          <article id="art-162">
-            <num>Artículo 162</num>
-            <paragraph id="art-162-para-1">
+          <article id="art-162.">
+            <num>Artículo 162.</num>
+            <paragraph id="art-162.-para-1">
               <content>
                 <p>Artículo 162.- La Secretaría establecerá y actualizará el Programa Nacional de Control y Monitoreo
 de Residuos Tóxicos en los bienes de origen animal, en los términos del Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-163">
-            <num>Artículo 163</num>
-            <paragraph id="art-163-para-1">
+          <article id="art-163.">
+            <num>Artículo 163.</num>
+            <paragraph id="art-163.-para-1">
               <content>
                 <p>Artículo 163.- El análisis de riesgo es un estudio científico que tiene por objeto la evaluación de la
 probabilidad de entrada, establecimiento o difusión de enfermedades o plagas o de contaminación de los
@@ -3397,9 +3404,9 @@ enfermedad o plaga en un país, región o zona determinada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-164">
-            <num>Artículo 164</num>
-            <paragraph id="art-164-para-1">
+          <article id="art-164.">
+            <num>Artículo 164.</num>
+            <paragraph id="art-164.-para-1">
               <content>
                 <p>Artículo 164.- La Secretaría, mediante disposiciones de salud animal o de buenas prácticas
 pecuarias, determinará el tipo de análisis de riesgo requerido para cada enfermedad o plaga o agentes
@@ -3416,9 +3423,9 @@ información utilizadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-165">
-            <num>Artículo 165</num>
-            <paragraph id="art-165-para-1">
+          <article id="art-165.">
+            <num>Artículo 165.</num>
+            <paragraph id="art-165.-para-1">
               <content>
                 <p>Artículo 165.- Toda persona podrá denunciar ante la Secretaría, los hechos, actos u omisiones que
 atenten contra la sanidad animal o que causen la contaminación de los bienes de origen animal.
@@ -3438,9 +3445,9 @@ la información con que cuente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-166">
-            <num>Artículo 166</num>
-            <paragraph id="art-166-para-1">
+          <article id="art-166.">
+            <num>Artículo 166.</num>
+            <paragraph id="art-166.-para-1">
               <content>
                 <p>Artículo 166.- Los interesados afectados por los actos y resoluciones de las autoridades
 administrativas, podrán interponer el recurso de revisión en términos del Título Sexto, Capítulo Primero
@@ -3451,9 +3458,9 @@ respectivamente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-167">
-            <num>Artículo 167</num>
-            <paragraph id="art-167-para-1">
+          <article id="art-167.">
+            <num>Artículo 167.</num>
+            <paragraph id="art-167.-para-1">
               <content>
                 <p>Artículo 167.- Las infracciones a lo dispuesto por esta Ley y demás disposiciones que emanen de la
 misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que
@@ -3470,26 +3477,12 @@ especificaciones tendientes a procurar el bienestar de los animales en términos
 Ley;
 III. Incumplir lo establecido en materia de atención a los animales para su alimentación y
 medicamentos, en términos del artículo 21 de esta Ley;
-IV. Incumplir la regulación en materia de sacrificio humanitario de los animales, conforme lo dispone el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
-              <content>
-                <p>artículo 23 de esta Ley;
+IV. Incumplir la regulación en materia de sacrificio humanitario de los animales, conforme lo dispone el
+artículo 23 de esta Ley;
 V. No dar cumplimiento en el punto de ingreso al país a las disposiciones en materia de importación
 de mercancías a que hace referencia el artículo 24 de esta Ley;
-VI. Incumplir las disposiciones en materia de importaciones de conformidad con lo establecido en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
-              <content>
-                <p>artículo 26 de esta Ley;
+VI. Incumplir las disposiciones en materia de importaciones de conformidad con lo establecido en el
+artículo 26 de esta Ley;
 VII. Transgredir lo dispuesto en materia de cuarentenas y guardas custodias-cuarentenas, a que hace
 referencia el artículo 30 de esta Ley;
 VIII. Transgredir lo ordenado en materia de importaciones e incumplimiento del certificado de libre
@@ -3560,24 +3553,17 @@ XLVIII. Incumplir las obligaciones de los supuestos previstos en el artículo 14
 XLIX. Transgredir las disposiciones establecidas en el artículo 148 de esta Ley;
 L. Incumplir con las responsabilidades a que se refiere el artículo 151 de esta Ley, en sus fracciones:
 I, II, III, IV, V, VI, VII y VIII;
-LI. Ostentar la contraseña Tipo Inspección Federal, sin dar cumplimiento a las disposiciones del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
-              <content>
-                <p>artículo 154 de esta Ley;
+LI. Ostentar la contraseña Tipo Inspección Federal, sin dar cumplimiento a las disposiciones del
+artículo 154 de esta Ley;
 LII. Ostentar sin autorización las contraseñas y marcas oficiales a las que hace referencia el artículo
 157 de esta Ley; y
 LIII. Las demás infracciones a lo establecido en esta Ley o su Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-168">
-            <num>Artículo 168</num>
-            <paragraph id="art-168-para-1">
+          <article id="art-168.">
+            <num>Artículo 168.</num>
+            <paragraph id="art-168.-para-1">
               <content>
                 <p>Artículo 168.- Para la imposición de sanciones la Secretaría, previo el cumplimiento a la garantía de
 audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, tomará en
@@ -3594,9 +3580,9 @@ permiso.
               </content>
             </paragraph>
           </article>
-          <article id="art-169">
-            <num>Artículo 169</num>
-            <paragraph id="art-169-para-1">
+          <article id="art-169.">
+            <num>Artículo 169.</num>
+            <paragraph id="art-169.-para-1">
               <content>
                 <p>Artículo 169.- La Secretaría impondrá las multas teniendo en cuenta la gravedad de la falta y las
 condiciones económicas del infractor, conforme a la tabla del artículo siguiente y de acuerdo con el
@@ -3619,25 +3605,25 @@ vigente al momento de cometerse la conducta sancionada.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-169" placement="bottom">
+            <note placementBase="#art-169." placement="bottom">
               <p>Inciso reformado DOF 21-05-2024</p>
             </note>
-            <note placementBase="#art-169" placement="bottom">
+            <note placementBase="#art-169." placement="bottom">
               <p>Inciso reformado DOF 21-05-2024</p>
             </note>
-            <note placementBase="#art-169" placement="bottom">
+            <note placementBase="#art-169." placement="bottom">
               <p>Inciso reformado DOF 21-05-2024</p>
             </note>
-            <note placementBase="#art-169" placement="bottom">
+            <note placementBase="#art-169." placement="bottom">
               <p>Inciso reformado DOF 21-05-2024</p>
             </note>
-            <note placementBase="#art-169" placement="bottom">
+            <note placementBase="#art-169." placement="bottom">
               <p>Párrafo reformado DOF 21-05-2024</p>
             </note>
           </article>
-          <article id="art-170">
-            <num>Artículo 170</num>
-            <paragraph id="art-170-para-1">
+          <article id="art-170.">
+            <num>Artículo 170.</num>
+            <paragraph id="art-170.-para-1">
               <content>
                 <p>Artículo 170.- Las sanciones y multas establecidas en el presente ordenamiento se aplicarán
 conforme a la siguiente tabla:
@@ -3716,9 +3702,9 @@ La suspensión temporal por la revocación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-171">
-            <num>Artículo 171</num>
-            <paragraph id="art-171-para-1">
+          <article id="art-171.">
+            <num>Artículo 171.</num>
+            <paragraph id="art-171.-para-1">
               <content>
                 <p>Artículo 171.- Al que ingrese al territorio nacional animales, bienes de origen animal, así como
 productos para uso o consumo animal y por cualquier medio evada un punto de inspección en materia
@@ -3728,13 +3714,13 @@ valor diario de la Unidad de Medida y Actualización.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-171" placement="bottom">
+            <note placementBase="#art-171." placement="bottom">
               <p>Artículo reformado DOF 21-05-2024</p>
             </note>
           </article>
-          <article id="art-172">
-            <num>Artículo 172</num>
-            <paragraph id="art-172-para-1">
+          <article id="art-172.">
+            <num>Artículo 172.</num>
+            <paragraph id="art-172.-para-1">
               <content>
                 <p>Artículo 172.- Al que introduzca al territorio nacional o dentro de éste, transporte o comercie con
 animales vivos, sus productos o subproductos, que hayan sido alimentados con una sustancia cuyo uso
@@ -3750,7 +3736,7 @@ Unidad de Medida y Actualización y en caso de reincidencia se duplicará la pen
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-172" placement="bottom">
+            <note placementBase="#art-172." placement="bottom">
               <p>Artículo reformado DOF 21-05-2024</p>
             </note>
           </article>
@@ -3811,9 +3797,9 @@ lo dispuesto en el artículo 93 de esta Ley.
               <p>Artículo adicionado DOF 21-05-2024</p>
             </note>
           </article>
-          <article id="art-173">
-            <num>Artículo 173</num>
-            <paragraph id="art-173-para-1">
+          <article id="art-173.">
+            <num>Artículo 173.</num>
+            <paragraph id="art-173.-para-1">
               <content>
                 <p>Artículo 173.- Al que sin autorización de las autoridades zoosanitarias competentes o contraviniendo
 los términos en que ésta haya sido concedida, importe, posea, transporte, almacene, comercialice o en
@@ -3830,13 +3816,13 @@ encuentren en el interior de establecimientos dedicados a la producción animal 
 expendio de alimentos para ganado.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-173" placement="bottom">
+            <note placementBase="#art-173." placement="bottom">
               <p>Párrafo reformado DOF 21-05-2024</p>
             </note>
           </article>
-          <article id="art-174">
-            <num>Artículo 174</num>
-            <paragraph id="art-174-para-1">
+          <article id="art-174.">
+            <num>Artículo 174.</num>
+            <paragraph id="art-174.-para-1">
               <content>
                 <p>Artículo 174.- Al que distribuya, ordene el suministro o suministre a animales destinados al abasto
 alguna sustancia o alimento prohibidos conforme a los artículos 93 y 172 Bis de esta Ley, y demás
@@ -3845,13 +3831,13 @@ mil veces el valor diario de la Unidad de Medida y Actualización.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-174" placement="bottom">
+            <note placementBase="#art-174." placement="bottom">
               <p>Artículo reformado DOF 21-05-2024</p>
             </note>
           </article>
-          <article id="art-175">
-            <num>Artículo 175</num>
-            <paragraph id="art-175-para-1">
+          <article id="art-175.">
+            <num>Artículo 175.</num>
+            <paragraph id="art-175.-para-1">
               <content>
                 <p>Artículo 175.- Se sancionará con penalidad de uno a cinco años de prisión y multa de hasta mil veces
 el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones administrativas que
@@ -3867,45 +3853,118 @@ su expedición.
 A quien extorsione o agreda, verbal, moral o físicamente a una autoridad oficial en el ejercicio de sus
 funciones en un establecimiento Tipo Inspección Federal, sin detrimento de lo que establezcan otras
 disposiciones legales.
-TRANSITORIOS
-PRIMERO.- La presente Ley Federal de Sanidad Animal entrará en vigor al día siguiente de su
-publicación en el Diario Oficial de la Federación.
-SEGUNDO.- Se abroga la Ley Federal de Sanidad Animal publicada en el Diario Oficial de la
-Federación el 18 de junio de 1993.
-TERCERO.- En tanto no se publique el Reglamento de esta Ley, seguirán aplicándose en lo que no
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-175." placement="bottom">
+              <p>Párrafo reformado DOF 21-05-2024</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente Ley Federal de Sanidad Animal entrará en vigor al día siguiente de su
+publicación en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se abroga la Ley Federal de Sanidad Animal publicada en el Diario Oficial de la
+Federación el 18 de junio de 1993.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- En tanto no se publique el Reglamento de esta Ley, seguirán aplicándose en lo que no
 contravenga a sus disposiciones el Reglamento para Campañas de Sanidad Animal, el Reglamento para
 el Control de Productos Químicos-Farmacéuticos, Biológicos, Alimenticios, Equipo y Servicios para
 Animales, el Reglamento de la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos en Materia
 de Movilización de Animales y sus Productos y el Reglamento para la Industrialización Sanitaria de la
 Carne y las demás disposiciones reglamentarias, normativas y administrativas vigentes a la fecha de
-entrada en vigor del presente ordenamiento.
-CUARTO.- Los registros, permisos, autorizaciones, certificados y aprobaciones otorgados con
+entrada en vigor del presente ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los registros, permisos, autorizaciones, certificados y aprobaciones otorgados con
 anterioridad a la fecha de entrada en vigor de esta Ley seguirán vigentes, los nuevos trámites se
-sujetarán a las disposiciones de la presente Ley.
-QUINTO.- Los Organismos Coordinadores de la Movilización Animal, dejarán de operar como tales en
-un plazo de veinticuatro meses contados a partir de la entrada en vigor de la presente Ley.
-SEXTO.- La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación tendrá un
+sujetarán a las disposiciones de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los Organismos Coordinadores de la Movilización Animal, dejarán de operar como tales en
+un plazo de veinticuatro meses contados a partir de la entrada en vigor de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación tendrá un
 plazo de doce meses, contados a partir de la entrada en vigor de esta Ley, para elaborar, proponer y
 publicar en el Diario Oficial de la Federación, el marco normativo general en materia de buenas prácticas
 pecuarias de los bienes de origen animal. Asimismo la Secretaría tendrá un plazo de doce meses
 contados a partir de la publicación de esta Ley para expedir el o los Reglamentos que se deriven de la
 presente Ley, en coordinación con la Secretaría de Salud de acuerdo al ámbito de competencia de cada
-Secretaría, cuando se trate del procesamiento en Establecimientos Tipo Inspección Federal.
-SÉPTIMO.- La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación tendrá un
+Secretaría, cuando se trate del procesamiento en Establecimientos Tipo Inspección Federal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación tendrá un
 plazo de doce meses, contados a partir de la entrada en vigor del Reglamento, para establecer y aplicar
 las bases para la implementación de sistemas de trazabilidad en animales, bienes de origen animal o
-productos para uso o consumo animal.
-OCTAVO.- La Secretaría tendrá un plazo de veinticuatro meses, contados a partir del inicio de la
+productos para uso o consumo animal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- La Secretaría tendrá un plazo de veinticuatro meses, contados a partir del inicio de la
 vigencia de esta Ley, para reestructurar y asignar los recursos necesarios para que los servicios
-veterinarios se ajusten en los términos que se establecen en esta Ley.
-NOVENO.- La Secretaría en un plazo máximo de doce meses publicará en el Diario Oficial de la
+veterinarios se ajusten en los términos que se establecen en esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO.- La Secretaría en un plazo máximo de doce meses publicará en el Diario Oficial de la
 Federación los puntos de verificación e inspección zoosanitaria internos autorizados.
 58 de 65
 LEY FEDERAL DE SANIDAD ANIMAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 21-05-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-DÉCIMO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta
 Ley, que se hubieren iniciado bajo la vigencia de la Ley Federal de Sanidad Animal que ésta abroga, se
 tramitarán y resolverán conforme a las disposiciones de dicha Ley.
 México, D.F., a 26 de abril de 2007.- Dip. Maria Elena Alvarez Bernal, Vicepresidenta.- Sen. Manlio
@@ -3930,25 +3989,67 @@ Artículo Primero. Se reforman los artículos 1; 2, primer párrafo; 3; 4, en su
 párrafos al artículo 2, un artículo 106 Bis y un segundo párrafo al artículo 154 de la Ley Federal de
 Sanidad Animal, para quedar como sigue:
 ……….
-Transitorios
-PRIMERO.- El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- La Secretaría expedirá las disposiciones que deberán contener los lineamientos y
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente decreto entrará en vigor el día siguiente al de la publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- La Secretaría expedirá las disposiciones que deberán contener los lineamientos y
 requisitos para la certificación de los establecimientos donde se sacrifican animales, o procesan,
 envasan, empacan, refrigeran o industrializan bienes de origen animal, en seis meses a partir de la
-entrada en vigor del presente decreto.
-TERCERO.- La Secretaría difundirá en los medios impresos y electrónicos, la participación de los
-municipios y gobiernos de los estados y del Distrito Federal, en los programas de certificación.
-CUARTO.- Las legislaturas de los estados deberán adecuar en su legislación correspondiente las
+entrada en vigor del presente decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- La Secretaría difundirá en los medios impresos y electrónicos, la participación de los
+municipios y gobiernos de los estados y del Distrito Federal, en los programas de certificación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Las legislaturas de los estados deberán adecuar en su legislación correspondiente las
 reformas contenidas en el presente decreto, para fomentar la certificación por parte de la secretaría de
 los establecimientos dedicados al sacrificio de animales o que procesan, envasan, empacan, refrigeran o
-industrializan bienes de origen animal de competencia municipal.
-QUINTO.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la
+industrializan bienes de origen animal de competencia municipal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la
 Administración Pública Federal para dar cumplimiento al presente Decreto, deberán cubrirse en función
 de los ingresos disponibles conforme a la Ley de Ingresos de la Federación, y sujetarse a la
 disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la
-Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
-SEXTO.- Para la debida instauración del presente Decreto, el Ejecutivo Federal instruirá a las
+Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Para la debida instauración del presente Decreto, el Ejecutivo Federal instruirá a las
 Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Salud, a efecto de
 que en un plazo no mayor a 90 días, suscriban las bases de coordinación que determinarán el ejercicio
 de las atribuciones que, en materia de inspección y vigilancia de la calidad, sanidad e inocuidad de los
@@ -4022,14 +4123,35 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 Artículo Vigésimo Sexto. Se adiciona un segundo párrafo al artículo 141 de la Ley Federal de
 Sanidad Animal, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta
@@ -4072,9 +4194,6 @@ Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María A
 65 de 65</p>
               </content>
             </paragraph>
-            <note placementBase="#art-175" placement="bottom">
-              <p>Párrafo reformado DOF 21-05-2024</p>
-            </note>
           </article>
           <article id="trans-1">
             <num>PRIMERO</num>

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2019-09-30/lrart3_mmce_300919/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2019-09-30/lrart3_mmce_300919/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -81,9 +81,9 @@
         </chapter>
         <chapter id="chapter-13">
           <num>Capítulo III Del régimen laboral</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es reglamentaria del artículo 3o. de la Constitución Política de los Estados
 Unidos Mexicanos, en materia de mejora continua de la educación. Es de observancia general para toda
@@ -95,9 +95,9 @@ diagnósticas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría y la
 Comisión, en sus respectivos ámbitos de competencia.
@@ -114,9 +114,9 @@ derecho a la educación celebrados por el Estado mexicano.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Para efectos de esta Ley se entiende por:
 I. Autoridades de educación media superior: a la instancia de la Secretaría de Educación Pública
@@ -130,15 +130,8 @@ ejercicio de la función social educativa;
 IV. Comisión: a la Comisión Nacional para la Mejora Continua de la Educación;
 V. Comité: al Comité consultivo y deliberativo de las acciones del Sistema Nacional de Mejora
 Continua de la Educación;
-VI. Consejo Ciudadano: al Consejo Ciudadano referido en el último párrafo de la fracción IX del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-3o">
-            <num>Artículo 3o</num>
-            <paragraph id="art-3o-para-1">
-              <content>
-                <p>artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;
+VI. Consejo Ciudadano: al Consejo Ciudadano referido en el último párrafo de la fracción IX del
+artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;
 VII. Consejo Técnico: al Consejo Técnico de Educación;
 VIII. Junta: a la Junta Directiva de la Comisión;
 IX. Ley: al presente ordenamiento;
@@ -153,9 +146,9 @@ Maestros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. El Sistema Nacional de Mejora Continua de la Educación es un conjunto de actores,
 instituciones y procesos estructurados y coordinados, que contribuyen a la mejora continua de la
@@ -170,9 +163,9 @@ de los Estados Unidos Mexicanos, en la Ley General de Educación y en la present
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. El Sistema tiene por objeto contribuir a garantizar la excelencia y la equidad de los
 servicios educativos prestados por el Estado y los particulares con autorización o con reconocimiento de
@@ -180,9 +173,9 @@ validez oficial de estudios, para contribuir al desarrollo integral del educando
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. Los principios del Sistema son:
 I. El aprendizaje de las niñas, niños, adolescentes y jóvenes, como centro de la acción del Estado
@@ -211,9 +204,9 @@ Política de los Estados Unidos Mexicanos, para lograr la mejora continua de la 
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. El Sistema contará con un Comité consultivo y deliberativo, cuya función será:
 I. Coadyuvar en las acciones del Sistema, a fin de contribuir a la mejora continua del Sistema
@@ -233,18 +226,18 @@ la educación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Los integrantes del Comité acordarán los lineamientos que regirán su funcionamiento, así
 como las actividades específicas de colaboración encaminadas a lograr los principios del Sistema.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. El Comité estará integrado por:
 I. La persona titular de la Secretaría de Educación Pública, quien lo presidirá;
@@ -264,9 +257,9 @@ voto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. El Comité mediante mayoría simple del voto de sus integrantes presentes en la sesión
 correspondiente y a iniciativa de su presidencia, nombrará a la persona titular de la Secretaría Técnica
@@ -276,9 +269,9 @@ anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. El Comité sesionará de manera ordinaria tres veces al año y de manera extraordinaria
 cuando así se requiera.
@@ -290,9 +283,9 @@ Educativas que adopte en materia de mejora continua de la educación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. El personal que ejerza las funciones docentes, directiva o de supervisión tendrá derecho
 a acceder a un sistema integral de formación, de capacitación y de actualización.
@@ -308,9 +301,9 @@ profesional y cursos, de conformidad con los criterios que emita la Comisión.</
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. La Secretaría, las autoridades de educación media superior, las autoridades educativas
 de los Estados y la Ciudad de México y los organismos descentralizados, podrán suscribir convenios de
@@ -323,9 +316,9 @@ la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. El Sistema Integral de Formación, Capacitación y Actualización tendrá los siguientes
 fines:
@@ -354,9 +347,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. Para efectos de su instrumentación y con el fin de garantizar el derecho al acceso al
 Sistema Integral de Formación, Capacitación y Actualización, se entenderá por:
@@ -372,9 +365,9 @@ proporcionar las bases teórico prácticas de la pedagogía y demás ciencias de
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. La oferta de formación, capacitación y actualización deberá:
 I. Centrarse en la mejora continua de las maestras y los maestros para fortalecer el aprendizaje
@@ -414,9 +407,9 @@ prestación de los servicios educativos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. La Unidad del Sistema, enviará a la Comisión los resultados de los procesos de selección
 para la admisión, promoción y reconocimiento previstos en la Ley respectiva, para que determine, formule
@@ -436,9 +429,9 @@ formulados por la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Las evaluaciones diagnósticas serán formativas e integrales y consisten en procesos
 mediante los cuales se formulan juicios fundamentados en evidencia, sobre las cualidades de los actores,
@@ -459,9 +452,9 @@ diagnósticas y formativas previstas en este artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. El Sistema Integral de Formación, Capacitación y Actualización será retroalimentado por
 evaluaciones diagnósticas, las cuales tendrán como objetivo fortalecer las capacidades, conocimientos,
@@ -478,9 +471,9 @@ desarrollo humano y profesional de las maestras y los maestros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. La evaluación diagnóstica será un proceso para apreciar las capacidades, conocimientos,
 aptitudes, habilidades, destrezas y actitudes del personal que ejerza la función docente, directiva o de
@@ -491,9 +484,9 @@ los servicios educativos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Con la finalidad de que el personal docente, técnico docente, asesor técnico pedagógico,
 con funciones de dirección y de supervisión, en la educación básica y media superior que imparta el
@@ -506,18 +499,18 @@ funciones del personal al que se refiere el presente Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Los resultados de la evaluación diagnóstica en ningún caso tendrán efecto sobre la
 permanencia en la plaza de las maestras y los maestros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. La Unidad del Sistema determinará los procesos, criterios e indicadores, además de los
 mecanismos de participación de las autoridades de educación media superior, las autoridades educativas
@@ -527,9 +520,9 @@ supervisión, en términos de las disposiciones previstas en esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. La Comisión se constituye como un organismo público descentralizado, no sectorizado,
 con autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con personalidad jurídica y
@@ -539,9 +532,9 @@ artículos 5, fracción II y 29 de la Ley Federal de Presupuesto y Responsabilid
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. El Presupuesto de Egresos de la Federación deberá contener las partidas y previsiones
 necesarias para sufragar los gastos derivados de la operación de la Comisión, quedando sometido a las
@@ -549,9 +542,9 @@ reglas de contabilidad, presupuesto y gasto público aplicables a la Administrac
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. El patrimonio de la Comisión se integra con los recursos que se le asignen en el
 Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, los derechos y bienes
@@ -568,18 +561,18 @@ otras que reciba de personas físicas y morales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Comisión se rige para su organización, funcionamiento y control, por las disposiciones
 constitucionales relativas, las de esta Ley, las de su Reglamento y demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La Comisión tiene por objeto coordinar el Sistema Nacional de Mejora Continua de la
 Educación, y tiene las siguientes atribuciones en términos del artículo 3o. de la Constitución Política de
@@ -605,9 +598,9 @@ transparencia, rendición de cuentas, objetividad, pertinencia, diversidad e inc
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. La Comisión está integrada por:
 I. La Junta Directiva;
@@ -625,9 +618,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La Junta de la Comisión es el cuerpo colegiado responsable de la conducción,
 planeación, programación, organización y coordinación de los trabajos de la Comisión. Para tal efecto, se
@@ -636,9 +629,9 @@ integran la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. La Junta se integra por cinco personas denominadas comisionados, nombradas por la
 Cámara de Senadores, con el voto de las dos terceras partes de sus integrantes, las cuales durarán en
@@ -657,9 +650,9 @@ Las personas que integren la Junta serán remuneradas conforme a las disposicion
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Las personas que integren la Junta, deberán reunir los requisitos siguientes:
 I. Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
@@ -674,18 +667,18 @@ Gobierno de la Ciudad de México, en los cuatro años anteriores a la designaci�
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Las personas integrantes de la Junta sólo podrán ser removidas por causa grave en los
 términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. La persona que presida la Junta será nombrada por sus integrantes por un periodo de
 dos años y presidirá el Consejo Técnico. Su ausencia temporal será suplida por el integrante que la Junta
@@ -693,9 +686,9 @@ determine.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Son facultades de la Junta:
 I. Proponer, al titular del Ejecutivo Federal, para su consideración las modificaciones al
@@ -729,9 +722,9 @@ XI. Las demás que confiera esta Ley y otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. La Junta sesionará de manera ordinaria una vez al mes y extraordinariamente cuando
 sea necesario. En ambos casos, se requiere un quórum de mayoría simple de sus integrantes para su
@@ -743,9 +736,9 @@ reglas para el debido funcionamiento de la Junta se establecerán en el Reglamen
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Los acuerdos que resulten de las sesiones de la Junta quedarán asentados en el Acta de
 la sesión y se harán del dominio público en un plazo no mayor a setenta y dos horas a través del medio
@@ -755,9 +748,9 @@ correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. La Junta se auxiliará de la Secretaría Ejecutiva, quien asistirá con voz, pero sin voto, a
 las sesiones.
@@ -773,9 +766,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Las personas integrantes de la Junta desempeñarán su función con autonomía y
 probidad, no podrán utilizar la información reservada o confidencial de que dispongan en razón de su
@@ -786,9 +779,9 @@ serán acreedores a las responsabilidades que establezcan las disposiciones en l
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Corresponden a la presidencia de la Junta las facultades siguientes:
 I. Coordinar los trabajos de la Junta;
@@ -802,9 +795,9 @@ VI. Las demás que le confiera la presente Ley o las derivadas de los acuerdos d
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. La Comisión contará con un Consejo Técnico de Educación, que será un órgano
 colegiado multidisciplinario, cuyo propósito es asesorar a la Junta en aspectos técnicos y metodológicos,
@@ -812,18 +805,18 @@ en materia de mejora continua de la educación, para el cumplimiento de sus atri
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. El Consejo Técnico será presidido por la presidencia de la Junta, y se apoyará de la
 Secretaría Ejecutiva de la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. El Consejo Técnico estará integrado por siete personas nombradas por la Cámara de
 Senadores, con el voto de las dos terceras partes de sus integrantes, las cuales durarán en su cargo
@@ -851,9 +844,9 @@ procesos de elección para miembros del Consejo Técnico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Le corresponde al Consejo Técnico:
 I. Asesorar, revisar y, en su caso, formular recomendaciones técnicas y metodológicas a la Junta
@@ -874,9 +867,9 @@ caso, la presidencia de la Comisión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Para cumplir con sus funciones, el Consejo Técnico establecerá siete Comités presididos
 uno por cada integrante. El Reglamento determinará su funcionamiento.
@@ -894,18 +887,18 @@ modalidad de violencia y discriminación, especialmente la que se ejerce contra 
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. El Consejo Técnico se reunirá ordinariamente cuatro veces al año y, de manera
 extraordinaria, a convocatoria de su presidencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Las personas que integren el Consejo Técnico serán remuneradas por su participación
 en las sesiones ordinarias o extraordinarias y, en su caso, por trabajos específicos que le sean
@@ -920,9 +913,9 @@ través de la Secretaría Ejecutiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. La presidencia del Consejo Técnico, a través de la Secretaría Técnica, convocará a las
 sesiones mediante comunicado escrito o en forma electrónica, asegurando su recepción.
@@ -935,9 +928,9 @@ que adopten serán válidas cuando se aprueben por la mayoría simple de los mie
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. En el acta que se levante de las sesiones ordinarias o extraordinarias, quedarán
 consignados, si los hubiere, los acuerdos, así como el resumen de los asuntos tratados y las opiniones
@@ -947,9 +940,9 @@ sesiones ordinarias o extraordinarias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. El Consejo Ciudadano es un órgano colegiado honorífico de consulta de la Comisión,
 constituido bajo el principio de máxima inclusión, cuyo propósito es facilitar la participación activa y
@@ -961,9 +954,9 @@ programas de mediano plazo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. El Consejo Ciudadano elegirá a la persona que lo presida, entre uno de sus miembros,
 por mayoría simple de sus integrantes. Se apoyará en la Secretaría Ejecutiva, quien tendrá el carácter de
@@ -971,9 +964,9 @@ Secretaría Técnica de dicho Consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. El Consejo Ciudadano se integrará de la siguiente manera:
 I. Constará de 15 miembros de pleno derecho, seleccionados por convocatoria pública expedida
@@ -1001,9 +994,9 @@ VII. La pertenencia al Consejo Ciudadano será de carácter honorífico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. El Consejo Ciudadano sesionará de manera ordinaria tres veces al año. Podrá sesionar
 de manera extraordinaria a solicitud de la presidencia o de la Junta.
@@ -1023,9 +1016,9 @@ Ciudadano, a través de la Secretaría Técnica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. La presidencia del Consejo Ciudadano, por conducto de la Secretaría Técnica, convocará
 a las sesiones mediante comunicado escrito o en forma electrónica, asegurando su recepción. En dicho
@@ -1036,9 +1029,9 @@ que deberá ser enviada con al menos cinco días hábiles de anticipación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. En el acta que se levante de las sesiones ordinarias o extraordinarias, quedarán
 consignados, si los hubiere, los acuerdos, así como las opiniones expresadas en cada asunto.
@@ -1048,9 +1041,9 @@ extraordinarias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. La Secretaría Ejecutiva es la instancia encargada de auxiliar a la Junta en la
 coordinación, administración y funcionamiento de la Comisión, de conformidad con las disposiciones
@@ -1091,9 +1084,9 @@ cobranzas, de conformidad con las disposiciones aplicables y previa autorizació
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. La Comisión contará con las siguientes áreas administrativas:
 I. De evaluación diagnóstica;
@@ -1102,9 +1095,9 @@ III. De vinculación e integralidad del aprendizaje.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. El objeto central del área de evaluación diagnóstica es establecer criterios que deban
 cumplir las instancias evaluadoras para los procesos valorativos, cualitativos y formativos de la mejora
@@ -1120,9 +1113,9 @@ especializadas, orientadas a la mejora continua de los distintos niveles y modal
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. El objeto central del área de apoyo y seguimiento a la mejora continua e innovación
 educativa es determinar indicadores de resultados para la mejora continua de la educación; emitir
@@ -1133,9 +1126,9 @@ educación básica y media superior, así como para la educación inclusiva y de
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. El objeto central del área de vinculación e integralidad del aprendizaje es proponer
 mecanismos de coordinación entre las autoridades educativas federal, de los Estados y de la Ciudad de
@@ -1146,9 +1139,9 @@ liderazgo y gestión, y la profesionalización de la gestión escolar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Para el cumplimiento de su objeto y el ejercicio de sus atribuciones, la Comisión podrá
 suscribir los convenios necesarios para la coordinación y colaboración con autoridades educativas,
@@ -1157,9 +1150,9 @@ relacionadas con la mejora continua de la educación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. La Comisión podrá suscribir los actos jurídicos que la Junta considere convenientes para
 el cumplimiento de su objeto y atribuciones, con organizaciones de la sociedad civil, así como con
@@ -1167,26 +1160,19 @@ instituciones y organizaciones privadas, nacionales e internacionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. Para el cumplimiento de sus atribuciones, la Comisión además podrá suscribir convenios
-con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del</p>
+con universidades y otras instituciones de educación superior a las que se refiere la fracción VII del
+artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3o">
-            <num>Artículo 3o</num>
-            <paragraph id="art-3o-para-1">
-              <content>
-                <p>artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. Toda la información generada, obtenida, adquirida, transformada o en posesión de la
 Comisión es pública y accesible a cualquier persona, misma que se sujetará a los términos y condiciones
@@ -1195,9 +1181,9 @@ Transparencia y Acceso a la Información Pública, y demás disposiciones aplica
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. El Órgano de Vigilancia de la Comisión estará integrado por un Comisario Público
 propietario y un suplente designados por la Secretaría de la Función Pública. Ejercerá sus facultades
@@ -1206,9 +1192,9 @@ Función Pública y las demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. La Comisión contará con un Órgano Interno de Control, cuya persona titular será
 designada por la Secretaría de la Función Pública en términos de lo dispuesto por la Ley Orgánica de la
@@ -1218,35 +1204,70 @@ mismos términos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. El Órgano Interno de Control se conformará en términos de la legislación en la materia y
 la normatividad que determine la Secretaría de la Función Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. Las relaciones laborales entre la Comisión y sus trabajadores se regirán por el Apartado
 B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
-Transitorios
-Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo. Se derogan todas las disposiciones normativas, legales y reglamentarias que se opongan
-al sentido de la presente Ley.
-Tercero. El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley, dentro de los ciento
-veinte días siguientes a la entrada en vigor de la presente Ley.
-Cuarto. Los integrantes de la Junta Directiva y del Consejo Técnico de Educación de la Comisión
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se derogan todas las disposiciones normativas, legales y reglamentarias que se opongan
+al sentido de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley, dentro de los ciento
+veinte días siguientes a la entrada en vigor de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Los integrantes de la Junta Directiva y del Consejo Técnico de Educación de la Comisión
 Nacional para la Mejora Continua de la Educación, electos por la Cámara de Senadores en sesión
 extraordinaria del 1 de julio de 2019, asumirán sus funciones hasta la entrada en vigor de la presente
 Ley, en términos del artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan
 diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos
-Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.
-Quinto. Para la integración del primer Consejo Ciudadano de la Comisión Nacional para la Mejora
+Mexicanos, en materia educativa, publicado el 15 de mayo de 2019 en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Para la integración del primer Consejo Ciudadano de la Comisión Nacional para la Mejora
 Continua de la Educación, la Junta Directiva de este órgano, emitirá la convocatoria respectiva en un
 plazo máximo de sesenta días, contados a partir de la entrada en vigor del presente Decreto.
 Con el fin de asegurar la renovación escalonada con motivo de los nombramientos que se realizarán,
@@ -1262,37 +1283,100 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nueva Ley DOF 30-09-2019
 Secretaría General
 Secretaría de Servicios Parlamentarios
 e) Dos nombramientos por un periodo de once años, y
-f) Un nombramiento por un periodo de doce años.
-Sexto. Una vez instalado el Comité del Sistema Nacional de Mejora Continua de la Educación, en su
+f) Un nombramiento por un periodo de doce años.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Una vez instalado el Comité del Sistema Nacional de Mejora Continua de la Educación, en su
 primera sesión ordinaria, deberá someter para su aprobación a la persona que fungirá como Secretaria
 Técnica quien, a su vez, tendrá el carácter de Secretaria Ejecutiva de la Comisión Nacional para la
-Mejora Continua de la Educación, una vez ratificada por su Junta Directiva.
-Séptimo. Los recursos materiales y financieros del extinto Instituto Nacional para la Evaluación de la
+Mejora Continua de la Educación, una vez ratificada por su Junta Directiva.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Los recursos materiales y financieros del extinto Instituto Nacional para la Evaluación de la
 Educación, pasan a formar parte de la Comisión Nacional para la Mejora Continua de la Educación que
-se regula en los términos de la presente Ley y demás disposiciones aplicables.
-Octavo. Los proyectos, planes, procedimientos, trámites, investigaciones y asuntos en general, que
+se regula en los términos de la presente Ley y demás disposiciones aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Los proyectos, planes, procedimientos, trámites, investigaciones y asuntos en general, que
 se encuentren en proceso, se deberán concluir conforme a lo programado, en aquello que no se
-contraponga a la presente Ley.
-Noveno. Los asuntos que se encuentren en trámite en el Órgano Interno de Control serán
+contraponga a la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. Los asuntos que se encuentren en trámite en el Órgano Interno de Control serán
 desahogados por el servidor público designado para ese fin por la Secretaría de la Función Pública
-conforme al artículo 66 de esta Ley.
-Décimo. El acervo de información, archivos administrativos, bases de datos y cualquier otro
+conforme al artículo 66 de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. El acervo de información, archivos administrativos, bases de datos y cualquier otro
 instrumento documental, en cualquier medio impreso o digital de conservación, que no revista el carácter
 de información pública en términos del artículo Décimo Transitorio del Decreto citado en el artículo Cuarto
 Transitorio de esta Ley, deberá quedar en resguardo de la Secretaría Ejecutiva de la Comisión Nacional
-para la Mejora Continua de la Educación, una vez realizada su designación.
-Décimo Primero. Los derechos y obligaciones a cargo del extinto Instituto Nacional para la
+para la Mejora Continua de la Educación, una vez realizada su designación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los derechos y obligaciones a cargo del extinto Instituto Nacional para la
 Evaluación de la Educación, que no hubieren terminado a partir de la reforma constitucional del 15 de
 mayo de 2019, serán asumidos por la Comisión Nacional para la Mejora Continua de la Educación en lo
-que resulte compatible con sus atribuciones constitucionales y legales.
-Décimo Segundo. Las obligaciones que se generen con motivo de la entrada en vigor del presente
+que resulte compatible con sus atribuciones constitucionales y legales.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. Las obligaciones que se generen con motivo de la entrada en vigor del presente
 Decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes,
-para el presente ejercicio fiscal y los subsecuentes.
-Décimo Tercero. La Comisión Nacional para la Mejora Continua de la Educación permanecerá en el
+para el presente ejercicio fiscal y los subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. La Comisión Nacional para la Mejora Continua de la Educación permanecerá en el
 Ramo 42 del Presupuesto de Egresos de la Federación hasta el 31 de diciembre de 2019. A partir del 1o.
 de enero de 2020 se incluirá en la relación de Entidades Paraestatales de la Administración Pública
-Paraestatal como descentralizado no sectorizado.
-Décimo Cuarto. Las personas integrantes de la Junta Directiva de la Comisión Nacional para la
+Paraestatal como descentralizado no sectorizado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Las personas integrantes de la Junta Directiva de la Comisión Nacional para la
 Mejora Continua, las y los servidores públicos de la Comisión y las personas que tengan acceso a
 información que se genere en estricto apego a las facultades de la Junta y que esté catalogada como
 reservada no podrán difundir, transmitir o utilizar dicha información, salvo para el estricto ejercicio de sus

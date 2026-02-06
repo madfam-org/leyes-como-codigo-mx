@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1960-12-31/lccaif/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1960-12-31/lccaif/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -151,9 +151,9 @@ sentencia ejecutoriada en su contra.
           <p>Párrafo reformado DOF 13-01-1986</p>
         </note>
       </article>
-      <article id="art-10">
-        <num>Artículo 10</num>
-        <paragraph id="art-10-para-1">
+      <article id="art-10.">
+        <num>Artículo 10.</num>
+        <paragraph id="art-10.-para-1">
           <content>
             <p>ARTICULO 10.- Los funcionarios y empleados de la Asociación Internacional de Fomento, así como
 las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de
@@ -162,9 +162,9 @@ los Directores Ejecutivos del Banco Internacional de Reconstrucción y Fomento e
           </content>
         </paragraph>
       </article>
-      <article id="art-11">
-        <num>Artículo 11</num>
-        <paragraph id="art-11-para-1">
+      <article id="art-11.">
+        <num>Artículo 11.</num>
+        <paragraph id="art-11.-para-1">
           <content>
             <p>ARTICULO 11.- El Gobierno Federal requiere exclusivamente de la aprobación de la Cámara de
 Senadores del Congreso de la Unión, para la terminación, denuncia, suspensión, modificación,
@@ -373,7 +373,7 @@ Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 8 de 8</p>
           </content>
         </paragraph>
-        <note placementBase="#art-11" placement="bottom">
+        <note placementBase="#art-11." placement="bottom">
           <p>Artículo reformado DOF 06-06-2025</p>
         </note>
       </article>

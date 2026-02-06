@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2018-06-15/lga/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2018-06-15/lga/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -143,9 +143,9 @@
           </chapter>
           <chapter id="chapter-28">
             <num>CAPÍTULO V DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO</num>
-            <article id="art-1">
-              <num>Artículo 1</num>
-              <paragraph id="art-1-para-1">
+            <article id="art-1.">
+              <num>Artículo 1.</num>
+              <paragraph id="art-1.-para-1">
                 <content>
                   <p>Artículo 1. La presente Ley es de orden público y de observancia general en todo el territorio
 nacional, y tiene por objeto establecer los principios y bases generales para la organización y
@@ -160,9 +160,9 @@ cultural, científica y técnica de la Nación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-2">
-              <num>Artículo 2</num>
-              <paragraph id="art-2-para-1">
+            <article id="art-2.">
+              <num>Artículo 2.</num>
+              <paragraph id="art-2.-para-1">
                 <content>
                   <p>Artículo 2. Son objetivos de esta Ley:
 I. Promover el uso de métodos y técnicas archivísticas encaminadas al desarrollo de sistemas
@@ -199,9 +199,9 @@ X. Fomentar la cultura archivística y el acceso a los archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-3">
-              <num>Artículo 3</num>
-              <paragraph id="art-3-para-1">
+            <article id="art-3.">
+              <num>Artículo 3.</num>
+              <paragraph id="art-3.-para-1">
                 <content>
                   <p>Artículo 3. La aplicación e interpretación de esta Ley se hará acorde a la Constitución Política de los
 Estados Unidos Mexicanos y los tratados internacionales de los que México sea parte, privilegiando el
@@ -215,13 +215,13 @@ las leyes en materia de procedimiento administrativo y en materia civil de las e
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-3" placement="bottom">
+              <note placementBase="#art-3." placement="bottom">
                 <p>Párrafo reformado DOF 14-11-2025</p>
               </note>
             </article>
-            <article id="art-4">
-              <num>Artículo 4</num>
-              <paragraph id="art-4-para-1">
+            <article id="art-4.">
+              <num>Artículo 4.</num>
+              <paragraph id="art-4.-para-1">
                 <content>
                   <p>Artículo 4. Para los efectos de esta Ley se entenderá por:
 I. Acervo: Al conjunto de documentos producidos y recibidos por los sujetos obligados en el
@@ -417,9 +417,9 @@ jurídicas vigentes y aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-5">
-              <num>Artículo 5</num>
-              <paragraph id="art-5-para-1">
+            <article id="art-5.">
+              <num>Artículo 5.</num>
+              <paragraph id="art-5.-para-1">
                 <content>
                   <p>Artículo 5. Los sujetos obligados que refiere esta Ley se regirán por los siguientes principios:
 I. Conservación: Adoptar las medidas de índole técnica, administrativa, ambiental y tecnológica,
@@ -436,9 +436,9 @@ disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-6">
-              <num>Artículo 6</num>
-              <paragraph id="art-6-para-1">
+            <article id="art-6.">
+              <num>Artículo 6.</num>
+              <paragraph id="art-6.-para-1">
                 <content>
                   <p>Artículo 6. Toda la información contenida en los documentos de archivo producidos, obtenidos,
 adquiridos, transformados o en posesión de los sujetos obligados, será pública y accesible a cualquier
@@ -450,9 +450,9 @@ así como fomentar el conocimiento del patrimonio documental de la Nación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-7">
-              <num>Artículo 7</num>
-              <paragraph id="art-7-para-1">
+            <article id="art-7.">
+              <num>Artículo 7.</num>
+              <paragraph id="art-7.-para-1">
                 <content>
                   <p>Artículo 7. Los sujetos obligados deberán producir, registrar, organizar y conservar los documentos
 de archivo sobre todo acto que derive del ejercicio de sus facultades, competencias o funciones de
@@ -460,18 +460,18 @@ acuerdo con lo establecido en las disposiciones jurídicas correspondientes.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-8">
-              <num>Artículo 8</num>
-              <paragraph id="art-8-para-1">
+            <article id="art-8.">
+              <num>Artículo 8.</num>
+              <paragraph id="art-8.-para-1">
                 <content>
                   <p>Artículo 8. Los documentos producidos en los términos del artículo anterior, son considerados
 documentos públicos de conformidad con las disposiciones aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-9">
-              <num>Artículo 9</num>
-              <paragraph id="art-9-para-1">
+            <article id="art-9.">
+              <num>Artículo 9.</num>
+              <paragraph id="art-9.-para-1">
                 <content>
                   <p>Artículo 9. Los documentos públicos de los sujetos obligados tendrán un doble carácter: son bienes
 nacionales con la categoría de bienes muebles, de acuerdo con la Ley General de Bienes Nacionales; y
@@ -486,9 +486,9 @@ locales aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-10">
-              <num>Artículo 10</num>
-              <paragraph id="art-10-para-1">
+            <article id="art-10.">
+              <num>Artículo 10.</num>
+              <paragraph id="art-10.-para-1">
                 <content>
                   <p>Artículo 10. Cada sujeto obligado es responsable de organizar y conservar sus archivos; de la
 operación de su sistema institucional; del cumplimiento de lo dispuesto por esta Ley; las correspondientes
@@ -502,9 +502,9 @@ términos de esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-11">
-              <num>Artículo 11</num>
-              <paragraph id="art-11-para-1">
+            <article id="art-11.">
+              <num>Artículo 11.</num>
+              <paragraph id="art-11.-para-1">
                 <content>
                   <p>Artículo 11. Los sujetos obligados deberán:
 I. Administrar, organizar, y conservar de manera homogénea los documentos de archivo que
@@ -546,9 +546,9 @@ irrestricta.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-12">
-              <num>Artículo 12</num>
-              <paragraph id="art-12-para-1">
+            <article id="art-12.">
+              <num>Artículo 12.</num>
+              <paragraph id="art-12.-para-1">
                 <content>
                   <p>Artículo 12. Los sujetos obligados deberán mantener los documentos contenidos en sus archivos en
 el orden original en que fueron producidos, conforme a los procesos de gestión documental que incluyen
@@ -561,9 +561,9 @@ auditorías archivísticas en sus programas anuales de trabajo.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-13">
-              <num>Artículo 13</num>
-              <paragraph id="art-13-para-1">
+            <article id="art-13.">
+              <num>Artículo 13.</num>
+              <paragraph id="art-13.-para-1">
                 <content>
                   <p>Artículo 13. Los sujetos obligados deberán contar con los instrumentos de control y de consulta
 archivísticos conforme a sus atribuciones y funciones, manteniéndolos actualizados y disponibles; y
@@ -577,9 +577,9 @@ identificados mediante una clave alfanumérica.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-14">
-              <num>Artículo 14</num>
-              <paragraph id="art-14-para-1">
+            <article id="art-14.">
+              <num>Artículo 14.</num>
+              <paragraph id="art-14.-para-1">
                 <content>
                   <p>Artículo 14. Además de los instrumentos de control y consulta archivísticos, los sujetos obligados
 deberán contar y poner a disposición del público la Guía de archivo documental y el Índice de
@@ -589,9 +589,9 @@ federativas.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-15">
-              <num>Artículo 15</num>
-              <paragraph id="art-15-para-1">
+            <article id="art-15.">
+              <num>Artículo 15.</num>
+              <paragraph id="art-15.-para-1">
                 <content>
                   <p>Artículo 15. Los sujetos obligados que son entes públicos del ámbito federal deberán donar
 únicamente a la Comisión Nacional de Libros de Texto, para fines de reciclaje, y sin carga alguna el
@@ -600,13 +600,13 @@ aplicables.
 </p>
                 </content>
               </paragraph>
-              <note placementBase="#art-15" placement="bottom">
+              <note placementBase="#art-15." placement="bottom">
                 <p>Artículo reformado DOF 19-01-2023</p>
               </note>
             </article>
-            <article id="art-16">
-              <num>Artículo 16</num>
-              <paragraph id="art-16-para-1">
+            <article id="art-16.">
+              <num>Artículo 16.</num>
+              <paragraph id="art-16.-para-1">
                 <content>
                   <p>Artículo 16. La responsabilidad de preservar íntegramente los documentos de archivo, tanto
 físicamente como en su contenido, así como de la organización, conservación y el buen funcionamiento
@@ -614,9 +614,9 @@ del sistema institucional, recaerá en la máxima autoridad de cada sujeto oblig
                 </content>
               </paragraph>
             </article>
-            <article id="art-17">
-              <num>Artículo 17</num>
-              <paragraph id="art-17-para-1">
+            <article id="art-17.">
+              <num>Artículo 17.</num>
+              <paragraph id="art-17.-para-1">
                 <content>
                   <p>Artículo 17. Los servidores públicos que deban elaborar un acta de entrega-recepción al separarse
 de su empleo, cargo o comisión, en los términos de las disposiciones jurídicas aplicables, deberán
@@ -626,9 +626,9 @@ catálogo de disposición documental.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-18">
-              <num>Artículo 18</num>
-              <paragraph id="art-18-para-1">
+            <article id="art-18.">
+              <num>Artículo 18.</num>
+              <paragraph id="art-18.-para-1">
                 <content>
                   <p>Artículo 18. En el ámbito federal, en caso de que algún sujeto obligado, área o unidad de éste, se
 fusione, extinga o cambie de adscripción, el responsable de los referidos procesos de transformación
@@ -643,9 +643,9 @@ primer párrafo del presente artículo.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-19">
-              <num>Artículo 19</num>
-              <paragraph id="art-19-para-1">
+            <article id="art-19.">
+              <num>Artículo 19.</num>
+              <paragraph id="art-19.-para-1">
                 <content>
                   <p>Artículo 19. Tratándose de la liquidación o extinción de una entidad de la Administración Pública
 Federal será obligación del liquidador remitir copia del inventario documental, del fondo que se
@@ -656,9 +656,9 @@ los respectivos archivos generales o entes especializados en materia de archivos
                 </content>
               </paragraph>
             </article>
-            <article id="art-20">
-              <num>Artículo 20</num>
-              <paragraph id="art-20-para-1">
+            <article id="art-20.">
+              <num>Artículo 20.</num>
+              <paragraph id="art-20.-para-1">
                 <content>
                   <p>Artículo 20. El Sistema Institucional es el conjunto de registros, procesos, procedimientos, criterios,
 estructuras, herramientas y funciones que desarrolla cada sujeto obligado y sustenta la actividad
@@ -670,9 +670,9 @@ el Consejo Nacional y las disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-21">
-              <num>Artículo 21</num>
-              <paragraph id="art-21-para-1">
+            <article id="art-21.">
+              <num>Artículo 21.</num>
+              <paragraph id="art-21.-para-1">
                 <content>
                   <p>Artículo 21. El Sistema Institucional de cada sujeto obligado deberá integrarse por:
 I. Un área coordinadora de archivos, y
@@ -694,9 +694,9 @@ conocimientos, habilidades, competencias y experiencia acreditada en archivísti
                 </content>
               </paragraph>
             </article>
-            <article id="art-22">
-              <num>Artículo 22</num>
-              <paragraph id="art-22-para-1">
+            <article id="art-22.">
+              <num>Artículo 22.</num>
+              <paragraph id="art-22.-para-1">
                 <content>
                   <p>Artículo 22. Los sujetos obligados podrán coordinarse para establecer archivos de concentración o
 históricos comunes, en los términos que establezcan las disposiciones jurídicas aplicables.
@@ -707,9 +707,9 @@ archivo de concentración regional.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-23">
-              <num>Artículo 23</num>
-              <paragraph id="art-23-para-1">
+            <article id="art-23.">
+              <num>Artículo 23.</num>
+              <paragraph id="art-23.-para-1">
                 <content>
                   <p>Artículo 23. Los sujetos obligados que cuenten con un sistema institucional de archivos, deberán
 elaborar un programa anual y publicarlo en su portal electrónico en los primeros treinta días naturales del
@@ -717,9 +717,9 @@ ejercicio fiscal correspondiente.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-24">
-              <num>Artículo 24</num>
-              <paragraph id="art-24-para-1">
+            <article id="art-24.">
+              <num>Artículo 24.</num>
+              <paragraph id="art-24.-para-1">
                 <content>
                   <p>Artículo 24. El programa anual contendrá los elementos de planeación, programación y evaluación
 para el desarrollo de los archivos y deberá incluir un enfoque de administración de riesgos, protección a
@@ -728,9 +728,9 @@ información.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-25">
-              <num>Artículo 25</num>
-              <paragraph id="art-25-para-1">
+            <article id="art-25.">
+              <num>Artículo 25.</num>
+              <paragraph id="art-25.-para-1">
                 <content>
                   <p>Artículo 25. El programa anual definirá las prioridades institucionales integrando los recursos
 económicos, tecnológicos y operativos disponibles; de igual forma deberá contener programas de
@@ -741,9 +741,9 @@ documentos de archivos electrónicos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-26">
-              <num>Artículo 26</num>
-              <paragraph id="art-26-para-1">
+            <article id="art-26.">
+              <num>Artículo 26.</num>
+              <paragraph id="art-26.-para-1">
                 <content>
                   <p>Artículo 26. Los sujetos obligados deberán elaborar un informe anual detallando el cumplimiento del
 programa anual y publicarlo en su portal electrónico, a más tardar el último día del mes de enero del
@@ -751,9 +751,9 @@ siguiente año de la ejecución de dicho programa.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-27">
-              <num>Artículo 27</num>
-              <paragraph id="art-27-para-1">
+            <article id="art-27.">
+              <num>Artículo 27.</num>
+              <paragraph id="art-27.-para-1">
                 <content>
                   <p>Artículo 27. El área coordinadora de archivos promoverá que las áreas operativas lleven a cabo las
 acciones de gestión documental y administración de los archivos, de manera conjunta con las unidades
@@ -769,9 +769,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-28">
-              <num>Artículo 28</num>
-              <paragraph id="art-28-para-1">
+            <article id="art-28.">
+              <num>Artículo 28.</num>
+              <paragraph id="art-28.-para-1">
                 <content>
                   <p>Artículo 28. El área coordinadora de archivos tendrá las siguientes funciones:
 I. Elaborar, con la colaboración de los responsables de los archivos de trámite, de concentración
@@ -798,9 +798,9 @@ XI. Las que establezcan las demás disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-29">
-              <num>Artículo 29</num>
-              <paragraph id="art-29-para-1">
+            <article id="art-29.">
+              <num>Artículo 29.</num>
+              <paragraph id="art-29.-para-1">
                 <content>
                   <p>Artículo 29. Las áreas de correspondencia son responsables de la recepción, registro, seguimiento y
 despacho de la documentación para la integración de los expedientes de los archivos de trámite.
@@ -811,9 +811,9 @@ responsables para el buen funcionamiento de los archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-30">
-              <num>Artículo 30</num>
-              <paragraph id="art-30-para-1">
+            <article id="art-30.">
+              <num>Artículo 30.</num>
+              <paragraph id="art-30.-para-1">
                 <content>
                   <p>Artículo 30. Cada área o unidad administrativa debe contar con un archivo de trámite que tendrá las
 siguientes funciones:
@@ -841,9 +841,9 @@ de los responsables para el buen funcionamiento de sus archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-31">
-              <num>Artículo 31</num>
-              <paragraph id="art-31-para-1">
+            <article id="art-31.">
+              <num>Artículo 31.</num>
+              <paragraph id="art-31.-para-1">
                 <content>
                   <p>Artículo 31. Cada sujeto obligado debe contar con un archivo de concentración, que tendrá las
 siguientes funciones:
@@ -886,9 +886,9 @@ responsables para el buen funcionamiento de los archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-32">
-              <num>Artículo 32</num>
-              <paragraph id="art-32-para-1">
+            <article id="art-32.">
+              <num>Artículo 32.</num>
+              <paragraph id="art-32.-para-1">
                 <content>
                   <p>Artículo 32. Los sujetos obligados podrán contar con un archivo histórico que tendrá las siguientes
 funciones:
@@ -910,9 +910,9 @@ responsables para el buen funcionamiento de los archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-33">
-              <num>Artículo 33</num>
-              <paragraph id="art-33-para-1">
+            <article id="art-33.">
+              <num>Artículo 33.</num>
+              <paragraph id="art-33.-para-1">
                 <content>
                   <p>Artículo 33. Los sujetos obligados que no cuenten con archivo histórico deberán promover su
 creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico al
@@ -921,9 +921,9 @@ aplicables o los convenios de colaboración que se suscriban para tal efecto.</p
                 </content>
               </paragraph>
             </article>
-            <article id="art-34">
-              <num>Artículo 34</num>
-              <paragraph id="art-34-para-1">
+            <article id="art-34.">
+              <num>Artículo 34.</num>
+              <paragraph id="art-34.-para-1">
                 <content>
                   <p>Artículo 34. Cuando los documentos históricos presenten un deterioro físico que impida su consulta
 directa, el Archivo General o su equivalente en las entidades federativas, así como los sujetos obligados,
@@ -937,9 +937,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-35">
-              <num>Artículo 35</num>
-              <paragraph id="art-35-para-1">
+            <article id="art-35.">
+              <num>Artículo 35.</num>
+              <paragraph id="art-35.-para-1">
                 <content>
                   <p>Artículo 35. Los sujetos obligados podrán coordinarse para establecer archivos históricos comunes
 con la denominación de regionales, en los términos que establezcan las disposiciones jurídicas
@@ -949,9 +949,9 @@ identificar con claridad a los responsables de la administración de los archivo
                 </content>
               </paragraph>
             </article>
-            <article id="art-36">
-              <num>Artículo 36</num>
-              <paragraph id="art-36-para-1">
+            <article id="art-36.">
+              <num>Artículo 36.</num>
+              <paragraph id="art-36.-para-1">
                 <content>
                   <p>Artículo 36. Los documentos contenidos en los archivos históricos son fuentes de acceso público.
 Una vez que haya concluido la vigencia documental y autorizada la transferencia secundaria a un archivo
@@ -967,9 +967,9 @@ fecha de creación del documento, y serán de acceso restringido durante dicho p
                 </content>
               </paragraph>
             </article>
-            <article id="art-37">
-              <num>Artículo 37</num>
-              <paragraph id="art-37-para-1">
+            <article id="art-37.">
+              <num>Artículo 37.</num>
+              <paragraph id="art-37.-para-1">
                 <content>
                   <p>Artículo 37. El sujeto obligado deberá asegurar que se cumplan los plazos de conservación
 establecidos en el catálogo de disposición documental y que los mismos no excedan el tiempo que la
@@ -978,9 +978,9 @@ del uso, consulta y utilidad que tenga su información. En ningún caso el plazo
                 </content>
               </paragraph>
             </article>
-            <article id="art-38">
-              <num>Artículo 38</num>
-              <paragraph id="art-38-para-1">
+            <article id="art-38.">
+              <num>Artículo 38.</num>
+              <paragraph id="art-38.-para-1">
                 <content>
                   <p>Artículo 38. El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos
 Personales o, en su caso, los organismos garantes de las entidades federativas, de acuerdo con la
@@ -1003,9 +1003,9 @@ que se refiere el presente artículo, ante el Poder Judicial de la Federación.<
                 </content>
               </paragraph>
             </article>
-            <article id="art-39">
-              <num>Artículo 39</num>
-              <paragraph id="art-39-para-1">
+            <article id="art-39.">
+              <num>Artículo 39.</num>
+              <paragraph id="art-39.-para-1">
                 <content>
                   <p>Artículo 39. El procedimiento de consulta a los archivos históricos facilitará el acceso al documento
 original o reproducción íntegra y fiel en otro medio, siempre que no se le afecte al mismo. Dicho acceso
@@ -1018,9 +1018,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-40">
-              <num>Artículo 40</num>
-              <paragraph id="art-40-para-1">
+            <article id="art-40.">
+              <num>Artículo 40.</num>
+              <paragraph id="art-40.-para-1">
                 <content>
                   <p>Artículo 40. Los responsables de los archivos históricos de los sujetos obligados, adoptarán medidas
 para fomentar la preservación y difusión de los documentos con valor histórico que forman parte del
@@ -1040,9 +1040,9 @@ de interés, para difundir y brindar acceso a los archivos históricos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-41">
-              <num>Artículo 41</num>
-              <paragraph id="art-41-para-1">
+            <article id="art-41.">
+              <num>Artículo 41.</num>
+              <paragraph id="art-41.-para-1">
                 <content>
                   <p>Artículo 41. Además de los procesos de gestión previstos en el artículo 12 de esta Ley, se deberá
 contemplar para la gestión documental electrónica la incorporación, asignación de acceso, seguridad,
@@ -1050,9 +1050,9 @@ almacenamiento, uso y trazabilidad.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-42">
-              <num>Artículo 42</num>
-              <paragraph id="art-42-para-1">
+            <article id="art-42.">
+              <num>Artículo 42.</num>
+              <paragraph id="art-42.-para-1">
                 <content>
                   <p>Artículo 42. Los sujetos obligados establecerán en su programa anual los procedimientos para la
 generación, administración, uso, control y migración de formatos electrónicos, así como planes de
@@ -1062,9 +1062,9 @@ disposiciones emanadas del Consejo Nacional.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-43">
-              <num>Artículo 43</num>
-              <paragraph id="art-43-para-1">
+            <article id="art-43.">
+              <num>Artículo 43.</num>
+              <paragraph id="art-43.-para-1">
                 <content>
                   <p>Artículo 43. Los sujetos obligados establecerán en el programa anual la estrategia de preservación a
 largo plazo de los documentos de archivo electrónico y las acciones que garanticen los procesos de
@@ -1075,9 +1075,9 @@ además de todos los metadatos descriptivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-44">
-              <num>Artículo 44</num>
-              <paragraph id="art-44-para-1">
+            <article id="art-44.">
+              <num>Artículo 44.</num>
+              <paragraph id="art-44.-para-1">
                 <content>
                   <p>Artículo 44. Los sujetos obligados adoptarán las medidas de organización, técnicas y tecnológicas
 para garantizar la recuperación y preservación de los documentos de archivo electrónicos producidos y
@@ -1086,20 +1086,13 @@ archivos, bases de datos y correos electrónicos a lo largo de su ciclo vital.</
                 </content>
               </paragraph>
             </article>
-            <article id="art-45">
-              <num>Artículo 45</num>
-              <paragraph id="art-45-para-1">
+            <article id="art-45.">
+              <num>Artículo 45.</num>
+              <paragraph id="art-45.-para-1">
                 <content>
                   <p>Artículo 45. Los sujetos obligados deberán implementar sistemas automatizados para la gestión
-documental y administración de archivos que permitan registrar y controlar los procesos señalados en el</p>
-                </content>
-              </paragraph>
-            </article>
-            <article id="art-12">
-              <num>Artículo 12</num>
-              <paragraph id="art-12-para-1">
-                <content>
-                  <p>artículo 12 de esta Ley, los cuales deberán cumplir las especificaciones que para el efecto se emitan.
+documental y administración de archivos que permitan registrar y controlar los procesos señalados en el
+artículo 12 de esta Ley, los cuales deberán cumplir las especificaciones que para el efecto se emitan.
 16 de 43
 LEY GENERAL DE ARCHIVOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
@@ -1111,9 +1104,9 @@ los lineamientos que para el efecto se emitan.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-46">
-              <num>Artículo 46</num>
-              <paragraph id="art-46-para-1">
+            <article id="art-46.">
+              <num>Artículo 46.</num>
+              <paragraph id="art-46.-para-1">
                 <content>
                   <p>Artículo 46. El Consejo Nacional emitirá los lineamientos que establezcan las bases para la creación
 y uso de sistemas automatizados para la gestión documental y administración de archivos, así como de
@@ -1135,18 +1128,18 @@ VI. Permitir adecuaciones y actualizaciones a los sistemas a que se refiere este
                 </content>
               </paragraph>
             </article>
-            <article id="art-47">
-              <num>Artículo 47</num>
-              <paragraph id="art-47-para-1">
+            <article id="art-47.">
+              <num>Artículo 47.</num>
+              <paragraph id="art-47.-para-1">
                 <content>
                   <p>Artículo 47. Los sujetos obligados conservarán los documentos de archivo aun cuando hayan sido
 digitalizados, en los casos previstos en las disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-48">
-              <num>Artículo 48</num>
-              <paragraph id="art-48-para-1">
+            <article id="art-48.">
+              <num>Artículo 48.</num>
+              <paragraph id="art-48.-para-1">
                 <content>
                   <p>Artículo 48. Los sujetos obligados que, por sus atribuciones, utilicen la firma electrónica avanzada
 para realizar trámites o proporcionar servicios que impliquen la certificación de identidad del solicitante,
@@ -1155,9 +1148,9 @@ las disposiciones que para el efecto se emitan.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-49">
-              <num>Artículo 49</num>
-              <paragraph id="art-49-para-1">
+            <article id="art-49.">
+              <num>Artículo 49.</num>
+              <paragraph id="art-49.-para-1">
                 <content>
                   <p>Artículo 49. Los sujetos obligados deberán proteger la validez jurídica de los documentos de archivo
 electrónico, los sistemas automatizados para la gestión documental y administración de archivos y la
@@ -1167,9 +1160,9 @@ documentos y archivos, en términos de las disposiciones jurídicas aplicables.<
                 </content>
               </paragraph>
             </article>
-            <article id="art-50">
-              <num>Artículo 50</num>
-              <paragraph id="art-50-para-1">
+            <article id="art-50.">
+              <num>Artículo 50.</num>
+              <paragraph id="art-50.-para-1">
                 <content>
                   <p>Artículo 50. En cada sujeto obligado deberá existir un grupo interdisciplinario, que es un equipo de
 profesionales de la misma institución, integrado por los titulares de:
@@ -1198,9 +1191,9 @@ de investigación para efectos de garantizar lo dispuesto en el párrafo anterio
                 </content>
               </paragraph>
             </article>
-            <article id="art-51">
-              <num>Artículo 51</num>
-              <paragraph id="art-51-para-1">
+            <article id="art-51.">
+              <num>Artículo 51.</num>
+              <paragraph id="art-51.-para-1">
                 <content>
                   <p>Artículo 51. El responsable del área coordinadora de archivos propiciará la integración y formalización
 del grupo interdisciplinario, convocará a las reuniones de trabajo y fungirá como moderador en las
@@ -1229,9 +1222,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-52">
-              <num>Artículo 52</num>
-              <paragraph id="art-52-para-1">
+            <article id="art-52.">
+              <num>Artículo 52.</num>
+              <paragraph id="art-52.-para-1">
                 <content>
                   <p>Artículo 52. Son actividades del Grupo Interdisciplinario, las siguientes:
 I. Formular opiniones, referencias técnicas sobre valores documentales, pautas de
@@ -1271,9 +1264,9 @@ VI. Las demás que se definan en otras disposiciones.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-53">
-              <num>Artículo 53</num>
-              <paragraph id="art-53-para-1">
+            <article id="art-53.">
+              <num>Artículo 53.</num>
+              <paragraph id="art-53.-para-1">
                 <content>
                   <p>Artículo 53. Las áreas productoras de la documentación, con independencia de participar en las
 reuniones del Grupo Interdisciplinario, les corresponde:
@@ -1294,17 +1287,17 @@ las series documentales que produce.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-54">
-              <num>Artículo 54</num>
-              <paragraph id="art-54-para-1">
+            <article id="art-54.">
+              <num>Artículo 54.</num>
+              <paragraph id="art-54.-para-1">
                 <content>
                   <p>Artículo 54. El Grupo Interdisciplinario para su funcionamiento emitirá sus reglas de operación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-55">
-              <num>Artículo 55</num>
-              <paragraph id="art-55-para-1">
+            <article id="art-55.">
+              <num>Artículo 55.</num>
+              <paragraph id="art-55.-para-1">
                 <content>
                   <p>Artículo 55. El sujeto obligado deberá asegurar que los plazos de conservación establecidos en el
 catálogo de disposición documental hayan prescrito y que la documentación no se encuentre clasificada
@@ -1312,9 +1305,9 @@ como reservada o confidencial al promover una baja documental o transferencia se
                 </content>
               </paragraph>
             </article>
-            <article id="art-56">
-              <num>Artículo 56</num>
-              <paragraph id="art-56-para-1">
+            <article id="art-56.">
+              <num>Artículo 56.</num>
+              <paragraph id="art-56.-para-1">
                 <content>
                   <p>Artículo 56. Los sujetos obligados identificarán los documentos de archivo producidos en el desarrollo
 de sus funciones y atribuciones, mismas que se vincularán con las series documentales; cada una de
@@ -1326,9 +1319,9 @@ custodia de la serie o subserie.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-57">
-              <num>Artículo 57</num>
-              <paragraph id="art-57-para-1">
+            <article id="art-57.">
+              <num>Artículo 57.</num>
+              <paragraph id="art-57.-para-1">
                 <content>
                   <p>Artículo 57. El Consejo Nacional y los consejos locales establecerán lineamientos para analizar,
 valorar y decidir la disposición documental de las series documentales producidas por los sujetos
@@ -1336,9 +1329,9 @@ obligados.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-58">
-              <num>Artículo 58</num>
-              <paragraph id="art-58-para-1">
+            <article id="art-58.">
+              <num>Artículo 58.</num>
+              <paragraph id="art-58.-para-1">
                 <content>
                   <p>Artículo 58. Los sujetos obligados deberán publicar en su portal electrónico con vínculo al portal de
 transparencia, los dictámenes y actas de baja documental y transferencia secundaria, los cuales se
@@ -1352,9 +1345,9 @@ históricos para su conservación permanente dichos dictámenes y actas.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-59">
-              <num>Artículo 59</num>
-              <paragraph id="art-59-para-1">
+            <article id="art-59.">
+              <num>Artículo 59.</num>
+              <paragraph id="art-59.-para-1">
                 <content>
                   <p>Artículo 59. Los sujetos obligados que cuenten con un archivo histórico deberán transferir los
 documentos con valor histórico a dicho archivo, debiendo informar al Archivo General o, en su caso, a los
@@ -1363,9 +1356,9 @@ un plazo de cuarenta y cinco días naturales posteriores a la transferencia secu
                 </content>
               </paragraph>
             </article>
-            <article id="art-60">
-              <num>Artículo 60</num>
-              <paragraph id="art-60-para-1">
+            <article id="art-60.">
+              <num>Artículo 60.</num>
+              <paragraph id="art-60.-para-1">
                 <content>
                   <p>Artículo 60. Los sujetos obligados deberán adoptar las medidas y procedimientos que garanticen la
 conservación de la información, independientemente del soporte documental en que se encuentre,
@@ -1380,9 +1373,9 @@ riesgos, requerimientos legales y auditoría.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-61">
-              <num>Artículo 61</num>
-              <paragraph id="art-61-para-1">
+            <article id="art-61.">
+              <num>Artículo 61.</num>
+              <paragraph id="art-61.-para-1">
                 <content>
                   <p>Artículo 61. Los sujetos obligados que hagan uso de servicios de resguardo de archivos proveídos
 por terceros deberán asegurar que se cumpla con lo dispuesto en esta Ley, mediante un convenio o
@@ -1391,9 +1384,9 @@ la administración de los archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-62">
-              <num>Artículo 62</num>
-              <paragraph id="art-62-para-1">
+            <article id="art-62.">
+              <num>Artículo 62.</num>
+              <paragraph id="art-62.-para-1">
                 <content>
                   <p>Artículo 62. Los sujetos obligados podrán gestionar los documentos de archivo electrónicos en un
 servicio de nube. El servicio de nube deberá permitir:
@@ -1415,9 +1408,9 @@ los sujetos obligados.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-63">
-              <num>Artículo 63</num>
-              <paragraph id="art-63-para-1">
+            <article id="art-63.">
+              <num>Artículo 63.</num>
+              <paragraph id="art-63.-para-1">
                 <content>
                   <p>Artículo 63. Los sujetos obligados desarrollarán medidas de interoperabilidad que permitan la gestión
 documental integral, considerando el documento electrónico, el expediente, la digitalización, el copiado
@@ -1426,9 +1419,9 @@ conexión a la red de comunicaciones de los sujetos obligados.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-64">
-              <num>Artículo 64</num>
-              <paragraph id="art-64-para-1">
+            <article id="art-64.">
+              <num>Artículo 64.</num>
+              <paragraph id="art-64.-para-1">
                 <content>
                   <p>Artículo 64. El Sistema Nacional es un conjunto orgánico y articulado de estructuras, relaciones
 funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir
@@ -1440,9 +1433,9 @@ de la federación, las entidades federativas, los municipios, así como las alca
                 </content>
               </paragraph>
             </article>
-            <article id="art-65">
-              <num>Artículo 65</num>
-              <paragraph id="art-65-para-1">
+            <article id="art-65.">
+              <num>Artículo 65.</num>
+              <paragraph id="art-65.-para-1">
                 <content>
                   <p>Artículo 65. El Consejo Nacional es el órgano de coordinación del Sistema Nacional, que estará
 integrado por:
@@ -1486,9 +1479,9 @@ Los miembros del Consejo Nacional no recibirán remuneración alguna por su part
                 </content>
               </paragraph>
             </article>
-            <article id="art-66">
-              <num>Artículo 66</num>
-              <paragraph id="art-66-para-1">
+            <article id="art-66.">
+              <num>Artículo 66.</num>
+              <paragraph id="art-66.-para-1">
                 <content>
                   <p>Artículo 66. El Consejo Nacional sesionará de manera ordinaria y extraordinaria. Las sesiones
 ordinarias se verificarán dos veces al año y serán convocadas por su Presidente, a través del Secretario
@@ -1525,9 +1518,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-67">
-              <num>Artículo 67</num>
-              <paragraph id="art-67-para-1">
+            <article id="art-67.">
+              <num>Artículo 67.</num>
+              <paragraph id="art-67.-para-1">
                 <content>
                   <p>Artículo 67. El Consejo Nacional tiene las atribuciones siguientes:
 I. Aprobar y difundir la normativa relativa a la gestión documental y administración de archivos,
@@ -1551,9 +1544,9 @@ IX. Las demás que le otorga esta Ley y otras disposiciones aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-68">
-              <num>Artículo 68</num>
-              <paragraph id="art-68-para-1">
+            <article id="art-68.">
+              <num>Artículo 68.</num>
+              <paragraph id="art-68.-para-1">
                 <content>
                   <p>Artículo 68. El Presidente tiene las atribuciones siguientes:
 I. Participar en sistemas nacionales, comisiones intersecretariales, secretarías técnicas, entre
@@ -1579,9 +1572,9 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-69">
-              <num>Artículo 69</num>
-              <paragraph id="art-69-para-1">
+            <article id="art-69.">
+              <num>Artículo 69.</num>
+              <paragraph id="art-69.-para-1">
                 <content>
                   <p>Artículo 69. El Consejo Nacional, para el cumplimiento de sus atribuciones, podrá crear comisiones
 de carácter permanente o temporal, que se organizarán de conformidad con lo dispuesto en las
@@ -1593,9 +1586,9 @@ participación en las mismas.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-70">
-              <num>Artículo 70</num>
-              <paragraph id="art-70-para-1">
+            <article id="art-70.">
+              <num>Artículo 70.</num>
+              <paragraph id="art-70.-para-1">
                 <content>
                   <p>Artículo 70. Cada entidad federativa contará con un Sistema Local, el cual será el conjunto orgánico y
 articulado de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos,
@@ -1604,9 +1597,9 @@ homogénea de los archivos de los sujetos obligados dentro de su jurisdicción.<
                 </content>
               </paragraph>
             </article>
-            <article id="art-71">
-              <num>Artículo 71</num>
-              <paragraph id="art-71-para-1">
+            <article id="art-71.">
+              <num>Artículo 71.</num>
+              <paragraph id="art-71.-para-1">
                 <content>
                   <p>Artículo 71. Las leyes de las entidades federativas regularán los Sistemas locales, los cuales
 contarán con un Consejo Local, como órgano de coordinación.
@@ -1622,9 +1615,9 @@ los Sistemas locales equivalentes a las que esta Ley otorga al Sistema Nacional.
                 </content>
               </paragraph>
             </article>
-            <article id="art-72">
-              <num>Artículo 72</num>
-              <paragraph id="art-72-para-1">
+            <article id="art-72.">
+              <num>Artículo 72.</num>
+              <paragraph id="art-72.-para-1">
                 <content>
                   <p>Artículo 72. Los Consejos Locales adoptarán, con carácter obligatorio, en el ámbito de sus
 respectivas competencias, las determinaciones del Consejo Nacional, dentro de los plazos que éste
@@ -1635,9 +1628,9 @@ para dar cumplimiento a lo previsto en la Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-73">
-              <num>Artículo 73</num>
-              <paragraph id="art-73-para-1">
+            <article id="art-73.">
+              <num>Artículo 73.</num>
+              <paragraph id="art-73.-para-1">
                 <content>
                   <p>Artículo 73. Los Consejos Locales tendrán las siguientes atribuciones:
 I. Implementar las políticas, programas, lineamientos y directrices para la organización y
@@ -1662,9 +1655,9 @@ VIII. Las demás establecidas en esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-74">
-              <num>Artículo 74</num>
-              <paragraph id="art-74-para-1">
+            <article id="art-74.">
+              <num>Artículo 74.</num>
+              <paragraph id="art-74.-para-1">
                 <content>
                   <p>Artículo 74. El Sistema Nacional estará coordinado con el Sistema Nacional de Transparencia y el
 Sistema Nacional Anticorrupción y deberá:
@@ -1680,9 +1673,9 @@ garantizar el cumplimiento de los lineamientos que para el efecto se emitan.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-75">
-              <num>Artículo 75</num>
-              <paragraph id="art-75-para-1">
+            <article id="art-75.">
+              <num>Artículo 75.</num>
+              <paragraph id="art-75.-para-1">
                 <content>
                   <p>Artículo 75. Las personas físicas y morales, propietarios o poseedores de documentos o archivos
 considerados de interés público, deberán garantizar su conservación, preservación y acceso, y aquellos
@@ -1691,9 +1684,9 @@ Arqueológicos, Artísticos e Históricos, deberán inscribirlos en el Registro 
                 </content>
               </paragraph>
             </article>
-            <article id="art-76">
-              <num>Artículo 76</num>
-              <paragraph id="art-76-para-1">
+            <article id="art-76.">
+              <num>Artículo 76.</num>
+              <paragraph id="art-76.-para-1">
                 <content>
                   <p>Artículo 76. Los poseedores de documentos y archivos privados de interés público deberán ordenar
 sus acervos y restaurar los documentos que así lo ameriten, apegándose a la normatividad nacional e
@@ -1704,9 +1697,9 @@ conservación, preservación y acceso público.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-77">
-              <num>Artículo 77</num>
-              <paragraph id="art-77-para-1">
+            <article id="art-77.">
+              <num>Artículo 77.</num>
+              <paragraph id="art-77.-para-1">
                 <content>
                   <p>Artículo 77. En los casos de enajenación por venta de un acervo o archivos privados de interés
 público, propiedad de un particular y en general cuándo se trate de documentos acordes con lo previsto
@@ -1722,9 +1715,9 @@ traslado de dominio, que el Archivo General haya sido notificado de la misma.</p
                 </content>
               </paragraph>
             </article>
-            <article id="art-78">
-              <num>Artículo 78</num>
-              <paragraph id="art-78-para-1">
+            <article id="art-78.">
+              <num>Artículo 78.</num>
+              <paragraph id="art-78.-para-1">
                 <content>
                   <p>Artículo 78. El Sistema Nacional contará con el Registro Nacional, cuyo objeto es obtener y
 concentrar información sobre los sistemas institucionales y de los archivos privados de interés público,
@@ -1733,9 +1726,9 @@ Archivo General.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-79">
-              <num>Artículo 79</num>
-              <paragraph id="art-79-para-1">
+            <article id="art-79.">
+              <num>Artículo 79.</num>
+              <paragraph id="art-79.-para-1">
                 <content>
                   <p>Artículo 79. La inscripción al Registro Nacional es obligatoria para los sujetos obligados y para los
 propietarios o poseedores de archivos privados de interés público, quienes deberán actualizar
@@ -1744,18 +1737,18 @@ que para tal efecto emita el Consejo Nacional.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-80">
-              <num>Artículo 80</num>
-              <paragraph id="art-80-para-1">
+            <article id="art-80.">
+              <num>Artículo 80.</num>
+              <paragraph id="art-80.-para-1">
                 <content>
                   <p>Artículo 80. El Registro Nacional será administrado por el Archivo General, su organización y
 funcionamiento será conforme a las disposiciones que emita el propio Consejo Nacional.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-81">
-              <num>Artículo 81</num>
-              <paragraph id="art-81-para-1">
+            <article id="art-81.">
+              <num>Artículo 81.</num>
+              <paragraph id="art-81.-para-1">
                 <content>
                   <p>Artículo 81. Para la operación del Registro Nacional, el Archivo General pondrá a disposición de los
 sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público,
@@ -1765,9 +1758,9 @@ del portal electrónico del Archivo General.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-82">
-              <num>Artículo 82</num>
-              <paragraph id="art-82-para-1">
+            <article id="art-82.">
+              <num>Artículo 82.</num>
+              <paragraph id="art-82.-para-1">
                 <content>
                   <p>Artículo 82. Cada entidad federativa podrá prever la creación y administración de un Fondo de Apoyo
 Económico para los archivos locales, cuya finalidad será promover la capacitación, equipamiento y
@@ -1776,9 +1769,9 @@ de competencia.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-83">
-              <num>Artículo 83</num>
-              <paragraph id="art-83-para-1">
+            <article id="art-83.">
+              <num>Artículo 83.</num>
+              <paragraph id="art-83.-para-1">
                 <content>
                   <p>Artículo 83. El Gobierno Federal podrá otorgar subsidios a los Fondos de Apoyo Económico para los
 archivos locales en términos de las disposiciones aplicables y conforme a los recursos que, en su caso,
@@ -1789,9 +1782,9 @@ México.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-84">
-              <num>Artículo 84</num>
-              <paragraph id="art-84-para-1">
+            <article id="art-84.">
+              <num>Artículo 84.</num>
+              <paragraph id="art-84.-para-1">
                 <content>
                   <p>Artículo 84. El patrimonio documental de la Nación es propiedad del Estado mexicano, de dominio e
 interés público y, por lo tanto, inalienable, imprescriptible, inembargable y no está sujeto a ningún
@@ -1800,18 +1793,18 @@ Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-85">
-              <num>Artículo 85</num>
-              <paragraph id="art-85-para-1">
+            <article id="art-85.">
+              <num>Artículo 85.</num>
+              <paragraph id="art-85.-para-1">
                 <content>
                   <p>Artículo 85. El patrimonio documental de la Nación está sujeto a la jurisdicción de los poderes
 federales, en los términos prescritos por esta Ley y las disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-86">
-              <num>Artículo 86</num>
-              <paragraph id="art-86-para-1">
+            <article id="art-86.">
+              <num>Artículo 86.</num>
+              <paragraph id="art-86.-para-1">
                 <content>
                   <p>Artículo 86. Son parte del patrimonio documental de la Nación, por disposición de ley, los
 documentos de archivo considerados como Monumentos históricos por la Ley Federal sobre
@@ -1821,9 +1814,9 @@ determinar los documentos que constituyen su patrimonio documental.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-87">
-              <num>Artículo 87</num>
-              <paragraph id="art-87-para-1">
+            <article id="art-87.">
+              <num>Artículo 87.</num>
+              <paragraph id="art-87.-para-1">
                 <content>
                   <p>Artículo 87. El Ejecutivo Federal, a través del Archivo General, podrá emitir declaratorias de
 patrimonio documental de la Nación en los términos previstos por las disposiciones jurídicas aplicables,
@@ -1834,18 +1827,18 @@ competencia y deberán publicarse en el Diario Oficial de la Federación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-88">
-              <num>Artículo 88</num>
-              <paragraph id="art-88-para-1">
+            <article id="art-88.">
+              <num>Artículo 88.</num>
+              <paragraph id="art-88.-para-1">
                 <content>
                   <p>Artículo 88. Todos los documentos de archivo con valor histórico y cultural son bienes muebles y
 formarán parte del patrimonio documental de la Nación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-89">
-              <num>Artículo 89</num>
-              <paragraph id="art-89-para-1">
+            <article id="art-89.">
+              <num>Artículo 89.</num>
+              <paragraph id="art-89.-para-1">
                 <content>
                   <p>Artículo 89. Para los efectos de la protección del patrimonio documental de la Nación se deberá:
 I. Establecer mecanismos para que el público en general pueda acceder a la información
@@ -1864,9 +1857,9 @@ disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-90">
-              <num>Artículo 90</num>
-              <paragraph id="art-90-para-1">
+            <article id="art-90.">
+              <num>Artículo 90.</num>
+              <paragraph id="art-90.-para-1">
                 <content>
                   <p>Artículo 90. Será necesario contar con la autorización del Archivo General para la salida del país de
 los documentos de interés público y aquéllos considerados patrimonio documental de la Nación, los
@@ -1879,9 +1872,9 @@ disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-91">
-              <num>Artículo 91</num>
-              <paragraph id="art-91-para-1">
+            <article id="art-91.">
+              <num>Artículo 91.</num>
+              <paragraph id="art-91.-para-1">
                 <content>
                   <p>Artículo 91. La Secretaría de Relaciones Exteriores, en coordinación con las autoridades
 competentes, será la encargada de gestionar la restitución del bien o los bienes considerados patrimonio
@@ -1889,9 +1882,9 @@ documental de la Nación que ilegalmente salgan o permanezcan fuera del país.</
                 </content>
               </paragraph>
             </article>
-            <article id="art-92">
-              <num>Artículo 92</num>
-              <paragraph id="art-92-para-1">
+            <article id="art-92.">
+              <num>Artículo 92.</num>
+              <paragraph id="art-92.-para-1">
                 <content>
                   <p>Artículo 92. El Archivo General o sus equivalentes en las entidades federativas podrán recibir
 documentos de archivo de los sujetos obligados en comodato para su estabilización.
@@ -1907,9 +1900,9 @@ determinar la procedencia de la expropiación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-93">
-              <num>Artículo 93</num>
-              <paragraph id="art-93-para-1">
+            <article id="art-93.">
+              <num>Artículo 93.</num>
+              <paragraph id="art-93.-para-1">
                 <content>
                   <p>Artículo 93. El Archivo General podrá coordinarse con las autoridades federales, de las entidades
 federativas, municipales y las alcaldías de la Ciudad de México, para la realización de las acciones
@@ -1919,9 +1912,9 @@ otra índole, que pudieran dañarlos o destruirlos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-94">
-              <num>Artículo 94</num>
-              <paragraph id="art-94-para-1">
+            <article id="art-94.">
+              <num>Artículo 94.</num>
+              <paragraph id="art-94.-para-1">
                 <content>
                   <p>Artículo 94. Los jefes de misión diplomática, consular y permanente de México en el exterior están
 obligados a informar y denunciar ante la Fiscalía General de la República o ante la autoridad competente
@@ -1931,9 +1924,9 @@ exhibición o comercialización no autorizada en el extranjero de los bienes ref
                 </content>
               </paragraph>
             </article>
-            <article id="art-95">
-              <num>Artículo 95</num>
-              <paragraph id="art-95-para-1">
+            <article id="art-95.">
+              <num>Artículo 95.</num>
+              <paragraph id="art-95.-para-1">
                 <content>
                   <p>Artículo 95. Los particulares en posesión de documentos de archivo que constituyan patrimonio
 documental de la Nación, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas,
@@ -1942,9 +1935,9 @@ a los criterios que emita el Archivo General y el Consejo Nacional.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-96">
-              <num>Artículo 96</num>
-              <paragraph id="art-96-para-1">
+            <article id="art-96.">
+              <num>Artículo 96.</num>
+              <paragraph id="art-96.-para-1">
                 <content>
                   <p>Artículo 96. Los particulares en posesión de documentos de archivo que constituyan patrimonio
 documental de la Nación podrán restaurarlos, previa autorización y bajo la supervisión del Archivo
@@ -1952,9 +1945,9 @@ General.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-97">
-              <num>Artículo 97</num>
-              <paragraph id="art-97-para-1">
+            <article id="art-97.">
+              <num>Artículo 97.</num>
+              <paragraph id="art-97.-para-1">
                 <content>
                   <p>Artículo 97. En todo momento, el Archivo General podrá recuperar la posesión del documento de
 archivo que constituya patrimonio documental de la Nación, cuando se ponga en riesgo su integridad,
@@ -1963,9 +1956,9 @@ incluyendo la garantía de audiencia, así como las demás disposiciones jurídi
                 </content>
               </paragraph>
             </article>
-            <article id="art-98">
-              <num>Artículo 98</num>
-              <paragraph id="art-98-para-1">
+            <article id="art-98.">
+              <num>Artículo 98.</num>
+              <paragraph id="art-98.-para-1">
                 <content>
                   <p>Artículo 98. Para vigilar el cumplimiento de lo establecido en el presente capítulo, el Archivo General,
 así como los archivos generales o entes especializados en materia de archivos a nivel local, podrán
@@ -1973,18 +1966,18 @@ efectuar visitas de verificación, en los términos establecidos en las disposic
                 </content>
               </paragraph>
             </article>
-            <article id="art-99">
-              <num>Artículo 99</num>
-              <paragraph id="art-99-para-1">
+            <article id="art-99.">
+              <num>Artículo 99.</num>
+              <paragraph id="art-99.-para-1">
                 <content>
                   <p>Artículo 99. Los sujetos obligados deberán promover la capacitación en las competencias laborales
 en la materia y la profesionalización de los responsables de las áreas de archivo.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-100">
-              <num>Artículo 100</num>
-              <paragraph id="art-100-para-1">
+            <article id="art-100.">
+              <num>Artículo 100.</num>
+              <paragraph id="art-100.-para-1">
                 <content>
                   <p>Artículo 100. Los sujetos obligados podrán celebrar acuerdos interinstitucionales y convenios con
 instituciones educativas, centros de investigación y organismos públicos o privados, para recibir servicios
@@ -1992,9 +1985,9 @@ de capacitación en materia de archivos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-101">
-              <num>Artículo 101</num>
-              <paragraph id="art-101-para-1">
+            <article id="art-101.">
+              <num>Artículo 101.</num>
+              <paragraph id="art-101.-para-1">
                 <content>
                   <p>Artículo 101. Las autoridades federales, de las entidades federativas, municipales y las alcaldías de
 la Ciudad de México, en el ámbito de sus atribuciones y en su organización interna, deberán:
@@ -2009,9 +2002,9 @@ público, social, privado y académico.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-102">
-              <num>Artículo 102</num>
-              <paragraph id="art-102-para-1">
+            <article id="art-102.">
+              <num>Artículo 102.</num>
+              <paragraph id="art-102.-para-1">
                 <content>
                   <p>Artículo 102. Los jefes de misión diplomática, consular y permanente de México en el exterior
 protegerán y favorecerán el conocimiento y la difusión del patrimonio documental de la Nación, y
@@ -2019,18 +2012,18 @@ promoverán y facilitarán el intercambio cultural en materia archivística.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-103">
-              <num>Artículo 103</num>
-              <paragraph id="art-103-para-1">
+            <article id="art-103.">
+              <num>Artículo 103.</num>
+              <paragraph id="art-103.-para-1">
                 <content>
                   <p>Artículo 103. Los usuarios de los archivos deberán respetar las disposiciones aplicables para la
 consulta y conservación de los documentos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-104">
-              <num>Artículo 104</num>
-              <paragraph id="art-104-para-1">
+            <article id="art-104.">
+              <num>Artículo 104.</num>
+              <paragraph id="art-104.-para-1">
                 <content>
                   <p>Artículo 104. El Archivo General es un organismo descentralizado no sectorizado, con personalidad
 jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones,
@@ -2038,9 +2031,9 @@ objeto y fines; su domicilio legal es en la Ciudad de México.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-105">
-              <num>Artículo 105</num>
-              <paragraph id="art-105-para-1">
+            <article id="art-105.">
+              <num>Artículo 105.</num>
+              <paragraph id="art-105.-para-1">
                 <content>
                   <p>Artículo 105. El Archivo General es la entidad especializada en materia de archivos, que tiene por
 objeto promover la organización y administración homogénea de archivos, preservar, incrementar y
@@ -2049,9 +2042,9 @@ mediano y largo plazo; así como contribuir a la transparencia y rendición de c
                 </content>
               </paragraph>
             </article>
-            <article id="art-106">
-              <num>Artículo 106</num>
-              <paragraph id="art-106-para-1">
+            <article id="art-106.">
+              <num>Artículo 106.</num>
+              <paragraph id="art-106.-para-1">
                 <content>
                   <p>Artículo 106. Para el cumplimiento de su objeto, el Archivo General tiene las siguientes atribuciones:
 I. Fungir, mediante su titular, como presidente del Consejo Nacional;
@@ -2130,13 +2123,13 @@ XXXIII. Organizar y participar en eventos nacionales e internacionales en la mat
 XXXIV. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
-              <note placementBase="#art-106" placement="bottom">
+              <note placementBase="#art-106." placement="bottom">
                 <p>Fracción adicionada DOF 05-04-2022</p>
               </note>
             </article>
-            <article id="art-107">
-              <num>Artículo 107</num>
-              <paragraph id="art-107-para-1">
+            <article id="art-107.">
+              <num>Artículo 107.</num>
+              <paragraph id="art-107.-para-1">
                 <content>
                   <p>Artículo 107. Las relaciones laborales entre el Archivo General y sus trabajadores deben sujetarse a
 lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos
@@ -2144,9 +2137,9 @@ Mexicanos y las demás disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-108">
-              <num>Artículo 108</num>
-              <paragraph id="art-108-para-1">
+            <article id="art-108.">
+              <num>Artículo 108.</num>
+              <paragraph id="art-108.-para-1">
                 <content>
                   <p>Artículo 108. Para el cumplimiento de su objeto, el Archivo General contará con los siguientes
 órganos:
@@ -2160,9 +2153,9 @@ efecto.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-109">
-              <num>Artículo 109</num>
-              <paragraph id="art-109-para-1">
+            <article id="art-109.">
+              <num>Artículo 109.</num>
+              <paragraph id="art-109.-para-1">
                 <content>
                   <p>Artículo 109. El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General
 que, además de lo previsto en la Ley Federal de las Entidades Paraestatales y las disposiciones
@@ -2174,9 +2167,9 @@ III. Las demás previstas en otras disposiciones jurídicas aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-110">
-              <num>Artículo 110</num>
-              <paragraph id="art-110-para-1">
+            <article id="art-110.">
+              <num>Artículo 110.</num>
+              <paragraph id="art-110.-para-1">
                 <content>
                   <p>Artículo 110. El Órgano de Gobierno estará integrado por un miembro de las siguientes instancias:
 I. La Secretaría de Gobernación, quien lo presidirá;
@@ -2201,9 +2194,9 @@ emolumento por su participación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-111">
-              <num>Artículo 111</num>
-              <paragraph id="art-111-para-1">
+            <article id="art-111.">
+              <num>Artículo 111.</num>
+              <paragraph id="art-111.-para-1">
                 <content>
                   <p>Artículo 111. El Director General será nombrado por el Presidente de la República y deberá cubrir los
 siguientes requisitos:
@@ -2225,9 +2218,9 @@ Archivo General.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-112">
-              <num>Artículo 112</num>
-              <paragraph id="art-112-para-1">
+            <article id="art-112.">
+              <num>Artículo 112.</num>
+              <paragraph id="art-112.-para-1">
                 <content>
                   <p>Artículo 112. El Director General, además de lo previsto en la Ley Federal de las Entidades
 Paraestatales y las disposiciones reglamentarias correspondientes, tendrá las siguientes facultades:
@@ -2247,9 +2240,9 @@ V. Las demás previstas en esta Ley y en otras disposiciones jurídicas aplicabl
                 </content>
               </paragraph>
             </article>
-            <article id="art-113">
-              <num>Artículo 113</num>
-              <paragraph id="art-113-para-1">
+            <article id="art-113.">
+              <num>Artículo 113.</num>
+              <paragraph id="art-113.-para-1">
                 <content>
                   <p>Artículo 113. El Archivo General contará con un Comisario Público y con una unidad encargada del
 control y vigilancia, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública
@@ -2258,9 +2251,9 @@ previstas en estos ordenamientos y los demás que le resulten aplicables.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-114">
-              <num>Artículo 114</num>
-              <paragraph id="art-114-para-1">
+            <article id="art-114.">
+              <num>Artículo 114.</num>
+              <paragraph id="art-114.-para-1">
                 <content>
                   <p>Artículo 114. El Archivo General contará con un Consejo Técnico que lo asesorará en las materias
 históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
@@ -2273,9 +2266,9 @@ participación.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-115">
-              <num>Artículo 115</num>
-              <paragraph id="art-115-para-1">
+            <article id="art-115.">
+              <num>Artículo 115.</num>
+              <paragraph id="art-115.-para-1">
                 <content>
                   <p>Artículo 115. El patrimonio del Archivo General estará integrado por:
 I. Los recursos que le sean asignados anualmente conforme al Presupuesto de Egresos de la
@@ -2287,9 +2280,9 @@ o adjudiquen por cualquier título jurídico.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-116">
-              <num>Artículo 116</num>
-              <paragraph id="art-116-para-1">
+            <article id="art-116.">
+              <num>Artículo 116.</num>
+              <paragraph id="art-116.-para-1">
                 <content>
                   <p>Artículo 116. Se consideran infracciones a la presente Ley, las siguientes:
 I. Transferir a título oneroso o gratuito la propiedad o posesión de archivos o documentos de los
@@ -2312,9 +2305,9 @@ disposiciones aplicables que de ellos deriven.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-117">
-              <num>Artículo 117</num>
-              <paragraph id="art-117-para-1">
+            <article id="art-117.">
+              <num>Artículo 117.</num>
+              <paragraph id="art-117.-para-1">
                 <content>
                   <p>Artículo 117. Las infracciones administrativas a que se refiere este título o cualquier otra derivada del
 incumplimiento de las obligaciones establecidas en la presente Ley, cometidas por servidores públicos,
@@ -2323,9 +2316,9 @@ responsabilidades administrativas de los servidores públicos, según correspond
                 </content>
               </paragraph>
             </article>
-            <article id="art-118">
-              <num>Artículo 118</num>
-              <paragraph id="art-118-para-1">
+            <article id="art-118.">
+              <num>Artículo 118.</num>
+              <paragraph id="art-118.-para-1">
                 <content>
                   <p>Artículo 118. Las infracciones administrativas cometidas por personas que no revistan la calidad de
 servidores públicos serán sancionadas por las autoridades que resulten competentes de conformidad con
@@ -2350,9 +2343,9 @@ información relacionada con graves violaciones a derechos humanos.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-119">
-              <num>Artículo 119</num>
-              <paragraph id="art-119-para-1">
+            <article id="art-119.">
+              <num>Artículo 119.</num>
+              <paragraph id="art-119.-para-1">
                 <content>
                   <p>Artículo 119. Las sanciones administrativas señaladas en esta Ley son aplicables sin perjuicio de la
 responsabilidad civil o penal de quienes incurran en ellas.
@@ -2362,18 +2355,18 @@ investigación y aportando todos los elementos probatorios con los que cuente.</
                 </content>
               </paragraph>
             </article>
-            <article id="art-120">
-              <num>Artículo 120</num>
-              <paragraph id="art-120-para-1">
+            <article id="art-120.">
+              <num>Artículo 120.</num>
+              <paragraph id="art-120.-para-1">
                 <content>
                   <p>Artículo 120. Los congresos locales emitirán las disposiciones que establezcan las infracciones,
 procedimientos y órganos competentes que conocerán del incumplimiento de esta Ley.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-121">
-              <num>Artículo 121</num>
-              <paragraph id="art-121-para-1">
+            <article id="art-121.">
+              <num>Artículo 121.</num>
+              <paragraph id="art-121.-para-1">
                 <content>
                   <p>Artículo 121. Será sancionado con pena de tres a diez años de prisión y multa de tres mil a cinco mil
 veces la unidad de medida y actualización a la persona que:
@@ -2399,9 +2392,9 @@ declarados previamente por autoridad competente.</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-122">
-              <num>Artículo 122</num>
-              <paragraph id="art-122-para-1">
+            <article id="art-122.">
+              <num>Artículo 122.</num>
+              <paragraph id="art-122.-para-1">
                 <content>
                   <p>Artículo 122. Las sanciones contempladas en esta Ley se aplicarán sin perjuicio de las previstas en
 otras disposiciones jurídicas aplicables.
@@ -2413,64 +2406,169 @@ Secretaría de Servicios Parlamentarios</p>
                 </content>
               </paragraph>
             </article>
-            <article id="art-123">
-              <num>Artículo 123</num>
-              <paragraph id="art-123-para-1">
+            <article id="art-123.">
+              <num>Artículo 123.</num>
+              <paragraph id="art-123.-para-1">
                 <content>
                   <p>Artículo 123. Los Tribunales Federales serán los competentes para sancionar los delitos establecidos
 en esta Ley.
-Transitorios
-Primero. La presente Ley entrará en vigor a los 365 días siguientes contados a partir de su
-publicación en el Diario Oficial de la Federación.
-Segundo. A partir de la entrada en vigor de la Ley se abroga la Ley Federal de Archivos y se derogan
-todas aquellas disposiciones que contravengan la presente Ley.
-Tercero. En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo
+Transitorios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
+                <content>
+                  <p>Primero. La presente Ley entrará en vigor a los 365 días siguientes contados a partir de su
+publicación en el Diario Oficial de la Federación.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. A partir de la entrada en vigor de la Ley se abroga la Ley Federal de Archivos y se derogan
+todas aquellas disposiciones que contravengan la presente Ley.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo
 dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la
-presente Ley.
-Cuarto. En un plazo de un año, a partir de la entrada en vigor de la presente Ley, las legislaturas de
+presente Ley.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. En un plazo de un año, a partir de la entrada en vigor de la presente Ley, las legislaturas de
 cada entidad federativa, deberán armonizar sus ordenamientos relacionados con la presente Ley.
 El Consejo Nacional emitirá lineamientos, mecanismos y criterios para la conservación y resguardo de
 documentos de acuerdo a las características económicas, culturales y sociales de cada región en los
 municipios que no tengan condiciones presupuestarias ni técnicas y cuenten con una población menor a
-70,000 habitantes.
-Quinto. Las Secretarías de Gobernación, de Hacienda y Crédito Público y de la Función Pública, en el
+70,000 habitantes.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-5">
+              <num>Artículo 5</num>
+              <paragraph id="art-5-para-1">
+                <content>
+                  <p>Quinto. Las Secretarías de Gobernación, de Hacienda y Crédito Público y de la Función Pública, en el
 ámbito de sus atribuciones, deberán llevar a cabo las gestiones necesarias para que se autorice
-conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General.
-Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los
+conforme a las disposiciones aplicables la estructura orgánica y ocupacional del Archivo General.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-6">
+              <num>Artículo 6</num>
+              <paragraph id="art-6-para-1">
+                <content>
+                  <p>Sexto. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los
 sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente
 ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales
-necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
-Séptimo. El Órgano de Gobierno del Archivo General, deberá expedir y publicar en el Diario Oficial de
+necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-7">
+              <num>Artículo 7</num>
+              <paragraph id="art-7-para-1">
+                <content>
+                  <p>Séptimo. El Órgano de Gobierno del Archivo General, deberá expedir y publicar en el Diario Oficial de
 la Federación en un periodo no mayor a un año, contado a partir de la entrada en vigor de la presente
-Ley, el Estatuto Orgánico del Archivo General.
-Octavo. El Archivo General de la Nación permanecerá sectorizado a la Secretaría de Gobernación
+Ley, el Estatuto Orgánico del Archivo General.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-8">
+              <num>Artículo 8</num>
+              <paragraph id="art-8-para-1">
+                <content>
+                  <p>Octavo. El Archivo General de la Nación permanecerá sectorizado a la Secretaría de Gobernación
 hasta el 31 de diciembre de 2018.
 A partir del 1 de enero de 2019, se incluirá dentro de la relación de Entidades Paraestatales de la
-Administración Pública Paraestatal como no sectorizado.
-Noveno. La Secretaría de Gobernación, con cargo a su presupuesto, proveerá los recursos humanos,
+Administración Pública Paraestatal como no sectorizado.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-9">
+              <num>Artículo 9</num>
+              <paragraph id="art-9-para-1">
+                <content>
+                  <p>Noveno. La Secretaría de Gobernación, con cargo a su presupuesto, proveerá los recursos humanos,
 materiales, tecnológicos y financieros que requiera el Archivo General para el cumplimiento del presente
-ordenamiento, hasta el 31 de diciembre de 2018.
-Décimo. Los Consejos Locales, deberán empezar a sesionar dentro de los seis meses posteriores a
+ordenamiento, hasta el 31 de diciembre de 2018.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo. Los Consejos Locales, deberán empezar a sesionar dentro de los seis meses posteriores a
 la adecuación de sus leyes locales.
 38 de 43
 LEY GENERAL DE ARCHIVOS
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Primero. Los sujetos obligados deberán implementar su sistema institucional, dentro de los
-seis meses posteriores a la entrada en vigor de la presente Ley.
-Décimo Segundo. El Consejo Nacional deberá integrarse dentro de tres meses a partir de la entrada
-en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.
-Décimo Tercero. El Archivo General pondrá en operación la plataforma del Registro Nacional de
-Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
-Décimo Cuarto. Aquellos documentos que se encuentren en los archivos de concentración y que
+Secretaría de Servicios Parlamentarios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Primero. Los sujetos obligados deberán implementar su sistema institucional, dentro de los
+seis meses posteriores a la entrada en vigor de la presente Ley.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Segundo. El Consejo Nacional deberá integrarse dentro de tres meses a partir de la entrada
+en vigor de la presente Ley, y elaborar su reglamento en los seis meses subsecuentes.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Tercero. El Archivo General pondrá en operación la plataforma del Registro Nacional de
+Archivos, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Cuarto. Aquellos documentos que se encuentren en los archivos de concentración y que
 antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá
 aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la
 información y determinar su disposición documental.
 Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de
-consulta en el portal electrónico del sujeto obligado.
-Décimo Quinto. Los documentos transferidos a un archivo histórico o a los archivos generales, antes
+consulta en el portal electrónico del sujeto obligado.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Quinto. Los documentos transferidos a un archivo histórico o a los archivos generales, antes
 de la entrada en vigor de la Ley, permanecerán en dichos archivos y deberán ser identificados,
 ordenados, descritos y clasificados archivísticamente, con el objetivo de identificar el contenido y carácter
 de la información, así como para promover el uso y difusión favoreciendo la divulgación e investigación.
@@ -2478,11 +2576,25 @@ Aquellos sujetos obligados que cuenten con archivos históricos, deberán prever
 el establecimiento de acciones tendientes a identificar, ordenar, describir y clasificar archivísticamente,
 los documentos que les hayan sido transferidos antes de la entrada en vigor de la Ley.
 Los avances de estos trabajos deberán ser publicados al final de cada año mediante instrumentos de
-consulta en el portal electrónico del sujeto obligado.
-Décimo Sexto. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el
+consulta en el portal electrónico del sujeto obligado.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Sexto. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el
 Ejecutivo Federal en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada
-en vigor del presente Decreto.
-Décimo Séptimo. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley,
+en vigor del presente Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-10">
+              <num>Artículo 10</num>
+              <paragraph id="art-10-para-1">
+                <content>
+                  <p>Décimo Séptimo. En un plazo de un año, contado a partir de la entrada en vigor de la presente Ley,
 los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y
 administración de archivos.
 Ciudad de México, a 26 de abril de 2018.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Edgar
@@ -2505,12 +2617,33 @@ Publicado en el Diario Oficial de la Federación el 5 de abril de 2022
 Artículo Segundo.- Se adiciona una fracción II Bis al artículo 106 de la Ley General de Archivos, para
 quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente
-Decreto.
-Tercero.- La Oficina de la Presidencia de la República y el Archivo General de la Nación, deberán
+Transitorios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
+                <content>
+                  <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente
+Decreto.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero.- La Oficina de la Presidencia de la República y el Archivo General de la Nación, deberán
 llevar a cabo los actos necesarios para la transferencia de los recursos humanos, materiales y financieros
 de la Coordinación de Memoria Histórica y Cultural de México en un plazo máximo de 180 días naturales
 contados a partir de la entrada en vigor del presente Decreto, conforme a las disposiciones jurídicas
@@ -2562,10 +2695,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Cuadragésimo Sexto.- Se reforma el artículo 3 de la Ley General de Archivos, para quedar
 como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-1">
+              <num>Artículo 1</num>
+              <paragraph id="art-1-para-1">
+                <content>
+                  <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-2">
+              <num>Artículo 2</num>
+              <paragraph id="art-2-para-1">
+                <content>
+                  <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -2575,14 +2722,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-3">
+              <num>Artículo 3</num>
+              <paragraph id="art-3-para-1">
+                <content>
+                  <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+                </content>
+              </paragraph>
+            </article>
+            <article id="art-4">
+              <num>Artículo 4</num>
+              <paragraph id="art-4-para-1">
+                <content>
+                  <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

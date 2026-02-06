@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2016-07-18/lgsna_200521/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2016-07-18/lgsna_200521/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -60,9 +60,9 @@
         </chapter>
         <chapter id="chapter-7">
           <num>Capítulo V De los Sistemas Locales</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público, de observancia general en todo el territorio nacional
 y tiene por objeto establecer las bases de coordinación entre la Federación, las entidades federativas, los
@@ -72,9 +72,9 @@ competentes prevengan, investiguen y sancionen las faltas administrativas y los 
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Son objetivos de esta Ley:
 I. Establecer mecanismos de coordinación entre los diversos órganos de combate a la
@@ -111,9 +111,9 @@ instituciones competentes de los órdenes de gobierno.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Para los efectos de la presente Ley se entenderá por:
 I. Comisión de selección: la que se constituya en términos de esta Ley, para nombrar a los
@@ -122,15 +122,8 @@ II. Comisión Ejecutiva: el órgano técnico auxiliar de la Secretaría Ejecutiv
 III. Comité Coordinador: la instancia a la que hace referencia el artículo 113 de la Constitución
 Política de los Estados Unidos Mexicanos, encargada de la coordinación y eficacia del
 Sistema Nacional;
-IV. Comité de Participación Ciudadana: la instancia colegiada a que se refiere la fracción II del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
-              <content>
-                <p>artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, el cual contará
+IV. Comité de Participación Ciudadana: la instancia colegiada a que se refiere la fracción II del
+artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, el cual contará
 con las facultades que establece esta Ley;
 V. Días: días hábiles;
 VI. Entes públicos: los Poderes Legislativo y Judicial, los organismos constitucionales
@@ -166,21 +159,21 @@ XIII. Sistemas Locales: los sistemas anticorrupción de las entidades federativa
 el Capítulo V del Título Segundo de la presente Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-113" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Son sujetos de la presente Ley, los Entes públicos que integran el Sistema Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Son principios rectores que rigen el servicio público los siguientes: legalidad, objetividad,
 profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía,
@@ -191,9 +184,9 @@ cada servidor público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. El Sistema Nacional tiene por objeto establecer principios, bases generales, políticas
 públicas y procedimientos para la coordinación entre las autoridades de todos los órdenes de gobierno en
@@ -211,9 +204,9 @@ La Secretaría Ejecutiva dará seguimiento a la implementación de dichas polít
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. El Sistema Nacional se integra por:
 I. Los integrantes del Comité Coordinador;
@@ -223,9 +216,9 @@ IV. Los Sistemas Locales, quienes concurrirán a través de sus representantes.<
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. El Comité Coordinador es la instancia responsable de establecer mecanismos de
 coordinación entre los integrantes del Sistema Nacional y tendrá bajo su encargo el diseño, promoción y
@@ -233,9 +226,9 @@ evaluación de políticas públicas de combate a la corrupción.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. El Comité Coordinador tendrá las siguientes facultades:
 I. La elaboración de su programa de trabajo anual;
@@ -304,9 +297,9 @@ XVIII. Las demás señaladas por esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Son integrantes del Comité Coordinador:
 I. Un representante del Comité de Participación Ciudadana, quien lo presidirá;
@@ -325,13 +318,13 @@ Protección de Datos Personales, y
 VII. El Presidente del Tribunal Federal de Justicia Administrativa.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Para el adecuado funcionamiento del Sistema Nacional, la presidencia del Comité
 Coordinador durará un año, la cual será rotativa entre los miembros del Comité de Participación
@@ -339,9 +332,9 @@ Ciudadana.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. Son atribuciones del Presidente del Comité Coordinador:
 I. Presidir las sesiones del Sistema Nacional y del Comité Coordinador correspondientes;
@@ -363,9 +356,9 @@ Coordinador.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. El Comité Coordinador se reunirá en sesión ordinaria cada tres meses. El Secretario
 Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa
@@ -386,9 +379,9 @@ este último lo determine.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Las determinaciones se tomarán por mayoría de votos, salvo en los casos que esta Ley
 establezca mayoría calificada.
@@ -397,9 +390,9 @@ Comité Coordinador podrán emitir voto particular de los asuntos que se apruebe
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de
 esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de
@@ -408,9 +401,9 @@ Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad
 y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el
@@ -426,9 +419,9 @@ relativa a los actos de particulares vinculados con faltas administrativas grave
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral
 alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su
@@ -454,9 +447,9 @@ género.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al
 siguiente procedimiento:
@@ -503,9 +496,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Los integrantes del Comité de Participación Ciudadana se rotarán anualmente la
 representación ante el Comité Coordinador, atendiendo a la antigüedad que tengan en el Comité de
@@ -518,9 +511,9 @@ sucesivamente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. El Comité de Participación Ciudadana se reunirá, previa convocatoria de su Presidente,
 cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por
@@ -529,9 +522,9 @@ caso de persistir el empate se enviará el asunto a la siguiente sesión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. El Comité de Participación Ciudadana tendrá las siguientes atribuciones:
 I. Aprobar sus normas de carácter interno;
@@ -594,9 +587,9 @@ generada por esas instancias y formas de participación ciudadana.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. El Presidente del Comité de Participación Ciudadana tendrá como atribuciones:
 I. Presidir las sesiones;
@@ -606,9 +599,9 @@ IV. Garantizar el seguimiento de los temas de la fracción II.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. El Comité de Participación Ciudadana podrá solicitar al Comité Coordinador la emisión de
 exhortos públicos cuando algún hecho de corrupción requiera de aclaración pública. Los exhortos tendrán
@@ -621,9 +614,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. La Secretaría Ejecutiva del Sistema Nacional es un organismo descentralizado, no
 sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, mismo
@@ -632,9 +625,9 @@ sus atribuciones, objetivos y fines.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. La Secretaría Ejecutiva tiene por objeto fungir como órgano de apoyo técnico del Comité
 Coordinador del Sistema Nacional, a efecto de proveerle la asistencia técnica así como los insumos
@@ -643,9 +636,9 @@ necesarios para el desempeño de sus atribuciones, conforme a lo dispuesto en la
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. El patrimonio de la Secretaría Ejecutiva estará integrado por:
 I. Los bienes que le sean transmitidos por el Gobierno Federal para el desempeño de sus
@@ -658,9 +651,9 @@ Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Secretaría Ejecutiva contará con un órgano interno de control, cuyo titular será
 designado en términos de la Ley Orgánica de la Administración Pública Federal, y contará con la
@@ -674,15 +667,8 @@ III. Conservación, uso, destino, afectación, enajenación y baja de bienes mue
 inmuebles;
 IV. Responsabilidades administrativas de Servidores públicos, y
 V. Transparencia y acceso a la información pública, conforme a la ley de la materia.
-La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
-              <content>
-                <p>artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o
+La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el
+artículo 37 de la Ley Orgánica de la Administración Pública Federal, no podrán realizar auditorías o
 investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 11 de 27
 LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN
@@ -692,9 +678,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. El órgano de gobierno estará integrado por los miembros del Comité Coordinador y será
 presidido por el Presidente del Comité de Participación Ciudadana.
@@ -710,9 +696,9 @@ competencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. El órgano de gobierno tendrá las atribuciones indelegables previstas en los artículos 15,
 segundo párrafo, y 58 de la Ley Federal de las Entidades Paraestatales.
@@ -723,9 +709,9 @@ De la Comisión Ejecutiva</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La Comisión Ejecutiva estará integrada por:
 I. El Secretario Técnico, y
@@ -734,9 +720,9 @@ momento como Presidente del mismo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. La Comisión Ejecutiva tendrá a su cargo la generación de los insumos técnicos
 necesarios para que el Comité Coordinador realice sus funciones, por lo que elaborará las siguientes
@@ -769,9 +755,9 @@ VIII. Los mecanismos de coordinación con los Sistemas Locales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. La Comisión Ejecutiva celebrará sesiones ordinarias y extraordinarias que serán
 convocadas por el Secretario Técnico, en los términos que establezca el Estatuto Orgánico de la
@@ -789,9 +775,9 @@ Del Secretario Técnico</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. El Secretario Técnico será nombrado y removido por el órgano de gobierno de la
 Secretaría Ejecutiva, por el voto favorable de cinco de sus miembros. Durará cinco años en su encargo y
@@ -817,9 +803,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Para ser designado Secretario Técnico se deberán reunir los requisitos siguientes:
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles;
@@ -846,13 +832,13 @@ separado de su cargo con un año antes del día de su designación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Fracción reformada DOF 20-05-2021</p>
             </note>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Corresponde al Secretario Técnico ejercer la dirección de la Secretaría Ejecutiva, por lo
 que contará con las facultades previstas en el artículo 59 de la Ley Federal de las Entidades
@@ -900,9 +886,9 @@ oficio o a solicitud de los miembros de la Comisión Ejecutiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Las leyes de las entidades federativas desarrollarán la integración, atribuciones,
 funcionamiento de los Sistemas Locales atendiendo a las siguientes bases:
@@ -932,9 +918,9 @@ Ciudadana.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. El Sistema Nacional de Fiscalización tiene por objeto establecer acciones y mecanismos
 de coordinación entre los integrantes del mismo, en el ámbito de sus respectivas competencias,
@@ -948,9 +934,9 @@ federativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Para el cumplimiento del objeto a que se refiere el artículo anterior los integrantes del
 Sistema Nacional de Fiscalización deberán:
@@ -971,9 +957,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. El Sistema Nacional de Fiscalización contará con un Comité Rector conformado por la
 Auditoría Superior de la Federación, la Secretaría de la Función Pública y siete miembros rotatorios de
@@ -986,9 +972,9 @@ estos efectos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Para el ejercicio de las competencias del Sistema Nacional de Fiscalización en materia
 de fiscalización y control de los recursos públicos, el Comité Rector ejecutará las siguientes acciones:
@@ -1001,9 +987,9 @@ de recursos públicos generen las instituciones competentes en dichas materias.<
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. El Comité Rector del Sistema Nacional de Fiscalización podrá invitar a participar en
 actividades específicas del Sistema Nacional de Fiscalización a los Órganos internos de control, así como
@@ -1011,9 +997,9 @@ a cualquier otra instancia que realice funciones de control, auditoría y fiscal
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Los integrantes del Sistema Nacional de Fiscalización deberán homologar los procesos,
 procedimientos, técnicas, criterios, estrategias, programas y normas profesionales en materia de
@@ -1024,9 +1010,9 @@ mismo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Conforme a los lineamientos que emita el Comité Rector para la mejora institucional en
 materia de fiscalización, así como derivado de las reglas específicas contenidas en los códigos de ética y
@@ -1039,9 +1025,9 @@ resultados de la auditoría y fiscalización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. El Sistema Nacional de Fiscalización propiciará el intercambio de información que
 coadyuve al desarrollo de sus respectivas funciones, conforme a lo dispuesto en el Título Quinto de esta
@@ -1049,9 +1035,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Los integrantes del Sistema Nacional de Fiscalización en el ámbito de sus respectivas
 facultades y atribuciones:
@@ -1073,9 +1059,9 @@ gubernamental.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. Para el fortalecimiento del Sistema Nacional de Fiscalización, sus integrantes atenderán
 las siguientes directrices:
@@ -1093,9 +1079,9 @@ su funcionamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Los integrantes del Sistema Nacional de Fiscalización celebrarán reuniones ordinarias
 cada seis meses y extraordinarias cuantas veces sea necesario, a fin de dar seguimiento al cumplimiento
@@ -1104,9 +1090,9 @@ valerse de los medios de presencia virtual que consideren pertinentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. El Comité Coordinador emitirá las bases para el funcionamiento de la Plataforma Digital
 Nacional que permita cumplir con los procedimientos, obligaciones y disposiciones señaladas en la
@@ -1122,9 +1108,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. La Plataforma Digital Nacional del Sistema Nacional estará conformada por la
 información que a ella incorporen las autoridades integrantes del Sistema Nacional y contará, al menos,
@@ -1141,9 +1127,9 @@ VI. Sistema de Información Pública de Contrataciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Los integrantes del Sistema Nacional y de los Sistemas Locales promoverán la
 publicación de la información contenida en la plataforma en formato de datos abiertos, conforme a la Ley
@@ -1154,9 +1140,9 @@ electrónicos por parte de los usuarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Los sistemas de evolución patrimonial y de declaración de intereses, así como de los
 Servidores públicos que intervengan en procedimientos de contrataciones públicas, operarán en los
@@ -1167,9 +1153,9 @@ y los objetivos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. El sistema nacional de Servidores públicos y particulares sancionados tiene como
 finalidad que las sanciones impuestas a Servidores públicos y particulares por la comisión de faltas
@@ -1179,9 +1165,9 @@ estar al alcance de las autoridades cuya competencia lo requiera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. Las sanciones impuestas por faltas administrativas graves serán del conocimiento público
 cuando éstas contengan impedimentos o inhabilitaciones para ser contratados como Servidores públicos
@@ -1192,9 +1178,9 @@ registradas para efectos de eventual reincidencia, pero no serán públicas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. El sistema de información y comunicación del Sistema Nacional y del Sistema Nacional
 de Fiscalización será la herramienta digital que permita centralizar la información de todos los órganos
@@ -1207,9 +1193,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. El sistema de información y comunicación del Sistema Nacional de Fiscalización deberá
 contemplar, al menos, los programas anuales de auditorías de los órganos de fiscalización de los tres
@@ -1221,9 +1207,9 @@ bases que emita el Comité Coordinador respecto a la Plataforma Digital Nacional
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. El sistema de denuncias públicas de faltas administrativas y hechos de corrupción será
 establecido de acuerdo a lo que determine el Comité Coordinador y será implementado por las
@@ -1231,9 +1217,9 @@ autoridades competentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. El Secretario Técnico solicitará a los miembros del Comité Coordinador toda la
 información que estime necesaria para la integración del contenido del informe anual que deberá rendir el
@@ -1253,9 +1239,9 @@ estimen pertinentes en relación con el contenido de las recomendaciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Las recomendaciones no vinculantes que emita el Comité Coordinador del Sistema
 Nacional a los Entes públicos, serán públicas y de carácter institucional y estarán enfocadas al
@@ -1266,9 +1252,9 @@ Coordinador.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Las recomendaciones deberán recibir respuesta fundada y motivada por parte de las
 autoridades a las que se dirijan, en un término que no exceda los quince días a partir de su recepción,
@@ -1285,23 +1271,44 @@ las recomendaciones deberá estar contemplada en los informes anuales del Comit�
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. En caso de que el Comité Coordinador considere que las medidas de atención a la
 recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones
 necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los
 artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.
 ARTÍCULOS SEGUNDO Y TERCERO. ………
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-Segundo. Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación, sin perjuicio de lo previsto en los transitorios siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la
 Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias,
 deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo
-previsto en el presente Decreto.
-Tercero. La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la
+previsto en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la
 entrada en vigor del presente Decreto.
 En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la
 legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades
@@ -1331,8 +1338,15 @@ que se opongan a lo previsto en la Ley General de Responsabilidades Administrati
 LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Cuarto. La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la
 publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los
 párrafos siguientes.
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de
@@ -1353,8 +1367,15 @@ Comité de Participación Ciudadana en los términos de los párrafos anteriores
 La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los sesenta días siguientes a la
 sesión de instalación del Comité Coordinador del Sistema Nacional Anticorrupción. Para tal efecto, el
 Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos
-de las disposiciones aplicables.
-Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día
+de las disposiciones aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día
 siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio
 anterior y en los párrafos siguientes.
 A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley
@@ -1395,15 +1416,8 @@ fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justi
 A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal
 contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de
 conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia
-Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
-              <content>
-                <p>artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del
+Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del
+artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del
 presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el
 Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del
@@ -1432,23 +1446,51 @@ Artículo Décimo Séptimo.- Se reforma la fracción VI del artículo 3; la frac
 fracción X del artículo 34 de la Ley General del Sistema Nacional Anticorrupción, para quedar como
 sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -1458,8 +1500,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 24 de 27
 LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN
@@ -1490,13 +1539,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -1513,29 +1576,64 @@ transición.
 LEY GENERAL DEL SISTEMA NACIONAL ANTICORRUPCIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -1546,14 +1644,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -1566,12 +1678,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

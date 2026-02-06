@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2004-09-02/lasoc/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2004-09-02/lasoc/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -52,9 +52,9 @@
       </chapter>
       <chapter id="chapter-9">
         <num>Capítulo IX Supervisión de las Instituciones de Asistencia Social</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- La presente Ley se fundamenta en las disposiciones que en materia de Asistencia Social
 contiene la Ley General de Salud, para el cumplimiento de la misma, garantizando la concurrencia y
@@ -63,9 +63,9 @@ privado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- Las disposiciones de esta Ley son de orden público e interés general, de observancia en
 toda la República y tienen por objeto sentar las bases para la promoción de un Sistema Nacional de
@@ -74,9 +74,9 @@ e impulse la participación de la sociedad en la materia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones
 tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral
@@ -87,9 +87,9 @@ rehabilitación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- Tienen derecho a la asistencia social los individuos y familias que por sus condiciones
 físicas, mentales, jurídicas, económicas o sociales, requieran de servicios especializados para su
@@ -122,27 +122,8 @@ l) Ser víctimas de conflictos armados y de persecución étnica o religiosa, y
 
 m) Ser huérfanos.
 
-Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el</p>
-            </content>
-          </paragraph>
-          <note placementBase="#art-4" placement="bottom">
-            <p>Párrafo reformado DOF 24-04-2018</p>
-          </note>
-          <note placementBase="#art-4" placement="bottom">
-            <p>Inciso reformado DOF 19-12-2014</p>
-          </note>
-          <note placementBase="#art-4" placement="bottom">
-            <p>Inciso reformado DOF 19-12-2014</p>
-          </note>
-          <note placementBase="#art-4" placement="bottom">
-            <p>Inciso adicionado DOF 19-12-2014</p>
-          </note>
-        </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
-            <content>
-              <p>artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el
+artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 II. Las mujeres:
 a) En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan
@@ -173,22 +154,34 @@ XI. Coadyuvar en asistencia a las personas afectadas por desastres naturales, y
 XII. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
-            <p>Párrafo reformado DOF 06-01-2023</p>
+          <note placementBase="#art-4." placement="bottom">
+            <p>Párrafo reformado DOF 24-04-2018</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Inciso reformado DOF 19-12-2014</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
+            <p>Inciso reformado DOF 19-12-2014</p>
+          </note>
+          <note placementBase="#art-4." placement="bottom">
+            <p>Inciso adicionado DOF 19-12-2014</p>
+          </note>
+          <note placementBase="#art-4." placement="bottom">
+            <p>Párrafo reformado DOF 06-01-2023</p>
+          </note>
+          <note placementBase="#art-4." placement="bottom">
+            <p>Inciso reformado DOF 19-12-2014</p>
+          </note>
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 19-12-2014</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 23-04-2013</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- La rectoría de la asistencia social pública y privada corresponde al Estado, el cual, en
 forma prioritaria, proporcionará servicios asistenciales encaminados al desarrollo integral de la familia,
@@ -198,9 +191,9 @@ individuos con carencias familiares esenciales no superables en forma autónoma.
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- La prestación de los servicios de asistencia social que establece la Ley General de Salud,
 que sean de jurisdicción federal, se realizará por las dependencias del Ejecutivo Federal competentes,
@@ -210,9 +203,9 @@ servicios, de conformidad con lo que disponen las leyes respectivas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- Los servicios de salud en materia de asistencia social que presten la Federación, los
 Estados, los Municipios y los sectores social y privado, forman parte del Sistema Nacional de Salud, a
@@ -227,9 +220,9 @@ Salud o el Sistema Nacional para el Desarrollo Integral de la Familia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- En los términos del artículo anterior, los servicios de salud en materia de asistencia social
 que se presten como servicios públicos a la población, por las instituciones de seguridad social y los de
@@ -243,9 +236,9 @@ supletoriamente por la presente Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- La Secretaría de Salud, en su carácter de autoridad sanitaria, y el Sistema Nacional para
 el Desarrollo Integral de la Familia, en su carácter de coordinador del Sistema Nacional de Asistencia
@@ -292,9 +285,9 @@ XV. Las demás que le otorga la Ley General de Salud.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Los sujetos de atención de la asistencia social tendrán derecho a:
 I. Recibir servicios de calidad, con oportunidad y con calidez, por parte de personal profesional y
@@ -304,13 +297,13 @@ II. La confidencialidad respecto a sus condiciones personales y de los servicios
 III. Recibir los servicios sin discriminación.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Fracción reformada DOF 08-06-2012</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- Los sujetos y las familias, en la medida de sus posibilidades, participarán en los distintos
 procesos de la asistencia social, como la capacitación, rehabilitación e integración. Los familiares de los
@@ -318,9 +311,9 @@ sujetos de la asistencia social, serán corresponsables de esa participación y 
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Se entienden como servicios básicos de salud en materia de asistencia social los
 siguientes:
@@ -375,22 +368,22 @@ XIV. Los análogos y conexos a los anteriores que tienda a modificar y mejorar l
 carácter social que impidan al individuo y familias, su desarrollo integral.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Inciso reformado DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Inciso reformado DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Inciso reformado DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- Los servicios enumerados en el artículo anterior podrán ser prestados por cualquier
 institución pública o privada, las instituciones privadas no podrán participar en los servicios que por
@@ -399,9 +392,9 @@ municipales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- Son facultades de la Federación en materia de asistencia social:
 I. La formulación y conducción de la política nacional y el diseño de los instrumentos programáticos
@@ -430,9 +423,9 @@ IX. Las demás que ésta y otras leyes reserven a la Federación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- Cuando, por razón de la materia, se requiera de la intervención de otras dependencias o
 entidades, el Organismo denominado Sistema Nacional para el Desarrollo Integral de la Familia, en lo
@@ -440,9 +433,9 @@ sucesivo "El Organismo", ejercerá sus atribuciones en coordinación con ellas.<
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- Las dependencias y las entidades de la Administración Pública Federal que ejerzan
 funciones relacionadas con la asistencia social, se sujetarán en el ejercicio de éstas a las disposiciones
@@ -450,9 +443,9 @@ contenidas en la presente Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Las atribuciones que en materia de asistencia social correspondan a las Entidades
 Federativas, al Distrito Federal y a los Municipios, se regirán de acuerdo con lo estipulado por el Artículo
@@ -460,9 +453,9 @@ Federativas, al Distrito Federal y a los Municipios, se regirán de acuerdo con 
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- Las Entidades Federativas, el Distrito Federal y los Municipios asumirán el ejercicio de
 las funciones que, en materia de asistencia social, les transfiera la Federación a través de los convenios
@@ -470,9 +463,9 @@ respectivos y conforme a lo dispuesto en este ordenamiento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- La Secretaría de Salud a través del Organismo, y en su caso, con la intervención de
 otras dependencias y entidades, podrá celebrar acuerdos de coordinación en materia de asistencia social
@@ -480,9 +473,9 @@ con los gobiernos de las Entidades Federativas y del Distrito Federal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- Las Entidades Federativas y los Municipios podrán suscribir entre sí acuerdos de
 coordinación y colaboración en materia de asistencia social, para ejercer sus atribuciones a través de las
@@ -490,9 +483,9 @@ instancias que al efecto convengan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- Los gobiernos Federal, de las Entidades Federativas, del Distrito Federal, y de los
 Municipios, en sus respectivas competencias, podrán promover la participación correspondiente de la
@@ -503,9 +496,9 @@ en la prestación de servicios de asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- Son integrantes del Sistema Nacional de Asistencia Social Pública y Privada:
 a) La Secretaría de Salud;
@@ -532,9 +525,9 @@ desconcentrados que realicen actividades vinculadas a la asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- El Sistema Nacional de Asistencia Social Pública y Privada, en lo sucesivo "El Sistema",
 tiene como objeto promover y apoyar, con la participación de los sectores público, privado y las
@@ -542,9 +535,9 @@ comunidades, las acciones en favor de las personas y familias a que se refiere e
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- La Federación, a través del Organismo, fijará las bases sobre las cuales se sustentará la
 coordinación y concertación de acciones del Sistema.
@@ -556,9 +549,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- El Sistema contará, para su funcionamiento y coordinación, con un Consejo Nacional,
 que emitirá opiniones, recomendaciones y líneas de acción para la prestación de servicios de asistencia
@@ -575,9 +568,9 @@ serán electos de acuerdo con el Reglamento del Sistema Nacional de Asistencia S
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- Los integrantes del Sistema contribuirán al logro de los siguientes objetivos:
 a) Coordinar la prestación de servicios de asistencia social pública y privada;
@@ -590,9 +583,9 @@ personas y familias que sean sujetos de derechos de asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- El Sistema Nacional para el Desarrollo Integral de la Familia es el Organismo Público
 Descentralizado, con patrimonio y personalidad jurídica propios, a que se refiere el Artículo 172 de la Ley
@@ -600,9 +593,9 @@ General de Salud.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- El Organismo será el coordinador del Sistema, y tendrá las siguientes funciones:
 a) Vigilar el estricto cumplimiento de la presente Ley;
@@ -669,13 +662,13 @@ y) Promover la creación y el desarrollo de instituciones públicas y privadas d
 z) Establecer prioridades en materia de asistencia social.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Inciso reformado DOF 06-01-2023</p>
           </note>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29.- En el diseño de las políticas públicas, operación de programas, prestación de servicios, y
 la realización de acciones, El Organismo actuará en coordinación con dependencias y entidades
@@ -690,9 +683,9 @@ social que preste, y los que proporcionen los establecimientos del sector salud.
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30.- El patrimonio del Organismo, se integrará con:
 a) Los derechos y bienes muebles e inmuebles que actualmente son de su dominio;
@@ -707,9 +700,9 @@ f) En general, los demás bienes, derechos e ingresos que obtenga por cualquier 
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31.- Para el estudio, planeación y despacho de los asuntos que le competen, El Organismo
 contará con los siguientes órganos superiores:
@@ -724,9 +717,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- La Junta de Gobierno estará integrada por el Secretario de Salud, quien la presidirá; por
 los representantes que designen los titulares de las Secretarías de Gobernación, de Hacienda y Crédito
@@ -740,13 +733,13 @@ cada uno de los miembros propietarios de la misma.
 La Junta de Gobierno designará un Secretario Técnico.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33.- La Junta de Gobierno tendrá las siguientes facultades:
 a) Representar al Organismo con las facultades que establezcan las leyes para actos de dominio y de
@@ -769,9 +762,9 @@ k) Las demás que sean necesarias para el ejercicio de las facultades anteriores
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34.- La Junta de Gobierno podrá integrar Comités Técnicos para el estudio y propuesta de
 mecanismos de coordinación interinstitucional en la atención de las tareas asistenciales que realice El
@@ -780,9 +773,9 @@ representantes que al efecto designen las dependencias y entidades competentes.<
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35.- La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias
 que se requieran de conformidad con el Estatuto respectivo.
@@ -794,9 +787,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36.- El Director General será ciudadano mexicano, mayor de treinta años de edad y con
 experiencia en materia administrativa y de asistencia social.
@@ -804,9 +797,9 @@ El Presidente de la República designará y removerá libremente al Director Gen
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37.- El Director General tendrá las siguientes facultades:
 a) Administrar y representar legalmente al Organismo;
@@ -832,18 +825,18 @@ ordenamientos jurídicos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38.- El Comisario será designado por la Secretaría de la Función Pública; deberá ser
 ciudadano mexicano y con experiencia profesional en la materia no menor de cinco años.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39.- El Comisario tendrá las siguientes facultades:
 a) Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo
@@ -862,9 +855,9 @@ anteriores.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- El Organismo, contará además con un Consejo Ciudadano Consultivo que emitirá
 opiniones y recomendaciones sobre sus políticas y programas nacionales, apoyará sus actividades y
@@ -876,22 +869,22 @@ de paridad de género y de acuerdo con el Reglamento que la Junta de Gobierno em
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Artículo reformado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41.- La Secretaría de Salud y El Organismo, promoverán que las dependencias y entidades
 destinen los recursos necesarios a los programas de asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42.- Las relaciones de trabajo entre El Organismo y sus trabajadores se regirán por la Ley
 Federal del Trabajo, reglamentaria del Apartado "B" del Artículo 123 de la Constitución Política de los
@@ -899,18 +892,18 @@ Estados Unidos Mexicanos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43.- Los trabajadores del Organismo estarán incorporados al régimen de la Ley del Instituto
 de Seguridad y Servicios Sociales de los Trabajadores del Estado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44.- Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la
 prestación de los servicios de asistencia social y con el objeto de favorecer prioritariamente a los grupos
@@ -921,13 +914,13 @@ comunidades indígenas y afromexicanas de las entidades federativas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Artículo reformado DOF 01-04-2024</p>
           </note>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45.- Con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social en
 las entidades federativas y los municipios, El Organismo, promoverá la celebración de convenios entre
@@ -940,9 +933,9 @@ e) Consolidar los apoyos a los patrimonios de la beneficencia pública de las en
             </content>
           </paragraph>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46.- El Organismo promoverá ante los gobiernos locales, el establecimiento de los
 mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de
@@ -955,9 +948,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47.- El Organismo promoverá ante las autoridades estatales y municipales la creación de
 organismos locales, para la realización de acciones en materia de prestación de servicios asistenciales
@@ -965,9 +958,9 @@ para el desarrollo integral de la familia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48.- El Estado, con el objeto de ampliar la cobertura de los servicios de salud de asistencia
 social, fincados en la solidaridad ciudadana, promoverá en toda la República, la creación de asociaciones
@@ -980,9 +973,9 @@ El Organismo les prestará la asesoría técnica necesaria y los apoyos conducen
             </content>
           </paragraph>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>Artículo 49.- El Organismo promoverá ante las autoridades correspondientes el otorgamiento de
 estímulos fiscales, para inducir las acciones de los sectores social y privado en la prestación de servicios
@@ -990,18 +983,18 @@ de salud en materia de asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>Artículo 50.- Las autoridades públicas no podrán disponer de los bienes y recursos que pertenezcan
 a las instituciones privadas de asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>Artículo 51.- Las instituciones privadas de asistencia social serán consideradas de interés público y
 tendrán los siguientes derechos:
@@ -1023,9 +1016,9 @@ i) Ser respetadas en el ejercicio de sus actividades, estructura y organización
             </content>
           </paragraph>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>Artículo 52.- Las instituciones privadas de asistencia social tendrán las siguientes obligaciones:
 a) Constituirse de acuerdo con lo estipulado en las leyes aplicables;
@@ -1042,9 +1035,9 @@ familias o comunidades que reciban sus servicios de asistencia social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>Artículo 53.- El Estado promoverá la organización y participación de la comunidad en la atención de
 aquellos casos de salud, que por sus características requieran de acciones de asistencia social basadas
@@ -1054,9 +1047,9 @@ marginación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>Artículo 54.- El Organismo, promoverá la organización y participación de la comunidad para que, con
 base en el apoyo y solidaridad social o los usos y costumbres indígenas, coadyuve en la prestación de
@@ -1064,18 +1057,18 @@ servicios asistenciales para el desarrollo integral de la familia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>Artículo 55.- La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto
 fortalecer su estructura propiciando la solidaridad ante las necesidades reales de la población.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>Artículo 56.- Se crea el Directorio Nacional de Instituciones de Asistencia Social con objeto de dar
 publicidad a los servicios y apoyos asistenciales que presten las instituciones públicas y privadas, así
@@ -1083,9 +1076,9 @@ como su localización en el territorio nacional. Este Directorio estará a cargo
             </content>
           </paragraph>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>Artículo 57.- El Directorio Nacional se conformará con las inscripciones de las instituciones de
 asistencia social que se tramiten:
@@ -1095,18 +1088,18 @@ c) Las que directamente presenten las propias instituciones ante este Directorio
             </content>
           </paragraph>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>Artículo 58.- El registro de las instituciones y la supervisión de las funciones asistenciales, será
 requisito para recibir recursos de las instituciones de asistencia social pública.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>Artículo 59.- En la inscripción de las instituciones se anotarán los datos que las identifiquen y que
 señalen con precisión la duración y el tipo de servicios asistenciales, sus recursos y ámbito geográfico de
@@ -1115,18 +1108,18 @@ también deberán ser inscritas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>Artículo 60.- Las instituciones recibirán una constancia de su registro en el Directorio y el número
 correspondiente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>Artículo 61.- Cualquier persona podrá solicitar información al Directorio Nacional de Instituciones de
 Asistencia Social.
@@ -1138,9 +1131,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>Artículo 62.- El Servicio Nacional de Información publicará anualmente un compendio de información
 básica sobre las instituciones asistenciales registradas, su capacidad y cobertura de atención y los
@@ -1148,9 +1141,9 @@ servicios que ofrecen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-63">
-          <num>Artículo 63</num>
-          <paragraph id="art-63-para-1">
+        <article id="art-63.">
+          <num>Artículo 63.</num>
+          <paragraph id="art-63.-para-1">
             <content>
               <p>Artículo 63.- Las Instituciones de Asistencia Social deberán ajustar su funcionamiento a lo dispuesto
 por las Normas Oficiales Mexicanas, que al efecto se expidan por la Secretaría de Salud, y el Consejo
@@ -1158,9 +1151,9 @@ Nacional de Normalización y Certificación, para normar los servicios de salud 
             </content>
           </paragraph>
         </article>
-        <article id="art-64">
-          <num>Artículo 64</num>
-          <paragraph id="art-64-para-1">
+        <article id="art-64.">
+          <num>Artículo 64.</num>
+          <paragraph id="art-64.-para-1">
             <content>
               <p>Artículo 64.- Se entiende por normalización de la asistencia social al proceso por el cual se regulan
 actividades desempeñadas por las instituciones públicas y privadas que prestan servicios asistenciales,
@@ -1169,18 +1162,18 @@ aplicables a personas, procesos y servicios a través de Normas Oficiales Mexica
             </content>
           </paragraph>
         </article>
-        <article id="art-65">
-          <num>Artículo 65</num>
-          <paragraph id="art-65-para-1">
+        <article id="art-65.">
+          <num>Artículo 65.</num>
+          <paragraph id="art-65.-para-1">
             <content>
               <p>Artículo 65.- La supervisión y vigilancia para el cumplimiento de las Normas Oficiales Mexicanas,
 corresponde a la Secretaría de Salud a través del Organismo y a las autoridades locales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-66">
-          <num>Artículo 66</num>
-          <paragraph id="art-66-para-1">
+        <article id="art-66.">
+          <num>Artículo 66.</num>
+          <paragraph id="art-66.-para-1">
             <content>
               <p>Artículo 66.- Serán coadyuvantes del Organismo en la supervisión, los Sistemas Estatales y del
 Distrito Federal para el Desarrollo Integral de la Familia y las Juntas de Asistencia Privada u órganos
@@ -1188,9 +1181,9 @@ similares.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-67">
-          <num>Artículo 67</num>
-          <paragraph id="art-67-para-1">
+        <article id="art-67.">
+          <num>Artículo 67.</num>
+          <paragraph id="art-67.-para-1">
             <content>
               <p>Artículo 67.- El incumplimiento de las disposiciones de esta Ley y demás disposiciones derivadas de
 ella serán sancionadas administrativamente por la Secretaría de Salud conforme a sus atribuciones, de
@@ -1199,20 +1192,41 @@ previsto en las leyes estatales correspondientes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-68">
-          <num>Artículo 68</num>
-          <paragraph id="art-68-para-1">
+        <article id="art-68.">
+          <num>Artículo 68.</num>
+          <paragraph id="art-68.-para-1">
             <content>
               <p>Artículo 68.- Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley y
 demás disposiciones que de ella deriven, podrán recurrirlas administrativamente de conformidad con lo
 que establece la Ley Federal de Procedimiento Administrativo y las leyes estatales correspondientes.
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se abroga la Ley sobre el Sistema Nacional de Asistencia Social publicada en el Diario
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se abroga la Ley sobre el Sistema Nacional de Asistencia Social publicada en el Diario
 Oficial de la Federación de 9 de enero de 1986, así como las demás disposiciones que se opongan a lo
-dispuesto por esta Ley.
-TERCERO.- Para los efectos de la regulación del Directorio Nacional de Asistencia Social y del
+dispuesto por esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Para los efectos de la regulación del Directorio Nacional de Asistencia Social y del
 Servicio Nacional de Información, las disposiciones reglamentarias correspondientes se emitirán en un
 plazo de seis meses a partir de la fecha de entrada en vigor de la presente Ley.
 México, D.F., a 29 de abril de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios
@@ -1330,10 +1344,24 @@ Publicado en el Diario Oficial de la Federación el 24 de abril de 2018
 Artículo Único.- Se reforma el primer párrafo del artículo 4 de la Ley de Asistencia Social, para
 quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 Ciudad de México, a 22 de febrero de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
 Cordero Arroyo, Presidente.- Dip. Ernestina Godoy Ramos, Secretaria.- Sen. Juan G. Flores
 Ramírez, Secretario.- Rúbricas."
@@ -1354,23 +1382,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Trigésimo Sexto.- Se reforma el párrafo primero del artículo 32 de la Ley de Asistencia
 Social, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -1380,8 +1436,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -1412,13 +1475,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -1430,8 +1507,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 25 de 31
 LEY DE ASISTENCIA SOCIAL
@@ -1439,25 +1523,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -1468,14 +1580,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -1488,12 +1614,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -1533,14 +1673,35 @@ de la Ley de Ciencia y Tecnología, en materia de paridad de género.
 Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 Artículo Vigésimo. Se reforma el artículo 40 de la Ley de Asistencia Social, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta

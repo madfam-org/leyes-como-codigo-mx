@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2022-10-28/lhheum/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2022-10-28/lhheum/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -37,9 +37,9 @@
       </chapter>
       <chapter id="chapter-4">
         <num>Capítulo Tercero De las modificaciones a los husos horarios en las Entidades Federativas y Municipios</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es de observancia obligatoria en todo el territorio nacional; sus
 disposiciones son de orden público e interés general; su aplicación y vigilancia está a cargo del Ejecutivo
@@ -48,9 +48,9 @@ Federal tengan asignada competencia sobre la materia que regula el presente orde
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Se reconoce para los Estados Unidos Mexicanos la aplicación y vigencia de los husos
 horarios 75 grados, 90 grados, 105 grados y 120 grados oeste del meridiano de Greenwich, y los horarios
@@ -59,9 +59,9 @@ Internacional de Meridianos de 1884, que establece el meridiano cero.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. Para efectos de esta Ley, se establecen dentro del territorio nacional las siguientes zonas
 y se reconocen los meridianos que les correspondan:
@@ -86,9 +86,9 @@ situación geográfica, y de acuerdo con los instrumentos de derecho internacion
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. En el territorio nacional habrá un horario estándar que se establecerá de acuerdo con las
 zonas horarias que correspondan de conformidad con el artículo anterior. Únicamente se aplicará un
@@ -96,9 +96,9 @@ horario estacional para los estados y municipios de la frontera norte, conforme 
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Únicamente en la frontera norte del territorio nacional se aplicará un horario estacional
 conforme a las siguientes reglas:
@@ -119,16 +119,16 @@ El horario estacional fronterizo norte surtirá efecto desde las dos horas del s
 marzo, y concluirá a las dos horas del primer domingo de noviembre.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 29-11-2022</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción adicionada DOF 29-11-2022</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Para el caso de que una entidad federativa pretenda adoptar una de las zonas horarias o
 los horarios estacionales a los que se refiere la presente Ley, el Congreso local correspondiente podrá
@@ -154,23 +154,51 @@ la presentación de la iniciativa formulada en términos del presente artículo.
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. En las iniciativas presentadas de conformidad con las fracciones I y II del artículo 71
 Constitucional, por las que se proponga modificar la zona horaria o el horario estacional en donde se
 ubique alguna entidad federativa o municipio, el Congreso de la Unión deberá requerir la opinión del
 Congreso local de dicha entidad, la cual será aprobada por la mayoría de sus integrantes.
-Transitorios
-Primero.- La presente Ley entrará en vigor el 30 de octubre de 2022.
-Segundo.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley del Sistema de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- La presente Ley entrará en vigor el 30 de octubre de 2022.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley del Sistema de
 Horario en los Estados Unidos Mexicanos, publicada el 29 de diciembre de 2001 en el Diario Oficial de la
-Federación.
-Tercero.- A partir de la entrada en vigor de la presente Ley, queda abrogado el Decreto por el que se
+Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- A partir de la entrada en vigor de la presente Ley, queda abrogado el Decreto por el que se
 Establece el Horario Estacional que se Aplicará en los Estados Unidos Mexicanos, publicado el 1 de
-marzo de 2002 en el Diario Oficial de la Federación, y sus subsecuentes reformas.
-Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+marzo de 2002 en el Diario Oficial de la Federación, y sus subsecuentes reformas.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 Ciudad de México, a 25 de octubre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen.
 Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí
 Camino Farjat, Secretaria.- Rúbricas."

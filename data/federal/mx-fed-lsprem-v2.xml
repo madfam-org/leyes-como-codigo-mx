@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2014-07-14/lsprem/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2014-07-14/lsprem/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -49,9 +49,9 @@
       </chapter>
       <chapter id="chapter-8">
         <num>Capítulo VIII Del Régimen Laboral</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. Se crea el organismo público descentralizado de la Administración Pública Federal, no
 sectorizado, denominado Sistema Público de Radiodifusión del Estado Mexicano, dotado de personalidad
@@ -67,9 +67,9 @@ necesarias y cumplir con lo dispuesto en esta Ley y las demás disposiciones nor
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Para los efectos de esta Ley se entiende por:
 I. Consejo Ciudadano: El Consejo Ciudadano del Sistema;
@@ -94,18 +94,18 @@ X. Sistema: El Sistema Público de Radiodifusión del Estado Mexicano.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. El Sistema Público de Radiodifusión del Estado Mexicano tendrá su domicilio legal en la
 Ciudad de México, Distrito Federal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. El patrimonio del Sistema Público de Radiodifusión del Estado Mexicano se integra por:
 I. Los recursos que se le asignen en el Presupuesto de Egresos de la Federación del ejercicio
@@ -119,9 +119,9 @@ físicas y morales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Para los efectos de este capítulo, se entiende por patrocinio el pago en efectivo o en
 especie que realiza cualquier persona denominada patrocinador, a fin de que se haga la mención o
@@ -130,9 +130,9 @@ comercialización o venta de ningún producto o servicio.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Los patrocinios tendrán las siguientes características:
 I. Deberán constar por escrito y establecer los derechos y obligaciones específicos entre el
@@ -154,9 +154,9 @@ como de producción de segmentos o programas completos de radiodifusión.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. El Sistema tendrá como principios rectores:
 I. Promover el conocimiento, los derechos humanos, libertades y difusión de los valores
@@ -193,9 +193,9 @@ Mexicanos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. El Sistema deberá dar espacio a las obras de producción independiente que contribuyan a
 promover el derecho de las mujeres a una vida libre de violencia, así como a la expresión de la diversidad
@@ -204,9 +204,9 @@ destinará por lo menos un treinta por ciento de su programación semanal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. A falta de disposición expresa en esta Ley, se aplicarán supletoriamente:
 I. La Ley Federal de Telecomunicaciones y Radiodifusión;
@@ -218,13 +218,13 @@ VI. Código Nacional de Procedimientos Civiles y Familiares.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 14-11-2025</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. El Sistema estará obligado a brindar información a los particulares en términos de la Ley
 Federal de Transparencia y Acceso a la Información Pública Gubernamental, a conceder la réplica a
@@ -233,9 +233,9 @@ en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Para el cumplimiento de su objeto, el Sistema tendrá las siguientes atribuciones:
 I. Coordinarse con los medios públicos de radiodifusión de carácter federal, a efecto de
@@ -285,9 +285,9 @@ aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. Además de las actividades necesarias para el ejercicio de sus funciones, el Sistema
 podrá tramitar nuevas concesiones a efecto de contar con la cobertura territorial necesaria que le permita
@@ -295,9 +295,9 @@ cumplir cabalmente con sus principios rectores.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. La dirección y administración del Sistema corresponden a:
 I. La Junta de Gobierno, y
@@ -312,9 +312,9 @@ Los cargos en la Junta de Gobierno serán de carácter honorífico.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. La Junta de Gobierno se integrará conforme al principio de paridad de género por:
 a) La persona que presida el Sistema;
@@ -339,13 +339,13 @@ sociedades de las que el servidor público o las personas antes referidas formen
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo reformado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. La Junta de Gobierno es la autoridad suprema del Sistema y tendrá las siguientes
 atribuciones indelegables:
@@ -422,9 +422,9 @@ ordenamientos legales y administrativos aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. La organización, funcionamiento y periodicidad de las sesiones de la Junta de Gobierno
 se establecerán en el Estatuto Orgánico del Sistema, así como las funciones del Secretario de la propia
@@ -432,9 +432,9 @@ Junta.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. El Presidente del Sistema será designado, a propuesta del Ejecutivo Federal, con el voto
 de dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, de la
@@ -442,9 +442,9 @@ Comisión Permanente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. Para ser Presidente del Sistema se requiere:
 I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
@@ -463,13 +463,13 @@ VII. No haber sido condenado por delito intencional que amerite pena corporal de
 de prisión.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. El Presidente del Sistema durará en su cargo cinco años, podrá ser reelegido para un
 nuevo periodo por una sola vez y podrá ser removido con el voto de dos terceras partes de los miembros
@@ -482,18 +482,18 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. El Presidente no podrá desempeñar ningún otro empleo, cargo o comisión distintos, que
 sean remunerados, con excepción de los de carácter docente o científico.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. El Presidente del Sistema tendrá las siguientes facultades y obligaciones:
 I. Administrar y representar legalmente al Sistema, con arreglo a los objetivos generales y
@@ -586,9 +586,9 @@ XXXI. Las demás que esta Ley, el Estatuto Orgánico u otros ordenamientos le co
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. El Sistema contará con un Consejo Ciudadano con el objeto de asegurar su
 independencia y una política editorial imparcial y objetiva en su gestión, para lo cual contará con
@@ -597,9 +597,9 @@ sistema.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. El Consejo Ciudadano se integrará conforme al principio de paridad de género por nueve
 consejeras y consejeros elegidos mediante una amplia consulta pública por el voto de dos terceras partes
@@ -612,13 +612,13 @@ para un segundo periodo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Artículo reformado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. Son requisitos para ser consejero ciudadano:
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
@@ -637,13 +637,13 @@ VII. No haber sido condenado por delito intencional que amerite pena corporal de
 de prisión.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. Son funciones del Consejo Ciudadano:
 11 de 35
@@ -673,9 +673,9 @@ X. Las demás que señalen las disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. Las personas que integren el Consejo Ciudadano podrán ser substituidas de su cargo
 antes de la conclusión de su período, en los siguientes casos:
@@ -688,34 +688,34 @@ En la sustitución se deberá aplicar el principio de paridad de género.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Párrafo reformado DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Párrafo adicionado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. Las reglas de funcionamiento y organización del Consejo Ciudadano se establecerán en
 el Estatuto Orgánico.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. El Presidente del Sistema dotará de las instalaciones y elementos indispensables para el
 desarrollo de las reuniones del Consejo Ciudadano.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. El Sistema contará con un Contralor Interno designado por el Titular de la Secretaría de
 la Función Pública, de quien dependerá jerárquica y funcionalmente, y cuya competencia y atribuciones
@@ -724,9 +724,9 @@ Pública Federal y demás preceptos jurídicos y administrativos aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Para la atención de los asuntos y sustanciación de los procedimientos a su cargo, el
 Contralor Interno y las áreas competentes, se auxiliarán del personal adscrito al propio Órgano de Control
@@ -734,9 +734,9 @@ Interno.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. De conformidad con las disposiciones correspondientes de la Ley Orgánica de la
 Administración Pública Federal, la Secretaría de la Función Pública designará un Comisario ante la Junta
@@ -745,35 +745,77 @@ asuntos de su competencia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32. Las relaciones de trabajo del Sistema y su personal se regirán por la Ley Federal del
 Trabajo, reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos
 Mexicanos.
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación
-en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.
-SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Radio y
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación
+en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los transitorios siguientes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Se abrogan la Ley Federal de Telecomunicaciones y la Ley Federal de Radio y
 Televisión. Se dejan sin efectos aquellas disposiciones de la Ley de Vías Generales de Comunicación en
 lo que se opongan a lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión que se
-expide por virtud del presente Decreto.
-TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en
+expide por virtud del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. Las disposiciones reglamentarias y administrativas y las normas oficiales mexicanas en
 vigor, continuarán aplicándose hasta en tanto se expidan los nuevos ordenamientos que los sustituyan,
 salvo en lo que se opongan a la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por
-virtud del presente Decreto.
-CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de
+virtud del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. El Instituto Federal de Telecomunicaciones deberá adecuar a la Ley Federal de
 Telecomunicaciones y Radiodifusión su estatuto orgánico, dentro de los sesenta días naturales siguientes
-a la entrada en vigor del presente Decreto.
-QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a
+a la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO. El Ejecutivo Federal deberá emitir, dentro de los ciento ochenta días naturales siguientes a
 la expedición del presente Decreto, las disposiciones reglamentarias y lineamientos en materia de
 contenidos establecidos en la Ley Federal de Telecomunicaciones y Radiodifusión que se expide por
 virtud del presente Decreto.
 Los concesionarios de radiodifusión y de televisión o audio restringidos no podrán promocionar video-
 juegos que no hayan sido clasificados de acuerdo a la normatividad aplicable, misma que deberá expedir
-el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.
-SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a
+el Ejecutivo Federal dentro del plazo referido en el párrafo anterior.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO. La atención, trámite y resolución de los asuntos y procedimientos que hayan iniciado previo a
 la entrada en vigor del presente Decreto, se realizará en los términos establecidos en el artículo Séptimo
 Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o.,
 13 de 35
@@ -783,8 +825,15 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos en materia de
 telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013. Lo anterior sin
-perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.
-SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión
+perjuicio de lo previsto en el Vigésimo Transitorio del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SÉPTIMO. Sin perjuicio de lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión
 que se expide por virtud del Decreto, en la ley y en la normatividad que al efecto emita el Instituto Federal
 de Telecomunicaciones, las concesiones y permisos otorgados con anterioridad a la entrada en vigor del
 presente Decreto, se mantendrán en los términos y condiciones consignados en los respectivos títulos o
@@ -800,8 +849,18 @@ Las solicitudes de prórroga de concesiones de radiodifusión sonora presentadas
 fecha de terminación de la vigencia original establecida en los títulos correspondientes se resolverán en
 términos de lo dispuesto en el artículo 114 de la Ley Federal de Telecomunicaciones y Radiodifusión, sin
 que resulte aplicable el plazo previsto para la solicitud de prórroga de que se trate.
-
-OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente
+</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-7" placement="bottom">
+            <p>Párrafo adicionado DOF 15-06-2018</p>
+          </note>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO. Salvo lo dispuesto en los artículos Décimo y Décimo Primero Transitorios del presente
 Decreto, los actuales concesionarios podrán obtener autorización del Instituto Federal de
 Telecomunicaciones para prestar servicios adicionales a los que son objeto de su concesión o para
 transitar a la concesión única, siempre que se encuentren en cumplimiento de las obligaciones previstas
@@ -809,8 +868,15 @@ en las leyes y en sus títulos de concesión. Los concesionarios que cuentan con
 radioeléctrico deberán pagar las contraprestaciones correspondientes en términos de la Ley Federal de
 Telecomunicaciones y Radiodifusión.
 Los concesionarios que cuenten con varios títulos de concesión, además de poder transitar a la
-concesión única podrán consolidar sus títulos en una sola concesión.
-NOVENO. En tanto exista un agente económico preponderante en los sectores de
+concesión única podrán consolidar sus títulos en una sola concesión.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO. En tanto exista un agente económico preponderante en los sectores de
 telecomunicaciones y radiodifusión, con el fin de promover la competencia y desarrollar competidores
 viables en el largo plazo, no requerirán de autorización del Instituto Federal de Telecomunicaciones las
 concentraciones que se realicen entre agentes económicos titulares de concesiones, ni las cesiones de
@@ -850,8 +916,15 @@ concurrencia, de conformidad con lo dispuesto en la Ley Federal de Telecomunicac
 y la Ley Federal de Competencia Económica sin perjuicio de las concentraciones a que refiere el
 presente artículo.
 Las medidas que imponga el Instituto se extinguirán una vez que se autorice a los agentes
-económicos preponderantes la prestación de servicios adicionales.
-DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
+económicos preponderantes la prestación de servicios adicionales.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
 contengan alguna prohibición o restricción expresa para prestar servicios determinados, previo al inicio
 del trámite para obtener la autorización para prestar servicios adicionales, acreditarán ante el Instituto
 Federal de Telecomunicaciones y éste supervisará el cumplimiento efectivo de las obligaciones previstas
@@ -890,8 +963,15 @@ previsto en las fracciones III y IV del artículo Octavo Transitorio del Decreto
 adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución
 Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario
 Oficial de la Federación el 11 de junio de 2013, y de aquellas que le haya impuesto el Instituto Federal de
-Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
-DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo
+Telecomunicaciones en los términos de la Ley Federal de Telecomunicaciones y Radiodifusión.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO PRIMERO. El trámite de la solicitud a que se refiere el artículo anterior se sujetará a lo
 siguiente:
 I. Los agentes económicos preponderantes y los concesionarios cuyos títulos de concesión
 contengan alguna prohibición o restricción expresa para prestar servicios determinados,
@@ -932,8 +1012,15 @@ concesionarios cuyos títulos de concesión contengan alguna prohibición o rest
 servicios determinados en el sector que corresponda.
 Lo dispuesto en este artículo será aplicable en caso de que los agentes y concesionarios respectivos
 opten por transitar a la concesión única, y será independiente de las sanciones económicas que
-procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
-DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones
+procedan conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SEGUNDO. El agente económico preponderante en el sector de las telecomunicaciones
 podrá optar en cualquier momento por el esquema previsto en el artículo 276 de la Ley Federal de
 Telecomunicaciones y Radiodifusión o ejercer el derecho que establece este artículo.
 El agente económico preponderante en el sector de las telecomunicaciones podrá presentar al
@@ -974,8 +1061,15 @@ LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
-cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo
-Octavo Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los
+cincuenta por ciento en el sector de las telecomunicaciones a que se refiere la fracción III del artículo</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo Transitorio del Decreto antes referido, que genere condiciones de competencia efectiva en los
 mercados que integran dicho sector en los términos de la Ley Federal de Competencia Económica y que
 no tenga por objeto o efecto afectar o reducir la cobertura social existente.
 El plan deberá tener como resultado que la participación en el sector que el agente preponderante
@@ -1041,8 +1135,15 @@ a. Las resoluciones mediante las cuales haya determinado al agente económico co
 en el sector de las telecomunicaciones así como las medidas asimétricas que le haya impuesto en los
 términos de lo dispuesto en la fracción III y IV del artículo Octavo del Decreto antes referido, y
 b. Las resoluciones mediante las cuales haya determinado al agente económico con poder sustancial
-en algún mercado, así como las medidas específicas que le haya impuesto.
-DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes,
+en algún mercado, así como las medidas específicas que le haya impuesto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO TERCERO. El Ejecutivo Federal a través de la Secretaría de Comunicaciones y Transportes,
 realizará las acciones tendientes a instalar la red pública compartida de telecomunicaciones a que se
 refiere el artículo Décimo Sexto transitorio del Decreto por el que se reforman y adicionan diversas
 disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados
@@ -1052,19 +1153,47 @@ En caso de que el Ejecutivo Federal requiera de bandas de frecuencias del espect
 transición a la Televisión Digital Terrestre (banda 700 MHz) para crecer y fortalecer la red compartida
 señalada en el párrafo que antecede, el Instituto Federal de Telecomunicaciones las otorgará
 directamente, siempre y cuando dicha red se mantenga bajo el control de una entidad o dependencia
-pública o bajo un esquema de asociación público-privada.
-DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de
+pública o bajo un esquema de asociación público-privada.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO CUARTO. El Instituto Federal de Telecomunicaciones deberá implementar un sistema de
 servicio profesional dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del
 presente Decreto, el cual deberá contener, entre otros aspectos, el reconocimiento de los derechos de los
 trabajadores de la Comisión Federal de Telecomunicaciones que se encuentren certificados como
-trabajadores del servicio profesional.
-DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo
-dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.
-DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos
+trabajadores del servicio profesional.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO QUINTO. El Instituto Federal de Telecomunicaciones deberá instalar su Consejo Consultivo
+dentro de los ciento ochentas días naturales siguientes a la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SEXTO. La Secretaría de Comunicaciones y Transportes deberá establecer los mecanismos
 para llevar a cabo la coordinación prevista en el artículo 9, fracción V de la Ley Federal de
 Telecomunicaciones y Radiodifusión, dentro de los ciento ochenta días naturales siguientes a la entrada
-en vigor del presente Decreto.
-DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de
+en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SÉPTIMO. Los permisos de radiodifusión que se encuentren vigentes o en proceso de
 refrendo a la entrada en vigor del presente Decreto, deberán transitar al régimen de concesión
 correspondiente dentro del año siguiente a la entrada en vigor de la Ley Federal de Telecomunicaciones
 19 de 35
@@ -1082,8 +1211,15 @@ al Instituto Federal de Telecomunicaciones, quien resolverá lo conducente, en u
 hábiles.
 En tanto se realiza la transición, dichos permisos se regirán por lo dispuesto en la Ley Federal de
 Telecomunicaciones y Radiodifusión para las concesiones de uso público o social, según sea el caso.
-En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.
-DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento
+En caso de no cumplir con el presente artículo, los permisos concluirán su vigencia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO OCTAVO. El Instituto Federal de Telecomunicaciones deberá emitir dentro de los ciento
 ochenta días siguientes a la entrada en vigor de la Ley Federal de Telecomunicaciones y Radiodifusión,
 el programa de trabajo para reorganizar el espectro radioeléctrico a estaciones de radio y televisión a que
 se refiere el inciso b) de la fracción V del artículo Décimo Séptimo transitorio del Decreto por el que se
@@ -1092,8 +1228,15 @@ Constitución Política de los Estados Unidos Mexicanos, en materia de telecomun
 el Diario Oficial de la Federación el 11 de junio de 2013. En la determinación del programa de trabajo, el
 Instituto procurará el desarrollo del mercado relevante de la radio, la migración del mayor número posible
 de estaciones de concesionarios de la banda AM a FM, el fortalecimiento de las condiciones de
-competencia y la continuidad en la prestación de los servicios.
-DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.
+competencia y la continuidad en la prestación de los servicios.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO NOVENO. La transición digital terrestre culminará el 31 de diciembre de 2015.
 El Ejecutivo Federal, a través de la Secretaría de Comunicaciones y Transportes, implementará los
 programas y acciones vinculados con la política de transición a la televisión digital terrestre, para la
 entrega o distribución de equipos receptores o decodificadores a que se refiere el tercer párrafo del
@@ -1333,8 +1476,21 @@ que correspondan.
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del
 agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley
 Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de
-la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo
-Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos
+la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-10" placement="bottom">
+            <p>Párrafo adicionado DOF 18-12-2015</p>
+          </note>
+          <note placementBase="#art-10" placement="bottom">
+            <p>Párrafo reformado DOF 18-12-2015</p>
+          </note>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos
 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia
 de telecomunicaciones.
 México, D.F., a 08 de julio de 2014.- Sen. Raúl Cervantes Andrade, Presidente.- Dip. José González
@@ -1365,12 +1521,33 @@ Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y
 RADIODIFUSIÓN”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE JULIO DE
 2014, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales,
-reglamentarias y administrativas que se opongan al mismo.
-Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales,
+reglamentarias y administrativas que se opongan al mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno
 Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o
 sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones
 digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales
@@ -1403,10 +1580,24 @@ Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas 
 materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de
 julio de 2014, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Lo dispuesto en el tercer párrafo del Artículo Séptimo Transitorio del “Decreto por el que se
 expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de
 Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en
 materia de telecomunicaciones y radiodifusión”, publicado en el Diario Oficial de la Federación el 14 de
@@ -1432,23 +1623,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Quincuagésimo.- Se reforman la fracción VI del artículo 18 y la fracción VI del artículo 24 de
 la Ley del Sistema Público de Radiodifusión del Estado Mexicano, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -1458,8 +1677,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -1490,13 +1716,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -1508,8 +1748,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 29 de 35
 LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO
@@ -1517,25 +1764,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -1546,14 +1821,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -1566,12 +1855,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -1613,14 +1916,35 @@ Artículo Décimo Primero. Se reforman los artículos 14; 23; se reforma el prim
 un segundo párrafo al artículo 26 de la Ley del Sistema Público de Radiodifusión del Estado Mexicano,
 para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta
@@ -1650,10 +1974,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Trigésimo Primero.- Se reforma la fracción VI del artículo 9 de la Ley del Sistema Público de
 Radiodifusión del Estado Mexicano, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -1663,14 +2001,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario
@@ -1691,15 +2043,6 @@ Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.
 35 de 35</p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
-            <p>Párrafo adicionado DOF 15-06-2018</p>
-          </note>
-          <note placementBase="#art-32" placement="bottom">
-            <p>Párrafo adicionado DOF 18-12-2015</p>
-          </note>
-          <note placementBase="#art-32" placement="bottom">
-            <p>Párrafo reformado DOF 18-12-2015</p>
-          </note>
         </article>
         <article id="trans-1">
           <num>Primero</num>

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1975-12-31/lperc/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1975-12-31/lperc/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -121,9 +121,9 @@
       </chapter>
       <chapter id="chapter-32">
         <num>Capítulo XXII de la Ley de Premios, Estímulos y Recompensas Civiles para quedar como sigue: ........</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- Esta ley tiene por objeto determinar las normas que regulan el reconocimiento público que
 haga el Estado, de aquellas personas que por su conducta, actos u obras, merezcan los premios,
@@ -131,9 +131,9 @@ estímulos o recompensas que la misma establece.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- Solamente los mexicanos podrán obtener alguno de los reconocimientos previstos en esta
 ley, al reunir los requisitos por ella fijados. Podrán ser personas físicas consideradas individualmente o en
@@ -144,13 +144,13 @@ territorio nacional, cuya labor incida en favor de los mexicanos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Artículo reformado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Los premios se otorgarán por el reconocimiento público de una conducta o trayectoria
 vital singularmente ejemplares como también de determinados actos u obras valiosos o relevantes,
@@ -161,9 +161,9 @@ declaración de vacancia de los premios establecidos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- Los estímulos a que se refiere esta Ley se instituyen para servidores del Estado, por el
 desempeño sobresaliente de las actividades o funciones que tengan asignadas, así como por cualquier
@@ -172,9 +172,9 @@ acompañarse de recompensas en numerario o en especie, conforme a las prevencion
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- Los premios serán otorgados por el Presidente Constitucional de los Estados Unidos
 Mexicanos y los estímulos y recompensas, por los titulares de los ramos correspondientes de la
@@ -189,9 +189,9 @@ representante.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- Se establecen los siguientes Premios, que se denominarán y tendrán el carácter de
 nacionales:
@@ -250,61 +250,61 @@ persona las veces que lo amerite, considerando su desempeño, virtud, actuación
 , 30-06-2006, 14-12-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 15-06-2004</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 17-12-2015</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 17-12-2015</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 18-11-1986</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 07-03-2003</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción derogada DOF 23-05-2002</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 14-12-2011</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 15-01-1980</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 25-02-2003</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 07-03-2003</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 15-06-2004</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 15-06-2004</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 15-06-2004</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 15-06-2004</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 30-06-2006</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción adicionada DOF 27-01-2015</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 11-10-2004</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- Son expresión de los Premios las siguientes Preseas:
 I.- Collar;
@@ -318,9 +318,9 @@ VIII.- Mención Honorífica.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- Los Consejos de premiación podrán establecer clases de cada Premio.
 Las Preseas se complementarán con la Roseta, cuando se trate de personas físicas.
@@ -334,18 +334,18 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- La Roseta es un botón que se ostenta sobre las prendas de vestir y que se usa fuera de
 los actos solemnes, para representar a la Presea correspondiente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Las Preseas únicamente podrán usarse por sus titulares, quienes lo harán en
 solemnidades y actos públicos en que sea pertinente ostentarlas.
@@ -357,9 +357,9 @@ patria o por pérdida de la nacionalidad mexicana.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- Con toda Presea se entregará un Diploma, en el que se expresarán las razones por las
 que se confiere, así como una síntesis del acuerdo del Jurado. El premio contendrá las firmas del
@@ -367,9 +367,9 @@ Presidente de la República y de los miembros del respectivo Consejo de Premiaci
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Las características de las Preseas se determinarán reglamentariamente por el Ejecutivo
 Federal.
@@ -377,9 +377,9 @@ El pendiente del Collar, la Cruz y la Medalla de Primera Clase serán siempre de
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- La aplicación de las disposiciones de esta ley, corresponde a:
 I.- El Presidente de la República;
@@ -389,9 +389,9 @@ IV.- Los Jurados.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- Los Consejos de Premiación son órganos colegiados de carácter permanente
 encargados de poner en estado de resolución los expedientes que se formen para el otorgamiento de los
@@ -399,9 +399,9 @@ premios establecidos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- Los Consejos se integrarán en la forma que señala esta ley en el capítulo
 correspondiente a cada premio y tendrán un secretario designado por sus componentes, a propuesta del
@@ -410,9 +410,9 @@ suplirlo en sus ausencias.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- Los Jurados son cuerpos colegiados compuestos por el número de miembros
 propietarios y suplentes que acuerde cada Consejo de Premiación, y se encargarán de formular mediante
@@ -421,9 +421,9 @@ final. Cada Jurado eligirá de entre sus miembros su propio presidente y nombrar
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Para ser miembro de un Jurado se requiere:
 I.- Ser ciudadano mexicano;
@@ -438,9 +438,9 @@ IV.- Tener la calificación técnica o científica necesaria, cuando la naturale
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- Consejos y Jurados sesionarán válidamente con la mayoría de sus integrantes; sus
 decisiones se tomarán por mayoría de votos, y, en caso de empate, será voto de calidad el de su
@@ -448,9 +448,9 @@ presidente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- Los Consejos de Premiación tendrán las siguientes atribuciones:
 I.- Formular y dar publicidad a las convocatorias;
@@ -468,9 +468,9 @@ disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- Los Jurados tendrán las siguientes atribuciones:
 I.- Sujetarse en la periodicidad de sus sesiones a las disposiciones que dicte el Consejo;
@@ -481,27 +481,27 @@ IV.- Autentificar con la firma de sus integrantes los dictámenes que emita y tu
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- Los Jurados podrán proponer el otorgamiento póstumo de los premios que instituye esta
 Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- Los miembros de los Jurados están obligados a guardar reserva sobre los asuntos de
 que conozcan en el ejercicio de sus funciones.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- Los Jurados no podrán revocar sus propias resoluciones, que son de su exclusivo
 arbitrio e incumbencia.
@@ -513,27 +513,27 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- Los Consejos determinarán la forma y términos de las Convocatorias que deban
 expedirse, en los casos previstos por esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- Los expedientes de las candidaturas se integrarán atendiendo a las instrucciones de los
 Consejos, por los Secretarios respectivos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- Se concede la más amplia libertad para proponer candidaturas, cuando se trate de
 premios cuyo otorgamiento no requiera de proponentes facultados. Sin embargo, si llegaren a recibirse,
@@ -541,9 +541,9 @@ se turnarán a los Consejos para que las hagan propias o las rechacen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- Toda proposición expresará los merecimientos del candidato; se acompañará de las
 pruebas que se estimen pertinentes y, en todo caso, se indicarán la naturaleza de otras pruebas y
@@ -551,27 +551,27 @@ lugares en que puedan recabarse.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- Los secretarios llevarán el registro de las candidaturas que se presenten y, de acuerdo
 con instrucciones de los Consejos, integrarán cuantos expedientes exijan las circunstancias.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29.- Los Consejos harán del conocimiento público los nombres de los integrantes de los
 Jurados.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30.- Los secretarios de los Consejos y los Jurados llevarán sus correspondientes libros de
 actas. En éstas se harán constar lugar, fecha, horas de apertura y clausura de cada sesión y nombres de
@@ -580,9 +580,9 @@ diversas resoluciones propuestas, de los acuerdos tomados y del resultado de las
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31.- El libro de honor contendrá un registro de los nombres de las personas a quienes llegue
 a otorgarse el premio; en su caso, la clase del mismo; especificación de la presea correspondiente; fecha
@@ -590,9 +590,9 @@ y lugar de entrega, y mención de las incidencias que hubiera habido.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- Los Jurados funcionarán en los locales que les asignen los Consejos. Las sesiones
 serán privadas entre sus miembros, quedando prohibida la presencia de cualquier persona ajena. Las
@@ -600,9 +600,9 @@ votaciones serán secretas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33.- Los acuerdos del Presidente de la República sobre otorgamiento de premios, se
 publicarán en el "Diario Oficial" de la Federación. Dichos acuerdos fijarán lugar y fecha para la entrega de
@@ -610,9 +610,9 @@ premios.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34.- La Condecoración "Miguel Hidalgo" es la más alta presea que otorgan los Estados
 Unidos Mexicanos a sus nacionales, para premiar méritos eminentes o distinguidos, conducta o
@@ -620,9 +620,9 @@ trayectoria vital ejemplar, relevantes servicios prestados a la Patria o a la Hu
             </content>
           </paragraph>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35.- La Condecoración se tramitará en la Secretaría de Gobernación, por conducto de un
 Consejo de Premiación compuesto por los Secretarios de Gobernación, de Educación Pública y de
@@ -636,13 +636,13 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-35" placement="bottom">
+          <note placementBase="#art-35." placement="bottom">
             <p>Artículo reformado DOF 17-12-2015</p>
           </note>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36.- La Condecoración "Miguel Hidalgo" constará de cuatro grados y las siguientes preseas:
 I.- Collar:
@@ -662,9 +662,9 @@ a) Por méritos que no alcancen la relevancia prevista en las fracciones anterio
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37.- El Consejo de Premiación podrá proponer al Presidente de la República que los premios
 de que trata este Capítulo, se acompañen de entregas en numerario o en especie, cuya cuantía o
@@ -672,9 +672,9 @@ naturaleza determine el propio Consejo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38.- El otorgamiento de la Condecoración "Miguel Hidalgo" no está sujeto a periodicidad, ni a
 convocatoria, ni a límite de beneficiarios. Podrá promoverse en cualquier tiempo y por cualquier persona
@@ -684,18 +684,18 @@ Instituciones y Asociaciones de Servicio Social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39.- La entrega de premios tendrá lugar, como homenaje al Padre de la Patria, de
 preferencia el 8 de mayo, aniversario de su natalicio.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- La Orden Mexicana del Águila Azteca es la distinción que se otorga a extranjeros, con el
 objeto de reconocer los servicios prominentes prestados a la Nación Mexicana o a la humanidad, y para
@@ -716,13 +716,13 @@ Ministros.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Artículo reformado DOF 01-06-2011</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41.- La Orden Mexicana del Águila Azteca se otorgará en los grados de:
 
@@ -749,34 +749,34 @@ estime pertinente.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Párrafo reformado DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción derogada DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Fracción reformada DOF 01-06-2011</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42.- En casos especiales, a juicio del Consejo, podrá conferirse la Orden Mexicana del Águila
 Azteca en sus diferentes grados a extranjeros distinguidos, según sus méritos, excepción hecha de grado
@@ -784,13 +784,13 @@ del Collar.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Artículo reformado DOF 01-06-2011</p>
           </note>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43.- A los diplomáticos extranjeros acreditados en México, sólo se les otorgará la Orden al
 término de su misión, siempre que hayan permanecido en el país dos años continuos como mínimo. El
@@ -798,13 +798,13 @@ Consejo otorgará la Condecoración con base en la valoración de la labor desem
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Artículo reformado DOF 01-06-2011</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44.- Habrá Premio Nacional de Ciencias, "José Mario Molina Pasquel y Henríquez" en cada
 uno de los siguientes campos:
@@ -814,16 +814,16 @@ II. Tecnología, Innovación y Diseño.
 , 10-01-2012, 17-12-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo reformado DOF 10-05-2022</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Artículo reformado DOF 27-12-1983</p>
           </note>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45. Merecerán estos premios quienes, por sus producciones o trabajos docentes de
 investigación o de divulgación, hayan contribuido al progreso de la ciencia, de la tecnología y de la
@@ -831,13 +831,13 @@ innovación.
 , 17-12-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-45" placement="bottom">
+          <note placementBase="#art-45." placement="bottom">
             <p>Artículo reformado DOF 10-01-2012</p>
           </note>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46.- El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el
 Consejo de Premiación. Este se integrará, además, con el Rector de la Universidad Nacional Autónoma
@@ -848,13 +848,13 @@ los presidentes de las comisiones de Ciencia y Tecnología de las Cámaras del C
 , 17-12-2015, 10-05-2022</p>
             </content>
           </paragraph>
-          <note placementBase="#art-46" placement="bottom">
+          <note placementBase="#art-46." placement="bottom">
             <p>Artículo reformado DOF 27-12-1983</p>
           </note>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47.- Los premios consistirán en venera y mención honorífica y se acompañarán de una
 entrega en numerario por 100 mil pesos. Podrán concurrir hasta tres personas para el premio del mismo
@@ -864,9 +864,9 @@ premiados hasta el siguiente año.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48.- Solamente las personas físicas podrán ser beneficiarias de los premios de Ciencias. Por
 cada año habrá una asignación de premios, pero no será necesario que las obras o actos que acrediten
@@ -874,13 +874,13 @@ su merecimiento, se hayan realizado dentro de ese lapso.
 , 17-12-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-48" placement="bottom">
+          <note placementBase="#art-48." placement="bottom">
             <p>Artículo reformado DOF 27-12-1983</p>
           </note>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>Artículo 49.- Para conceder estos premios debe mediar convocatoria y que el beneficiario haya sido
 propuesto conforme a ésta. Al efecto, dentro de los tres primeros meses del año, el Consejo de
@@ -892,9 +892,9 @@ propio Consejo fijará los términos de la convocatoria y de su distribución.</
             </content>
           </paragraph>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>Artículo 50.- El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará preferencia
 a quienes con anterioridad hayan obtenido el premio y podrá solicitar proposiciones de las mismas
@@ -902,9 +902,9 @@ instituciones o agrupaciones incluidas en la lista de que trata el artículo ant
             </content>
           </paragraph>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>Artículo 51.- La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones
 incluidas en la lista que prevé el artículo 49, podrán ampliar informaciones ante el Consejo.
@@ -912,7 +912,7 @@ El premio se entregará el 7 de octubre de cada año.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-51" placement="bottom">
+          <note placementBase="#art-51." placement="bottom">
             <p>Párrafo adicionado DOF 10-05-2022</p>
           </note>
         </article>
@@ -1047,9 +1047,9 @@ incluidas en la lista que prevé el artículo 51-F de esta Ley, podrán ampliar 
             <p>Artículo adicionado DOF 17-12-2015</p>
           </note>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>Artículo 52.- El Premio Nacional de Demografía, se otorgará como reconocimiento a profesionales de
 esta disciplina, por los ensayos e investigaciones que contribuyan al conocimiento y a la solución de los
@@ -1057,13 +1057,13 @@ problemas demográficos de México.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 51-A)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-52" placement="bottom">
+          <note placementBase="#art-52." placement="bottom">
             <p>Artículo adicionado DOF 18-11-1986</p>
           </note>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>Artículo 53. El premio se conferirá anualmente y se tramitará ante la Secretaría de Gobernación, por
 conducto del correspondiente Consejo de Premiación, que será integrado por el Titular de la citada
@@ -1073,39 +1073,39 @@ del Trabajo y Previsión Social, y de la Reforma Agraria.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 51-B), 09-04-2012</p>
             </content>
           </paragraph>
-          <note placementBase="#art-53" placement="bottom">
+          <note placementBase="#art-53." placement="bottom">
             <p>Artículo adicionado DOF 18-11-1986</p>
           </note>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>Artículo 54.- El premio consistirá en una de las preseas a que hace mención el artículo 7o. de esta
 Ley, más el numerario o especie que para el caso se determine.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 51-C)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-54" placement="bottom">
+          <note placementBase="#art-54." placement="bottom">
             <p>Artículo adicionado DOF 18-11-1986</p>
           </note>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>Artículo 55.- Este premio será entregado en ceremonia pública y solemne por el Presidente de la
 República o la persona que él designe.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 51-D)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-55" placement="bottom">
+          <note placementBase="#art-55." placement="bottom">
             <p>Artículo adicionado DOF 18-11-1986</p>
           </note>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>Artículo 56. El Premio Nacional de Deportes se concederá a quienes por su actuación y desempeño
 hayan resaltado o sobresalido en el año que se califica dentro del ámbito deportivo, en cualquiera de las
@@ -1140,55 +1140,55 @@ General de Cultura Física y Deporte.
  (renumerado, antes Artículo 52), 11-10-2004, 14-12-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Fracción reformada DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Fracción reformada DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Fracción adicionada DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Fracción adicionada DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Párrafo reformado DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Párrafo adicionado DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>Artículo 57. Se deroga.
  (renumerado, antes Artículo 53), 11-10-2004, 14-12-2011. Derogado DOF 06-01-2020</p>
             </content>
           </paragraph>
-          <note placementBase="#art-57" placement="bottom">
+          <note placementBase="#art-57." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>Artículo 58. Se deroga.
  (renumerado, antes Artículo 54), 11-10-2004, 14-12-2011. Derogado DOF 06-01-2020</p>
             </content>
           </paragraph>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>Artículo 59. El Consejo de Premiación se integrará por. el Secretario de Educación Pública, quien lo
 presidirá, y por los titulares de las Comisiones de Deporte de la Cámara de Diputados y de Juventud y
@@ -1198,13 +1198,13 @@ Cualquier controversia será resuelta por el Consejo.
  (renumerado, antes Artículo 55), 14-12-2011, 26-12-2013, 06-01-2020</p>
             </content>
           </paragraph>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>Artículo 60. Los premios consistirán en medalla de primera clase y se tramitarán ante la Secretaría de
 Educación Pública a través de la Comisión Nacional de Cultura Física y Deporte.
@@ -1213,13 +1213,13 @@ de los individuos medalla.
  (renumerado, antes Artículo 56), 11-10-2004, 14-12-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-60" placement="bottom">
+          <note placementBase="#art-60." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>Artículo 61. Por cada año habrá una asignación de premios determinados atendiendo a lo establecido
 en la ley y con base en las definiciones del jurado y del Consejo de Premiación, si ocurrieren vacantes de
@@ -1228,13 +1228,13 @@ premiación, fundando y motivando tal determinación.
  (renumerado, antes Artículo 57), 11-10-2004, 14-12-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-61" placement="bottom">
+          <note placementBase="#art-61." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>Artículo 62.- Estos premios se concederán exclusivamente a candidatos propuestos por asociaciones
 deportivas nacionales y asociaciones deportivas registradas y reconocidas por la Comisión Nacional de
@@ -1255,16 +1255,16 @@ Secretaría de Servicios Parlamentarios
  (renumerado, antes Artículo 58), 14-12-2011, 26-12-2013</p>
             </content>
           </paragraph>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Párrafo reformado DOF 06-01-2020</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-63">
-          <num>Artículo 63</num>
-          <paragraph id="art-63-para-1">
+        <article id="art-63.">
+          <num>Artículo 63.</num>
+          <paragraph id="art-63.-para-1">
             <content>
               <p>Artículo 63. El Jurado se integrará por: un representante de la Comisión Nacional de Cultura Física y
 Deporte, uno del Comité Olímpico Mexicano, A.C., y uno del Comité Paralímpico Mexicano, A.C., quienes
@@ -1282,10 +1282,10 @@ adicionales en una misma modalidad y categoría.
  (renumerado, antes Artículo 59), 11-10-2004, 14-12-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Párrafo reformado DOF 26-12-2013</p>
           </note>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
@@ -1306,9 +1306,9 @@ Nacional de Deportes”.</p>
             <p>Artículo adicionado DOF 14-12-2011</p>
           </note>
         </article>
-        <article id="art-64">
-          <num>Artículo 64</num>
-          <paragraph id="art-64-para-1">
+        <article id="art-64.">
+          <num>Artículo 64.</num>
+          <paragraph id="art-64.-para-1">
             <content>
               <p>Artículo 64.- El Premio Nacional de Mérito Cívico se concederá a quienes constituyan en su
 comunidad respetables ejemplos de dignidad cívica, por su diligente cumplimiento de la Ley, la firme y
@@ -1322,13 +1322,13 @@ públicas y, en general, por un relevante comportamiento ciudadano.
  (renumerado, antes Artículo 69)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-64" placement="bottom">
+          <note placementBase="#art-64." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-65">
-          <num>Artículo 65</num>
-          <paragraph id="art-65-para-1">
+        <article id="art-65.">
+          <num>Artículo 65.</num>
+          <paragraph id="art-65.-para-1">
             <content>
               <p>Artículo 65.- Este premio se tramitará en la Secretaría de Gobernación, cuyo titular presidirá el
 correspondiente Consejo de Premiación. Éste se integrará, además, con un representante de cada una
@@ -1336,25 +1336,25 @@ de las Cámaras del Congreso de la Unión.
  (renumerado, antes Artículo 70)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-65" placement="bottom">
+          <note placementBase="#art-65." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-66">
-          <num>Artículo 66</num>
-          <paragraph id="art-66-para-1">
+        <article id="art-66.">
+          <num>Artículo 66.</num>
+          <paragraph id="art-66.-para-1">
             <content>
               <p>Artículo 66.- Es aplicable a este premio lo prevenido en el artículo 38 de la presente Ley.
  (renumerado, antes Artículo 71)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-66" placement="bottom">
+          <note placementBase="#art-66." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-67">
-          <num>Artículo 67</num>
-          <paragraph id="art-67-para-1">
+        <article id="art-67.">
+          <num>Artículo 67.</num>
+          <paragraph id="art-67.-para-1">
             <content>
               <p>Artículo 67.- Los premios consistirán en venera. Todos los beneficiarios señalados en un año los
 recibirán en un acto cuya fecha y características de celebración será acordada por el Presidente de la
@@ -1362,13 +1362,13 @@ República, a proposición del Consejo de Premiación.
  (renumerado, antes Artículo 72)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-67" placement="bottom">
+          <note placementBase="#art-67." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-68">
-          <num>Artículo 68</num>
-          <paragraph id="art-68-para-1">
+        <article id="art-68.">
+          <num>Artículo 68.</num>
+          <paragraph id="art-68.-para-1">
             <content>
               <p>Artículo 68.- El Premio Nacional de Trabajo se conferirá a las personas que por su capacidad
 organizativa o por su eficiente y entusiasta entrega a su cotidiana labor, mejoren la productividad en el
@@ -1376,13 +1376,13 @@ organizativa o por su eficiente y entusiasta entrega a su cotidiana labor, mejor
  (renumerado, antes Artículo 73)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-68" placement="bottom">
+          <note placementBase="#art-68." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-69">
-          <num>Artículo 69</num>
-          <paragraph id="art-69-para-1">
+        <article id="art-69.">
+          <num>Artículo 69.</num>
+          <paragraph id="art-69.-para-1">
             <content>
               <p>Artículo 69.- El premio se tramitará en la Secretaría del Trabajo y Previsión Social, por conducto del
 correspondiente Consejo de Premiación, que será integrado por el titular de la citada Secretaría como
@@ -1392,13 +1392,13 @@ que se invite.
  (renumerado, antes Artículo 74)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-69" placement="bottom">
+          <note placementBase="#art-69." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-70">
-          <num>Artículo 70</num>
-          <paragraph id="art-70-para-1">
+        <article id="art-70.">
+          <num>Artículo 70.</num>
+          <paragraph id="art-70.-para-1">
             <content>
               <p>Artículo 70.- Es aplicable a este premio lo prevenido en el artículo 38, que en relación con el presente
 Capítulo debe considerarse adicionado con la mención de organizaciones obreras, campesinas y
@@ -1406,26 +1406,26 @@ patronales.
  (renumerado, antes Artículo 75)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-70" placement="bottom">
+          <note placementBase="#art-70." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-71">
-          <num>Artículo 71</num>
-          <paragraph id="art-71-para-1">
+        <article id="art-71.">
+          <num>Artículo 71.</num>
+          <paragraph id="art-71.-para-1">
             <content>
               <p>Artículo 71.- Al premio corresponderá una placa y podrá adicionarse con una entrega en numerario,
 cuyo monto fijará discrecionalmente el Consejo de Premiación.
  (renumerado, antes Artículo 76)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-71" placement="bottom">
+          <note placementBase="#art-71." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-72">
-          <num>Artículo 72</num>
-          <paragraph id="art-72-para-1">
+        <article id="art-72.">
+          <num>Artículo 72.</num>
+          <paragraph id="art-72.-para-1">
             <content>
               <p>Artículo 72.- El Premio Nacional de la Juventud será entregado a jóvenes cuya edad quede
 comprendida entre los 12 y 29 años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo
@@ -1454,16 +1454,16 @@ X.- Ciencia y tecnología.
  (renumerado, antes Artículo 77), 15-06-2004, 09-06-2009</p>
             </content>
           </paragraph>
-          <note placementBase="#art-72" placement="bottom">
+          <note placementBase="#art-72." placement="bottom">
             <p>Fracción reformada DOF 29-03-2022</p>
           </note>
-          <note placementBase="#art-72" placement="bottom">
+          <note placementBase="#art-72." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
+        <article id="art-73.">
+          <num>Artículo 73.</num>
+          <paragraph id="art-73.-para-1">
             <content>
               <p>Artículo 73.- Este premio se tramitará en la Secretaría de Desarrollo Social, por conducto del Consejo
 de Premiación, que presidirá el titular de dicho ramo y que lo integrará junto con representantes de las
@@ -1475,16 +1475,16 @@ En todo caso formará parte del jurado un representante del Instituto Mexicano d
  (renumerado, antes Artículo 78), 15-06-2004</p>
             </content>
           </paragraph>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Párrafo reformado DOF 02-04-2015</p>
           </note>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-74">
-          <num>Artículo 74</num>
-          <paragraph id="art-74-para-1">
+        <article id="art-74.">
+          <num>Artículo 74.</num>
+          <paragraph id="art-74.-para-1">
             <content>
               <p>Artículo 74.- En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 38, pero el
 Instituto Mexicano de la Juventud deberá constituirse en el promotor de candidaturas, excitando el envío
@@ -1492,13 +1492,13 @@ de proposiciones.
  (renumerado, antes Artículo 79), 15-06-2004</p>
             </content>
           </paragraph>
-          <note placementBase="#art-74" placement="bottom">
+          <note placementBase="#art-74." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-75">
-          <num>Artículo 75</num>
-          <paragraph id="art-75-para-1">
+        <article id="art-75.">
+          <num>Artículo 75.</num>
+          <paragraph id="art-75.-para-1">
             <content>
               <p>Artículo 75.- Cada una de las distinciones del Premio Nacional de la Juventud podrá contar con el
 copatrocinio de alguna sociedad mercantil o cooperativa, asociación civil, institución de asistencia
@@ -1511,13 +1511,13 @@ candidatos a este Premio Nacional.
  (renumerado, antes Artículo 80), 15-06-2004</p>
             </content>
           </paragraph>
-          <note placementBase="#art-75" placement="bottom">
+          <note placementBase="#art-75." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-76">
-          <num>Artículo 76</num>
-          <paragraph id="art-76-para-1">
+        <article id="art-76.">
+          <num>Artículo 76.</num>
+          <paragraph id="art-76.-para-1">
             <content>
               <p>Artículo 76.- El premio consistirá en medalla y se complementará con entrega en numerario o en
 especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo
@@ -1530,13 +1530,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-76" placement="bottom">
+          <note placementBase="#art-76." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-77">
-          <num>Artículo 77</num>
-          <paragraph id="art-77-para-1">
+        <article id="art-77.">
+          <num>Artículo 77.</num>
+          <paragraph id="art-77.-para-1">
             <content>
               <p>Artículo 77.- Son acreedores a este premio quienes desinteresadamente y por propia voluntad, con
 sacrificio económico o de su tiempo o comodidad, hayan realizado o estén realizando actos de manifiesta
@@ -1546,13 +1546,13 @@ ayuda o asistencia a sectores o sujetos socialmente marginados, inhabilitados u 
  (renumerado, antes Artículo 82)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-77" placement="bottom">
+          <note placementBase="#art-77." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-78">
-          <num>Artículo 78</num>
-          <paragraph id="art-78-para-1">
+        <article id="art-78.">
+          <num>Artículo 78.</num>
+          <paragraph id="art-78.-para-1">
             <content>
               <p>Artículo 78.- Este premio se tramitará en la Secretaría de Salud, cuyo titular presidirá el
 correspondiente Consejo de Premiación. Éste se integrará, además con representantes de las
@@ -1561,25 +1561,25 @@ Instituto Mexicano del Seguro Social.
  (renumerado, antes Artículo 83), 09-04-2012</p>
             </content>
           </paragraph>
-          <note placementBase="#art-78" placement="bottom">
+          <note placementBase="#art-78." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-79">
-          <num>Artículo 79</num>
-          <paragraph id="art-79-para-1">
+        <article id="art-79.">
+          <num>Artículo 79.</num>
+          <paragraph id="art-79.-para-1">
             <content>
               <p>Artículo 79.- En esta materia es aplicable el artículo 38 de la presente Ley.
  (renumerado, antes Artículo 84)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-79" placement="bottom">
+          <note placementBase="#art-79." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-80">
-          <num>Artículo 80</num>
-          <paragraph id="art-80-para-1">
+        <article id="art-80.">
+          <num>Artículo 80.</num>
+          <paragraph id="art-80.-para-1">
             <content>
               <p>Artículo 80.- Se conceden facultades al Jurado para que, atendiendo proposiciones del Consejo de
 Premiación y las circunstancias de cada merecimiento, asigne como premios, en caso verdaderamente
@@ -1587,13 +1587,13 @@ extraordinario, collar, y en otros, los que el Consejo determine.
  (renumerado, antes Artículo 85)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-80" placement="bottom">
+          <note placementBase="#art-80." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-81">
-          <num>Artículo 81</num>
-          <paragraph id="art-81-para-1">
+        <article id="art-81.">
+          <num>Artículo 81.</num>
+          <paragraph id="art-81.-para-1">
             <content>
               <p>Artículo 81.- Según lo acuerde el Presidente de la República, a proposición del Consejo de
 Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 67, o en
@@ -1602,13 +1602,13 @@ premiados.
  (renumerado, antes Artículo 86)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-81" placement="bottom">
+          <note placementBase="#art-81." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-82">
-          <num>Artículo 82</num>
-          <paragraph id="art-82-para-1">
+        <article id="art-82.">
+          <num>Artículo 82.</num>
+          <paragraph id="art-82.-para-1">
             <content>
               <p>Artículo 82.- El Premio Nacional de Antigüedad en el Servicio Público se otorgará, en atención a sus
 años de servicio, los trabajadores y funcionarios de las dependencias u organismos sujetos al régimen de
@@ -1616,13 +1616,13 @@ la Ley Federal de los Trabajadores al Servicio del Estado.
  (renumerado, antes Artículo 87)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-82" placement="bottom">
+          <note placementBase="#art-82." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-83">
-          <num>Artículo 83</num>
-          <paragraph id="art-83-para-1">
+        <article id="art-83.">
+          <num>Artículo 83.</num>
+          <paragraph id="art-83.-para-1">
             <content>
               <p>Artículo 83.- Este premio se tramitará de oficio en cada una de las dependencias u organismos del
 Poder Público, por conducto de los Consejos de Premiación que en ellos se establezcan; los cuales se
@@ -1633,13 +1633,13 @@ funciones de Jurados.
  (renumerado, antes Artículo 88)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-84">
-          <num>Artículo 84</num>
-          <paragraph id="art-84-para-1">
+        <article id="art-84.">
+          <num>Artículo 84.</num>
+          <paragraph id="art-84.-para-1">
             <content>
               <p>Artículo 84.- El premio se otorgará en cuatro grados y consistirá en medalla que será de clase
 correspondiente al grado:
@@ -1655,13 +1655,13 @@ IV.- Cuarto grado, por 25.
  (renumerado, antes Artículo 89)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-85">
-          <num>Artículo 85</num>
-          <paragraph id="art-85-para-1">
+        <article id="art-85.">
+          <num>Artículo 85.</num>
+          <paragraph id="art-85.-para-1">
             <content>
               <p>Artículo 85.- Cada Consejo de Premiación determinará los nombres de las medallas de las
 respectivas dependencias u organismos; quedando vigentes y con sus mismas características y
@@ -1671,13 +1671,13 @@ Carranza, Medalla al Mérito Agrícola, Miguel Ángel de Quevedo y Maestro Rafae
  (renumerado, antes Artículo 90)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-85" placement="bottom">
+          <note placementBase="#art-85." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-86">
-          <num>Artículo 86</num>
-          <paragraph id="art-86-para-1">
+        <article id="art-86.">
+          <num>Artículo 86.</num>
+          <paragraph id="art-86.-para-1">
             <content>
               <p>Artículo 86.- Los trabajadores y funcionarios que se consideren con derecho a este premio, podrán
 hacerlo valer por sí mismos o por conducto de su representación sindical o personal, ante el Consejo. En
@@ -1685,13 +1685,13 @@ lo conducente, es aplicable el artículo 67 de la presente Ley.
  (renumerado, antes Artículo 91)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-87">
-          <num>Artículo 87</num>
-          <paragraph id="art-87-para-1">
+        <article id="art-87.">
+          <num>Artículo 87.</num>
+          <paragraph id="art-87.-para-1">
             <content>
               <p>Artículo 87.- El Premio Nacional de Administración Pública se concederá a los seleccionados de entre
 los servidores públicos que prestan sus servicios en las dependencias o entidades cuyas relaciones
@@ -1700,13 +1700,13 @@ el artículo 98 de la presente Ley.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-A)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Artículo adicionado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-88">
-          <num>Artículo 88</num>
-          <paragraph id="art-88-para-1">
+        <article id="art-88.">
+          <num>Artículo 88.</num>
+          <paragraph id="art-88.-para-1">
             <content>
               <p>Artículo 88.- El Premio Nacional de Administración Pública se otorgará en tres grados y consistirá en
 medalla que será de clase correspondiente al grado y se adicionará con la cantidad que fije el Presidente
@@ -1718,13 +1718,13 @@ El Premio será con cargo al Presupuesto de la Presidencia de la República.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-B)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-88" placement="bottom">
+          <note placementBase="#art-88." placement="bottom">
             <p>Artículo adicionado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-89">
-          <num>Artículo 89</num>
-          <paragraph id="art-89-para-1">
+        <article id="art-89.">
+          <num>Artículo 89.</num>
+          <paragraph id="art-89.-para-1">
             <content>
               <p>Artículo 89.- La selección de los servidores públicos con merecimientos para el Premio Nacional de
 Administración Pública, se hará por un jurado integrado por el Coordinador General de Estudios
@@ -1734,25 +1734,18 @@ de Sindicatos de Trabajadores al Servicio del Estado. En caso de empate, el Pres
 calidad.
 Al efecto, la Comisión Interna de Administración y Programación, en funciones de la Comisión
 Evaluadora con la participación de un representante del Sindicato, en cada dependencia o entidad,
-deberá turnar a dicho jurado el expediente del servidor público seleccionado, de conformidad con el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-98">
-          <num>Artículo 98</num>
-          <paragraph id="art-98-para-1">
-            <content>
-              <p>artículo 98 de la presente Ley.
+deberá turnar a dicho jurado el expediente del servidor público seleccionado, de conformidad con el
+artículo 98 de la presente Ley.
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-C)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-98" placement="bottom">
+          <note placementBase="#art-89." placement="bottom">
             <p>Artículo adicionado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-90">
-          <num>Artículo 90</num>
-          <paragraph id="art-90-para-1">
+        <article id="art-90.">
+          <num>Artículo 90.</num>
+          <paragraph id="art-90.-para-1">
             <content>
               <p>Artículo 90.- Si falleciere la persona a quien se debe otorgar el Premio Nacional de Administración
 Pública la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios
@@ -1765,13 +1758,13 @@ Secretaría de Servicios Parlamentarios
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-D)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-90" placement="bottom">
+          <note placementBase="#art-90." placement="bottom">
             <p>Artículo adicionado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-91">
-          <num>Artículo 91</num>
-          <paragraph id="art-91-para-1">
+        <article id="art-91.">
+          <num>Artículo 91.</num>
+          <paragraph id="art-91.-para-1">
             <content>
               <p>Artículo 91.- La Coordinación General de Estudios Administrativos de la Presidencia de la República
 tendrá bajo su custodia el libro de honor en el que se asentarán anualmente los nombres de los
@@ -1779,7 +1772,7 @@ servidores públicos que hayan obtenido el Premio Nacional de Administración P�
 . Reformado DOF 07-03-2003 (renumerado, antes Artículo 91-E)</p>
             </content>
           </paragraph>
-          <note placementBase="#art-91" placement="bottom">
+          <note placementBase="#art-91." placement="bottom">
             <p>Artículo adicionado DOF 15-01-1980</p>
           </note>
         </article>
@@ -1847,9 +1840,9 @@ especie, por el monto o naturaleza que determine el propio Consejo. En lo demás
             <p>Artículo adicionado DOF 25-02-2003</p>
           </note>
         </article>
-        <article id="art-92">
-          <num>Artículo 92</num>
-          <paragraph id="art-92-para-1">
+        <article id="art-92.">
+          <num>Artículo 92.</num>
+          <paragraph id="art-92.-para-1">
             <content>
               <p>Artículo 92.- Los estímulos y recompensas se otorgarán a los servidores públicos seleccionados de
 entre aquéllos que prestan sus servicios en las dependencias y entidades cuyas relaciones laborales se
@@ -1878,13 +1871,13 @@ presente artículo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-92" placement="bottom">
+          <note placementBase="#art-92." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-93">
-          <num>Artículo 93</num>
-          <paragraph id="art-93-para-1">
+        <article id="art-93.">
+          <num>Artículo 93.</num>
+          <paragraph id="art-93.-para-1">
             <content>
               <p>Artículo 93.- Las recompensas consistirán en:
 a) La cantidad de veinticinco mil pesos para cada uno de los tres servidores públicos seleccionados
@@ -1899,13 +1892,13 @@ grupo que represente a la dependencia o entidad en la ceremonia del 20 de noviem
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-93" placement="bottom">
+          <note placementBase="#art-93." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-94">
-          <num>Artículo 94</num>
-          <paragraph id="art-94-para-1">
+        <article id="art-94.">
+          <num>Artículo 94.</num>
+          <paragraph id="art-94.-para-1">
             <content>
               <p>Artículo 94.- Los estímulos y recompensas se tramitarán a propuesta de los superiores jerárquicos, el
 interesado, de su representante sindical o de los compañeros de labores.
@@ -1915,13 +1908,13 @@ requerimientos establecidos en esta Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-94" placement="bottom">
+          <note placementBase="#art-94." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-95">
-          <num>Artículo 95</num>
-          <paragraph id="art-95-para-1">
+        <article id="art-95.">
+          <num>Artículo 95.</num>
+          <paragraph id="art-95.-para-1">
             <content>
               <p>Artículo 95.- La Comisión Interna de Administración y Programación, en funciones de Comisión
 Evaluadora, con el apoyo técnico del titular de la unidad administrativa encargada de la administración de
@@ -1930,13 +1923,13 @@ públicos merecedores de los estímulos y recompensas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-95" placement="bottom">
+          <note placementBase="#art-95." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-96">
-          <num>Artículo 96</num>
-          <paragraph id="art-96-para-1">
+        <article id="art-96.">
+          <num>Artículo 96.</num>
+          <paragraph id="art-96.-para-1">
             <content>
               <p>Artículo 96.- Para el otorgamiento de los estímulos establecidos en el penúltimo párrafo del artículo
 93 se formara un Comité de Evaluación en cada Dirección General o unidad administrativa equivalente, el
@@ -1955,13 +1948,13 @@ que se refiere el artículo 92 de la presente Ley se hagan acreedores a los est�
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-96" placement="bottom">
+          <note placementBase="#art-96." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-97">
-          <num>Artículo 97</num>
-          <paragraph id="art-97-para-1">
+        <article id="art-97.">
+          <num>Artículo 97.</num>
+          <paragraph id="art-97.-para-1">
             <content>
               <p>Artículo 97.- Dentro de los tres días hábiles siguientes a la adopción de las resoluciones por el
 Comité de Evaluación, este deberá proporcionar a la Comisión Interna de Administración y Programación
@@ -1971,13 +1964,13 @@ la recompensa establecida en el inciso a) del artículo 93 de esta Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-97" placement="bottom">
+          <note placementBase="#art-97." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-98">
-          <num>Artículo 98</num>
-          <paragraph id="art-98-para-1">
+        <article id="art-98.">
+          <num>Artículo 98.</num>
+          <paragraph id="art-98.-para-1">
             <content>
               <p>Artículo 98.- Una vez concluida la selección a que se refiere el artículo anterior, la Comisión Interna
 de Administración y Programación en funciones de Comisión Evaluadora, seleccionará al servidor público
@@ -1987,13 +1980,13 @@ Nacional de Administración Pública ante el jurado a que se refiere el artícul
 , 07-03-2003</p>
             </content>
           </paragraph>
-          <note placementBase="#art-98" placement="bottom">
+          <note placementBase="#art-98." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-99">
-          <num>Artículo 99</num>
-          <paragraph id="art-99-para-1">
+        <article id="art-99.">
+          <num>Artículo 99.</num>
+          <paragraph id="art-99.-para-1">
             <content>
               <p>Artículo 99.- En cada dependencia del Ejecutivo la Unidad de Administración de Personal deberá
 llevar un libro de honor en el que se asentarán los nombres de los servidores públicos que hayan
@@ -2001,13 +1994,13 @@ obtenido los estímulos y recompensas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-99" placement="bottom">
+          <note placementBase="#art-99." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-100">
-          <num>Artículo 100</num>
-          <paragraph id="art-100-para-1">
+        <article id="art-100.">
+          <num>Artículo 100.</num>
+          <paragraph id="art-100.-para-1">
             <content>
               <p>Artículo 100.- Si falleciere la persona a cuyo favor se hubiere resuelto otorgar alguna de las
 recompensas, la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios
@@ -2015,13 +2008,13 @@ Sociales de los Trabajadores del Estado, o a quien expresamente se hubiere desig
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-100" placement="bottom">
+          <note placementBase="#art-100." placement="bottom">
             <p>Artículo reformado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-101">
-          <num>Artículo 101</num>
-          <paragraph id="art-101-para-1">
+        <article id="art-101.">
+          <num>Artículo 101.</num>
+          <paragraph id="art-101.-para-1">
             <content>
               <p>Artículo 101.- El Premio Nacional de Protección Civil será conferido y entregado a aquellas personas
 o grupos que representen un ejemplo para la comunidad por su esfuerzo en acciones o medidas de
@@ -2031,13 +2024,13 @@ ejemplar en la ayuda a la población ante la eventualidad de un desastre.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-101" placement="bottom">
+          <note placementBase="#art-101." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-102">
-          <num>Artículo 102</num>
-          <paragraph id="art-102-para-1">
+        <article id="art-102.">
+          <num>Artículo 102.</num>
+          <paragraph id="art-102.-para-1">
             <content>
               <p>Artículo 102.- Este Premio se tramitará ante la Secretaría de Gobernación por conducto del
 correspondiente Consejo de Premiación.
@@ -2058,13 +2051,13 @@ de calidad en caso de empate.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-102" placement="bottom">
+          <note placementBase="#art-102." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-103">
-          <num>Artículo 103</num>
-          <paragraph id="art-103-para-1">
+        <article id="art-103.">
+          <num>Artículo 103.</num>
+          <paragraph id="art-103.-para-1">
             <content>
               <p>Artículo 103.- Para cada año habrá una asignación del Premio por la actuación destacada en cada
 uno de los siguientes dos campos:
@@ -2075,39 +2068,39 @@ caso de desastre.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-103" placement="bottom">
+          <note placementBase="#art-103." placement="bottom">
             <p>Artículo reformado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-104">
-          <num>Artículo 104</num>
-          <paragraph id="art-104-para-1">
+        <article id="art-104.">
+          <num>Artículo 104.</num>
+          <paragraph id="art-104.-para-1">
             <content>
               <p>Artículo 104.- Los premios consistirán en medalla, más el numerario o especie que para el caso se
 determine.
 . Reformado DOF 07-03-2003</p>
             </content>
           </paragraph>
-          <note placementBase="#art-104" placement="bottom">
+          <note placementBase="#art-104." placement="bottom">
             <p>Artículo adicionado DOF 15-01-1980</p>
           </note>
         </article>
-        <article id="art-105">
-          <num>Artículo 105</num>
-          <paragraph id="art-105-para-1">
+        <article id="art-105.">
+          <num>Artículo 105.</num>
+          <paragraph id="art-105.-para-1">
             <content>
               <p>Artículo 105.- El premio será entregado el 19 de septiembre de cada año, por el Presidente de la
 República o por el servidor público que éste designe.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-105" placement="bottom">
+          <note placementBase="#art-105." placement="bottom">
             <p>Artículo adicionado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-106">
-          <num>Artículo 106</num>
-          <paragraph id="art-106-para-1">
+        <article id="art-106.">
+          <num>Artículo 106.</num>
+          <paragraph id="art-106.-para-1">
             <content>
               <p>Artículo 106.- El Premio Nacional de Trabajo y Cultura Indígena y Afromexicana es el reconocimiento
 que el Estado Mexicano confiere a las personas y comunidades pertenecientes a los pueblos y
@@ -2118,13 +2111,13 @@ de los pueblos y comunidades indígenas y afromexicanas.
 . Reformado DOF 15-06-2004, 01-04-2024</p>
             </content>
           </paragraph>
-          <note placementBase="#art-106" placement="bottom">
+          <note placementBase="#art-106." placement="bottom">
             <p>Artículo adicionado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-107">
-          <num>Artículo 107</num>
-          <paragraph id="art-107-para-1">
+        <article id="art-107.">
+          <num>Artículo 107.</num>
+          <paragraph id="art-107.-para-1">
             <content>
               <p>Artículo 107.- Este Premio se otorgará anualmente y consistirá en diploma, medalla y numerario; en
 el caso de las comunidades que se hagan acreedoras al reconocimiento, éste se integrará por diploma y
@@ -2138,13 +2131,13 @@ VI.- Equidad de Género.
 . Reformado DOF 15-06-2004</p>
             </content>
           </paragraph>
-          <note placementBase="#art-107" placement="bottom">
+          <note placementBase="#art-107." placement="bottom">
             <p>Artículo adicionado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-108">
-          <num>Artículo 108</num>
-          <paragraph id="art-108-para-1">
+        <article id="art-108.">
+          <num>Artículo 108.</num>
+          <paragraph id="art-108.-para-1">
             <content>
               <p>Artículo 108.- Para la entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Consejo
 de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Desarrollo
@@ -2161,13 +2154,13 @@ Técnica del Consejo de Premiación.
 . Reformado DOF 15-06-2004, 17-12-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-108" placement="bottom">
+          <note placementBase="#art-108." placement="bottom">
             <p>Artículo adicionado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-109">
-          <num>Artículo 109</num>
-          <paragraph id="art-109-para-1">
+        <article id="art-109.">
+          <num>Artículo 109.</num>
+          <paragraph id="art-109.-para-1">
             <content>
               <p>Artículo 109.- El Premio Nacional de Derechos Humanos es el reconocimiento que la sociedad
 mexicana confiere, a través del organismo constitucional autónomo de derechos humanos, a las
@@ -2175,13 +2168,13 @@ personas que se han destacado en la promoción efectiva y defensa de los derecho
 . Reformado DOF 15-06-2004</p>
             </content>
           </paragraph>
-          <note placementBase="#art-109" placement="bottom">
+          <note placementBase="#art-109." placement="bottom">
             <p>Artículo adicionado DOF 07-03-2003</p>
           </note>
         </article>
-        <article id="art-110">
-          <num>Artículo 110</num>
-          <paragraph id="art-110-para-1">
+        <article id="art-110.">
+          <num>Artículo 110.</num>
+          <paragraph id="art-110.-para-1">
             <content>
               <p>Artículo 110.- El Premio Nacional de Derechos Humanos consistirá en diploma, medalla y numerario,
 será entregado anualmente por el Presidente de la República y el titular de la Comisión Nacional de los
@@ -2189,13 +2182,13 @@ Derechos Humanos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-110" placement="bottom">
+          <note placementBase="#art-110." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-111">
-          <num>Artículo 111</num>
-          <paragraph id="art-111-para-1">
+        <article id="art-111.">
+          <num>Artículo 111.</num>
+          <paragraph id="art-111.-para-1">
             <content>
               <p>Artículo 111.- Para tal efecto, el Premio se tramitará ante el organismo federal protector de los
 Derechos Humanos, en ejercicio de su autonomía y a través de sus instancias competentes emitirá las
@@ -2205,13 +2198,13 @@ así como de un representante de cada una de las Cámaras del Congreso de la Uni
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-111" placement="bottom">
+          <note placementBase="#art-111." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-112">
-          <num>Artículo 112</num>
-          <paragraph id="art-112-para-1">
+        <article id="art-112.">
+          <num>Artículo 112.</num>
+          <paragraph id="art-112.-para-1">
             <content>
               <p>Artículo 112.- En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio
 Nacional de Derechos Humanos podrá ser otorgado post mortem, para honrar la memoria de defensores
@@ -2221,13 +2214,13 @@ internacionales suscritas por el Gobierno de la República en materia de derecho
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-112" placement="bottom">
+          <note placementBase="#art-112." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-113">
-          <num>Artículo 113</num>
-          <paragraph id="art-113-para-1">
+        <article id="art-113.">
+          <num>Artículo 113.</num>
+          <paragraph id="art-113.-para-1">
             <content>
               <p>Artículo 113.- El Premio al Mérito Ecológico, es el reconocimiento nacional que el gobierno federal
 otorga a las personas, instituciones, organizaciones públicas y privadas y comunidades, que han
@@ -2237,13 +2230,13 @@ adicionarse un numerario.
 . Reformado DOF 10-05-2022</p>
             </content>
           </paragraph>
-          <note placementBase="#art-113" placement="bottom">
+          <note placementBase="#art-113." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-114">
-          <num>Artículo 114</num>
-          <paragraph id="art-114-para-1">
+        <article id="art-114.">
+          <num>Artículo 114.</num>
+          <paragraph id="art-114.-para-1">
             <content>
               <p>Artículo 114.- El Premio al Mérito Ecológico, se entregará en las siguientes categorías:
 I.- Comunitaria;
@@ -2260,7 +2253,7 @@ VI.- Investigador.
 . Reformado DOF 12-01-2006, 10-05-2022</p>
             </content>
           </paragraph>
-          <note placementBase="#art-114" placement="bottom">
+          <note placementBase="#art-114." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
@@ -2284,9 +2277,9 @@ VII.- Reuso, Reutilización y Reciclaje.
             <p>Artículo adicionado DOF 10-05-2022</p>
           </note>
         </article>
-        <article id="art-115">
-          <num>Artículo 115</num>
-          <paragraph id="art-115-para-1">
+        <article id="art-115.">
+          <num>Artículo 115.</num>
+          <paragraph id="art-115.-para-1">
             <content>
               <p>Artículo 115.- Para la entrega del Premio al Mérito Ecológico, el Consejo de Premiación se integrará
 por nueve miembros integrados por las personas titulares de la Secretaría de Medio Ambiente y
@@ -2299,13 +2292,13 @@ Día Mundial del Medio Ambiente.
 . Reformado DOF 10-05-2022</p>
             </content>
           </paragraph>
-          <note placementBase="#art-115" placement="bottom">
+          <note placementBase="#art-115." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-116">
-          <num>Artículo 116</num>
-          <paragraph id="art-116-para-1">
+        <article id="art-116.">
+          <num>Artículo 116.</num>
+          <paragraph id="art-116.-para-1">
             <content>
               <p>Artículo 116.- El Premio Nacional de Seguridad Pública es el galardón con el que el Gobierno de la
 República reconoce el trabajo destacado, la entrega en el servicio, la constancia y el desarrollo de las
@@ -2315,13 +2308,13 @@ honradez.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-116" placement="bottom">
+          <note placementBase="#art-116." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-117">
-          <num>Artículo 117</num>
-          <paragraph id="art-117-para-1">
+        <article id="art-117.">
+          <num>Artículo 117.</num>
+          <paragraph id="art-117.-para-1">
             <content>
               <p>Artículo 117.- También podrán considerarse las situaciones excepcionales en las que el desempeño
 de los elementos de las corporaciones policiales, se distingan por su arrojo, valor y respuesta adecuada
@@ -2335,13 +2328,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-117" placement="bottom">
+          <note placementBase="#art-117." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-118">
-          <num>Artículo 118</num>
-          <paragraph id="art-118-para-1">
+        <article id="art-118.">
+          <num>Artículo 118.</num>
+          <paragraph id="art-118.-para-1">
             <content>
               <p>Artículo 118.- El Premio Nacional de Seguridad Pública se otorgará anualmente a personal que
 colabora en instituciones de seguridad pública, tanto en el fuero común como en el federal, en los
@@ -2355,13 +2348,13 @@ VI.- Trabajo Pericial.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-118" placement="bottom">
+          <note placementBase="#art-118." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-119">
-          <num>Artículo 119</num>
-          <paragraph id="art-119-para-1">
+        <article id="art-119.">
+          <num>Artículo 119.</num>
+          <paragraph id="art-119.-para-1">
             <content>
               <p>Artículo 119.- Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiación
 se integrará de la siguiente manera: un representante de la Secretaría de Seguridad y Protección
@@ -2372,13 +2365,13 @@ Seguridad Pública, con el carácter de Secretario Técnico del Consejo de Premi
 . Reformado DOF 20-05-2021</p>
             </content>
           </paragraph>
-          <note placementBase="#art-119" placement="bottom">
+          <note placementBase="#art-119." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-120">
-          <num>Artículo 120</num>
-          <paragraph id="art-120-para-1">
+        <article id="art-120.">
+          <num>Artículo 120.</num>
+          <paragraph id="art-120.-para-1">
             <content>
               <p>Artículo 120.- El Premio Nacional de la Cerámica es el reconocimiento otorgado a los artesanos que
 se han destacado por su empeño, trabajo y obras en favor de la promoción efectiva de la cerámica
@@ -2386,13 +2379,13 @@ nacional.
 . Reformado DOF 30-06-2006</p>
             </content>
           </paragraph>
-          <note placementBase="#art-120" placement="bottom">
+          <note placementBase="#art-120." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-121">
-          <num>Artículo 121</num>
-          <paragraph id="art-121-para-1">
+        <article id="art-121.">
+          <num>Artículo 121.</num>
+          <paragraph id="art-121.-para-1">
             <content>
               <p>Artículo 121.- La convocatoria del Premio será publicada anualmente y considerará en sus objetivos
 la preservación de las técnicas artesanales y el impulso a las capacidades artísticas de los artesanos,
@@ -2400,13 +2393,13 @@ promoviendo la igualdad de género.
 . Reformado DOF 30-06-2006</p>
             </content>
           </paragraph>
-          <note placementBase="#art-121" placement="bottom">
+          <note placementBase="#art-121." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-122">
-          <num>Artículo 122</num>
-          <paragraph id="art-122-para-1">
+        <article id="art-122.">
+          <num>Artículo 122.</num>
+          <paragraph id="art-122.-para-1">
             <content>
               <p>Artículo 122.- El Premio Nacional de la Cerámica se concederá en las siguientes categorías:
 I.- Cerámica contemporánea;
@@ -2424,13 +2417,13 @@ VII.- Figura en arcilla.
 . Reformado DOF 30-06-2006</p>
             </content>
           </paragraph>
-          <note placementBase="#art-122" placement="bottom">
+          <note placementBase="#art-122." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-123">
-          <num>Artículo 123</num>
-          <paragraph id="art-123-para-1">
+        <article id="art-123.">
+          <num>Artículo 123.</num>
+          <paragraph id="art-123.-para-1">
             <content>
               <p>Artículo 123.- Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación se
 integrará por el Presidente de la República, el Secretario de Cultura, el titular del Fondo Nacional para el
@@ -2439,13 +2432,13 @@ Tlaquepaque, localidad que será sede oficial del concurso.
 . Reformado DOF 30-06-2006, 17-12-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-123" placement="bottom">
+          <note placementBase="#art-123." placement="bottom">
             <p>Artículo adicionado DOF 15-06-2004</p>
           </note>
         </article>
-        <article id="art-124">
-          <num>Artículo 124</num>
-          <paragraph id="art-124-para-1">
+        <article id="art-124.">
+          <num>Artículo 124.</num>
+          <paragraph id="art-124.-para-1">
             <content>
               <p>Artículo 124.- El Premio Nacional de Cultura Contributiva se entregará a las personas físicas o
 morales que realicen actividades sobresalientes que propicien en la ciudadanía la divulgación, el fomento
@@ -2456,13 +2449,13 @@ para fortalecer el Sistema de Administración Tributaria o en materia de Cultura
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-124" placement="bottom">
+          <note placementBase="#art-124." placement="bottom">
             <p>Artículo adicionado DOF 27-01-2015</p>
           </note>
         </article>
-        <article id="art-125">
-          <num>Artículo 125</num>
-          <paragraph id="art-125-para-1">
+        <article id="art-125.">
+          <num>Artículo 125.</num>
+          <paragraph id="art-125.-para-1">
             <content>
               <p>Artículo 125.- El Premio Nacional de Cultura Contributiva se entregará en las siguientes categorías:
 I.- Promoción, divulgación y defensa de los derechos humanos de los contribuyentes en el marco de la
@@ -2474,13 +2467,13 @@ de Administración Tributaria o de la Cultura Contributiva.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-125" placement="bottom">
+          <note placementBase="#art-125." placement="bottom">
             <p>Artículo adicionado DOF 27-01-2015</p>
           </note>
         </article>
-        <article id="art-126">
-          <num>Artículo 126</num>
-          <paragraph id="art-126-para-1">
+        <article id="art-126.">
+          <num>Artículo 126.</num>
+          <paragraph id="art-126.-para-1">
             <content>
               <p>Artículo 126.- El Premio Nacional de Cultura Contributiva consistirá en medalla, diploma y podrá
 adicionarse con una entrega en numerario o especie cuyo monto determinará el Consejo de Premiación.
@@ -2489,13 +2482,13 @@ Defensa del Contribuyente.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-126" placement="bottom">
+          <note placementBase="#art-126." placement="bottom">
             <p>Artículo adicionado DOF 27-01-2015</p>
           </note>
         </article>
-        <article id="art-127">
-          <num>Artículo 127</num>
-          <paragraph id="art-127-para-1">
+        <article id="art-127.">
+          <num>Artículo 127.</num>
+          <paragraph id="art-127.-para-1">
             <content>
               <p>Artículo 127.- El Premio se tramitará ante el organismo federal Procuraduría de la Defensa del
 Contribuyente, en ejercicio de su autonomía, y a través de sus instancias competentes emitirá las reglas
@@ -2505,13 +2498,13 @@ representante de cada una de las Cámaras del Congreso de la Unión.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-127" placement="bottom">
+          <note placementBase="#art-127." placement="bottom">
             <p>Artículo adicionado DOF 27-01-2015</p>
           </note>
         </article>
-        <article id="art-128">
-          <num>Artículo 128</num>
-          <paragraph id="art-128-para-1">
+        <article id="art-128.">
+          <num>Artículo 128.</num>
+          <paragraph id="art-128.-para-1">
             <content>
               <p>Artículo 128.- Las erogaciones que deban hacerse con motivo de esta Ley, serán con cargo a la
 partida correspondiente de la Secretaría donde se tramite cada premio, y en caso de falta o insuficiencia
@@ -2524,9 +2517,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-129">
-          <num>Artículo 129</num>
-          <paragraph id="art-129-para-1">
+        <article id="art-129.">
+          <num>Artículo 129.</num>
+          <paragraph id="art-129.-para-1">
             <content>
               <p>Artículo 129.- Los premios y las entregas adicionales en numerario o en especie, así como las
 recompensas, estarán exentos de cualquier impuesto o deducción, en los términos de las leyes fiscales
@@ -2534,13 +2527,13 @@ aplicables.
 . Reformado y recorrido (antes Artículo 125) DOF 27-01-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-129" placement="bottom">
+          <note placementBase="#art-129." placement="bottom">
             <p>Artículo adicionado DOF 30-06-2006</p>
           </note>
         </article>
-        <article id="art-130">
-          <num>Artículo 130</num>
-          <paragraph id="art-130-para-1">
+        <article id="art-130.">
+          <num>Artículo 130.</num>
+          <paragraph id="art-130.-para-1">
             <content>
               <p>Artículo 130.- Salvo que esta Ley contenga disposición expresa al respecto, los jurados están
 facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo
@@ -2548,13 +2541,13 @@ premio, o que éste se otorgue a cada una de ellas.
 . Recorrido (antes Artículo 126) DOF 27-01-2015</p>
             </content>
           </paragraph>
-          <note placementBase="#art-130" placement="bottom">
+          <note placementBase="#art-130." placement="bottom">
             <p>Artículo adicionado DOF 30-06-2006</p>
           </note>
         </article>
-        <article id="art-131">
-          <num>Artículo 131</num>
-          <paragraph id="art-131-para-1">
+        <article id="art-131.">
+          <num>Artículo 131.</num>
+          <paragraph id="art-131.-para-1">
             <content>
               <p>Artículo 131.- Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la
 proporción en que se modifique el salario mínimo general en el Distrito Federal.
@@ -2603,16 +2596,848 @@ Estímulos y Recompensas Civiles, como sigue:
 ARTICULO SEGUNDO.- Se adiciona la Ley de Premios, Estímulos y Recompensas Civiles, con un</p>
             </content>
           </paragraph>
-          <note placementBase="#art-131" placement="bottom">
+          <note placementBase="#art-131." placement="bottom">
             <p>Artículo adicionado DOF 30-06-2006</p>
           </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- ..........</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO A DECIMO PRIMERO.- ..........
+ARTICULO CUARTO. Se adiciona una fracción XI Bis al artículo 6 y un Capítulo XV Bis, para incluir
+los artículos 91-A al 91-D de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como
+sigue:
+..........
+ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL
+EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA
+ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y
+RECOMPENSAS CIVILES.
+ARTICULO UNICO. Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de
+la Ley General de Desarrollo Forestal Sustentable.
+México, D.F., a 13 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz
+Elena Paredes Rangel, Presidenta.- Sen. Lydia Madero García, Secretario.- Dip. Adela Cerezo
+Bautista, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del
+mes de febrero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación,
+Santiago Creel Miranda.- Rúbrica.
+31 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma y adiciona la Ley de Premios, Estímulos y Recompensas
+Civiles.
+Publicado en el Diario Oficial de la Federación el 7 de marzo de 2003
+Artículo Único.- Se reforma y adiciona el artículo 6o., se adicionan cinco artículos, se reforma y
+recorre el número de los Capítulos a partir del VIII, y, se reforma y recorre en su orden los artículos a
+partir del 52 de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
+..........
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+México, D.F., a 14 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
+Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretaria.- Sen. Rafael Melgoza
+Radillo, Secretario.- Rúbricas".
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes
+de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago
+Creel Miranda.- Rúbrica.
+32 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de
+Premios, Estímulos y Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 15 de junio de 2004
+ARTÍCULO ÚNICO.- Se reforman el párrafo segundo del artículo 2, el primer párrafo del artículo 72,
+el primer párrafo del artículo 73, los artículos 74 y 75; se adicionan las fracciones XIII, XIV, XV y XVI al
+artículo 6, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII,
+XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Si a la fecha en que la presente reforma inicie su vigencia se han iniciado los trámites para
+la entrega del Premio Nacional de Deportes instituido por la ley vigente, correspondiente al año que se
+curse, las disposiciones de esta reforma se aplicarán a partir del año siguiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Durante el primer año de vigencia de la presente reforma, la conformación del jurado
+previsto en el artículo 63, referente a los ex galardonados, se integrará por única vez por dos ex
+galardonados del Premio Nacional de Deportes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Se deroga.
+
+México, D. F., a 10 de noviembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio
+Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca Castellanos, Secretaria.- Dip. María Dolores
+Del Río Sánchez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de diciembre
+de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación,
+Alejandro Alfonso Poiré Romero.- Rúbrica.
+39 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman los artículos 44 y 45 de la Ley de Premios, Estímulos y
+Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 10 de enero de 2012
+ARTÍCULO ÚNICO. Se reforman los artículos 44, fracción V, y 45 de la Ley de Premios, Estímulos y
+Recompensas Civiles, para quedar como sigue:
+……….
+TRANSITORIO
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.
+México, D.F., a 24 de noviembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José
+González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Ludivina
+Menchaca Castellanos, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de enero de dos
+mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
+Alfonso Poiré Romero.- Rúbrica.
+40 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman diversas Leyes Federales, con el objeto de actualizar
+todos aquellos artículos que hacen referencia a las Secretarías de Estado cuya
+denominación fue modificada y al Gobierno del Distrito Federal en lo conducente; así
+como eliminar la mención de los departamentos administrativos que ya no tienen
+vigencia.
+Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
+ARTÍCULO VIGÉSIMO. Se reforman los artículos 53 y 78 de la Ley de Premios, Estímulos y
+Recompensas Civiles, para quedar como sigue:
+……….
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-4" placement="bottom">
+            <p>Artículo derogado DOF 26-12-2013</p>
+          </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+disposiciones que contravengan o se opongan al mismo.
+México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
+González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
+Zoreda Novelo, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de
+dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro
+Alfonso Poiré Romero.- Rúbrica.
+41 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman los artículos 59, 62, 63 y 63 Bis de la Ley de Premios,
+Estímulos y Recompensas Civiles, y se deroga el artículo cuarto transitorio del “Decreto
+por el que se reforma y adiciona la Ley de Premios, Estímulos y Recompensas Civiles”,
+publicado el 14 de diciembre de 2011.
+Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
+ARTÍCULO PRIMERO.- Se reforman los artículos 59, segundo párrafo; 62; 63, primer párrafo; 63 Bis
+de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
+………
+ARTÍCULO SEGUNDO. Se deroga el Artículo Cuarto Transitorio del Decreto por el que se reforma y
+adiciona la Ley de Premios, Estímulos y Recompensas Civiles, publicado en el Diario Oficial de la
+Federación el 14 de diciembre de 2011, para quedar como sigue:
+………
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Los Premios Nacionales de Deportes y de Mérito Deportivo correspondientes al año
+2013, se entregarán el día del mes de diciembre que determine el Ejecutivo Federal.
+México, D.F., a 28 de noviembre de 2013.- Dip. José González Morfín, Vicepresidente.- Sen. Raúl
+Cervantes Andrade, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. María Elena Barrera
+Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de
+diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel
+Osorio Chong.- Rúbrica.
+42 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se adicionan diversas disposiciones a la Ley de Premios, Estímulos
+y Recompensas Civiles, para crear el Premio Nacional de Cultura Contributiva.
+Publicado en el Diario Oficial de la Federación el 27 de enero de 2015
+Artículo Único.- Se adicionan el artículo 6, con una fracción XVIII; un Capítulo XXIII denominado
+“Premio Nacional de Cultura Contributiva”, que comprende los artículos 124, 125, 126 y 127,
+recorriéndose los actuales para ser los artículos 128, 129, 130 y 131 en un Capítulo XXIV denominado
+“Disposiciones Generales” de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como
+sigue:
+……….
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+México, D.F., a 14 de diciembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel
+Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez,
+Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de enero de
+dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+43 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman los artículos 3 Bis y 9, fracción XIV, de la Ley del
+Instituto Mexicano de la Juventud y el artículo 73, primer párrafo, de la Ley de Premios,
+Estímulos y Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 2 de abril de 2015
+Artículo Segundo.- Se reforma el artículo 73, primer párrafo, de la Ley de Premios, Estímulos y
+Recompensas Civiles, para quedar como sigue:
+……….
+Transitorio
+Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.
+México, D.F., a 3 de marzo de 2015.- Dip. Tomás Torres Mercado, Vicepresidente en funciones de
+Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Sergio Augusto Chan Lugo, Secretario.-
+Sen. Rosa Adriana Díaz Lizama, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de marzo de
+dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio
+Chong.- Rúbrica.
+44 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley
+Orgánica de la Administración Pública Federal, así como de otras leyes para crear la
+Secretaría de Cultura.
+Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015
+ARTÍCULO OCTAVO.- Se REFORMAN los artículos 6, fracción III; 35; 44; 45; 48; 108 y 123, así
+como la denominación del Capítulo VII; se ADICIONAN la fracción II Bis al artículo 6, y un Capítulo VII Bis
+denominado “Premio Nacional de Artes y Literatura” que comprende los artículos 51-A a 51-H, y se
+DEROGA el segundo párrafo del artículo 46 de la Ley de Premios, Estímulos y Recompensas Civiles,
+para quedar como sigue:
+……….
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura,
+por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada
+Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato,
+que se encuentre bajo su resguardo.
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos
+y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se
+entenderán referidas a la Secretaría de Cultura.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo
+Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos
+administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor
+del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán
+respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones
+aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y
+Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y
+dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos
+ordenamientos se otorgaban a la Secretaría de Educación Pública.
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de
+Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y
+mantendrán su naturaleza jurídica.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y
+órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus
+atribuciones.</p>
+            </content>
+          </paragraph>
         </article>
         <article id="art-6">
           <num>Artículo 6</num>
           <paragraph id="art-6-para-1">
             <content>
-              <p>artículo 6, las fracciones I a la X al artículo 72, un párrafo segundo al artículo 73 y los Capítulos XVIII,
-XIX, XX y XXI por lo que se recorre el Capítulo XVIII denominado "Disposiciones Generales" para ser el</p>
+              <p>SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean
+competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta
+dependencia, conforme a las disposiciones jurídicas aplicables.
+45 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el
+Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades
+administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario
+de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y
+las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que
+no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría
+de Cultura determinen su modificación o abrogación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al
+Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas
+disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en
+este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se
+cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a
+las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el
+sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal
+efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en
+su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal
+considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las
+disposiciones aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+México, D.F., a 15 de diciembre de 2015.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen.
+Roberto Gil Zuarth, Presidente.- Dip. Verónica Delgadillo García, Secretaria.- Sen. María Elena
+Barrera Tapia, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de
+diciembre de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel
+Ángel Osorio Chong.- Rúbrica.
+46 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley
+de Premios, Estímulos y Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 6 de enero de 2020
+Artículo Único.- Se reforman los artículos 56, segundo párrafo; 59; 62, segundo párrafo; 63, primer
+párrafo y 63 Bis; se adicionan los incisos f) y g) y un párrafo cuarto al artículo 56; y se derogan los
+Capítulos IX BIS "Premio Nacional del Mérito Deportivo" y IX TER "Disposiciones Comunes para los
+Premios Nacionales de Deportes y de Mérito Deportivo"; así como los artículos 57 y 58; pasando los
+artículos 59; 60; 61; 62; 63 y 63 Bis a formar parte del Capítulo IX "Premio Nacional de Deportes" de la
+Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:
+………
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 14 de noviembre de 2019.- Dip. Laura Angélica Rojas Hernández, Presidenta.-
+Sen. Mónica Fernández Balboa, Presidenta.- Dip. Karla Yuritzi Almazán Burgos, Secretaria.- Sen.
+Primo Dothé Mata, Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de enero de 2020.- Andrés Manuel
+López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez
+Cordero Dávila.- Rúbrica.
+47 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la
+Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan
+diversas disposiciones de distintos ordenamientos legales.
+Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
+Artículo Trigésimo Tercero.- Se reforma el artículo 119 de la Ley de Premios, Estímulos y
+Recompensas Civiles, para quedar como sigue:
+……..
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
+de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
+General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
+titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
+ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
+Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
+designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
+la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
+de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
+En tanto se expiden los Estatutos y normatividad, continuarán aplicándose las normas y actos
+jurídicos que se han venido aplicando, en lo que no se opongan al presente Decreto.
+Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes,
+celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
+se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
+presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
+pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
+de gestión, dentro del ámbito de la Fiscalía General de la República.
+48 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Las personas servidoras públicas que en ese momento se encuentren prestando sus servicios para el
+Instituto Nacional de Ciencias Penales tendrán derecho a participar en el proceso de evaluación para
+transitar al servicio profesional de carrera.
+Para acceder al servicio profesional de carrera, el personal que deseé continuar prestando sus
+servicios al Instituto Nacional de Ciencias Penales deberá sujetarse al proceso de evaluación según
+disponga el Estatuto del Servicio Profesional de Carrera, dándose por terminada aquella relación con
+aquellos servidores públicos que no se sometan o no acrediten el proceso de evaluación.
+El Instituto Nacional de Ciencias Penales deberá terminar sus relaciones laborales con sus personas
+trabajadoras una vez que se instale el servicio profesional de carrera, conforme al programa de
+liquidación del personal que autorice la Junta de Gobierno, hasta que esto no suceda, las relaciones
+laborales subsistirán.
+A la entrada en vigor de este Decreto, las personas integrantes de la Junta de Gobierno del Instituto
+Nacional de Ciencias Penales pertenecientes a la Administración Pública Federal dejarán el cargo, y sus
+lugares serán ocupados por las personas que determine la persona titular de la Fiscalía General de la
+República.
+Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, la Junta de
+Gobierno emitirá un nuevo Estatuto orgánico y establecerá un servicio profesional de carrera, así como
+un programa de liquidación del personal que, por cualquier causa, no transite al servicio profesional de
+carrera que se instale.
+Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
+cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
+Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
+competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
+atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
+los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
+de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
+al servicio profesional de carrera el personal que deseé continuar prestando sus servicios con la Fiscalía
+General de la República deberá sujetarse al proceso de evaluación según disponga el Estatuto del
+servicio profesional de carrera. Se dará por terminada aquella relación con aquellas personas servidoras
+públicas que no se sometan o no acrediten el proceso de evaluación.
+El personal contratado por la Fiscalía General de la República se sujetará a la vigencia de su
+nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
+contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
+de la República que continúa en la Fiscalía General de la República, así como para el personal de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
+49 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
+la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
+la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
+la Procuraduría General de la República.
+Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
+vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
+República, pasarán a formar parte de su patrimonio.
+Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
+asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
+Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
+Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
+ser presentado por la persona titular de la Fiscalía General de la República en términos del párrafo
+tercero del artículo 88 del presente Decreto.
+El Plan Estratégico de Procuración de Justicia se presentará ante el Senado de la República, durante
+el segundo periodo ordinario de sesiones, en su caso, seis meses después de la entrada en vigor del
+presente Decreto.
+Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
+contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
+responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
+República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
+que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
+del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
+Federación.
+50 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Los expedientes iniciados y pendientes de trámite a la entrada en vigor del presente Decreto, serán
+resueltos por la Secretaría de la Función Pública.
+Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
+presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
+susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
+Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
+González González, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de mayo de 2021.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen
+Sánchez Cordero Dávila.- Rúbrica.
+51 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma la fracción IV del artículo 72 de la Ley de Premios,
+Estímulos y Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 29 de marzo de 2022
+Artículo Único.- Se reforma la fracción IV del artículo 72 de la Ley de Premios, Estímulos y
+Recompensas Civiles, para quedar como sigue:
+………
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 2 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+Olga Sánchez Cordero Dávila, Presidenta.- Dip. María Macarena Chávez Flores, Secretaria.- Sen.
+Verónica Delgadillo García, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de marzo de 2022.- Andrés
+Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López
+Hernández.- Rúbrica.
+52 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman y adicionan diversos artículos de la Ley de Premios,
+Estímulos y Recompensas Civiles.
+Publicado en el Diario Oficial de la Federación el 10 de mayo de 2022
+Artículo Único.- Se reforman las fracciones II Bis y XV del artículo 6, así como la denominación de
+los Capítulos VII y XX y los artículos 44, 46, 113, 114 y 115; y se adiciona un segundo párrafo al artículo
+51 y un artículo 114 Bis, a la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como
+sigue:
+……..
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Los trámites para la entrega del Premio al Mérito Ecológico, del Premio Nacional de
+Preservación del Medio Ambiente y del Premio Nacional de Ciencias que se hayan iniciado antes de la
+entrada en vigor del presente Decreto continuarán su trámite conforme a las disposiciones jurídicas
+vigentes correspondientes al año que se curse.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- Quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general
+contrarias a este Decreto, en consecuencia, las erogaciones que se generen con motivo de la entrada en
+vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a los ejecutores de gasto
+responsables, por lo que no se requerirán recursos adicionales y no se incrementará el presupuesto de
+éstas para el presente ejercicio fiscal ni posteriores.
+Ciudad de México, a 05 de abril de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip.
+Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip.
+Karen Michel González Márquez, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel
+López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.-
+Rúbrica.
+53 de 54
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman diversos ordenamientos en materia de pueblos y
+comunidades indígenas y afromexicanas.
+Publicado en el Diario Oficial de la Federación el 1 de abril de 2024
+Artículo Vigésimo.- Se reforma el artículo 106 de la Ley de Premios, Estímulos y Recompensas
+Civiles, para quedar como sigue:
+……..…
+Transitorio
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.
+Ciudad de México, a 13 de febrero de 2024.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana
+Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Verónica Noemí
+Camino Farjat, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de marzo de 2024.- Andrés
+Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.
+54 de 54</p>
             </content>
           </paragraph>
         </article>

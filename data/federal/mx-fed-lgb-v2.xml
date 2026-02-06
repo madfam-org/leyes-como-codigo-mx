@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2021-06-01/lgb/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2021-06-01/lgb/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -55,9 +55,9 @@
       </chapter>
       <chapter id="chapter-10">
         <num>CAPITULO X Del Depósito Legal de Publicaciones</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es de observancia general en toda la República, sus disposiciones son de
 orden público e interés social y tiene por objeto:
@@ -76,9 +76,9 @@ VII. Regular los términos del Depósito Legal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Para los efectos de la presente Ley, se entenderá por:
 1 de 13
@@ -180,27 +180,27 @@ XXVII. Usuario: Persona que requiere alguna información bibliográfica o docume
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. Se declara de interés público la integración, formación y preservación de bibliotecas, así
 como su apertura para consulta de los habitantes de la República.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. La biblioteca pública tiene como finalidad ofrecer en forma democrática el acceso y
 servicios de consulta de su acervo, así como otros servicios culturales complementarios.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Los servicios culturales complementarios de una biblioteca pública permiten a sus usuarios
 adquirir, transmitir, acrecentar y conservar el conocimiento en todas las ramas del saber. Estos servicios
@@ -218,9 +218,9 @@ VII. Disposición de información para el ejercicio de los derechos y obligacion
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. Los usuarios de las bibliotecas públicas harán uso de los servicios bibliotecarios sin más
 límite que los establecidos por las disposiciones reglamentarias sobre consulta de acervos y visita
@@ -233,9 +233,9 @@ fuentes de consulta, el tema de su investigación y si tiene planeado hacerla p�
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. El acervo de una biblioteca pública podrá comprender colecciones bibliográficas,
 hemerográficas, auditivas, visuales, audiovisuales, digitales, bienes culturales y, en general, registros en
@@ -244,9 +244,9 @@ para la persona usuaria.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. Corresponde a la Secretaría, a través de la Dirección General de Bibliotecas, proponer,
 ejecutar y evaluar la política nacional de bibliotecas atendiendo al Plan Nacional de Desarrollo y demás
@@ -255,9 +255,9 @@ la conservación, clasificación, registro, consulta y visita pública de las bi
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. Los gobiernos Federal, de las entidades federativas, así como de los municipios y
 alcaldías, dentro de sus respectivas jurisdicciones, promoverán el establecimiento, organización y
@@ -272,9 +272,9 @@ que a través de éstas se otorguen.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. Se integra la Red Nacional de Bibliotecas Públicas con:
 I. Las bibliotecas constituidas y en operación dependientes de la Secretaría de Educación
@@ -290,18 +290,18 @@ cualquier entidad del Ejecutivo Federal con los gobiernos de los municipios o al
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. La operación y mantenimiento de la Red es de interés público y social. Los recursos
 destinados a la Red se consideran, para todos los efectos legales, inversión social.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. La Red tiene como objetivo general la coordinación de esfuerzos de todas las bibliotecas
 públicas para que las y los usuarios tengan acceso libre, amplio y sencillo al conocimiento conservado en
@@ -309,9 +309,9 @@ sus acervos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. La Red tiene como objetivos:
 I. Integrar los recursos de las bibliotecas públicas y coordinar sus funciones para fortalecer y
@@ -324,9 +324,9 @@ IV. Fomentar la lectura y la alfabetización digital.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. Corresponde a la Secretaría, a través de la Dirección General:
 I. Coordinar la Red;
@@ -368,9 +368,9 @@ permitan alcanzar sus propósitos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. La Secretaría, a través de la Dirección General, de acuerdo con la necesidad de cada
 caso y con base en la disponibilidad presupuestal, proporcionará a las nuevas bibliotecas públicas, en
@@ -381,9 +381,9 @@ institución.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. Corresponderá a los gobiernos de las entidades federativas, en los términos de las
 disposiciones aplicables y los acuerdos de coordinación que se celebren:
@@ -411,9 +411,9 @@ de los acervos impresos y digitales dañados.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Corresponderá a los gobiernos de los municipios y a las alcaldías de la Ciudad de
 México:
@@ -428,9 +428,9 @@ afines.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. Las entidades federativas y los municipios o alcaldías deberán nombrar, adscribir y
 remunerar de manera digna, al personal destinado a la operación de las bibliotecas públicas bajo su
@@ -442,9 +442,9 @@ capacitación en la materia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. Las editoriales del país podrán deducir impuestos a través de las donaciones que
 realicen en especie a la Dirección General en términos de lo dispuesto por los artículos 27, fracción I,
@@ -458,9 +458,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. Las bibliotecas de los sectores social y privado que presten servicios con características
 de biblioteca pública en los términos de la presente Ley y que manifiesten su disposición a incorporarse a
@@ -470,26 +470,26 @@ sean aportados materiales de los mencionados en el artículo 15 de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. La Secretaría, a través de la Dirección General, organizará la Biblioteca de México.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. La Biblioteca de México tiene el carácter de biblioteca central en la Red y de las
 bibliotecas del orden federal de gobierno.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. El Sistema Nacional de Bibliotecas es una instancia de colaboración, integrado por las
 bibliotecas escolares, públicas, especializadas y cualquier otra que, de manera voluntaria, se integre al
@@ -497,9 +497,9 @@ mecanismo, incluidas las bibliotecas de personas físicas o morales de los secto
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. Corresponde a la Secretaría de Cultura la responsabilidad de convocar y coordinar los
 trabajos del Sistema con pleno respeto a la autonomía, naturaleza jurídica y vocación de las bibliotecas,
@@ -508,9 +508,9 @@ reglas de operación del mismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. El Sistema tendrá como propósitos:
 I. Articular los esfuerzos nacionales de las bibliotecas del sector público y de los sectores social
@@ -529,9 +529,9 @@ comunicación que cuenten con los permisos correspondientes en materia de public
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. Para el cumplimiento de sus propósitos, el Sistema promoverá el desarrollo de las
 siguientes acciones:
@@ -558,9 +558,9 @@ VII. Las demás que sean análogas a las anteriores que le permitan alcanzar sus
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27. La Secretaría, a través de la Dirección General, propondrá reglas para fomentar y
 coordinar el préstamo interbibliotecario a nivel nacional, vinculando a las instituciones integrantes de la
@@ -568,9 +568,9 @@ Red y el Sistema entre sí.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28. El Sistema contará con un Consejo Consultivo, integrado por la representación de los
 sistemas bibliotecarios y bibliotecas cuyos acervos y colecciones constituyan un patrimonio bibliográfico
@@ -581,27 +581,27 @@ General.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29. El personal destinado a la operación de una biblioteca deberá capacitarse de manera
 continua.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30. Es obligación del gobierno estatal y de la Dirección General ofrecer una capacitación
 continua y pertinente al personal destinado a la operación de las bibliotecas públicas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31. El usuario de la biblioteca tiene derecho a:
 I. Recibir trato digno;
@@ -617,9 +617,9 @@ IV. Que la biblioteca pública conserve el patrimonio cultural oral de su comuni
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32. Para garantizar la pertinencia y la actualidad del acervo bibliográfico, el personal
 destinado a la operación de una biblioteca dentro de la Red, llevará a cabo el descarte de las
@@ -630,9 +630,9 @@ estado de conservación, en los términos que establezca el reglamento de la Ley
             </content>
           </paragraph>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33. Se declara de interés público la recopilación, integración, almacenamiento, custodia y
 conservación de toda obra editada o producida en el territorio nacional, de contenido educativo, cultural,
@@ -641,13 +641,13 @@ electrónico, analógico o digital. El conjunto de obras recopiladas constituye 
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Artículo reformado DOF 29-11-2023</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34. Las obras a que se refiere el artículo anterior podrán ser, de manera enunciativa y no
 limitativa, las siguientes:
@@ -691,18 +691,18 @@ VI. Fomento del trabajo colegiado entre las Instituciones receptoras del Depósi
             <p>Artículo adicionado DOF 29-11-2023</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35. No serán objeto de Depósito Legal las publicaciones y documentos a que se refiere la
 Ley General de Archivos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36. Son Instituciones Depositarias reconocidas por esta Ley:
 I. La Biblioteca de México;
@@ -711,9 +711,9 @@ III. La Biblioteca Nacional de México.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37. Todos los editores y productores de los materiales mencionados en los artículos 33 y 34
 de esta Ley, deberán entregar ejemplares de todas sus ediciones y producciones, de acuerdo con lo
@@ -726,18 +726,18 @@ ejemplar por institución con los materiales complementarios que permitan su con
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38. Cada uno de los repositorios del Depósito Legal, establecerá sus políticas de
 almacenamiento, custodia, conservación y consulta pública, con base en las disposiciones aplicables.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39. Las obras a que se refieren los artículos 33, 34 y 34 Bis, se entregarán dentro de los
 noventa días naturales siguientes a la fecha de su publicación, distribución comercial, difusión o puesta a
@@ -746,13 +746,13 @@ de un plazo mayor y cuyas prevenciones se establezcan en el reglamento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-39" placement="bottom">
+          <note placementBase="#art-39." placement="bottom">
             <p>Artículo reformado DOF 29-11-2023</p>
           </note>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40. Las instituciones receptoras del Depósito Legal deberán:
 I. Recibir los materiales objeto de Depósito Legal;
@@ -771,9 +771,9 @@ V. Publicar e informar anualmente la estadística de los materiales recibidos.</
             </content>
           </paragraph>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41. En el caso de materiales distintos de los bibliográficos entregados a la Biblioteca de
 México, la Dirección General podrá destinarlos a instituciones especializadas para su conservación y uso,
@@ -781,9 +781,9 @@ como es el caso de la Fonoteca Nacional y de la Cineteca Nacional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42. El Instituto Nacional del Derecho de Autor de la Secretaría de Cultura enviará
 mensualmente a las instituciones receptoras del Depósito Legal una relación en formatos automatizados
@@ -793,9 +793,9 @@ verificación del cumplimiento de la obligación consignada en la presente Ley.<
             </content>
           </paragraph>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43. Los editores y productores que no cumplan con la obligación consignada en el artículo 39
 de esta Ley, se harán acreedores a una multa equivalente a veinte veces el precio de venta al público de
@@ -805,26 +805,54 @@ tiraje sea inferior a 25 ejemplares.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Artículo reformado DOF 29-11-2023</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44. La Secretaría de Hacienda y Crédito Público hará efectivas las sanciones administrativas
 que correspondan conforme a las disposiciones legales aplicables, y el monto que se recaude por
 concepto de multas se integrará en un fondo para el fortalecimiento de los propósitos de Depósito Legal.
-Transitorios
-Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el
-21 de enero de 1988.
-Tercero. Se abroga el Decreto que dispone la obligación de los editores y productores de materiales
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley General de Bibliotecas publicada en el Diario Oficial de la Federación el
+21 de enero de 1988.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se abroga el Decreto que dispone la obligación de los editores y productores de materiales
 bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la
-Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991.
-Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
+Biblioteca del Congreso de la Unión, publicado en el Diario Oficial de la Federación el 23 de julio de 1991.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
 corresponderán a las dependencias y entidades competentes, y se realizarán con cargo a su presupuesto
 aprobado para el ejercicio fiscal que corresponda.
 Ciudad de México, a 30 de abril de 2021.- Sen. Oscar Eduardo Ramírez Aguilar, Presidente.- Dip.
@@ -847,10 +875,24 @@ Publicado en el Diario Oficial de la Federación el 29 de noviembre de 2023
 Artículo Único.- Se reforman los artículos 33, 39 y 43 y se adiciona un artículo 34 Bis de la Ley
 General de Bibliotecas, para quedar como sigue:
 ........
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Poder Ejecutivo tendrá hasta 120 días para la expedición del reglamento de la Ley.
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- El Poder Ejecutivo tendrá hasta 120 días para la expedición del reglamento de la Ley.
 Ciudad de México, a 17 de octubre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen. Ana
 Lilia Rivera Rivera, Presidenta.- Dip. Pedro Vázquez González, Secretario.- Sen. Claudia Esther
 Balderas Espinoza, Secretaria.- Rúbricas."

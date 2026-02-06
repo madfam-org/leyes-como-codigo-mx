@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1972-05-25/215/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1972-05-25/215/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -155,18 +155,8 @@ con el objeto de fomentar el consumo de café de calidad y mejorar la imagen del
             <p>Artículo 7o.- Se prohíbe:
 I.- Adulterar el café puro y venderlo como si se tratara de café puro;
 ; 22-07-1991
-II.- Elaborar o vender café tostado sin cumplir estrictamente con la o las normas a que se refiere el</p>
-          </content>
-        </paragraph>
-        <note placementBase="#art-7o" placement="bottom">
-          <p>Fracción reformada DOF 08-01-1974</p>
-        </note>
-      </article>
-      <article id="art-3o">
-        <num>Artículo 3o</num>
-        <paragraph id="art-3o-para-1">
-          <content>
-            <p>artículo 3o. de esta Ley;
+II.- Elaborar o vender café tostado sin cumplir estrictamente con la o las normas a que se refiere el
+artículo 3o. de esta Ley;
 ; 22-07-1991
 III.- Elaborar o vender productos cuya forma de presentación al público, haga suponer que se trata de
 café e induzca al error;
@@ -181,13 +171,16 @@ Secretaría de Servicios Parlamentarios
 </p>
           </content>
         </paragraph>
-        <note placementBase="#art-3o" placement="bottom">
+        <note placementBase="#art-7o" placement="bottom">
           <p>Fracción reformada DOF 08-01-1974</p>
         </note>
-        <note placementBase="#art-3o" placement="bottom">
+        <note placementBase="#art-7o" placement="bottom">
+          <p>Fracción reformada DOF 08-01-1974</p>
+        </note>
+        <note placementBase="#art-7o" placement="bottom">
           <p>Fracción derogada DOF 22-07-1991</p>
         </note>
-        <note placementBase="#art-3o" placement="bottom">
+        <note placementBase="#art-7o" placement="bottom">
           <p>Fracción derogada DOF 22-07-1991</p>
         </note>
       </article>
@@ -276,10 +269,30 @@ Publicado en el Diario Oficial de la Federación el 22 de julio de 1991
 ARTICULO UNICO.- Se reforman los artículos 3o., 5o., 7o., y 9o., de la "Ley sobre Elaboración y
 Venta de Café Tostado", debiendo quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- Estas reformas entrarán en vigor precisamente a los 60 días hábiles de su publicación en
-el Diario Oficial de la Federación.
-SEGUNDO.- La Secretaría de Comercio y Fomento Industrial procederá a determinar las
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+        <note placementBase="#art-9o" placement="bottom">
+          <p>Artículo reformado DOF 08-01-1974</p>
+        </note>
+        <note placementBase="#art-9o" placement="bottom">
+          <p>Artículo reformado DOF 08-01-1974</p>
+        </note>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>PRIMERO.- Estas reformas entrarán en vigor precisamente a los 60 días hábiles de su publicación en
+el Diario Oficial de la Federación.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>SEGUNDO.- La Secretaría de Comercio y Fomento Industrial procederá a determinar las
 Organizaciones y organismos o entidades de productores, industriales, comercializadores y
 consumidores de café que, en los términos de la Ley Federal sobre Metrología y Normalización,
 procederán a constituir un Comité Consultivo de Normalización que se aboque a elaborar el o los
@@ -322,12 +335,6 @@ Santiago Creel Miranda.- Rúbrica.
 6 de 6</p>
           </content>
         </paragraph>
-        <note placementBase="#art-9o" placement="bottom">
-          <p>Artículo reformado DOF 08-01-1974</p>
-        </note>
-        <note placementBase="#art-9o" placement="bottom">
-          <p>Artículo reformado DOF 08-01-1974</p>
-        </note>
       </article>
       <article id="trans-1">
         <num>PRIMERO</num>

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2011-06-20/lopgjdf/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2011-06-20/lopgjdf/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -114,9 +114,9 @@
         </chapter>
         <chapter id="chapter-23">
           <num>CAPITULO V DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. (Objeto de la Ley). Esta ley es de orden público, interés social, observancia general en el
 Distrito Federal y tiene por objeto organizar la Procuraduría General de Justicia del Distrito Federal para
@@ -129,9 +129,9 @@ profesionalismo, transparencia, eficacia, eficiencia y respeto a los derechos hu
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. (Atribuciones del Ministerio Público). La Institución del Ministerio Público en el Distrito
 Federal estará a cargo del Procurador General de Justicia y tendrá las siguientes atribuciones, que
@@ -234,9 +234,9 @@ señaladas, siempre y cuando sean licenciados en derecho.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. (Investigación de los delitos). Las atribuciones a que se refiere la fracción I del artículo 2o.
 de esta Ley, sobre la investigación de los delitos en la averiguación previa y la persecución de los
@@ -329,9 +329,9 @@ XXII. Las demás que establezcan las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. (Consignación). Las atribuciones relativas al ejercicio de la acción penal ante los órganos
 jurisdiccionales comprenden:
@@ -347,9 +347,9 @@ V. Las demás que establezcan las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. (Proceso). Las atribuciones a que se refiere la fracción I del artículo 2o. de esta Ley,
 relativas al proceso, comprenden:
@@ -384,9 +384,9 @@ IX. Las demás que establezcan las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. (Vigilancia en la procuración e impartición de justicia). La vigilancia de la legalidad y la
 promoción de la pronta, expedita y debida procuración e impartición de justicia, a que se refiere la
@@ -418,9 +418,9 @@ VII. Las demás que establezcan las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. (Protección de los Derechos Humanos). Con el fin de garantizar en su actuación el pleno
 respeto de los Derechos Humanos, la Procuraduría tendrá las atribuciones siguientes:
@@ -445,9 +445,9 @@ VII. Las demás que establezcan las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. (Asuntos no penales). Las atribuciones en asuntos del orden familiar, civil y mercantil,
 comprenden:
@@ -468,9 +468,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. (Niños, niñas, adolescentes, declarados incapaces y otros). La protección de los derechos
 e intereses de niños, niñas, adolescentes, declarados incapaces, ausentes, personas adultas mayores y
@@ -480,19 +480,12 @@ aplicables, o cuando se encuentren en situación de riesgo y/o vulnerabilidad de
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
-                <p>Artículo 10. (Política criminal y reforma jurídica). Las atribuciones a que se refiere la fracción XVIII del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-2o">
-            <num>Artículo 2o</num>
-            <paragraph id="art-2o-para-1">
-              <content>
-                <p>artículo 2o. de esta ley, relativas a la realización y aplicación de estudios, propuestas y estrategias o
+                <p>Artículo 10. (Política criminal y reforma jurídica). Las atribuciones a que se refiere la fracción XVIII del
+artículo 2o. de esta ley, relativas a la realización y aplicación de estudios, propuestas y estrategias o
 acciones de política criminal en el Distrito Federal, comprenden:
 I. Recabar, sistematizar y analizar la información generada en materia de incidencia delictiva,
 incluyendo consignaciones, autos de formal prisión, sentencias y en general la estadística criminal, así
@@ -519,9 +512,9 @@ de México.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. (Prevención del delito). Las atribuciones en materia de prevención del delito, que señala
 la fracción XVIII, inciso a), del artículo 2o. de esta ley, comprenden:
@@ -543,9 +536,9 @@ términos de esta Ley, su reglamento y demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. (De los ofendidos y víctimas del delito). Las atribuciones en materia de atención a los
 ofendidos y víctimas del delito a que se refiere el artículo 2o., fracciones VI y VII, consisten en:
@@ -570,9 +563,9 @@ Derechos Humanos en los que el Estado Mexicano sea parte.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. (Atribuciones en materia de Extinción de Dominio). Las atribuciones en materia de
 Extinción de Dominio, de que se ocupa la fracción XVI del artículo 2o. de esta ley, y que ejercerá el
@@ -617,9 +610,9 @@ XV. Presentar los medios de impugnación que señala la ley en la materia, cuand
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. (Atribuciones en materia de Justicia para Adolescentes). Las atribuciones en materia de
 Justicia para Adolescentes, de que se ocupa la fracción III del artículo 2o. de esta ley, comprenden:
@@ -664,9 +657,9 @@ XIII. Las demás previstas en las disposiciones legales y normatividad aplicable
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. (Servicios a la comunidad). Las atribuciones en materia de servicios a la comunidad,
 comprenden:
@@ -690,9 +683,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. (Visitas a centros de reclusión). El Ministerio Público representante de la Procuraduría, en
 su calidad de miembro del Órgano de Visita General, podrá realizar visitas a los Centros de Reclusión y
@@ -701,9 +694,9 @@ estén en posibilidad de formular querellas o denuncias de hechos probablemente 
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. (Apoyo de otras autoridades). Para el cumplimiento de sus atribuciones, la Procuraduría
 podrá requerir informes, documentos y opiniones de las Dependencias, Órganos Desconcentrados,
@@ -713,9 +706,9 @@ Administración Pública Federal, de los Estados y Municipios de la República. 
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. (Convenios y otros instrumentos de coordinación y cooperación). La Procuraduría, a
 efecto de establecer líneas de acción para la debida procuración de justicia, podrá celebrar convenios,
@@ -727,9 +720,9 @@ podrá concertar programas de cooperación con instituciones y entidades del ext
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. (Colaboración con otras autoridades). El Procurador o los servidores públicos en quienes
 delegue esta función, podrán autorizar al personal de la Procuraduría para auxiliar a otras autoridades
@@ -740,9 +733,9 @@ recursos y necesidades de la Procuraduría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. (Auxiliar en la Investigación de delitos federales). En los casos en que sea necesario
 intervenir en la investigación de delitos del orden federal, el Ministerio Público del Distrito Federal,
@@ -754,9 +747,9 @@ conocimiento los datos obtenidos con motivo de ésta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. (Autoridad jerárquica de la Procuraduría). El Procurador General de Justicia del Distrito
 Federal, titular de la institución del Ministerio Público, ejercerá autoridad jerárquica sobre todo el personal
@@ -844,9 +837,9 @@ Federal, que ejercerá las atribuciones conferidas por la normatividad aplicable
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. (Requisitos para ser Procurador). El Procurador será nombrado y removido en los
 términos que establezca la Constitución Política de los Estados Unidos Mexicanos y el Estatuto de
@@ -868,9 +861,9 @@ público, en los términos de las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. (Instrumentos de organización). El Procurador expedirá los acuerdos, circulares,
 instructivos, bases, lineamientos y manuales de organización y procedimientos conducentes al buen
@@ -878,9 +871,9 @@ desempeño de las funciones de la Procuraduría.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. (Atribuciones no delegables). El Procurador General de Justicia del Distrito Federal,
 ejercerá las atribuciones no delegables siguientes:
@@ -993,9 +986,9 @@ XXXVI. Las demás que con ese carácter le confieran las disposiciones legales a
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Articulo 25. Serán atribuciones delegables del Procurador:
 I. Encomendar a los Agentes del Ministerio Público, independientemente de sus funciones, el estudio
@@ -1024,9 +1017,9 @@ X. Las demás que le confieran las disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. (Requisitos para ser Subprocurador). El Procurador, previo acuerdo con el Jefe de
 Gobierno del Distrito Federal, nombrará y removerá a los Subprocuradores. Para ser Subprocurador se
@@ -1046,9 +1039,9 @@ público, en los términos de las normas legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. Los Subprocuradores tendrán las atribuciones siguientes:
 I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades
@@ -1106,9 +1099,9 @@ conforme a los lineamientos que al efecto se emitan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La Subprocuraduría de Averiguaciones Previas Centrales, tendrá bajo su dirección y
 supervisión a las fiscalías y agencias centrales de Investigación, con autonomía técnica y operativa que a
@@ -1131,9 +1124,9 @@ IX. Las demás que determine el Procurador.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Las Fiscalías Centrales de Investigación previstas en la presente Ley, serán las
 instancias de organización y funcionamiento del Ministerio Público para la investigación de los delitos y
@@ -1141,9 +1134,9 @@ persecución de los imputados, de acuerdo a su competencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La Subprocuraduría de Averiguaciones Previas Desconcentradas tendrá bajo su
 dirección y supervisión a las Fiscalías Desconcentradas de Investigación con autonomía técnica y
@@ -1184,9 +1177,9 @@ términos del presente ordenamiento y las demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. La Subprocuraduría de Procesos, tendrá bajo su dirección y supervisión a las Fiscalías, y
 las Direcciones que a continuación se mencionan:
@@ -1202,9 +1195,9 @@ IX. Dirección de Procesos en Salas Penales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. La Subprocuraduría Jurídica, de Planeación, Coordinación Interinstitucional y de
 Derechos Humanos, tendrá bajo su dirección y supervisión las Unidades Administrativas que a
@@ -1215,9 +1208,9 @@ III. Dirección General de Planeación y Coordinación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. La Subprocuraduría de Atención a Víctimas del Delito y Servicios a la Comunidad tendrá
 bajo su dirección y supervisión a las Unidades Administrativas que a continuación se mencionan:
@@ -1233,9 +1226,9 @@ IV. Centros Especializados de Atención a Víctimas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. La Oficialía Mayor tendrá a su cargo, el manejo y supervisión de los recursos materiales,
 humanos y financieros así como en las materias de tecnología y sistemas informáticos y de bienes
@@ -1249,9 +1242,9 @@ V. Dirección Ejecutiva de Administración de Bienes Asegurados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Por su parte, la Visitaduría Ministerial tendrá a su cargo la supervisión, inspección y
 vigilancia de las unidades administrativas y órganos desconcentrados de la Procuraduría, por lo que se
@@ -1259,9 +1252,9 @@ refiere al aspecto técnico jurídico, con base en las disposiciones jurídicas 
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. (Requisitos para ingresar y permanecer como Agente del Ministerio Público). Para
 ingresar y permanecer como Agente del Ministerio Público dentro del Servicio Profesional de Carrera, se
@@ -1295,9 +1288,9 @@ XI. Los demás requisitos que establezcan otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. (Requisitos para ingresar y permanecer como Oficial Secretario). Para ingresar y
 permanecer como Oficial Secretario del Ministerio Público, se requiere:
@@ -1320,9 +1313,9 @@ IX. Los demás requisitos que establezcan otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. El Oficial Secretario será responsable de dar fe de la legalidad de los actos que practique
 el Ministerio Público, suplirlo legalmente en sus ausencias; auxiliar al Representante Social en sus
@@ -1338,9 +1331,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. (Requisitos para ingresar y permanecer como Agente de la Policía de Investigación).
 Para ingresar y permanecer como Agente de la Policía de Investigación se requiere:
@@ -1372,9 +1365,9 @@ XII. Los demás requisitos que establezcan otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. (Policía de Investigación). La Policía de Investigación actuará bajo la conducción y
 mando del Ministerio Público.
@@ -1405,9 +1398,9 @@ párrafo anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. (Servicios periciales). Los servicios periciales actuarán bajo la autoridad y mando
 inmediato o directo del Ministerio Público, sin perjuicio de la autonomía técnica e independencia de
@@ -1415,9 +1408,9 @@ criterio que les corresponde en el estudio de los asuntos que se sometan a su co
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. (Requisitos para ingresar y permanecer como perito). Para ingresar y permanecer como
 perito adscrito a los servicios periciales o como médico legista de la Procuraduría, se requiere:
@@ -1449,9 +1442,9 @@ X. Los demás requisitos que establezcan otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. (Habilitación de peritos). Cuando la Procuraduría no cuente con peritos en la disciplina,
 ciencia o arte de que se trate o, en casos que así se requiera, el Agente del Ministerio Público podrá
@@ -1460,9 +1453,9 @@ Servicio Profesional de Carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. (Adscripción de unidades administrativas). El reglamento de esta ley establecerá el
 número de unidades administrativas y órganos desconcentrados de la Procuraduría, las atribuciones de
@@ -1476,9 +1469,9 @@ Salud.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. (Del ingreso). Para el ingreso a los cursos de formación inicial para Oficiales Secretario,
 Agentes del Ministerio Público, Agentes de la Policía de Investigación y Peritos, deberá consultarse
@@ -1488,9 +1481,9 @@ determinación que corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. (Dispensa del concurso de ingreso). El Procurador podrá, en casos excepcionales y
 tratándose de personas con amplia experiencia profesional, dispensar la presentación de los concursos
@@ -1503,9 +1496,9 @@ reglamentarias de esta ley y demás disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. (Adscripción de los servidores públicos). Los Agentes del Ministerio Público, Oficiales
 Secretarios, Agentes de la Policía de Investigación y Peritos, serán adscritos por el Procurador, o por
@@ -1516,9 +1509,9 @@ especiales se requieran, de acuerdo con su categoría y especialidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. (Trabajadores de confianza). Por la naturaleza de sus funciones, son trabajadores de
 confianza los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía de Investigación
@@ -1532,9 +1525,9 @@ los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artíc
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. (Personal administrativo). Para ingresar a la Procuraduría como personal administrativo,
 se deberá presentar y aprobar los exámenes de selección, las evaluaciones psicológicas y acreditar los
@@ -1546,9 +1539,9 @@ dichos nombramientos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. (Naturaleza del Instituto). El Instituto de Formación Profesional de la Procuraduría
 General de Justicia del Distrito Federal es un órgano desconcentrado de la Procuraduría, cuya
@@ -1559,9 +1552,9 @@ dependencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. (Atribuciones del Instituto). El Instituto de Formación Profesional de la Procuraduría
 General de Justicia del Distrito Federal tendrá las siguientes atribuciones:
@@ -1597,9 +1590,9 @@ disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. (Coordinador General del Instituto de Formación Profesional). El Instituto de Formación
 Profesional estará a cargo de un Coordinador General nombrado por el Procurador.
@@ -1619,9 +1612,9 @@ General del Sistema Nacional de Seguridad Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. (Consejo Consultivo del Instituto). El Instituto de Formación Profesional contará con un
 Consejo Consultivo, integrado con representantes de las Instituciones de Educación Superior y
@@ -1649,9 +1642,9 @@ El cargo de Consejero Consultivo será honorífico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. (Reglas que orientan el Servicio Profesional de Carrera). El Servicio Profesional de
 Carrera en la Procuraduría para los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la
@@ -1717,9 +1710,9 @@ Profesional de Carrera.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. Los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía de
 Investigación y Peritos, al ingresar a la Institución deberán ser evaluados periódicamente en los términos
@@ -1727,9 +1720,9 @@ de esta ley, y demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Los procedimientos para la selección, ingreso, formación, capacitación, actualización,
 especialización, ascenso, adscripción, rotación, reingreso, estímulos, reconocimientos y retiro del
@@ -1740,9 +1733,9 @@ a los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Poli
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. Las disposiciones sobre el Servicio Profesional de Carrera de la Procuraduría deberán:
 32 de 45
@@ -1771,18 +1764,18 @@ VIII. Las demás que establezca esta Ley, su reglamento y la normatividad aplica
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Para efectos de promoción del personal Ministerial, Policial y Pericial, el Reglamento
 determinará las categorías correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. La promoción a que se refiere el artículo anterior, se realizará a través de concurso de
 oposición en el que únicamente podrán participar los servidores públicos de la categoría inmediata
@@ -1794,18 +1787,18 @@ hacerlo los de nivel inmediato anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. Los Oficiales Secretarios podrán acceder a la categoría básica de Agente del Ministerio
 Público, a través del concurso de oposición interna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Las categorías de Peritos se determinarán por materia, y dentro de ellas se establecerán
 los rangos atendiendo a la especialización, años mínimos de práctica, grado académico en la disciplina
@@ -1817,9 +1810,9 @@ características que determinen las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El personal sustantivo de la Procuraduría General de Justicia del Distrito Federal, para
 permanecer y conservar su nombramiento, deberán someterse y aprobar los procesos de evaluación, de
@@ -1837,9 +1830,9 @@ profesionalismo, honradez, lealtad, imparcialidad y de respeto a los Derechos Hu
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. El Reglamento establecerá los procedimientos conforme a los cuales se llevará a cabo la
 aplicación de los exámenes aludidos en el artículo inmediato anterior.
@@ -1848,27 +1841,27 @@ presentarán y calificarán por separado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. Los servidores públicos serán citados a la práctica de los exámenes respectivos. En caso
 de no presentarse sin mediar causa justificada, se les tendrá por no presentados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Los resultados de los procesos de evaluación deberán ser públicos, con excepción de los
 datos personales y solamente para aquellos que aprueben el examen.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. El personal sustantivo de la Procuraduría que resulte no apto en los procesos de
 evaluación a que se refiere el presente capítulo, dejará de prestar sus servicios sin responsabilidad para
@@ -1881,9 +1874,9 @@ resolverá dentro de los quince días hábiles siguientes lo que en derecho corr
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. (Derechos) Los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la
 Policía de Investigación y los Peritos, tendrán los derechos siguientes:
@@ -1911,9 +1904,9 @@ artículo, salvo el previsto en la fracción IV.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. (Obligaciones). Los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la
 Policía de Investigación y Peritos, con el propósito de lograr una pronta, expedita y debida procuración de
@@ -1969,9 +1962,9 @@ XX. Las demás que se prevean en esta Ley, su Reglamento y las demás disposicio
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. (Impedimentos). Los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la
 Policía de Investigación y Peritos adscritos a los servicios periciales de la Procuraduría, no podrán:
@@ -1997,9 +1990,9 @@ VI. Las demás que se establezcan en el Reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. (Intervenciones autorizadas por la autoridad judicial). Sólo podrán dar cumplimiento a las
 intervenciones autorizadas por la autoridad judicial los Agentes de la Policía de Investigación que cuenten
@@ -2012,9 +2005,9 @@ RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. El Consejo de Honor y Justicia, en términos de la Ley de Seguridad Pública del Distrito
 Federal, conocerá de los procedimientos disciplinarios que se instruyan en contra de los Agentes de la
@@ -2034,9 +2027,9 @@ al expediente administrativo de responsabilidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. El régimen disciplinario de los Agentes del Ministerio Público, Oficiales Secretarios y
 Peritos, se substanciará conforme al procedimiento previsto en la ley de responsabilidades
@@ -2049,9 +2042,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Los Agentes del Ministerio Público tendrán las obligaciones siguientes:
 I. Solicitar los dictámenes periciales de acuerdo a la naturaleza de la investigación;
@@ -2085,9 +2078,9 @@ XIX. Las demás que se prevean en esta Ley, su reglamento y las disposiciones ap
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. Son obligaciones de los Oficiales Secretarios:
 I. Dar fe de la legalidad de los actos del Agente del Ministerio Público;
@@ -2120,9 +2113,9 @@ XVII. Las demás que se prevean en esta Ley, su reglamento y las disposiciones a
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. Los Peritos tienen las obligaciones siguientes:
 I. Emitir los informes o dictámenes correspondientes en los términos establecidos en la normativa;
@@ -2159,9 +2152,9 @@ XXI. Las demás que se prevean en esta Ley, su reglamento y las disposiciones ap
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. (Sanciones de la Contraloría). La Contraloría General del Distrito Federal, por conducto
 de la Contraloría Interna en la Procuraduría, impondrá sanciones administrativas a los servidores públicos
@@ -2170,9 +2163,9 @@ Públicos, mediante el procedimiento que dicha Ley y las demás normas legales a
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Los Agentes del Ministerio Público, Oficiales Secretarios, Peritos y Agentes de la Policía
 de Investigación, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes
@@ -2191,9 +2184,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. Los Agentes del Ministerio Público, Oficiales Secretarios, Peritos, Agentes de la Policía
 de Investigación y demás servidores públicos de la Institución que estén sujetos a proceso penal como
@@ -2208,9 +2201,9 @@ dejado de percibir.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. (Procedimiento en caso de denuncia contra el Procurador). Cuando se presente denuncia
 o querella por la comisión de un delito en contra del Procurador General de Justicia del Distrito Federal,
@@ -2225,26 +2218,19 @@ el Jefe de Gobierno del Distrito Federal quien solicitará la aprobación del Pr
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. (Observancia de las obligaciones). En el ejercicio de sus funciones, el personal de la
-Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos previstas en el</p>
+Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos previstas en el
+artículo 68 y actuará con la diligencia necesaria para la pronta, expedita y debida procuración de justicia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
-              <content>
-                <p>artículo 68 y actuará con la diligencia necesaria para la pronta, expedita y debida procuración de justicia.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. (Causas de impedimento). Los Agentes del Ministerio Público y los Oficiales Secretarios
 no son recusables pero deben excusarse del conocimiento de los asuntos en que intervengan, cuando
@@ -2253,9 +2239,9 @@ del orden común.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. (Expedición de copias). El Ministerio Público expedirá, previo pago de los derechos
 correspondientes, copias simples o copias certificadas de Averiguaciones Previas, constancias o
@@ -2280,9 +2266,9 @@ destinarán al Fondo de Mejoramiento a la Procuración de Justicia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. (Régimen laboral del personal). El personal que preste sus servicios en la Procuraduría
 General de Justicia del Distrito Federal se regirá por las disposiciones del apartado B del artículo 123 de
@@ -2292,9 +2278,9 @@ que la disposición constitucional aludida establece.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. La Procuraduría contará con un Centro de Evaluación y Control de Confianza para los
 fines que prevé esta Ley, su reglamento y demás disposiciones aplicables.
@@ -2350,17 +2336,52 @@ MINISTRO PONENTE: SERGIO A. VALLS HERNANDEZ.
 SECRETARIA: LAURA GARCIA VELASCO.
 México, Distrito Federal. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación,
 correspondiente al nueve de enero de dos mil doce.
-VISTOS; Y RESULTANDO:
-PRIMERO A OCTAVO.- ……….
-CONSIDERANDO
-PRIMERO A OCTAVO.- ……….
-Por lo expuesto y fundado, se resuelve:
-PRIMERO.- Es procedente y fundada la presente acción de inconstitucionalidad.
-SEGUNDO.- Se declara la invalidez de los artículos 36, fracción I; 37, fracción I; y, 39, fracción I, de la
+VISTOS; Y RESULTANDO:</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO A OCTAVO.- ……….
+CONSIDERANDO</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO A OCTAVO.- ……….
+Por lo expuesto y fundado, se resuelve:</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- Es procedente y fundada la presente acción de inconstitucionalidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se declara la invalidez de los artículos 36, fracción I; 37, fracción I; y, 39, fracción I, de la
 Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, en las respectivas porciones
 normativas que indican “por nacimiento”; la que surtirá efectos a partir de la fecha de notificación de los
-presentes puntos resolutivos al Congreso de la Unión.
-TERCERO.- Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario
+presentes puntos resolutivos al Congreso de la Unión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Publíquese esta resolución en el Diario Oficial de la Federación y en el Semanario
 Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente
 como asunto concluido.

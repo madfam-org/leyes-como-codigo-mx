@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1975-12-29/36_200521/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1975-12-29/36_200521/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -31,9 +31,9 @@
       </chapter>
       <chapter id="chapter-2">
         <num>CAPITULO II Procedimiento</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>ARTICULO 1.- Las disposiciones de esta Ley son de orden público, de carácter federal y tienen por
 objeto determinar los casos y las condiciones para entregar a los Estados que lo soliciten, cuando no
@@ -42,18 +42,18 @@ orden común.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>ARTICULO 2.- Los procedimientos establecidos en esta ley se deberán aplicar para el trámite y
 resolución de cualquier solicitud de extradición que se reciba de un gobierno extranjero.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>ARTICULO 3.- Las extradiciones que el Gobierno Mexicano solicite de estados extranjeros, se regirán
 por los tratados vigentes y a falta de éstos, por los artículos 5, 6, 15 y 16 de esta Ley.
@@ -63,13 +63,13 @@ Exteriores por conducto de la Fiscalía General de la República.
 . Reformado DOF 20-05-2021</p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Párrafo adicionado DOF 04-12-1984</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>ARTICULO 4.- Cuando en esta Ley se haga referencia a la ley penal mexicana, deberá entenderse el
 Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de
@@ -77,9 +77,9 @@ Fuero Federal, así como todas aquellas leyes federales que definan delitos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>ARTICULO 5.- Podrán ser entregados conforme a esta ley los individuos contra quienes en otro país,
 se haya incoado un proceso penal como presuntos responsables de un delito o que sean reclamados
@@ -87,9 +87,9 @@ para la ejecución de una sentencia dictada por las autoridades judiciales del E
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>ARTICULO 6.- Darán lugar a la extradición los delitos dolosos o culposos, definidos en la ley penal
 mexicana, si concurren los requisitos siguientes:
@@ -107,16 +107,16 @@ leyes, con pena de prisión.
 II.- Que no se encuentren comprendidos en alguna de las excepciones previstas por esta ley.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 10-01-1994</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción reformada DOF 10-01-1994</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>ARTICULO 7.- No se concederá la extradición cuando:
 I.- El reclamado haya sido objeto de absolución, indulto o amnistía o cuando hubiere cumplido la
@@ -128,9 +128,9 @@ IV.- El delito haya sido cometido dentro del ámbito de la jurisdicción de los 
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>ARTICULO 8.- En ningún caso se concederá la extradición de personas que puedan ser objeto de
 persecución política del Estado solicitante, o cuando el reclamado haya tenido la condición de esclavo en
@@ -138,17 +138,17 @@ el país en donde se cometió el delito.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>ARTICULO 9.- No se concederá la extradición si el delito por el cual se pide es del fuero militar.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- El Estado Mexicano exigirá para el trámite de la petición, que el Estado solicitante se
 comprometa:
@@ -179,7 +179,7 @@ VII.- Que proporcionará al Estado mexicano una copia auténtica de la resoluci�
 pronuncie en el proceso.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Fracción reformada DOF 10-01-1994</p>
           </note>
         </article>
@@ -200,9 +200,9 @@ manifiestas, patentes o masivas de derechos humanos.
             <p>Artículo adicionado DOF 26-06-2017</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- Cuando el individuo reclamado tuviere causa pendiente o hubiere sido condenado en
 la República por delito distinto del que motive la petición formal de extradición, su entrega al Estado
@@ -210,9 +210,9 @@ solicitante, si procediere, se diferirá hasta que haya sido decretada su libert
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- Si la extradición de una misma persona fuere pedida por dos o más Estados y
 respecto de todos o varios de ellos fuere procedente, se entregará el acusado:
@@ -225,36 +225,36 @@ fines de extradición.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- El Estado que obtenga la preferencia de la extradición con arreglo al artículo anterior,
 podrá declinarla en favor de un tercero que no la hubiere logrado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- Ningún mexicano podrá ser entregado a un Estado extranjero sino en casos
 excepcionales a juicio del Ejecutivo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- La calidad de mexicano no será obstáculo a la entrega del reclamado cuando haya
 sido adquirida con posterioridad a los hechos que motiven la petición de extradición.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTICULO 16.- La petición formal de extradición y los documentos en que se apoye el Estado
 solicitante, deberán contener:
@@ -282,13 +282,13 @@ idioma extranjero, deberán ser acompañados con su traducción al español y le
 disposiciones del Código Federal de Procedimientos Penales.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 10-01-1994</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTICULO 17.- Cuando un Estado manifieste la intención de presentar petición formal para la
 extradición de una determinada persona, y solicite la adopción de medidas precautorias respecto de ella,
@@ -302,13 +302,13 @@ de la República, en arraigo o las que procedan de acuerdo con los tratados o la
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>ARTICULO 18.- Si dentro del plazo de dos meses que previene el artículo 119 de la Constitución
 Política de los Estados Unidos Mexicanos, contados a partir de la fecha en que se hayan cumplimentado
@@ -320,22 +320,22 @@ solicitante.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Artículo reformado DOF 04-12-1984</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>ARTICULO 19.- Recibida la petición formal de extradición, la Secretaría de Relaciones Exteriores la
 examinará y si la encontrare improcedente no la admitirá, lo cual comunicará al solicitante.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>ARTICULO 20.- Cuando no se hubieren reunido los requisitos establecidos en el tratado o, en su
 caso, en el artículo 16, la Secretaría de Relaciones Exteriores lo hará del conocimiento del Estado
@@ -345,9 +345,9 @@ reclamado a medidas precautorias, deberá cumplimentarse dentro del término a q
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>ARTICULO 21.- Resuelta la admisión de la petición la Secretaría de Relaciones Exteriores enviará la
 requisitoria al Fiscal General de la República acompañando el expediente, a fin de que promueva ante el
@@ -363,13 +363,13 @@ el Estado solicitante.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Artículo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>ARTICULO 22.- Conocerá el Juez de Distrito de la jurisdicción donde se encuentre el reclamado.
 Cuando se desconozca el paradero de éste, será competente el Juez de Distrito en Materia Penal en
@@ -377,18 +377,18 @@ turno del Distrito Federal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>ARTICULO 23.- El Juez de Distrito es irrecusable y lo actuado por él no admite recurso alguno.
 Tampoco serán admisibles cuestiones de competencia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>ARTICULO 24.- Una vez detenido el reclamado, sin demora se le hará comparecer ante el respectivo
 Juez de Distrito y éste le dará a conocer el contenido de la petición de extradición y los documentos que
@@ -400,9 +400,9 @@ defensor cuando éste no se encuentre presente en el momento del discernimiento 
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>ARTICULO 25.- Al detenido se le oirá en defensa por sí o por su defensor y dispondrá hasta de tres
 días para oponer excepciones que únicamente podrán ser las siguientes:
@@ -415,9 +415,9 @@ Público podrá rendir las pruebas que estime pertinentes.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>ARTICULO 26.- El Juez atendiendo a los datos de la petición formal de extradición, a las
 circunstancias personales y a la gravedad del delito de que se trata, podrá conceder al reclamado, si éste
@@ -426,9 +426,9 @@ hubiere cometido en territorio mexicano.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>ARTICULO 27.- Concluido el término a que se refiere el artículo 25 o antes si estuvieren desahogadas
 las actuaciones necesarias, el Juez dentro de los cinco días siguientes, dará a conocer a la Secretaría de
@@ -438,9 +438,9 @@ alegado por el reclamado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>ARTICULO 28.- Si dentro del término fijado en el artículo 25 el reclamado no opone excepciones o
 consiente expresamente en su extradición, el Juez procederá sin más trámite dentro de tres días, a emitir
@@ -448,9 +448,9 @@ su opinión.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>ARTICULO 29.- El Juez remitirá, con el expediente, su opinión a la Secretaría de Relaciones
 Exteriores, para que el Titular de la misma dicte la resolución a que se refiere el artículo siguiente. El
@@ -463,27 +463,20 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>ARTICULO 30.- La Secretaría de Relaciones Exteriores en vista del expediente y de la opinión del
 Juez, dentro de los veinte días siguientes, resolverá si se concede o rehusa la extradición.
-En el mismo acuerdo, se resolverá, si fuere el caso, sobre la entrega de los objetos a que se refiere el</p>
+En el mismo acuerdo, se resolverá, si fuere el caso, sobre la entrega de los objetos a que se refiere el
+artículo 21.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
-            <content>
-              <p>artículo 21.</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>ARTICULO 31.- Si la decisión fuere en el sentido de rehusar la extradición, se ordenará que el
 reclamado sea puesto inmediatamente en libertad a menos que sea el caso de proceder conforme al
@@ -491,9 +484,9 @@ artículo siguiente.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>ARTICULO 32.- Si el reclamado fuere mexicano y por ese solo motivo se rehusare la extradición, la
 Secretaría de Relaciones Exteriores notificará el acuerdo respectivo al detenido, y al Fiscal General de la
@@ -502,13 +495,13 @@ consigne el caso al tribunal competente si hubiere lugar a ello.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Artículo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>ARTICULO 33.- En todos los casos si la resolución fuere en el sentido de conceder la extradición,
 ésta se notificará al reclamado.
@@ -521,16 +514,16 @@ que se le entregue el sujeto.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Párrafo reformado DOF 10-01-1994</p>
           </note>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Párrafo reformado DOF 10-01-1994</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>ARTICULO 34.- La entrega del reclamado, previo aviso a la Secretaría de Gobernación se efectuará
 por la Fiscalía General de la República al personal autorizado del Estado que obtuvo la extradición, en el
@@ -540,13 +533,13 @@ La intervención de las autoridades mexicanas cesará, en éste último caso, en
 aeronave esté lista para emprender el vuelo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 20-05-2021</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>ARTICULO 35.- Cuando el Estado solicitante deje pasar el término de sesenta días naturales desde el
 día siguiente en que el reclamado quede a su disposición sin hacerse cargo de él, éste recobrará su
@@ -555,13 +548,13 @@ solicitud de extradición.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-35" placement="bottom">
+          <note placementBase="#art-35." placement="bottom">
             <p>Artículo reformado DOF 10-01-1994</p>
           </note>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>ARTICULO 36.- El Ejecutivo de la Unión podrá acceder en los términos del artículo 10, cuando lo
 solicite un Estado extranjero para concederle una extradición que no sea obligatoria en virtud de un
@@ -569,9 +562,9 @@ tratado.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>ARTICULO 37.- Los gastos que ocasione toda extradición podrán ser gastados por el erario federal
 con cargo al Estado solicitante que la haya promovido.
@@ -638,17 +631,45 @@ párrafo primero y fracción I, 10 fracción V, 16 fracción II, 33 párrafos se
 como sigue:
 Fe de erratas al artículo DOF 01-02-1994
 ..........
-TRANSITORIOS
-PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y
-cuatro.
-SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y
+cuatro.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la salud, iniciados con
 anterioridad a la vigencia del presente decreto, continuarán en los términos de las nuevas disposiciones
-contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.
-TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas,
+contenidas en ese decreto, aun cuando éstas hayan cambiado de numeración.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas,
 con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del
 Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda,
-lo previsto en el artículo 56 del citado Código.
-CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+lo previsto en el artículo 56 del citado Código.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 México, D. F., a 21 de diciembre de 1993.- Dip. Cuauhtémoc López Sánchez, Presidente.- Sen.
 Eduardo Robledo Rincón, Presidente.- Dip. Sergio González Santa Cruz, Secretario.- Sen. Antonio
 Melgar Aranda, Secretario.- Rúbricas".
@@ -689,10 +710,24 @@ Publicado en el Diario Oficial de la Federación el 18 de mayo de 1999
 ARTICULO CUARTO.- Se reforma la fracción II del artículo 16 de la Ley de Extradición Internacional,
 para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Penal
 para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero
 Federal, se entenderán referidas al Código Penal Federal.
 México, D.F., a 29 de abril de 1999.- Sen. Héctor Ximénez González, Presidente.- Dip. María
@@ -717,10 +752,24 @@ Publicado en el Diario Oficial de la Federación el 26 de junio de 2017
 ARTÍCULO QUINTO.- Se adiciona un artículo 10 Bis a la Ley de Extradición Internacional, para
 quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario
 Oficial de la Federación el 27 de diciembre de 1991.
 Los procedimientos iniciados por hechos que ocurran a partir de la entrada en vigor de la presente
 Ley, se seguirán conforme a lo establecido en el Código Nacional de Procedimientos Penales y en la
@@ -732,15 +781,36 @@ legislación vigente en el momento en que la misma haya quedado firme.
 Aquellas personas, sentenciadas o procesadas, cuyas pruebas presentadas en su contra, carezcan
 de valor probatorio, por haber sido obtenidas directamente a través de tortura y de cualquier otra
 violación a derechos humanos o fundamentales, así como las pruebas obtenidas por medios legales pero
-derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.
-Tercero. En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del
+derivadas de dichos actos, podrán interponer los recursos e incidentes correspondientes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. En un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del
 presente Decreto, la legislatura de cada entidad federativa deberá armonizar su marco jurídico de
-conformidad con el mismo.
-Cuarto. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
+conformidad con el mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
 adoptar y publicar los protocolos y criterios a que se refiere la Ley General para Prevenir, Investigar y
 Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, dentro de un plazo de
-ciento ochenta días posteriores a la publicación del presente Decreto.
-Quinto. La Procuraduría General de la República contará con un plazo de ciento ochenta días
+ciento ochenta días posteriores a la publicación del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. La Procuraduría General de la República contará con un plazo de ciento ochenta días
 siguientes a la fecha en que el presente Decreto entre en vigor, para expedir el Programa Nacional para
 Prevenir y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes y contar con
 la infraestructura tecnológica necesaria para operar el Registro Nacional del Delito de Tortura.
@@ -751,22 +821,50 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 Dentro de los noventa días posteriores al cumplimiento del plazo señalado en el párrafo anterior, las
 procuradurías y fiscalías de las entidades federativas deberán poner en marcha sus registros
-correspondientes.
-Sexto. La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a
+correspondientes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. La Federación y las entidades federativas contarán con un plazo de noventa días posteriores a
 la fecha en que el presente Decreto entre en vigor, para crear y operar sus Fiscalías Especiales para la
 investigación del delito de tortura, salvo en los casos que por falta de recursos suficientes deban ser
-ejercidas por la unidad administrativa especializada correspondiente.
-Séptimo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
+ejercidas por la unidad administrativa especializada correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones, deberán
 iniciar los programas de capacitación continua de sus servidores públicos conforme a lo dispuesto en la
 Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos
 o Degradantes, dentro de un plazo de ciento ochenta días posteriores a la publicación del presente
-Decreto.
-Octavo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus atribuciones y en un
 periodo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberán realizar las
 gestiones necesarias y llevar a cabo los actos jurídicos y administrativos que resulten necesarios para
 proporcionar a las Instituciones de Procuración de Justicia la estructura orgánica y ocupacional necesaria
-para el cumplimiento de la Ley.
-Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la
+para el cumplimiento de la Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la
 Comisión Nacional de los Derechos Humanos deberá instalar formalmente el Mecanismo Nacional de
 Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, y expedir las bases
 para su operación y funcionamiento en la sesión ordinaria inmediata a la instalación.
@@ -784,8 +882,15 @@ anterior para que exista sustitución escalonada en la integración del Comité 
 de que concluya el periodo de dos años de los integrantes elegidos para dicho periodo, quienes los
 sustituyan serán elegidos en los términos de la ley por cuatro años.
 El Titular Presidente del Comité Técnico del Mecanismo Nacional de Prevención, durará en su
-encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.
-Décimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
+encargo, mientras dure su encargo como Presidente de la Comisión Nacional de los Derechos Humanos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
 para las dependencias y las entidades de la Administración Pública Federal, se cubrirán con cargo a sus
 presupuestos del presente ejercicio fiscal y los subsecuentes. Así mismo, las entidades federativas
 deberán realizar las previsiones y adecuaciones presupuesta les necesarias para dar cumplimiento a las
@@ -794,14 +899,35 @@ obligaciones establecidas en este Decreto.
 LEY DE EXTRADICIÓN INTERNACIONAL
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Primero. Las erogaciones que se generen con motivo de la operación del Mecanismo
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Las erogaciones que se generen con motivo de la operación del Mecanismo
 Nacional de Prevención de la Tortura para la Comisión Nacional de los Derechos Humanos, se cubrirán
-con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
-Décimo Segundo. Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en
+con cargo a su presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. Las legislaturas de los estados y el órgano legislativo de la Ciudad de México, en
 los términos de la legislación aplicable, deberán destinar los recursos para el cumplimiento de las
-obligaciones que les competen en términos del presente Decreto.
-Décimo Tercero. En las entidades federativas en las que no exista una Comisión de Atención a
+obligaciones que les competen en términos del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. En las entidades federativas en las que no exista una Comisión de Atención a
 Víctimas, las instituciones públicas de la entidad federativa deberán brindar la atención a las Víctimas
 conforme a lo establecido en el Título Sexto de la Ley General para Prevenir, Investigar y Sancionar la
 Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
@@ -809,17 +935,38 @@ Asimismo, de conformidad con el artículo 79 de la Ley General de Víctimas, ser
 Comisión Ejecutiva de Atención a Víctimas para dar cumplimiento a lo establecido en el párrafo anterior.
 En el supuesto establecido en el párrafo primero de este artículo, la solicitud a que se refiere la fracción I
 del artículo 91 de la Ley deberá ser suscrita por el Secretario de Gobierno de la entidad federativa,
-correspondiente.
-Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del
+correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Una vez que, en términos de lo dispuesto en el Artículo Quinto Transitorio del
 presente Decreto, la Procuraduría General de la República comience a operar el Registro Nacional del
 Delito de Tortura, la Comisión Ejecutiva y las Instituciones de Procuración de Justicia, podrán suscribir
 convenios de colaboración para la transmisión de información de las Víctimas del delito de tortura a dicho
-Registro.
-Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en
+Registro.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. En un período no mayor a ciento ochenta días contados a partir de la entrada en
 vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas deberá llevar a cabo los actos
 necesarios para realizar las modificaciones orgánicas que sean indispensables para el cumplimiento de lo
-establecido en el mismo.
-Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para
+establecido en el mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. A fin de dar cumplimiento a las atribuciones que se establecen en la Ley General para
 Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la
 Comisión Ejecutiva de Atención a Víctimas realizará las adecuaciones a su Estatuto Orgánico y demás
 normatividad interna que sea necesaria, así como al fideicomiso que administra los recursos del Fondo
@@ -846,23 +993,51 @@ Artículo Cuadragésimo Segundo.- Se reforman el párrafo segundo del artículo 
 del artículo 17; el artículo 21; el artículo 32; y el párrafo primero del artículo 34 de la Ley de Extradición
 Internacional, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -872,8 +1047,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -904,13 +1086,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -922,8 +1118,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 16 de 18
 LEY DE EXTRADICIÓN INTERNACIONAL
@@ -931,25 +1134,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 20-05-2021
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -960,14 +1191,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -980,12 +1225,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."

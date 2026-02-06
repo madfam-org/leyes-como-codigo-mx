@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1990-12-26/30/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1990-12-26/30/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -225,9 +225,9 @@ de la presente Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- Las contribuciones a que se refiere esta Ley, se causarán respecto a cada
 contribuyente, una vez que se haya puesto en servicio total o parcialmente la obra hidráulica
@@ -239,9 +239,9 @@ infraestructura construida o se conecte con el sistema hidráulico respectivo.</
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- La contribución a que se refiere esta Ley, se pagará semestral o anualmente, en los
 términos de sus artículos 6o. y 7o. y se podrá otorgar un plazo para su pago total de hasta 25 años o
@@ -262,9 +262,9 @@ términos del Código Fiscal de la Federación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- No son objeto de la presente Ley:
 I.- Las obras públicas para prestar el servicio público de agua potable, drenaje y alcantarillado
@@ -276,9 +276,9 @@ III.- Las obras públicas federales para el tratamiento de aguas residuales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- Los ingresos que se perciban por la aplicación de esta Ley, se destinarán a la
 Comisión Nacional del Agua para la construcción, reparación, ampliación, terminación o modernización
@@ -286,9 +286,9 @@ de las obras públicas federales de infraestructura hidráulica.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- Los ingresos que se recauden con motivo de la aplicación de esta Ley, tendrán el
 carácter de aprovechamiento fiscal, cuando las entidades federativas y los municipios sean los que
@@ -305,9 +305,9 @@ previamente con lo dispuesto en el artículo 9o. de la Ley de Coordinación Fisc
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- Los beneficiarios de obras públicas federales de infraestructura hidráulica, podrán
 participar en la planeación, proyección y supervisión de las mismas, en los términos de la normatividad
@@ -334,11 +334,25 @@ Ley.
 ARTICULO QUINTO.- Las obras públicas que se pongan en servicio con posterioridad a la entrada en
 vigor de esta Ley, se regirán por lo dispuesto en la misma, salvo lo previsto en los artículos anteriores."
 ARTICULOS VIGESIMO SEPTIMO A TRIGESIMO TERCERO.- ..........
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo
 dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de
-esta Ley en el Diario Oficial de la Federación.
-SEGUNDO.- Durante el año de 1991, las personas físicas que opten por tributar conforme al régimen
+esta Ley en el Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Durante el año de 1991, las personas físicas que opten por tributar conforme al régimen
 simplificado y cuyos ingresos en el ejercicio inmediato anterior no hubieran excedido de trescientos
 millones de pesos; las que durante 1989 reunían los requisitos para pagar el impuesto de referencia
 conforme al régimen de contribuyentes menores o de bases especiales de tributación y no se
@@ -354,30 +368,72 @@ obligaciones fiscales en que hubieran incurrido durante el periodo mencionado en
 III.- No se les impondrán sanciones ni gastos de ejecución durante el periodo de enero a septiembre
 de 1991.
 Los contribuyentes a que se refiere este artículo, podrán presentar el aviso de opción al régimen
-simplificado hasta el 30 de abril de 1991.
-TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería,
+simplificado hasta el 30 de abril de 1991.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Por el año de 1991, las personas físicas que se dediquen a la agricultura, ganadería,
 pesca o silvicultura, así como las personas morales a que se refiere el último párrafo del artículo 67-H de
 la Ley del Impuesto sobre la Renta, podrán efectuar un pago único en el impuesto sobre la renta, al activo
 y al valor segregado, por los ingresos, bienes y actividades que correspondan a los referidos giros,
-mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos.
-CUARTO.- Durante 1991, las personas físicas que opten por tributar en el impuesto sobre la renta
+mismo que se presentará conjuntamente con la declaración del ejercicio de los impuestos antes referidos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Durante 1991, las personas físicas que opten por tributar en el impuesto sobre la renta
 conforme al régimen simplificado, que en el ejercicio inmediato anterior obtuvieron ingresos que no
 excedieron de trescientos millones de pesos y que puedan considerar como salida la prevista en la
 fracción XII del artículo 119-E de la Ley del impuesto mencionado, no estarán obligados a cumplir con
-requisito alguno para considerar dicha salida.
-QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la
+requisito alguno para considerar dicha salida.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la
 Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.
 6 de 7
 LEY DE CONTRIBUCIÓN DE MEJORAS POR OBRAS PÚBLICAS FEDERALES DE INFRAESTRUCTURA HIDRÁULICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nueva Ley DOF 26-12-1990
 Secretaría General
-Secretaría de Servicios Parlamentarios
-SEXTO.- Se ratifican los acuerdos en materia fiscal otorgados durante 1990 a los contribuyentes que
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- Se ratifican los acuerdos en materia fiscal otorgados durante 1990 a los contribuyentes que
 sean locatarios de mercados, vendedores en puestos fijos y semifijos en la vía pública o como
-ambulantes.
-SEPTIMO.- Se abroga el Decreto por el que se Establecen las Cuotas de los Productos por la
-Extracción de Oro o Plata, publicado en el Diario Oficial de la Federación el 25 de enero de 1980.
-OCTAVO.- Se abroga el Decreto que Establece Estímulos Fiscales y Facilidades Administrativas para
+ambulantes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SEPTIMO.- Se abroga el Decreto por el que se Establecen las Cuotas de los Productos por la
+Extracción de Oro o Plata, publicado en el Diario Oficial de la Federación el 25 de enero de 1980.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO.- Se abroga el Decreto que Establece Estímulos Fiscales y Facilidades Administrativas para
 la Operación o Modernización de Centros Comerciales en la Franja Fronteriza Norte y en las Zonas
 Libres del País, publicado en el Diario Oficial de la Federación el 4 de noviembre de 1983.
 México, D.F. a 17 de diciembre de 1990.- Dip. Fernando Córdoba Lobo, Presidente.- Sen. Ricardo

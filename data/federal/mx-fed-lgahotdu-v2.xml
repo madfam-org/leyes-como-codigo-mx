@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2016-11-28/lgahotdu/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2016-11-28/lgahotdu/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -159,9 +159,9 @@
         </chapter>
         <chapter id="chapter-32">
           <num>Capítulo Segundo Del Régimen Sancionatorio y de Nulidades</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público e interés social y de observancia general en todo el
 territorio nacional.
@@ -193,9 +193,9 @@ formulación, seguimiento y evaluación de la política pública en la materia.<
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Todas las personas sin distinción de sexo, raza, etnia, edad, limitación física, orientación
 sexual, tienen derecho a vivir y disfrutar ciudades y Asentamientos Humanos en condiciones
@@ -209,9 +209,9 @@ corresponsabilidad cívica y social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Para los efectos de esta Ley, se entenderá por:
 I. Acción Urbanística: actos o actividades tendientes al uso o aprovechamiento del suelo dentro de
@@ -243,15 +243,8 @@ proteger y mantener el equilibrio ecológico en las zonas de servicios ambiental
 IX. Conurbación: la continuidad física y demográfica que formen dos o más Centros de Población;
 X. Crecimiento: acción tendente a ordenar y regular las zonas para la expansión física de los Centros
 de Población;
-XI. Demarcaciones Territoriales: divisiones territoriales de la Ciudad de México a las que se refiere el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
-              <content>
-                <p>artículo 122 de la Constitución Política de los Estados Unidos Mexicanos;
+XI. Demarcaciones Territoriales: divisiones territoriales de la Ciudad de México a las que se refiere el
+artículo 122 de la Constitución Política de los Estados Unidos Mexicanos;
 XII. Densificación: Acción Urbanística cuya finalidad es incrementar el número de habitantes y la
 población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y, en su
 caso, adecuando los espacios públicos y sus infraestructuras;
@@ -361,22 +354,22 @@ metropolitana correspondiente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-122" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción adicionada DOF 06-01-2020</p>
             </note>
-            <note placementBase="#art-122" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción adicionada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-122" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción adicionada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-122" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción adicionada DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. La planeación, regulación y gestión de los asentamientos humanos, Centros de Población
 y la ordenación territorial, deben conducirse en apego a los siguientes principios de política pública:
@@ -435,9 +428,9 @@ completas, el transporte público, peatonal y no motorizado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Toda política pública de ordenamiento territorial, desarrollo y planeación urbana y
 coordinación metropolitana deberá observar los principios señalados en el artículo anterior, sin importar el
@@ -450,9 +443,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. En términos de lo dispuesto en el artículo 27, párrafo tercero de la Constitución Política de
 los Estados Unidos Mexicanos, son de interés público y de beneficio social los actos públicos tendentes a
@@ -480,9 +473,9 @@ podrán hacerse por causa de utilidad pública y mediante indemnización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Las atribuciones en materia de planeación, así como de ordenamiento territorial,
 asentamientos humanos, desarrollo urbano y desarrollo metropolitano, serán ejercidos de manera
@@ -498,13 +491,13 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-7" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Artículo reformado DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Corresponden a la federación, a través de la Secretaría las atribuciones siguientes:
 
@@ -620,28 +613,28 @@ de sus avances, y
 XXXII. Las demás que les señale esta Ley y otras disposiciones jurídicas.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo reformado DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 14-05-2019</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. La Secretaría, expedirá normas oficiales mexicanas que tengan por objeto establecer
 lineamientos, criterios, especificaciones técnicas y procedimientos para garantizar las medidas
@@ -667,9 +660,9 @@ Mismas que deberán ser observadas por los tres órdenes de gobierno.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Corresponde a las entidades federativas:
 I. Legislar en materia de asentamientos humanos, Desarrollo Urbano y ordenamiento territorial, así
@@ -773,22 +766,22 @@ y ajuste de sus planes y programas municipales en materia de Desarrollo Urbano, 
 XXVII. Las demás que les señalen esta Ley y otras disposiciones jurídicas federales y locales.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Corresponde a los municipios:
 I. Formular, aprobar, administrar y ejecutar los planes o programas municipales de Desarrollo Urbano,
@@ -881,19 +874,19 @@ población de cien mil habitantes hacia arriba.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Fracción adicionada DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. La Secretaría con la participación, en su caso, de otras dependencias y entidades de la
 Administración Pública Federal, promoverá la celebración de convenios y acuerdos de coordinación entre
@@ -902,9 +895,9 @@ Territoriales respectivas, así como de convenios de concertación con los secto
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Los gobiernos municipales y los de las entidades federativas podrán suscribir convenios
 de coordinación, con el propósito de que estos últimos asuman el ejercicio de funciones que en materia
@@ -913,9 +906,9 @@ municipios asuman las funciones o servicios que les corresponden a las entidades
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. El Consejo Nacional es la instancia de carácter consultivo, de conformación plural y de
 participación ciudadana, convocada por el titular de la Secretaría, para la consulta, asesoría, seguimiento
@@ -923,9 +916,9 @@ y evaluación de las políticas nacionales en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. El titular de la Secretaría determinará la forma de organización e integración del Consejo
 Nacional, atendiendo principios de pluralidad y equidad de género, así como considerando el régimen
@@ -941,9 +934,9 @@ Consejo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. El Consejo Nacional tendrá las siguientes facultades:
 I. Conocer, analizar y formular propuestas sobre el proyecto de estrategia nacional de ordenamiento
@@ -994,16 +987,16 @@ planeación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Fracción adicionada DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. El Consejo Nacional sesionará de manera ordinaria una vez al año y de manera
 extraordinaria cuando resulte necesario a convocatoria hecha por la secretaría técnica.
@@ -1012,9 +1005,9 @@ percibirán retribución o contraprestación alguna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Los acuerdos del Consejo Nacional se publicarán en el Diario Oficial de la Federación y
 se ejecutarán de conformidad con las atribuciones que la ley establece a las distintas instancias que lo
@@ -1022,9 +1015,9 @@ integran.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Para asegurar la consulta, opinión y deliberación de las políticas de ordenamiento
 territorial y planeación del Desarrollo Urbano y Desarrollo Metropolitano, conforme al sistema de
@@ -1041,9 +1034,9 @@ Demarcaciones Territoriales la creación y apoyo en la operación de tales conse
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. Para garantizar que los consejos estatales sean representativos conforme a un sistema
 de planeación democrática, en sus respectivos reglamentos internos se definirá el número de miembros,
@@ -1063,9 +1056,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Los consejos a que se refieren los artículos anteriores o los ayuntamientos que
 desempeñen dicha labor tendrán, en la esfera de sus ámbitos territoriales, las funciones siguientes:
@@ -1105,9 +1098,9 @@ disponibles en medios de comunicación electrónica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. La planeación, regulación y evaluación del Ordenamiento Territorial de los Asentamientos
 Humanos y del Desarrollo Urbano de los Centros de Población forman parte del Sistema Nacional de
@@ -1121,9 +1114,9 @@ determina la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. La planeación y regulación del Ordenamiento Territorial de los Asentamientos Humanos y
 del Desarrollo Urbano de los Centros de Población, se llevarán a cabo sujetándose al Programa Nacional
@@ -1151,9 +1144,9 @@ cumplimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. La estrategia nacional de ordenamiento territorial configura la dimensión espacial del
 desarrollo del país en el mediano y largo plazo; establecerá el marco básico de referencia y congruencia
@@ -1173,9 +1166,9 @@ IV. Plantear los mecanismos para su implementación, articulación intersectoria
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. La estrategia nacional de ordenamiento territorial tendrá una visión con un horizonte a
 veinte años del desarrollo nacional, podrá ser revisada y en su caso actualizada cada seis años o cuando
@@ -1193,9 +1186,9 @@ en dicha estrategia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. El programa nacional de ordenamiento territorial y desarrollo urbano, se sujetará a las
 previsiones del plan nacional de desarrollo y a la estrategia nacional de ordenamiento territorial y
@@ -1240,13 +1233,13 @@ XIV. Esquemas y mecanismos que fomenten la equidad, inclusión y accesibilidad u
 Desarrollo Urbano, el ordenamiento territorial y los Asentamientos Humanos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. El programa nacional de ordenamiento territorial y desarrollo urbano será aprobado cada
 seis años por el titular del Ejecutivo Federal con la opinión del Consejo Nacional y estará sometido a un
@@ -1266,9 +1259,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Los programas estatales de ordenamiento territorial y Desarrollo Urbano, los planes o
 programas municipales de Desarrollo Urbano, serán aprobados, ejecutados, controlados, evaluados y
@@ -1280,9 +1273,9 @@ electrónica, a través de sus sitios web, en términos de la legislación en ma
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Las entidades federativas, al formular sus programas estatales de ordenamiento territorial
 y desarrollo urbano correspondientes, deberán considerar los elementos siguientes:
@@ -1306,9 +1299,9 @@ f) La congruencia con el atlas nacional de riesgos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La legislación estatal de Desarrollo Urbano determinará la forma y procedimientos para
 que los sectores social y privado participen en la formulación, modificación, evaluación y vigilancia de los
@@ -1340,9 +1333,9 @@ convenientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Cuando uno o más centros urbanos situados en territorios municipales o demarcaciones
 territoriales de dos o más entidades federativas formen una continuidad física y demográfica, la
@@ -1354,13 +1347,13 @@ operado por miembros de cada municipio que constituye dicha zona metropolitana.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Artículo reformado DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales deberán convenir la delimitación y constitución de una Zona Metropolitana o conurbada
@@ -1376,13 +1369,13 @@ Dicha comisión formulará y aprobará el programa de ordenación de la Zona Met
 conurbada interestatal e intermunicipal, así como gestionará y evaluará su cumplimiento.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo reformado DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Las zonas metropolitanas o conurbaciones ubicadas en el territorio de uno o más
 municipios de una misma entidad federativa, serán reguladas por la legislación local y se coordinarán con
@@ -1398,13 +1391,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Artículo reformado DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Son de interés metropolitano:
 I. La planeación del ordenamiento del territorio y los Asentamientos Humanos;
@@ -1430,9 +1423,9 @@ las autoridades competentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Para efectos del artículo anterior, la Secretaría emitirá los lineamientos a través de los
 cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones
@@ -1441,9 +1434,9 @@ cobertura y guarden congruencia con los distintos niveles y ámbitos de planeaci
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Para lograr una eficaz gobernanza metropolitana, se establecerán los mecanismos y los
 instrumentos de carácter obligatorio que aseguren la acción coordinada institucional de los tres órdenes
@@ -1481,13 +1474,13 @@ V. Los mecanismos y fuentes de financiamiento de las acciones metropolitanas con
 entre otros, el fondo metropolitano.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Los programas de las zonas metropolitanas o conurbaciones, deberán tener:
 I. Congruencia con la estrategia nacional de ordenamiento territorial;
@@ -1528,13 +1521,13 @@ establecidos en esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-37" placement="bottom">
+            <note placementBase="#art-37." placement="bottom">
               <p>Párrafo reformado DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Una vez aprobados los programas de las zonas metropolitanas o conurbaciones, los
 municipios y las Demarcaciones Territoriales respectivas, en el ámbito de sus jurisdicciones, tendrán el
@@ -1545,9 +1538,9 @@ correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Las Megalópolis o zonas metropolitanas con relaciones funcionales económicas y
 sociales, y con problemas territoriales y ambientales comunes, se coordinarán en las materias de interés
@@ -1560,9 +1553,9 @@ promoverá la participación de las entidades federativas y los municipios respe
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Los planes y programas municipales de Desarrollo Urbano señalarán las acciones
 específicas necesarias para la Conservación, Mejoramiento y Crecimiento de los Centros de Población,
@@ -1572,9 +1565,9 @@ Zonificación aplicable se contendrán en este programa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Las entidades federativas y los municipios promoverán la elaboración de programas
 parciales y polígonos de actuación que permitan llevar a cabo acciones específicas para el Crecimiento,
@@ -1591,9 +1584,9 @@ medio ambiente, vivienda, agua y saneamiento, entre otras.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. Las leyes locales establecerán esquemas de asociación y cooperación mutua entre dos o
 más municipios para crear y mantener un Instituto Municipal de planeación para las localidades menores
@@ -1603,13 +1596,13 @@ con planes o programas de Desarrollo Urbano elaborados conforme a las disposicio
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Artículo reformado DOF 01-06-2021</p>
             </note>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Las autoridades de la Federación, las entidades federativas y los municipios, en la esfera
 de sus respectivas competencias, harán cumplir los planes o programas de Desarrollo Urbano y la
@@ -1617,9 +1610,9 @@ observancia de esta Ley y la legislación estatal de Desarrollo Urbano.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. El ayuntamiento, una vez que apruebe el plan o programa de Desarrollo Urbano, y como
 requisito previo a su inscripción en el Registro Público de la Propiedad, deberá consultar a la autoridad
@@ -1633,9 +1626,9 @@ correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Los planes y programas de Desarrollo Urbano deberán considerar los ordenamientos
 ecológicos y los criterios generales de regulación ecológica de los Asentamientos Humanos establecidos
@@ -1648,9 +1641,9 @@ materia de Desarrollo Urbano.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. Los planes o programas de Desarrollo Urbano deberán considerar las normas oficiales
 mexicanas emitidas en la materia, las medidas y criterios en materia de Resiliencia previstos en el
@@ -1662,9 +1655,9 @@ reducción en el marco de la Ley General de Protección Civil.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de la
 Constitución Política de los Estados Unidos Mexicanos en materia de Fundación, Conservación,
@@ -1675,9 +1668,9 @@ los planes o programas de Desarrollo Urbano aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Las áreas y predios de un centro de población, cualquiera que sea su régimen jurídico,
 están sujetos a las disposiciones que en materia de ordenación urbana dicten las autoridades conforme a
@@ -1687,9 +1680,9 @@ deberán utilizarse preferentemente en dichas actividades o fines.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Para la Fundación de Centros de Población se requiere de su declaración expresa
 mediante decreto expedido por la legislatura de la entidad federativa correspondiente.
@@ -1699,9 +1692,9 @@ categoría político administrativa al centro de población.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. La fundación de Centros de Población deberá realizarse en tierras susceptibles para el
 aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas
@@ -1710,13 +1703,13 @@ afromexicanas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Artículo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Los planes o programas municipales de Desarrollo Urbano señalarán las acciones
 específicas para la Conservación, Mejoramiento y Crecimiento de los Centros de Población y
@@ -1729,9 +1722,9 @@ este programa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. La legislación estatal en la materia señalará los requisitos y alcances de las acciones de
 Fundación, Conservación, Mejoramiento y Crecimiento de los Centros de Población, y establecerá las
@@ -1758,9 +1751,9 @@ IX. La prevención, vigilancia y control de los procesos de ocupación irregular
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. Para la ejecución de acciones de Mejoramiento y Conservación de los Centros de
 Población, además de las previsiones señaladas en el artículo anterior, la legislación estatal en la materia
@@ -1801,9 +1794,9 @@ Mejoramiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. La legislación estatal de Desarrollo Urbano deberá señalar para las acciones de
 Crecimiento de los Centros de Población, las disposiciones para la determinación de:
@@ -1818,9 +1811,9 @@ IV. La previsión que debe existir de áreas verdes, espacios públicos y Espaci
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. Las áreas consideradas como no urbanizables en los planes o programas de Desarrollo
 Urbano y ordenamiento territorial, de conurbaciones o de zonas metropolitanas, sólo podrán utilizarse de
@@ -1832,9 +1825,9 @@ legislación en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Cuando se pretenda llevar a cabo cualquier tipo de acción o aprovechamiento urbano
 fuera de los límites de un centro de población, que no cuente con un plan o programa de Desarrollo
@@ -1868,9 +1861,9 @@ otras responsabilidades aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. La legislación local en la materia, deberá contener las especificaciones a fin de garantizar
 que se efectúen las donaciones y cesiones correspondientes a vías públicas locales, equipamientos y
@@ -1896,9 +1889,9 @@ financiera para brindar los servicios públicos que se generen.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. La legislación local preverá los mecanismos que garanticen procesos de información
 pública, transparencia y rendición de cuentas en la administración y otorgamiento de las autorizaciones,
@@ -1911,9 +1904,9 @@ desarrollos habitacionales fuera de las áreas definidas como urbanizables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Corresponderá a los municipios formular, aprobar y administrar la Zonificación de los
 Centros de Población ubicados en su territorio.
@@ -1964,9 +1957,9 @@ públicos y equipamientos suficientes y de calidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. La legislación local, en las materias objeto de esta Ley, establecerá los requisitos para las
 autorizaciones, licencias o permisos de uso del suelo, construcción, fraccionamientos, subdivisiones,
@@ -1998,9 +1991,9 @@ Telecomunicaciones y Radiodifusión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Los propietarios y poseedores de inmuebles comprendidos en las zonas determinadas
 como Reservas y Destinos en los planes o programas de Desarrollo Urbano aplicables, sólo utilizarán los
@@ -2011,9 +2004,9 @@ al ambiente, protección civil, desarrollo agrario, rural y otras aplicables.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El aprovechamiento de áreas y predios ejidales o comunales comprendidos dentro de los
 límites de los Centros de Población o que formen parte de las zonas de urbanización ejidal y de las
@@ -2041,9 +2034,9 @@ ellos se demuestre que se han otorgado las autorizaciones previstas en este art�
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserva de
 Crecimiento; así como para regularizar la tenencia de predios en los que se hayan constituido
@@ -2055,9 +2048,9 @@ ubicado el ejido o comunidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. La legislación local establecerá estrategias de Gestión Integral de Riesgos, incluyendo
 acciones de prevención y, en su caso, de reubicación de Asentamientos Humanos, así como acciones
@@ -2066,9 +2059,9 @@ promover medidas que permitan a las ciudades incrementar su Resiliencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Las normas del presente capítulo son obligatorias para todas las personas, físicas y
 morales, públicas o privadas y tienen por objeto establecer las especificaciones a que estarán sujetos los
@@ -2080,9 +2073,9 @@ Población.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Tratándose de acciones, proyectos u obras que se encuentren ubicados en zonas de alto
 riesgo conforme a los planes o programas de Desarrollo Urbano y ordenamiento territorial aplicables, las
@@ -2094,9 +2087,9 @@ expidan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. Independientemente de los casos a que alude el artículo anterior, cuando no exista
 regulación expresa, las obras e instalaciones siguientes deberán contar con estudios de prevención de
@@ -2127,9 +2120,9 @@ de riesgo no mitigable se clasifiquen como no urbanizables o con usos compatible
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. Es obligación de las autoridades federales, estatales o municipales asegurarse,
 previamente a la expedición de las autorizaciones para el uso, edificación o aprovechamiento urbano o
@@ -2145,9 +2138,9 @@ correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. Es obligación de las autoridades federales, estatales y municipales asegurarse que en
 las obras, acciones o inversiones en que intervengan o autoricen se cumplan las normas sobre
@@ -2160,9 +2153,9 @@ permitan la identificación de riesgos y recursos para la recuperación de conti
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. Para la accesibilidad universal de los habitantes a los servicios y satisfactores urbanos;
 las políticas de Movilidad deberán asegurar que las personas puedan elegir libremente la forma de
@@ -2178,9 +2171,9 @@ Asentamientos Humanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Las políticas y programas de Movilidad deberán:
 I. Procurar la accesibilidad universal de las personas, garantizando la máxima interconexión entre
@@ -2219,9 +2212,9 @@ acuerdo a su residencia y todo tipo de innovación en el sector privado encamina
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales, en el ámbito de sus competencias, establecerán los instrumentos y mecanismos para
@@ -2245,9 +2238,9 @@ productividad de la colectividad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales deberán promover y priorizar en la población la adopción de nuevos hábitos de Movilidad
@@ -2261,9 +2254,9 @@ público de pasajeros, prestadores del servicio de transporte de carga y usuario
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. La creación, recuperación, mantenimiento y defensa del Espacio Público para todo tipo
 de usos y para la Movilidad, es principio de esta Ley y una alta prioridad para los diferentes órdenes de
@@ -2309,13 +2302,13 @@ Los municipios serán los encargados de velar, vigilar y proteger la seguridad, 
 espacio público.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Párrafo adicionado DOF 01-12-2020</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. El uso, aprovechamiento y custodia del Espacio Público se sujetará a lo siguiente:
 I. Prevalecerá el interés general sobre el particular;
@@ -2357,9 +2350,9 @@ acción que atente contra la integridad y condiciones de uso, goce y disfrute de
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. Las leyes locales establecerán las disposiciones tendientes a que los planes y programas
 de Desarrollo Urbano que implementen acciones de Densificación, garanticen una dotación suficiente de
@@ -2373,9 +2366,9 @@ condiciones topográficas más complicadas que el promedio del fraccionamiento o
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales llevarán a cabo acciones coordinadas en materia de Reservas territoriales para el Desarrollo
@@ -2400,9 +2393,9 @@ VI. Garantizar el cumplimiento de los planes o programas de Desarrollo Urbano.</
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. Para los efectos del artículo anterior, la Federación por conducto de la Secretaría,
 suscribirá acuerdos de coordinación con las entidades de la Administración Pública Federal, las
@@ -2433,9 +2426,9 @@ Urbanos, así como para la edificación o Mejoramiento de vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. Con base en los convenios o acuerdos que señala el artículo anterior, la Secretaría
 promoverá:
@@ -2454,9 +2447,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. La incorporación de terrenos ejidales, comunales y de propiedad federal al Desarrollo
 Urbano y la vivienda, deberá cumplir con los siguientes requisitos:
@@ -2470,9 +2463,9 @@ deriven de los convenios o acuerdos correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. En los casos de suelo y Reservas territoriales que tengan por objeto el desarrollo de
 acciones habitacionales de interés social y popular, provenientes del dominio federal, la enajenación de
@@ -2482,9 +2475,9 @@ sujeta a la legislación aplicable en materia de vivienda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. La regularización de la tenencia de la tierra para su incorporación al Desarrollo Urbano,
 se sujetará a las siguientes disposiciones:
@@ -2499,9 +2492,9 @@ Desarrollo Urbano aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales, instrumentarán coordinadamente programas de desarrollo social, para que las y los titulares
@@ -2512,9 +2505,9 @@ en las que participen los ejidatarios y comuneros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales, tendrán en los términos de las leyes federales y locales correspondientes, el derecho de
@@ -2533,9 +2526,9 @@ derecho a que alude este artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. Los gobiernos de las entidades federativas y de los municipios podrán declarar polígonos
 para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, bajo el esquema de sistemas
@@ -2550,9 +2543,9 @@ acciones urbanísticas señaladas en los plazos establecidos, asegurando el desa
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86. Para la ejecución de los planes o programas de Desarrollo Urbano, las entidades
 federativas, los municipios y las Demarcaciones Territoriales, podrán promover ante propietarios e
@@ -2567,9 +2560,9 @@ convenios que al efecto se celebren.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87. El reagrupamiento de predios a que alude el artículo anterior, se sujetará a las siguientes
 normas:
@@ -2593,9 +2586,9 @@ un estudio de factibilidad financiera, que formulará el promovente del reagrupa
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88. En términos de las leyes locales y federales aplicables, y sin perjuicio de lo previsto por la
 fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponderá a
@@ -2609,9 +2602,9 @@ incrementos del valor del suelo sujetos a imposición fiscal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89. Los mecanismos a que alude el artículo anterior atenderán a las prioridades que
 establece la Estrategia Nacional y los planes y programas de Desarrollo Urbano aplicables, y podrán
@@ -2630,9 +2623,9 @@ para los fondos públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90. Los programas territoriales operativos tienen como ámbito espacial un municipio, varios
 municipios interrelacionados, un sistema urbano rural funcional, o la agrupación de varios Sistemas
@@ -2640,9 +2633,9 @@ Urbano Rurales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91. Los propósitos fundamentales de estos programas son:
 I. Impulsar en un territorio común determinado, estrategias intersectoriales integradas de
@@ -2658,9 +2651,9 @@ concentración de acciones e inversiones intersectoriales de los tres órdenes d
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales, promoverán la participación ciudadana en todas las etapas del proceso de ordenamiento
@@ -2668,9 +2661,9 @@ territorial y la planeación del Desarrollo Urbano y Desarrollo Metropolitano.</
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93. Las autoridades deberán promover la participación social y ciudadana, según
 corresponda, en al menos las materias siguientes:
@@ -2697,13 +2690,13 @@ Centros de Población, y
 VIII. La participación en los procesos de los Observatorios ciudadanos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-93" placement="bottom">
+            <note placementBase="#art-93." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94. Constituye un derecho de las personas obtener información gratuita, oportuna, veraz,
 pertinente, completa y en formatos abiertos de las disposiciones de planeación urbana y Zonificación que
@@ -2720,9 +2713,9 @@ personales protegidos por las leyes correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95. Las autoridades de planeación, en colaboración con los organismos de transparencia y
 acceso a la información, generarán políticas o programas para brindar información y en medios físicos y
@@ -2733,9 +2726,9 @@ pública, como escuelas, bibliotecas, mercados, entre otros, a fin de facilitar 
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales, promoverán programas de capacitación para los servidores públicos en la materia de esta
@@ -2759,9 +2752,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97. Se crea el sistema de información territorial y urbano, el cual tendrá por objeto organizar,
 actualizar y difundir la información e indicadores sobre el ordenamiento territorial y el Desarrollo Urbano,
@@ -2785,9 +2778,9 @@ organizaciones de los sectores social y privado, a fin de que aporten la informa
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98. Las autoridades de los tres órdenes de gobierno deberán incorporar en sus informes de
 gobierno anuales, un rubro específico relacionado con el avance en el cumplimiento de los planes y
@@ -2796,9 +2789,9 @@ ejecución de los proyectos, obras, inversiones y servicios planteados en los mi
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99. Los gobiernos federal, de las entidades federativas, de los municipios y de las
 Demarcaciones Territoriales, promoverán la creación y funcionamiento de observatorios urbanos, con la
@@ -2814,9 +2807,9 @@ información geográfica de sus resultados e impactos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100. Para apoyar el funcionamiento de los observatorios, las dependencias y entidades de la
 Administración Pública Federal, estatal, municipal y de las Demarcaciones Territoriales:
@@ -2844,9 +2837,9 @@ operación de observatorios urbanos y para el ordenamiento territorial con base 
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. La Federación, las entidades federativas, los municipios y las Demarcaciones
 Territoriales, sujetos a disponibilidad presupuestaria, fomentarán la coordinación y la concertación de
@@ -2888,9 +2881,9 @@ acceso universal a zonas verdes y espacios públicos seguros, inclusivos y acces
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102. Sin perjuicio de lo establecido por las disposiciones en materia financiera, las entidades
 federativas y municipios, para estar en posibilidad de ser sujetos de financiamiento para el desarrollo de
@@ -2908,9 +2901,9 @@ Comunicaciones y Transportes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103. La planeación de las obras públicas y de los servicios relacionados con las mismas
 deberá ajustarse a lo dispuesto en el presente ordenamiento, así como a los planes y programas de
@@ -2918,9 +2911,9 @@ ordenamiento territorial, de Desarrollo Urbano y Desarrollo Metropolitano.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. Las entidades federativas, en el ámbito de sus respectivas jurisdicciones, promoverán
 mecanismos de contraloría o vigilancia social, donde participen los vecinos, usuarios, instituciones
@@ -2936,9 +2929,9 @@ procuración de ordenamiento territorial cualquier violación a la normatividad 
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105. Toda persona, física o moral, podrá denunciar ante la instancia de procuración de
 ordenamiento territorial u otras autoridades locales todo hecho, acto u omisión que contravenga las
@@ -2949,9 +2942,9 @@ jurisdiccionales que corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106. La denuncia ciudadana podrá ejercitarse por cualquier persona, bastando que se
 presente por escrito o en medio electrónico y contenga:
@@ -2965,9 +2958,9 @@ advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107. Las autoridades y servidores públicos involucrados en asuntos denunciados, o que por
 razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir en
@@ -2979,9 +2972,9 @@ bajo la más estricta confidencialidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108. Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona
 que cause daños o efectos negativos al ordenamiento territorial, Asentamientos Humanos o al Desarrollo
@@ -2997,9 +2990,9 @@ Humanos, al Desarrollo Urbano o a sus infraestructuras, edificaciones e instalac
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109. La violación a esta Ley, a las leyes estatales en la materia y a los planes o programas a
 que se refiere este ordenamiento, por parte de cualquier servidor público, dará origen a la
@@ -3007,9 +3000,9 @@ responsabilidad y sanciones, en los términos que establece la legislación en l
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110. No surtirán efectos los actos, convenios, contratos relativos a la propiedad o cualquier
 otro derecho relacionado con el aprovechamiento de áreas y predios que contravengan esta Ley, la
@@ -3017,9 +3010,9 @@ legislación estatal en la materia y los planes o programas a que se refiere est
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111. Serán de nulidad los actos, convenios y contratos relativos a la propiedad o cualquier
 otro derecho relacionado con la utilización de áreas y predios que:
@@ -3035,9 +3028,9 @@ popular o a través de los procedimientos administrativos regulados en la legisl
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112. Los notarios y demás fedatarios públicos con facultades para ello, podrán autorizar
 definitivamente el instrumento público correspondiente a actos, convenios o contratos relacionados con la
@@ -3054,9 +3047,9 @@ respeto a la definición de Área Urbanizable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113. No surtirán efectos los permisos, autorizaciones o licencias que contravengan lo
 establecido en los planes o programas de Desarrollo Urbano.
@@ -3070,9 +3063,9 @@ vigentes y aplicables a la zona respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114. Las inscripciones de los registros públicos de la propiedad, así como las cédulas
 catastrales, deberán especificar en su contenido los datos precisos de la Zonificación, limitaciones,
@@ -3086,9 +3079,9 @@ que apliquen a la propiedad inmobiliaria.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115. Las dependencias y entidades de la Administración Pública Federal sujetarán la
 ejecución de sus programas de inversión y de obra a las políticas de ordenamiento territorial de los
@@ -3096,9 +3089,9 @@ Asentamientos Humanos y a los planes o programas de Desarrollo Urbano.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116. Las autoridades que expidan los planes o programas municipales de Desarrollo Urbano,
 de Centros de Población y los derivados de éstos, que no gestionen su inscripción; así como las y los
@@ -3107,9 +3100,9 @@ sancionados conforme a las disposiciones jurídicas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117. En el supuesto de que no se atiendan las recomendaciones a que se refiere esta Ley, la
 Secretaría podrá hacer del conocimiento público su incumplimiento y, en su caso, aplicar las medidas
@@ -3118,9 +3111,9 @@ disposiciones jurídicas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118. Quienes propicien o permitan la ocupación irregular de áreas y predios en los Centros
 de Población, autoricen indebidamente el Asentamiento Humano o construcción en zonas de riesgo, en
@@ -3131,9 +3124,9 @@ administrativas, civiles y penales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119. Las autoridades de los tres órdenes de gobierno tendrán la obligación de resguardar los
 expedientes de las autorizaciones y procedimientos administrativos donde intervengan en materia del
@@ -3141,21 +3134,49 @@ Desarrollo Urbano, así como proporcionar la información correspondiente a cual
 reglas y salvaguardas de la legislación de transparencia y acceso a la información pública
 gubernamental.
 ARTÍCULO SEGUNDO.- ………
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la
 Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se
-opongan a lo establecido en la presente Ley.
-TERCERO. En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las
+opongan a lo establecido en la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las
 autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y
 reglamentarias relacionadas con los contenidos de este instrumento.
 En el caso de la Ciudad de México, la Legislatura de la Ciudad de México, las autoridades del
 gobierno central y de las Demarcaciones Territoriales correspondientes, deberán efectuar las
 adecuaciones legislativas y reglamentarias de conformidad con lo dispuesto en el artículo 122 de la
 Constitución Política de los Estados Unidos Mexicanos y con las disposiciones de la Constitución de la
-Ciudad de México una vez que entren en vigor.
-CUARTO. En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el
+Ciudad de México una vez que entren en vigor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el
 Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de
 51 de 58
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
@@ -3163,8 +3184,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
 ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los
-derechos humanos vinculados al ordenamiento territorial.
-QUINTO. En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se
+derechos humanos vinculados al ordenamiento territorial.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se
 formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población
 mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos
 los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los
@@ -3172,35 +3200,84 @@ instrumentos de participación democrática y ciudadana contenidos en el Título
 que se expide.
 Los registros públicos de la propiedad, los catastros y el Registro Agrario Nacional estarán a lo
 señalado en los artículos 60, 111 y 112 del presente Decreto, una vez que sean adecuados los planes y
-programas mencionados en el párrafo anterior.
-SEXTO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la
+programas mencionados en el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la
 Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la
 sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
 Los gobiernos locales y municipales, convocarán en el mismo plazo a las sesiones de instalación de
-los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.
-SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la
+los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urbano y Metropolitano.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y
-funcionamiento del Consejo Nacional.
-OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
+funcionamiento del Consejo Nacional.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de
 equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo
 financiadas con recursos federales, así como las de los organismos que financien vivienda para los
-trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
-NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
+trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para
 la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la
 Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos
 para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano,
-cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
-DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e
+cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e
 iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley
-que se expide.
-DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la
+que se expide.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de
 especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso
 de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del
-presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
-DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto,
+presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto,
 las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las
 conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular
 de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
@@ -3208,16 +3285,37 @@ de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de
 LEY GENERAL DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-DÉCIMO TERCERO. En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto,
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO TERCERO. En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto,
 el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a
 quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en
-zonas de riesgo.
-DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de este
+zonas de riesgo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de este
 Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de
 Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y
-Urbano.
-DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente
+Urbano.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente
 Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su
 presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales
@@ -3287,10 +3385,24 @@ Publicado en el Diario Oficial de la Federación el 1 de diciembre de 2020
 Artículo Único.- Se adiciona un segundo párrafo al artículo 74 de la Ley General de Asentamientos
 Humanos, Ordenamiento Territorial y Desarrollo Urbano, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Las acciones que realicen las dependencias y entidades de la Administración Pública para
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Las acciones que realicen las dependencias y entidades de la Administración Pública para
 dar cumplimiento al presente Decreto se sujetarán a los programas presupuestarios en la materia y se
 cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la
 Federación del ejercicio fiscal de que se trate.
@@ -3311,31 +3423,10 @@ DECRETO por el que se reforman diversas disposiciones de la Ley General de
 Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
 Publicado en el Diario Oficial de la Federación el 1 de junio de 2021
 Artículo Único. Se reforman el artículo 7; las fracciones VI, XII, XIV y XXII al artículo 8; las fracciones
-VII, XIV, XV y XIX al artículo 10; las fracciones VI y VII al artículo 11; la fracción VIII al artículo 16; el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
-              <content>
-                <p>artículo 31; el primer párrafo al artículo 32; el artículo 33; la fracción III al artículo 36; el último párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
-              <content>
-                <p>artículo 37; el artículo 42; y se adicionan las fracciones XLI , XLII y XLIII al artículo 3; la fracción XXVI al</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
-              <content>
-                <p>artículo 11 y la fracción XVI al artículo 16; de la Ley General de Asentamientos Humanos, Ordenamiento
+VII, XIV, XV y XIX al artículo 10; las fracciones VI y VII al artículo 11; la fracción VIII al artículo 16; el
+artículo 31; el primer párrafo al artículo 32; el artículo 33; la fracción III al artículo 36; el último párrafo del
+artículo 37; el artículo 42; y se adicionan las fracciones XLI , XLII y XLIII al artículo 3; la fracción XXVI al
+artículo 11 y la fracción XVI al artículo 16; de la Ley General de Asentamientos Humanos, Ordenamiento
 Territorial y Desarrollo Urbano, para quedar como sigue:
 ……..
 Transitorio

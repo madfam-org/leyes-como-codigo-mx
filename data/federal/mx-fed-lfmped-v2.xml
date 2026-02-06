@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2014-08-11/lfmped/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2014-08-11/lfmped/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -40,9 +40,9 @@
       </chapter>
       <chapter id="chapter-5">
         <num>CAPÍTULO V De las responsabilidades y sanciones</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- La presente Ley es de orden público y tiene por objeto establecer las normas para la
 constitución y operación del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el cual
@@ -55,9 +55,9 @@ Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de d
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- Para efectos de esta Ley, se entenderá por:
 I. Comité: el Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el
@@ -74,9 +74,9 @@ plazo en términos de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Las disposiciones que regulan a los fideicomisos públicos de la Administración Pública
 Federal no serán aplicables al Fondo Mexicano del Petróleo.
@@ -86,9 +86,9 @@ fideicomitido y, en general, de la realización de la encomienda fiduciaria.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- El patrimonio del Fondo Mexicano del Petróleo se constituirá por:
 I. Los ingresos derivados de las asignaciones y los contratos a que se refiere el artículo 1 de
@@ -103,13 +103,13 @@ Para todos los efectos legales, los recursos que conforman el patrimonio del Fon
 Petróleo serán considerados de naturaleza federal, imprescriptibles e inembargables.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción reformada DOF 18-03-2025</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- El Fondo Mexicano del Petróleo, fideicomiso público del Estado constituido por la
 Secretaría de Hacienda y Crédito Público, como fideicomitente, en el Banco de México, como institución
@@ -119,9 +119,9 @@ Mexicano del Petróleo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- El Comité del Fondo Mexicano del Petróleo estará integrado por tres representantes del
 Estado y cuatro miembros independientes.
@@ -146,19 +146,19 @@ servidoras y servidores públicos del Banco de México.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 11-05-2022</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 11-05-2022</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- Las funciones de administración de aspectos financieros y cálculo de las
 contraprestaciones de los contratos a que se refiere el párrafo séptimo del artículo 27 de la Constitución
@@ -170,15 +170,8 @@ Para efectos de lo dispuesto en el párrafo anterior, el Coordinador Ejecutivo t
 siguientes:
 I. Ejecutar los acuerdos e instrucciones del Comité para efecto de ejercer las funciones a que se
 refiere el primer párrafo del presente artículo;
-II. Realizar el cálculo de las contraprestaciones que, conforme a los contratos citados en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
-            <content>
-              <p>artículo 1 de esta Ley, correspondan a los contratistas respectivos, así como instruir el pago
+II. Realizar el cálculo de las contraprestaciones que, conforme a los contratos citados en el
+artículo 1 de esta Ley, correspondan a los contratistas respectivos, así como instruir el pago
 de las mismas;
 III. Informar bimestralmente al Comité de la situación financiera del Fondo Mexicano del Petróleo,
 incluyendo ingresos, egresos, inversiones y demás información y operaciones relevantes;
@@ -198,23 +191,16 @@ remuneraciones que correspondan al Coordinador Ejecutivo y demás personal citad
 cargo a los honorarios fiduciarios, sujeto a la aprobación del Comité, así como a la política salarial del
 fiduciario.
 El Coordinador Ejecutivo será delegado fiduciario del Fondo Mexicano del Petróleo para llevar a cabo
-los actos a que se refiere el presente artículo y deberá cumplir con los requisitos establecidos en el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
-            <content>
-              <p>artículo 9, fracciones I a IV y VII, de esta Ley.
+los actos a que se refiere el presente artículo y deberá cumplir con los requisitos establecidos en el
+artículo 9, fracciones I a IV y VII, de esta Ley.
 Sin perjuicio de lo dispuesto en las demás disposiciones aplicables, el Coordinador Ejecutivo estará
 sujeto a lo establecido en el artículo 25 de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- El contrato constitutivo del Fondo Mexicano del Petróleo deberá prever, al menos, lo
 siguiente:
@@ -321,16 +307,16 @@ fideicomitente y el fiduciario para la adecuada organización, funcionamiento y 
 Fondo Mexicano del Petróleo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Inciso reformado DOF 18-03-2025</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Inciso reformado DOF 18-03-2025</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- Los miembros independientes del Comité, nombrados por el Titular del Ejecutivo Federal
 con la aprobación de las dos terceras partes de los miembros presentes de la Cámara de Senadores,
@@ -360,13 +346,13 @@ tener litigio pendiente con cualquier asignatario o contratista el día de la de
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 18-03-2025</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. Los miembros independientes no podrán ocupar, durante el tiempo de su nombramiento,
 ningún empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, de las entidades
@@ -376,9 +362,9 @@ sector privado cuando ello implique un conflicto de interés.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. Los miembros independientes que durante su encargo dejen de cumplir con los requisitos
 señalados en los artículos 9 y 10 de esta Ley o les sobrevenga algún impedimento para continuar
@@ -392,9 +378,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Los miembros independientes del Comité se sujetarán a lo siguiente:
 I. Durarán en el cargo ocho años y no podrán ser nombrados para nuevos periodos.
@@ -416,18 +402,18 @@ Comité.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- Los servidores públicos que participen como miembros del Comité no recibirán
 remuneración alguna por el desempeño de dicha función.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- Los miembros independientes del Comité serán removidos de sus cargos en los
 siguientes casos:
@@ -446,9 +432,9 @@ VIII. Por haber sido condenado por delito que amerite pena privativa de libertad
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- A solicitud de cuando menos uno de sus miembros, el Presidente del Comité deberá
 hacer del conocimiento del Ejecutivo Federal los casos en que alguno de los miembros independientes
@@ -465,9 +451,9 @@ procederá al nombramiento de un nuevo miembro en los términos de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- Los recursos entregados al Fondo Mexicano del Petróleo serán destinados a lo
 siguiente:
@@ -513,19 +499,19 @@ conformidad con los montos aprobados por la Cámara de Diputados para el uso de 
 recursos cuando la Reserva del Fondo sea mayor al 3% del Producto Interno Bruto.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 18-03-2025</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Inciso reformado DOF 06-11-2020</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Inciso reformado DOF 06-11-2020</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- La política de inversiones y de administración de riesgos para la Reserva del Fondo
 deberá contemplar, al menos, los siguientes lineamientos:
@@ -545,9 +531,9 @@ instrumentación de las políticas de inversión y de administración de riesgos
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- Con el objeto de permitir una adecuada operación del Fondo Mexicano del Petróleo en
 cumplimiento de su fin y satisfacer sus necesidades de liquidez y cumplimiento oportuno de las
@@ -559,9 +545,9 @@ caso, el saldo de estas cuentas no podrá tener un saldo deudor bajo ninguna cir
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- El fiduciario deberá publicar por medios electrónicos y por lo menos dentro de los treinta
 días naturales posteriores al cierre de cada trimestre calendario, previa aprobación del Comité, un
@@ -590,9 +576,9 @@ de transparencia que resulten aplicables al fiduciario.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- Las actas del Comité que contengan información sujeta a reserva en términos de la
 presente Ley, así como de las disposiciones aplicables en materia de transparencia y acceso a la
@@ -613,9 +599,9 @@ Coordinador Ejecutivo y al personal que dependa del mismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- Sin perjuicio de lo dispuesto por las disposiciones aplicables en materia de
 transparencia, será reservada:
@@ -648,9 +634,9 @@ pública, sin que resulten aplicables las disposiciones relativas al secreto fid
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- El auditor externo del Banco de México que contrate el Secretario de Hacienda y Crédito
 Público de conformidad con el artículo 50 de la Ley del Banco de México fungirá también como auditor
@@ -669,22 +655,22 @@ dictámenes y resultados de revisión que lleve a cabo en cumplimiento a lo disp
 artículo y que presente al Comité.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Párrafo reformado DOF 18-03-2025</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- El Fondo Mexicano del Petróleo deberá contar con un sistema informático que permita,
 de manera remota, el intercambio y registro de las transacciones y las auditorías de las mismas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- El Fondo Mexicano del Petróleo debe coordinarse con la Secretaría de Energía quien le
 debe proporcionar toda la información técnica y operativa que sea necesaria para el correcto
@@ -692,13 +678,13 @@ cumplimiento de su fin.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Artículo reformado DOF 18-03-2025</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- Los miembros del Comité serán sujetos a responsabilidad en el ejercicio de sus
 funciones cuando causen un daño o perjuicio estimable en dinero a la Hacienda Pública Federal, en los
@@ -739,10 +725,24 @@ Desarrollo podrá llevar a cabo las sesiones que requiera y se realizarán las a
 necesarias a fin de que dicho Fondo inicie operaciones en el año 2015. Para tal efecto, el
 Comité adoptará sus decisiones mediante mayoría simple de los miembros presentes en las
 sesiones correspondientes, las cuales requerirán un quórum de tres miembros como mínimo.
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Durante los ejercicios 2015, 2016, 2017 y 2018 se está a lo siguiente:
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Durante los ejercicios 2015, 2016, 2017 y 2018 se está a lo siguiente:
 I. Cuando los ingresos observados totales del Fondo Mexicano del Petróleo para la Estabilización y
 el Desarrollo en el ejercicio correspondiente sean superiores a los ingresos estimados para el
 mismo año de que se trate, en ambos casos descontando los pagos establecidos en la fracción I
@@ -807,13 +807,41 @@ Publicado en el Diario Oficial de la Federación el 6 de noviembre de 2020
 ARTÍCULO DÉCIMO QUINTO. Se reforman los incisos d) y e) de la fracción II del artículo 16 de la
 Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento
-de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.
-Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se abroga la Ley que crea el Fideicomiso que Administrará el Fondo para el Fortalecimiento
+de Sociedades y Cooperativas de Ahorro y Préstamo y de Apoyo a sus Ahorradores.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las dependencias y entidades, por conducto de sus unidades responsables, deberán
 coordinar las acciones que correspondan para que a más tardar dentro de los 30 días naturales contados
 a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la
 Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los
@@ -836,8 +864,15 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 la vacuna en el número de dosis necesarias, así como para procurar la estabilización del balance fiscal
 federal y el pago de las obligaciones previamente contraídas por los vehículos financieros a que se
-refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.
-Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse
+refiere el presente Decreto con anterioridad a la entrada en vigor del mismo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Los ejecutores de gasto, por conducto de sus unidades responsables, deberán coordinarse
 con las instituciones que fungen como fiduciarias para llevar a cabo los actos y procesos necesarios para
 extinguir los fideicomisos y dar por terminados los mandatos y análogos públicos a que se refieren las
 disposiciones que se reforman o derogan por virtud de este Decreto, con la finalidad de que durante el
@@ -845,13 +880,27 @@ primer semestre del ejercicio 2021 se suscriban los convenios de extinción o te
 respectivamente, en términos de las disposiciones aplicables.
 Los derechos y obligaciones derivados de los instrumentos jurídicos que por virtud del presente
 Decreto se extinguen o terminan, serán asumidos por los ejecutores de gasto correspondientes con cargo
-a su presupuesto autorizado, de conformidad con las disposiciones aplicables.
-Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o
+a su presupuesto autorizado, de conformidad con las disposiciones aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Las dependencias y entidades que coordinen la operación de los fideicomisos, mandatos o
 análogos públicos serán las responsables de realizar todos los actos necesarios que permitan llevar a
 cabo la extinción o terminación de éstos, entre otros, por lo que se refiere a los activos y pasivos con los
 que cuente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su
-Reglamento.
-Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de
+Reglamento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El Consejo Nacional de Ciencia y Tecnología, así como los Centros Públicos de
 Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo
 de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y
 Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la
@@ -894,8 +943,15 @@ adicionales con cargo a sus respectivos patrimonios.
 Los recursos a que se refiere el artículo 88 de la Ley Federal de Presupuesto y Responsabilidad
 Hacendaria, que se reforma por virtud del presente Decreto, se podrán destinar a cubrir los pagos
 derivados de los compromisos adquiridos por los fondos a que se refiere el párrafo anterior, previo a la
-entrada en vigor de este Decreto.
-Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que
+entrada en vigor de este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. El Consejo Nacional de Ciencia y Tecnología, deberá llevar a cabo las acciones que
 correspondan para que a partir de la entrada en vigor del presente Decreto no se adquieran compromisos
 adicionales con cargo al patrimonio del fideicomiso público denominado Fondo para el Fomento y Apoyo
 a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología, y se concentren en la
@@ -907,22 +963,57 @@ el fideicomiso deberá extinguirse durante el ejercicio fiscal de 2021.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal
 correspondiente, de conformidad con lo dispuesto por el último párrafo del Artículo Cuarto Transitorio de
-este Decreto.
-Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan
+este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Se deroga el transitorio Tercero del Decreto por el que se reforman, adicionan y derogan
 diversas disposiciones de la Ley Aduanera, publicado en el Diario Oficial de la Federación el 1o. de enero
-de 2002.
-Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el
+de 2002.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La Comisión Nacional de Cultura Física y Deporte realizará las acciones conducentes para el
 otorgamiento de un reconocimiento económico vitalicio a los deportistas que en representación oficial
 obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su
 presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte
-establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.
-Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá
+establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá
 reformar los Reglamentos de las leyes que se reforman por virtud de la entrada en vigor del presente
-Decreto, en lo que resulte conducente.
-Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá
+Decreto, en lo que resulte conducente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La Secretaría de Gobernación, con cargo a su presupuesto autorizado, asumirá
 las obligaciones pendientes de cumplimiento relacionadas con el Fondo de Apoyo Social para ex
-Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.
-Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados
+Trabajadores Migratorios Mexicanos, hasta su total cumplimiento.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Los recursos que integran el patrimonio de los fideicomisos públicos denominados
 Fondo Metropolitano y Fondo Regional se concentrarán en la Tesorería de la Federación sujetándose a
 lo dispuesto en el transitorio Cuarto del presente Decreto. Los recursos aportados deberán ser
 destinados, en primer término, al Programa de Mejoramiento Urbano a cargo de la Secretaría de
@@ -931,8 +1022,15 @@ Desarrollo Agrario, Territorial y Urbano.
 LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 18-03-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Los recursos que integran el patrimonio del fideicomiso público denominado Fondo
 para el Desarrollo de Zonas de Producción Minera se concentrarán en la Tesorería de la Federación
 sujetándose a lo dispuesto en el transitorio Cuarto del presente Decreto por lo que se refiere a los
 recursos obtenidos previo al ejercicio fiscal 2019. Por lo que se refiere a los recursos obtenidos durante el
@@ -940,8 +1038,15 @@ ejercicio fiscal 2019 se estará a lo dispuesto por la autoridad jurisdiccional 
 resultar procedente se sujetarán a dicho Transitorio.
 Una vez realizado lo anterior, la Secretaría de Economía por conducto de la unidad responsable de
 dicho fideicomiso público en conjunto con la institución fiduciaria procederán en términos de lo señalado
-en el transitorio Quinto.
-Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso
+en el transitorio Quinto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. A la entrada en vigor del presente Decreto, el Fideicomiso para promover el acceso
 al financiamiento de MIPYMES y Emprendedores no podrá contraer obligaciones adicionales con cargo a
 su patrimonio, sin embargo, continuará cumpliendo con los compromisos derivados de los instrumentos
 de garantía contratados, conforme a las disposiciones aplicables, para el cumplimiento de sus fines.
@@ -953,8 +1058,15 @@ realizará las acciones necesarias para concentrar los recursos federales remane
 la Federación.
 Los ingresos excedentes que se concentren en la Tesorería de la Federación al amparo del presente
 Transitorio se destinarán en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal
-correspondiente.
-Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el
+correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. La Secretaría de Hacienda y Crédito Público, en su carácter de mandante en el
 contrato de Mandato para la Administración de los Recursos del Programa de Cooperación Energética
 para Países de Centroamérica y el Caribe, deberá coordinarse con la institución que funja con el carácter
 de mandataria para llevar a cabo las acciones necesarias para formalizar la terminación de dicho
@@ -965,12 +1077,26 @@ transitorio Cuarto del presente Decreto.
 Asimismo, la unidad responsable del Mandato deberá llevar a cabo las acciones conducentes para
 efectuar la recuperación de los créditos que, en su caso, se hubiesen otorgado con cargo a los recursos
 del Mandato a que se refiere el presente transitorio, a efecto de que dichos recursos sean concentrados
-en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.
-Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no
+en Tesorería de la Federación, en los términos previstos en el transitorio Cuarto del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Séptimo. A partir de la entrada en vigor del presente Decreto, los ejecutores de gasto no
 podrán comprometer recursos públicos con cargo a los fideicomisos sin estructura orgánica, mandatos o
 análogos públicos, a que se refieren las disposiciones que se reforman o derogan por virtud de este
-Decreto y de sus disposiciones transitorias.
-Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo
+Decreto y de sus disposiciones transitorias.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Octavo. Los recursos que integran el patrimonio del Fondo a que se refiere el segundo
 párrafo del artículo 22 de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural,
 Forestal y Pesquero que se deroga deberán ser reintegrados a la Financiera mismo que formará parte de
 su patrimonio, salvo el monto que, en su caso, la Secretaría de Hacienda y Crédito Público determine se
@@ -981,8 +1107,15 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 18-03-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 del citado Fondo, procederá en términos de lo señalado en los transitorios Cuarto y Quinto del presente
-Decreto.
-Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Noveno. Se deroga el transitorio Noveno del Decreto por el que se expide la Ley General de
 Protección Civil publicado en el Diario Oficial de la Federación el 6 de junio de 2012.
 A partir del 1o. de enero de 2021, el Fideicomiso Fondo de Desastres Naturales no asumirá
 compromisos adicionales a los adquiridos previamente, salvo los relativos a los gastos de operación, y
@@ -992,8 +1125,15 @@ obligaciones que se tengan pendientes y que no se paguen con cargo al patrimonio
 Los remanentes de recursos de este Fideicomiso se deberán concentrar a más tardar el 30 de junio
 de 2021, por concepto de aprovechamientos, a la Tesorería de la Federación y se destinarán por la
 Secretaría de Hacienda y Crédito Público para la atención de desastres naturales, así como para cubrir
-las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.
-Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del
+las obligaciones pendientes y que no se paguen con cargo al patrimonio del Fideicomiso.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-20">
+          <num>Artículo 20</num>
+          <paragraph id="art-20-para-1">
+            <content>
+              <p>Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del
 FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios,
 para dar cumplimiento a las obligaciones contraídas y convenios en proceso de formalización al 20 de
 septiembre de 2020. Asimismo, se faculta a la SHCP para realizar los convenios, acuerdos, y todos los
@@ -1040,14 +1180,35 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 Artículo Décimo Tercero. Se reforma el segundo, tercer y cuarto párrafos del artículo 6 de la Ley del
 Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta
@@ -1078,37 +1239,51 @@ Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del
 Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y
 derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.
 Publicado en el Diario Oficial de la Federación el 18 de marzo de 2025
-ARTÍCULO NOVENO.- Se reforman la fracción I del artículo 4; los incisos d) y f) de la fracción II del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
-            <content>
-              <p>artículo 8; la fracción VII del artículo 9; la fracción I del artículo 16; el tercer párrafo del artículo 22, y el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
-            <content>
-              <p>artículo 24 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar
+ARTÍCULO NOVENO.- Se reforman la fracción I del artículo 4; los incisos d) y f) de la fracción II del
+artículo 8; la fracción VII del artículo 9; la fracción I del artículo 16; el tercer párrafo del artículo 22, y el
+artículo 24 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, para quedar
 como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- En los instrumentos de coordinación y colaboración administrativa para el intercambio de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- En los instrumentos de coordinación y colaboración administrativa para el intercambio de
 información y asistencia técnica, cuando se haga referencia a la Comisión Nacional de Hidrocarburos se
 debe entender por la Secretaría de Energía, en tanto no se dejen sin efectos o se celebren los nuevos
 convenios de colaboración administrativa correspondientes.
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La Cámara de Diputados debe realizar las previsiones presupuestales necesarias para que
 las dependencias y entidades puedan cumplir las atribuciones conferidas en este Decreto.
 Ciudad de México, a 12 de marzo de 2025.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. Sergio
 Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. José Luis

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2016-07-18/lotfja/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2016-07-18/lotfja/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -78,23 +78,16 @@
         </chapter>
         <chapter id="chapter-14">
           <num>Capítulo XII De las Salas Regionales Auxiliares</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público e interés general y tiene por objeto determinar la
 integración, organización, atribuciones y funcionamiento del Tribunal Federal de Justicia Administrativa.
 El Tribunal Federal de Justicia Administrativa es un órgano jurisdiccional con autonomía para emitir
 sus fallos y con jurisdicción plena.
-Formará parte del Sistema Nacional Anticorrupción y estará sujeto a las bases establecidas en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
-              <content>
-                <p>artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General
+Formará parte del Sistema Nacional Anticorrupción y estará sujeto a las bases establecidas en el
+artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General
 correspondiente y en el presente ordenamiento.
 Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima
 publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción
@@ -127,9 +120,9 @@ propia tesorería.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. Para efectos de esta Ley se entenderá, por:
 I. Junta: La Junta de Gobierno y Administración;
@@ -139,9 +132,9 @@ IV. Tribunal: El Tribunal Federal de Justicia Administrativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. El Tribunal conocerá de los juicios que se promuevan contra las resoluciones definitivas,
 actos administrativos y procedimientos que se indican a continuación:
@@ -239,16 +232,16 @@ El Tribunal conocerá también de los juicios que promuevan las autoridades para
 las resoluciones administrativas favorables a un particular, cuando se consideren contrarias a la ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Fracción reformada DOF 16-10-2025</p>
             </note>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Párrafo adicionado DOF 26-01-2024</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. El Tribunal conocerá de las Responsabilidades Administrativas de los Servidores Públicos
 y Particulares Vinculados con Faltas Graves promovidas por la Secretaría de la Función Pública y los
@@ -269,9 +262,9 @@ términos de la legislación aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Las y los Magistrados que integran el Tribunal Federal de Justicia Administrativa, están
 impedidos para conocer de los asuntos por alguna de las siguientes causas:
@@ -321,9 +314,9 @@ el asunto en favor o en contra de alguno de los interesados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. El Tribunal se integra por los órganos colegiados siguientes:
 I. La Sala Superior;
@@ -332,9 +325,9 @@ III. Las Salas Regionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. La Sala Superior se integrará por dieciséis Magistrados. Funcionará en un Pleno General,
 en Pleno Jurisdiccional, y en tres Secciones. De los Magistrados de la Sala Superior, catorce ejercerán
@@ -343,9 +336,9 @@ establecidas en la presente Ley, y dos formarán parte de la Junta de Gobierno y
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. La Sala Superior tendrá cada año dos períodos de sesiones; el primero comenzará el
 primer día hábil del mes de enero y terminará el antepenúltimo día hábil de la primera quincena del mes
@@ -354,9 +347,9 @@ hábil de la primera quincena del mes de diciembre.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. El Pleno General se conformará por el Presidente del Tribunal, por los trece Magistrados
 que integran las Secciones de la Sala Superior y por los dos Magistrados de la Sala Superior que forman
@@ -380,9 +373,9 @@ caso de ausencia del Presidente del Tribunal, será suplido por el Magistrado co
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. El Pleno Jurisdiccional estará integrado por el Presidente del Tribunal y por los diez
 Magistrados integrantes de la Primera y Segunda Secciones de la Sala Superior, y bastará la presencia
@@ -400,9 +393,9 @@ fecha de la sesión.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Las resoluciones de la Sección Tercera se tomarán por mayoría de votos, por lo que para
 la validez de las sesiones se requerirá siempre de la presencia de tres Magistrados. Si dos Magistrados
@@ -414,8 +407,15 @@ Los Magistrados de la Tercera Sección serán suplidos de manera temporal por el
 Presidente, los presidentes de Sección o por alguno de los Magistrados del Pleno Jurisdiccional, en
 orden alfabético de sus apellidos.
 En caso de impedimento o en ausencia por causa mayor; el Presidente del Tribunal solicitará a
-cualquiera de los presidentes de las otras Secciones para que uno de ellos participe en las sesiones de la
-Tercera Sección en orden de turno. En caso de que ninguno de los dos se encuentre presente, podrá
+cualquiera de los presidentes de las otras Secciones para que uno de ellos participe en las sesiones de la</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercera Sección en orden de turno. En caso de que ninguno de los dos se encuentre presente, podrá
 participar el Presidente del Tribunal o cualquier Magistrado de Sala Superior.
 Siempre que un Magistrado disintiere de la mayoría podrá formular voto particular, el cual se insertará
 o engrosará al final de la sentencia respectiva si fuere presentado dentro de los cinco días siguientes a la
@@ -437,36 +437,36 @@ Secretario Adjunto de la Sección.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
-                <p>Artículo 12. Las sesiones ordinarias de los plenos se celebrarán dentro de los períodos a que alude el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
-              <content>
-                <p>artículo 8 de esta Ley, en los días y horas que fijen cada uno. También podrán sesionar de manera
+                <p>Artículo 12. Las sesiones ordinarias de los plenos se celebrarán dentro de los períodos a que alude el
+artículo 8 de esta Ley, en los días y horas que fijen cada uno. También podrán sesionar de manera
 extraordinaria a solicitud de cualquiera de sus integrantes, la que deberá ser presentada al Presidente del
 Tribunal a fin de que emita la convocatoria correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
-                <p>Artículo 13. La Primera y la Segunda Sección cuentan con competencia administrativa y fiscal, y la
-Tercera con competencia en responsabilidades administrativas.</p>
+                <p>Artículo 13. La Primera y la Segunda Sección cuentan con competencia administrativa y fiscal, y la</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercera con competencia en responsabilidades administrativas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Las Secciones Primera y Segunda estarán integradas cada una por cinco Magistrados de
 Sala Superior.
@@ -486,9 +486,9 @@ Presidente de la Sección, hasta que se logre la elección.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. Las Secciones sesionarán públicamente, de las cuales se levantará Acta y se tomará
 versión estenográfica. De las sesiones privadas que así lo establezca la Ley, sólo se levantará Acta y se
@@ -496,9 +496,9 @@ realizará versión pública de la misma.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. Son facultades del Pleno General las siguientes:
 I. Elegir de entre los Magistrados de la Sala Superior al Presidente del Tribunal;
@@ -541,9 +541,9 @@ voto de calidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Son facultades del Pleno Jurisdiccional las siguientes:
 I. Establecer, modificar y suspender la jurisprudencia del Tribunal conforme a las
@@ -553,8 +553,15 @@ II. Resolver las contradicciones de criterios, tesis o jurisprudencias sustentad
 Salas Regionales y Secciones de Sala Superior, según sea el caso, determinando cuál
 de ellos debe prevalecer, lo cual constituirá jurisprudencia;
 III. Resolver los juicios con características especiales, en términos de las disposiciones
-aplicables, incluidos aquellos que sean de competencia especial de la Primera y
-Segunda Secciones; con excepción de los que sean competencia exclusiva de la Tercera
+aplicables, incluidos aquellos que sean de competencia especial de la Primera y</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segunda Secciones; con excepción de los que sean competencia exclusiva de la Tercera
 Sección;
 IV. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de
 su competencia, y cuya procedencia no esté sujeta al cierre de instrucción;
@@ -591,9 +598,9 @@ Sala Superior del Tribunal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. Son facultades de la Primera y Segunda Sección, las siguientes:
 I. Elegir de entre sus Magistrados al Presidente de la Sección correspondiente;
@@ -635,9 +642,9 @@ XI. Las señaladas en las demás leyes como de su exclusiva competencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Las resoluciones de la Primera y Segunda Sección de la Sala Superior de este Tribunal,
 se tomarán por unanimidad o mayoría de votos.
@@ -654,9 +661,9 @@ cuatro Magistrados y los debates serán dirigidos por el Presidente de la Secci�
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. Son facultades de la Tercera Sección las siguientes:
 I. Elegir al Presidente de la Tercera Sección de entre los Magistrados que la integran;
@@ -720,9 +727,9 @@ XV. Las señaladas en las demás leyes como competencia exclusiva de la Sección
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. La Junta de Gobierno y Administración será el órgano del Tribunal que tendrá a su cargo
 la administración, vigilancia, disciplina y carrera jurisdiccional, y contará con autonomía técnica y de
@@ -730,9 +737,9 @@ gestión para el adecuado cumplimiento de sus funciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. La Junta de Gobierno y Administración se integrará por:
 I. El Presidente del Tribunal, quien también será el Presidente de la Junta de Gobierno y
@@ -749,9 +756,9 @@ el tiempo restante del periodo por el cual fueron designados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. Son facultades de la Junta de Gobierno y Administración, las siguientes:
 I. Proponer, para aprobación del Pleno General, el proyecto de Reglamento Interior del
@@ -893,9 +900,9 @@ XXXIX. Resolver los demás asuntos que señalen las disposiciones aplicables.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Para la validez de las sesiones de la Junta de Gobierno y Administración, bastará la
 presencia de tres de sus miembros.
@@ -907,9 +914,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Las resoluciones de la Junta de Gobierno y Administración se tomarán por mayoría de
 votos de los Magistrados miembros presentes, quienes no podrán abstenerse de votar. En caso de
@@ -920,22 +927,15 @@ deberán levantarse actas de las mismas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. El Presidente del Tribunal lo será también de la Junta de Gobierno y Administración. En
 el caso de faltas temporales del Presidente del Tribunal, será suplido por los Magistrados de Sala
 Superior integrantes de dicha Junta, siguiendo el orden alfabético de sus apellidos.
-Ante la falta definitiva, renuncia o sustitución de los Magistrados previstos en las fracciones II y III del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
-              <content>
-                <p>artículo 22 de esta Ley que integren la Junta de Gobierno y Administración, el Pleno General designará a
+Ante la falta definitiva, renuncia o sustitución de los Magistrados previstos en las fracciones II y III del
+artículo 22 de esta Ley que integren la Junta de Gobierno y Administración, el Pleno General designará a
 un nuevo integrante para concluir el periodo del Magistrado faltante. El Magistrado designado para
 concluir el periodo no estará impedido para ser electo como integrante de la Junta de Gobierno y
 Administración en el periodo inmediato siguiente.
@@ -945,18 +945,18 @@ Sala Superior, según sea el caso, siempre que sean elegibles para ello en los t
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Junta de Gobierno y Administración, para atender los asuntos de su competencia,
 contará con los Secretarios Técnicos, Operativos y Auxiliares necesarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Las Salas Regionales tendrán el carácter siguiente:
 I. Ordinarias: Conocerán de los asuntos a que se refiere el artículo 3, de esta Ley, con
@@ -975,9 +975,9 @@ IV. Mixtas: Serán aquellas que contengan dos de las funciones anteriores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. El Tribunal tendrá Salas Regionales, integradas por tres Magistrados cada una, con
 jurisdicción en la circunscripción territorial y sede que les sea asignada en el Reglamento Interior del
@@ -990,9 +990,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Para los efectos del artículo anterior, el territorio nacional se dividirá en regiones con los
 límites territoriales que se determinen en el Reglamento Interior del Tribunal, conforme a los estudios y
@@ -1001,9 +1001,9 @@ requerimientos de administración de justicia, así como la disponibilidad presu
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. Los asuntos cuyo despacho competa a las Salas Regionales, serán asignados por turno
 a los Magistrados que integren la Sala de que se trate.
@@ -1021,9 +1021,9 @@ ciudadana que, en su caso, sea requerida.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Los presidentes de las Salas Regionales, serán designados por los Magistrados que
 integren la Sala en la primera sesión de cada ejercicio, durarán en su cargo un año y no podrán ser
@@ -1036,9 +1036,9 @@ en el periodo inmediato siguiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Los presidentes de las Salas Regionales tendrán las siguientes atribuciones:
 I. Atender la correspondencia de la Sala, autorizándola con su firma;
@@ -1074,9 +1074,9 @@ XII. Las demás que establezcan las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Las Salas Regionales Ordinarias conocerán de los juicios por razón de territorio,
 atendiendo al lugar donde se encuentre el domicilio fiscal del demandante, excepto cuando:
@@ -1108,9 +1108,9 @@ demuestre lo contrario.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Además de los juicios a que se refiere el artículo 3, las Salas Regionales conocerán de
 aquellos que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos
@@ -1137,9 +1137,9 @@ indican en las demás fracciones de este artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Los Magistrados instructores de las Salas Regionales con carácter de ordinarias, tendrán
 las siguientes atribuciones:
@@ -1188,9 +1188,9 @@ XV. Las demás que les correspondan conforme a las disposiciones legales aplicab
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. El Tribunal contará con Salas Especializadas en materia de Responsabilidades
 Administrativas, cada una tendrá competencia respecto de las entidades que conformen las cinco
@@ -1199,9 +1199,9 @@ Gobierno y Administración, de acuerdo a estudios cualitativos y cuantitativos.<
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. Las Salas Especializadas en materia de Responsabilidades Administrativas conocerán
 de:
@@ -1243,9 +1243,9 @@ decidan los recursos administrativos previstos en dichos ordenamientos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Los Magistrados instructores de las Salas Especializadas en materia de
 Responsabilidades Administrativas, tendrán las siguientes atribuciones:
@@ -1286,9 +1286,9 @@ XIII. Las demás que les correspondan conforme a las disposiciones legales aplic
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Las Salas Auxiliares ejercerán jurisdicción material mixta y territorial en toda la República,
 y tendrán su sede en el lugar que determine el Reglamento Interior del Tribunal.
@@ -1298,9 +1298,9 @@ como en la instrucción de los juicios, según lo defina la Junta de Gobierno y 
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Las Salas Auxiliares también auxiliarán a las Salas Regionales y a las Salas
 Especializadas en materia de Responsabilidades Administrativas en la instancia de aclaración y en el
@@ -1311,9 +1311,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. El Tribunal tendrá los servidores públicos siguientes:
 I. Magistrados de Sala Superior;
@@ -1343,9 +1343,9 @@ desempeño de sus funciones, de conformidad con lo que establezca su presupuesto
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. Los Magistrados de la Sala Superior serán designados por el Presidente de la República
 y ratificados por el voto de las dos terceras partes de los miembros presentes del Senado de la República
@@ -1374,9 +1374,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Los Magistrados sólo podrán ser removidos de sus cargos por las siguientes causas,
 previo procedimiento seguido ante la Junta de Gobierno y Administración y resuelto por el Pleno de la
@@ -1404,9 +1404,9 @@ ocupar dicho cargo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Son requisitos para ser Magistrado los siguientes:
 I. Ser mexicano por nacimiento;
@@ -1427,18 +1427,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. Son causas de retiro forzoso de los Magistrados del Tribunal, padecer incapacidad física
 o mental para desempeñar el cargo, así como cumplir setenta y cinco años de edad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Cuando los Magistrados estén por concluir el periodo para el que hayan sido nombrados,
 la secretaria operativa de administración lo hará saber al Presidente del Tribunal, con tres meses de
@@ -1447,9 +1447,9 @@ consideración la propuesta que previamente haya aprobado el Pleno General.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Las faltas definitivas de Magistrados ocurridas durante el periodo para el cual hayan sido
 nombrados, se comunicarán de inmediato al Presidente de la República por el Presidente del Tribunal,
@@ -1471,9 +1471,9 @@ Superior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. El Tribunal contará con diez Magistrados Supernumerarios de Sala Regional, que
 cubrirán las faltas de los Magistrados de dichas Salas, en los casos previstos en esta Ley.
@@ -1482,9 +1482,9 @@ anterior, deberán desempeñar las tareas que les encomiende el Pleno General.</
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Para ser Secretario de Acuerdos se requiere:
 I. Ser mexicano;
@@ -1506,9 +1506,9 @@ derecho y de reconocida buena conducta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en los
 principios de honestidad, eficiencia, capacidad y experiencia, el cual comprenderá a los servidores
@@ -1517,21 +1517,14 @@ El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de d
 públicos, de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas, y
 de acuerdo con los procedimientos y criterios establecidos en el Estatuto correspondiente.
 Con base en lo previsto en este artículo, el Tribunal establecerá y regulará, mediante disposiciones
-generales, el sistema de carrera de los servidores públicos previstos en las fracciones XI y XIII del</p>
+generales, el sistema de carrera de los servidores públicos previstos en las fracciones XI y XIII del
+artículo 42 de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
-              <content>
-                <p>artículo 42 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. El Presidente del Tribunal será electo por el Pleno General de la Sala Superior en la
 primera sesión del año siguiente a aquél en que concluya el periodo del Presidente en funciones. Durará
@@ -1541,9 +1534,9 @@ señalado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. En caso de falta temporal, el Presidente será suplido alternativamente, cada treinta días
 naturales, por los presidentes de la Primera y Segunda Secciones, siguiendo el orden alfabético de sus
@@ -1554,9 +1547,9 @@ Presidente en el periodo inmediato siguiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. Son atribuciones del Presidente del Tribunal, las siguientes:
 I. Representar al Tribunal, a la Sala Superior, al Pleno General y Jurisdiccional de la Sala
@@ -1642,9 +1635,9 @@ XXVI. Las demás que establezcan las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. Compete a los presidentes de las Secciones:
 I. Atender la correspondencia de la Sección, autorizándola con su firma;
@@ -1667,9 +1660,9 @@ X. Las demás que establezcan las disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Corresponde al Secretario General de Acuerdos del Tribunal:
 29 de 40
@@ -1699,9 +1692,9 @@ IX. Las demás que le correspondan conforme a las disposiciones jurídicas aplic
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. Corresponde a los Secretarios Adjuntos de Acuerdos de las Secciones:
 I. Acordar con el Presidente de la Sección, lo relativo a las sesiones de la misma;
@@ -1729,9 +1722,9 @@ VIII. Las demás que les encomiende el Presidente de la Sección.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Corresponde a los Secretarios de Acuerdos de la Sala Superior:
 I. Auxiliar al Magistrado al que estén adscritos en la formulación de los proyectos de
@@ -1749,9 +1742,9 @@ VI. Desempeñar las demás atribuciones que las disposiciones aplicables les con
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Corresponde a los Secretarios de Acuerdos de Sala Regional:
 I. Proyectar los autos y las resoluciones que les indique el Magistrado instructor;
@@ -1784,9 +1777,9 @@ X. Las demás que señalen las disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. Corresponde a los Actuarios:
 I. Notificar, en el tiempo y forma prescritos por la ley, las resoluciones recaídas en los
@@ -1796,9 +1789,9 @@ III. Las demás que señalen las leyes o el Reglamento Interior del Tribunal.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Corresponde al Secretario de la Junta de Gobierno y Administración:
 I. Preparar los proyectos y resoluciones que deban ser sometidos a la aprobación de la
@@ -1815,9 +1808,9 @@ Tribunal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El Tribunal contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades
 a que se refiere la fracción III del artículo 109 de la Constitución Política de los Estados Unidos
@@ -1825,9 +1818,9 @@ Mexicanos y la Ley General de Responsabilidades Administrativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. El Tribunal contará con un registro de peritos, que lo auxiliarán con el carácter de peritos
 terceros, como profesionales independientes, los cuales deberán tener título debidamente registrado en
@@ -1839,9 +1832,9 @@ honorarios de los peritos, se estará a los lineamientos que señale el Reglamen
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. El Tribunal contará con un Centro de Estudios Superiores en materia de Derecho Fiscal y
 Administrativo. Al frente del mismo habrá un Director General el cual será nombrado por el Pleno
@@ -1859,9 +1852,9 @@ autoridades competentes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. El personal del Tribunal tendrá cada año dos periodos de vacaciones que coincidirán con
 los del Poder Judicial de la Federación.
@@ -1887,9 +1880,9 @@ en el periodo inmediato siguiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Los Magistrados, Secretarios, Actuarios y Oficiales Jurisdiccionales estarán impedidos
 para desempeñar cualquier otro empleo, cargo o comisión público o privado, excepto los de carácter
@@ -1898,9 +1891,9 @@ También estarán impedidos para ejercer su profesión bajo cualquier causa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. Corresponde al Titular del Órgano Interno de Control:
 I. Resolver sobre las responsabilidades de los servidores públicos establecidos en las
@@ -1927,9 +1920,9 @@ correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. La jurisprudencia y precedentes que deban establecer la Sala Superior actuando en
 Pleno o Secciones y los criterios aislados que pronuncien las Salas Regionales, en los asuntos de sus
@@ -1938,9 +1931,9 @@ Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. La coordinación de compilación y sistematización de tesis, será el órgano competente
 para compilar y sistematizar los criterios aislados precedentes y jurisprudencias emitidas por los órganos
@@ -1951,20 +1944,41 @@ jurisprudencias que hubieren emitido los órganos colegiados del Tribunal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. En términos de la fracción XXXV del artículo 23 de esta Ley, la Junta de Gobierno y
 Administración, vigilará que las publicaciones de la Revista se realicen con oportunidad.
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación, sin perjuicio de lo previsto en los transitorios siguientes.
-Segundo. Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación, sin perjuicio de lo previsto en los transitorios siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Dentro del año siguiente a la entrada en vigor del presente Decreto, el Congreso de la
 Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias,
 deberán expedir las leyes y realizar las adecuaciones normativas correspondientes de conformidad con lo
-previsto en el presente Decreto.
-Tercero. La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la
+previsto en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. La Ley General de Responsabilidades Administrativas entrará en vigor al año siguiente de la
 entrada en vigor del presente Decreto.
 En tanto entra en vigor la Ley a que se refiere el presente Transitorio, continuará aplicándose la
 legislación en materia de Responsabilidades Administrativas, en el ámbito federal y de las entidades
@@ -1994,8 +2008,15 @@ Con la entrada en vigor de la Ley General de Responsabilidades Administrativas q
 la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal
 Anticorrupción en Contrataciones Públicas, y se derogarán los Títulos Primero, Tercero y Cuarto de la
 Ley Federal de Responsabilidades de los Servidores Públicos, así como todas aquellas disposiciones
-que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.
-Cuarto. La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la
+que se opongan a lo previsto en la Ley General de Responsabilidades Administrativas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. La Ley General del Sistema Nacional Anticorrupción, entrará en vigor al día siguiente de la
 publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los
 párrafos siguientes.
 Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, la Cámara de
@@ -2021,8 +2042,15 @@ de las disposiciones aplicables.
 LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 16-10-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día
 siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio
 anterior y en los párrafos siguientes.
 A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley
@@ -2058,15 +2086,8 @@ fracción VII del artículo 16 de la Ley Orgánica del Tribunal Federal de Justi
 A partir de la entrada en vigor de la Ley General de Responsabilidades Administrativas, el Tribunal
 contará con cinco Salas Especializadas en materia de Responsabilidades Administrativas, de
 conformidad con lo previsto en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia
-Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
-              <content>
-                <p>artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del
+Administrativa y hasta en tanto, al menos, el Pleno ejercita la facultad a que se refiere a la fracción XI del
+artículo 16 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa que se expide por virtud del
 presente Decreto.
 Para efectos del artículo 52 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, el
 Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, no podrá ser nombrado Presidente del
@@ -2100,13 +2121,34 @@ Artículo Tercero. Se adiciona un segundo párrafo y se recorren los subsecuente
 párrafos tercero y cuarto al artículo 3 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa,
 para quedar como sigue:
 ……..
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- El Congreso General de los Estados Unidos Mexicanos, contará con un plazo máximo de
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- El Congreso General de los Estados Unidos Mexicanos, contará con un plazo máximo de
 180 días naturales para la expedición de las adecuaciones normativas correspondientes al cumplimiento
-del presente Decreto.
-Tercero.- El Tribunal Federal de Justicia Administrativa, contará con un plazo máximo de 180 días
+del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- El Tribunal Federal de Justicia Administrativa, contará con un plazo máximo de 180 días
 naturales, para la expedición de las disposiciones aplicables para el cumplimiento del presente Decreto.
 Ciudad de México, a 13 de diciembre de 2023.- Sen. Ana Lilia Rivera Rivera, Presidenta.- Dip.
 Marcela Guerra Castillo, Presidenta.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Olga Luz
@@ -2128,17 +2170,45 @@ Publicado en el Diario Oficial de la Federación el 16 de octubre de 2025
 Artículo Tercero.- Se reforma la fracción II del artículo 3 de la Ley Orgánica del Tribunal Federal de
 Justicia Administrativa, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
-Tercero. Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Al tratarse de una ley procesal, las etapas procesales concluidas que generen derechos
 adquiridos a las partes se regirán por las disposiciones legales vigentes al inicio de los procesos
 respectivos. Por lo que hace a las actuaciones procesales posteriores a la entrada en vigor del presente
 Decreto, de conformidad con la doctrina y la jurisprudencia de la Suprema Corte de Justicia de la Nación,
 se regirán por las disposiciones de este Decreto, sin que implique aplicación retroactiva ni afectación a
-derechos adquiridos, pues se trata de actuaciones futuras.
-Cuarto. El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir
+derechos adquiridos, pues se trata de actuaciones futuras.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. El Órgano de Administración Judicial contará con trescientos sesenta días naturales a partir
 de su entrada en funciones para realizar las adecuaciones al Sistema Electrónico del Poder Judicial de la
 Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y
 30 de la Ley de Amparo.
@@ -2147,8 +2217,15 @@ Diario Oficial de la Federación y en su propio portal, el aviso de inicio de re
 para autoridades.
 Todas las autoridades de la Federación, entidades federativas, municipios y alcaldías, tendrán un
 plazo de ciento ochenta días naturales a partir de la publicación del Aviso al que se refiere el párrafo
-anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.
-Quinto. El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la
+anterior, para dar cumplimiento a este Decreto y crear sus perfiles en el Sistema.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. El Órgano de Administración Judicial contará con ciento ochenta días naturales a partir de la
 entrada en vigor de este Decreto, para emitir un Acuerdo General que regule la correcta integración tanto
 del expediente electrónico como físico en el juicio de amparo, procurando en todo momento privilegiar el
 uso de la tecnología y eficientizar el uso de recursos materiales dentro del Poder Judicial de la

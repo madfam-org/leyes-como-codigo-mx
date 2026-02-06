@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1999-01-06/limj/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1999-01-06/limj/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -37,9 +37,9 @@
       </chapter>
       <chapter id="chapter-4">
         <num>Capítulo IV Del Régimen Laboral y Seguridad Social</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. Se crea el Instituto Mexicano de la Juventud como un organismo público descentralizado
 de la Administración Pública Federal, con personalidad jurídica, patrimonio propio, autonomía técnica,
@@ -50,16 +50,16 @@ Juventud.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo reformado DOF 23-03-2022</p>
           </note>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Artículo reformado DOF 02-04-2015</p>
           </note>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. Por su importancia estratégica para el desarrollo del país, la población cuya edad quede
 comprendida entre los 12 y 29 años, será objeto de las políticas, programas, servicios y acciones que el
@@ -68,13 +68,13 @@ condiciones de salud, religión, opiniones, preferencias, estado civil o cualqui
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Artículo reformado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. El Instituto tendrá por objeto:
 I. Promover y fomentar las condiciones que aseguren a la juventud un desarrollo pleno e integral, en
@@ -113,10 +113,10 @@ Fracción recorrida DOF 05-08-2011
 , 22-06-2006</p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Fracción adicionada DOF 05-08-2011</p>
           </note>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Artículo reformado DOF 20-03-2006</p>
           </note>
         </article>
@@ -167,9 +167,9 @@ sociedad, en la que los jóvenes representan el elemento más importante de enla
             <p>Artículo adicionado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. Para el cumplimiento de su objeto el Instituto tendrá las siguientes atribuciones:
 I. Elaborar el Programa Nacional de Juventud que tendrá por objeto orientar la política nacional en
@@ -249,19 +249,19 @@ Fracción recorrida DOF 05-08-2011
 , 22-06-2006</p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción adicionada DOF 05-08-2011</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción adicionada DOF 05-08-2011</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción adicionada DOF 05-08-2011</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Fracción adicionada DOF 05-08-2011</p>
           </note>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Artículo reformado DOF 20-03-2006</p>
           </note>
         </article>
@@ -288,9 +288,9 @@ Secretaría de Servicios Parlamentarios
             <p>Artículo adicionado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. El patrimonio del Instituto se integrará con:
 I. Los recursos que se le asignen en el Presupuesto de Egresos de la Federación;
@@ -302,13 +302,13 @@ su objeto conforme lo establece la ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. La canalización de fondos por parte del Instituto para proyectos, estudios, programas e
 investigaciones relacionadas con su objeto, estará sujeta a la celebración de un contrato o convenio, que
@@ -316,9 +316,9 @@ asegure su debido cumplimiento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. El Instituto contará con los siguientes órganos de administración:
 I. Junta Directiva;
@@ -327,9 +327,9 @@ III. Las estructuras administrativas que se establezcan en el Estatuto Orgánico
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. La Junta Directiva se integrará por diecisiete miembros, de los cuales serán:
 I. Diez Miembros Propietarios:
@@ -372,31 +372,31 @@ La Junta Directiva contará con un Secretario y un Prosecretario.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Inciso reformado DOF 02-04-2015</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Inciso reformado DOF 09-04-2012</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Inciso reformado DOF 02-04-2015</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Párrafo reformado DOF 02-04-2015</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Párrafo reformado DOF 02-04-2015</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Párrafo reformado DOF 05-08-2011</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Artículo reformado DOF 22-06-2006</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. La Junta Directiva tendrá las siguientes facultades indelegables:
 I. Establecer, en congruencia con los programas sectoriales, las políticas generales y prioridades a
@@ -455,13 +455,13 @@ de Entidades Paraestatales y otras disposiciones legales aplicables.
 Fracción recorrida DOF 05-08-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. La Junta Directiva celebrará sesiones ordinarias, por lo menos cuatro veces por año, y las
 extraordinarias que convoque su Presidente.
@@ -478,9 +478,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. El Director General del Instituto será nombrado y removido por el titular del Ejecutivo
 Federal. El nombramiento deberá recaer en persona que reúna los requisitos establecidos en el artículo
@@ -488,19 +488,12 @@ Federal. El nombramiento deberá recaer en persona que reúna los requisitos est
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
-              <p>Artículo 12. El Director General del Instituto, además de las facultades y atribuciones que le confiere el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
-            <content>
-              <p>artículo 22 de la Ley Federal de Entidades Paraestatales, tendrá las siguientes:
+              <p>Artículo 12. El Director General del Instituto, además de las facultades y atribuciones que le confiere el
+artículo 22 de la Ley Federal de Entidades Paraestatales, tendrá las siguientes:
 I. Administrar y representar legalmente al Instituto;
 II. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta Directiva;
 III. Presentar a consideración y, en su caso, aprobación de la Junta Directiva el Estatuto Orgánico del
@@ -526,19 +519,19 @@ XI. Las que le confieran las demás disposiciones jurídicas aplicables.
 Fracción recorrida DOF 14-05-2013</p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 14-05-2013</p>
           </note>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción adicionada DOF 14-05-2013</p>
           </note>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción adicionada DOF 14-05-2013</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. El Instituto contará con un Órgano Interno de Control que formará parte de su estructura.
 El titular de dicho órgano, así como los responsables de las áreas de auditoría, quejas y
@@ -558,16 +551,16 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Párrafo reformado DOF 09-04-2012</p>
           </note>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. El Órgano de Vigilancia del Instituto estará integrado por un Comisario Público propietario
 y un suplente, quienes serán designados por la Secretaría de la Función Pública, quienes ejercerán las
@@ -575,13 +568,13 @@ facultades que les confiere el Capítulo VI de la Ley Federal de las Entidades P
 , 09-04-2012</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo reformado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud es un
 órgano que tendrá por objeto conocer el cumplimiento dado a los programas dirigidos a los jóvenes tanto
@@ -591,7 +584,7 @@ opiniones al Director General del Instituto, formulando, en su caso, las propues
 , 05-08-2011</p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Artículo reformado DOF 22-06-2006</p>
           </note>
         </article>
@@ -620,9 +613,9 @@ convocatoria pública correspondiente aprobada por la Junta Directiva.
             <p>Artículo adicionado DOF 05-08-2011</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. Las relaciones de trabajo entre el Instituto y sus trabajadores, se regirán por la Ley
 Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del Artículo 123
@@ -630,16 +623,30 @@ Constitucional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. Los trabajadores del Instituto quedan incorporados al régimen de la Ley del Instituto de
 Seguridad y Servicios Sociales de los Trabajadores del Estado.
-TRANSITORIOS
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO. La Secretaría de Educación Pública, de los recursos financieros asignados a la Dirección
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. La Secretaría de Educación Pública, de los recursos financieros asignados a la Dirección
 General Causa Joven de la Comisión Nacional del Deporte, transferirá los necesarios para el inicio de
 actividades del Instituto. Asimismo, transferirá los recursos materiales que se encuentran asignados a
 dicha Dirección.
@@ -647,11 +654,25 @@ dicha Dirección.
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-TERCERO. La Junta Directiva del Instituto deberá quedar constituida en un plazo no mayor al de
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. La Junta Directiva del Instituto deberá quedar constituida en un plazo no mayor al de
 treinta días a partir de la vigencia de este decreto, mismo plazo en el que se deberá designar al Director
-General del propio Instituto.
-CUARTO. El primer Consejo de Seguimiento de Proyectos y Programas deberá quedar integrado en
+General del propio Instituto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. El primer Consejo de Seguimiento de Proyectos y Programas deberá quedar integrado en
 un plazo de noventa días a partir del nombramiento del Director General del Instituto Mexicano de la
 Juventud.
 Durará en su encargo hasta el 31 de diciembre de 1999, fecha en la que se renovará la mitad de sus
@@ -732,16 +753,44 @@ fracción I recorriéndose en su orden las demás fracciones; 3 Bis; 4, con las 
 recorriéndose en su orden las demás fracciones; 4 Bis; 9, con una fracción II, recorriéndose en su orden
 las demás fracciones y 15 Bis a la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Las nuevas atribuciones que en virtud de este Decreto se otorgan al Instituto Mexicano de
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Las nuevas atribuciones que en virtud de este Decreto se otorgan al Instituto Mexicano de
 la Juventud serán atendidas con los recursos humanos, financieros y materiales con los que hasta la
-entrada en vigor del presente Decreto cuenta dicho Instituto.
-Tercero. El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá
+entrada en vigor del presente Decreto cuenta dicho Instituto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá
 quedar constituido en un plazo no mayor a noventa días a partir de la entrada en vigor del presente
-Decreto.
-Cuarto. Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se
 harán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el
 Registro Público de organismos descentralizados.
 México, D.F., a 29 de abril de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio
@@ -766,10 +815,24 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO VIGÉSIMO OCTAVO. Se reforman los artículos 8, fracción I, inciso d); 13, primer párrafo;
 y 14 de la Ley del Instituto Mexicano de la Juventud, para quedar como sigue:
 ………
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones
 que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio

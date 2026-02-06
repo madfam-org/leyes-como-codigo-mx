@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1974-12-30/195/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1974-12-30/195/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -177,9 +177,9 @@ Administrativas que se establezcan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- El Rector de la Universidad será el representante legal de la institución, durará en su
 cargo cuatro años y no podrá ser reelecto más de una sola vez.
@@ -193,13 +193,13 @@ Universidad Autónoma Chapingo.
 IV.- Ser persona honorable y de reconocido prestigio y competencia profesional.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Fracción reformada DOF 30-12-1977</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- Serán facultades y obligaciones del Rector:
 I.- Cumplir y hacer cumplir las disposiciones de esta ley y las reglamentarias de la Universidad.
@@ -210,9 +210,9 @@ IV.- Las demás que le señale este ordenamiento y sus disposiciones reglamentar
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- El patrimonio de la Universidad estará constituido por:
 I.- Los bienes que asigne el Gobierno Federal y que se encuentren al servicio de la Escuela Nacional
@@ -228,13 +228,13 @@ III.- Los ingresos que obtenga por los servicios que preste, y
 IV.- Los bienes, derechos y demás ingresos que adquiera por cualquier título legal.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 30-12-1977</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13.- Los ingresos de la Universidad y los bienes de su propiedad no estarán sujetos a
 impuestos ni derechos federales. Tampoco estarán gravados los actos o contratos en que ella intervenga,
@@ -242,9 +242,9 @@ si los impuestos, conforme a la ley respectiva debiesen estar a cargo de esta In
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- Las relaciones de trabajo entre la Universidad Autónoma Chapingo y sus
 trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del
@@ -252,9 +252,9 @@ Apartado B) del Artículo 123 Constitucional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- Serán considerados empleados de confianza: el Rector, los Vicerrectores, los
 Directores de División, los Jefes de Departamento, los Jefes de Centro Regional y demás personal que
@@ -263,16 +263,30 @@ Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTICULO 16.- El Personal de la Universidad Autónoma Chapingo quedará incorporado al régimen
 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-TRANSITORIOS:
-PRIMERO.- Esta Ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario
-Oficial" de la Federación.
-SEGUNDO.- Al entrar en vigor la presente Ley, la Escuela Nacional de Agricultura designará una
+TRANSITORIOS:</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- Esta Ley entrará en vigor a los quince días de la fecha de su publicación en el "Diario
+Oficial" de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Al entrar en vigor la presente Ley, la Escuela Nacional de Agricultura designará una
 comisión de once profesores y once alumnos, que se encargará de elaborar en un plazo no mayor de 30
 días, las normas reglamentarias para el establecimiento de las estructuras que permitan el pleno
 funcionamiento de la Universidad, los mecanismos de elección de Rector y demás funcionarios, así como
@@ -286,8 +300,18 @@ no mayor de tres años, con base en las necesidades que se presenten y los recur
 disponga, determinará la convivencia de reubicar el Colegio de Postgraduados; entretanto, éste
 continuará en posición y goce de las instalaciones, equipos y demás bienes muebles e inmuebles de que
 ha venido haciendo uso en el desarrollo de sus funciones.
-
-TERCERO.- El Consejo Directivo de la Escuela Nacional de Agricultura cesará en sus funciones, una
+</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-2" placement="bottom">
+            <p>Artículo reformado DOF 30-12-1977</p>
+          </note>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- El Consejo Directivo de la Escuela Nacional de Agricultura cesará en sus funciones, una
 vez que las autoridades universitarias elegidas conforme a las normas reglamentarias aplicables tomen
 posesión de sus cargos.
 
@@ -295,12 +319,32 @@ posesión de sus cargos.
 LEY QUE CREA LA UNIVERSIDAD AUTÓNOMA CHAPINGO
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 30-12-1977
 Secretaría General
-Secretaría de Servicios Parlamentarios
-CUARTO.- La Universidad reconocerá los derechos adquiridos por el personal que ha prestado sus
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-3" placement="bottom">
+            <p>Artículo reformado DOF 30-12-1977</p>
+          </note>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- La Universidad reconocerá los derechos adquiridos por el personal que ha prestado sus
 servicios a la Escuela Nacional de Agricultura conforme a la Ley de los Trabajadores al Servicio del
 Estado Reglamentaria del Apartado "B" del Artículo 123 Constitucional.
-
-QUINTO.- Se abroga la Ley de Educación Agrícola de 1946 y se derogan todas las disposiciones que
+</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-4" placement="bottom">
+            <p>Artículo reformado DOF 30-12-1977</p>
+          </note>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- Se abroga la Ley de Educación Agrícola de 1946 y se derogan todas las disposiciones que
 se opongan a la presente Ley.
 México, D. F., a 21 de diciembre de 1974.- Víctor Cervera Pacheco, D. P.- Francisco Luna Kan, S.
 P.- José Octavio Ferrer Guzmán, D. S.- Carlos Pérez Cámara, S. S.- Rúbricas"
@@ -341,15 +385,6 @@ Rúbrica.
 6 de 6</p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
-            <p>Artículo reformado DOF 30-12-1977</p>
-          </note>
-          <note placementBase="#art-16" placement="bottom">
-            <p>Artículo reformado DOF 30-12-1977</p>
-          </note>
-          <note placementBase="#art-16" placement="bottom">
-            <p>Artículo reformado DOF 30-12-1977</p>
-          </note>
         </article>
       </chapter>
     </body>

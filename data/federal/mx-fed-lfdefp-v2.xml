@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1998-05-28/lfdefp/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1998-05-28/lfdefp/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -66,9 +66,9 @@
         </chapter>
         <chapter id="chapter-12">
           <num>Capítulo VI, del Título Segundo, y 36, párrafo primero y fracción I; se adiciona el artículo 36 Bis, y se derogan las fracciones II, IV y VI del artículo 29 y la fracción IV, del artículo 36 de la Ley Federal de</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley tiene por objeto regular la prestación del servicio de defensoría pública en
 asuntos del fuero federal, a fin de garantizar el derecho a la defensa en materia penal, laboral, así como
@@ -78,22 +78,22 @@ misma establece.
 , 07-06-2021</p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Artículo reformado DOF 01-05-2019</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. El servicio de defensoría pública será gratuito. Se prestará bajo los principios de probidad,
 honradez y profesionalismo y de manera obligatoria, en los términos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. Para la prestación de los servicios de defensoría pública, se crea el Instituto Federal de
 Defensoría Pública, como órgano del Poder Judicial de la Federación. En el desempeño de sus funciones
@@ -101,9 +101,9 @@ gozará de independencia técnica y operativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Los servicios de defensoría pública se prestarán a través de:
 1 de 39
@@ -119,13 +119,13 @@ II. Asesores jurídicos, en asuntos de orden no penal, salvo los expresamente ot
 otras instituciones.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Fracción reformada DOF 27-12-2012</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Para ingresar y permanecer como defensor público o asesor jurídico se requiere:
 I. Ser ciudadano mexicano en ejercicio de sus derechos políticos y civiles;
@@ -144,19 +144,19 @@ servicio civil de carrera.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 17-06-2016</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción reformada DOF 17-06-2016</p>
             </note>
-            <note placementBase="#art-5" placement="bottom">
+            <note placementBase="#art-5." placement="bottom">
               <p>Fracción adicionada DOF 17-06-2016</p>
             </note>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. Los defensores públicos y asesores jurídicos están obligados a:
 I. Prestar personalmente el servicio de orientación, asesoría y representación a las personas que lo
@@ -184,13 +184,13 @@ VII. Las demás que se deriven de la naturaleza de sus funciones y de las dispos
 aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-6" placement="bottom">
+            <note placementBase="#art-6." placement="bottom">
               <p>Fracción reformada DOF 17-06-2016</p>
             </note>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. A los defensores públicos y asesores jurídicos les está prohibido:
 I. Desempeñar otro empleo, cargo o comisión en alguno de los tres órdenes de gobierno, salvo el
@@ -205,9 +205,9 @@ cualquier otra actividad cuando ésta sea incompatible con sus funciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. El servicio civil de carrera para las y los defensores públicos y las y los asesores jurídicos,
 comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones,
@@ -216,22 +216,22 @@ generales que dicte el Consejo de la Judicatura Federal y por la normatividad ap
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Artículo reformado DOF 07-06-2021</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. El Director General, los defensores públicos, asesores jurídicos y el personal técnico del
 Instituto Federal de Defensoría Pública, serán considerados servidores públicos de confianza.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Los defensores públicos y defensores públicos para adolescentes serán asignados
 inmediatamente por el Instituto Federal de Defensoría Pública, sin más requisitos que la solicitud
@@ -240,13 +240,13 @@ sea el caso.
 , 17-06-2016</p>
               </content>
             </paragraph>
-            <note placementBase="#art-10" placement="bottom">
+            <note placementBase="#art-10." placement="bottom">
               <p>Artículo reformado DOF 27-12-2012</p>
             </note>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. El servicio de defensoría pública en materia penal y de adolescentes ante el Ministerio
 Público de la Federación comprende:
@@ -284,13 +284,13 @@ conocimiento de la autoridad investigadora distinta a la del caso de que se trat
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
+            <note placementBase="#art-11." placement="bottom">
               <p>Artículo reformado DOF 17-06-2016</p>
             </note>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. El servicio de defensoría pública en materia penal, ante los órganos jurisdiccionales
 federales comprende:
@@ -359,7 +359,7 @@ XXIII. En general, realizar todos los actos inherentes para una defensa adecuada
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Artículo reformado DOF 17-06-2016</p>
             </note>
           </article>
@@ -409,9 +409,9 @@ actos conducentes.
               <p>Artículo adicionado DOF 27-12-2012</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Las quejas que formulen los defensores públicos, los detenidos o internos de
 establecimientos de detención o reclusión por falta de atención médica; por tortura; por tratos crueles,
@@ -424,9 +424,9 @@ cometido, de conformidad con la legislación aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Para gozar de los beneficios de la asesoría jurídica, se llenará solicitud en los formatos
 que para tal efecto elabore el Instituto Federal de Defensoría Pública, y se deberán cumplir con los
@@ -438,9 +438,9 @@ se prestará a quien lo haya solicitado primero.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. Los servicios de asesoría jurídica se prestarán, preferentemente, a:
 I. Las personas que estén desempleadas y no perciban ingresos;
@@ -458,19 +458,19 @@ normatividad aplicable.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción reformada DOF 01-05-2019</p>
             </note>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción reformada DOF 01-05-2019</p>
             </note>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción adicionada DOF 01-05-2019</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. Para determinar si el solicitante de los servicios de asesoría jurídica reúne los requisitos
 establecidos para que se le otorgue el servicio, se requerirá un estudio social y económico, elaborado por
@@ -481,9 +481,9 @@ socioeconómico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. Se retirará el servicio de asesoría jurídica cuando:
 I. El usuario manifieste de modo claro y expreso que no tiene interés en que se le siga prestando el
@@ -500,9 +500,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. En caso de retiro, el asesor jurídico correspondiente deberá rendir un informe
 pormenorizado al Director General del Instituto Federal de Defensoría Pública, en el que se acredite la
@@ -517,9 +517,9 @@ deje de actuar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Los asesores jurídicos realizarán sus funciones de acuerdo a las bases generales de
 organización y funcionamiento del Instituto Federal de Defensoría Pública y en función de la naturaleza de
@@ -527,9 +527,9 @@ cada uno de los asuntos para los cuales se prestará la asesoría jurídica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. Cuando las necesidades del servicio lo requieran y para la eficaz atención de los asuntos
 de su competencia, el Instituto Federal de Defensoría Pública podrá contratar los servicios de personas e
@@ -568,9 +568,9 @@ de defensores públicos como de asesores jurídicos bilingües indígenas.
               <p>Artículo adicionado DOF 24-12-2013</p>
             </note>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. Para promover la participación de estudiantes de la Licenciatura de Derecho, en las
 universidades públicas y privadas en los servicios de defensoría pública, el Instituto Federal de Defensoría
@@ -585,18 +585,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Los servicios que se realicen por prestadores de servicio social en todo momento estarán
 supervisados por un defensor público o asesor jurídico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. El Instituto Federal de Defensoría Pública contará con una Junta Directiva, una Dirección
 General y las unidades administrativas y personal técnico que para el adecuado desempeño de sus
@@ -604,13 +604,13 @@ funciones se determinen en el presupuesto.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Artículo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. El Instituto Federal de Defensoría Pública designará por cada Unidad Investigadora del
 Ministerio Público de la Federación, Tribunal de Circuito y por cada Juzgado Federal que conozca de
@@ -618,9 +618,9 @@ materia penal, cuando menos a un defensor público y al personal de auxilio nece
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Las unidades investigadoras del Ministerio Público de la Federación, los Juzgados y
 Tribunales del Poder Judicial Federal deberán proporcionar en sus locales, ubicación física apropiada y
@@ -628,9 +628,9 @@ suficiente para la actuación de los defensores públicos y asesores jurídicos.
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Para el adecuado cumplimiento de sus funciones, el Instituto Federal de Defensoría
 Pública promoverá la celebración de convenios de coordinación con todos aquéllos que puedan
@@ -638,9 +638,9 @@ coadyuvar en la consecución de los fines de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Junta Directiva estará integrada por la persona titular de la Dirección General del
 Instituto Federal de Defensoría Pública, quien la presidirá y por seis personas profesionales del Derecho
@@ -651,13 +651,13 @@ indelegable. Durarán en su cargo tres años y podrán reelegirse por una sola o
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Artículo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La Junta Directiva sesionará con un mínimo de cuatro integrantes y tomará sus
 decisiones por mayoría de votos de las personas integrantes que se encuentren presentes. En caso de
@@ -668,13 +668,13 @@ menos tres integrantes de la Junta Directiva, cuando se estime que hay razones d
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Artículo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. La Junta Directiva tendrá las facultades siguientes:
 I. Fijar la política y las acciones relacionadas con la defensoría pública, considerando las opiniones
@@ -709,25 +709,25 @@ XI. Examinar y aprobar los informes periódicos que someta a su consideración e
 XII. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción derogada DOF 07-06-2021</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 17-06-2016</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción derogada DOF 07-06-2021</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción derogada DOF 07-06-2021</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Fracción reformada DOF 07-06-2021</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La persona titular de la Dirección General del Instituto Federal de Defensoría Pública será
 nombrada por el Consejo de la Judicatura Federal, a propuesta de su Presidencia, y durará tres años en
@@ -735,13 +735,13 @@ su cargo, pudiendo ser reelecta.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. La persona titular de la Dirección General del Instituto deberá reunir para su designación,
 los requisitos siguientes:
@@ -771,25 +771,25 @@ desempeñado el cargo en la defensoría pública o similar.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Párrafo reformado DOF 11-05-2022</p>
             </note>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Fracción reformada DOF 11-05-2022</p>
             </note>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Fracción reformada DOF 11-05-2022</p>
             </note>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Fracción reformada DOF 11-05-2022</p>
             </note>
-            <note placementBase="#art-31" placement="bottom">
+            <note placementBase="#art-31." placement="bottom">
               <p>Párrafo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. La persona titular de la Dirección General del Instituto Federal de Defensoría Pública
 tendrá las atribuciones siguientes:
@@ -848,19 +848,19 @@ XIII. Las demás que sean necesarias para cumplir con el objeto de esta Ley.
 Fracción recorrida DOF 17-06-2016</p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo reformado DOF 17-06-2016</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción reformada DOF 17-06-2016</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción adicionada DOF 17-06-2016</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Las personas titulares de las Unidades Administrativas deberán reunir para su
 designación, los siguientes requisitos:
@@ -876,19 +876,19 @@ persona, cualquiera que haya sido la pena.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Párrafo reformado DOF 11-05-2022</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 11-05-2022</p>
             </note>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un
 inculpado cuando exista alguna de las causas de impedimento previstas en las fracciones I, II, IX, XIII,
@@ -896,9 +896,9 @@ XIV y XV del artículo 146 de la Ley Orgánica del Poder Judicial de la Federaci
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Los asesores jurídicos deberán excusarse de aceptar un asunto cuando:
 I. Tengan relaciones de parentesco, afecto o amistad con la parte contraria al solicitante del
@@ -910,9 +910,9 @@ cerciorarse que es justificada lo expondrá al solicitante designando a otro def
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Para el mejor desempeño del personal del Instituto Federal de Defensoría Pública, la
 Escuela Federal de Formación Judicial elaborará un Plan Anual de Capacitación, de acuerdo con los
@@ -929,13 +929,13 @@ IV. Se deroga.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Párrafo reformado DOF 07-06-2021</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción reformada DOF 07-06-2021</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Fracción derogada DOF 07-06-2021</p>
             </note>
           </article>
@@ -972,9 +972,9 @@ VIII. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplica
               <p>Artículo adicionado DOF 07-06-2021</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Además de las que se deriven de otras disposiciones legales, reglamentos o acuerdos
 generales expedidos por el Consejo de la Judicatura Federal, o de la Ley Orgánica del Poder Judicial de
@@ -1011,9 +1011,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. También serán causas de responsabilidad para cualquier servidor de los sistemas de
 procuración y administración de justicia federales, realizar conductas que atenten contra la autonomía e
@@ -1022,36 +1022,85 @@ implique subordinación indebida de estos servidores públicos respecto de algun
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. El procedimiento para determinar la responsabilidad del Director General y demás
 miembros del Instituto Federal de Defensoría Pública, así como las sanciones aplicables, será el previsto
 en el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y su conocimiento, será de la
 exclusiva competencia del Consejo de la Judicatura Federal.
 ARTÍCULO SEGUNDO.- ..........
-TRANSITORIOS
-PRIMERO. La Ley Federal de Defensoría Pública y las reformas a la Ley Orgánica del Poder Judicial
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. La Ley Federal de Defensoría Pública y las reformas a la Ley Orgánica del Poder Judicial
 de la Federación, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la
-Federación.
-SEGUNDO. Se abroga la Ley de la Defensoría de Oficio Federal, publicada en el Diario Oficial de la
-Federación el día 9 de febrero de 1922.
-TERCERO. Todos los recursos humanos y materiales adscritos a la Unidad de Defensoría del Fuero
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se abroga la Ley de la Defensoría de Oficio Federal, publicada en el Diario Oficial de la
+Federación el día 9 de febrero de 1922.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Todos los recursos humanos y materiales adscritos a la Unidad de Defensoría del Fuero
 Federal, pasarán al Instituto Federal de Defensoría Pública. Los derechos laborales del personal que
 preste sus servicios en la citada Unidad, serán respetados en todos sus términos. Los asuntos que estén
-a cargo de la Unidad de Defensoría pasarán al Instituto Federal de Defensoría Pública.
-CUARTO. El Consejo de la Judicatura Federal nombrará al Director General del Instituto Federal de
+a cargo de la Unidad de Defensoría pasarán al Instituto Federal de Defensoría Pública.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. El Consejo de la Judicatura Federal nombrará al Director General del Instituto Federal de
 Defensoría Pública, en un plazo de treinta días y en un plazo de sesenta días, a las personas que
 integrarán la Junta Directiva del propio Instituto; ambos plazos contados a partir de la entrada en vigor de
-la presente Ley.
-QUINTO. Dentro de los seis meses siguientes a la entrada en vigor de la Ley Federal de Defensoría
+la presente Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. Dentro de los seis meses siguientes a la entrada en vigor de la Ley Federal de Defensoría
 Pública, todos los miembros del Instituto Federal de Defensoría Pública deberán estar ejerciendo sus
-funciones y brindando los servicios previstos en esta Ley.
-SEXTO. Dentro de los seis meses siguientes a la entrada en vigor de esta Ley, la Junta Directiva del
+funciones y brindando los servicios previstos en esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. Dentro de los seis meses siguientes a la entrada en vigor de esta Ley, la Junta Directiva del
 Instituto Federal de Defensoría Pública deberá aprobar las Bases Generales de Organización y
-Funcionamiento del propio Instituto.
-SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+Funcionamiento del propio Instituto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 28 de abril de 1998.- Sen. Dionisio Pérez Jácome, Presidente.- Dip. Aurora Bazán
 López, Presidente.- Sen. José Luis Medina Aguiar, Secretario.- Dip. Francisco Antonio Ordaz
 Hernández, Secretario.- Rúbricas".
@@ -1074,33 +1123,78 @@ Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2012
 ARTÍCULO QUINTO. Se reforman los artículos 4, fracción I, y 10; y se adiciona un artículo 12 Bis a la
 Ley Federal de Defensoría Pública, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. El presente Decreto entrará en vigor una vez que haya entrado en vigor el Código Nacional
 de Procedimientos Penales en la Federación, en todas las Entidades Federativas y del Distrito Federal, en
 los términos previstos en la declaratoria a que hace referencia el Artículo Segundo Transitorio del Decreto
 por el que se expide el Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la
 Federación el 5 de marzo de 2014, sin que pueda exceder del 18 de junio de 2016.
-
-SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-1" placement="bottom">
+              <p>Artículo reformado DOF 24-12-2014</p>
+            </note>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores
 Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de
-Fuero Federal.
-TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las
+Fuero Federal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Dentro del plazo de entrada en vigor del presente Decreto, el Ejecutivo Federal y las
 autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así
 como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también
 la selección y capacitación inicial y permanente de los funcionarios que integrarán el personal del sistema,
 así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las
 diversas dependencias tengan firmados con organismos rectores especializados en la protección de los
-derechos de los adolescentes.
-CUARTO. Las instituciones encargadas de la formación de los agentes de las policías federales
+derechos de los adolescentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. Las instituciones encargadas de la formación de los agentes de las policías federales
 deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta
 Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en
 los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos
 en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás
-ordenamientos federales aplicables.
-QUINTO. Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de
+ordenamientos federales aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de
 conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo
-aquello que les beneficie.
-SEXTO. Las erogaciones que en su caso se generen para las instancias federales derivado de la
+aquello que les beneficie.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO. Las erogaciones que en su caso se generen para las instancias federales derivado de la
 entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la
 Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de
 Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las
@@ -1109,15 +1203,36 @@ disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes
 como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten
-necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
-OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley
+necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley
 dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal
 acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y
-sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
-NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 México, D.F., a 28 de noviembre de 2012.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. Jesús
 Murillo Karam, Presidente.- Sen. María Elena Barrera Tapia, Secretaria.- Dip. Javier Orozco Gómez,
 Secretario.- Rúbricas."
@@ -1188,9 +1303,6 @@ a Personas que Intervienen en el Procedimiento Penal; de la Ley General para Pre
 Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del</p>
               </content>
             </paragraph>
-            <note placementBase="#art-39" placement="bottom">
-              <p>Artículo reformado DOF 24-12-2014</p>
-            </note>
           </article>
           <article id="art-73">
             <num>Artículo 73</num>
@@ -1204,21 +1316,28 @@ Instituciones de Crédito.
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2016
 Artículo Octavo.- Se reforman los artículos 4, fracción I; 5, fracciones V y VI; 6, fracción IV; 10; 11,
 primer párrafo y fracciones I, II, III, IV, V, VI y VIII; 12; 12 Bis, fracciones VII y VIII; 29, fracción III; 32,
-fracción II. Se adicionan la fracción VII al artículo 5; fracción III y VIII, así como un último párrafo al</p>
+fracción II. Se adicionan la fracción VII al artículo 5; fracción III y VIII, así como un último párrafo al
+artículo 11 recorriéndose en su orden los subsecuentes; fracción III al artículo 32, recorriéndose en su
+orden los subsecuentes de la Ley Federal de Defensoría Pública, para quedar como sigue:
+………
+Transitorios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
               <content>
-                <p>artículo 11 recorriéndose en su orden los subsecuentes; fracción III al artículo 32, recorriéndose en su
-orden los subsecuentes de la Ley Federal de Defensoría Pública, para quedar como sigue:
-………
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación salvo lo previsto en el siguiente artículo.
-Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la
+                <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación salvo lo previsto en el siguiente artículo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Las reformas al Código Nacional de Procedimientos Penales, al Código Penal Federal, a la
 Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción
 XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 2, 13, 44 y
 49 de la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y los
@@ -1228,22 +1347,43 @@ expide el Código Nacional de Procedimientos Penales publicado en el Diario Ofic
 de marzo de 2014.
 Los procedimientos que se encuentren en trámite, relacionados con las modificaciones a los preceptos
 legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les
-dieron origen.
-Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y
+dieron origen.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Dentro de los 180 días naturales a la entrada en vigor del presente Decreto, la Federación y
 las entidades federativas en el ámbito de sus respectivas competencias, deberán contar con una
 Autoridad de Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
 Asimismo, dentro de los 30 días siguientes a la fecha de creación de las autoridades de medidas
 cautelares y de la suspensión condicional del proceso de la Federación y de las entidades federativas, se
-deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.
-Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una
+deberán emitir los acuerdos y lineamientos que regulen su organización y funcionamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Las disposiciones del presente Decreto relativas a la ejecución penal, entrarán en vigor una
 vez que entre en vigor la legislación en la materia prevista en el artículo 73, fracción XXI, inciso c) de la
 Constitución Política de los Estados Unidos Mexicanos.
 20 de 39
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Tratándose de aquellas medidas privativas de la libertad personal o de prisión preventiva que
 hubieren sido decretadas por mandamiento de autoridad judicial durante los procedimientos iniciados con
 base en la legislación procesal penal vigente con anterioridad a la entrada en vigor del sistema de justicia
 penal acusatorio adversarial, el inculpado o imputado podrá solicitar al órgano jurisdiccional competente la
@@ -1254,8 +1394,15 @@ jurisdiccional, tomando en consideración la evaluación del riesgo, resuelva so
 sustitución, modificación o cese, en términos de las reglas de prisión preventiva del artículo 19 de la
 Constitución Política de los Estados Unidos Mexicanos, así como del Código Nacional de Procedimientos
 Penales. En caso de sustituir la medida cautelar, aplicará en lo conducente la vigilancia de la misma en
-términos de los artículos 176 a 182 del citado Código.
-Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de
+términos de los artículos 176 a 182 del citado Código.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- La Procuraduría General de la República propondrá al seno del Consejo Nacional de
 Seguridad Pública la consecución de los acuerdos que estime necesarios entre las autoridades de las
 entidades federativas y la federación en el marco de la Ley Federal para la Protección a Personas que
 Intervienen en el Procedimiento Penal.
@@ -1280,13 +1427,34 @@ Publicado en el Diario Oficial de la Federación el 1 de mayo de 2019
 ARTÍCULO TERCERO. Se REFORMA el artículo 1; y se ADICIONA una fracción VII al artículo 15 de
 la Ley Federal de Defensoría Pública, para quedar como sigue:
 ……..
-TRANSITORIOS
-Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario
-Oficial de la Federación.
-Segundo. Plazo para expedir Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Plazo para expedir Ley Orgánica del Centro Federal. Dentro de los ciento ochenta días
 siguientes a que entre en vigor el presente Decreto, el Congreso de la Unión expedirá la Ley Orgánica del
-Centro Federal de Conciliación y Registro Laboral.
-Tercero. Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación
+Centro Federal de Conciliación y Registro Laboral.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación
 y Registro Laboral iniciará sus funciones en materia de registro de asociaciones sindicales y contratos
 colectivos de trabajo en un plazo no mayor de dos años a partir de la entrada en vigor del presente
 Decreto, atendiendo a las posibilidades presupuestales.
@@ -1296,8 +1464,15 @@ Federativas, iniciará operaciones el Centro Federal de Conciliación y Registro
 Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales,
 las Juntas de Conciliación y Arbitraje, al igual que la Secretaría del Trabajo y Previsión Social continuarán
 con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de la entrada en
-vigor del presente Decreto.
-Cuarto. Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro
+vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Traslado de Expedientes de Registro. Para efectos del traslado de expedientes de registro
 de asociaciones sindicales, contratos colectivos de trabajo, reglamentos interiores de trabajo y
 procedimientos administrativos relacionados, las Juntas de Conciliación y Arbitraje, la Secretaría del
 Trabajo y Previsión Social y los Poderes Ejecutivos de las Entidades Federativas deberán remitir al Centro
@@ -1317,31 +1492,62 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
 registros se realice bajo condiciones que brinden seguridad, certeza, exactitud, transparencia, publicidad y
-confiabilidad al procedimiento de entrega-recepción.
-Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales.
+confiabilidad al procedimiento de entrega-recepción.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Plazo de inicio de funciones de la Autoridad Conciliadora Local y Tribunales Locales.
 Los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas
 iniciarán actividades a más tardar el 3 de octubre de 2022, en términos de lo que establezca su propia
 normatividad y posibilidades presupuestales, conforme a lo que determinen sus poderes locales. Los
 Centros de Conciliación locales deberán entrar en operación en cada entidad federativa, en la misma
 fecha en que lo hagan los Tribunales Locales, conforme a las disposiciones previstas en el presente
 Decreto.
-
-Sexto. Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales
+</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-5" placement="bottom">
+              <p>Artículo reformado DOF 18-05-2022</p>
+            </note>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Plazo para el inicio de funciones de la Autoridad Conciliadora Federal y Tribunales
 Federales. Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este Decreto, cada
 delegación u oficina regional del Centro Federal de Conciliación y Registro Laboral iniciará la tramitación
 de solicitudes de conciliación que sean de su competencia al mismo tiempo que los Tribunales del Poder
 Judicial de la Federación inicien su operación en el circuito judicial al que correspondan. Cada circuito
 judicial iniciará sus funciones en el orden y secuencia en que se determine en las declaratorias que emita
 el Senado de la República, a propuesta del Consejo de la Judicatura Federal, conforme a las
-disposiciones previstas en el presente Decreto.
-Séptimo. Asuntos en Trámite. Los procedimientos que se encuentren en trámite ante la Secretaría
+disposiciones previstas en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Asuntos en Trámite. Los procedimientos que se encuentren en trámite ante la Secretaría
 de Trabajo y Previsión Social y las Juntas de Conciliación y Arbitraje federales y locales, serán concluidos
 por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
 El Centro Federal de Conciliación y Registro Laboral y los Centros de Conciliación Locales no
 admitirán a trámite solicitudes de audiencia de conciliación o emplazamientos respecto de procedimientos
 que se estén sustanciando ante las Juntas de Conciliación y Arbitraje, incluyendo los de ejecución, por lo
-que se archivarán dichas solicitudes.
-Octavo. Asuntos iniciados con posterioridad al Decreto. Las Juntas de Conciliación y Arbitraje
+que se archivarán dichas solicitudes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Asuntos iniciados con posterioridad al Decreto. Las Juntas de Conciliación y Arbitraje
 federales y locales, así como la Secretaría del Trabajo y Previsión Social, según corresponda, continuarán
 conociendo de los procedimientos individuales, colectivos y registrales que se inicien con posterioridad a
 la entrada en vigor del presente Decreto, hasta en tanto entren en funciones los Tribunales federales y
@@ -1356,8 +1562,15 @@ su petición sin responsabilidad para la Procuraduría, salvo que acredite que e
 no comparecer.
 Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y
 demás leyes vigentes hasta antes del presente Decreto. Para tales efectos se les dotará de los recursos
-presupuestales necesarios.
-Noveno. Improcedencia de Acumulación de Procesos. Cuando un juicio se encuentre en trámite
+presupuestales necesarios.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. Improcedencia de Acumulación de Procesos. Cuando un juicio se encuentre en trámite
 conforme a las disposiciones de la Ley Federal del Trabajo vigentes con anterioridad a la entrada en vigor
 del presente Decreto y otro se sustancie conforme a las disposiciones de este Decreto, no procederá la
 acumulación de juicios.
@@ -1365,11 +1578,25 @@ acumulación de juicios.
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo. Trámite de Procedimientos y Juicios. Una vez que entren en operación los Centros de
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. Trámite de Procedimientos y Juicios. Una vez que entren en operación los Centros de
 Conciliación y Tribunales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con el
-presente Decreto, según corresponda.
-Décimo Primero. Legitimación de Contratos Colectivos de Trabajo. Con el fin de cumplir el
+presente Decreto, según corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Legitimación de Contratos Colectivos de Trabajo. Con el fin de cumplir el
 mandato del artículo 123, apartado A, fracción XVIII, segundo párrafo y XX Bis de la Constitución y los
 compromisos internacionales asumidos por el Estado mexicano, los contratos colectivos de trabajo
 existentes deberán revisarse al menos una vez durante los cuatro años posteriores a la entrada en vigor
@@ -1390,20 +1617,48 @@ Hasta en tanto no entre en funciones el Centro Federal de Conciliación y Regist
 Secretaría del Trabajo y Previsión Social establecerá el protocolo para efectuar la verificación de la
 consulta a que se refiere el presente artículo transitorio y dispondrá las medidas necesarias para su
 instrumentación, dentro de un plazo de tres meses siguientes a la entrada en vigor del presente Decreto.
-La Junta Federal de Conciliación y Arbitraje tendrá la participación que dicho protocolo le establezca.
-Décimo Segundo. Previsiones para la aplicación de la Reforma. El Congreso de la Unión y las
+La Junta Federal de Conciliación y Arbitraje tendrá la participación que dicho protocolo le establezca.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. Previsiones para la aplicación de la Reforma. El Congreso de la Unión y las
 Legislaturas de las entidades federativas deberán destinar los recursos necesarios para la
-implementación de la reforma del sistema de justicia laboral.
-Décimo Tercero. Implementación y Capacitación. En la implementación de las disposiciones a que
+implementación de la reforma del sistema de justicia laboral.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. Implementación y Capacitación. En la implementación de las disposiciones a que
 se refiere el presente Decreto y en lo sucesivo, las Autoridades Conciliadoras y los Tribunales del Poder
 Judicial Federal y de las entidades federativas, deberán incorporar en sus programas de formación y
 capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de
-derechos humanos a personas en situación de vulnerabilidad.
-Décimo Cuarto. Primera Sesión de la Junta de Gobierno del Centro Federal. La persona titular de
+derechos humanos a personas en situación de vulnerabilidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. Primera Sesión de la Junta de Gobierno del Centro Federal. La persona titular de
 la Secretaría del Trabajo y Previsión Social, en su calidad de Presidente de la Junta de Gobierno del
 Centro Federal de Conciliación y Registro Laboral convocará a la primera sesión de dicho órgano dentro
-de los noventa días naturales siguientes a la fecha de designación de su titular.
-Décimo Quinto. Concursos de Selección de Personal. Las convocatorias a concurso para la
+de los noventa días naturales siguientes a la fecha de designación de su titular.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Concursos de Selección de Personal. Las convocatorias a concurso para la
 selección de personal del Centro Federal de Conciliación y Registro Laboral, de los Centros de
 Conciliación Locales y de los Tribunales del Poder Judicial Federal y de las entidades federativas serán de
 carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las
@@ -1412,8 +1667,15 @@ Juntas de Conciliación y Arbitraje.
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Décimo Sexto. Plan y Programa de Trabajo para la Conclusión de los asuntos en Trámite.
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Plan y Programa de Trabajo para la Conclusión de los asuntos en Trámite.
 Dentro de los ciento veinte días naturales siguientes a la aprobación del presente Decreto la Junta
 Federal de Conciliación y Arbitraje y las Juntas Locales de Conciliación y Arbitraje presentarán al Consejo
 de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, un plan de trabajo
@@ -1421,8 +1683,15 @@ con su respectivo programa para la conclusión de los asuntos en trámite y la e
 laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
 Los planes y programas de trabajo deberán contener indicadores de resultados y desempeño por
 periodos semestrales. Corresponderá al Órgano Interno de Control de cada Junta de Conciliación y
-Arbitraje la medición de resultados e impacto a que se refiere el párrafo anterior.
-Décimo Séptimo. Coordinación interinstitucional para la implementación de la reforma. Se crea
+Arbitraje la medición de resultados e impacto a que se refiere el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Séptimo. Coordinación interinstitucional para la implementación de la reforma. Se crea
 el Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral como
 instancia nacional de consulta, planeación y coordinación que tendrá por objeto establecer la política y la
 coordinación nacionales necesarias para implementar a nivel federal y local el Sistema de Justicia Laboral
@@ -1483,15 +1752,36 @@ público con nivel de Titular de Unidad, nombrado y, en su caso, removido por la
 Secretaría de Trabajo y Previsión Social.
 Dentro de los cuarenta y cinco días posteriores a la entrada en vigor del presente Decreto, la
 Secretaría del Trabajo y Previsión Social emitirá los lineamientos de operación y la convocatoria para la
-primera sesión de este Consejo.
-Décimo Octavo. Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer
+primera sesión de este Consejo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Octavo. Abatimiento del Rezago. Los organismos y entidades públicas deberán establecer
 instancias internas de conciliación para concluir el rezago de juicios tramitados ante las Juntas de
-Conciliación y Arbitraje.
-Décimo Noveno. Disposiciones para la conclusión de conflictos de seguridad social. Los
+Conciliación y Arbitraje.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Noveno. Disposiciones para la conclusión de conflictos de seguridad social. Los
 institutos de seguridad social deberán adoptar las disposiciones administrativas necesarias para instaurar
 instancias internas para la autocomposición en los conflictos individuales de seguridad social a que se
-refiere el presente Decreto.
-Vigésimo. Protección de derechos de los Trabajadores. Los derechos laborales de las y los
+refiere el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo. Protección de derechos de los Trabajadores. Los derechos laborales de las y los
 trabajadores de las instituciones que se vean involucradas en esta transición deberán ser respetados en
 26 de 39
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
@@ -1499,46 +1789,78 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
 Secretaría de Servicios Parlamentarios
 su totalidad. Las autoridades llevarán a cabo todas las acciones de carácter administrativo para garantizar
-que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.
-Vigésimo Primero. Implementación de Tecnologías de la Información. Los Tribunales, así como
+que se protejan y conserven los derechos de seguridad social, de acuerdo con las leyes aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Primero. Implementación de Tecnologías de la Información. Los Tribunales, así como
 los Centros de Conciliación a que hace referencia este Decreto, deberán contar con los sistemas
 electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos. Asímismo,
 deberán crear las plataformas electrónicas que albergarán los buzones electrónicos y las aplicaciones
-digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.
-Vigésimo Segundo. Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390
-Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del
-presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos en los
-artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.
-Vigésimo Tercero. Adecuación de los estatutos sindicales. Las disposiciones previstas en el</p>
+digitales necesarios para operar la conectividad por medios electrónicos con las autoridades laborales.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Artículo reformado DOF 18-05-2022</p>
-            </note>
           </article>
-          <article id="art-371">
-            <num>Artículo 371</num>
-            <paragraph id="art-371-para-1">
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
               <content>
-                <p>artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto
+                <p>Vigésimo Segundo. Plazo para el cumplimiento de lo dispuesto en los artículos 390 Bis y 390
+Ter. Las organizaciones sindicales tendrán un plazo máximo de un año a partir de la entrada en vigor del
+presente Decreto, para adecuar sus procedimientos de consulta a las normas establecidos en los
+artículos 390 Bis y 390 Ter de la Ley Federal del Trabajo.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Tercero. Adecuación de los estatutos sindicales. Las disposiciones previstas en el
+artículo 371 de la Ley Federal del Trabajo para la elección de las directivas sindicales mediante el voto
 personal libre, directo y secreto de los trabajadores, iniciarán su vigencia en un plazo de doscientos
 cuarenta días a partir de la entrada en vigor del presente Decreto. Asímismo, dentro del mismo plazo las
 organizaciones sindicales deberán adecuar sus estatutos a las disposiciones previstas en dicho artículo y
-demás aplicables de la citada Ley.
-Vigésimo Cuarto. Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los
+demás aplicables de la citada Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Cuarto. Declaratoria de la Cámara de Senadores y de los Congresos Locales. Los
 Tribunales del Poder Judicial de la Federación y el Centro Federal de Conciliación y Registro Laboral
 entrarán en funciones en cada entidad federativa una vez que la Cámara de Senadores emita la
 declaratoria correspondiente. Los Tribunales Locales y los Centros de Conciliación locales entrarán en
 funciones una vez que las respectiva Legislatura Local haga la declaratoria correspondiente.
-Lo anterior deberá publicarse en los medios de difusión oficial correspondientes.
-Vigésimo Quinto. Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente
+Lo anterior deberá publicarse en los medios de difusión oficial correspondientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Quinto. Personas trabajadoras del hogar. La fracción IV del artículo 337 del presente
 Decreto en materia de trabajo del hogar iniciará su vigencia una vez que se aprueben y entren en vigor las
 adecuaciones normativas necesarias para la incorporación formal de las personas trabajadoras del hogar
 en el régimen obligatorio de seguridad social, conforme a la resolución del Amparo Directo 9/2018
 (relacionado con el Amparo Directo 8/2018), emitido por la Segunda Sala de la Suprema Corte de Justicia
 de la Nación. Aquellos trabajadores del hogar que se encuentren inscritos ante el Instituto Mexicano del
-Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley.
-Vigésimo Sexto. Plataforma en materia de seguridad social para consulta del Tribunal. La
+Seguro Social no les será aplicable los artículos 338 y 339 de esta Ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Sexto. Plataforma en materia de seguridad social para consulta del Tribunal. La
 plataforma informática a que hace referencia el artículo 899-E será operada por las instituciones públicas
 de seguridad social correspondientes.
 Las bases de datos pertenecientes a cada institución estarán vinculadas entre sí y deberán
@@ -1555,15 +1877,29 @@ apropiadas para su instrumentación en el plazo requerido.
 LEY FEDERAL DE DEFENSORÍA PÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante las Juntas de
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Séptimo. Representantes de los trabajadores y de los patrones ante las Juntas de
 Conciliación y Arbitraje. En caso de ser necesaria la designación de algún representante de
 trabajadores o patrones ante las Juntas de Conciliación y Arbitraje en tanto éstas continúan su operación,
 el titular de la Secretaría del Trabajo y Previsión Social realizará las designaciones correspondientes para
 el periodo que resulte necesario para que las citadas instancias puedan concluir sus funciones.
 Asimismo, de incurrir los representantes trabajadores y patrones en algún tipo de responsabilidad, le
-serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.
-Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las
+serán aplicables las sanciones contenidas en la Ley Federal del Trabajo vigente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-20">
+            <num>Artículo 20</num>
+            <paragraph id="art-20-para-1">
+              <content>
+                <p>Vigésimo Octavo. Derogación explícita y tácita de preceptos incompatibles. Se derogan las
 disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente
 Decreto.
 Ciudad de México, a 29 de abril de 2019.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Martí Batres
@@ -1592,19 +1928,157 @@ Artículo Cuarto. Se reforman los artículos 1; 5, fracción V; 8; 29, fracción
               </content>
             </paragraph>
           </article>
-          <article id="art-228">
-            <num>Artículo 228</num>
-            <paragraph id="art-228-para-1">
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
               <content>
-                <p>artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de
-los Estados Unidos Mexicanos, al momento de la interrupción.
-Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación, salvo lo siguiente:
+I. Las disposiciones relativas a los Tribunales Colegiados de Apelación en sustitución de los Tribunales
+Unitarios de Circuito, entrarán en vigor de manera gradual y escalonada en un plazo no mayor a 18 meses
+contados a partir de la entrada en vigor del presente Decreto, de conformidad con los acuerdos generales
+que para tal efecto emita el Consejo de la Judicatura Federal.
+II. Las disposiciones relativas a los plenos Regionales en sustitución de los plenos de Circuito, entrarán
+en vigor en un plazo no mayor a 18 meses contados a partir de la entrada en vigor del presente Decreto,
+de conformidad con los acuerdos generales que para tal efecto emita el Consejo de la Judicatura Federal.
+III. Entrarán en vigor en la fecha en la que el Poder Judicial de la Federación realice la declaratoria a
+que se refiere el artículo Séptimo Transitorio de este Decreto:
+a) El artículo segundo del presente Decreto;
+b) Las disposiciones relativas a la Escuela Federal de Formación Judicial, y
+c) Las nuevas categorías de la Carrera Judicial.
+IV. Las reformas a la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del
+Apartado B) del Artículo 123 Constitucional, entrarán en vigor a los 18 meses de la publicación del
+presente Decreto en el Diario Oficial de la Federación.
+V. La reforma al artículo 218 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la
+Constitución Política de los Estados Unidos Mexicanos, entrará en vigor a los 6 meses de la publicación
+del presente Decreto en el Diario Oficial de la Federación.
+29 de 39
+LEY FEDERAL DE DEFENSORÍA PÚBLICA
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 01-04-2024
+Secretaría General
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Dentro de los 180 días siguientes a la publicación del presente Decreto las instancias
+competentes del Poder Judicial de la Federación deberán realizar las adecuaciones normativas, orgánicas
+y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El procedimiento de sustituciones por ausencia de las personas titulares de los órganos
+jurisdiccionales, así como la lista de personal jurisdiccional habilitado para realizar funciones
+jurisdiccionales a que hace referencia la Ley Orgánica del Poder Judicial de la Federación, deberá
+instrumentarse por el Consejo de la Judicatura Federal dentro de los 18 meses siguientes a la entrada en
+vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el
+presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales
+efectos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto,
+continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al
+momento de su inicio.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Dentro de los 18 meses siguientes a la publicación del presente Decreto, el Poder Judicial
+de la Federación deberá emitir y publicar, en el Diario Oficial de la Federación y en el Semanario Judicial
+de la Federación, la declaratoria para el inicio de la observancia de las nuevas reglas de la Carrera
+Judicial contenidas en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. Las y los actuales oficiales administrativos podrán acceder a la categoría de oficial judicial,
+previo cumplimiento de los requisitos y evaluación que para tal efecto implemente el Consejo de la
+Judicatura Federal, en los términos de las disposiciones que éste emita. En caso de que dichos oficiales
+administrativos no puedan acceder a la nueva categoría, conservarán su actual puesto y los derechos
+inherentes a este.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto
+mantendrán su formato.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente
+Decreto mantendrán su obligatoriedad, salvo que sean interrumpidas en los términos que se prevén en el
+artículo 228 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de
+los Estados Unidos Mexicanos, al momento de la interrupción.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. Las tesis aisladas de la Suprema Corte de Justicia de la Nación que se hubieran
 emitido con anterioridad a la entrada en vigor del nuevo sistema de precedentes obligatorios, mantendrán
 ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del
-presente Decreto podrán constituir jurisprudencia por precedente.
-Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el
-Diario Oficial de la Federación el 26 de mayo de 1995.
-Décimo Tercero. [Con el fin de implementar la reforma constitucional al Poder Judicial de la
+presente Decreto podrán constituir jurisprudencia por precedente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación, publicada en el
+Diario Oficial de la Federación el 26 de mayo de 1995.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. [Con el fin de implementar la reforma constitucional al Poder Judicial de la
 Federación publicada en el Diario Oficial de la Federación de 11 de marzo de 2021 y las leyes
 reglamentarias a las que se refiere el presente Decreto, la persona que a su entrada en vigor ocupe la
 Presidencia de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal durará
@@ -1657,8 +2131,15 @@ El Tribunal Pleno, en su sesión celebrada el dieciséis de noviembre de dos mil
 acción de inconstitucionalidad 95/2021 y su acumulada 105/2021, promovidas por diversos integrantes de
 las Cámaras de Senadores y de Diputados del Congreso de la Unión, en los términos siguientes:
 “PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su
-acumulada.
-SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el
+acumulada.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el
 que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del
 Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la
 Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo
@@ -1669,8 +2150,15 @@ Unidos Mexicanos y del Código Federal de Procedimientos Civiles’, publicado e
 de la Federación el siete de junio de dos mil veintiuno, la cual surtirá sus efectos a partir de la
 notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados del Congreso
 de la Unión, así como al Titular del Poder Ejecutivo Federal, en los términos precisados en los
-considerandos séptimo y octavo de esta decisión.
-TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el
+considerandos séptimo y octavo de esta decisión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el
 Semanario Judicial de la Federación y su Gaceta.”
 Cabe señalar que el Tribunal Pleno determinó que los efectos de la decisión decretada en este fallo
 surtirán a partir de la notificación de estos puntos resolutivos a las Cámaras de Senadores y de Diputados
@@ -1716,9 +2204,23 @@ MANUEL POBLETE RÍOS
 Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de la Nación
 correspondiente al dieciséis de noviembre de dos mil veintiuno.
 ………
-187. Por lo expuesto y fundado, se resuelve:
-PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.
-SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se
+187. Por lo expuesto y fundado, se resuelve:</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. Es procedente y fundada la presente acción de inconstitucionalidad y su acumulada.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se declara la invalidez del artículo transitorio décimo tercero del ‘DECRETO por el que se
 expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial
 de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los
 Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la
@@ -1728,8 +2230,15 @@ del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos 
 Procedimientos Civiles’, publicado en el Diario Oficial de la Federación el siete de junio de dos mil
 veintiuno, la cual surtirá sus efectos a partir de la notificación de estos puntos resolutivos a las Cámaras
 de Senadores y de Diputados del Congreso de la Unión, así como al Titular del Poder Ejecutivo Federal,
-en los términos precisados en los considerandos séptimo y octavo de esta decisión.
-TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario
+en los términos precisados en los considerandos séptimo y octavo de esta decisión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario
 Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medios electrónicos y, en su oportunidad, archívese el expediente.
 Así lo resolvió el Pleno de la Suprema Corte de Justicia de la Nación:
@@ -1786,14 +2295,35 @@ Artículo Primero. Se reforman los artículos 23; 27; 28; 30; 31, primer y últi
 I, III y IV; 32, primer párrafo y las fracciones II, III, IV, V, VI y XI; 33, primer párrafo y las fracciones I y IV y
 la denominación del Capítulo III de la Ley Federal de Defensoría Pública, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal
 en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso
 de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su

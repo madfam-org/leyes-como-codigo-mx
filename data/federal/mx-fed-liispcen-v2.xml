@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2015-05-06/liispcen/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2015-05-06/liispcen/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -40,9 +40,9 @@
       </chapter>
       <chapter id="chapter-5">
         <num>CAPÍTULO V DEL SEGUIMIENTO Y EVALUACIÓN</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- La presente Ley es de orden público y tiene por objeto reglamentar lo dispuesto en los
 artículos 25 y 26, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, para la
@@ -52,9 +52,9 @@ incluya vertientes sectoriales y regionales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- El Ejecutivo Federal implementará los elementos a que se refiere el artículo anterior a
 través de la formulación e instrumentación de una política nacional de fomento económico, en
@@ -64,13 +64,13 @@ México y, en su caso, con los órganos autónomos, en el ámbito de sus respect
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Artículo reformado DOF 17-05-2017</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Son objetivos específicos de la presente Ley:
 I. Implementar una política nacional de fomento económico dirigida a impulsar el incremento
@@ -138,13 +138,13 @@ metas y acciones que se adopten en el marco del Comité Nacional de Productivida
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Fracción reformada DOF 17-05-2017</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- Para los efectos de esta Ley, se entenderá por:
 I. Comisiones Estatales de Productividad: Las establecidas de conformidad con el artículo
@@ -198,9 +198,9 @@ XV. Secretaría: la Secretaría de Hacienda y Crédito Público.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- Corresponde al Estado la rectoría del desarrollo nacional, y la elaboración y conducción
 de la política nacional de fomento económico de conformidad con lo dispuesto por el artículo 25 de la
@@ -214,9 +214,9 @@ Productividad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- La política nacional de fomento económico prevista en el Programa Especial para la
 Productividad y la Competitividad será de observancia obligatoria para las dependencias y entidades en
@@ -224,9 +224,9 @@ el ámbito de sus respectivas competencias.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- Para efecto de la elaboración, implementación y evaluación de sus programas y
 anteproyectos de presupuesto anual, así como de sus reglas de operación, las dependencias y entidades
@@ -236,9 +236,9 @@ la Productividad y la Competitividad, en términos de las disposiciones aplicabl
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- La política nacional de fomento económico y el Programa Especial para la Productividad y
 la Competitividad deberán considerar, por lo menos, los aspectos siguientes:
@@ -317,9 +317,9 @@ fracciones anteriores.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- El Comité Nacional de Productividad funcionará como órgano consultivo y auxiliar del
 Ejecutivo Federal y de la planta productiva, para la concertación de acuerdos, formulación y seguimiento
@@ -328,9 +328,9 @@ Competitividad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Los sectores privado y social, incluyendo a los trabajadores y las instituciones
 educativas y de investigación en las que se realice investigación aplicada a la planta productiva,
@@ -340,9 +340,9 @@ Productividad y en términos de lo dispuesto por esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- Además de las atribuciones que le confiere la Ley Federal del Trabajo, el Comité
 Nacional de Productividad tendrá las siguientes:
@@ -424,25 +424,25 @@ Programa Especial para la Productividad y la Competitividad, y
 XVII. Las demás que le confieran las disposiciones jurídicas aplicables.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 17-05-2017</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Fracción adicionada DOF 17-04-2024</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- El Comité Nacional de Productividad estará integrado, cuando menos, por las personas
 siguientes:
@@ -483,43 +483,43 @@ La participación de las personas integrantes en el Comité será honorífica.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción adicionada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción adicionada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Fracción reformada DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 17-04-2024</p>
           </note>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Párrafo reformado DOF 17-04-2024</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- El Comité sesionará, de forma ordinaria, por lo menos cuatro veces al año, y de forma
 extraordinaria, cuantas veces sea necesario a solicitud de su Presidente.
@@ -531,9 +531,9 @@ conforme lo establezca el Titular del Ejecutivo Federal.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- El Comité, a través de la concertación y coordinación entre sus integrantes, emitirá
 recomendaciones en términos de esta Ley, las cuales deberán contribuir a alcanzar los objetivos de la
@@ -552,13 +552,13 @@ los convenios de coordinación que se suscriban para tal efecto, de conformidad 
 IV. Los integrantes de los sectores social y privado.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Fracción reformada DOF 17-05-2017</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- Las recomendaciones dirigidas a las dependencias y entidades únicamente serán
 vinculantes en los casos siguientes:
@@ -579,9 +579,9 @@ materias relacionadas con ingresos y egresos del Estado, ni comercio exterior.</
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- En el caso de las recomendaciones distintas a las del artículo anterior que se dirijan a
 las dependencias y entidades, éstas deberán responder al Comité acerca de su pertinencia en un plazo
@@ -596,9 +596,9 @@ IV. En su caso, la forma y plazos de implementación de la recomendación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Cuando los sujetos señalados en el artículo 14, párrafo segundo, de la presente Ley,
 acepten las recomendaciones emitidas por el Comité, suscribirán con éste, por conducto de su
@@ -614,9 +614,9 @@ se refiere la fracción V del artículo 8 de esta Ley.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- El Ejecutivo Federal, a través de la Secretaría, dará seguimiento y evaluará el avance
 anual de los indicadores en materia de: productividad total de los factores; productividad laboral;
@@ -646,9 +646,9 @@ de Ciencia y Tecnología, de los programas relacionados con la innovación y tec
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- El informe de ejecución del Plan Nacional de Desarrollo al que hace referencia la Ley de
 Planeación, deberá contemplar el avance de la política nacional de fomento económico prevista en el
@@ -661,9 +661,9 @@ información necesaria a la Secretaría, en los términos y plazos que ésta est
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- De conformidad con las disposiciones presupuestarias que regulan el registro de
 programas y proyectos de inversión en la cartera a que se refiere el artículo 34, fracción III, de la Ley
@@ -685,17 +685,31 @@ Competitividad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- La interpretación de esta Ley para efectos administrativos corresponde a la Secretaría,
 sin perjuicio de las atribuciones que correspondan a otras dependencias.
 ARTÍCULO SEGUNDO.- ……….
-TRANSITORIOS
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento
 económico se implementará a través del Programa para Democratizar la Productividad 2013 – 2018,
 11 de 14
 LEY PARA IMPULSAR EL INCREMENTO SOSTENIDO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LA
@@ -705,31 +719,66 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 aprobado por Decreto publicado en el Diario Oficial de la Federación el 30 de agosto de 2013, sin
 perjuicio de que, en su caso, éste pueda modificarse en términos de la Ley de Planeación, previa opinión
-del Comité Nacional de Productividad.
-Tercero.- El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el
+del Comité Nacional de Productividad.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el
 Decreto por el que se establece el Comité Nacional de Productividad, publicado en el Diario Oficial de la
 Federación el 17 de mayo de 2013, en tanto no se reforme el mismo, salvo en lo que dicho instrumento
 se oponga a la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la
 Economía Nacional.
 Las designaciones de los integrantes del Comité Nacional de Productividad que se hayan realizado de
-conformidad con el Decreto antes señalado, se mantendrán en sus términos.
-Cuarto.- Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del
+conformidad con el Decreto antes señalado, se mantendrán en sus términos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del
 presente Decreto, el Comité Nacional de Productividad deberá, en su caso, hacer las adecuaciones
 correspondientes a sus lineamientos de operación, a efecto de dar cumplimiento a las disposiciones
 establecidas en la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de
-la Economía Nacional.
-Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los
+la Economía Nacional.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los
 que hace referencia el artículo 19, párrafo segundo, de la Ley para Impulsar el Incremento Sostenido de
 la Productividad y la Competitividad de la Economía Nacional, a más tardar 60 días naturales después de
 haber concluido el primer semestre posterior a la entrada en vigor del presente Decreto.
 La Secretaría contará con un plazo de seis meses contados a partir de la entrada en vigor del
 presente Decreto, para cumplir con lo establecido en el artículo 18, párrafo primero de la Ley para
-Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
-Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
+Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
 deberán cubrirse con cargo al presupuesto aprobado a las dependencias y entidades de la
 Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que
-corresponda.
-Séptimo.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este
+corresponda.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este
 Decreto.
 México, D.F., a 19 de marzo de 2015.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Miguel
 Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez,

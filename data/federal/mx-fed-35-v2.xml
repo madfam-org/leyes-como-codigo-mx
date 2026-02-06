@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1936-11-25/35/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1936-11-25/35/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -337,9 +337,9 @@ reclamar las diferencias de valor que resulten a su favor.
           <p>Artículo adicionado DOF 16-01-2012</p>
         </note>
       </article>
-      <article id="art-10">
-        <num>Artículo 10</num>
-        <paragraph id="art-10-para-1">
+      <article id="art-10.">
+        <num>Artículo 10.</num>
+        <paragraph id="art-10.-para-1">
           <content>
             <p>Artículo 10.- El precio que se fijará como indemnización por el bien expropiado, será equivalente al
 valor comercial que se fije sin que pueda ser inferior, en el caso de bienes inmuebles, al valor fiscal que
@@ -356,19 +356,19 @@ derechos objeto de valuación, así como sus posibles usos y demás característ
 </p>
           </content>
         </paragraph>
-        <note placementBase="#art-10" placement="bottom">
+        <note placementBase="#art-10." placement="bottom">
           <p>Párrafo adicionado DOF 16-01-2012</p>
         </note>
-        <note placementBase="#art-10" placement="bottom">
+        <note placementBase="#art-10." placement="bottom">
           <p>Párrafo adicionado DOF 16-01-2012</p>
         </note>
-        <note placementBase="#art-10" placement="bottom">
+        <note placementBase="#art-10." placement="bottom">
           <p>Artículo reformado DOF 22-12-1993</p>
         </note>
       </article>
-      <article id="art-11">
-        <num>Artículo 11</num>
-        <paragraph id="art-11-para-1">
+      <article id="art-11.">
+        <num>Artículo 11.</num>
+        <paragraph id="art-11.-para-1">
           <content>
             <p>Artículo 11.- Cuando se controvierta el monto de la indemnización a que se refiere el artículo anterior,
 se hará la consignación al juez que corresponda, quien fijará a las partes el término de tres días para que
@@ -378,17 +378,17 @@ lo nombraren, será designado por el juez.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-12">
-        <num>Artículo 12</num>
-        <paragraph id="art-12-para-1">
+      <article id="art-12.">
+        <num>Artículo 12.</num>
+        <paragraph id="art-12.-para-1">
           <content>
             <p>Artículo 12.- Contra el auto del juez que haga la designación de peritos, no procederá ningún recurso.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-13">
-        <num>Artículo 13</num>
-        <paragraph id="art-13-para-1">
+      <article id="art-13.">
+        <num>Artículo 13.</num>
+        <paragraph id="art-13.-para-1">
           <content>
             <p>Artículo 13.- En los casos de renuncia, muerte o incapacidad de alguno de los peritos designados, se
 hará nueva designación dentro del término de tres días por quienes corresponda.
@@ -400,27 +400,27 @@ Secretaría de Servicios Parlamentarios</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-14">
-        <num>Artículo 14</num>
-        <paragraph id="art-14-para-1">
+      <article id="art-14.">
+        <num>Artículo 14.</num>
+        <paragraph id="art-14.-para-1">
           <content>
             <p>Artículo 14.- Los honorarios de cada perito serán pagados por la parte que deba nombrarlo y los del
 tercero por ambas.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-15">
-        <num>Artículo 15</num>
-        <paragraph id="art-15-para-1">
+      <article id="art-15.">
+        <num>Artículo 15.</num>
+        <paragraph id="art-15.-para-1">
           <content>
             <p>Artículo 15.- El juez fijará un plazo que no excederá de sesenta días para que los peritos rindan su
 dictamen.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-16">
-        <num>Artículo 16</num>
-        <paragraph id="art-16-para-1">
+      <article id="art-16.">
+        <num>Artículo 16.</num>
+        <paragraph id="art-16.-para-1">
           <content>
             <p>Artículo 16.- Si los peritos estuvieren de acuerdo en la fijación del valor de las mejoras o del demérito,
 el juez de plano fijará el monto de la indemnización; en caso de inconformidad, llamará al tercero, para
@@ -429,22 +429,22 @@ dictámenes de los peritos, el juez resolverá dentro del término de diez días
           </content>
         </paragraph>
       </article>
-      <article id="art-17">
-        <num>Artículo 17</num>
-        <paragraph id="art-17-para-1">
+      <article id="art-17.">
+        <num>Artículo 17.</num>
+        <paragraph id="art-17.-para-1">
           <content>
             <p>Artículo 17. Contra la resolución judicial que fije el monto de la indemnización, no cabrá ningún
 recurso.
 </p>
           </content>
         </paragraph>
-        <note placementBase="#art-17" placement="bottom">
+        <note placementBase="#art-17." placement="bottom">
           <p>Artículo reformado DOF 16-01-2012</p>
         </note>
       </article>
-      <article id="art-18">
-        <num>Artículo 18</num>
-        <paragraph id="art-18-para-1">
+      <article id="art-18.">
+        <num>Artículo 18.</num>
+        <paragraph id="art-18.-para-1">
           <content>
             <p>Artículo 18.- Si la ocupación fuere temporal, el monto de la indemnización quedará a juicio de peritos
 y a resolución judicial, en los términos de esta ley. Esto mismo se observará en el caso de limitación de
@@ -452,9 +452,9 @@ dominio.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-19">
-        <num>Artículo 19</num>
-        <paragraph id="art-19-para-1">
+      <article id="art-19.">
+        <num>Artículo 19.</num>
+        <paragraph id="art-19.-para-1">
           <content>
             <p>Artículo 19.- El importe de la indemnización será cubierto por el Estado, cuando la cosa expropiada
 pase a su patrimonio.
@@ -465,9 +465,9 @@ al derecho de dominio.</p>
           </content>
         </paragraph>
       </article>
-      <article id="art-20">
-        <num>Artículo 20</num>
-        <paragraph id="art-20-para-1">
+      <article id="art-20.">
+        <num>Artículo 20.</num>
+        <paragraph id="art-20.-para-1">
           <content>
             <p>Artículo 20.- La indemnización deberá pagarse en moneda nacional a más tardar dentro de los
 cuarenta y cinco días hábiles siguientes a la publicación del decreto de expropiación, sin perjuicio de que
@@ -475,15 +475,8 @@ se convenga su pago en especie.
 Salvo en los casos a que se refiere el artículo 8o de la Ley, la autoridad podrá proceder a la ocupación
 del bien o a la disposición del derecho objeto de la expropiación una vez cubierto el monto de la
 indemnización fijado en el avalúo.
-En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el</p>
-          </content>
-        </paragraph>
-      </article>
-      <article id="art-11">
-        <num>Artículo 11</num>
-        <paragraph id="art-11-para-1">
-          <content>
-            <p>artículo 11 del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad
+En caso de que el afectado controvierta el monto de la indemnización, se estará a lo dispuesto en el
+artículo 11 del presente ordenamiento. Esta circunstancia no será impedimento para que la autoridad
 proceda a la ocupación del bien o a la disposición del derecho expropiado.
 La indemnización por la ocupación temporal o por la limitación de dominio consistirá en una
 compensación a valor de mercado, así como los daños y perjuicios, si los hubiere, que pudieran
@@ -492,7 +485,7 @@ en el párrafo primero de este artículo.
 , 05-06-2009</p>
           </content>
         </paragraph>
-        <note placementBase="#art-11" placement="bottom">
+        <note placementBase="#art-20." placement="bottom">
           <p>Artículo reformado DOF 22-12-1993</p>
         </note>
       </article>
@@ -533,9 +526,9 @@ que conocerá del procedimiento a que se refiere el artículo 2o de esta ley.
           <p>Artículo adicionado DOF 04-12-1997</p>
         </note>
       </article>
-      <article id="art-21">
-        <num>Artículo 21</num>
-        <paragraph id="art-21-para-1">
+      <article id="art-21.">
+        <num>Artículo 21.</num>
+        <paragraph id="art-21.-para-1">
           <content>
             <p>Artículo 21.- Esta Ley es de carácter federal en los casos en que se tienda a alcanzar un fin cuya
 realización competa a la Federación conforme a sus facultades constitucionales, y de carácter local para
@@ -582,13 +575,44 @@ Publicado en el Diario Oficial de la Federación el 22 de diciembre de 1993
 ARTICULO SEXTO.- Se reforman los Artículos 3o.; 4o.; 5o.; 9o.; 10; 20 y 21 de la Ley de
 Expropiación, para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.
-SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la
-Federación, entrará en vigor el 1o. de enero de 1996.
-TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que
-se realicen a partir de la entrada en vigor del presente Decreto.
-CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+        <note placementBase="#art-21." placement="bottom">
+          <p>Artículo reformado DOF 22-12-1993</p>
+        </note>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 1994.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>SEGUNDO.- La reforma al inciso (b) de la fracción I del Artículo 52 del Código Fiscal de la
+Federación, entrará en vigor el 1o. de enero de 1996.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-3">
+        <num>Artículo 3</num>
+        <paragraph id="art-3-para-1">
+          <content>
+            <p>TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que
+se realicen a partir de la entrada en vigor del presente Decreto.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-4">
+        <num>Artículo 4</num>
+        <paragraph id="art-4-para-1">
+          <content>
+            <p>CUARTO.- La ampliación del plazo de protección de los derechos de propiedad intelectual a que se
 refiere la fracción I del Artículo 23 de la Ley Federal de Derechos de Autor que se reforma, será aplicable
 a aquellos derechos que no hayan ingresado al régimen de dominio público a la fecha en que el presente
 Decreto entre en vigor.
@@ -620,12 +644,33 @@ ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y
 DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO
 FEDERAL; DE LA LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES
 PÚBLICOS; DE LA LEY DE EXPROPIACIÓN Y DE LA LEY ORGÁNICA DE LA
-ADMINISTRACIÓN PÚBLICA FEDERAL.
-PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su
+ADMINISTRACIÓN PÚBLICA FEDERAL.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>PRIMERO.- Las reformas a que se refiere el presente Decreto entrarán en vigor al día siguiente de su
 publicación en el Diario Oficial de la Federación, con las particularidades que se establecen en las
-disposiciones transitorias de cada uno de los artículos de este Decreto.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+disposiciones transitorias de cada uno de los artículos de este Decreto.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-3">
+        <num>Artículo 3</num>
+        <paragraph id="art-3-para-1">
+          <content>
+            <p>TERCERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 México, D.F., a 3 de diciembre de 1997.- Dip. Juan Cruz Martínez, Presidente.- Sen. Heladio
 Ramírez López, Presidente.- Dip. Francisco Rodríguez García, Secretario.- Sen. José Antonio
 Valdivia, Secretario.- Rúbricas".
@@ -640,28 +685,39 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 27-01-2012
 Secretaría General
 Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se
-adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al</p>
-          </content>
-        </paragraph>
-        <note placementBase="#art-21" placement="bottom">
-          <p>Artículo reformado DOF 22-12-1993</p>
-        </note>
-      </article>
-      <article id="art-1o">
-        <num>Artículo 1o</num>
-        <paragraph id="art-1o-para-1">
-          <content>
-            <p>artículo 1o todos de la Ley de Expropiación.
+adicionan un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al
+artículo 1o todos de la Ley de Expropiación.
 Publicado en el Diario Oficial de la Federación el 5 de junio de 2009
 ARTÍCULO ÚNICO.- Se REFORMAN los artículos 2o, 3o, 4o, 5o, 6o, 7o, 8o, 20 y 20 bis y se
 ADICIONAN un primer párrafo, recorriéndose los demás párrafos, y una fracción III Bis al artículo 1o
 todos de la Ley de Expropiación, para quedar en los siguientes términos:
 ……….
-ARTÍCULOS TRANSITORIOS
-Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
-Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada
+ARTÍCULOS TRANSITORIOS</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-3">
+        <num>Artículo 3</num>
+        <paragraph id="art-3-para-1">
+          <content>
+            <p>Tercero. Los procedimientos y expedientes de expropiación que se encuentren en curso a la entrada
 en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones
 vigentes al momento de su inicio.
 No obstante lo anterior, las dependencias y entidades que dentro de los procedimientos en curso no
@@ -690,29 +746,71 @@ Artículo Cuarto. Se reforman los artículos 2, párrafo primero, 8 y 17; y se a
 Bis; 8 Bis, 9 Bis, y los párrafos segundo y tercero al artículo 10 todos de la Ley de Expropiación, para
 quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.
-SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado
+TRANSITORIOS</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-1">
+        <num>Artículo 1</num>
+        <paragraph id="art-1-para-1">
+          <content>
+            <p>PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación, salvo por lo dispuesto en el transitorio QUINTO siguiente.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-2">
+        <num>Artículo 2</num>
+        <paragraph id="art-2-para-1">
+          <content>
+            <p>SEGUNDO. Los proyectos equiparables a los de asociación público-privada, que se hayan iniciado
 con anterioridad y se encuentren en procedimiento de contratación, ejecución o desarrollo a la entrada en
 vigor del presente decreto, continuarán rigiéndose conforme a las disposiciones vigentes con anterioridad
 a la entrada en vigor del mismo.
 En caso de proyectos de asociación público-privada que se encuentren en la etapa de preparación a
 la entrada en vigor del presente decreto, las dependencias y entidades se sujetarán a las disposiciones
 de la Ley de Asociaciones Público Privadas, con absoluto respeto de los derechos adquiridos por
-terceros interesados en la contratación.
-TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un
+terceros interesados en la contratación.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-3">
+        <num>Artículo 3</num>
+        <paragraph id="art-3-para-1">
+          <content>
+            <p>TERCERO. El Ejecutivo federal, para la expedición del reglamento correspondiente, contará con un
 plazo de doce meses a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los
 proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos
-correspondientes por parte de la Secretaría de Hacienda y Crédito Público.
-CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro
-de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.
-QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el
+correspondientes por parte de la Secretaría de Hacienda y Crédito Público.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-4">
+        <num>Artículo 4</num>
+        <paragraph id="art-4-para-1">
+          <content>
+            <p>CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere este decreto dentro
+de los procedimientos de expropiación en curso a la entrada en vigor del presente decreto.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-5">
+        <num>Artículo 5</num>
+        <paragraph id="art-5-para-1">
+          <content>
+            <p>QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el
 mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté
 en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día
 siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría
-de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
-SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de
+de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.</p>
+          </content>
+        </paragraph>
+      </article>
+      <article id="art-6">
+        <num>Artículo 6</num>
+        <paragraph id="art-6-para-1">
+          <content>
+            <p>SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de
 Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Sen. Adrián Rivera

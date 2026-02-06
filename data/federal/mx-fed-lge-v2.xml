@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2019-09-30/lge/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2019-09-30/lge/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -156,9 +156,9 @@
         </chapter>
         <chapter id="chapter-33">
           <num>Capítulo VI, y 61 a 68 contenidos en el Capítulo VIII, en los que el legislador federal reguló la educación indígena y la inclusiva; de ahí que la determinación de cómo invalidar la ley impugnada</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley garantiza el derecho a la educación reconocido en el artículo 3o. de la
 Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el
@@ -173,9 +173,9 @@ esta materia por las autoridades competentes para cumplir los fines y criterios 
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el
 ejercicio de su derecho a la educación. Para tal efecto, garantizará el desarrollo de programas y políticas
@@ -188,9 +188,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. El Estado fomentará la participación activa de los educandos, madres y padres de familia o
 tutores, maestras y maestros, los pueblos indígenas y afromexicanos, así como de los distintos actores
@@ -200,13 +200,13 @@ desarrollo económico, social y cultural de sus habitantes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-3" placement="bottom">
+            <note placementBase="#art-3." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. La aplicación y la vigilancia del cumplimiento de esta Ley corresponden a las autoridades
 educativas de la Federación, de los Estados, de la Ciudad de México y de los municipios, en los términos
@@ -224,9 +224,9 @@ V. Estado, a la Federación, los Estados, la Ciudad de México y los municipios.
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. Toda persona tiene derecho a la educación, el cual es un medio para adquirir, actualizar,
 completar y ampliar sus conocimientos, capacidades, habilidades y aptitudes que le permitan alcanzar su
@@ -246,9 +246,9 @@ la dignidad humana.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. Todas las personas habitantes del país deben cursar la educación preescolar, la primaria,
 la secundaria y la media superior.
@@ -271,23 +271,16 @@ y alentará el fortalecimiento y la difusión de la cultura nacional y universal
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Corresponde al Estado la rectoría de la educación; la impartida por éste, además de
 obligatoria, será:
 I. Universal, al ser un derecho humano que corresponde a todas las personas por igual, por lo
 que:
-a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-1o">
-            <num>Artículo 1o</num>
-            <paragraph id="art-1o-para-1">
-              <content>
-                <p>artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, y
+a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo dispuesto en el
+artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, y
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas nacionales;
 II. Inclusiva, con perspectiva de género y de derechos humanos, eliminando toda forma de
 discriminación, exclusión y violencias, así como las demás condiciones estructurales que
@@ -333,13 +326,13 @@ estudios, se sujetará a lo previsto en la fracción VI del artículo 3o. de la 
 Estados Unidos Mexicanos y al Título Décimo Primero de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-1o" placement="bottom">
+            <note placementBase="#art-7." placement="bottom">
               <p>Párrafo reformado DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. El Estado está obligado a prestar servicios educativos con equidad y excelencia.
 Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes
@@ -350,13 +343,13 @@ orientación sexual o prácticas culturales que constituyan barreras para accede
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-8" placement="bottom">
+            <note placementBase="#art-8." placement="bottom">
               <p>Párrafo reformado DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. Las autoridades educativas, en el ámbito de sus respectivas competencias y con la
 finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada
@@ -431,25 +424,25 @@ en formatos digitales para la educación básica, garantizando su distribución,
 XIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Párrafo reformado DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-9" placement="bottom">
+            <note placementBase="#art-9." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. El Ejecutivo Federal, el gobierno de cada entidad federativa y los ayuntamientos, podrán
 celebrar convenios para coordinar las actividades a que se refiere el presente Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. El Estado, a través de la nueva escuela mexicana, buscará la equidad, la excelencia y la
 mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de
@@ -459,9 +452,9 @@ la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela 
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. En la prestación de los servicios educativos se impulsará el desarrollo humano integral
 para:
@@ -482,13 +475,13 @@ V. Alentar la construcción de relaciones sociales, económicas y culturales con
 de los derechos humanos.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-12" placement="bottom">
+            <note placementBase="#art-12." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. Se fomentará en las personas una educación basada en:
 I. La identidad, el sentido de pertenencia y el respeto desde la interculturalidad, para considerarse
@@ -517,19 +510,19 @@ perspectiva de género.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Fracción adicionada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. Para el cumplimiento de los fines y criterios de la educación conforme a lo dispuesto en
 este Capítulo, la Secretaría promoverá un Acuerdo Educativo Nacional que considerará las siguientes
@@ -562,16 +555,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Fracción reformada DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. La educación que imparta el Estado, sus organismos descentralizados y los particulares
 con autorización o con reconocimiento de validez oficial de estudios, persigue los siguientes fines:
@@ -607,9 +600,9 @@ X. Todos aquellos que contribuyan al bienestar y desarrollo del país.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. La educación que imparta el Estado, sus organismos descentralizados y los particulares
 con autorización o con reconocimiento de validez oficial de estudios, se basará en los resultados del
@@ -672,9 +665,9 @@ pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y 
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. La orientación integral en la nueva escuela mexicana comprende la formación para la
 vida de los educandos, así como los contenidos de los planes y programas de estudio, la vinculación de
@@ -683,9 +676,9 @@ enseñanza aprendizaje, acorde con este criterio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. La orientación integral, en la formación de la mexicana y el mexicano dentro del Sistema
 Educativo Nacional, considerará lo siguiente:
@@ -724,9 +717,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. En las normas e instrumentos de la planeación del Sistema Educativo Nacional se
 incluirán el seguimiento, análisis y valoración de la orientación integral, en todos los tipos, niveles,
@@ -734,9 +727,9 @@ modalidades y opciones educativas, con el fin de fortalecer los procesos educati
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. Las maestras y los maestros acompañarán a los educandos en sus trayectorias
 formativas en los distintos tipos, niveles, modalidades y opciones educativas, propiciando la construcción
@@ -746,9 +739,9 @@ positiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. La evaluación de los educandos será integral y comprenderá la valoración de los
 conocimientos, las habilidades, las destrezas y, en general, el logro de los propósitos establecidos en los
@@ -759,9 +752,9 @@ desempeño académico y conducta de los educandos que les permitan lograr un mej
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Los planes y programas a los que se refiere este Capítulo favorecerán el desarrollo
 integral y gradual de los educandos en los niveles preescolar, primaria, secundaria, el tipo media superior
@@ -785,9 +778,9 @@ cualquier situación contraria a este precepto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. La Secretaría determinará los planes y programas de estudio, aplicables y obligatorios en
 toda la República Mexicana, de la educación preescolar, la primaria, la secundaria, la educación normal y
@@ -814,9 +807,9 @@ crítico, comunitario e integral de la educación, entre otros, para la recupera
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Los planes y programas de estudio en educación media superior promoverán el
 desarrollo integral de los educandos, sus conocimientos, habilidades, aptitudes, actitudes y competencias
@@ -835,9 +828,9 @@ sujetará a las disposiciones correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. Los planes y programas de estudio de las escuelas normales deben responder, tanto a la
 necesidad de contar con profesionales para lograr la excelencia en educación, como a las condiciones de
@@ -852,9 +845,9 @@ logro del aprendizaje de los educandos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Cuando los planes y programas de estudio se refieran a aspectos culturales, artísticos y
 literarios o en materia de estilos de vida saludables y educación sexual integral y reproductiva, la
@@ -863,9 +856,9 @@ contenido a la Secretaría a efecto de que ésta determine lo conducente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas de los planes y
 programas a que se refiere este Capítulo, para mantenerlos permanentemente actualizados y asegurar
@@ -879,9 +872,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. Los planes y programas que la Secretaría determine en cumplimiento del presente
 Capítulo, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación y en el órgano
@@ -894,9 +887,9 @@ correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. En los planes de estudio se establecerán:
 I. Los propósitos de formación general y, en su caso, la adquisición de conocimientos,
@@ -927,9 +920,9 @@ los ejerzan en igualdad de oportunidades.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. Los contenidos de los planes y programas de estudio de la educación que impartan el
 Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de
@@ -1001,16 +994,16 @@ XXV. Los demás necesarios para el cumplimiento de los fines y criterios de la e
 en los artículos 15 y 16 de la presente Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. El Sistema Educativo Nacional es el conjunto de actores, instituciones y procesos para la
 prestación del servicio público de la educación que imparta el Estado, sus organismos descentralizados y
@@ -1020,9 +1013,9 @@ con la sociedad mexicana, sus organizaciones, comunidades, pueblos, sectores y f
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. A través del Sistema Educativo Nacional se concentrarán y coordinarán los esfuerzos del
 Estado, de los sectores social y privado, para el cumplimiento de los principios, fines y criterios de la
@@ -1030,9 +1023,9 @@ educación establecidos por la Constitución y las leyes de la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. Para lograr los objetivos del Sistema Educativo Nacional, se llevará a cabo una
 programación estratégica para que la formación docente y directiva, la infraestructura, así como los
@@ -1049,9 +1042,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. En el Sistema Educativo Nacional participarán, con sentido de responsabilidad social, los
 actores, instituciones y procesos que lo componen y será constituido por:
@@ -1079,9 +1072,9 @@ funcionamiento y operación se determinarán en las disposiciones reglamentarias
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. La educación que se imparta en el Sistema Educativo Nacional se organizará en tipos,
 niveles, modalidades y opciones educativas, conforme a lo siguiente:
@@ -1105,9 +1098,9 @@ con programas o contenidos particulares para ofrecerles una oportuna atención.<
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. La educación, en sus distintos tipos, niveles, modalidades y opciones educativas
 responderá a la diversidad lingüística, regional y sociocultural del país, así como de la población rural
@@ -1116,9 +1109,9 @@ población.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. La educación básica está compuesta por el nivel inicial, preescolar, primaria y
 secundaria.
@@ -1135,9 +1128,9 @@ de Atención Múltiple.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. En educación inicial, el Estado, de manera progresiva, generará las condiciones para la
 prestación universal de ese servicio.
@@ -1150,9 +1143,9 @@ apoyadas por las instituciones encargadas de la protección y defensa de la niñ
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. La Secretaría determinará los principios rectores y objetivos de la educación inicial, con la
 opinión de las autoridades educativas de las entidades federativas y la participación de otras
@@ -1166,9 +1159,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Los principios rectores y objetivos estarán contenidos en la Política Nacional de
 Educación Inicial, la cual será parte de una Estrategia de Atención Integral a la Primera Infancia.
@@ -1179,9 +1172,9 @@ distintos contextos y sensibles a la diversidad cultural y social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. La Secretaría, en coordinación con las autoridades del sector salud, así como los
 sectores social y privado, fomentarán programas de orientación y educación para una alimentación
@@ -1189,18 +1182,18 @@ saludable y nutritiva que mejore la calidad de vida de las niñas y niños menor
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. La edad mínima para ingresar a la educación básica en el nivel preescolar es de tres
 años, y para nivel primaria seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. El Estado impartirá la educación multigrado, la cual se ofrecerá, dentro de un mismo
 grupo, a estudiantes de diferentes grados académicos, niveles de desarrollo y de conocimientos, en
@@ -1223,9 +1216,9 @@ del derecho a la educación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. La educación media superior comprende los niveles de bachillerato, de profesional
 técnico bachiller y los equivalentes a éste, así como la educación profesional que no requiere bachillerato
@@ -1243,9 +1236,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Los niveles de bachillerato, profesional técnico bachiller y los demás equivalentes a éste,
 se ofrecen a quienes han concluido estudios de educación básica.
@@ -1266,9 +1259,9 @@ La Secretaría determinará los demás servicios con los que se preste este tipo
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. Las autoridades educativas, en el ámbito de sus competencias, establecerán, de manera
 progresiva, políticas para garantizar la inclusión, permanencia y continuidad en este tipo educativo,
@@ -1282,9 +1275,9 @@ herramientas que les permitan integrarse al ámbito laboral.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. La educación superior, como parte del Sistema Educativo Nacional y último esquema de
 la prestación de los servicios educativos para la cobertura universal prevista en el artículo 3o. de la
@@ -1308,9 +1301,9 @@ cambio tecnológico.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. La obligatoriedad de la educación superior corresponde al Estado, el cual la garantizará
 para todas las personas que cumplan con los requisitos solicitados por las instituciones respectivas.
@@ -1329,13 +1322,13 @@ carácter de las instituciones a las que la ley otorga autonomía.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Las autoridades educativas respetarán el régimen jurídico de las universidades a las que
 la ley les otorga autonomía, en los términos establecidos en la fracción VII del artículo 3o. de la
@@ -1349,9 +1342,9 @@ Educación Superior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Se impulsará el establecimiento de un sistema nacional de educación superior que
 coordine los subsistemas universitario, tecnológico y de educación normal y formación docente, que
@@ -1361,9 +1354,9 @@ desarrollo del país.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Se apoyará el desarrollo de un espacio común de educación superior que permita el
 intercambio académico, la movilidad nacional e internacional de estudiantes, profesores e investigadores,
@@ -1372,9 +1365,9 @@ Superior determinará la integración y los principios para la operación de est
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. El Estado garantizará el derecho de toda persona a gozar de los beneficios del desarrollo
 científico, humanístico, tecnológico y de la innovación, considerados como elementos fundamentales de
@@ -1391,9 +1384,9 @@ comunicación, conocimiento y aprendizaje digital, mediante el uso de plataforma
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. Las autoridades educativas, en el ámbito de sus competencias, impulsarán en todas las
 regiones del país, el desarrollo de la investigación, la ciencia, las humanidades, la tecnología y la
@@ -1414,9 +1407,9 @@ necesidades nacionales, regionales y locales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. Las instituciones de educación superior promoverán, a través de sus ordenamientos
 internos, que sus docentes e investigadores participen en actividades de enseñanza, tutoría,
@@ -1426,9 +1419,9 @@ formación de investigadores y profesionistas altamente calificados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. La Secretaría, en coordinación con los organismos y autoridades correspondientes, y de
 acuerdo con lo dispuesto en las leyes en la materia, establecerá los mecanismos de colaboración para
@@ -1437,9 +1430,9 @@ educación superior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. El Estado garantizará el derecho de los pueblos y comunidades indígenas y
 afromexicanas, migrantes y jornaleros agrícolas a recibir educación inclusiva, humanista, equitativa, en
@@ -1489,13 +1482,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. El Estado garantizará y promoverá el uso de las lenguas indígenas en el sistema de
 educación indígena, intercultural y plurilingüe. Nunca podrá justificarse la eliminación de esta garantía por
@@ -1532,7 +1525,7 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
@@ -1555,22 +1548,15 @@ indígena o afromexicana.
               <p>Artículo adicionado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Las autoridades educativas consultarán de manera previa, libre, informada, culturalmente
 adecuada y de buena fe, de acuerdo con las disposiciones legales nacionales e internacionales vigentes
 en la materia, cada vez que se adopten medidas susceptibles de afectar a los pueblos y comunidades
-indígenas y afromexicanas, en materia educativa, respetando su autodeterminación en los términos del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-2o">
-            <num>Artículo 2o</num>
-            <paragraph id="art-2o-para-1">
-              <content>
-                <p>artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+indígenas y afromexicanas, en materia educativa, respetando su autodeterminación en los términos del
+artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 Para el cumplimiento de lo establecido en el párrafo anterior, la Secretaría se coordinará con el
 Instituto Nacional de los Pueblos Indígenas, el Instituto Nacional de las Lenguas Indígenas, la Comisión
 para la Mejora Continua de la Educación, así como sus homólogas en las entidades federativas para
@@ -1588,13 +1574,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-2o" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. En la educación que imparta el Estado se promoverá un enfoque humanista, el cual
 favorecerá en el educando sus habilidades socioemocionales que le permitan adquirir y generar
@@ -1609,9 +1595,9 @@ distintas regiones, pueblos y comunidades del país para contribuir a los proces
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. El Estado generará mecanismos para apoyar y promover la creación y difusión artística,
 propiciar el conocimiento crítico, así como la difusión del arte y las culturas.
@@ -1621,9 +1607,9 @@ manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitiv
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. La educación inclusiva se refiere al conjunto de acciones orientadas a identificar,
 prevenir, reducir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje
@@ -1636,13 +1622,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-61" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El Estado asegurará la educación inclusiva en todos los tipos, niveles, modalidades y
 opciones del Sistema Educativo Nacional, con el fin de favorecer el aprendizaje de todas las y los
@@ -1673,13 +1659,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-62" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. El Estado proporcionará a las personas con discapacidad la posibilidad de aprender y
 desarrollar habilidades para la vida que favorezcan su inclusión laboral, reconociendo las características,
@@ -1691,13 +1677,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. En la aplicación de esta Ley, se garantizará el derecho a la educación de las y los
 educandos con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
@@ -1737,13 +1723,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Para garantizar la educación inclusiva, las autoridades educativas, en el ámbito de su
 competencia, ofrecerán las medidas pertinentes, entre ellas:
@@ -1767,13 +1753,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. La autoridad educativa federal, con base en sus facultades, establecerá los lineamientos
 necesarios para la acreditación, promoción y certificación del personal que preste educación especial.
@@ -1787,13 +1773,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. Para la identificación y atención educativa de las y los educandos con aptitudes
 sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad
@@ -1809,13 +1795,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-67" placement="bottom">
+            <note placementBase="#art-67." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. En el Sistema Educativo Nacional, se atenderán las disposiciones en materia de
 accesibilidad señaladas en la presente Ley, la Ley General para la Inclusión de las Personas con
@@ -1826,13 +1812,13 @@ DOF 13-03-2023
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Artículo reformado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. El Estado ofrecerá acceso a programas y servicios educativos para personas adultas en
 distintas modalidades que consideren sus contextos familiares, comunitarios, laborales y sociales.
@@ -1843,9 +1829,9 @@ aptitudes que adquiera con el proceso de enseñanza aprendizaje que el Estado fa
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. La educación para personas adultas será considerada una educación a lo largo de la vida
 y está destinada a la población de quince años o más que no haya cursado o concluido la educación
@@ -1856,9 +1842,9 @@ participación y la solidaridad social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. Tratándose de la educación para personas adultas, la autoridad educativa federal podrá,
 en términos de los convenios de colaboración que para tal efecto se celebren, prestar los servicios que,
@@ -1884,9 +1870,9 @@ tendrán derecho, en su caso, a que se les acredite como servicio social.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. Los educandos son los sujetos más valiosos de la educación con pleno derecho a
 desarrollar todas sus potencialidades de forma activa, transformadora y autónoma.
@@ -1912,9 +1898,9 @@ aplicación de las políticas educativas en sus distintos tipos y modalidades.</
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. En la impartición de educación para menores de dieciocho años se tomarán medidas
 reforzadas de protección para las y los educandos que aseguren el cuidado necesario para preservar su
@@ -1937,13 +1923,13 @@ autoridades educativas, tengan conocimiento de la comisión de algún hecho que 
 delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Párrafo reformado DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la
 paz y el derecho a una vida libre de violencias, para generar una convivencia democrática basada en el
@@ -2008,22 +1994,22 @@ educativa.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Párrafo reformado DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Fracción reformada DOF 15-01-2026</p>
             </note>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Párrafo reformado DOF 15-01-2026</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. La Secretaría, mediante disposiciones de carácter general que se publiquen en el Diario
 Oficial de la Federación y sin perjuicio del cumplimiento de otras disposiciones que resulten aplicables,
@@ -2060,16 +2046,16 @@ será con apego a los lineamientos que establezca la Secretaría y a las demás 
 Reforma DOF 20-12-2023: Derogó del artículo el entonces párrafo segundo</p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Párrafo reformado DOF 20-12-2023</p>
             </note>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Párrafo reformado DOF 20-12-2023</p>
             </note>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Párrafo adicionado DOF 20-12-2023</p>
             </note>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Párrafo reformado DOF 20-12-2023</p>
             </note>
           </article>
@@ -2095,9 +2081,9 @@ las demás disposiciones en la materia.
               <p>Artículo adicionado DOF 20-12-2023</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. El Estado generará las condiciones para que las poblaciones indígenas, afromexicanas,
 comunidades rurales o en condiciones de marginación, así como las personas con discapacidad, ejerzan
@@ -2105,9 +2091,9 @@ el derecho a la educación apegándose a criterios de asequibilidad y adaptabili
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. En la formulación de las estrategias de aprendizaje, se fomentará la participación y
 colaboración de niñas, niños, adolescentes y jóvenes con el apoyo de docentes, directivos, madres y
@@ -2115,9 +2101,9 @@ padres de familia o tutores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. Las madres y padres de familia o tutores serán corresponsables en el proceso educativo
 de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su
@@ -2133,9 +2119,9 @@ tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. Las autoridades educativas desarrollarán programas propedéuticos que consideren a los
 educandos, sus familias y comunidades para fomentar su sentido de pertenencia a la institución y ser
@@ -2143,9 +2129,9 @@ copartícipes de su formación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. El Estado ofrecerá servicios de orientación educativa y de trabajo social desde la
 educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y a las
@@ -2160,9 +2146,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. El establecimiento de instituciones educativas que realice el Poder Ejecutivo Federal por
 conducto de otras dependencias de la Administración Pública Federal, así como la formulación de planes
@@ -2172,9 +2158,9 @@ correspondiente a los estudios realizados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. Las negociaciones o empresas a que se refiere la fracción XII del Apartado A del artículo
 123 de la Constitución Política de los Estados Unidos Mexicanos están obligadas a establecer y sostener
@@ -2192,9 +2178,9 @@ para el cumplimiento de las obligaciones que señala el presente artículo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. La formación para el trabajo deberá estar enfocada en la adquisición de conocimientos,
 habilidades, destrezas y actitudes, que permitan a la persona desempeñar una actividad productiva,
@@ -2221,9 +2207,9 @@ Constitución Política de los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. La educación que imparta el Estado, sus organismos descentralizados y los particulares
 con autorización o reconocimiento de validez oficial de estudios, utilizará el avance de las tecnologías de
@@ -2236,9 +2222,9 @@ como un complemento de los demás materiales educativos, incluidos los libros de
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. La Secretaría establecerá una Agenda Digital Educativa, de manera progresiva, la cual
 dirigirá los modelos, planes, programas, iniciativas, acciones y proyectos pedagógicos y educativos, que
@@ -2256,9 +2242,9 @@ VI. Diseño y creación de contenidos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86. Las autoridades educativas, en el ámbito de su competencia, promoverán la formación y
 capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las
@@ -2269,9 +2255,9 @@ multiplataformas digitales, la televisión educativa y las tecnologías antes re
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87. La autoridad educativa federal determinará el calendario escolar aplicable a toda la
 República, para cada ciclo lectivo de la educación básica y normal y demás para la formación de
@@ -2289,9 +2275,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88. En días escolares, las horas de labor escolar se dedicarán a la orientación integral del
 educando, a través de la práctica docente, actividades educativas y otras que contribuyan a los
@@ -2307,9 +2293,9 @@ las medidas para recuperar los días y horas perdidos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89. El calendario que la Secretaría determine para cada ciclo lectivo de educación
 preescolar, de primaria, de secundaria, de normal y demás para la formación de maestros de educación
@@ -2319,9 +2305,9 @@ propia entidad, las autorizaciones de ajustes al calendario escolar determinado 
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90. Las maestras y los maestros son agentes fundamentales del proceso educativo y, por
 tanto, se reconoce su contribución a la transformación social.
@@ -2355,9 +2341,9 @@ IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.</
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91. Las autoridades educativas, conforme a sus atribuciones, realizarán acciones para el
 logro de los fines establecidos en el presente Capítulo.
@@ -2366,9 +2352,9 @@ docente, a través de ceremonias, homenajes y otros eventos públicos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92. Las autoridades educativas, en sus respectivos ámbitos de competencia, constituirán el
 sistema integral de formación, capacitación y actualización, para que las maestras y los maestros ejerzan
@@ -2389,9 +2375,9 @@ contribuyan a su capacitación, actualización, profesionalización y especializ
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93. Para ejercer la docencia en instituciones establecidas por el Estado en educación básica
 y media superior, las promociones en la función y en el servicio, así como para el otorgamiento de
@@ -2403,9 +2389,9 @@ certificar su bilingüismo en la lengua indígena que corresponda y el español.
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94. Las autoridades educativas, en el ámbito de sus respectivas competencias, revisarán
 permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de
@@ -2424,9 +2410,9 @@ de las madres y padres de familia o tutores.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95. El Estado fortalecerá a las instituciones públicas de formación docente, para lo cual, las
 autoridades educativas en el ámbito de sus competencias, tendrán a su cargo:
@@ -2453,9 +2439,9 @@ programas e incentivos para su desarrollo profesional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96. Las personas egresadas de las instituciones formadoras de docencia contarán con el
 conocimiento de diversos enfoques pedagógicos y didácticos que les permita atender las necesidades de
@@ -2467,18 +2453,18 @@ especial que atiendan los diversos tipos de discapacidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97. La formación inicial que imparten las escuelas normales deberá responder a la
 programación estratégica que realice el Sistema Educativo Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98. Los planteles educativos constituyen un espacio fundamental para el proceso de
 enseñanza aprendizaje, donde se presta el servicio público de educación por parte del Estado o por los
@@ -2492,9 +2478,9 @@ municipios, establecerá las disposiciones para el cumplimiento de este artícul
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99. Los muebles e inmuebles destinados a la educación impartida por el Estado y los
 particulares con autorización o con reconocimiento de validez oficial de estudios, así como los servicios e
@@ -2514,9 +2500,9 @@ será de observancia general para todas las autoridades educativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100. Para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento,
 reconstrucción o habilitación de inmuebles destinados a la prestación del servicio público de educación,
@@ -2549,9 +2535,9 @@ de infraestructura por sus órganos de gobierno y su normatividad interna.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. Para que en un inmueble puedan prestarse servicios educativos, deben obtenerse las
 licencias, autorizaciones, avisos de funcionamiento y demás relacionados para su operación a efecto de
@@ -2571,9 +2557,9 @@ fracción II de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102. Las autoridades educativas atenderán de manera prioritaria las escuelas que, por estar
 en localidades aisladas, zonas urbanas marginadas, rurales y en pueblos y comunidades indígenas y
@@ -2590,13 +2576,13 @@ conforme a los lineamientos que emita la Secretaría de Salud en coordinación c
 como de espacios para la activación física, la recreación, la práctica del deporte y la educación física.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-102" placement="bottom">
+            <note placementBase="#art-102." placement="bottom">
               <p>Párrafo reformado DOF 01-04-2024</p>
             </note>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103. La Secretaría, a través de la instancia que determine para efecto de ejercer sus
 atribuciones referidas en este Capítulo, emitirá los lineamientos para establecer las obligaciones que
@@ -2642,9 +2628,9 @@ emergencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. Las autoridades educativas, en el ámbito de sus respectivas competencias, deberán
 desarrollar la planeación financiera y administrativa que contribuya a optimizar los recursos en materia de
@@ -2666,9 +2652,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105. Para el mantenimiento de los muebles e inmuebles, así como los servicios e
 instalaciones necesarios para proporcionar los servicios educativos, concurrirán los gobiernos federales,
@@ -2681,9 +2667,9 @@ educativas federal, de las entidades federativas y de los municipios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106. Con objeto de fomentar la participación social en el fortalecimiento y mejora de los
 espacios educativos, su mantenimiento y ampliación de la cobertura de los servicios, la Secretaría, en
@@ -2703,9 +2689,9 @@ participen docentes, directivos, madres y padres de familia o tutores, además d
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107. Las autoridades educativas, en el ámbito de sus respectivas competencias, emitirán una
 Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación Básica y Media
@@ -2720,9 +2706,9 @@ de decisiones para fortalecer la mejora escolar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108. Para el proceso de mejora escolar, se constituirán Consejos Técnicos Escolares en los
 tipos de educación básica y media superior, como órganos colegiados de decisión técnico pedagógica de
@@ -2740,9 +2726,9 @@ educativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109. Cada Consejo Técnico Escolar contará con un Comité de Planeación y Evaluación, el
 cual tendrá a su cargo formular un programa de mejora continua que contemple, de manera integral, la
@@ -2759,9 +2745,9 @@ determinará lo relativo a la operación y funcionamiento del Comité al que se 
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110. La educación tendrá un proceso de mejora continua, el cual implica el desarrollo
 permanente del Sistema Educativo Nacional para el incremento del logro académico de los educandos.
@@ -2770,9 +2756,9 @@ y modalidades educativos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111. El Sistema Educativo Nacional contribuirá a la mejora continua de la educación con
 base en las disposiciones aplicables en la ley de la materia. Para tal efecto, dicha ley establecerá el
@@ -2785,9 +2771,9 @@ oficial de estudios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112. La ley respectiva determinará las funciones de la Comisión Nacional para la Mejora
 Continua de la Educación, institución encargada de coordinar el Sistema al que se refiere el artículo
@@ -2795,9 +2781,9 @@ anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113. Corresponden de manera exclusiva a la autoridad educativa federal las atribuciones
 siguientes:
@@ -2896,9 +2882,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114. Corresponden de manera exclusiva a las autoridades educativas de los Estados y
 Ciudad de México, en sus respectivas competencias, las atribuciones siguientes:
@@ -2959,22 +2945,15 @@ XVII. Las demás que con tal carácter establezcan esta Ley y otras disposicione
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115. Adicionalmente a las atribuciones exclusivas a las que se refieren los artículos 113 y
 114, corresponde a las autoridades educativas federal, de los Estados y Ciudad de México, de manera
 concurrente, las atribuciones siguientes:
-I. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y V del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
-              <content>
-                <p>artículo 114, de acuerdo con las necesidades nacionales, regionales y estatales;
+I. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y V del
+artículo 114, de acuerdo con las necesidades nacionales, regionales y estatales;
 II. Participar en las actividades tendientes para la admisión, promoción y reconocimiento, de
 conformidad con lo dispuesto en la Ley General del Sistema para la Carrera de las Maestras y
 los Maestros;
@@ -2983,15 +2962,8 @@ del artículo 113;
 IV. Ejecutar programas para la inducción, actualización, capacitación y superación de maestras y
 maestros de educación media superior, los que deberán sujetarse, en lo conducente, a lo
 dispuesto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros;
-V. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción VI del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
-              <content>
-                <p>artículo 114, de acuerdo con los lineamientos generales que la Secretaría expida. Asimismo,
+V. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción VI del
+artículo 114, de acuerdo con los lineamientos generales que la Secretaría expida. Asimismo,
 podrán autorizar que las instituciones públicas que en sus regulaciones no cuenten con la
 facultad expresa, otorguen revalidaciones y equivalencias parciales de estudios respecto de los
 planes y programas que impartan, de acuerdo con los lineamientos generales que la Secretaría
@@ -3078,25 +3050,18 @@ correspondientes en materia de educación superior que se establezcan en la Ley 
 Superior.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-114" placement="bottom">
+            <note placementBase="#art-115." placement="bottom">
               <p>Fracción reformada DOF 20-12-2023</p>
             </note>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116. El ayuntamiento de cada municipio podrá, sin perjuicio de la concurrencia de las
 autoridades educativas federal y de los Estados, promover y prestar servicios educativos de cualquier
-tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones VIII a X del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
-              <content>
-                <p>artículo 115. Los ayuntamientos y alcaldías de la Ciudad de México coadyuvarán al mantenimiento de los
+tipo o modalidad. También podrá realizar actividades de las enumeradas en las fracciones VIII a X del
+artículo 115. Los ayuntamientos y alcaldías de la Ciudad de México coadyuvarán al mantenimiento de los
 planteles educativos y de los servicios de seguridad, agua y luz de éstos.
 El gobierno de cada entidad federativa, promoverá la participación directa del ayuntamiento para dar
 mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales.
@@ -3108,9 +3073,9 @@ Ley General del Sistema para la Carrera de las Maestras y los Maestros.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117. Las atribuciones relativas a la educación básica, incluyendo la indígena y la educación
 especial, señaladas para las autoridades educativas de los Estados en sus respectivas competencias,
@@ -3129,9 +3094,9 @@ propia entidad federativa, en términos de los artículos 119 y 121.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118. Para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la
 educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la
@@ -3142,9 +3107,9 @@ sujetará su operación y funcionamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119. El Ejecutivo Federal y el gobierno de cada entidad federativa, con sujeción a las
 disposiciones de ingresos y gasto público correspondientes que resulten aplicables, concurrirán al
@@ -3182,9 +3147,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120. El gobierno de cada entidad federativa, de conformidad con las disposiciones
 aplicables, proveerá lo conducente para que cada ayuntamiento reciba recursos para el cumplimiento de
@@ -3192,9 +3157,9 @@ las responsabilidades que en términos del artículo 116 estén a cargo de la au
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121. En el cumplimiento de lo dispuesto en los artículos anteriores de este Capítulo el
 Ejecutivo Federal y el gobierno de cada entidad federativa tomarán en cuenta el carácter prioritario de la
@@ -3204,18 +3169,18 @@ recursos presupuestarios crecientes, en términos reales, para la educación pú
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122. Son de interés social las inversiones que en materia educativa realicen el Estado, sus
 organismos descentralizados y los particulares.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123. Las autoridades educativas federal, de los Estados, de la Ciudad de México y de los
 municipios, en el ámbito de sus atribuciones, deberán ejecutar programas y acciones tendientes a
@@ -3238,9 +3203,9 @@ cada escuela enfrenta.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124. Además de las actividades enumeradas en el artículo anterior, el Ejecutivo Federal
 llevará a cabo programas compensatorios por virtud de los cuales apoye con recursos específicos a los
@@ -3250,9 +3215,9 @@ autoridades educativas locales deberán realizar para reducir y superar dichos r
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125. En el ejercicio de su función compensatoria, y sólo tratándose de actividades que
 permitan mayor equidad educativa, la Secretaría podrá, en forma temporal, impartir de manera
@@ -3260,9 +3225,9 @@ concurrente educación básica y normal en las entidades federativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126. Las autoridades educativas, fomentarán la participación de los actores sociales
 involucrados en el proceso de enseñanza aprendizaje, para el logro de una educación democrática, de
@@ -3275,13 +3240,13 @@ su representación en los consejos de participación escolar previstos en esta L
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-126" placement="bottom">
+            <note placementBase="#art-126." placement="bottom">
               <p>Párrafo adicionado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127. Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el
 mantenimiento de las escuelas públicas, previo acuerdo con la autoridad educativa competente. La
@@ -3292,9 +3257,9 @@ contraprestación a favor de los particulares.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128. Son derechos de quienes ejercen la patria potestad o la tutela:
 I. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de
@@ -3330,9 +3295,9 @@ pupilos menores de dieciocho años y sobre las condiciones físicas de las escue
               </content>
             </paragraph>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129. Son obligaciones de quienes ejercen la patria potestad o la tutela:
 I. Hacer que sus hijas, hijos o pupilos menores de dieciocho años, reciban la educación
@@ -3356,9 +3321,9 @@ correspondientes en términos de la legislación aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130. Las asociaciones de madres y padres de familia tendrán por objeto:
 I. Representar ante las autoridades escolares los intereses que en materia educativa sean
@@ -3395,9 +3360,9 @@ autoridad educativa federal señale.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131. Las autoridades educativas podrán promover, de conformidad con los lineamientos que
 establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por
@@ -3408,13 +3373,13 @@ representación de los hablantes de lengua indígena o de personas afromexicanas
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-131" placement="bottom">
+            <note placementBase="#art-131." placement="bottom">
               <p>Párrafo adicionado DOF 07-06-2024</p>
             </note>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132. La autoridad de cada escuela pública de educación básica y media superior, vinculará a
 ésta, activa y constantemente, con la comunidad. La autoridad del municipio dará toda su colaboración
@@ -3453,9 +3418,9 @@ h) Realizar actividades encaminadas al beneficio de la propia escuela.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133. En cada municipio, se podrá instalar y operar un consejo municipal de participación
 escolar en la educación, integrado por las autoridades municipales, asociaciones de madres y padres de
@@ -3497,9 +3462,9 @@ territoriales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134. En cada entidad federativa, se podrá instalar y operar un consejo estatal de
 participación escolar en la educación, como órgano de consulta, orientación y apoyo. Dicho consejo, será
@@ -3512,9 +3477,9 @@ la excelencia y la cobertura de la educación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135. La Secretaría promoverá el establecimiento y funcionamiento del Consejo Nacional de
 Participación Escolar en la Educación, como instancia nacional de consulta, colaboración, apoyo e
@@ -3524,9 +3489,9 @@ opinar en materia de mejora continua de la educación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136. Los consejos de participación escolar o su equivalente a que se refiere este Capítulo se
 abstendrán de intervenir en los aspectos laborales, pedagógicos y administrativos del personal de los
@@ -3534,9 +3499,9 @@ centros educativos y no deberán participar en cuestiones políticas ni religios
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137. Las personas beneficiadas directamente por los servicios educativos de instituciones de
 los tipos de educación superior y, en su caso, de media superior que así lo establezcan, deberán prestar
@@ -3555,9 +3520,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>Artículo 138. La Secretaría, en coordinación con las autoridades competentes, establecerá
 mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que
@@ -3566,35 +3531,28 @@ requieran para lograr su máximo aprendizaje y desarrollo integral.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>Artículo 139. Los medios de comunicación masiva, de conformidad con el marco jurídico que les rige,
-en el desarrollo de sus actividades contribuirán al logro de los fines de la educación previstos en el</p>
+en el desarrollo de sus actividades contribuirán al logro de los fines de la educación previstos en el
+artículo 15, conforme a los criterios establecidos en el artículo 16 de la presente Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
-              <content>
-                <p>artículo 15, conforme a los criterios establecidos en el artículo 16 de la presente Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>Artículo 140. La Secretaría promoverá, ante las autoridades competentes, las acciones necesarias
 para dar cumplimiento al artículo anterior, con apego a las disposiciones legales aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>Artículo 141. Los estudios realizados dentro del Sistema Educativo Nacional tendrán validez en toda
 la República.
@@ -3608,29 +3566,22 @@ extranjero.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>Artículo 142. Los estudios realizados con validez oficial en sistemas educativos extranjeros podrán
 adquirir validez oficial en el Sistema Educativo Nacional, mediante su revalidación, para lo cual deberá
-cumplirse con las normas y criterios generales que determine la Secretaría conforme a lo previsto en el</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
-              <content>
-                <p>artículo 144 de esta Ley.
+cumplirse con las normas y criterios generales que determine la Secretaría conforme a lo previsto en el
+artículo 144 de esta Ley.
 La revalidación podrá otorgarse por niveles educativos, por grados escolares, créditos académicos,
 por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>Artículo 143. Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso,
 declararse equivalentes entre sí por niveles educativos, grados o ciclos escolares, créditos académicos,
@@ -3639,9 +3590,9 @@ facilitar el tránsito de educandos en el Sistema Educativo Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>Artículo 144. La Secretaría determinará las normas y criterios generales, aplicables en toda la
 República, a que se ajustarán la revalidación, así como la declaración de estudios equivalentes.
@@ -3668,9 +3619,9 @@ independencia de las infracciones que pudieran configurarse, en términos de lo 
               </content>
             </paragraph>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>Artículo 145. La Secretaría, por acuerdo de su titular, podrá establecer procedimientos por medio de
 los cuales se expidan constancias, certificados, diplomas o títulos a quienes acrediten los conocimientos
@@ -3682,9 +3633,9 @@ la acreditación de los conocimientos adquiridos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-146">
-            <num>Artículo 146</num>
-            <paragraph id="art-146-para-1">
+          <article id="art-146.">
+            <num>Artículo 146.</num>
+            <paragraph id="art-146.-para-1">
               <content>
                 <p>Artículo 146. Los particulares podrán impartir educación considerada como servicio público en
 términos de esta Ley, en todos sus tipos y modalidades, con la autorización o reconocimiento de validez
@@ -3715,9 +3666,9 @@ podrá condicionar la prestación del servicio público referido en esta Ley.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-147">
-            <num>Artículo 147</num>
-            <paragraph id="art-147-para-1">
+          <article id="art-147.">
+            <num>Artículo 147.</num>
+            <paragraph id="art-147.-para-1">
               <content>
                 <p>Artículo 147. Las autorizaciones y los reconocimientos de validez oficial de estudios se otorgarán
 cuando los solicitantes cuenten:
@@ -3731,9 +3682,9 @@ demás para la formación de maestros de educación básica.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-148">
-            <num>Artículo 148</num>
-            <paragraph id="art-148-para-1">
+          <article id="art-148.">
+            <num>Artículo 148.</num>
+            <paragraph id="art-148.-para-1">
               <content>
                 <p>Artículo 148. Las autoridades educativas publicarán, en el órgano informativo oficial correspondiente
 y en sus portales electrónicos, una relación de las instituciones a las que hayan concedido autorización o
@@ -3753,9 +3704,9 @@ cual se otorgó, así como la autoridad que lo emitió.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-149">
-            <num>Artículo 149</num>
-            <paragraph id="art-149-para-1">
+          <article id="art-149.">
+            <num>Artículo 149.</num>
+            <paragraph id="art-149.-para-1">
               <content>
                 <p>Artículo 149. Los particulares que impartan educación con autorización o con reconocimiento de
 validez oficial de estudios deberán:
@@ -3796,9 +3747,9 @@ en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revo
               </content>
             </paragraph>
           </article>
-          <article id="art-150">
-            <num>Artículo 150</num>
-            <paragraph id="art-150-para-1">
+          <article id="art-150.">
+            <num>Artículo 150.</num>
+            <paragraph id="art-150.-para-1">
               <content>
                 <p>Artículo 150. Los particulares que presten servicios por los que se impartan estudios sin
 reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y
@@ -3806,9 +3757,9 @@ publicidad.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-151">
-            <num>Artículo 151</num>
-            <paragraph id="art-151-para-1">
+          <article id="art-151.">
+            <num>Artículo 151.</num>
+            <paragraph id="art-151.-para-1">
               <content>
                 <p>Artículo 151. Con la finalidad de que la educación que impartan los particulares cumpla con los fines
 establecidos en la Constitución, las autoridades que otorguen autorizaciones y reconocimientos de
@@ -3835,9 +3786,9 @@ lugar.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-152">
-            <num>Artículo 152</num>
-            <paragraph id="art-152-para-1">
+          <article id="art-152.">
+            <num>Artículo 152.</num>
+            <paragraph id="art-152.-para-1">
               <content>
                 <p>Artículo 152. Las visitas de vigilancia se llevarán a cabo en días y horas hábiles. Para tal efecto, se
 considerarán días inhábiles los establecidos en la Ley Federal del Trabajo y aquellos que se inhabiliten a
@@ -3851,9 +3802,9 @@ La notificación surtirá sus efectos el mismo día en que se practique su visit
               </content>
             </paragraph>
           </article>
-          <article id="art-153">
-            <num>Artículo 153</num>
-            <paragraph id="art-153-para-1">
+          <article id="art-153.">
+            <num>Artículo 153.</num>
+            <paragraph id="art-153.-para-1">
               <content>
                 <p>Artículo 153. La Secretaría podrá celebrar los instrumentos jurídicos que estime pertinentes con las
 autoridades educativas de las entidades federativas para colaborar en las acciones de vigilancia a que se
@@ -3861,9 +3812,9 @@ refiere el presente Capítulo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-154">
-            <num>Artículo 154</num>
-            <paragraph id="art-154-para-1">
+          <article id="art-154.">
+            <num>Artículo 154.</num>
+            <paragraph id="art-154.-para-1">
               <content>
                 <p>Artículo 154. La visita se practicará el día, hora y lugar establecidos en la orden de visita, la misma
 podrá realizarse con el titular de la autorización o del reconocimiento de validez oficial de estudios, su
@@ -3894,9 +3845,9 @@ esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-155">
-            <num>Artículo 155</num>
-            <paragraph id="art-155-para-1">
+          <article id="art-155.">
+            <num>Artículo 155.</num>
+            <paragraph id="art-155.-para-1">
               <content>
                 <p>Artículo 155. Al iniciar la visita, el servidor público comisionado deberá exhibir credencial oficial
 vigente con fotografía, expedida por la autoridad educativa y entregará en ese acto la orden de visita a la
@@ -3906,9 +3857,9 @@ lugar visible del domicilio, circunstanciando ese hecho para los fines legales c
               </content>
             </paragraph>
           </article>
-          <article id="art-156">
-            <num>Artículo 156</num>
-            <paragraph id="art-156-para-1">
+          <article id="art-156.">
+            <num>Artículo 156.</num>
+            <paragraph id="art-156.-para-1">
               <content>
                 <p>Artículo 156. La persona con quien se entienda la visita será requerida a efecto de que designe dos
 personas que funjan como testigos en el desarrollo de la misma.
@@ -3921,9 +3872,9 @@ probatorio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-157">
-            <num>Artículo 157</num>
-            <paragraph id="art-157-para-1">
+          <article id="art-157.">
+            <num>Artículo 157.</num>
+            <paragraph id="art-157.-para-1">
               <content>
                 <p>Artículo 157. De la visita se levantará acta circunstanciada en presencia de los testigos designados
 por la persona con quien se entienda la diligencia o por quien la practique si aquella se hubiese negado a
@@ -3937,9 +3888,9 @@ visitado, asentando dicha circunstancia en la misma, sin que ello afecte su vali
               </content>
             </paragraph>
           </article>
-          <article id="art-158">
-            <num>Artículo 158</num>
-            <paragraph id="art-158-para-1">
+          <article id="art-158.">
+            <num>Artículo 158.</num>
+            <paragraph id="art-158.-para-1">
               <content>
                 <p>Artículo 158. En el acta de la visita se hará constar lo siguiente:
 I. Lugar, fecha y hora del inicio de la diligencia;
@@ -3985,9 +3936,9 @@ ella se tendrá por cierto y hará prueba plena de los hechos en ella asentados.
               </content>
             </paragraph>
           </article>
-          <article id="art-159">
-            <num>Artículo 159</num>
-            <paragraph id="art-159-para-1">
+          <article id="art-159.">
+            <num>Artículo 159.</num>
+            <paragraph id="art-159.-para-1">
               <content>
                 <p>Artículo 159. La autoridad educativa, a través de los servidores públicos que realicen la visita, podrá
 utilizar, previa notificación al particular, mecanismos de video filmación, fotografía y entrevistas, u otro
@@ -3998,9 +3949,9 @@ orden de visita indicando los datos que podrán recabarse con ellos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-160">
-            <num>Artículo 160</num>
-            <paragraph id="art-160-para-1">
+          <article id="art-160.">
+            <num>Artículo 160.</num>
+            <paragraph id="art-160.-para-1">
               <content>
                 <p>Artículo 160. Son obligaciones del visitado:
 I. Abstenerse de impedir u obstaculizar por cualquier medio la visita;
@@ -4027,9 +3978,9 @@ requerida para la obtención de la información, conforme al alcance y objeto de
               </content>
             </paragraph>
           </article>
-          <article id="art-161">
-            <num>Artículo 161</num>
-            <paragraph id="art-161-para-1">
+          <article id="art-161.">
+            <num>Artículo 161.</num>
+            <paragraph id="art-161.-para-1">
               <content>
                 <p>Artículo 161. Son derechos del visitado:
 I. Solicitar al servidor público comisionado que se identifique con credencial con fotografía
@@ -4049,9 +4000,9 @@ explícitamente en el acta de visita, así como a que se le proporcione una copi
               </content>
             </paragraph>
           </article>
-          <article id="art-162">
-            <num>Artículo 162</num>
-            <paragraph id="art-162-para-1">
+          <article id="art-162.">
+            <num>Artículo 162.</num>
+            <paragraph id="art-162.-para-1">
               <content>
                 <p>Artículo 162. El visitado respecto de los hechos y circunstancias asentadas en el acta de visita,
 podrán exhibir documentación complementaria, formular observaciones y ofrecer pruebas, mediante
@@ -4084,9 +4035,9 @@ información.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-163">
-            <num>Artículo 163</num>
-            <paragraph id="art-163-para-1">
+          <article id="art-163.">
+            <num>Artículo 163.</num>
+            <paragraph id="art-163.-para-1">
               <content>
                 <p>Artículo 163. De la información contenida en el acta correspondiente, así como la documentación
 relacionada, que en su caso presenten los particulares, las autoridades educativas podrán formular
@@ -4095,9 +4046,9 @@ no mayor a diez días hábiles, contados a partir de que se tuvo por concluida l
               </content>
             </paragraph>
           </article>
-          <article id="art-164">
-            <num>Artículo 164</num>
-            <paragraph id="art-164-para-1">
+          <article id="art-164.">
+            <num>Artículo 164.</num>
+            <paragraph id="art-164.-para-1">
               <content>
                 <p>Artículo 164. Las medidas precautorias y correctivas a que se refiere el artículo anterior consistirán en
 las siguientes:
@@ -4107,9 +4058,9 @@ III. Colocar sellos e información de advertencia en el plantel educativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-165">
-            <num>Artículo 165</num>
-            <paragraph id="art-165-para-1">
+          <article id="art-165.">
+            <num>Artículo 165.</num>
+            <paragraph id="art-165.-para-1">
               <content>
                 <p>Artículo 165. La visita se tendrá por concluida, una vez que haya transcurrido el plazo de cinco días
 previsto en el artículo 162 de esta Ley. Por lo que, a partir del día hábil siguiente, comenzará a
@@ -4118,9 +4069,9 @@ de acuerdo con lo establecido en el artículo 79 de la Ley Federal de Procedimie
               </content>
             </paragraph>
           </article>
-          <article id="art-166">
-            <num>Artículo 166</num>
-            <paragraph id="art-166-para-1">
+          <article id="art-166.">
+            <num>Artículo 166.</num>
+            <paragraph id="art-166.-para-1">
               <content>
                 <p>Artículo 166. Para imponer una sanción, la autoridad educativa deberá notificar previamente al
 particular del inicio del procedimiento, para que éste, dentro de los quince días hábiles siguientes,
@@ -4133,9 +4084,9 @@ anterior.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-167">
-            <num>Artículo 167</num>
-            <paragraph id="art-167-para-1">
+          <article id="art-167.">
+            <num>Artículo 167.</num>
+            <paragraph id="art-167.-para-1">
               <content>
                 <p>Artículo 167. Transcurrido el plazo que establece el artículo anterior, se acordará en su caso, el
 desechamiento o la admisión de pruebas. Son admisibles todos los medios de prueba, excepto la
@@ -4154,9 +4105,9 @@ podrán presentarse siempre que no se haya emitido la resolución definitiva.</p
               </content>
             </paragraph>
           </article>
-          <article id="art-168">
-            <num>Artículo 168</num>
-            <paragraph id="art-168-para-1">
+          <article id="art-168.">
+            <num>Artículo 168.</num>
+            <paragraph id="art-168.-para-1">
               <content>
                 <p>Artículo 168. Concluido el desahogo de pruebas, y antes de dictar resolución, se pondrán las
 actuaciones a disposición de los interesados, para que, en su caso, en un plazo de diez días hábiles
@@ -4164,9 +4115,9 @@ formulen alegatos, los que serán tomados en cuenta por la autoridad educativa a
               </content>
             </paragraph>
           </article>
-          <article id="art-169">
-            <num>Artículo 169</num>
-            <paragraph id="art-169-para-1">
+          <article id="art-169.">
+            <num>Artículo 169.</num>
+            <paragraph id="art-169.-para-1">
               <content>
                 <p>Artículo 169. Transcurrido el plazo para formular alegatos, se procederá dentro de los diez días
 hábiles siguientes, a dictar por escrito la resolución definitiva que proceda. Se entenderán caducadas las
@@ -4175,9 +4126,9 @@ días contados a partir de la expiración del plazo para dictar resolución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-170">
-            <num>Artículo 170</num>
-            <paragraph id="art-170-para-1">
+          <article id="art-170.">
+            <num>Artículo 170.</num>
+            <paragraph id="art-170.-para-1">
               <content>
                 <p>Artículo 170. Son infracciones de quienes prestan servicios educativos:
 I. Incumplir cualesquiera de las obligaciones previstas en el artículo 147;
@@ -4238,13 +4189,13 @@ XXVI. Incumplir cualesquiera de los demás preceptos de esta Ley, así como las 
 expedidas con fundamento en ella.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-170" placement="bottom">
+            <note placementBase="#art-170." placement="bottom">
               <p>Fracción reformada DOF 20-12-2023</p>
             </note>
           </article>
-          <article id="art-171">
-            <num>Artículo 171</num>
-            <paragraph id="art-171-para-1">
+          <article id="art-171.">
+            <num>Artículo 171.</num>
+            <paragraph id="art-171.-para-1">
               <content>
                 <p>Artículo 171. Las infracciones enumeradas en el artículo anterior serán sancionadas de la siguiente
 manera:
@@ -4277,9 +4228,9 @@ se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de
               </content>
             </paragraph>
           </article>
-          <article id="art-172">
-            <num>Artículo 172</num>
-            <paragraph id="art-172-para-1">
+          <article id="art-172.">
+            <num>Artículo 172.</num>
+            <paragraph id="art-172.-para-1">
               <content>
                 <p>Artículo 172. Para determinar la sanción, se considerarán las circunstancias en que se cometió la
 infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la
@@ -4288,18 +4239,18 @@ infracción y si se trata de reincidencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-173">
-            <num>Artículo 173</num>
-            <paragraph id="art-173-para-1">
+          <article id="art-173.">
+            <num>Artículo 173.</num>
+            <paragraph id="art-173.-para-1">
               <content>
                 <p>Artículo 173. Las multas que imponga la autoridad educativa federal serán ejecutadas por el Servicio
 de Administración Tributaria, a través de los procedimientos y disposiciones aplicables por dicho órgano.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-174">
-            <num>Artículo 174</num>
-            <paragraph id="art-174-para-1">
+          <article id="art-174.">
+            <num>Artículo 174.</num>
+            <paragraph id="art-174.-para-1">
               <content>
                 <p>Artículo 174. La revocación de la autorización otorgada a particulares produce efectos de clausura
 del servicio educativo de que se trate.
@@ -4312,18 +4263,18 @@ disposiciones normativas, se fijen.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-175">
-            <num>Artículo 175</num>
-            <paragraph id="art-175-para-1">
+          <article id="art-175.">
+            <num>Artículo 175.</num>
+            <paragraph id="art-175.-para-1">
               <content>
                 <p>Artículo 175. La diligencia de clausura se llevará a cabo en días y horas hábiles, pudiendo habilitarse
 días y horas inhábiles, cuando así se requiera para el debido cumplimiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-176">
-            <num>Artículo 176</num>
-            <paragraph id="art-176-para-1">
+          <article id="art-176.">
+            <num>Artículo 176.</num>
+            <paragraph id="art-176.-para-1">
               <content>
                 <p>Artículo 176. Toda clausura deberá hacerse constar en acta circunstanciada que deberá contener, en
 lo conducente, los requisitos siguientes:
@@ -4368,18 +4319,18 @@ los servidores públicos comisionados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-177">
-            <num>Artículo 177</num>
-            <paragraph id="art-177-para-1">
+          <article id="art-177.">
+            <num>Artículo 177.</num>
+            <paragraph id="art-177.-para-1">
               <content>
                 <p>Artículo 177. La diligencia de clausura concluirá con la colocación de sellos o marcas en lugares
 visibles del exterior del inmueble objeto de clausura.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-178">
-            <num>Artículo 178</num>
-            <paragraph id="art-178-para-1">
+          <article id="art-178.">
+            <num>Artículo 178.</num>
+            <paragraph id="art-178.-para-1">
               <content>
                 <p>Artículo 178. Si se impidiere materialmente la ejecución del acto de clausura y siempre que el caso lo
 requiera, el servidor público comisionado para llevar a cabo la diligencia solicitará el auxilio de la fuerza
@@ -4388,9 +4339,9 @@ apoyo requerido por la autoridad educativa.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-179">
-            <num>Artículo 179</num>
-            <paragraph id="art-179-para-1">
+          <article id="art-179.">
+            <num>Artículo 179.</num>
+            <paragraph id="art-179.-para-1">
               <content>
                 <p>Artículo 179. Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo
 el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que
@@ -4398,9 +4349,9 @@ procedan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-180">
-            <num>Artículo 180</num>
-            <paragraph id="art-180-para-1">
+          <article id="art-180.">
+            <num>Artículo 180.</num>
+            <paragraph id="art-180.-para-1">
               <content>
                 <p>Artículo 180. En contra de las resoluciones emitidas por las autoridades educativas en materia de
 autorización y reconocimiento de validez oficial de estudios y los trámites y procedimientos relacionados
@@ -4413,21 +4364,42 @@ validez oficial de estudios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-181">
-            <num>Artículo 181</num>
-            <paragraph id="art-181-para-1">
+          <article id="art-181.">
+            <num>Artículo 181.</num>
+            <paragraph id="art-181.-para-1">
               <content>
                 <p>Artículo 181. La tramitación y la resolución del recurso de revisión, se llevará a cabo en el ámbito
 federal conforme a la Ley Federal de Procedimiento Administrativo y, en el ámbito local, conforme a la
 norma aplicable en la materia.
-Transitorios
-Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
-Federación.
-Segundo. Se abroga la Ley General de Educación, publicada el 13 de julio de 1993 en el Diario
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley General de Educación, publicada el 13 de julio de 1993 en el Diario
 Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y
 quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este
-Decreto.
-Tercero. Se abroga la Ley General de la Infraestructura Física Educativa, publicada el 1 de febrero de
+Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Se abroga la Ley General de la Infraestructura Física Educativa, publicada el 1 de febrero de
 2008 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes
 secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general
 contrarias a este Decreto.
@@ -4438,8 +4410,15 @@ Decreto.
 En tanto se lleva el proceso de extinción referido en el Artículo Transitorio Cuarto de este Decreto, el
 Instituto Nacional de la Infraestructura Física Educativa se encargará de llevar a cabo el cierre de
 programas y obligaciones contractuales en proceso, así como la atención y seguimiento de asuntos
-jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva.
-Cuarto. A partir de la entrada en vigor de este Decreto, se iniciará el proceso para la extinción del
+jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. A partir de la entrada en vigor de este Decreto, se iniciará el proceso para la extinción del
 organismo descentralizado denominado Instituto Nacional de la Infraestructura Física Educativa, el cual
 conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación y de lo
 señalado en el Artículo Transitorio Tercero de este Decreto, bajo las siguientes disposiciones:
@@ -4468,23 +4447,51 @@ Nacional de la Infraestructura Física Educativa, pasarán a formar parte de la 
 Educación Pública, y
 V. Se respetarán los derechos laborales de los trabajadores del Instituto Nacional de la
 Infraestructura Física Educativa conforme a lo dispuesto por el Contrato Colectivo de Trabajo, la
-Ley Federal del Trabajo y demás ordenamientos aplicables.
-Quinto. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás
+Ley Federal del Trabajo y demás ordenamientos aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás
 disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a
 ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión,
 seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de
 aquellos en lo que no contravengan a este Decreto.
 Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto,
 continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de
-carácter general en los cuales se fundamentaron.
-Sexto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las
+carácter general en los cuales se fundamentaron.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las
 Legislaturas de los Estados, en el ámbito de su competencia, deberán armonizar el marco jurídico de
-conformidad con el presente Decreto.
-Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+conformidad con el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en
 el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir
-con las obligaciones que tendrán a su cargo las autoridades competentes.
-Octavo. La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y
+con las obligaciones que tendrán a su cargo las autoridades competentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo. La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y
 atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena,
 la educación especial, así como la normal y demás para la formación de maestros de educación básica,
 en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios
@@ -4493,8 +4500,15 @@ que celebre la Federación y el Gobierno de la Ciudad de México.
 La Secretaría de Educación Pública, hasta que no se lleve a cabo el proceso de descentralización
 referido en el párrafo anterior, realizará las actividades en materia de infraestructura educativa que le
 correspondan a la Ciudad de México en términos del Capítulo I del Título Quinto de la Ley General de
-Educación.
-Noveno. Las autoridades educativas, en coordinación con las autoridades correspondientes,
+Educación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno. Las autoridades educativas, en coordinación con las autoridades correspondientes,
 realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones
 legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas
 relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en
@@ -4504,19 +4518,47 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
 Secretaría General
 Secretaría de Servicios Parlamentarios
 este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la
-aplicación de dichas disposiciones.
-Décimo. La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General de Educación,
+aplicación de dichas disposiciones.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo. La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General de Educación,
 realizará las modificaciones a los planes y programas de estudio para adecuar su contenido conforme a
 lo establecido en referida norma, con la finalidad de que, para el inicio del ciclo escolar de 2021-2022, los
 libros de texto cumplan con lo establecido por la ley en la materia. De igual forma, instrumentará las
-acciones necesarias para instrumentar lo señalado en esta disposición.
-Décimo Primero. La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en
-un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la
-Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se
+acciones necesarias para instrumentar lo señalado en esta disposición.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Primero. La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en
+un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se
 reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución
 Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la
-Federación el 15 de mayo de 2019.
-Décimo Segundo. Las autoridades educativas, en el ámbito de su competencia, preverán de manera
+Federación el 15 de mayo de 2019.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Segundo. Las autoridades educativas, en el ámbito de su competencia, preverán de manera
 progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para
 garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio,
 conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el
@@ -4526,19 +4568,54 @@ en materia educativa, publicado en el Diario Oficial de la Federación el 15 de 
 En tanto se transita hacia la universalidad de la educación inicial, el Estado dará prioridad a la
 prestación de servicios de educación inicial, a niñas y niños en condiciones de vulnerabilidad y en riesgo
 de exclusión, considerando las condiciones socioeconómicas de sus madres y padres de familia o
-tutores.
-Décimo Tercero. En un plazo de ciento veinte días contados a partir de la entrada en vigor de este
+tutores.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Tercero. En un plazo de ciento veinte días contados a partir de la entrada en vigor de este
 Decreto, la Secretaría presentará la Agenda Educativa Digital para el aprovechamiento de las tecnologías
-de la información, comunicación, conocimiento y aprendizaje digital en la impartición de la educación.
-Décimo Cuarto. La Secretaría, propondrá al Consejo Nacional de Autoridades Educativas en la
+de la información, comunicación, conocimiento y aprendizaje digital en la impartición de la educación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Cuarto. La Secretaría, propondrá al Consejo Nacional de Autoridades Educativas en la
 sesión inmediata que corresponda a la entrada en vigor del presente Decreto, los lineamientos para su
-operación y funcionamiento.
-Décimo Quinto. Lo dispuesto en el artículo 146, párrafo tercero de la Ley General de Educación, no
-será aplicado respecto de aquellos trámites iniciados con anterioridad a la entrada en vigor de la misma.
-Décimo Sexto. Las autoridades educativas, en el ámbito de sus competencias, realizarán las
+operación y funcionamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Quinto. Lo dispuesto en el artículo 146, párrafo tercero de la Ley General de Educación, no
+será aplicado respecto de aquellos trámites iniciados con anterioridad a la entrada en vigor de la misma.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Sexto. Las autoridades educativas, en el ámbito de sus competencias, realizarán las
 acciones necesarias a efecto de que, la educación multigrado que impartan en términos del artículo 43 de
-la Ley General de Educación, sea superada de manera gradual.
-Décimo Séptimo. En el supuesto de que se ejerza la atribución a que se refiere el artículo 113,
+la Ley General de Educación, sea superada de manera gradual.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-10">
+            <num>Artículo 10</num>
+            <paragraph id="art-10-para-1">
+              <content>
+                <p>Décimo Séptimo. En el supuesto de que se ejerza la atribución a que se refiere el artículo 113,
 fracción XXI de la Ley General de Educación, la entidad federativa deberá celebrar un convenio con la
 Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público, en el cual se indique la
 gradualidad en el cumplimiento de esa atribución; el porcentaje o monto de recursos que la entidad
@@ -4584,23 +4661,51 @@ P R E S E N T E
 El Tribunal Pleno, en su sesión celebrada el veintinueve de junio de dos mil veintiuno, resolvió la
 acción de inconstitucionalidad 121/2019, promovida por la Comisión Nacional de los Derechos humanos,
 en los términos siguientes:
-“PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa
+“PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa
 ‘a partir del 4o. grado de primaria’, y 109 de la Ley General de Educación, expedida mediante el
 decreto publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil
-diecinueve, al tenor del considerando séptimo de esta decisión.
-TERCERO. Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI ‘De la educación
+diecinueve, al tenor del considerando séptimo de esta decisión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI ‘De la educación
 indígena’–, así como del 61 al 68 –Capítulo VIII ‘De la educación inclusiva’– de la Ley General de
 Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta
 de septiembre de dos mil diecinueve, en los términos del considerando sexto de esta
-determinación.
-CUARTO. La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses
+determinación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses
 siguientes a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia
 de que, dentro del referido plazo, previo desarrollo de la respectiva consulta a los pueblos y
 comunidades indígenas y afromexicanas, así como a las personas con discapacidad, dicho
 Congreso deberá legislar en las materias de educación indígena y de educación inclusiva, en los
-términos precisados en el considerando octavo de esta sentencia.
-QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el
+términos precisados en el considerando octavo de esta sentencia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el
 Semanario Judicial de la Federación y su Gaceta.”
 Cabe señalar que el Tribunal Pleno determinó que la declaratoria de invalidez decretada en este fallo
 surtirá sus efectos a los dieciocho meses siguientes a la notificación de estos puntos resolutivos al
@@ -4645,8 +4750,15 @@ Ciudad de México. Acuerdo del Tribunal Pleno de la Suprema Corte de Justicia de
 correspondiente al día veintinueve de junio de dos mil veintiuno.
 VISTOS, para resolver el expediente relativo a la acción de inconstitucionalidad identificada al rubro; y
 RESULTANDO:
-……..
-OCTAVO. Decisión y declaración de invalidez. En la acción de inconstitucionalidad 212/2020
+……..</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO. Decisión y declaración de invalidez. En la acción de inconstitucionalidad 212/2020
 fallada el uno de marzo de dos mil veintiuno, este Tribunal Pleno destacó una evolución de criterio en
 cuanto a que la determinación de si el vicio de ausencia de consulta tiene el potencial de invalidar toda la
 ley o solamente determinados preceptos legales dependerá de si las normas que regulan a las
@@ -4692,23 +4804,58 @@ Por lo expuesto y fundado, se resuelve:
 LEY GENERAL DE EDUCACIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
 Secretaría General
-Secretaría de Servicios Parlamentarios
-PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.
-SEGUNDO. Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa "a
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO. Es procedente y parcialmente fundada la presente acción de inconstitucionalidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO. Se reconoce la validez de los artículos 106, párrafo último, en su porción normativa "a
 partir del 4o. grado de primaria", y 109 de la Ley General de Educación, expedida mediante el decreto
 publicado en el Diario Oficial de la Federación el treinta de septiembre de dos mil diecinueve, al tenor del
-considerando séptimo de esta decisión.
-TERCERO. Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI "De la educación
+considerando séptimo de esta decisión.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO. Se declara la invalidez de los artículos 56, 57 y 58 –Capítulo VI "De la educación
 indígena"–, así como del 61 al 68 –Capítulo VIII "De la educación inclusiva"– de la Ley General de
 Educación, expedida mediante el decreto publicado en el Diario Oficial de la Federación el treinta de
-septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.
-CUARTO. La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes
+septiembre de dos mil diecinueve, en los términos del considerando sexto de esta determinación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO. La declaratoria de invalidez decretada surtirá sus efectos a los dieciocho meses siguientes
 a la notificación de estos puntos resolutivos al Congreso de la Unión, en la inteligencia de que, dentro del
 referido plazo, previo desarrollo de la respectiva consulta a los pueblos y comunidades indígenas y
 afromexicanas, así como a las personas con discapacidad, dicho Congreso deberá legislar en las
 materias de educación indígena y de educación inclusiva, en los términos precisados en el considerando
-octavo de esta sentencia.
-QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario
+octavo de esta sentencia.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO. Publíquese esta resolución en el Diario Oficial de la Federación, así como en el Semanario
 Judicial de la Federación y su Gaceta.
 Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente
 como asunto concluido.
@@ -4742,18 +4889,46 @@ XVI del artículo 115, y la fracción XII del artículo 170; se adicionan un pá
 subsecuente, al artículo 75, y un artículo 75 Bis; y se deroga el párrafo segundo del artículo 75 de la Ley
 General de Educación, para quedar como sigue:
 …………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- La Secretaría de Educación Pública contará con un plazo no mayor de 180 días, contado a
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- La Secretaría de Educación Pública contará con un plazo no mayor de 180 días, contado a
 partir del día siguiente a la publicación del presente Decreto, para actualizar los lineamientos generales
 para el expendio y distribución de alimentos y bebidas preparados y procesados en las escuelas del
 sistema educativo nacional en términos de los artículos 75 y 75 Bis de esta Ley, así como las demás
-disposiciones en la materia para garantizar el cumplimiento de lo establecido en el presente Decreto.
-Tercero.- Los Gobiernos de las Entidades Federativas y de los Municipios, deberán adecuar sus
+disposiciones en la materia para garantizar el cumplimiento de lo establecido en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Los Gobiernos de las Entidades Federativas y de los Municipios, deberán adecuar sus
 leyes, reglamentos y demás disposiciones jurídicas, en un plazo no mayor de dos años, de acuerdo con
-las competencias que a cada uno corresponda, para cumplir lo dispuesto en el presente Decreto.
-Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se
+las competencias que a cada uno corresponda, para cumplir lo dispuesto en el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se
 sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente
 ejercicio fiscal y los subsecuentes, por lo que de manera progresiva se otorgarán los recursos.
 Ciudad de México, a 8 de noviembre de 2023.- Dip. Marcela Guerra Castillo, Presidenta.- Sen.
@@ -4795,16 +4970,44 @@ Publicado en el Diario Oficial de la Federación el 7 de junio de 2024
 Artículo Único.- Se reforma el Capítulo VIII, denominado "De la educación inclusiva", y los artículos
 61; 62; 63; 64; 65; 66; 67 y 68 de la Ley General de Educación, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación
 inclusiva en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el
-respectivo proceso de consulta a personas con discapacidad.
-Tercero. La Secretaría de Educación Pública deberá emitir los lineamientos correspondientes
+respectivo proceso de consulta a personas con discapacidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. La Secretaría de Educación Pública deberá emitir los lineamientos correspondientes
 establecidos en el presente Decreto, en un plazo no mayor a 180 días a partir de su publicación en el
-Diario Oficial de la Federación.
-Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente
+Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente
 Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el
 ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales
 efectos.
@@ -4829,17 +5032,45 @@ para denominarse "De la educación indígena, intercultural y plurilingüe"; 56;
 artículos 57 Bis; 126, segundo párrafo y 131, segundo párrafo, de la Ley General de Educación, para
 quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación
 indígena, intercultural y plurilingüe en un plazo no mayor a 365 días a partir de la publicación del presente
 Decreto, realizando el respectivo proceso de consulta a pueblos y comunidades indígenas y
-afromexicanas.
-Tercero. La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y
+afromexicanas.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y
 afromexicanas, actualizar los lineamientos relativos a los Consejos de Participación Escolar en un plazo
-no mayor a 365 días a partir de la publicación del presente Decreto.
-Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente
+no mayor a 365 días a partir de la publicación del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente
 Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el
 ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales
 efectos.
@@ -4873,26 +5104,75 @@ fracción I; 12, fracción IV; 13, fracciones III y IV; 14, fracción I; 30, fra
 y 74, primer párrafo, las fracciones VII, VIII y el último párrafo y se adiciona una fracción V al artículo 13,
 de la Ley General de Educación, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario
-Oficial de la Federación.
-Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la
 Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en
-el presente Decreto.
-Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
+el presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
 General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley
-General de Acceso de las Mujeres a una Vida Libre de Violencias.
-Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las
+General de Acceso de las Mujeres a una Vida Libre de Violencias.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las
 demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y
 reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar
-cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo
-que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este
+que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este
 Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto
-publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
+publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
 General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la
 Igualdad Sustantiva entre Mujeres y Hombres.
 81 de 82

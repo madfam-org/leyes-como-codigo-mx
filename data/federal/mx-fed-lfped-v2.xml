@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2003-06-11/lfped/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2003-06-11/lfped/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -49,9 +49,9 @@
       </chapter>
       <chapter id="chapter-8">
         <num>capítulo IV “De las Medidas de Nivelación, Medidas de Inclusión y Acciones Afirmativas” conformado por los artículos 15 Bis, 15 Ter, 15 Quáter, 15 Quintus, 15 Sextus, 15 Septimus, 15 Octavus y 15 Novenus,</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1.- Las disposiciones de esta Ley son de orden público y de interés social. El objeto de la
 misma es prevenir y eliminar todas las formas de discriminación que se ejerzan contra cualquier persona
@@ -125,16 +125,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo reformado DOF 17-05-2022</p>
           </note>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Fracción adicionada DOF 04-12-2023</p>
           </note>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2.- Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las
 personas sean reales y efectivas. Los poderes públicos federales deberán eliminar todos aquellos
@@ -145,13 +145,13 @@ personas particulares en la eliminación de dichos obstáculos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Artículo reformado DOF 19-01-2023</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3.- Cada uno de los poderes públicos federales adoptará las medidas que estén a su
 alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos
@@ -166,37 +166,30 @@ afirmativas a que se refiere el Capítulo IV de esta Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Párrafo reformado DOF 01-12-2016</p>
           </note>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4.- Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o
-anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-1o">
-          <num>Artículo 1o</num>
-          <paragraph id="art-1o-para-1">
-            <content>
-              <p>artículo 1o. constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley.
+anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en términos del
+artículo 1o. constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley.
 , 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-1o" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Artículo reformado DOF 12-06-2013</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5.- No se considerarán discriminatorias las acciones afirmativas que tengan por efecto
 promover la igualdad real de oportunidades de las personas o grupos. Tampoco será juzgada como
@@ -205,13 +198,13 @@ sea el menoscabo de derechos.
 , 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Artículo reformado DOF 27-11-2007</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6.- La interpretación del contenido de esta Ley, así como la actuación de los poderes
 públicos federales se ajustará con los instrumentos internacionales aplicables de los que el Estado
@@ -221,13 +214,13 @@ organismos multilaterales y regionales y demás legislación aplicable.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7.- Para los efectos del artículo anterior, cuando se presenten diferentes interpretaciones, se
 deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados
@@ -235,22 +228,22 @@ por conductas discriminatorias.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8.- En la aplicación de la presente Ley intervendrán los poderes públicos federales, así como
 el Consejo Nacional para Prevenir la Discriminación, en sus correspondientes ámbitos de competencia.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9.- Con base en lo establecido en el artículo primero constitucional y el artículo 1, párrafo
 segundo, fracción III de esta Ley se consideran como discriminación, entre otras:
@@ -378,118 +371,118 @@ Fracción reformada y recorrida DOF 20-03-2014. Recorrida DOF 22-11-2021
 Reforma DOF 20-03-2014: Derogó del artículo el entonces párrafo primero</p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 07-06-2013</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 04-12-2023</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 04-12-2023</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Fracción adicionada DOF 22-11-2021</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Derogado.
 . Derogado DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Artículo reformado DOF 07-06-2013</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- Derogado.
 . Derogado DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo reformado DOF 24-12-2013</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- Derogado.
 
@@ -500,19 +493,19 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
@@ -667,9 +660,9 @@ establecen en el estatuto.
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- El Consejo Nacional para Prevenir la Discriminación, en adelante el Consejo, es un
 organismo descentralizado sectorizado a la Secretaría de Gobernación, con personalidad jurídica y
@@ -686,13 +679,13 @@ adoptará sus decisiones con plena independencia.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- El Consejo tiene como objeto:
 I. Contribuir al desarrollo cultural, social y democrático del país;
@@ -704,18 +697,18 @@ de prevención y eliminación de la discriminación.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- El domicilio del Consejo es la Ciudad de México, Distrito Federal, pero podrá establecer
 delegaciones y oficinas en otros lugares de la República Mexicana.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19.- El patrimonio del Consejo se integrará con:
 I. Los recursos presupuestales que le asigne la Cámara de Diputados del Congreso de la Unión a
@@ -730,9 +723,9 @@ De las Atribuciones.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- Son atribuciones del Consejo:
 
@@ -917,181 +910,181 @@ LVI. Las demás establecidas en esta Ley, en el Estatuto Orgánico y en otras di
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo reformado DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- El Consejo difundirá periódicamente los avances, resultados e impactos de las políticas,
 programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener
@@ -1101,9 +1094,9 @@ De los Órganos de Administración.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- La Administración del Consejo corresponde a:
 I. La Junta de Gobierno, y
@@ -1119,9 +1112,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- La Junta de Gobierno estará integrada por la persona que ocupe la Presidencia del
 Consejo, siete representantes del Poder Ejecutivo Federal y siete de la Asamblea Consultiva del Consejo.
@@ -1152,16 +1145,16 @@ Instituto Nacional de Migración y Sistema Nacional para el Desarrollo Integral 
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Párrafo reformado DOF 28-04-2022</p>
           </note>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- La Junta de Gobierno tendrá, además de aquellas que establece el artículo 58 de la Ley
 Federal de las Entidades Paraestatales, las siguientes atribuciones:
@@ -1211,43 +1204,43 @@ XI. Las demás que le confieran éste u otros ordenamientos.
 Fracción recorrida DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- La Junta de Gobierno sesionará válidamente cuando se encuentren presentes más de la
 mitad de las personas representantes, siempre que esté la persona titular de la Presidencia de la Junta
@@ -1268,13 +1261,13 @@ Secretaría de Servicios Parlamentarios
 Sección adicionada DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- La persona que ocupe la presidencia del Consejo, quien presidirá la Junta, será
 designada por el titular del Poder Ejecutivo Federal.
@@ -1291,19 +1284,19 @@ de su nombramiento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Fracción derogada DOF 13-05-2022</p>
           </note>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Fracción reformada DOF 20-05-2021</p>
           </note>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- Durante su encargo la persona que ocupe la Presidencia del Consejo no podrá
 desempeñar algún otro empleo, cargo o comisión distintos, que sean remunerados, con excepción de los
@@ -1311,26 +1304,26 @@ de carácter docente o científico.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- La persona que ocupe la presidencia del Consejo durará en su cargo cuatro años y
 podrá ser ratificada por un periodo igual, por una sola ocasión.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29.- La persona que ocupe la presidencia del Consejo podrá ser removida de sus funciones
 y, en su caso, sujeta a responsabilidad, sólo por las causas y mediante los procedimientos establecidos
@@ -1338,13 +1331,13 @@ por el Título Cuarto de la Constitución Política de los Estados Unidos Mexica
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30.- La Presidencia del Consejo tendrá, además de aquellas que establece el artículo 59 de
 la Ley Federal de las Entidades Paraestatales, las siguientes atribuciones:
@@ -1409,49 +1402,49 @@ De la Asamblea Consultiva
 Sección recorrida (antes Sección Cuarta) DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Párrafo reformado DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Fracción adicionada DOF 01-12-2016</p>
           </note>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31.- La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas
 públicas, programas y proyectos que desarrolle el Consejo en Materia de Prevención y Eliminación de la
@@ -1464,9 +1457,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- La Asamblea Consultiva estará integrada por no menos de diez ni más de veinte
 personas representantes de los sectores privado, social y de la comunidad académica que, por su
@@ -1479,22 +1472,22 @@ Junta de Gobierno en los términos de lo dispuesto en el Estatuto Orgánico.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33.- Los integrantes de la Asamblea Consultiva, no recibirán retribución, emolumento, o
 compensación alguna por su participación, ya que su carácter es honorífico.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34.- Son facultades de la Asamblea Consultiva:
 I. Presentar opiniones ante la Junta de Gobierno, relacionadas con el desarrollo de los programas y
@@ -1520,31 +1513,31 @@ VIII. Las demás que señalen el Estatuto Orgánico y otras disposiciones aplica
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35.- Las personas integrantes de la Asamblea Consultiva durarán en su cargo tres años, y
 podrán ser ratificadas por un período igual, en los términos de lo dispuesto en el Estatuto Orgánico. Cada
@@ -1552,13 +1545,13 @@ año podrán renovarse máximo seis de sus integrantes.
 , 01-12-2016</p>
             </content>
           </paragraph>
-          <note placementBase="#art-35" placement="bottom">
+          <note placementBase="#art-35." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36.- Las reglas de funcionamiento y organización de la Asamblea Consultiva se establecerán
 en el Estatuto Orgánico.
@@ -1570,9 +1563,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37.- El Consejo proveerá a la Asamblea Consultiva de los recursos necesarios para el
 desempeño de sus actividades.
@@ -1582,9 +1575,9 @@ Sección recorrida (antes Sección Quinta) DOF 20-03-2014</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38.- El Consejo contará con una contraloría, órgano de control interno, al frente de la cual
 estará la persona designada en los términos de la Ley Orgánica de la Administración Pública Federal.
@@ -1600,16 +1593,16 @@ ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
 El Comisario acudirá con voz pero sin voto, a las sesiones de la Junta de Gobierno.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo reformado DOF 09-04-2012</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo reformado DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39.- El Comisario Público, tendrá las siguientes facultades:
 I. Vigilar el cumplimiento de las disposiciones legales, así como de las reglamentarias, administrativas
@@ -1628,13 +1621,13 @@ Prevenciones Generales
 Sección recorrida (antes Sección Sexta) DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-39" placement="bottom">
+          <note placementBase="#art-39." placement="bottom">
             <p>Fracción reformada DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- El Consejo se regirá por lo dispuesto en esta Ley y su Estatuto Orgánico en lo relativo a
 su estructura, funcionamiento, operación, desarrollo y control. Para tal efecto contará con las
@@ -1644,9 +1637,9 @@ interna, conforme a lo establecido en la legislación de la materia y por esta L
             </content>
           </paragraph>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41.- Queda reservado a los Tribunales Federales el conocimiento y resolución de todas las
 controversias en que sea parte el Consejo.
@@ -1661,9 +1654,9 @@ Sección recorrida (antes Sección Séptima) DOF 20-03-2014</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42.- Las relaciones de trabajo del organismo y su personal se regirán por la Ley Federal del
 Trabajo, reglamentaria del apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos
@@ -1671,9 +1664,9 @@ Mexicanos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43.- El Consejo conocerá de las quejas por los presuntos actos, omisiones o prácticas
 sociales discriminatorias a que se refiere esta ley, atribuidas a particulares, personas físicas o morales,
@@ -1689,13 +1682,13 @@ practicarán las notificaciones.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44.- Las quejas que se presenten ante el Consejo sólo podrán admitirse dentro del plazo de
 un año, contado a partir de que se haya iniciado la realización de los presuntos actos, omisiones o
@@ -1705,13 +1698,13 @@ a juicio del Consejo, éste podrá ampliar dicho plazo mediante un acuerdo funda
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>Artículo 45.- El Consejo podrá proporcionar orientación a las personas peticionarias y agraviadas
 respecto a los derechos que les asisten y los medios para hacerlos valer y, en su caso, las canalizará
@@ -1720,22 +1713,22 @@ en el Estatuto Orgánico.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-45" placement="bottom">
+          <note placementBase="#art-45." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>Artículo 46.- El Consejo, dentro del ámbito de su competencia, iniciará sus actuaciones a petición de
 parte; también podrá actuar de oficio en aquellos casos en que la Presidencia así lo determine.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>Artículo 47.- En todo lo no previsto en esta Ley respecto a los procedimientos que la misma
 establece, se estará a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares.
@@ -1747,13 +1740,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Artículo reformado DOF 14-11-2025</p>
           </note>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>Artículo 48.- Tanto las personas particulares, como las personas servidoras públicas y los poderes
 públicos federales, están obligados a auxiliar al personal del Consejo en el desempeño de sus funciones
@@ -1765,7 +1758,7 @@ aplique las sanciones administrativas conducentes.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-48" placement="bottom">
+          <note placementBase="#art-48." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
@@ -1783,9 +1776,9 @@ profesionalismo, buena fe, gratuidad y suplencia de la deficiencia de la queja.
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>Artículo 49.- Las quejas podrán presentarse por escrito, con la firma o huella digital y datos generales
 de la parte peticionaria, así como la narración de los hechos que las motivan.
@@ -1796,13 +1789,13 @@ presentadas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-49" placement="bottom">
+          <note placementBase="#art-49." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>Artículo 50.- El Consejo no admitirá quejas anónimas, ni aquéllas que resulten evidentemente
 improcedentes, infundadas o no expongan conductas o prácticas discriminatorias, dentro del ámbito de
@@ -1817,13 +1810,13 @@ de la queja o la actuación del Consejo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-50" placement="bottom">
+          <note placementBase="#art-50." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>Artículo 51.- Si el Consejo no resulta competente o no se trata de un acto, omisión o práctica social
 discriminatoria, podrá brindar a la parte interesada la orientación necesaria para que, en su caso, acuda
@@ -1831,13 +1824,13 @@ ante la instancia a la cual le corresponda conocer del caso.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-51" placement="bottom">
+          <note placementBase="#art-51." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>Artículo 52.- Cuando de la narración de los hechos motivo de queja no se puedan deducir los
 elementos mínimos para la intervención del Consejo, se solicitará por cualquier medio a la persona
@@ -1847,13 +1840,13 @@ la omisión, se emitirá acuerdo de conclusión del expediente por falta de inte
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-52" placement="bottom">
+          <note placementBase="#art-52." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>Artículo 53.- En ningún momento la presentación de una queja ante el Consejo interrumpirá la
 prescripción de las acciones judiciales o recursos administrativos previstos por la legislación
@@ -1866,13 +1859,13 @@ Secretaría de Servicios Parlamentarios
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-53" placement="bottom">
+          <note placementBase="#art-53." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>Artículo 54.- El Consejo, por conducto de la persona que ocupe la presidencia, de manera
 excepcional y previa consulta con la Junta de Gobierno, podrá excusarse de conocer de un determinado
@@ -1880,13 +1873,13 @@ caso si éste puede afectar su autoridad moral o autonomía.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-54" placement="bottom">
+          <note placementBase="#art-54." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>Artículo 55.- Cuando se presenten dos o más quejas que se refieran a los mismos hechos, actos,
 omisiones o prácticas sociales presuntamente discriminatorias, el Consejo, a su juicio, podrá acumularlas
@@ -1895,25 +1888,25 @@ relevantes al caso que se investiga, de conformidad con lo establecido en el Est
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-55" placement="bottom">
+          <note placementBase="#art-55." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>Artículo 56.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>Artículo 57.- Derogado.
 
@@ -1923,73 +1916,73 @@ De la Reclamación.
 Sección derogada DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-57" placement="bottom">
+          <note placementBase="#art-57." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>Artículo 58.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>Artículo 59.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>Artículo 60.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-60" placement="bottom">
+          <note placementBase="#art-60." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>Artículo 61.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-61" placement="bottom">
+          <note placementBase="#art-61." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>Artículo 62.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-63">
-          <num>Artículo 63</num>
-          <paragraph id="art-63-para-1">
+        <article id="art-63.">
+          <num>Artículo 63.</num>
+          <paragraph id="art-63.-para-1">
             <content>
               <p>Artículo 63.- Derogado.
 
@@ -1998,7 +1991,7 @@ De la Sustanciación
 Sección adicionada DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
@@ -2123,9 +2116,9 @@ Sección recorrida (antes Sección Tercera) DOF 20-03-2014</p>
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-64">
-          <num>Artículo 64</num>
-          <paragraph id="art-64-para-1">
+        <article id="art-64.">
+          <num>Artículo 64.</num>
+          <paragraph id="art-64.-para-1">
             <content>
               <p>Artículo 64.- La conciliación es la etapa del procedimiento de queja por medio del cual personal de
 este Consejo intenta, en los casos que sea procedente, avenir a las partes para resolverla, a través de
@@ -2144,13 +2137,13 @@ suficientes, se procederá a su determinación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-64" placement="bottom">
+          <note placementBase="#art-64." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-65">
-          <num>Artículo 65</num>
-          <paragraph id="art-65-para-1">
+        <article id="art-65.">
+          <num>Artículo 65.</num>
+          <paragraph id="art-65.-para-1">
             <content>
               <p>Artículo 65.- Una vez admitida la queja, lo cual se hará del conocimiento del presunto agraviado por
 conductas discriminatorias, se le citará para que se presente en la fecha y hora señalada a la audiencia
@@ -2159,7 +2152,7 @@ notificó a las partes dicha celebración. Esta audiencia tendrá verificativo e
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-65" placement="bottom">
+          <note placementBase="#art-65." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
@@ -2181,9 +2174,9 @@ siempre y cuando se cuente con la anuencia de cualquiera de éstas.
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-66">
-          <num>Artículo 66</num>
-          <paragraph id="art-66-para-1">
+        <article id="art-66.">
+          <num>Artículo 66.</num>
+          <paragraph id="art-66.-para-1">
             <content>
               <p>Artículo 66.- Al preparar la audiencia, la persona conciliadora solicitará a las partes los elementos de
 juicio que considere convenientes para ejercer adecuadamente sus atribuciones, pudiendo aquéllas
@@ -2191,13 +2184,13 @@ ofrecer los medios de prueba que estimen necesarios.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-66" placement="bottom">
+          <note placementBase="#art-66." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-67">
-          <num>Artículo 67</num>
-          <paragraph id="art-67-para-1">
+        <article id="art-67.">
+          <num>Artículo 67.</num>
+          <paragraph id="art-67.-para-1">
             <content>
               <p>Artículo 67.- En caso de que la parte peticionaria o a quien se atribuyan los hechos motivo de queja
 no comparezcan a la audiencia de conciliación y justifiquen su inasistencia dentro del plazo de los tres
@@ -2205,13 +2198,13 @@ días hábiles siguientes, por única ocasión se señalará nuevo día y hora p
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-67" placement="bottom">
+          <note placementBase="#art-67." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-68">
-          <num>Artículo 68</num>
-          <paragraph id="art-68-para-1">
+        <article id="art-68.">
+          <num>Artículo 68.</num>
+          <paragraph id="art-68.-para-1">
             <content>
               <p>Artículo 68.- La persona conciliadora expondrá a las partes un resumen de la queja y de los
 elementos de juicio con los que se cuente hasta ese momento y las exhortará a resolverla por esa vía,
@@ -2220,13 +2213,13 @@ competencia del Consejo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-68" placement="bottom">
+          <note placementBase="#art-68." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-69">
-          <num>Artículo 69</num>
-          <paragraph id="art-69-para-1">
+        <article id="art-69.">
+          <num>Artículo 69.</num>
+          <paragraph id="art-69.-para-1">
             <content>
               <p>Artículo 69.- La audiencia de conciliación podrá ser suspendida a juicio de la persona conciliadora o a
 petición de ambas partes de común acuerdo hasta en una ocasión, debiéndose reanudar, en su caso,
@@ -2234,13 +2227,13 @@ dentro de los cinco días hábiles siguientes.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-69" placement="bottom">
+          <note placementBase="#art-69." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-70">
-          <num>Artículo 70</num>
-          <paragraph id="art-70-para-1">
+        <article id="art-70.">
+          <num>Artículo 70.</num>
+          <paragraph id="art-70.-para-1">
             <content>
               <p>Artículo 70.- De lograr acuerdo se suscribirá convenio conciliatorio; el cual tendrá autoridad de cosa
 juzgada y traerá aparejada ejecución, y el Consejo dictará acuerdo de conclusión del expediente de
@@ -2249,13 +2242,13 @@ cumplimiento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-70" placement="bottom">
+          <note placementBase="#art-70." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-71">
-          <num>Artículo 71</num>
-          <paragraph id="art-71-para-1">
+        <article id="art-71.">
+          <num>Artículo 71.</num>
+          <paragraph id="art-71.-para-1">
             <content>
               <p>Artículo 71.- En el supuesto de que el Consejo verifique la falta de cumplimiento de lo convenido, su
 ejecución podrá promoverse ante los tribunales competentes en la vía de apremio o en juicio ejecutivo, a
@@ -2270,13 +2263,13 @@ incumplimiento total o parcial del convenio.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-71" placement="bottom">
+          <note placementBase="#art-71." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-72">
-          <num>Artículo 72</num>
-          <paragraph id="art-72-para-1">
+        <article id="art-72.">
+          <num>Artículo 72.</num>
+          <paragraph id="art-72.-para-1">
             <content>
               <p>Artículo 72.- De no lograrse conciliación entre las partes, se abrirá la etapa de la investigación, o se
 determinará la queja de considerar el Consejo que cuenta con los elementos o pruebas necesarias para
@@ -2287,13 +2280,13 @@ De la Investigación
 Sección recorrida (antes Sección Cuarta) DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-72" placement="bottom">
+          <note placementBase="#art-72." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
+        <article id="art-73.">
+          <num>Artículo 73.</num>
+          <paragraph id="art-73.-para-1">
             <content>
               <p>Artículo 73.- El Consejo efectuará la investigación, para lo cual tendrá las siguientes facultades:
 
@@ -2318,25 +2311,25 @@ del asunto.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Párrafo reformado DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-73" placement="bottom">
+          <note placementBase="#art-73." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-74">
-          <num>Artículo 74</num>
-          <paragraph id="art-74-para-1">
+        <article id="art-74.">
+          <num>Artículo 74.</num>
+          <paragraph id="art-74.-para-1">
             <content>
               <p>Artículo 74.- Para documentar debidamente las evidencias, el Consejo podrá solicitar la rendición y
 desahogo de todas aquellas pruebas que estime necesarias, con la única condición de que éstas se
@@ -2344,9 +2337,9 @@ encuentren previstas como tales por el orden jurídico mexicano.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-75">
-          <num>Artículo 75</num>
-          <paragraph id="art-75-para-1">
+        <article id="art-75.">
+          <num>Artículo 75.</num>
+          <paragraph id="art-75.-para-1">
             <content>
               <p>Artículo 75.- Las pruebas que se presenten por las partes, así como las que de oficio se allegue el
 Consejo, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la
@@ -2354,13 +2347,13 @@ legalidad, a fin de que puedan producir convicción sobre los hechos motivo de q
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-75" placement="bottom">
+          <note placementBase="#art-75." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-76">
-          <num>Artículo 76</num>
-          <paragraph id="art-76-para-1">
+        <article id="art-76.">
+          <num>Artículo 76.</num>
+          <paragraph id="art-76.-para-1">
             <content>
               <p>Artículo 76.- Derogado.
 
@@ -2371,13 +2364,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-76" placement="bottom">
+          <note placementBase="#art-76." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-77">
-          <num>Artículo 77</num>
-          <paragraph id="art-77-para-1">
+        <article id="art-77.">
+          <num>Artículo 77.</num>
+          <paragraph id="art-77.-para-1">
             <content>
               <p>Artículo 77.- Derogado.
 
@@ -2386,7 +2379,7 @@ De la Resolución
 Sección recorrida (antes Sección Quinta) DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-77" placement="bottom">
+          <note placementBase="#art-77." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
@@ -2433,9 +2426,9 @@ administrativas y responsabilidades señaladas en este ordenamiento.
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-78">
-          <num>Artículo 78</num>
-          <paragraph id="art-78-para-1">
+        <article id="art-78.">
+          <num>Artículo 78.</num>
+          <paragraph id="art-78.-para-1">
             <content>
               <p>Artículo 78.- Si al concluir la investigación no se logra comprobar que se hayan cometido los actos,
 omisiones o prácticas sociales discriminatorias imputadas, el Consejo dictará el acuerdo de no
@@ -2443,13 +2436,13 @@ discriminación, atendiendo a los requisitos a que se refiere el Estatuto Orgán
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-78" placement="bottom">
+          <note placementBase="#art-78." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-79">
-          <num>Artículo 79</num>
-          <paragraph id="art-79-para-1">
+        <article id="art-79.">
+          <num>Artículo 79.</num>
+          <paragraph id="art-79.-para-1">
             <content>
               <p>Artículo 79.- Si una vez finalizada la investigación, el Consejo comprueba los actos, omisiones o
 prácticas sociales discriminatorias formulará la correspondiente resolución por disposición, en la cual se
@@ -2463,7 +2456,7 @@ conformidad con lo señalado en el Estatuto Orgánico.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-79" placement="bottom">
+          <note placementBase="#art-79." placement="bottom">
             <p>Artículo reformado DOF 20-03-2014</p>
           </note>
         </article>
@@ -2512,45 +2505,45 @@ Sección derogada DOF 20-03-2014</p>
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-80">
-          <num>Artículo 80</num>
-          <paragraph id="art-80-para-1">
+        <article id="art-80.">
+          <num>Artículo 80.</num>
+          <paragraph id="art-80.-para-1">
             <content>
               <p>Artículo 80.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-80" placement="bottom">
+          <note placementBase="#art-80." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-81">
-          <num>Artículo 81</num>
-          <paragraph id="art-81-para-1">
+        <article id="art-81.">
+          <num>Artículo 81.</num>
+          <paragraph id="art-81.-para-1">
             <content>
               <p>Artículo 81.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-81" placement="bottom">
+          <note placementBase="#art-81." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-82">
-          <num>Artículo 82</num>
-          <paragraph id="art-82-para-1">
+        <article id="art-82.">
+          <num>Artículo 82.</num>
+          <paragraph id="art-82.-para-1">
             <content>
               <p>Artículo 82.- Derogado.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-82" placement="bottom">
+          <note placementBase="#art-82." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-83">
-          <num>Artículo 83</num>
-          <paragraph id="art-83-para-1">
+        <article id="art-83.">
+          <num>Artículo 83.</num>
+          <paragraph id="art-83.-para-1">
             <content>
               <p>Artículo 83.- El Consejo dispondrá la adopción de las siguientes medidas administrativas para
 prevenir y eliminar la discriminación:
@@ -2573,22 +2566,22 @@ de comunicación.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-83" placement="bottom">
+          <note placementBase="#art-83." placement="bottom">
             <p>Párrafo derogado DOF 20-03-2014</p>
           </note>
         </article>
@@ -2630,9 +2623,9 @@ Sección adicionada DOF 20-03-2014</p>
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-84">
-          <num>Artículo 84</num>
-          <paragraph id="art-84-para-1">
+        <article id="art-84.">
+          <num>Artículo 84.</num>
+          <paragraph id="art-84.-para-1">
             <content>
               <p>Articulo 84.- Para la imposición de las medidas administrativas y de reparación, se tendrá en
 consideración:
@@ -2651,28 +2644,28 @@ IV. El efecto producido por la conducta o práctica social discriminatoria.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Párrafo reformado DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Fracción derogada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Fracción reformada DOF 20-03-2014</p>
           </note>
-          <note placementBase="#art-84" placement="bottom">
+          <note placementBase="#art-84." placement="bottom">
             <p>Fracción adicionada DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-85">
-          <num>Artículo 85</num>
-          <paragraph id="art-85-para-1">
+        <article id="art-85.">
+          <num>Artículo 85.</num>
+          <paragraph id="art-85.-para-1">
             <content>
               <p>Artículo 85.- Derogado.
 
@@ -2681,13 +2674,13 @@ De la Ejecución de las Medidas Administrativas y de Reparación
 Sección adicionada DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-85" placement="bottom">
+          <note placementBase="#art-85." placement="bottom">
             <p>Artículo derogado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-86">
-          <num>Artículo 86</num>
-          <paragraph id="art-86-para-1">
+        <article id="art-86.">
+          <num>Artículo 86.</num>
+          <paragraph id="art-86.-para-1">
             <content>
               <p>Artículo 86.- Tratándose de personas servidoras públicas, la omisión en el cumplimiento a la
 resolución por disposición en el plazo concedido, dará lugar a que el Consejo lo haga del conocimiento
@@ -2704,13 +2697,13 @@ que haya incurrido.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-86" placement="bottom">
+          <note placementBase="#art-86." placement="bottom">
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-87">
-          <num>Artículo 87</num>
-          <paragraph id="art-87-para-1">
+        <article id="art-87.">
+          <num>Artículo 87.</num>
+          <paragraph id="art-87.-para-1">
             <content>
               <p>Artículo 87.- El Consejo tendrá a su cargo la aplicación de las medidas administrativas y de
 reparación previstas en los artículos 83 y 83 Bis de esta ley.
@@ -2722,13 +2715,13 @@ Del Recurso de Revisión
 Sección adicionada DOF 20-03-2014</p>
             </content>
           </paragraph>
-          <note placementBase="#art-87" placement="bottom">
+          <note placementBase="#art-87." placement="bottom">
             <p>Artículo adicionado DOF 20-03-2014</p>
           </note>
         </article>
-        <article id="art-88">
-          <num>Artículo 88</num>
-          <paragraph id="art-88-para-1">
+        <article id="art-88.">
+          <num>Artículo 88.</num>
+          <paragraph id="art-88.-para-1">
             <content>
               <p>Artículo 88.- Contra las resoluciones y actos del Consejo los interesados podrán interponer el recurso
 de revisión, de conformidad con la Ley Federal del Procedimiento Administrativo.
@@ -2805,10 +2798,27 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO QUINCUAGÉSIMO SEGUNDO. Se reforman los artículos 38, párrafos segundo y tercero;
 y 39, fracción V de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-88." placement="bottom">
+            <p>Artículo adicionado DOF 20-03-2014</p>
+          </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -2823,18 +2833,8 @@ LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
-DECRETO por el que se reforma la fracción XI del artículo 9 y se adiciona la fracción V al</p>
-            </content>
-          </paragraph>
-          <note placementBase="#art-88" placement="bottom">
-            <p>Artículo adicionado DOF 20-03-2014</p>
-          </note>
-        </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
-            <content>
-              <p>artículo 10 de la Ley Federal para Prevenir y Eliminar la Discriminación.
+DECRETO por el que se reforma la fracción XI del artículo 9 y se adiciona la fracción V al
+artículo 10 de la Ley Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 7 de junio de 2013
 ARTÍCULO ÚNICO.- Se reforma la fracción XI del artículo 9 y se adiciona la fracción V al artículo 10
 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
@@ -2902,55 +2902,29 @@ DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la
 Federal para Prevenir y Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 20 de marzo de 2014
 ARTÍCULO ÚNICO.- Se reforman los artículos 3, 4, 5, 6 y 8; el párrafo segundo del 9 y sus fracciones
-I, V, VI, XII, XIII, XV y la XXIX que pasa a ser la fracción XXXIV, así como sus fracciones XXVII, XXVIII; el</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
-            <content>
-              <p>artículo 16; el primer párrafo del artículo 20; el articulo 23 en sus párrafos primero, segundo, tercero,
-cuarto y quinto, que pasa a ser el sexto, y sus fracciones I a V; las fracciones I, II, III, IV, V, VI, VII del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
-            <content>
-              <p>artículo 24; el artículo 25; el párrafo primero del artículo 26; los artículos 27, 28 y 29; el primer párrafo y
+I, V, VI, XII, XIII, XV y la XXIX que pasa a ser la fracción XXXIV, así como sus fracciones XXVII, XXVIII; el
+artículo 16; el primer párrafo del artículo 20; el articulo 23 en sus párrafos primero, segundo, tercero,
+cuarto y quinto, que pasa a ser el sexto, y sus fracciones I a V; las fracciones I, II, III, IV, V, VI, VII del
+artículo 24; el artículo 25; el párrafo primero del artículo 26; los artículos 27, 28 y 29; el primer párrafo y
 las fracciones II, III, IV, V, VII, VIII, IX, X y XI del artículo 30; los artículos 32, 34 y 35; el segundo y tercer
 párrafos del artículo 38; la fracción V del artículo 39; la denominación del Capítulo Quinto “De los
-Procedimientos”; el primer párrafo del artículo 43 que se recorre al segundo párrafo; el primer párrafo del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
-            <content>
-              <p>artículo 44; el artículo 45; el primer párrafo del artículo 48; el artículo 49; el primer párrafo del artículo 50;
+Procedimientos”; el primer párrafo del artículo 43 que se recorre al segundo párrafo; el primer párrafo del
+artículo 44; el artículo 45; el primer párrafo del artículo 48; el artículo 49; el primer párrafo del artículo 50;
 los artículos 51, 52, 53, 54 y 55; el primer párrafo del artículo 64; los artículos 65, 66, 67, 68, 69 y 70; el
-primer párrafo del artículo 71; el artículo 72; el primer párrafo y las fracciones I, II primer párrafo y V del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-73">
-          <num>Artículo 73</num>
-          <paragraph id="art-73-para-1">
-            <content>
-              <p>artículo 73; los artículos 75 y 78; el primer párrafo del artículo 79; las fracciones I a V del artículo 83; el
+primer párrafo del artículo 71; el artículo 72; el primer párrafo y las fracciones I, II primer párrafo y V del
+artículo 73; los artículos 75 y 78; el primer párrafo del artículo 79; las fracciones I a V del artículo 83; el
 primer párrafo y las fracciones II y III del artículo 84; Se adicionan un párrafo segundo y las fracciones I,
 II, III, IV, V, VI, VII, VIII, IX y X al artículo 1; las fracciones XXII Bis, XXII Ter, XXIX a XXXIII al 9; un</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-71">
-          <num>Artículo 71</num>
-          <paragraph id="art-71-para-1">
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
             <content>
-              <p>artículo 71; un segundo párrafo a la fracción II del artículo 73; los artículos 77 Bis, 77 Ter y 77 Quáter; el
+              <p>Tercera “De la Sustanciación” del Capítulo V “De los Procedimientos”, recorriéndose el orden de las
+subsecuentes secciones; un segundo párrafo al artículo 64; un artículo 65 Bis, un segundo párrafo al
+artículo 71; un segundo párrafo a la fracción II del artículo 73; los artículos 77 Bis, 77 Ter y 77 Quáter; el
 segundo y tercer párrafo al artículo 79; los artículos 79 Bis y 79 Ter; el Capítulo VI “De las medidas
 administrativas y de reparación” y su Sección Primera “De las medidas administrativas y de reparación”;
 los artículos 83 Bis y 83 Ter; la Sección Segunda “De los criterios para la imposición de medidas
@@ -2972,20 +2946,62 @@ TRANSITORIOS
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-TERCERO. El período de duración a que hace referencia esta ley para la persona que ocupe el cargo
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. El período de duración a que hace referencia esta ley para la persona que ocupe el cargo
 de la presidencia del Consejo Nacional para Prevenir la Discriminación entrará en vigor a partir del
-siguiente nombramiento que se realice.
-CUARTO. El sistema para iniciar la renovación escalonada de las personas integrantes de la
+siguiente nombramiento que se realice.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. El sistema para iniciar la renovación escalonada de las personas integrantes de la
 Asamblea Consultiva se propondrá mediante acuerdo de dicho órgano colegiado, y se pondrá a
-consideración de la Junta de Gobierno para su aprobación.
-QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente decreto, el Consejo
+consideración de la Junta de Gobierno para su aprobación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente decreto, el Consejo
 Nacional para Prevenir la Discriminación deberá emitir los lineamientos que regulen la aplicación de las
-medidas previstas en los artículos 83 y 83 Bis de la presente Ley.
-SEXTO. Conforme a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman,
+medidas previstas en los artículos 83 y 83 Bis de la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO. Conforme a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman,
 adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal,
 publicado en el Diario Oficial de la Federación el 2 de enero de 2013, las modificaciones previstas en el
 presente Decreto para los artículos 38, 39, 73 Ter y 86 de esta Ley, exclusivamente por lo que se refiere
@@ -3016,12 +3032,33 @@ Artículo Único.- Se reforman los artículos 3, en su segundo párrafo, y 35; y
 XI Bis al artículo 30 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como
 sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente
-Decreto.
-Tercero. Todo lo relativo a la renovación a la que hace alusión el artículo 35 de la Ley Federal para
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todo lo relativo a la renovación a la que hace alusión el artículo 35 de la Ley Federal para
 Prevenir y Eliminar la Discriminación, que se reforma con motivo del presente Decreto, se propondrá
 mediante acuerdo de la Asamblea Consultiva y se pondrá a consideración de la Junta de Gobierno para
 su aprobación.
@@ -3044,10 +3081,24 @@ Publicado en el Diario Oficial de la Federación el 21 de junio de 2018
 Artículo Único. Se reforman las fracciones XXIX y XXXII del artículo 20 de la Ley Federal para
 Prevenir y Eliminar la Discriminación, para quedar como sigue:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Quedan derogadas todas las disposiciones que se opongan a lo señalado en el presente
 Decreto.
 Ciudad de México, a 26 de abril de 2018.- Dip. Edgar Romo García, Presidente.- Sen. Ernesto
 Cordero Arroyo, Presidente.- Dip. Sofía Del Sagrario De León Maza, Secretaria.- Sen. Juan G. Flores
@@ -3069,23 +3120,51 @@ Publicado en el Diario Oficial de la Federación el 20 de mayo de 2021
 Artículo Quincuagésimo Cuarto.- Se reforma la fracción III del artículo 26 de la Ley Federal para
 Prevenir y Eliminar la Discriminación, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
 la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se
-expidió la Ley Orgánica de la Fiscalía General de la República.
-Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
+expidió la Ley Orgánica de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.
 Todas las referencias normativas a la Procuraduría General de la República o del Procurador General
 de la República, se entenderán referidas a la Fiscalía General de la República o a su persona titular,
-respectivamente, en los términos de sus funciones constitucionales vigentes.
-Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
+respectivamente, en los términos de sus funciones constitucionales vigentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las designaciones, nombramientos y procesos en curso para designación, realizados de
 conformidad con las disposiciones constitucionales y legales, relativos a la persona titular de la Fiscalía
 General de la República, las Fiscalías Especializadas, el Órgano Interno de Control y las demás personas
 titulares de las unidades administrativas, órganos desconcentrados y órganos que se encuentren en el
 ámbito de la Fiscalía General de la República, así como de las personas integrantes del Consejo
 Ciudadano de la Fiscalía General de la República, continuarán vigentes por el periodo para el cual fueron
 designados o hasta la conclusión en el ejercicio de la función o, en su caso, hasta la terminación del
-proceso pendiente.
-Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
+proceso pendiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. La persona titular de la Fiscalía General de la República contará con un término de noventa
 días naturales siguientes a la entrada en vigor del presente Decreto, para expedir el Estatuto orgánico de
 la Fiscalía General de la República y de ciento ochenta días naturales, contados a partir de la expedición
 de éste, para expedir el Estatuto del Servicio Profesional de Carrera.
@@ -3095,8 +3174,15 @@ Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos
 celebrados o emitidos por la Procuraduría General de la República o la Fiscalía General de la República
 se entenderán como vigentes y obligarán en sus términos a la Institución, en lo que no se opongan al
 presente Decreto, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos
-posteriormente o, en su caso, de ser derogados o abrogados.
-Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
+posteriormente o, en su caso, de ser derogados o abrogados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de este Decreto quedará desincorporado de la Administración
 Pública Federal el organismo descentralizado denominado Instituto Nacional de Ciencias Penales que
 pasará a ser un órgano con personalidad jurídica y patrimonio propio, que gozará de autonomía técnica y
 de gestión, dentro del ámbito de la Fiscalía General de la República.
@@ -3127,13 +3213,27 @@ carrera que se instale.
 Los recursos materiales, financieros y presupuestales, incluyendo los bienes muebles, con los que
 cuente el Instituto a la entrada en vigor del presente Decreto, pasarán al Instituto Nacional de Ciencias
 Penales de la Fiscalía General de la República conforme al Décimo Primero Transitorio del presente
-Decreto.
-Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. El conocimiento y resolución de los asuntos que se encuentren en trámite a la entrada en vigor
 del presente Decreto o que se inicien con posterioridad a éste, corresponderá a las unidades
 competentes, en términos de la normatividad aplicable o a aquellas que de conformidad con las
 atribuciones que les otorga el presente Decreto, asuman su conocimiento, hasta en tanto se expiden los
-Estatutos y demás normatividad derivada del presente Decreto.
-Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
+Estatutos y demás normatividad derivada del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento o
 Formato Único de Personal expedido por la entonces Procuraduría General de la República, conservará
 los derechos que haya adquirido en virtud de su calidad de persona servidora pública, con independencia
 de la denominación que corresponda a sus actividades o naturaleza de la plaza que ocupe. Para acceder
@@ -3145,8 +3245,15 @@ El personal contratado por la Fiscalía General de la República se sujetará a 
 nombramiento, de conformidad con los Lineamientos L/001/19 y L/003/19, por los que se regula la
 contratación del personal de transición, así como al personal adscrito a la entonces Procuraduría General
 de la República que continúa en la Fiscalía General de la República, así como para el personal de
-transición.
-Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
+transición.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. Las personas servidoras públicas que cuenten con nombramiento o Formato Único de
 Personal expedido por la entonces Procuraduría General de la República a la fecha de entrada en vigor
 41 de 54
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
@@ -3154,25 +3261,53 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 14-11-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 de este Decreto y que, por cualquier causa, no transiten al servicio profesional de carrera deberán
-adherirse a los programas de liquidación que para tales efectos se expidan.
-Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
+adherirse a los programas de liquidación que para tales efectos se expidan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. La persona titular de la Oficialía Mayor contará con el plazo de noventa días naturales para
 constituir el Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia” o
-modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.
-Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
+modificar el objeto de cualquier instrumento jurídico ya existente de naturaleza igual, similar o análoga.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. La persona titular de la Oficialía Mayor emitirá los lineamientos para la transferencia de
 recursos humanos, materiales, financieros o presupuestales, incluyendo los muebles, con los que cuente
 la Fiscalía General de la República en el momento de la entrada en vigor de este Decreto, así como para
 la liquidación de pasivos y demás obligaciones que se encuentren pendientes respecto de la extinción de
 la Procuraduría General de la República.
 Queda sin efectos el Plan Estratégico de Transición establecido en el artículo Noveno transitorio de la
-Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.
-Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
+Ley Orgánica de la Fiscalía General de la República que se abroga a través del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. Los bienes inmuebles que sean propiedad de la Fiscalía General de la República, o
 de los órganos que se encuentren dentro su ámbito o de la Federación que, a la fecha de entrada en
 vigor del presente Decreto se encuentren dados en asignación o destino a la Fiscalía General de la
 República, pasarán a formar parte de su patrimonio.
 Los bienes muebles y demás recursos materiales, financieros o presupuestales, que hayan sido
 asignados o destinados, a la Fiscalía General de la República pasarán a formar parte de su patrimonio a
-la entrada en vigor del presente Decreto.
-Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
+la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. La persona titular de la Fiscalía General de la República contará con un plazo de
 un año a partir de la publicación del presente Decreto para emitir el Plan Estratégico de Procuración de
 Justicia de la Fiscalía General de la República, con el que se conducirá la labor sustantiva de la
 Institución conforme a la obligación a que refiere el artículo 88 del presente Decreto. Mismo que deberá
@@ -3183,14 +3318,28 @@ el segundo periodo ordinario de sesiones, en su caso, seis meses después de la 
 presente Decreto.
 Para la emisión del Plan Estratégico de Procuración de Justicia, la Fiscalía General de la República
 contará con la opinión del Consejo Ciudadano. La falta de instalación de dicho Consejo Ciudadano no
-impedirá la presentación del Plan Estratégico de Procuración de Justicia.
-Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
+impedirá la presentación del Plan Estratégico de Procuración de Justicia.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. Las unidades administrativas de la Fiscalía General de la República que a la fecha
 de entrada en vigor del presente Decreto se encargan de los procedimientos relativos a las
 responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General de la
 República, tendrán el plazo de noventa días naturales para remitirlos al Órgano Interno de Control, para
 que se encargue de su conocimiento y resolución, atendiendo a la competencia que se prevé en el
-presente Decreto.
-Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
+presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. Por lo que hace a la fiscalización del Instituto Nacional de Ciencias Penales,
 corresponderá al Órgano Interno de Control de la Fiscalía General de la República, a la entrada en vigor
 del presente Decreto, sin perjuicio de las atribuciones que correspondan a la Auditoría Superior de la
 Federación.
@@ -3203,12 +3352,26 @@ Los expedientes iniciados y pendientes de trámite a la entrada en vigor del pre
 resueltos por la Secretaría de la Función Pública.
 Por cuanto hace a la estructura orgánica, así como a los recursos materiales, financieros o
 presupuestales del Órgano Interno de Control en el Instituto Nacional de Ciencias Penales, pasarán al
-Órgano Interno de Control de la Fiscalía General de la República.
-Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
+Órgano Interno de Control de la Fiscalía General de la República.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República
 o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean
 susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto
-para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
-Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 Ciudad de México, a 29 de abril de 2021.- Dip. Dulce María Sauri Riancho, Presidenta.- Sen. Oscar
 Eduardo Ramírez Aguilar, Presidente.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. María Merced
 González González, Secretaria.- Rúbricas."
@@ -3258,18 +3421,46 @@ Publicado en el Diario Oficial de la Federación el 28 de abril de 2022
 ARTÍCULO PRIMERO. Se reforma el párrafo cuarto del artículo 23 de la Ley Federal para Prevenir y
 Eliminar la Discriminación, para quedar como sigue:
 ……..
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio
 constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General
 para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente
-Decreto.
-Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se
+Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta
@@ -3312,15 +3503,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman los artículos 1 y 9 de la Ley Federal para Prevenir y
 Eliminar la Discriminación.
 Publicado en el Diario Oficial de la Federación el 17 de mayo de 2022
-Artículo Único.- Se reforma la fracción III del artículo 1 y las fracciones XXX, XXXI y XXXII del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
-            <content>
-              <p>artículo 9 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
+Artículo Único.- Se reforma la fracción III del artículo 1 y las fracciones XXX, XXXI y XXXII del
+artículo 9 de la Ley Federal para Prevenir y Eliminar la Discriminación, para quedar como sigue:
 ……..
 Transitorio
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
@@ -3451,10 +3635,24 @@ Publicado en el Diario Oficial de la Federación el 14 de noviembre de 2025
 Artículo Cuadragésimo Cuarto.- Se reforma el artículo 47 de la Ley Federal para Prevenir y Eliminar
 la Discriminación, para quedar como sigue:
 ………
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las
 entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los
 Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y
 Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial
@@ -3464,14 +3662,28 @@ conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesiv
 Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que
 integran el Congreso de la Unión.
 En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada
-en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.
-Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
+en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto
 conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable
 al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del
 contenido del Código Nacional de Procedimientos Civiles y Familiares.
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código
-Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
-Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
+Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se
 abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el
 artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y
 Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario

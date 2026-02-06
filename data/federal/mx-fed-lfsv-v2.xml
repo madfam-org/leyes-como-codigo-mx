@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1994-01-05/lfsv/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1994-01-05/lfsv/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -353,8 +353,15 @@ aplicación de Buenas Prácticas Agrícolas;
 Subproducto Vegetal: El que se deriva de un producto vegetal y que puede representar un riesgo
 fitosanitario;
 Tratamiento: Procedimiento de naturaleza química, física o de otra índole, para eliminar, remover o
-inducir esterilidad a las plagas que afectan a los vegetales;
-Tercero especialista: Profesional autorizado por la Secretaría para auxiliar en la evaluación de la
+inducir esterilidad a las plagas que afectan a los vegetales;</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero especialista: Profesional autorizado por la Secretaría para auxiliar en la evaluación de la
 conformidad, a través de verificaciones, en la aplicación de regulaciones en materia de Sanidad Vegetal y
 de sistemas de reducción de riesgos de contaminación en la producción primaria de vegetales;
 Unidad de Verificación: Persona física o moral acreditada por una Entidad de Acreditación y aprobada
@@ -389,7 +396,7 @@ medidas fitosanitarias aplicables establecidas por la Secretaría.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-5o" placement="bottom">
+            <note placementBase="#art-3" placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -696,9 +703,9 @@ representen un riesgo fitosanitario.
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- La Secretaría, en el ámbito de sus atribuciones, coadyuvará con las de Salud y de
 Desarrollo Social, para vigilar el cumplimiento de las normas oficiales aplicables a los plaguicidas e
@@ -706,9 +713,9 @@ insumos de nutrición vegetal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- A petición de la Secretaría, la de Relaciones Exteriores, por conducto de sus
 representantes diplomáticos y consulares, le informará sobre la existencia de plagas de los vegetales en
@@ -717,9 +724,9 @@ resultados que se hayan obtenido.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- El Comité Consultivo Nacional de Normalización de Protección Fitosanitaria se integrará
 y realizará las funciones que se indican en el reglamento respectivo y se sujetará a los lineamientos
@@ -727,9 +734,9 @@ generales de la Comisión Nacional de Normalización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Las actividades y servicios de certificación, auditorías y verificación en materia de
 Sanidad Vegetal y de sistemas reducción de riesgos de contaminación en la producción primaria de los
@@ -738,13 +745,13 @@ términos de la Ley Federal sobre Metrología y Normalización.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- La Secretaría organizará y coordinará en el ámbito territorial que se considere necesario,
 la integración, operación, supervisión y evaluación de Comités Estatales y Juntas Locales de Sanidad
@@ -766,13 +773,13 @@ fitosanitaria así lo exija.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-14" placement="bottom">
+            <note placementBase="#art-14." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- La Secretaría estará facultada para solicitar y recibir el apoyo de las demás autoridades,
 incluyendo el auxilio de la fuerza pública, con el objeto de cumplir con las atribuciones que le confiere
@@ -780,13 +787,13 @@ esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- El Consejo Nacional Consultivo Fitosanitario será el órgano nacional de consulta en
 materia de sanidad vegetal, que apoyará a la Secretaría en la formulación, desarrollo y evaluación de las
@@ -794,9 +801,9 @@ medidas fitosanitarias, en términos del reglamento de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- El Consejo Nacional Consultivo Fitosanitario, garantizará el principio de paridad de
 género, se integrará con representantes de la Secretaría y de las dependencias y entidades de la
@@ -809,13 +816,13 @@ nacional vinculadas con la materia de sanidad vegetal; y
 III. Personas del sector social o privado de reconocido prestigio en materia fitosanitaria.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 11-05-2022</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- El Consejo Nacional Consultivo Fitosanitario se apoyará en consejos consultivos
 estatales que, en su caso, se constituirán en cada entidad federativa de la misma manera que el
@@ -828,9 +835,9 @@ los consejos consultivos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- Las medidas fitosanitarias tienen por objeto prevenir, confinar, excluir, combatir o
 erradicar las plagas que afectan a los vegetales, sus productos o subproductos, cuando puedan
@@ -919,58 +926,58 @@ asegurar el cumplimiento de las disposiciones señaladas en este artículo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso adicionado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Inciso adicionado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- Las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de
 Sanidad Vegetal y de sistemas de reducción de riesgos de contaminación durante la producción primaria
@@ -992,19 +999,19 @@ IV. Cancelarse cuando ya no exista base científica que las sustente.
 Reforma DOF 26-07-2007: Derogó del artículo el entonces último párrafo</p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- La Secretaría elaborará, actualizará y difundirá el Directorio fitosanitario, con objeto de
 regular el desarrollo y prestación de actividades y servicios a cargo de los particulares, en los términos
@@ -1016,13 +1023,13 @@ sanidad vegetal.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- La movilización por el interior del territorio nacional de las mercancías a que se refiere el
 artículo siguiente, quedará sujeta a la expedición del certificado fitosanitario cuando provengan y se
@@ -1042,19 +1049,19 @@ subproductos, afectados por plagas, se sujetará a las disposiciones previstas e
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Párrafo adicionado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-22" placement="bottom">
+            <note placementBase="#art-22." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- Queda sujeta a control mediante la expedición del certificado fitosanitario la importación
 de las siguientes mercancías cuando sean susceptibles de ser portadoras de plagas:
@@ -1079,13 +1086,13 @@ que pudieran constituir un riesgo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- Quien importe cualquiera de las mercancías enunciadas en el artículo anterior,
 comprobará en el punto de inspección fitosanitaria de entrada, que cumplen la norma oficial mexicana y
@@ -1098,13 +1105,13 @@ aplicables para situaciones generales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-24" placement="bottom">
+            <note placementBase="#art-24." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- La Secretaría expedirá las normas oficiales mexicanas y demás disposiciones legales
 aplicables, que establezcan las especificaciones, criterios y procedimientos para que con cargo al
@@ -1113,13 +1120,13 @@ acreditados, la verificación en origen de las mercancías que vayan a importars
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- Cuando la importación o internación de las mercancías reguladas en este Capítulo
 implique un riesgo fitosanitario, únicamente podrá realizarse por las aduanas y puertos marítimos, aéreos
@@ -1129,13 +1136,13 @@ mismos que deberán publicarse en el Diario Oficial de la Federación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- La Secretaría expedirá el certificado fitosanitario internacional para la exportación de las
 mercancías descritas en el Artículo 23 de esta Ley, una vez que compruebe el cumplimiento de las
@@ -1145,7 +1152,7 @@ fitosanitario internacional.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-27" placement="bottom">
+            <note placementBase="#art-27." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -1172,9 +1179,9 @@ productos y subproductos que pretende ingresar al país y comprobar su cumplimie
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- La información que contendrán los certificados fitosanitarios y los supuestos a que se
 sujetará su expedición, se precisarán en el reglamento de esta Ley, en normas oficiales mexicanas y
@@ -1186,13 +1193,13 @@ especificaciones fitosanitarias del fabricante, del productor, del país de orig
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- Los agentes aduanales, así como quienes importen o movilicen alguna o varias de las
 mercancías enunciadas en el artículo 23, serán responsables de vigilar que se cumplan las disposiciones
@@ -1201,7 +1208,7 @@ en su caso, que existan los certificados correspondientes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -1221,9 +1228,9 @@ constatar su cumplimiento antes de expedir dicho certificado.
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- Cuando se compruebe que las mercancías a que se refiere este Capítulo, no cumplen
 con las disposiciones de observancia general que le sean aplicables, el importador o su representante
@@ -1253,22 +1260,22 @@ que la misma determine.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- La Secretaría expedirá las normas oficiales que establezcan las campañas y
 cuarentenas fitosanitarias que sean necesarias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Las normas oficiales mexicanas y demás disposiciones legales aplicables que
 establezcan las campañas fitosanitarias, deberán fijar:
@@ -1285,13 +1292,13 @@ X. Los criterios para evaluar y medir el impacto de las acciones de las campaña
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- La Secretaría tendrá a su cargo la organización y coordinación de las campañas
 fitosanitarias y, para su desarrollo, promoverá la celebración de acuerdos y convenios con los gobiernos
@@ -1315,13 +1322,13 @@ V. Evaluación detallada de los resultados y beneficios obtenidos anualmente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Las normas oficiales mexicanas que establezcan cuarentenas, además de fijar las
 medidas fitosanitarias a aplicarse, deberán determinar, cuando menos:
@@ -1334,16 +1341,16 @@ fitosanitario.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-34" placement="bottom">
+            <note placementBase="#art-34." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- La Secretaría mediante normas oficiales mexicanas y disposiciones legales aplicables
 en materia de sanidad vegetal determinará los requisitos y medidas fitosanitarias para movilizar a zonas
@@ -1356,13 +1363,13 @@ implica un riesgo fitosanitario, la Secretaría revocará los certificados que s
 medidas fitosanitarias necesarias.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-35" placement="bottom">
+            <note placementBase="#art-35." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36.- La Secretaría expedirá las normas oficiales mexicanas y demás disposiciones legales
 aplicables en materia de sanidad vegetal que establezcan las características y especificaciones que
@@ -1373,13 +1380,13 @@ sujetos a control cuarentenario, que se pretenda introducir o movilizar en el te
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Con base en el resultado de los muestreos en áreas geográficas específicas y la certeza
 comprobada de la no presencia o baja prevalencia de una plaga, la Secretaría podrá declarar zonas
@@ -1414,9 +1421,9 @@ Secretaría de Servicios Parlamentarios</p>
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- La Secretaría establecerá a través de normas oficiales mexicanas y demás
 disposiciones legales aplicables:
@@ -1429,13 +1436,13 @@ establecido en el dictamen técnico de efectividad biológica.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Los interesados presentarán para su dictamen los estudios de efectividad biológica que
 la Secretaría determine, mismo que se remitirá a la dependencia encargada del registro del insumo de
@@ -1444,7 +1451,7 @@ recomiendan para su aplicación previo a la cosecha.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-39" placement="bottom">
+            <note placementBase="#art-39." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -1462,9 +1469,9 @@ insumos fitosanitarios y de nutrición vegetal.
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Las personas físicas o morales reconocidas por la Secretaría para formular los estudios
 de efectividad biológica indicados en el artículo anterior, se sujetarán a las especificaciones, criterios y
@@ -1473,13 +1480,13 @@ legales aplicables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-40" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- La Secretaría podrá solicitar a la persona física o moral que haya obtenido el registro del
 insumo fitosanitario o de nutrición vegetal ante la autoridad competente, que reevalúe su efectividad
@@ -1488,7 +1495,7 @@ aplicable.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-41" placement="bottom">
+            <note placementBase="#art-41." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -1526,9 +1533,9 @@ Secretaría de Servicios Parlamentarios</p>
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- La Secretaría proporcionará a la autoridad competente encargada de otorgar el registro,
 la información sobre los niveles de residuos obtenidos en los estudios de campo que contribuyan al
@@ -1536,7 +1543,7 @@ establecimiento de los límites máximos de residuos de plaguicidas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -1554,45 +1561,45 @@ conforme a lo establecido en los dictámenes técnicos de efectividad biológica
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Se deroga.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Artículo derogado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Se deroga.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-44" placement="bottom">
+            <note placementBase="#art-44." placement="bottom">
               <p>Artículo derogado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Se deroga.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Artículo derogado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- Cuando se detecte la presencia de plagas que pongan en situación de emergencia
 fitosanitaria a una o varias especies vegetales, en todo o en parte del territorio nacional, la Secretaría
@@ -1603,13 +1610,13 @@ insumos fitosanitarios cuya aplicación es la adecuada para el control de la pla
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47.- La Secretaría podrá acordar y convenir con los gobiernos de los estados, organismos
 auxiliares y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar
@@ -1800,9 +1807,9 @@ ambiente.
               <p>Artículo adicionado DOF 26-12-2017</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- Corresponde a la Secretaría, otorgar aprobación, previa acreditación y sobre materias
 específicas, a personas físicas y morales para operar como:
@@ -1822,22 +1829,22 @@ oficiales mexicanas así mismas o cuando tengan un interés directo.
 Reforma DOF 26-07-2007: Derogó del artículo el entonces párrafo tercero</p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Fracción derogada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Para otorgar la aprobación a que se refiere el artículo anterior, la Secretaría podrá
 formar y pedir opinión a los comités de evaluación en materia de sanidad vegetal y de sistemas de
@@ -1858,13 +1865,13 @@ Normalización.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- Es responsabilidad de las personas físicas o morales a que se refiere el artículo 48 de
 esta Ley:
@@ -1893,7 +1900,7 @@ aplicables.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
@@ -1911,9 +1918,9 @@ criterios bajo los cuales se reconocerá a terceros especialistas que realizará
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- La Secretaría está facultada para certificar que los vegetales, sus productos o
 subproductos, así como los procesos, métodos, instalaciones, servicios o actividades relacionadas con la
@@ -1923,13 +1930,13 @@ esta Ley, su reglamento, normas oficiales mexicanas y demás disposiciones legal
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-51" placement="bottom">
+            <note placementBase="#art-51." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- La certificación de normas oficiales se realizará por la Secretaría o por organismos de
 certificación o unidades de verificación aprobados o acreditados.
@@ -1941,9 +1948,9 @@ interinstitucionales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- La certificación que hagan las personas físicas o morales acreditadas por una Entidad
 de Acreditación y aprobadas por la Secretaría, serán solamente en aquellas materias para las que fueron
@@ -1951,13 +1958,13 @@ específicamente acreditadas y aprobadas, en los términos de las disposiciones 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- La Secretaría podrá verificar e inspeccionar en cualquier tiempo y lugar el cumplimiento
 de las disposiciones legales aplicables en materia de sanidad vegetal y de reducción de riesgos de
@@ -1988,13 +1995,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- La Secretaría aleatoriamente, podrá verificar o inspeccionar vegetales, sus productos o
 subproductos; establecimientos, instalaciones, vehículos de transporte, embalajes, maquinaria, equipos,
@@ -2007,13 +2014,13 @@ superveniente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- Las unidades de verificación aprobadas o acreditadas, sólo podrán realizar
 verificaciones a petición de parte y sobre las materias en las que fueron aprobadas en términos del
@@ -2022,9 +2029,9 @@ y los organismos de certificación acreditados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Cuando el dictamen de una verificación determine la existencia de riesgos fitosanitarios,
 físicos, químicos o microbiológicos; durante la producción primaria de vegetales sus productos o
@@ -2041,16 +2048,16 @@ Cuando el dictamen de verificación o el acta de inspección determine la probab
 delito, deberá formularse la denuncia correspondiente ante la autoridad competente.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- La Secretaría contará con puntos de inspección internacional en materia de sanidad
 vegetal necesarios, para asegurar el nivel de protección apropiado en la materia antes mencionada.
@@ -2067,19 +2074,19 @@ los términos que determine el Reglamento de esta Ley.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-58" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-58" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-58" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- La Secretaría podrá instalar y operar directamente en el territorio nacional puntos de
 verificación interna, o acordar o permitir su instalación y operación a los gobiernos de los estados o a
@@ -2099,13 +2106,13 @@ proteger, zonas libres, bajo protección o de baja prevalencia.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-59" placement="bottom">
+            <note placementBase="#art-59." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- Ante el riesgo de diseminación de una plaga o la sospecha de contaminación durante la
 producción primaria de los vegetales, la Secretaría sujetándose a lo que dispongan el Reglamento de
@@ -2117,25 +2124,18 @@ responsabilidad de su propietario o porteador en el mismo lugar o en aquel que �
 defecto, en el que determine la Secretaría, quedando prohibida su movilización o comercialización hasta
 en tanto se compruebe su óptima condición fitosanitaria.
 De comprobarse la presencia de una plaga o algún contaminante que afecte la sanidad de los
-vegetales, sus productos o subproductos, la Secretaría procederá en los términos del primer párrafo del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
-              <content>
-                <p>artículo 30.
+vegetales, sus productos o subproductos, la Secretaría procederá en los términos del primer párrafo del
+artículo 30.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- Se instituye el Premio Nacional de Sanidad Vegetal, con el objeto de reconocer y
 premiar anualmente el esfuerzo de quienes se destaquen en la prevención, control y erradicación de las
@@ -2143,9 +2143,9 @@ enfermedades y plagas de los vegetales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- El procedimiento para la selección de los acreedores al premio señalado en el artículo
 anterior, así como las demás prevenciones que sean necesarias, se establecerán en el reglamento de
@@ -2153,9 +2153,9 @@ esta ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- Todo ciudadano podrá denunciar directamente ante la Secretaría, los hechos, actos u
 omisiones que atenten contra la sanidad vegetal o la contaminación en la producción primaria de
@@ -2163,13 +2163,13 @@ vegetales y la condición fitosanitaria.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- La denuncia podrá presentarse por cualquier ciudadano, bastando, para darle curso, que
 se señalen los datos necesarios que permitan localizar la fuente o el nombre y domicilio del denunciante.
@@ -2189,13 +2189,13 @@ fitosanitaria adoptadas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Las infracciones a lo dispuesto en esta ley y demás disposiciones que emanen de la
 misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que
@@ -2203,9 +2203,9 @@ correspondan cuando sean constitutivas de delito.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- Son infracciones administrativas:
 I. Incumplir lo establecido en las normas oficiales mexicanas y demás disposiciones legales
@@ -2295,49 +2295,49 @@ Para los efectos del presente artículo, por salario se entiende, el salario mí
 Distrito Federal, al momento de cometerse la infracción.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción derogada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción derogada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción adicionada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción adicionada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción adicionada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción adicionada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción adicionada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Párrafo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- La Secretaría clausurará hasta por quince días, los viveros, huertos, empacadoras,
 recintos, almacenes, aserraderos, plantaciones, patios de concentración y cualquier otro establecimiento
@@ -2354,13 +2354,13 @@ legales aplicables correspondientes.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-67" placement="bottom">
+            <note placementBase="#art-67." placement="bottom">
               <p>Artículo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- La Secretaría sancionará con la suspensión temporal de la aprobación, reconocimiento a
 terceros o permiso a:
@@ -2374,16 +2374,16 @@ III. Los terceros autorizados que incumplan con lo mencionado en los artículos 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
-            <note placementBase="#art-68" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Fracción adicionada DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- En caso de reincidencia se podrá aplicar multa hasta por el doble de las cantidades
 señaladas en el artículo 66 y, en el caso de las infracciones a que se refieren los artículos 67 y 68,
@@ -2394,9 +2394,9 @@ revoque alguna aprobación o permiso, a fin de que se haga la inscripción en el
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- Para la imposición de sanciones la Secretaría tomará en cuenta la gravedad de la
 infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y
@@ -2410,9 +2410,9 @@ términos que establezca el reglamento de la presente ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71.- Contra las resoluciones dictadas por la Secretaría con fundamento en esta ley, se podrá
 interponer el recurso de revisión dentro del término de quince días hábiles siguientes a la fecha de su
@@ -2422,13 +2422,13 @@ Ley Federal de Procedimiento Administrativo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-71" placement="bottom">
+            <note placementBase="#art-71." placement="bottom">
               <p>Párrafo reformado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72.- La interposición del recurso se hará mediante escrito dirigido a la Secretaría, en el que
 se deberán expresar el nombre y domicilio del recurrente, la resolución que se recurre y los agravios,
@@ -2441,9 +2441,9 @@ sustanciación del recurso.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73.- Al que ingrese al territorio nacional o movilice dentro del mismo, vegetales, sus
 productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes
@@ -2453,13 +2453,13 @@ de hasta mil días de salario mínimo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-73" placement="bottom">
+            <note placementBase="#art-73." placement="bottom">
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74.- Al que evada un Punto de Verificación Interna o Internacional, teniendo la obligación de
 ser inspeccionado en el mismo, al ingresar o movilizar en el territorio nacional, vegetales, sus productos o
@@ -2468,13 +2468,13 @@ impondrá la pena de dos a siete años de prisión y multa hasta mil días de sa
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-74" placement="bottom">
+            <note placementBase="#art-74." placement="bottom">
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75.- Se sancionará con la penalidad de dos a siete años de prisión y multa de hasta mil días
 de salario mínimo, sin perjuicio de las sanciones administrativas a las que se hiciera acreedor:
@@ -2494,13 +2494,13 @@ agentes patogénicos, que no cumplan con los requisitos exigidos por la normativ
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-75" placement="bottom">
+            <note placementBase="#art-75." placement="bottom">
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76.- Al que sin tener la autorización o certificación de la autoridad competente, ordene o
 ejecute cualquier actividad en materia fitosanitaria, se le impondrá la pena de dos a siete años de prisión
@@ -2508,13 +2508,13 @@ y multa de hasta mil días multa.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-76" placement="bottom">
+            <note placementBase="#art-76." placement="bottom">
               <p>Artículo adicionado DOF 26-07-2007</p>
             </note>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. Al que ostente que un vegetal, sus productos o subproductos o actividad relacionada con
 sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuenta
@@ -2522,23 +2522,61 @@ con la certificación de la autoridad competente, sin comprobarlo, se le impondr
 años de prisión y multa de hasta mil quinientos días multa.
 . Declarado parcialmente inválido por sentencia de la SCJN a Acción de Inconstitucionalidad
 DOF 18-11-2008. Reformado DOF 16-11-2011
-TRANSITORIOS
-PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se abrogan la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos y la Ley
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-77." placement="bottom">
+              <p>Artículo adicionado DOF 26-07-2007</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se abrogan la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos y la Ley
 Vitivinícola, publicadas en el Diario Oficial de la Federación el 13 de diciembre de 1974 y el 25 de
 marzo de 1943, respectivamente.
 En tanto no se expidan las disposiciones correspondientes, continuarán aplicándose, en lo que no se
 opongan a esta ley, las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en
-vigor del presente ordenamiento.
-TERCERO.- Se reconoce plena validez a los registros, permisos, autorizaciones, certificados y guías
+vigor del presente ordenamiento.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Se reconoce plena validez a los registros, permisos, autorizaciones, certificados y guías
 expedidos con anterioridad a la fecha de entrada en vigor de esta ley, cuando se ajusten plenamente a
-las disposiciones de la legislación que se abroga.
-CUARTO.- En tanto se constituye el Consejo Nacional Consultivo Fitosanitario continuará
+las disposiciones de la legislación que se abroga.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- En tanto se constituye el Consejo Nacional Consultivo Fitosanitario continuará
 aplicándose, en lo que no se oponga, el Acuerdo por el que se crea el Consejo Consultivo Fitosanitario
 Mexicano, publicado en el Diario Oficial de la Federación el veintisiete de mayo de mil novecientos
-noventa y dos.
-QUINTO.- Los Patronatos para la Investigación, Fomento y Sanidad Vegetal, así como los Comités
+noventa y dos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los Patronatos para la Investigación, Fomento y Sanidad Vegetal, así como los Comités
 Regionales y las Juntas Locales de Sanidad Vegetal se considerarán como organismos auxiliares, por lo
 que sus actividades se regularán en los términos de esta ley.
 México, D.F., a 20 de diciembre de 1993.- Sen. Eduardo Robledo Rincón.- Presidente.- Dip.
@@ -2576,9 +2614,237 @@ y de Contaminación en la Producción Primaria de Vegetales", con los artículos
 XIX, XX y XXI, pasando la actual XVII a ser XXII y un penúltimo párrafo; 68, con la fracción III; un</p>
               </content>
             </paragraph>
-            <note placementBase="#art-77" placement="bottom">
-              <p>Artículo adicionado DOF 26-07-2007</p>
-            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO A OCTAVO.- ……….
+CONSIDERANDO:</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO A QUINTO.- ……….</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Efectos. De conformidad con el artículo 105, penúltimo párrafo de la Constitución Federal, la
+invalidez decretada respecto del artículo 77 de la Ley Federal de Sanidad Vegetal, en la porción
+normativa anteriormente señalada, por tratarse de una norma en materia penal, surtirá efectos
+retroactivos al veintiséis de julio de dos mil siete, fecha en que la misma fue publicada en el Diario Oficial
+de la Federación.
+Por lo expuesto y fundado, se resuelve:</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- Es procedente y fundada la presente acción de inconstitucionalidad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Se declara la invalidez del artículo 77 de la Ley Federal de Sanidad Vegetal, publicado
+en el Diario Oficial de la Federación, el veintiséis de julio de dos mil siete, únicamente en la porción
+normativa que dice: “…y multa de mil quinientos días multa”, en los términos precisados en el quinto
+considerando de la presente resolución.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- La declaratoria de invalidez de la norma impugnada surtirá efectos en términos del último
+considerando de esta ejecutoria.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Publíquese esta sentencia en el Diario Oficial de la Federación y en el Semanario Judicial
+de la Federación y su Gaceta.
+Notifíquese; haciéndolo por medio de oficio a las partes y, en su oportunidad, archívese el expediente
+como asunto concluido.
+34 de 39
+LEY FEDERAL DE SANIDAD VEGETAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 11-05-2022
+Secretaría General
+Secretaría de Servicios Parlamentarios
+Así lo resolvió el Tribunal Pleno de la Suprema Corte de Justicia de la Nación por unanimidad de ocho
+votos de los señores Ministros Aguirre Anguiano, Cossío Díaz, Luna Ramos, Franco González Salas,
+Valls Hernández, Sánchez Cordero de García Villegas, Silva Meza y Presidente en funciones Góngora
+Pimentel. No asistieron los señores Ministros Presidente Guillermo I. Ortiz Mayagoitia, por estar
+cumpliendo con una comisión de carácter oficial; José de Jesús Gudiño Pelayo, por estar disfrutando de
+vacaciones por haber integrado la Comisión de Receso del Segundo Periodo de Sesiones de dos mil
+siete, y Mariano Azuela Güitrón, por licencia concedida, respectivamente.
+Firma el señor Ministro Presidente en funciones y Ponente con el Secretario General de Acuerdos que
+autoriza y da fe.
+El Presidente en funciones y Ponente: Ministro Genaro David Góngora Pimentel.- Rúbrica.- El
+Secretario General de Acuerdos: José Javier Aguilar Domínguez.- Rúbrica.
+EL CIUDADANO LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL
+DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta
+fotocopia constante de quince fojas útiles, concuerda fiel y exactamente con su original que corresponde
+a la sentencia de veinte de octubre último dictada en la acción de inconstitucionalidad 157/2007,
+promovida por el Procurador General de la República, en contra del Congreso de la Unión y otras
+autoridades. Se certifica para su publicación en el Diario Oficial de la Federación, en cumplimiento a lo
+ordenado por el Tribunal Pleno en el Cuarto Resolutivo en la resolución de mérito.- México, Distrito
+Federal, a cuatro de noviembre de dos mil ocho.- Rúbrica.
+35 de 39
+LEY FEDERAL DE SANIDAD VEGETAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 11-05-2022
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforma el artículo 77 de la Ley Federal de Sanidad Vegetal.
+Publicado en el Diario Oficial de la Federación el 16 de noviembre de 2011
+ARTÍCULO ÚNICO.- Se reforma el artículo 77, de la Ley Federal de Sanidad Vegetal, para quedar
+como sigue:
+………
+TRANSITORIO
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario
+Oficial de la Federación.
+México, D.F., a 4 de octubre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José
+González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Adrián Rivera Pérez,
+Secretario.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diez de noviembre de
+dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José
+Francisco Blake Mora.- Rúbrica.
+36 de 39
+LEY FEDERAL DE SANIDAD VEGETAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 11-05-2022
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se adiciona un artículo 47-K a la Ley Federal de Sanidad Vegetal.
+Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2017
+Artículo Único.- Se adiciona un artículo 47-K a la Ley Federal de Sanidad Vegetal, para quedar como
+sigue:
+……..
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto,
+se cubrirán con cargo al presupuesto autorizado a las Dependencias involucradas para el Ejercicio Fiscal
+que corresponda.
+Ciudad de México, a 14 de noviembre de 2017.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip.
+Jorge Carlos Ramírez Marín, Presidente.- Sen. Lorena Cuéllar Cisneros, Secretaria.- Dip. María
+Eugenia Ocampo Bedolla, Secretaria.- Rúbricas."
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintiuno de diciembre de dos mil
+diecisiete.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.-
+Rúbrica.
+37 de 39
+LEY FEDERAL DE SANIDAD VEGETAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 11-05-2022
+Secretaría General
+Secretaría de Servicios Parlamentarios
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal
+de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y
+Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de
+la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de
+la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente
+del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de
+la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias
+del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado
+Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo
+Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria
+Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo
+del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo
+referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de
+la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos
+Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia
+Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera
+Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para
+la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de
+Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad
+Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones
+de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de
+la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud,
+de la Ley de Ciencia y Tecnología, en materia de paridad de género.
+Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
+Artículo Vigésimo Quinto. Se reforma el primer párrafo del artículo 17 de la Ley Federal de Sanidad
+Vegetal, para quedar como sigue:
+……..
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
+en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
+fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
+caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta
+con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+Ciudad de México, a 15 de marzo de 2022.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen.
+Olga Sánchez Cordero Dávila, Presidenta.- Dip. Luis Enrique Martínez Ventura, Secretario.- Sen.
+Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
+38 de 39
+LEY FEDERAL DE SANIDAD VEGETAL
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 11-05-2022
+Secretaría General
+Secretaría de Servicios Parlamentarios
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los
+Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la
+Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de mayo de 2022.- Andrés Manuel
+López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.-
+Rúbrica.
+39 de 39</p>
+              </content>
+            </paragraph>
           </article>
           <article id="trans-1">
             <num>PRIMERO</num>

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1994-01-04/96_190418/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1994-01-04/96_190418/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -61,9 +61,9 @@
       </chapter>
       <chapter id="chapter-12">
         <num>CAPÍTULO XI De los Asuntos Disciplinarios</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>ARTÍCULO 1.- El Servicio Exterior Mexicano es el cuerpo permanente de servidores públicos,
 miembros del personal diplomático del Estado, encargado específicamente de representarlo en el
@@ -99,16 +99,16 @@ normativos de la política exterior mexicana.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo adicionado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-1" placement="bottom">
+          <note placementBase="#art-1." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
         </article>
@@ -201,9 +201,9 @@ discriminatorio para el debido respeto de los derechos humanos.
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>ARTÍCULO 2.- Corresponde al Servicio Exterior:
 
@@ -255,44 +255,44 @@ los tratados de los que México sea parte.
 Fracción recorrida DOF 25-01-2002</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-2" placement="bottom">
+          <note placementBase="#art-2." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>ARTÍCULO 3.- El Servicio Exterior se integra por personal de carrera, personal temporal y personal
 asimilado y comprende las ramas diplomático-consular y técnico-administrativa.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-3" placement="bottom">
+          <note placementBase="#art-3." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>ARTÍCULO 4.- La rama diplomático-consular comprende los siguientes rangos:
 I. Embajador;
@@ -305,13 +305,13 @@ VII. Agregado Diplomático.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-4" placement="bottom">
+          <note placementBase="#art-4." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>ARTÍCULO 5.- La rama técnico-administrativa comprende los siguientes rangos:
 I. Coordinador Administrativo;
@@ -328,25 +328,25 @@ VII. Se deroga.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-5" placement="bottom">
+          <note placementBase="#art-5." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>ARTÍCULO 6.- El personal de carrera es permanente y su desempeño se basa en los principios de
 preparación, competencia, capacidad y superación constante, a fin de establecer un servicio profesional
@@ -371,22 +371,22 @@ disposiciones de la presente Ley y su Reglamento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-6" placement="bottom">
+          <note placementBase="#art-6." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>ARTÍCULO 7.- El personal temporal que requiera la Secretaría, será designado por acuerdo del
 Secretario, previo dictamen favorable emitido por la Comisión de Personal, con base en los perfiles que al
@@ -406,13 +406,13 @@ pertenezcan al Servicio Exterior de carrera.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-7" placement="bottom">
+          <note placementBase="#art-7." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>ARTÍCULO 8.- El personal asimilado se compone de servidores públicos y agregados a Misiones
 Diplomáticas y Representaciones Consulares, cuyo nombramiento haya sido gestionado por otra
@@ -438,16 +438,16 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-8" placement="bottom">
+          <note placementBase="#art-8." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>ARTÍCULO 9.- La Secretaría deberá mantener y gestionar ante las autoridades correspondientes, que
 la estructura de plazas en los diferentes rangos permita una adecuada movilidad escalafonaria, de tal
@@ -468,19 +468,19 @@ en todos los lugares de destino, estabilizando el sueldo mensual en la moneda lo
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-9" placement="bottom">
+          <note placementBase="#art-9." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTÍCULO 10.- En el extranjero, los Miembros del Servicio Exterior desempeñarán indistintamente
 sus funciones en una Misión Diplomática, Representación Consular, Misiones Especiales y delegaciones
@@ -489,13 +489,13 @@ personal adscrito en el exterior, de acuerdo con el derecho y las prácticas int
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTÍCULO 11.- La Secretaría vigilará que la adscripción en el extranjero y en México del personal de
 carrera se ajuste a una rotación programada, asegurándose que, sin excepción, ningún miembro
@@ -522,7 +522,7 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -580,9 +580,9 @@ expediente y requisitos de los interesados resolverá lo conducente.
             <p>Artículo adicionado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTÍCULO 12.- Las Misiones Diplomáticas de México ante gobiernos extranjeros tendrán el rango de
 Embajadas y ante organismos internacionales, el de Misiones Permanentes; las Representaciones
@@ -597,26 +597,26 @@ República.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-12" placement="bottom">
+          <note placementBase="#art-12." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTÍCULO 13.- El Secretario podrá designar cónsules honorarios, quienes no serán considerados
 personal del Servicio Exterior.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTÍCULO 14.- El Presidente de la República, por conducto del Secretario, podrá designar Misiones
 Especiales.
@@ -628,13 +628,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTÍCULO 15.- En todas las Misiones Diplomáticas y Representaciones Consulares, inmediatamente
 después del titular de las mismas habrá un jefe de cancillería y un representante alterno o cónsul
@@ -645,13 +645,13 @@ alterno o por el cónsul adscrito.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTÍCULO 16.- La Secretaría determinará la composición y funciones de las delegaciones que
 representen a México en conferencias y reuniones internacionales. Durante el desempeño de su
@@ -666,13 +666,13 @@ representantes del Estado mexicano.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTÍCULO 17.- El rango en el Servicio Exterior de carrera será independiente de la plaza o puesto
 que ocupen sus miembros en el exterior o en las unidades administrativas de la Secretaría.
@@ -686,13 +686,13 @@ plaza o puesto que les asigne la Secretaría.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>ARTÍCULO 18.- El Secretario, previa recomendación de la Comisión de Personal, podrá comisionar
 temporalmente a Miembros del Servicio Exterior de carrera, en otras dependencias y entidades de la
@@ -710,19 +710,19 @@ por el Reglamento de la Ley.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>ARTÍCULO 19.- Sin perjuicio de lo que dispone la fracción III del artículo 89 de la Constitución Política
 de los Estados Unidos Mexicanos, la designación de embajadores y cónsules generales la hará el
@@ -736,7 +736,7 @@ fracción IV del artículo 57 de esta Ley.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -758,9 +758,9 @@ dispuesto por el artículo 76, fracción I de la Constitución Política de los 
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>ARTÍCULO 20.- Para ser designado embajador o cónsul general se requiere: ser mexicano por
 nacimiento y no tener otra nacionalidad, estar en pleno goce de sus derechos civiles y políticos, ser
@@ -775,19 +775,19 @@ al Servicio Exterior.
 , 25-01-2002</p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Artículo reformado DOF 23-01-1998</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>ARTÍCULO 21.- En ocasión de una vacante en el escalafón del Servicio Exterior en el rango de
 embajador, el Secretario someterá a la consideración y, en su caso, aprobación del Presidente de la
@@ -797,13 +797,13 @@ Comisión de Personal.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>ARTÍCULO 22.- En casos excepcionales podrán acreditarse como titulares de Misiones Diplomáticas
 o Consulados Generales, miembros del personal de carrera que tengan el rango de ministro. Esta
@@ -812,13 +812,13 @@ tendrán derecho a los emolumentos y prestaciones que correspondan a dicha funci
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>ARTÍCULO 23.- Las designaciones de Jefes de Misiones Diplomáticas y Permanentes ante Estados y
 organismos internacionales, respectivamente, de embajadores especiales y de cónsules generales serán
@@ -838,13 +838,13 @@ correspondiente.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-23" placement="bottom">
+          <note placementBase="#art-23." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>ARTÍCULO 24.- Dentro del rango de Embajador habrá un máximo de diez plazas de embajador
 eminente, como distinción a los miembros de ese rango por su actuación destacada de servicio al país en
@@ -858,13 +858,13 @@ interno y tendrá la compensación que fije el Presupuesto de Egresos de la Fede
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>ARTÍCULO 25.- El Presidente de la República podrá reconocer la dignidad de embajador emérito
 como culminación de una destacada y prolongada actuación de servicio al país en el ámbito de la política
@@ -887,22 +887,22 @@ que fije el Presupuesto de Egresos de la Federación.
 Ningún embajador podrá ser, a la vez, embajador eminente y embajador emérito.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>ARTÍCULO 26.- La Comisión de Personal, en los términos de esta Ley y su Reglamento, tendrá como
 atribuciones someter a la consideración del Secretario recomendaciones para el ingreso, reincorporación,
@@ -919,7 +919,7 @@ Servicio Exterior, para lo cual se apoyará en la Subcomisión de Análisis y Pr
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
@@ -975,9 +975,9 @@ recursos necesarios para el desahogo de sus funciones.
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>ARTÍCULO 27.- La Comisión de Personal del Servicio Exterior, se integrará de la siguiente manera:
 I. Embajador de carrera del Servicio Exterior designado por el Secretario, quien la presidirá y
@@ -1025,34 +1025,34 @@ Personal.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -1113,9 +1113,9 @@ dispuesto en el Reglamento.
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>ARTÍCULO 28.- El proceso para ingresar como Miembro del Servicio Exterior de carrera se realizará
 por oposición, mediante concursos públicos preferentemente anuales, que serán organizados en etapas
@@ -1156,40 +1156,40 @@ Exterior.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>ARTÍCULO 29.- La Comisión de Personal dará aviso oportuno al Secretario de las vacantes en el
 rango de agregado diplomático, a fin de que convoque a un concurso anual de ingreso para cubrirlas e
@@ -1197,13 +1197,13 @@ instale la Subcomisión de Ingreso.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>ARTÍCULO 30.- La Subcomisión de Ingreso estará integrada por:
 I. Presidencia de la Comisión de Personal, cuyo titular la presidirá;
@@ -1223,13 +1223,13 @@ Consular y Técnico-Administrativa del Servicio Exterior.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>ARTÍCULO 31.- Quienes sean admitidos en el Instituto Matías Romero para ingresar a las ramas
 Diplomático-Consular y Técnico-Administrativa serán considerados, durante el tiempo que estudien en el
@@ -1247,13 +1247,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-31" placement="bottom">
+          <note placementBase="#art-31." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>ARTÍCULO 32.- Los candidatos a ingresar a la rama diplomático-consular deberán cumplir con los
 siguientes requisitos:
@@ -1277,28 +1277,28 @@ imparta, el Instituto Matías Romero.
 , 01-06-2016, 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 23-01-1998</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>ARTÍCULO 33.- Los requisitos de ingreso a la rama Técnico-Administrativa serán los mismos que se
 señalan para la rama Diplomático-Consular, con excepción del requerimiento del grado académico, para
@@ -1308,13 +1308,13 @@ preferentemente el inglés.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>ARTÍCULO 34.- El personal temporal o asimilado de la rama Diplomático-Consular y Técnico-
 Administrativa, así como los servidores públicos de la Secretaría, que tengan una antigüedad mínima de
@@ -1339,25 +1339,25 @@ Secretaría de Servicios Parlamentarios
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>ARTÍCULO 35.- Se deroga.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-35" placement="bottom">
+          <note placementBase="#art-35." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>ARTÍCULO 36.- Las solicitudes de reincorporación de los miembros del personal de carrera del
 Servicio Exterior que hayan renunciado al mismo, serán examinadas por la Comisión de Personal. Esta
@@ -1374,9 +1374,9 @@ Artículo (con fracción I Bis) reformado DOF 19-04-2018</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>ARTÍCULO 37.- Los ascensos del personal de carrera a Segundo Secretario, Primer Secretario,
 Consejero y Ministro de la rama Diplomático-Consular, así como a Coordinador Administrativo en la rama
@@ -1415,28 +1415,28 @@ Reglamento.
 . Reformado DOF 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Inciso reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Inciso adicionado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo reformado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo adicionado DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo adicionado DOF 25-01-2002</p>
           </note>
         </article>
@@ -1483,9 +1483,9 @@ V. Representante del área de la Secretaría encargada de llevar los asuntos de 
             <p>Artículo adicionado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>ARTÍCULO 38.- En ningún caso se podrá ascender o participar en concursos de ascenso sin antes
 haber cumplido dos años de antigüedad como mínimo en el rango al que pertenezca.
@@ -1496,28 +1496,28 @@ consular.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-38" placement="bottom">
+          <note placementBase="#art-38." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>ARTÍCULO 39.- Se deroga.
 . Derogado DOF 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-39" placement="bottom">
+          <note placementBase="#art-39." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>ARTÍCULO 40.- La Secretaría por medio de la Comisión de Personal, realizará evaluaciones de
 desempeño a todos los Miembros del Servicio Exterior de carrera, de conformidad con lo establecido en
@@ -1535,7 +1535,7 @@ dichos exámenes en el tercer intento, merecerán una calificación insatisfacto
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -1575,9 +1575,9 @@ servicio, conforme lo establece el segundo párrafo del artículo 54 de esta Ley
             <p>Artículo adicionado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>ARTÍCULO 41.- Los servidores públicos del Servicio Exterior observarán en el desempeño de su
 empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez,
@@ -1606,13 +1606,13 @@ disposiciones aplicables.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>ARTÍCULO 42.- Los Miembros del Servicio Exterior deberán guardar discreción absoluta acerca de
 los asuntos que conozcan con motivo de su desempeño oficial. Esta obligación subsistirá aún después de
@@ -1621,13 +1621,13 @@ intereses nacionales.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>ARTÍCULO 43.- Corresponde a los jefes de misión:
 I. Mantener informada a la Secretaría sobre los principales aspectos de la vida política, económica,
@@ -1652,22 +1652,22 @@ cuando corresponda, ejercer las funciones consulares.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>ARTÍCULO 44.- Corresponde a los Jefes de Oficinas Consulares:
 
@@ -1720,43 +1720,43 @@ responsabilidad por su ejecución. La delegación se hará en los términos que 
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo adicionado DOF 01-06-2016</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo adicionado DOF 01-06-2016</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo adicionado DOF 01-06-2016</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-44" placement="bottom">
+          <note placementBase="#art-44." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-45">
-          <num>Artículo 45</num>
-          <paragraph id="art-45-para-1">
+        <article id="art-45.">
+          <num>Artículo 45.</num>
+          <paragraph id="art-45.-para-1">
             <content>
               <p>ARTÍCULO 45.- Es obligación de los Jefes de Misiones Diplomáticas, de Representaciones
 Consulares y de unidades administrativas de la Secretaría informar durante el mes de junio de cada año
@@ -1777,13 +1777,13 @@ y remitido a la Comisión de Personal.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-45" placement="bottom">
+          <note placementBase="#art-45." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-46">
-          <num>Artículo 46</num>
-          <paragraph id="art-46-para-1">
+        <article id="art-46.">
+          <num>Artículo 46.</num>
+          <paragraph id="art-46.-para-1">
             <content>
               <p>ARTÍCULO 46.- Sin perjuicio de lo ordenado por otras disposiciones aplicables, queda prohibido a los
 Miembros del Servicio Exterior:
@@ -1797,13 +1797,13 @@ III. Desempeñar cualquier gestión diplomática o consular de otro país, sin a
 Secretaría.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-46" placement="bottom">
+          <note placementBase="#art-46." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-47">
-          <num>Artículo 47</num>
-          <paragraph id="art-47-para-1">
+        <article id="art-47.">
+          <num>Artículo 47.</num>
+          <paragraph id="art-47.-para-1">
             <content>
               <p>ARTÍCULO 47.- Los Miembros del Servicio Exterior gozarán, durante su permanencia en comisión
 oficial en el extranjero, de los siguientes derechos y prestaciones:
@@ -1861,37 +1861,37 @@ disposiciones legales aplicables, y
 IX. Los demás que se desprendan de la presente Ley y su Reglamento.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción adicionada DOF 23-01-1998</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-47" placement="bottom">
+          <note placementBase="#art-47." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-48">
-          <num>Artículo 48</num>
-          <paragraph id="art-48-para-1">
+        <article id="art-48.">
+          <num>Artículo 48.</num>
+          <paragraph id="art-48.-para-1">
             <content>
               <p>ARTÍCULO 48.- Los Miembros del Servicio Exterior comisionados en el extranjero gozarán de treinta
 días de vacaciones al año, pudiendo acumular hasta sesenta días continuos. La Secretaría cubrirá a los
@@ -1907,16 +1907,16 @@ condiciones de vida difícil, que esta prestación se otorgue cada doce meses.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-48" placement="bottom">
+          <note placementBase="#art-48." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-48" placement="bottom">
+          <note placementBase="#art-48." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-49">
-          <num>Artículo 49</num>
-          <paragraph id="art-49-para-1">
+        <article id="art-49.">
+          <num>Artículo 49.</num>
+          <paragraph id="art-49.-para-1">
             <content>
               <p>ARTÍCULO 49.- La Secretaría contratará, en los términos del Reglamento, un seguro de gastos
 médicos y/o servicio de salud para los Miembros del Servicio Exterior comisionados en el extranjero.
@@ -1944,13 +1944,13 @@ lugar de Adscripción.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-49" placement="bottom">
+          <note placementBase="#art-49." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-50">
-          <num>Artículo 50</num>
-          <paragraph id="art-50-para-1">
+        <article id="art-50.">
+          <num>Artículo 50.</num>
+          <paragraph id="art-50.-para-1">
             <content>
               <p>ARTÍCULO 50.- En los casos de enfermedad debidamente comprobada, la Secretaría podrá conceder
 a los Miembros del Servicio Exterior licencia hasta por dos meses con goce íntegro de sueldo, dos más
@@ -1972,13 +1972,13 @@ meses sin goce de sueldo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-50" placement="bottom">
+          <note placementBase="#art-50." placement="bottom">
             <p>Artículo reformado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
+        <article id="art-51.">
+          <num>Artículo 51.</num>
+          <paragraph id="art-51.-para-1">
             <content>
               <p>ARTÍCULO 51.- Los Miembros del Servicio Exterior disfrutarán de los gastos de representación,
 viáticos y demás remuneraciones y prestaciones que se les asignen de acuerdo con el Presupuesto de
@@ -2006,13 +2006,13 @@ misiones diplomáticas y representaciones consulares.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-51" placement="bottom">
+          <note placementBase="#art-51." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-52">
-          <num>Artículo 52</num>
-          <paragraph id="art-52-para-1">
+        <article id="art-52.">
+          <num>Artículo 52.</num>
+          <paragraph id="art-52.-para-1">
             <content>
               <p>ARTÍCULO 52.- Los integrantes del personal de carrera del Servicio Exterior podrán quedar en
 disponibilidad hasta por tres años. Durante ese lapso, dicho personal no podrá tener ascenso alguno, no
@@ -2024,7 +2024,7 @@ de descendientes o ascendientes o alguna condición médica debidamente justific
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-52" placement="bottom">
+          <note placementBase="#art-52." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -2058,9 +2058,9 @@ conforme a lo dispuesto en la fracción V del artículo 53-BIS de esta Ley.
             <p>Artículo adicionado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
+        <article id="art-53.">
+          <num>Artículo 53.</num>
+          <paragraph id="art-53.-para-1">
             <content>
               <p>ARTÍCULO 53.- Los Miembros del Servicio Exterior sólo podrán ser separados de sus cargos por
 medio de suspensión, por baja o destitución como consecuencia de una sanción administrativa, de
@@ -2074,7 +2074,7 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-53" placement="bottom">
+          <note placementBase="#art-53." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -2132,9 +2132,9 @@ Servicio Exterior para los efectos correspondientes.
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-54">
-          <num>Artículo 54</num>
-          <paragraph id="art-54-para-1">
+        <article id="art-54.">
+          <num>Artículo 54.</num>
+          <paragraph id="art-54.-para-1">
             <content>
               <p>ARTÍCULO 54.- Los Miembros del Servicio Exterior de carrera que se separen definitivamente de
 éste, recibirán por una sola vez, como compensación por cada año de servicio, el importe
@@ -2157,13 +2157,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-54" placement="bottom">
+          <note placementBase="#art-54." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-55">
-          <num>Artículo 55</num>
-          <paragraph id="art-55-para-1">
+        <article id="art-55.">
+          <num>Artículo 55.</num>
+          <paragraph id="art-55.-para-1">
             <content>
               <p>ARTÍCULO 55.- Causarán baja por jubilación los Miembros del Servicio Exterior de carrera que
 cumplan 70 años de edad o antes si así lo manifiestan, conforme a las disposiciones de la Ley del
@@ -2174,7 +2174,7 @@ de la presente Ley, serán jubilados en el rango inmediato superior.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-55" placement="bottom">
+          <note placementBase="#art-55." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -2239,9 +2239,9 @@ por causa alguna.
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-56">
-          <num>Artículo 56</num>
-          <paragraph id="art-56-para-1">
+        <article id="art-56.">
+          <num>Artículo 56.</num>
+          <paragraph id="art-56.-para-1">
             <content>
               <p>ARTÍCULO 56.- Los gastos de funerales de los Miembros del Servicio Exterior, de su cónyuge,
 concubina o concubinario de sus dependientes económicos hasta el primer grado en línea recta,
@@ -2250,7 +2250,7 @@ delegaciones foráneas, incluyendo el traslado de sus restos a México, serán p
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-56" placement="bottom">
+          <note placementBase="#art-56." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -2268,9 +2268,9 @@ aplicables a las mismas, así como el procedimiento para su aplicación.
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-57">
-          <num>Artículo 57</num>
-          <paragraph id="art-57-para-1">
+        <article id="art-57.">
+          <num>Artículo 57.</num>
+          <paragraph id="art-57.-para-1">
             <content>
               <p>ARTÍCULO 57.- Las sanciones por faltas administrativas no graves consistirán en:
 I. Amonestación privada o pública;
@@ -2285,13 +2285,13 @@ no grave.
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-57" placement="bottom">
+          <note placementBase="#art-57." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-58">
-          <num>Artículo 58</num>
-          <paragraph id="art-58-para-1">
+        <article id="art-58.">
+          <num>Artículo 58.</num>
+          <paragraph id="art-58.-para-1">
             <content>
               <p>ARTÍCULO 58.- Incurrirá en irregularidad administrativa no grave, quien en ejercicio de sus funciones
 como Miembro del Servicio Exterior, incumpla con alguna de las obligaciones previstas en el artículo 49
@@ -2349,52 +2349,52 @@ XVI. No presentar las declaraciones a las que se refiere el artículo 41, párra
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción derogada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción reformada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción adicionada DOF 25-01-2002</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-58" placement="bottom">
+          <note placementBase="#art-58." placement="bottom">
             <p>Fracción adicionada DOF 19-04-2018</p>
           </note>
         </article>
@@ -2420,9 +2420,9 @@ VI. Incurrir en alguna de las conductas que establece el artículo 46 de esta Le
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-59">
-          <num>Artículo 59</num>
-          <paragraph id="art-59-para-1">
+        <article id="art-59.">
+          <num>Artículo 59.</num>
+          <paragraph id="art-59.-para-1">
             <content>
               <p>ARTÍCULO 59.- La Subcomisión de Asuntos Disciplinarios conocerá de las irregularidades que, en el
 ejercicio de sus funciones como Miembros del Servicio Exterior, ameriten la imposición de sanciones y
@@ -2443,22 +2443,22 @@ con nivel de Director de Área.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Fracción reformada DOF 09-04-2012</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-59" placement="bottom">
+          <note placementBase="#art-59." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-60">
-          <num>Artículo 60</num>
-          <paragraph id="art-60-para-1">
+        <article id="art-60.">
+          <num>Artículo 60.</num>
+          <paragraph id="art-60.-para-1">
             <content>
               <p>ARTÍCULO 60.- Para la substanciación de procedimientos disciplinarios, se observará el siguiente
 procedimiento:
@@ -2542,13 +2542,13 @@ Administrativas o la Ley Federal de Procedimiento Administrativo, según corresp
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-60" placement="bottom">
+          <note placementBase="#art-60." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-61">
-          <num>Artículo 61</num>
-          <paragraph id="art-61-para-1">
+        <article id="art-61.">
+          <num>Artículo 61.</num>
+          <paragraph id="art-61.-para-1">
             <content>
               <p>ARTÍCULO 61.- El Secretario contará con treinta días hábiles para dictar la resolución
 correspondiente, tomando en consideración la propuesta hecha por la Comisión de Personal. Cuando
@@ -2557,7 +2557,7 @@ Las resoluciones del Secretario podrán ser impugnadas ante los tribunales compe
 , 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-61" placement="bottom">
+          <note placementBase="#art-61." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
@@ -2605,9 +2605,9 @@ términos, se notificará al Presidente de la República en caso de Embajadores 
             <p>Artículo adicionado DOF 19-04-2018</p>
           </note>
         </article>
-        <article id="art-62">
-          <num>Artículo 62</num>
-          <paragraph id="art-62-para-1">
+        <article id="art-62.">
+          <num>Artículo 62.</num>
+          <paragraph id="art-62.-para-1">
             <content>
               <p>ARTÍCULO 62.- Para la imposición de las sanciones administrativas se deberán considerar los
 elementos del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta,
@@ -2631,37 +2631,37 @@ VII. Se deroga.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción reformada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Fracción derogada DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-62" placement="bottom">
+          <note placementBase="#art-62." placement="bottom">
             <p>Artículo reformado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-63">
-          <num>Artículo 63</num>
-          <paragraph id="art-63-para-1">
+        <article id="art-63.">
+          <num>Artículo 63.</num>
+          <paragraph id="art-63.-para-1">
             <content>
               <p>ARTÍCULO 63.- Las sanciones económicas se determinarán tomando como base los beneficios
 obtenidos o daños y perjuicios causados por el incumplimiento de las obligaciones previstas en la
@@ -2680,19 +2680,19 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Párrafo reformado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Párrafo adicionado DOF 19-04-2018</p>
           </note>
-          <note placementBase="#art-63" placement="bottom">
+          <note placementBase="#art-63." placement="bottom">
             <p>Artículo adicionado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-64">
-          <num>Artículo 64</num>
-          <paragraph id="art-64-para-1">
+        <article id="art-64.">
+          <num>Artículo 64.</num>
+          <paragraph id="art-64.-para-1">
             <content>
               <p>ARTÍCULO 64.- En el caso de las faltas previstas en las fracciones I y XV del artículo 58 de la Ley
 procederá la destitución del Miembro del Servicio Exterior. También procederá la destitución en el caso
@@ -2702,13 +2702,13 @@ conductas contempladas en las fracciones II y XII de la misma disposición.
 . Reformado DOF 19-04-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-64" placement="bottom">
+          <note placementBase="#art-64." placement="bottom">
             <p>Artículo adicionado DOF 25-01-2002</p>
           </note>
         </article>
-        <article id="art-65">
-          <num>Artículo 65</num>
-          <paragraph id="art-65-para-1">
+        <article id="art-65.">
+          <num>Artículo 65.</num>
+          <paragraph id="art-65.-para-1">
             <content>
               <p>ARTÍCULO 65.- Cuando la infracción llegare a tipificar un delito, se procederá contra quienes lo
 cometieren, con arreglo a lo dispuesto en la legislación penal.
@@ -2716,22 +2716,67 @@ Siempre que la carpeta de investigación no se hubiese iniciado por otros medios
 expediente a la Dirección General de Asuntos Jurídicos a efecto de que se presente la denuncia
 correspondiente.
 . Reformado DOF 19-04-2018
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-SEGUNDO.- Se abroga la Ley Orgánica del Servicio Exterior Mexicano, publicada en el Diario Oficial
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-65." placement="bottom">
+            <p>Artículo adicionado DOF 25-01-2002</p>
+          </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se abroga la Ley Orgánica del Servicio Exterior Mexicano, publicada en el Diario Oficial
 de la Federación del 8 de enero de 1982 y se derogan todas las demás disposiciones que se opongan a
 la presente Ley. En tanto se expide su Reglamento, continuará en vigor el Reglamento de la Ley que se
-abroga en aquellas partes que no se opongan a la Ley que se decreta.
-TERCERO.- La imposición de sanciones administrativas a los miembros del Servicio Exterior que
+abroga en aquellas partes que no se opongan a la Ley que se decreta.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- La imposición de sanciones administrativas a los miembros del Servicio Exterior que
 deriven de procedimientos en trámite se ajustarán a lo dispuesto por la Ley que se abroga o a lo previsto
-por el nuevo ordenamiento, según resulte más favorable al interesado.
-CUARTO.- Los funcionarios del Servicio Exterior que conforme a la Ley que se abroga sean
+por el nuevo ordenamiento, según resulte más favorable al interesado.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- Los funcionarios del Servicio Exterior que conforme a la Ley que se abroga sean
 miembros de la rama consular, permanecerán en ella hasta su separación del Servicio Exterior. Los
-ascensos que obtuvieren, en su caso, se harán dentro de la rama diplomático-consular.
-QUINTO.- Para quienes actualmente son miembros de carrera del Servicio Exterior Mexicano, el plazo
-a que se refiere el artículo 39 empezará a contarse a partir de la entrada en vigor de esta Ley.
-SEXTO.- Los miembros del Servicio Exterior que integran actualmente la rama administrativa, al entrar
+ascensos que obtuvieren, en su caso, se harán dentro de la rama diplomático-consular.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- Para quienes actualmente son miembros de carrera del Servicio Exterior Mexicano, el plazo
+a que se refiere el artículo 39 empezará a contarse a partir de la entrada en vigor de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- Los miembros del Servicio Exterior que integran actualmente la rama administrativa, al entrar
 en vigor la presente Ley, serán incorporados a la rama técnico-administrativa conforme a las siguientes
 equivalencias en orden decreciente:
 RAMA ADMINISTRATIVA RAMA TECNICO-ADMINISTRATIVA
@@ -2780,18 +2825,8 @@ Procedimientos Electorales; 22 y 50, en sus respectivos primeros párrafos, de l
 primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de
 la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del
 Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios
-Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del</p>
-            </content>
-          </paragraph>
-          <note placementBase="#art-65" placement="bottom">
-            <p>Artículo adicionado DOF 25-01-2002</p>
-          </note>
-        </article>
-        <article id="art-51">
-          <num>Artículo 51</num>
-          <paragraph id="art-51-para-1">
-            <content>
-              <p>artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman
+Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del
+artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman
 los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria
 del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de
 Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley
@@ -2834,25 +2869,81 @@ con el inciso c) de la fracción I, con dos últimos párrafos, 37-BIS, 40-BIS, 
 párrafo, 52-BIS, 53-BIS, 58, fracciones XIII y XIV, 63, 64 y 65, y se DEROGA la fracción V del artículo 58,
 todos de la Ley del Servicio Exterior Mexicano, para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-TERCERO.- El primer examen al que se refiere el artículo 34, se aplicará durante el primer año de
-vigencia del presente Decreto.
-CUARTO.- El primer examen de media carrera a que se refieren los artículos 38 y 39, se aplicará
-durante el primer año de vigencia de este Decreto.
-QUINTO.- Quienes al entrar en vigor el presente Decreto tengan el rango de primeros secretarios no
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- El primer examen al que se refiere el artículo 34, se aplicará durante el primer año de
+vigencia del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- El primer examen de media carrera a que se refieren los artículos 38 y 39, se aplicará
+durante el primer año de vigencia de este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- Quienes al entrar en vigor el presente Decreto tengan el rango de primeros secretarios no
 requerirán, para ascender al rango de consejero, haber tenido una adscripción de tipo consular como lo
 señala el artículo 38 de este Decreto. Sin embargo, para ascender al rango de ministro, deberán haber
 tenido, durante su carrera, una adscripción diplomática o consular conforme a lo dispuesto por las
-disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto.
-SEXTO.- La evaluación a que se refiere el artículo 40, se aplicará por primera vez durante el primer
+disposiciones vigentes con anterioridad a la entrada en vigor de este Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO.- La evaluación a que se refiere el artículo 40, se aplicará por primera vez durante el primer
 año de vigencia del presente Decreto a quienes tengan una antigüedad mínima de 5 años dentro del
-Servicio Exterior.
-SÉPTIMO.- Las comisiones, disponibilidades o licencias otorgadas al momento de la entrada en vigor
-del presente Decreto continuarán en los términos autorizados hasta su conclusión.
-OCTAVO.- Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor
+Servicio Exterior.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SÉPTIMO.- Las comisiones, disponibilidades o licencias otorgadas al momento de la entrada en vigor
+del presente Decreto continuarán en los términos autorizados hasta su conclusión.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO.- Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor
 del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes en el
 momento en que se iniciaron.
 México, D.F., a 30 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen.
@@ -2882,10 +2973,24 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO TRIGÉSIMO CUARTO. Se reforman los artículos 2o., fracción XI, segundo párrafo; y 59,
 fracción IV de la Ley del Servicio Exterior Mexicano, para quedar como sigue:
 ………
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -2928,10 +3033,24 @@ Publicado en el Diario Oficial de la Federación el 1 de junio de 2016
 Artículo Único.- Se adicionan un segundo, tercero y cuarto párrafos a la fracción III del artículo 44 de
 la Ley del Servicio Exterior Mexicano, para quedar de la siguiente manera:
 ……….
-Transitorios
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Dentro de los noventa días siguientes a su publicación, el Ejecutivo Federal realizará las
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Dentro de los noventa días siguientes a su publicación, el Ejecutivo Federal realizará las
 modificaciones necesarias al Reglamento de esta Ley para hacer efectivas las funciones de Juez del
 Registro Civil que ejerzan las autoridades consulares por virtud del presente Decreto.
 Ciudad de México, a 28 de abril de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús
@@ -2972,29 +3091,76 @@ los Miembros del Servicio Exterior; la denominación del CAPÍTULO IX para queda
 De los Derechos y Prestaciones de los Miembros del Servicio Exterior; la denominación del CAPÍTULO X
 para quedar como CAPÍTULO X De la Separación del Servicio Exterior; la denominación del CAPÍTULO
 XI para quedar como CAPÍTULO XI De los Asuntos Disciplinarios; se ADICIONAN los párrafos cuarto y
-quinto al artículo 1; un artículo 1-TER; una fracción XI BIS al artículo 2; los párrafos segundo y tercero al</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
-            <content>
-              <p>artículo 9; la fracción V al artículo 11-BIS; el párrafo tercero al artículo 12; un artículo 19-BIS; un párrafo
+quinto al artículo 1; un artículo 1-TER; una fracción XI BIS al artículo 2; los párrafos segundo y tercero al
+artículo 9; la fracción V al artículo 11-BIS; el párrafo tercero al artículo 12; un artículo 19-BIS; un párrafo
 tercero al artículo 20; el párrafo segundo al artículo 23; el párrafo segundo al artículo 26; 26-BIS, 26-TER
 y 26-QUÁTER; la fracción VII al párrafo primero del artículo 27; el CAPÍTULO V BIS denominado Plan de
-Carrera del Servicio Exterior, con los artículos 27-TER y 27-QUÁTER; los párrafos segundo y tercero al</p>
+Carrera del Servicio Exterior, con los artículos 27-TER y 27-QUÁTER; los párrafos segundo y tercero al
+artículo 28; la fracción V al artículo 37-BIS; la fracción III BIS al artículo 43; la fracción VIII al artículo 44;
+el segundo párrafo a la fracción VII y la fracción VII BIS al artículo 47; el artículo 53-TER; el artículo 55-
+BIS; 56-BIS; a las fracciones XV y XVI al artículo 58; el artículo 58-BIS; los artículos 61-BIS y 61-TER; el
+párrafo tercero al artículo 63, y se DEROGAN las fracciones VI y VII del artículo 5; la fracción II del
+artículo 6; la fracción II del artículo 32; el artículo 35; el artículo 39; el artículo 40-TER; la fracción VII del
+artículo 53-BIS; las fracciones IV, VI, VII, XIII y XIV del artículo 58; la fracción IV del artículo 59; las
+fracciones I, II, V y VII del artículo 62; de la Ley del Servicio Exterior Mexicano, para quedar como sigue:
+……..
+TRANSITORIOS</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
             <content>
-              <p>artículo 28; la fracción V al artículo 37-BIS; la fracción III BIS al artículo 43; la fracción VIII al artículo 44;
-el segundo párrafo a la fracción VII y la fracción VII BIS al artículo 47; el artículo 53-TER; el artículo 55-
-BIS; 56-BIS; a las fracciones XV y XVI al artículo 58; el artículo 58-BIS; los artículos 61-BIS y 61-TER; el
-párrafo tercero al artículo 63, y se DEROGAN las fracciones VI y VII del artículo 5; la fracción II del</p>
+              <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Dentro del término de ciento ochenta días contados a partir de la entrada en vigor del
+presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones necesarias al Reglamento de la
+Ley del Servicio Exterior Mexicano, en tanto, continuará aplicándose en lo que no se oponga, las
+disposiciones del Reglamento de la Ley del Servicio Exterior Mexicano vigente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Se derogan todas las demás disposiciones que se opongan al presente Decreto.
+42 de 46
+LEY DEL SERVICIO EXTERIOR MEXICANO
+CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 19-04-2018
+Secretaría General
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- La Comisión de Personal tendrá un plazo de ciento ochenta días contados a partir de la
+entrada en vigor del presente Decreto, para desarrollar los perfiles del personal temporal a que se refiere
+el artículo 7 de la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- El Plan de Carrera, así como el modelo y metodología de las evaluaciones de desempeño
+deberán emitirse en un plazo de ciento ochenta días posteriores a la entrada en vigor del presente
+Decreto. Por lo que hace a las condiciones de ingreso y ascenso, así como las correspondientes a los
+rangos de la rama técnico-administrativa, entrarán en vigor a más tardar el 1 de julio de 2019, en
+términos de lo que establezcan las disposiciones administrativas emitidas por la Secretaría y demás
+disposiciones vinculadas.</p>
             </content>
           </paragraph>
         </article>
@@ -3002,47 +3168,21 @@ párrafo tercero al artículo 63, y se DEROGAN las fracciones VI y VII del artí
           <num>Artículo 6</num>
           <paragraph id="art-6-para-1">
             <content>
-              <p>artículo 6; la fracción II del artículo 32; el artículo 35; el artículo 39; el artículo 40-TER; la fracción VII del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-53">
-          <num>Artículo 53</num>
-          <paragraph id="art-53-para-1">
-            <content>
-              <p>artículo 53-BIS; las fracciones IV, VI, VII, XIII y XIV del artículo 58; la fracción IV del artículo 59; las
-fracciones I, II, V y VII del artículo 62; de la Ley del Servicio Exterior Mexicano, para quedar como sigue:
-……..
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Dentro del término de ciento ochenta días contados a partir de la entrada en vigor del
-presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones necesarias al Reglamento de la
-Ley del Servicio Exterior Mexicano, en tanto, continuará aplicándose en lo que no se oponga, las
-disposiciones del Reglamento de la Ley del Servicio Exterior Mexicano vigente.
-TERCERO.- Se derogan todas las demás disposiciones que se opongan al presente Decreto.
-42 de 46
-LEY DEL SERVICIO EXTERIOR MEXICANO
-CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 19-04-2018
-Secretaría General
-Secretaría de Servicios Parlamentarios
-CUARTO.- La Comisión de Personal tendrá un plazo de ciento ochenta días contados a partir de la
-entrada en vigor del presente Decreto, para desarrollar los perfiles del personal temporal a que se refiere
-el artículo 7 de la presente Ley.
-QUINTO.- El Plan de Carrera, así como el modelo y metodología de las evaluaciones de desempeño
-deberán emitirse en un plazo de ciento ochenta días posteriores a la entrada en vigor del presente
-Decreto. Por lo que hace a las condiciones de ingreso y ascenso, así como las correspondientes a los
-rangos de la rama técnico-administrativa, entrarán en vigor a más tardar el 1 de julio de 2019, en
-términos de lo que establezcan las disposiciones administrativas emitidas por la Secretaría y demás
-disposiciones vinculadas.
-SEXTO.- Para efectos de lo dispuesto en el artículo 5, se unificarán las plazas del rango Técnico
+              <p>SEXTO.- Para efectos de lo dispuesto en el artículo 5, se unificarán las plazas del rango Técnico
 Administrativo “C” al rango de Técnico Administrativo “B”, denominándolos Agregado Administrativo “D”,
 respetando los niveles salariales del rango de Técnico Administrativo “B” y se unificarán las plazas del
 rango de Técnico Administrativo “A” al rango de Agregado Administrativo “C”, que conserva la
 denominación y niveles salariales de Agregado Administrativo “C”.
 Para efectos del apoyo económico complementario establecido en el artículo 55-BIS y sus transitorios,
-se estará a lo ordenado en las disposiciones administrativas que para tal efecto emita la Secretaría.
-SÉPTIMO.- Los Miembros del Servicio Exterior de carrera que a la fecha de entrada en vigor del
+se estará a lo ordenado en las disposiciones administrativas que para tal efecto emita la Secretaría.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SÉPTIMO.- Los Miembros del Servicio Exterior de carrera que a la fecha de entrada en vigor del
 presente Decreto se encuentren en activo, tendrán derecho a recibir el apoyo económico complementario
 a que se refiere el artículo 55-BIS a partir de los 70 años de edad, para lo cual deberán cumplir los
 siguientes requisitos:
@@ -3114,8 +3254,15 @@ corresponda y que hayan cumplido con los requisitos antes señalados, derecho qu
 por causa alguna.
 Los recursos que se requieran para cumplir con lo dispuesto en el presente Decreto como
 aportaciones al apoyo económico complementario a cargo del Gobierno Federal o la Secretaría, deberán
-estar previsto en el Presupuesto de Egresos de la Federación para cada ejercicio correspondiente.
-OCTAVO.- El Gobierno Federal pagará mensualmente a las personas que hubieran causado baja por
+estar previsto en el Presupuesto de Egresos de la Federación para cada ejercicio correspondiente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO.- El Gobierno Federal pagará mensualmente a las personas que hubieran causado baja por
 jubilación en términos de los artículos 53-BIS, fracción II, y 55 de la Ley del Servicio Exterior Mexicano,
 con anterioridad a la entrada en vigor del presente Decreto, un apoyo económico complementario
 equivalente al cincuenta por ciento de la pensión que estén recibiendo a la fecha de entrada en vigor del
@@ -3123,14 +3270,28 @@ presente Decreto, en los términos de la Ley del Instituto de Seguridad y Servic
 Trabajadores del Estado.
 El derecho previsto en el presente artículo será exclusivo de los Miembros del Servicio Exterior de
 carrera que corresponda y que hayan cumplido con los requisitos antes señalados, derecho que será
-intransferible por causa alguna.
-NOVENO.- El apoyo económico complementario al que se refiere el artículo 55-BIS de la presente
+intransferible por causa alguna.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO.- El apoyo económico complementario al que se refiere el artículo 55-BIS de la presente
 Ley, también podrá otorgarse a servidores públicos que sin ser Miembros del Servicio Exterior de carrera,
 se encuentren en activo y hayan sido nombrados Embajadores o Cónsules generales, así como que
 hayan prestado sus servicios a la Secretaría por más de 15 años ininterrumpidos, cumplidos al momento
 de la entrada en vigor del presente Decreto, de conformidad con los criterios que al efecto emita la
-Secretaría.
-DÉCIMO.- Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor
+Secretaría.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO.- Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor
 del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes en el
 momento en que se iniciaron, salvo aquéllas que resulten de beneficio para los Miembros del Servicio
 Exterior sujetos a tales procedimientos.

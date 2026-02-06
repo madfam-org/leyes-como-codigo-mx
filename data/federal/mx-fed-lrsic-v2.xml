@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2002-01-15/lrsic/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2002-01-15/lrsic/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -216,13 +216,20 @@ No se considerará que existe violación al Secreto Financiero cuando los Usuari
 información sobre operaciones crediticias u otras de naturaleza análoga a las Sociedades, así como
 cuando éstas compartan entre sí información contenida en sus bases de datos o proporcionen dicha
 información a la Comisión. Tampoco se considerará que existe violación al Secreto Financiero cuando las
-Sociedades proporcionen dicha información a sus Usuarios, en términos del Capítulo III de este Título
-Segundo, o cuando sea solicitada por autoridad competente, en el marco de sus atribuciones.</p>
+Sociedades proporcionen dicha información a sus Usuarios, en términos del Capítulo III de este Título</p>
               </content>
             </paragraph>
             <note placementBase="#art-5o" placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo, o cuando sea solicitada por autoridad competente, en el marco de sus atribuciones.</p>
+              </content>
+            </paragraph>
           </article>
           <article id="art-6o">
             <num>Artículo 6o</num>
@@ -497,9 +504,9 @@ modificar o confirmar la resolución recurrida, previa audiencia de las partes.<
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- Se requerirá autorización de la Secretaría, quien oirá la opinión de la Comisión y del
 Banco de México, para que cualquier persona o grupo de personas adquiera, directa o indirectamente,
@@ -512,9 +519,9 @@ miembros del consejo de administración o por cualquier otro medio controle a la
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- Cualquier modificación a los estatutos sociales de las Sociedades deberá ser sometida a
 la aprobación previa de la Secretaría, para su posterior inscripción en el Registro Público de Comercio.
@@ -523,18 +530,18 @@ iniciarán actividades.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- Las Sociedades deberán sujetar sus operaciones y actividades a la presente ley y a las
 disposiciones de carácter general que expida el Banco de México.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Las Sociedades sólo podrán llevar a cabo las actividades necesarias para la realización
 de su objeto, incluyendo el servicio de calificación de créditos o de riesgos, el de verificación o
@@ -562,13 +569,13 @@ Secretaría de Servicios Parlamentarios
 , 10-01-2014</p>
               </content>
             </paragraph>
-            <note placementBase="#art-13" placement="bottom">
+            <note placementBase="#art-13." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- Las Sociedades deberán dar aviso a la Comisión del establecimiento, cambio de
 ubicación o clausura de cualquiera de sus oficinas, por lo menos con treinta días naturales de
@@ -576,9 +583,9 @@ anticipación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- Las Sociedades podrán invertir en títulos representativos del capital social de empresas
 que les presten servicios complementarios o auxiliares en su administración o en la realización de su
@@ -587,9 +594,9 @@ destinados a sus oficinas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- Las Sociedades requerirán autorización de la Secretaría para fusionarse o escindirse,
 previa opinión del Banco de México y de la Comisión. Cuando se acuerde la disolución y liquidación de la
@@ -598,9 +605,9 @@ lo que éste les señale en relación con el manejo y control de su base de dato
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- Las Sociedades estarán sujetas a la inspección y vigilancia de la Comisión, a la que
 deberán cubrir las cuotas en los términos que establezca la Secretaría, así como a la del Banco de
@@ -621,10 +628,10 @@ estas autoridades.
 , 01-02-2008, 25-05-2010, 10-01-2014</p>
               </content>
             </paragraph>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Párrafo reformado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-17" placement="bottom">
+            <note placementBase="#art-17." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
@@ -703,9 +710,9 @@ conforme a las disposiciones legales aplicables.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- A las Sociedades les estará prohibido:
 I. Solicitar y otorgar información distinta a la autorizada conforme a esta ley y a las demás
@@ -721,9 +728,9 @@ III. Realizar actividades no contempladas en esta ley y demás disposiciones apl
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19.- La Secretaría, con la opinión de la Comisión y del Banco de México y previa audiencia de
 la sociedad interesada, podrá revocar la autorización otorgada en los casos en que la Sociedad:
@@ -785,31 +792,31 @@ hábiles de publicada la revocación en el Diario Oficial de la Federación no h
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo reformado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción reformada DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción adicionada DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Fracción adicionada DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
           </article>
@@ -833,9 +840,9 @@ resultar aplicables en términos de lo previsto en esta ley y demás disposicion
               <p>Artículo adicionado DOF 25-05-2010</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- La base de datos de las Sociedades se integrará con la información sobre operaciones
 crediticias y otras de naturaleza análoga que le sea proporcionada por los Usuarios. Los Usuarios que
@@ -869,7 +876,7 @@ Crediticia dichos créditos como saldados, en caso de que hayan sido finiquitado
 , 20-01-2009, 25-05-2010, 10-01-2014</p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-20." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
@@ -892,9 +899,9 @@ disposiciones de la línea de crédito y sólo presente cargos por comisiones.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Las Sociedades establecerán claves de prevención y de observación, así como los
 manuales operativos estandarizados que deberán ser utilizados por los diferentes tipos de Usuarios, para
@@ -906,13 +913,13 @@ Adicionalmente, las referidas claves y sus modificaciones deberán ser aprobadas
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-21" placement="bottom">
+            <note placementBase="#art-21." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- La Sociedad deberá adoptar las medidas de seguridad y control que resulten necesarias
 para evitar el manejo indebido de la información.
@@ -923,9 +930,9 @@ Sociedad o de esta última, siempre y cuando no se derive de la realización pro
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- Las Sociedades están obligadas a conservar los historiales crediticios que les sean
 proporcionados por los Usuarios, correspondientes a cualquier persona física o moral, al menos durante
@@ -984,7 +991,7 @@ para resolver consultas respecto de la implementación operativa del presente ar
 , 01-02-2008</p>
               </content>
             </paragraph>
-            <note placementBase="#art-23" placement="bottom">
+            <note placementBase="#art-23." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
@@ -1012,9 +1019,9 @@ resguardo de dicha información.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- La eliminación del historial crediticio prevista en el artículo anterior no será aplicable en
 los supuestos siguientes:
@@ -1028,26 +1035,26 @@ haya hecho del conocimiento de la Sociedad por alguno de sus Usuarios.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-24" placement="bottom">
+            <note placementBase="#art-24." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Sólo las Entidades Financieras, las Empresas Comerciales y las Sofomes E.N.R. podrán
 ser Usuarios de la información que proporcionen las Sociedades.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-25" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- Las Sociedades deberán proporcionar información a los Usuarios, a las autoridades
 judiciales en virtud de providencia dictada en juicio en el que el Cliente sea parte o acusado, así como a
@@ -1063,13 +1070,13 @@ legal que así lo amerite.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-26" placement="bottom">
+            <note placementBase="#art-26." placement="bottom">
               <p>Párrafo adicionado DOF 20-01-2009</p>
             </note>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Las Sociedades, al proporcionar información sobre operaciones crediticias y otras de
 naturaleza análoga, deberán guardar secreto respecto de la identidad de los acreedores, salvo en el
@@ -1127,9 +1134,9 @@ información del crédito vendido o cedido.
               <p>Artículo adicionado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Las Sociedades solo podrán proporcionar información a un Usuario, cuando este cuente
 con la autorización expresa del Cliente, mediante su firma, en donde conste de manera fehaciente que
@@ -1194,28 +1201,28 @@ revelación de secretos a que se refiere el artículo 210 del Código Penal Fede
 Reforma DOF 01-02-2008: Derogó del artículo el entonces párrafo tercero (antes adicionado por DOF 23-01-2004)</p>
               </content>
             </paragraph>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Párrafo reformado DOF 09-03-2018</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Párrafo adicionado DOF 23-01-2004</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-28" placement="bottom">
+            <note placementBase="#art-28." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29.- Los Usuarios que sean Empresas Comerciales podrán realizar consultas a las
 Sociedades a través de funcionarios o empleados previamente autorizados que manifiesten, bajo protesta
@@ -1249,22 +1256,22 @@ en que se haya realizado la consulta correspondiente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30.- Los Usuarios que sean Entidades Financieras o Sofomes E.N.R. podrán realizar
 consultas a las Sociedades a través de funcionarios o empleados previamente autorizados ante las
@@ -1288,13 +1295,13 @@ verdad a que se refiere el primer párrafo de este artículo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- La Comisión podrá autorizar que los envíos a las Sociedades de las autorizaciones a que
 se refiere el artículo 28 de esta ley, se realicen a través de medios electrónicos o medios digitalizados, en
@@ -1311,9 +1318,9 @@ Comisión, la existencia de dicha autorización.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32.- Las Sociedades podrán pactar la prestación de sus servicios, mediante el uso de
 equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de
@@ -1329,9 +1336,9 @@ correspondientes y, en su caso, tendrán el mismo valor probatorio.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- La Sociedad deberá contar con sistemas y procesos para verificar la identidad del
 Usuario o del Cliente mediante el proceso de autenticación que ésta determine, el cual deberá ser
@@ -1340,18 +1347,18 @@ confidencialidad de la información en los términos de las disposiciones legale
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Los Reportes de Crédito y los Reportes de Crédito Especiales no tendrán valor probatorio
 en juicio, y deberán contener una leyenda que así lo indique.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Las Sociedades no podrán establecer políticas o criterios de operación que restrinjan,
 obstaculicen o impongan requisitos excesivos para proporcionar o recibir información, salvo lo dispuesto
@@ -1362,9 +1369,9 @@ puedan realizar los Usuarios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. Las Sociedades que por primera vez proporcionen su Base Primaria de Datos a otras
 Sociedades deberán transmitírselas en su totalidad, a más tardar dentro del mes siguiente a aquél en que
@@ -1395,7 +1402,7 @@ ni de los Reportes de Crédito Especiales que emitan.
 , 25-05-2010</p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
@@ -1455,9 +1462,9 @@ Usuarios.
               <p>Artículo adicionado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- Las Sociedades deberán presentar a la Comisión manuales que establezcan las medidas
 mínimas de seguridad, mismas que incluirán el transporte de la información, así como la seguridad física,
@@ -1468,9 +1475,9 @@ seguridad necesarias para salvaguardar la información que los Usuarios les prop
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Con excepción de la información que las Sociedades proporcionen en los términos de
 esta ley y de las disposiciones generales que se deriven de ella, serán aplicables a las Sociedades, a sus
@@ -1484,13 +1491,13 @@ a la autorizada.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-38" placement="bottom">
+            <note placementBase="#art-38." placement="bottom">
               <p>Párrafo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- Los Clientes que gestionen algún servicio ante algún Usuario, podrán solicitar a éste los
 datos que hubiere obtenido de la Sociedad, a efecto de aclarar cualquier situación respecto de la
@@ -1502,13 +1509,13 @@ Reporte de Crédito.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-39" placement="bottom">
+            <note placementBase="#art-39." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Los Clientes tendrán el derecho de solicitar a la Sociedad su Reporte de Crédito
 Especial, a través de las unidades especializadas de la Sociedad, de las Entidades Financieras o de las
@@ -1541,21 +1548,8 @@ Especiales y mantener actualizada en todo momento dicha información.
 , 01-02-2008
 Las Sociedades deberán contar con un número telefónico gratuito y una página de Internet con
 disponibilidad de consulta permanente para atender las solicitudes de Reportes de Crédito Especiales, así
-como para recibir las reclamaciones que sobre estos reportes presenten los Clientes en términos del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-40" placement="bottom">
-              <p>Párrafo reformado DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-40" placement="bottom">
-              <p>Párrafo reformado DOF 23-01-2004</p>
-            </note>
-          </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
-              <content>
-                <p>artículo 42. Asimismo, a través de dicho número telefónico las Sociedades deberán atender las dudas de
+como para recibir las reclamaciones que sobre estos reportes presenten los Clientes en términos del
+artículo 42. Asimismo, a través de dicho número telefónico las Sociedades deberán atender las dudas de
 los Clientes en relación con dichas solicitudes y con los derechos que les confiere esta Ley y las
 disposiciones de carácter general a que se refiere el artículo 12.
 . Reformado DOF 10-01-2014
@@ -1573,22 +1567,28 @@ proporcionado.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
+              <p>Párrafo reformado DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-40." placement="bottom">
+              <p>Párrafo reformado DOF 23-01-2004</p>
+            </note>
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-40." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- Los Clientes tendrán derecho a solicitar a las Sociedades el envío gratuito de su Reporte
 de Crédito Especial cada vez que transcurran doce meses. Lo anterior, siempre que soliciten que el envío
@@ -1606,13 +1606,13 @@ disposiciones de carácter general a que se refiere el artículo 12 de la presen
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-41" placement="bottom">
+            <note placementBase="#art-41." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Cuando los Clientes no estén conformes con la información contenida en su Reporte de
 Crédito o Reporte de Crédito Especial, podrán presentar una reclamación. Las Sociedades no estarán
@@ -1651,19 +1651,19 @@ a otra Sociedad para la elaboración por esta última del Reporte de Crédito Es
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Párrafo adicionado DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Párrafo adicionado DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-42" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- La Sociedad deberá entregar a las Entidades Financieras o Sofomes E.N.R. por
 conducto de sus unidades especializadas o, en el caso de Empresas Comerciales, a través de quienes
@@ -1682,13 +1682,13 @@ registro de que se trate la leyenda “registro impugnado”, misma que se elimi
 trámite contenido en los artículos 44, 45 y 46 del presente Capítulo.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-43." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Si las Entidades Financieras o Sofomes E.N.R. por conducto de sus unidades
 especializadas o, en el caso de Empresas Comerciales, de quienes designen como responsables para
@@ -1699,13 +1699,13 @@ registro de que se trate, según lo haya solicitado el Cliente, así como la ley
 , 10-01-2014</p>
               </content>
             </paragraph>
-            <note placementBase="#art-44" placement="bottom">
+            <note placementBase="#art-44." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45.- Si el Usuario acepta total o parcialmente lo señalado en la reclamación presentada por el
 Cliente, deberá realizar de inmediato las modificaciones conducentes en su base de datos y notificar de lo
@@ -1723,13 +1723,13 @@ En caso de que los errores objeto de la reclamación presentada por el Cliente s
 Sociedad, ésta deberá corregirlos de manera inmediata.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46.- Los Usuarios no deberán enviar nuevamente a las Sociedades la información
 previamente contenida en la base de datos de éstas que se haya modificado o eliminado de conformidad
@@ -1743,13 +1743,13 @@ anteriores, y no tendrán a su cargo resolver, dirimir o actuar como amigable co
 diferencias que surjan entre unos y otros.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Articulo 47.- En los casos en que como resultado de una reclamación se realice una modificación a la
 información del Cliente contenida en la base de datos de la Sociedad, ésta deberá enviar al Cliente un
@@ -1770,13 +1770,13 @@ señalados en este artículo como una sola reclamación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48.- Las Sociedades podrán establecer en los contratos de prestación de servicios que
 celebren con los Usuarios, que ambos se comprometen a dirimir los conflictos que tengan con los
@@ -1797,13 +1797,13 @@ procedimientos previstos en la Ley de Protección y Defensa al Usuario de Servic
 , 01-02-2008</p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49.- Una vez que la Sociedad haya actualizado la información contenida en su base de datos,
 deberá poner a disposición de la Comisión un listado de los registros que por cualquier causa hubiesen
@@ -1811,9 +1811,9 @@ sido eliminados, incluidos o modificados como resultado de la reclamación prese
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50.- La Sociedad, trimestralmente, deberá poner a disposición de la Condusef o de la
 Profeco, según corresponda, el número de reclamaciones respecto de la información contenida en su
@@ -1824,13 +1824,13 @@ correspondiente.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-50" placement="bottom">
+            <note placementBase="#art-50." placement="bottom">
               <p>Artículo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51.- Las Sociedades responderán por los daños que causen a los Clientes al proporcionar
 información cuando exista culpa grave, dolo o mala fe en el manejo de la base de datos.
@@ -1839,9 +1839,9 @@ que causen al proporcionar dicha información, cuando exista culpa grave, dolo o
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52.- Aquellos Usuarios que obtengan información de una Sociedad sin contar con la
 autorización a que se refiere el artículo 28 de esta Ley o que de cualquier otra forma cometan alguna
@@ -1863,16 +1863,16 @@ a todas las Sociedades que se abstengan de prestar servicios al infractor de man
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Párrafo reformado DOF 23-01-2004</p>
             </note>
-            <note placementBase="#art-52" placement="bottom">
+            <note placementBase="#art-52." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53.- Para la imposición de las sanciones, la Comisión, el Banco de México, la Profeco y la
 Condusef, estarán a lo siguiente:
@@ -1938,37 +1938,37 @@ infracción o, en su caso, cuando cese la misma.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Fracción reformada DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Párrafo adicionado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Inciso reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Inciso reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Inciso reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-53" placement="bottom">
+            <note placementBase="#art-53." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54.- La facultad del Banco de México, de la Profeco, de la Condusef y de la Comisión para
 imponer las sanciones de carácter administrativo previstas en esta Ley, caducará en un plazo de cinco
@@ -1999,29 +1999,29 @@ Secretaría de Servicios Parlamentarios
 , 01-02-2008</p>
               </content>
             </paragraph>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Párrafo reformado DOF 24-01-2024</p>
             </note>
-            <note placementBase="#art-54" placement="bottom">
+            <note placementBase="#art-54." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55.- Las sanciones administrativas a que se refiere esta Ley, no afectarán el procedimiento
 penal que, en su caso, corresponda.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-55" placement="bottom">
+            <note placementBase="#art-55." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56.- Las multas que el Banco de México, la Comisión, la Profeco o la Condusef impongan,
 deberán ser pagadas dentro de los quince días hábiles siguientes a aquél en que surta efectos la
@@ -2069,25 +2069,25 @@ Secretaría de Servicios Parlamentarios
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-56" placement="bottom">
+            <note placementBase="#art-56." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
@@ -2244,9 +2244,9 @@ monto en términos de las disposiciones fiscales aplicables.
               <p>Artículo adicionado DOF 10-01-2014</p>
             </note>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57.- Contra las resoluciones de la Comisión que impongan sanciones y de las multas
 previstas en los artículos 66 y 67 de esta Ley, procederá el recurso de revisión en los términos previstos
@@ -2261,16 +2261,16 @@ Sanciones que podrá imponer la Comisión
 Sección adicionada DOF 23-01-2004</p>
               </content>
             </paragraph>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Párrafo adicionado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-57" placement="bottom">
+            <note placementBase="#art-57." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58.- La Comisión podrá inhabilitar para desempeñar un empleo, cargo o comisión dentro del
 sistema financiero mexicano, por un periodo de seis meses a diez años, a aquellos funcionarios o
@@ -2281,13 +2281,13 @@ Usuarios se hagan acreedores conforme a esta Ley u otros ordenamientos legales.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-58" placement="bottom">
+            <note placementBase="#art-58." placement="bottom">
               <p>Artículo reformado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59.- La Sociedad que no cuente con el capital mínimo pagado en términos del artículo 8o. de
 la presente Ley, será sancionada por la Comisión con multa equivalente a la cantidad que se obtenga de
@@ -2297,13 +2297,13 @@ Tesorería de la Federación.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-59" placement="bottom">
+            <note placementBase="#art-59." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60.- La Comisión sancionará con multa de 300 a 5,000 veces el salario mínimo general diario
 vigente en el Distrito Federal, cuando:
@@ -2356,48 +2356,8 @@ XIII. La Sociedad se abstenga de poner a disposición del público en general el
 claves que se utilicen en los Reportes de Crédito Especiales o no actualice dicha información,
 conforme al artículo 40, quinto párrafo, inciso c);
 
-XIV. La Sociedad no entregue la reclamación del Cliente en la forma y términos establecidos en el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Párrafo reformado DOF 10-01-2014</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 10-01-2014</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción derogada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-60" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-          </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
-              <content>
-                <p>artículo 43, primer párrafo, o bien, omita incluir en el registro correspondiente la leyenda prevista
+XIV. La Sociedad no entregue la reclamación del Cliente en la forma y términos establecidos en el
+artículo 43, primer párrafo, o bien, omita incluir en el registro correspondiente la leyenda prevista
 en el segundo párrafo del mismo artículo;
 XV. La Entidad Financiera omita realizar de inmediato las modificaciones en su base de datos,
 relativas a la aceptación total o parcial de lo señalado en la reclamación presentada por el
@@ -2449,49 +2409,82 @@ servicios previstos en el artículo 40, penúltimo párrafo;
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
+              <p>Párrafo reformado DOF 10-01-2014</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 10-01-2014</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción derogada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción derogada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-43" placement="bottom">
+            <note placementBase="#art-60." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61.- La Comisión sancionará con multa de 300 a 10,000 veces el salario mínimo general
 diario vigente en el Distrito Federal, cuando:
@@ -2503,18 +2496,8 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 I. La Sociedad omita dar aviso a la Secretaría, a la Comisión o al Banco de México, de la fecha de
 inicio de sus actividades, en términos de lo establecido en el artículo 11, segundo párrafo;
-II. La Sociedad modifique sus estatutos sociales sin contar con la autorización a que se refiere el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-61" placement="bottom">
-              <p>Párrafo reformado DOF 10-01-2014</p>
-            </note>
-          </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
-              <content>
-                <p>artículo 11, primer párrafo;
+II. La Sociedad modifique sus estatutos sociales sin contar con la autorización a que se refiere el
+artículo 11, primer párrafo;
 III. La Sociedad cuente con políticas o criterios que restrinjan, obstaculicen o impongan requisitos
 excesivos para proporcionar o recibir información, en los términos del artículo 35;
 IV. La Sociedad omita incorporar, modificar o eliminar la información de su base de datos, en los
@@ -2540,53 +2523,15 @@ informe el Usuario, en el plazo establecido en el artículo 20, último párrafo
 XI. La Entidad Financiera no informe sobre la venta o cesión de la cartera a las Sociedades en el
 plazo establecido en el artículo 27 Bis, primer párrafo;
 
-XII. La Entidad Financiera que adquiera la cartera, en el supuesto establecido en el párrafo cuarto del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción derogada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-11" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-          </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
-              <content>
-                <p>artículo 27 Bis, no actualice la información ante la Sociedad de los créditos adquiridos, o bien, no
+XII. La Entidad Financiera que adquiera la cartera, en el supuesto establecido en el párrafo cuarto del
+artículo 27 Bis, no actualice la información ante la Sociedad de los créditos adquiridos, o bien, no
 utilice, en los envíos de información, el mismo número que tenía de tales créditos la Sociedad
 antes del traspaso o no atienda las reclamaciones de los Clientes en términos de los párrafos
 tercero y último de dicho artículo;
 
 XIII. La Entidad Financiera que venda o ceda la cartera de crédito no actualice la información de los
-créditos cedidos o no atienda las reclamaciones de los Clientes en los supuestos previstos en el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-27" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-          </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
-              <content>
-                <p>artículo 27 Bis, quinto y último párrafos;
+créditos cedidos o no atienda las reclamaciones de los Clientes en los supuestos previstos en el
+artículo 27 Bis, quinto y último párrafos;
 
 34 de 51
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
@@ -2602,24 +2547,8 @@ XV. La Entidad Financiera se abstenga de proporcionar al Cliente el Reporte de C
 la forma y términos establecidos en el artículo 40, primer párrafo;
 
 XVI. La Entidad Financiera envíe nuevamente a la Sociedad la información, previamente contenida
-en la base de datos de ésta y que se haya modificado o eliminado, a que hace referencia el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-27" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-27" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-27" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-          </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
-              <content>
-                <p>artículo 46;
+en la base de datos de ésta y que se haya modificado o eliminado, a que hace referencia el
+artículo 46;
 . Reformada DOF 20-01-2009
 XVII. La Sociedad que no elimine de la base de datos la información a que se refiere el artículo 23 en
 los plazos y condiciones señalados en dicho artículo, y
@@ -2630,22 +2559,58 @@ utilizada para efectos laborales, sin que exista resolución judicial que así l
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
+              <p>Párrafo reformado DOF 10-01-2014</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción derogada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Fracción adicionada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-61." placement="bottom">
               <p>Fracción adicionada DOF 20-01-2009</p>
             </note>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-61." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62.- La Comisión sancionará con multa de 2,000 a 20,000 veces el salario mínimo general
 diario vigente en el Distrito Federal, cuando:
@@ -2681,39 +2646,8 @@ VI. Omitan ajustarse a las disposiciones de carácter general que emita la Comis
 del artículo 36 y 36 Bis de esta ley, y
 
 VII. Omitan aplicar la tarifa que determine la Comisión en términos de lo dispuesto por los artículos
-36 y 36 Bis de esta Ley, así como que incumplan con las disposiciones a que se refiere el</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Párrafo reformado DOF 25-05-2010</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción adicionada DOF 10-01-2014</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción adicionada DOF 10-01-2014</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción reformada DOF 25-05-2010</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción adicionada DOF 25-05-2010</p>
-            </note>
-            <note placementBase="#art-62" placement="bottom">
-              <p>Fracción adicionada DOF 25-05-2010</p>
-            </note>
-          </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
-              <content>
-                <p>artículo 36 Bis.
+36 y 36 Bis de esta Ley, así como que incumplan con las disposiciones a que se refiere el
+artículo 36 Bis.
 . Reformada DOF 10-01-2014
 En caso de que alguna de las infracciones contenidas en los artículos 60, 61 y 62 de esta Ley generen
 un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma
@@ -2723,19 +2657,43 @@ mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada pa
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
+              <p>Párrafo reformado DOF 25-05-2010</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción adicionada DOF 10-01-2014</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción adicionada DOF 10-01-2014</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción reformada DOF 25-05-2010</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
               <p>Fracción adicionada DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción adicionada DOF 25-05-2010</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
+              <p>Fracción adicionada DOF 25-05-2010</p>
+            </note>
+            <note placementBase="#art-62." placement="bottom">
               <p>Párrafo adicionado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-62." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63.- Las multas a que se refieren los artículos 59, 60 y 61, podrán ser impuestas tanto a las
 Sociedades y Entidades Financieras, como a los administradores, funcionarios, empleados o apoderados
@@ -2743,13 +2701,13 @@ de esas Sociedades y Entidades Financieras, que sean responsables de la infracci
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-63" placement="bottom">
+            <note placementBase="#art-63." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64.- Las comisiones encargadas de la inspección y vigilancia de las Entidades Financieras o
 Sofomes E.N.R., podrán sancionarlas, según corresponda, con una multa de 300 a 1,000 veces el salario
@@ -2768,19 +2726,19 @@ conforme al artículo 45.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Párrafo reformado DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-64" placement="bottom">
+            <note placementBase="#art-64." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65.- Las sanciones previstas en esta Sección, cuando correspondan a la Comisión, serán
 impuestas por su Junta de Gobierno, quien podrá delegar esa facultad en razón de la naturaleza de la
@@ -2796,13 +2754,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
-            <note placementBase="#art-65" placement="bottom">
+            <note placementBase="#art-65." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66.- El Banco de México sancionará con multa de 1,000 a 15,000 veces el salario mínimo
 general diario vigente en el Distrito Federal, a las Sociedades cuando:
@@ -2834,51 +2792,41 @@ términos que señale el Banco de México mediante disposiciones de carácter ge
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Párrafo reformado DOF 10-01-2014</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción derogada DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción derogada DOF 25-05-2010</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Fracción reformada DOF 01-02-2008</p>
             </note>
-            <note placementBase="#art-66" placement="bottom">
+            <note placementBase="#art-66." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67.- El Banco de México sancionará con multa de 1,000 a 15,000 veces el salario mínimo
 general diario vigente en el Distrito Federal, a las Entidades Financieras cuando:
 
 I. Omitan proporcionar a las Sociedades información relativa a sus operaciones crediticias, de
-acuerdo con las disposiciones de carácter general que expida el propio Banco conforme al</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-67" placement="bottom">
-              <p>Párrafo reformado DOF 10-01-2014</p>
-            </note>
-          </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
-              <content>
-                <p>artículo 20, o bien, fuera de los plazos señalados por éste;
+acuerdo con las disposiciones de carácter general que expida el propio Banco conforme al
+artículo 20, o bien, fuera de los plazos señalados por éste;
 II. Se abstengan de observar el programa que determine el Banco de México mediante
 disposiciones de carácter general, en el que dé a conocer el mecanismo gradual para reducir el
 plazo de respuesta respecto a las reclamaciones que formulen los Clientes ante las Sociedades,
@@ -2896,13 +2844,16 @@ Sanciones que podrá imponer la Profeco y la Condusef
 Sección adicionada DOF 23-01-2004. Denominación reformada DOF 01-02-2008</p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-67." placement="bottom">
+              <p>Párrafo reformado DOF 10-01-2014</p>
+            </note>
+            <note placementBase="#art-67." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68.- La Profeco sancionará a las Empresas Comerciales y la Condusef a las Sofomes, E.N.R.
 con multa de 100 a 1,000 veces el salario mínimo general diario vigente en el Distrito Federal,
@@ -2968,63 +2919,8 @@ Cliente, según lo establecido en el artículo 20, cuarto párrafo;
 XVI. Se abstenga de informar a la Sociedad del cumplimiento de la obligación realizado por el
 Cliente, en los términos del cuarto párrafo del artículo 20 de esta Ley;
 
-XVII. Envíen información sin contar con el soporte documental a que se refiere el primer párrafo del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Párrafo reformado DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción reformada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 01-02-2008</p>
-            </note>
-            <note placementBase="#art-68" placement="bottom">
-              <p>Fracción adicionada DOF 20-01-2009</p>
-            </note>
-          </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
-              <content>
-                <p>artículo 20 de esta Ley, y
+XVII. Envíen información sin contar con el soporte documental a que se refiere el primer párrafo del
+artículo 20 de esta Ley, y
 
 XVIII. Se utilice información proporcionada por la Sociedad con la finalidad de ser utilizada para
 efectos laborales, sin que exista mandamiento judicial o legal que así lo amerite.
@@ -3033,13 +2929,61 @@ efectos laborales, sin que exista mandamiento judicial o legal que así lo ameri
 Reforma DOF 01-02-2008: Derogó del artículo el entonces último párrafo</p>
               </content>
             </paragraph>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
+              <p>Párrafo reformado DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción reformada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 01-02-2008</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
               <p>Fracción adicionada DOF 20-01-2009</p>
             </note>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
               <p>Fracción adicionada DOF 20-01-2009</p>
             </note>
-            <note placementBase="#art-20" placement="bottom">
+            <note placementBase="#art-68." placement="bottom">
+              <p>Fracción adicionada DOF 20-01-2009</p>
+            </note>
+            <note placementBase="#art-68." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
@@ -3057,9 +3001,9 @@ apoderados que sean responsables de la infracción.
               <p>Artículo adicionado DOF 01-02-2008</p>
             </note>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69.- Si un Cliente celebra con el acreedor un convenio en virtud del cual se reduzca,
 modifique o altere la obligación inicial, el Usuario que deba enviar a la Sociedad la información respectiva,
@@ -3083,34 +3027,72 @@ incumplimiento.
  (reubicado). Reformado DOF 01-02-2008</p>
               </content>
             </paragraph>
-            <note placementBase="#art-69" placement="bottom">
+            <note placementBase="#art-69." placement="bottom">
               <p>Artículo adicionado DOF 23-01-2004</p>
             </note>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70.- En caso de que la reestructuración obedezca a una oferta por parte del Usuario, esta
 situación deberá ser reflejada en el Reporte de Crédito que se emita.
  (reubicado)
-ARTICULOS TRANSITORIOS
-PRIMERO.- Este decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el
+ARTICULOS TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-70." placement="bottom">
+              <p>Artículo adicionado DOF 23-01-2004</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- Este decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el
 Diario Oficial de la Federación, salvo por lo dispuesto en los Artículos Transitorios Segundo y Tercero
-siguientes.
-SEGUNDO.- Las Sociedades y las Entidades Financieras tendrán un plazo de seis meses para ajustar
-sus sistemas y estructuras a lo previsto en el presente decreto.
-TERCERO.- El plazo de treinta días naturales a que se refiere el artículo 44 de la presente ley, entrará
+siguientes.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Las Sociedades y las Entidades Financieras tendrán un plazo de seis meses para ajustar
+sus sistemas y estructuras a lo previsto en el presente decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- El plazo de treinta días naturales a que se refiere el artículo 44 de la presente ley, entrará
 en vigor a más tardar el 31 de diciembre de 2004. En ningún caso podrá exceder de 60 días a partir de
 entrada en vigor la presente ley. El Banco de México, mediante disposiciones de carácter general, emitirá
 un programa en el que se dé a conocer el mecanismo gradual para reducir el plazo de respuesta de los
 Usuarios, a fin de que éstos efectúen las adecuaciones a sus sistemas y se cumpla con lo señalado en el
-citado precepto legal.
-CUARTO.- Los Usuarios que a la fecha de entrada en vigor de este decreto mantengan relaciones
+citado precepto legal.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los Usuarios que a la fecha de entrada en vigor de este decreto mantengan relaciones
 jurídicas con sus Clientes, podrán continuar realizando consultas periódicas a las Sociedades sobre el
 comportamiento crediticio de tales Clientes, hasta que dichas relaciones jurídicas terminen por cualquier
-causa.
-QUINTO.- Se derogan los artículos 33, 33-A y 33-B de la Ley para Regular las Agrupaciones
+causa.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Se derogan los artículos 33, 33-A y 33-B de la Ley para Regular las Agrupaciones
 Financieras, las Reglas generales a las que deberán sujetarse las sociedades de información crediticia a
 que se refiere el artículo 33 de la Ley para Regular las Agrupaciones Financieras, así como las demás
 disposiciones que se opongan a lo dispuesto por esta ley.
@@ -3138,10 +3120,24 @@ segundo a octavo párrafos a ser cuarto a décimo párrafos; 48 con un tercer p�
 pasando los actuales 57 y 58 a ser 69 y 70, respectivamente, todos de la Ley para Regular las
 Sociedades de Información Crediticia, para quedar como sigue:
 ..........
-ARTÍCULOS TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- Las Sociedades deberán eliminar de su base de datos los registros con la información,
+ARTÍCULOS TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Las Sociedades deberán eliminar de su base de datos los registros con la información,
 de personas físicas y morales, relativa a créditos vencidos anteriores al 1 de enero de 2000, cuyo importe
 a dicha fecha sea inferior a $3,000.00 tratándose de personas físicas y a $10,000.00 en caso de personas
 morales.
@@ -3151,8 +3147,15 @@ de los Clientes que se acogieron a dichos programas con una anotación que en es
 puntual y oportuno. La mencionada información deberá enviarse a las Sociedades a más tardar el 2 de
 febrero de 2004. Lo anterior, sin perjuicio de que los Usuarios proporcionen la información que
 corresponda al comportamiento crediticio de los Clientes con posterioridad a su adhesión a los
-mencionados programas, de conformidad con las disposiciones aplicables.
-TERCERO.- Tratándose de créditos otorgados con anterioridad a la entrada en vigor de la Ley para
+mencionados programas, de conformidad con las disposiciones aplicables.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Tratándose de créditos otorgados con anterioridad a la entrada en vigor de la Ley para
 Regular las Sociedades de Información Crediticia, los Usuarios que mantengan relaciones jurídicas con
 los Clientes respectivos, incluyendo los que adquieran cartera crediticia o los que administren cartera
 crediticia de otros Usuarios, podrán realizar consultas periódicas a las Sociedades sobre el
@@ -3162,8 +3165,15 @@ Cuando los Usuarios hayan vendido o cedido cartera de crédito a personas que no
 términos de la mencionada Ley, deberán informarlo a las Sociedades dentro de los 60 días naturales
 siguientes a la fecha de entrada en vigor del presente Decreto. En este supuesto las Sociedades deberán
 incluir en los Reportes de Crédito y Reportes de Crédito Especiales que emitan, una anotación en la que
-manifieste la imposibilidad de actualizar los registros respectivos por el motivo mencionado.
-CUARTO.- Las Sociedades que a la fecha de entrada en vigor del presente Decreto estén en
+manifieste la imposibilidad de actualizar los registros respectivos por el motivo mencionado.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Las Sociedades que a la fecha de entrada en vigor del presente Decreto estén en
 operación, tendrán un plazo de 60 días naturales contados a partir de dicha fecha para cumplir con lo
 previsto en el inciso III del quinto párrafo del artículo 40 de la Ley para Regular las Sociedades de
 Información Crediticia.
@@ -3171,8 +3181,15 @@ Información Crediticia.
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 24-01-2024
 Secretaría General
-Secretaría de Servicios Parlamentarios
-QUINTO.- Los procedimientos para la imposición de sanciones de carácter administrativo, seguidos
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Los procedimientos para la imposición de sanciones de carácter administrativo, seguidos
 con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose en la etapa en que
 se encuentren de conformidad con las disposiciones de este último.
 México, D.F., a 28 de diciembre de 2003.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen.
@@ -3208,25 +3225,60 @@ penúltimo y un último párrafos; y se DEROGAN los artículos 28, tercer párra
 fracciones VII y XVII; 61, fracción V, y 68, último párrafo de la Ley para Regular las Sociedades de
 Información Crediticia, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario
 Oficial de la Federación, salvo lo dispuesto en los artículos 2º, fracción I, 20, 36 Bis, 46 y 69 los cuales
-entrarán en vigor a los 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
-SEGUNDO.- Las Sociedades tendrán un plazo de 90 días naturales, contados a partir de la entrada en
+entrarán en vigor a los 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- Las Sociedades tendrán un plazo de 90 días naturales, contados a partir de la entrada en
 vigor del presente Decreto para cumplir con lo dispuesto en los artículos 8o Bis, 13, segundo y tercer
 párrafos, 21, 23, 27 Bis, segundo párrafo, 42 y 47.
 La primera eliminación de registros a que se refiere esta Ley se realizará dentro del plazo definido en
-este Transitorio.
-TERCERO.- Los Usuarios tendrán un plazo de 90 días naturales, contados a partir de la entrada en
-vigor del presente Decreto para cumplir con lo dispuesto en el artículo 27 Bis.
-CUARTO.- Los Usuarios que sean Entidades Financieras que hayan instrumentado programas de
+este Transitorio.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- Los Usuarios tendrán un plazo de 90 días naturales, contados a partir de la entrada en
+vigor del presente Decreto para cumplir con lo dispuesto en el artículo 27 Bis.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- Los Usuarios que sean Entidades Financieras que hayan instrumentado programas de
 apoyo para sus deudores con o sin participación del Gobierno Federal, deberán reportar a las Sociedades
 la información de los Clientes que se acogieron a dichos programas con una anotación de que en esa
 fecha denote pago puntual y oportuno.
 Los Usuarios a que se refiere este artículo serán sancionados por la Comisión con una multa de 100 a
 1000 veces el salario mínimo general diario vigente en el Distrito Federal por cada registro en el que se
-omita la anotación a que se refiere el párrafo anterior.
-QUINTO.- Las Sociedades deberán eliminar de sus bases de datos los registros relativos a créditos
+omita la anotación a que se refiere el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- Las Sociedades deberán eliminar de sus bases de datos los registros relativos a créditos
 vencidos y cedidos antes del 1 de julio de 2002, cuyo monto no exceda las cuatrocientas mil UDIS y que
 no hayan sido actualizados dichos registros entre esa fecha y el 1 de noviembre de 2007.
 43 de 51
@@ -3236,8 +3288,15 @@ Secretaría General
 Secretaría de Servicios Parlamentarios
 Las Sociedades serán sancionadas por la Comisión con una multa de 100 a 1000 veces el salario
 mínimo general diario vigente en el Distrito Federal por cada registro en el que se omita la eliminación a
-que se refiere el párrafo anterior.
-SEXTO.- Las Sociedades tendrán un plazo de 100 días naturales contados a partir de la entrada en
+que se refiere el párrafo anterior.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Las Sociedades tendrán un plazo de 100 días naturales contados a partir de la entrada en
 vigor del presente Decreto para enviar a la Comisión para su aprobación las claves de prevención y
 observación a que se refiere el artículo 21. Hasta en tanto la Comisión no apruebe dichas claves de
 prevención y observación, las Sociedades seguirán aplicando las vigentes al momento de la solicitud.
@@ -3291,32 +3350,57 @@ su orden la actual fracción VI para ser VIII, 19 Bis; 42, sexto y séptimo pár
 y se deroga el artículo 66, fracciones VI, VII y VIII de la Ley para Regular las Sociedades de Información
 Crediticia, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el</p>
+TRANSITORIOS</p>
               </content>
             </paragraph>
-            <note placementBase="#art-70" placement="bottom">
-              <p>Artículo adicionado DOF 23-01-2004</p>
-            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. El Banco de México expedirá las disposiciones de carácter general a que se refiere el
+artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de
+sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día
+siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4
+Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de
+Instituciones de Crédito en materia de producto básico de tarjeta de crédito.</p>
+              </content>
+            </paragraph>
           </article>
           <article id="art-4">
             <num>Artículo 4</num>
             <paragraph id="art-4-para-1">
               <content>
-                <p>artículo 4 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros en un plazo de
-sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto.
-Tercero. Las Entidades contarán con un plazo de noventa días naturales, contados a partir del día
-siguiente a la entrada en vigor del presente Decreto, para dar cumplimiento a lo dispuesto por el artículo 4
-Bis 1 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y 48 Bis 2 de la Ley de
-Instituciones de Crédito en materia de producto básico de tarjeta de crédito.
-Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras
+                <p>Cuarto. Las Personas que operen antes de la entrada en vigor del presente Decreto como Cámaras
 de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la
 Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales
 contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan al
-amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.
-Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del
+amparo de los citados preceptos, para presentar la solicitud de autorización respectiva.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto. Las Sociedades contarán con un plazo de ciento ochenta días naturales contados a partir del
 día siguiente de la entrada en vigor del presente Decreto para cumplir con las obligaciones a que se
 refieren los artículos 2 y 36 Bis de la Ley para Regular las Sociedades de Información Crediticia.
 Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento ochenta días
@@ -3326,8 +3410,15 @@ Las sociedades de información crediticia deberán obtener la autorización de l
 Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por
 los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de
 Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del
-presente Decreto.
-Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90
+presente Decreto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90
 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios
 46 de 51
 LEY PARA REGULAR LAS SOCIEDADES DE INFORMACIÓN CREDITICIA
@@ -3445,17 +3536,45 @@ sexto; 53, con los párrafos segundo y tercero, recorriéndose el subsecuente; 5
 recorriéndose el subsecuente, de la Ley para Regular las Sociedades de Información Crediticia, para
 quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente
 Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento
-vigente al momento de su notificación al presunto infractor.
-Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se
+vigente al momento de su notificación al presunto infractor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se
 hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia,
 antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al
-procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.
-Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de
+procedimiento vigente al momento de su notificación a la institución o entidad correspondiente.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de
 entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las
 Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la
 misma fecha de entrada en vigor del presente Decreto.

@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2023-03-01/lpeam/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2023-03-01/lpeam/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -43,9 +43,9 @@
       </chapter>
       <chapter id="chapter-6">
         <num>Capítulo VI Del Procedimiento de Interceptación</num>
-        <article id="art-1">
-          <num>Artículo 1</num>
-          <paragraph id="art-1-para-1">
+        <article id="art-1.">
+          <num>Artículo 1.</num>
+          <paragraph id="art-1.-para-1">
             <content>
               <p>Artículo 1. La presente Ley es reglamentaria de los artículos 27, 48 y 73, fracción XXIX-M, de la
 Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad y protección del Espacio
@@ -55,9 +55,9 @@ soberanía e independencia nacionales del Espacio Aéreo Mexicano.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-2">
-          <num>Artículo 2</num>
-          <paragraph id="art-2-para-1">
+        <article id="art-2.">
+          <num>Artículo 2.</num>
+          <paragraph id="art-2.-para-1">
             <content>
               <p>Artículo 2. El Ejecutivo Federal garantiza la soberanía de la Nación sobre el Espacio Aéreo Mexicano
 por medio de la vigilancia y protección coordinada que sobre éste realizan las distintas dependencias y
@@ -65,9 +65,9 @@ entidades de la Administración Pública Federal, en el ámbito de sus respectiv
             </content>
           </paragraph>
         </article>
-        <article id="art-3">
-          <num>Artículo 3</num>
-          <paragraph id="art-3-para-1">
+        <article id="art-3.">
+          <num>Artículo 3.</num>
+          <paragraph id="art-3.-para-1">
             <content>
               <p>Artículo 3. La Secretaría de la Defensa Nacional coordinará la participación de las autoridades
 correspondientes para que, desde su ámbito de competencia, coadyuven a la vigilancia y protección del
@@ -75,9 +75,9 @@ Espacio Aéreo Mexicano, en el ámbito que compete a la Seguridad Nacional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-4">
-          <num>Artículo 4</num>
-          <paragraph id="art-4-para-1">
+        <article id="art-4.">
+          <num>Artículo 4.</num>
+          <paragraph id="art-4.-para-1">
             <content>
               <p>Artículo 4. La seguridad relativa a salvaguardar la soberanía en el espacio aéreo sobre territorio
 nacional se rige por lo previsto en esta Ley, por los tratados internacionales en materia de aeronáutica
@@ -87,9 +87,9 @@ Administrativo, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el C�
             </content>
           </paragraph>
         </article>
-        <article id="art-5">
-          <num>Artículo 5</num>
-          <paragraph id="art-5-para-1">
+        <article id="art-5.">
+          <num>Artículo 5.</num>
+          <paragraph id="art-5.-para-1">
             <content>
               <p>Artículo 5. Para los efectos de la presente Ley, se entenderá por:
 1 de 10
@@ -153,9 +153,9 @@ aéreos con fines de vigilancia aérea y protección del Espacio Aéreo Mexicano
             </content>
           </paragraph>
         </article>
-        <article id="art-6">
-          <num>Artículo 6</num>
-          <paragraph id="art-6-para-1">
+        <article id="art-6.">
+          <num>Artículo 6.</num>
+          <paragraph id="art-6.-para-1">
             <content>
               <p>Artículo 6. La Secretaría previo acuerdo del Consejo, emitirá las disposiciones técnicas y
 administrativas necesarias para el cumplimiento de esta Ley, que se publicarán en el Diario Oficial de la
@@ -164,18 +164,18 @@ La interpretación de esta Ley para efectos administrativos corresponderá a la 
             </content>
           </paragraph>
         </article>
-        <article id="art-7">
-          <num>Artículo 7</num>
-          <paragraph id="art-7-para-1">
+        <article id="art-7.">
+          <num>Artículo 7.</num>
+          <paragraph id="art-7.-para-1">
             <content>
               <p>Artículo 7. El Centro actuará conforme a sus atribuciones al observar alguna de las maniobras de
 vuelo que se señalan en el presente Capítulo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-8">
-          <num>Artículo 8</num>
-          <paragraph id="art-8-para-1">
+        <article id="art-8.">
+          <num>Artículo 8.</num>
+          <paragraph id="art-8.-para-1">
             <content>
               <p>Artículo 8. Para efectos de la presente Ley, se considera traza de interés a la lectura del eco radar o
 avistamiento de una aeronave que realiza alguna de las siguientes conductas:
@@ -194,9 +194,9 @@ IX. Cuando una aeronave se encuentre en situación de emergencia.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-9">
-          <num>Artículo 9</num>
-          <paragraph id="art-9-para-1">
+        <article id="art-9.">
+          <num>Artículo 9.</num>
+          <paragraph id="art-9.-para-1">
             <content>
               <p>Artículo 9. El Centro considerará como vuelo no autorizado, aquel que se encuentre en alguno de los
 siguientes supuestos:
@@ -211,9 +211,9 @@ aeronáutica, ni aprobado por los Servicios a la Navegación en el Espacio Aére
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10. Se considera vuelo clandestino, cuando la tripulación de una aeronave realiza alguna de
 las siguientes conductas:
@@ -233,9 +233,9 @@ aeródromo o helipuerto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11. El Sistema tiene por objeto la coordinación entre las dependencias y entidades de la
 Administración Pública Federal que lo integran, para inhibir y contrarrestar las operaciones aéreas ilícitas
@@ -243,9 +243,9 @@ que atenten contra la seguridad nacional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12. El Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano se integra por:
 I. La Secretaría de la Defensa Nacional, quien coordinará el Sistema:
@@ -269,9 +269,9 @@ a) El Instituto Nacional de Migración.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13. El Consejo es la instancia superior responsable de emitir las políticas de coordinación e
 intercambio de información entre las dependencias y entidades de la Administración Pública Federal para
@@ -280,9 +280,9 @@ jurídica.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14. El Consejo estará integrado por:
 I. La persona titular de la Presidencia de la República, quien lo presidirá;
@@ -296,9 +296,9 @@ Espacio Aéreo, quien fungirá como titular de la Secretaría Técnica del Conse
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15. Las personas integrantes del Consejo contarán con voz y voto y no recibirán
 remuneración alguna por su participación en el mismo.
@@ -329,9 +329,9 @@ Las personas invitadas tendrán derecho a voz, pero sin voto.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16. El Consejo tendrá las atribuciones siguientes:
 I. Establecer las bases generales de coordinación entre las dependencias y entidades de la
@@ -351,9 +351,9 @@ del Espacio Aéreo Mexicano.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17. El Consejo sesionará de manera ordinaria, semestralmente, y de manera extraordinaria,
 en cualquier momento, a solicitud de cualquiera de sus integrantes.
@@ -369,9 +369,9 @@ Presidencia del Consejo tendrá voto de calidad.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18. La persona titular de la Presidencia del Consejo tendrá las atribuciones siguientes:
 I. Dirigir el desarrollo de las sesiones del Consejo, y
@@ -385,9 +385,9 @@ Consejo para la prosecución de los fines del mismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. La Secretaría Técnica del Consejo tendrá las facultades siguientes:
 I. Elaborar la orden del día de las sesiones, incluyendo las invitaciones que correspondan de
@@ -405,9 +405,9 @@ VII. Ejercer las demás facultades que el Consejo le confiera.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20. Para llevar a cabo las acciones de Alertamiento, Interceptación aérea, Identificación,
 Seguimiento de trazas de interés y asistencia de aeronaves en emergencia en el Espacio Aéreo
@@ -445,9 +445,9 @@ acciones que correspondan.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21. El Centro activará su procedimiento de Interceptación aérea cuando:
 I. Por sus propios medios aéreos y sistemas de Detección, detecte u observe una traza de
@@ -460,9 +460,9 @@ un vuelo clandestino.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22. El Centro comunicará el Alertamiento aéreo a las autoridades competentes bajo las
 siguientes circunstancias:
@@ -474,9 +474,9 @@ autorizado o clandestino con dirección al espacio aéreo nacional.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23. El procedimiento de Interceptación aérea en el espacio aéreo nacional tendrá como
 premisa el uso flexible del Espacio Aéreo Mexicano, conforme a lo establecido por la Organización de
@@ -496,18 +496,18 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24. Una vez interceptada la aeronave, la tripulación de la Aeronave interceptora aplicará el
 protocolo de Interceptación aérea de conformidad a las normas que expida la autoridad aeronáutica.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25. El procedimiento de Interceptación aérea finaliza cuando el vuelo no autorizado o
 clandestino abandone el Espacio Aéreo Mexicano o aterrice dentro del territorio nacional. En tal caso, el
@@ -516,9 +516,9 @@ atribuciones.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26. El Centro requerirá a la autoridad aeronáutica y a las demás autoridades que tengan
 injerencia en las actividades de vigilancia y protección del Espacio Aéreo Mexicano lo siguiente:
@@ -537,16 +537,44 @@ en territorio nacional.
 Cuando se adviertan irregularidades o inconsistencias de la información a que hacen referencia las
 fracciones anteriores, el Centro solicitará a la autoridad competente para que, previo procedimiento,
 determine lo conducente conforme a la legislación aplicable.
-Transitorios
-Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
-Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se
 realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el
 presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no
 incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el ejercicio
-fiscal del que se trate.
-Cuarto. El Consejo Nacional de Vigilancia y Protección del Espacio Aéreo emitirá los procedimientos
+fiscal del que se trate.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. El Consejo Nacional de Vigilancia y Protección del Espacio Aéreo emitirá los procedimientos
 de actuación y de coordinación para la aplicación de esta Ley dentro de los 180 días posteriores a su
 entrada en vigor.
 Ciudad de México, a 22 de febrero de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.

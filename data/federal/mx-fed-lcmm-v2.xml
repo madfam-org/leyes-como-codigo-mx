@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1986-01-20/lcmm/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1986-01-20/lcmm/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -169,9 +169,9 @@ El Director General asistirá a las reuniones de la Junta de Gobierno con voz, p
             </content>
           </paragraph>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>ARTICULO 10.- La Junta de Gobierno tiene las siguientes facultades:
 I.- Aprobar los programas de acuñación de moneda y de operación anual, a proposición del Director
@@ -199,13 +199,13 @@ como sobre los demás asuntos que resulten necesarios para el cumplimiento del o
 actividades del organismo.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-10" placement="bottom">
+          <note placementBase="#art-10." placement="bottom">
             <p>Fracción reformada DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>ARTICULO 11.- El Director General será designado por la Junta de Gobierno, a propuesta del
 Secretario de Hacienda y Crédito Público, y sus facultades serán:
@@ -244,9 +244,9 @@ Gobierno y todos aquellos necesarios e implícitos para el cumplimiento de sus f
             </content>
           </paragraph>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>ARTICULO 12.- La Casa de Moneda de México tendrá un Comité Técnico integrado por tres
 miembros designados, uno por la Secretaría de Hacienda y Crédito Público y otro por el Banco de
@@ -263,9 +263,9 @@ organismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>ARTICULO 13. El organismo contará con dos comisarios designados, uno por la Secretaría de
 Hacienda y Crédito Público, y el otro, por la Secretaría de la Función Pública. El titular de cada Secretaría
@@ -279,13 +279,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-13" placement="bottom">
+          <note placementBase="#art-13." placement="bottom">
             <p>Artículo reformado DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>ARTICULO 14.- El personal de la dirección, administración, inspección y los demás trabajadores que
 concurran directamente en el proceso productivo o que utilicen metales y demás material necesario en
@@ -295,9 +295,9 @@ que fije la Junta de Gobierno.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>ARTICULO 15.- La Casa de Moneda de México establecerá, con sujeción a lo dispuesto por la Ley
 Orgánica de la Administración Pública Federal, el Comité Mixto de Productividad con la participación de
@@ -305,9 +305,9 @@ los trabajadores y de la administración del organismo.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>ARTICULO 16.- Los actos, convenios y contratos en que intervenga la Casa de Moneda de México,
 se ajustarán a las leyes federales conducentes y las controversias en que sea parte, serán de la
@@ -316,29 +316,64 @@ que se exigen a los particulares.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>ARTICULO 17.- Las relaciones de trabajo entre la Casa de Moneda de México y sus trabajadores, se
 regirán por el apartado "B" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y
 su Ley Reglamentaria.
-TRANSITORIOS
-PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la
 Federación. Durante los 90 días posteriores a su vigencia, la Secretaría de Hacienda y Crédito Público
 deberá continuar apoyando al Organismo con el propósito de propiciar la adecuada transición
-administrativa, que esta Ley impone.
-SEGUNDO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan a la
-misma.
-TERCERO.- La Secretaría de Hacienda y Crédito Público procederá con oportunidad a levantar el
+administrativa, que esta Ley impone.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Al entrar en vigor esta Ley, se derogan todas las disposiciones que se opongan a la
+misma.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- La Secretaría de Hacienda y Crédito Público procederá con oportunidad a levantar el
 inventario de los bienes, derechos y recursos que asumirá el organismo para proponer al Ejecutivo
 Federal las medidas que correspondan. Con base en el inventario y en la transferencia de dichos bienes,
 derechos y recursos, al constituirse la Junta de Gobierno del organismo determinará el patrimonio inicial
-de operación de la Casa de Moneda de México.
-CUARTO.- El Ejecutivo Federal dictará las medidas que sean necesarias para que los bienes,
+de operación de la Casa de Moneda de México.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- El Ejecutivo Federal dictará las medidas que sean necesarias para que los bienes,
 instalaciones, equipos, derechos y demás recursos que están destinados al servicio público de acuñación
-de moneda queden transferidos a la Casa de Moneda de México a partir de la vigencia de esta Ley.
-QUINTO.- El personal de la Secretaría de Hacienda y Crédito Público, adscrito a la Dirección General
+de moneda queden transferidos a la Casa de Moneda de México a partir de la vigencia de esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO.- El personal de la Secretaría de Hacienda y Crédito Público, adscrito a la Dirección General
 de la Casa de Moneda, a la fecha de la vigencia de esta Ley, pasará a prestar sus servicios a la Casa de
 Moneda de México y se mantendrán los derechos y condiciones de trabajo en materia de salarios,
 antigüedad y prestaciones adquiridas.
@@ -397,10 +432,24 @@ Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 ARTÍCULO DÉCIMO. Se reforman los artículos 10, fracción IV y 13 de la Ley de la Casa de Moneda
 de México, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -442,14 +491,35 @@ Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022
 Artículo Décimo Sexto. Se reforma el artículo 8 de la Ley de la Casa de Moneda de México, para
 quedar como sigue:
 …….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los
 artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos,
 en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a
-partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
+partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se
 cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio
 fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en
 caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta

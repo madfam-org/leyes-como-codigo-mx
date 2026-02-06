@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2006-07-06/lfsp/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2006-07-06/lfsp/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -78,9 +78,9 @@
         </chapter>
         <chapter id="chapter-11">
           <num>Capítulo III Del Recurso</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1.- La presente ley tiene por objeto regular la prestación de servicios de seguridad privada,
 cuando estos se presten en dos o más entidades federativas, en las modalidades previstas en esta ley y
@@ -94,13 +94,13 @@ congruencia y proporcionalidad en la utilización de sus facultades y medios dis
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-1" placement="bottom">
+            <note placementBase="#art-1." placement="bottom">
               <p>Párrafo adicionado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2.- Para los efectos de esta ley, se entenderá por:
 I. Seguridad Privada.- Actividad a cargo de los particulares, autorizada por el órgano competente, con
@@ -160,25 +160,25 @@ asegure la continuidad de la prestación del servicio de monitoreo.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción reformada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 05-08-2011</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 05-08-2011</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 05-08-2011</p>
             </note>
-            <note placementBase="#art-2" placement="bottom">
+            <note placementBase="#art-2." placement="bottom">
               <p>Fracción adicionada DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3.- La aplicación, interpretación y efectos, en el ámbito administrativo de la presente Ley,
 corresponde al Ejecutivo Federal, por conducto de la Secretaría y tiene los fines siguientes:
@@ -205,9 +205,9 @@ Seguridad Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. En todo lo no previsto por la presente ley, serán aplicables en forma supletoria, la Ley
 General del Sistema Nacional de Seguridad Pública, la Ley Federal de Procedimiento Administrativo y la
@@ -215,13 +215,13 @@ Ley Federal de Armas de Fuego y Explosivos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-4" placement="bottom">
+            <note placementBase="#art-4." placement="bottom">
               <p>Artículo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5.- La Secretaría a través de la Dirección General, tendrá las siguientes facultades en
 materia de seguridad privada:
@@ -264,9 +264,9 @@ XII. Las demás que le confiere esta Ley, su Reglamento y demás ordenamientos j
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6.- La opinión favorable que emite la Dirección General sobre la justificación de la necesidad
 de portación de armamento, es el resultado de una consulta que realiza el prestador de servicios
@@ -277,9 +277,9 @@ personal operativo, está sujeta a lo establecido en la legislación aplicable e
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7.- La Secretaría, con la intervención que corresponda al Sistema Nacional de Seguridad
 Pública, podrá suscribir convenios o acuerdos con las autoridades competentes de los Estados, Distrito
@@ -305,9 +305,9 @@ desarrollar sus actividades en dos o más entidades federativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8.- La Secretaría, a través de la Dirección General, implementará y mantendrá actualizado un
 Registro Nacional con la información necesaria para la supervisión, control, vigilancia y evaluación de los
@@ -317,9 +317,9 @@ servicios y las autoridades competentes de las entidades federativas y los Munic
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9.- Para la debida integración del Registro, la Secretaría, por conducto del Sistema Nacional
 de Seguridad Pública, celebrará convenios de coordinación con los gobiernos estatales y del Distrito
@@ -329,9 +329,9 @@ locales correspondientes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10.- La Dirección General tiene encomendado el desempeño del Registro Nacional de
 Empresas, Personal y Equipo de Seguridad Privada, siendo responsable de la confidencialidad, guarda,
@@ -340,9 +340,9 @@ la presente Ley y la Ley Federal de Transparencia y Acceso a la Información Pú
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11.- De toda información, registro, folio o certificación que proporcione el Registro, deberá
 expedirse constancia por escrito debidamente firmada por el servidor público competente, previa
@@ -351,9 +351,9 @@ de acuerdo a lo que disponga la Ley Federal de Derechos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12.- El Registro deberá contemplar los apartados siguientes:
 I. La identificación de la autorización, revalidación o modificación de la autorización para prestar los
@@ -388,9 +388,9 @@ XII. Los demás actos y constancias que prevea esta Ley y su Reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13.- Para efectos del Registro, el prestador de servicios, estará obligado a informar, dentro
 de los primeros 10 días naturales de cada mes, sobre la situación y actualizaciones relativas a cada uno
@@ -398,9 +398,9 @@ de los rubros contemplados en el artículo que antecede.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14.- El Registro proporcionará información de acuerdo con lo establecido en la legislación
 aplicable en materia de transparencia y acceso a la información pública gubernamental o a petición de
@@ -408,9 +408,9 @@ autoridad competente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15.- Es competencia de la Secretaría, por conducto de la Dirección General, autorizar los
 servicios de Seguridad Privada, cuando estos se presten en dos o más entidades federativas y de
@@ -448,13 +448,13 @@ especializados.
 Fracción reformada y recorrida DOF 05-08-2011</p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-15." placement="bottom">
               <p>Fracción adicionada DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16.- Para prestar servicios de seguridad privada en dos o más entidades federativas, se
 requiere autorización previa de la Dirección General, para lo cual el prestador de servicios, deberá ser
@@ -469,13 +469,13 @@ plazo establecido, se entenderá que no hay objeción alguna por parte de la ent
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-16" placement="bottom">
+            <note placementBase="#art-16." placement="bottom">
               <p>Párrafo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17.- La autorización que se otorgue será personal e intransferible, contendrá el número de
 registro, ámbito territorial, modalidades que se autorizan y condiciones a que se sujeta la prestación de
@@ -489,9 +489,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18.- Si el peticionario de la autorización no exhibe con su solicitud la totalidad de los
 requisitos señalados en el título tercero de esta Ley, la Dirección General, dentro de los diez días hábiles
@@ -502,9 +502,9 @@ desechada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Para revalidar la autorización otorgada, bastará que el prestador de servicios, cuando
 menos con treinta días hábiles de anticipación a la extinción de la vigencia de la autorización, lo solicite y
@@ -516,13 +516,13 @@ adiestramiento, y demás requisitos que por su naturaleza lo requieran.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-19" placement="bottom">
+            <note placementBase="#art-19." placement="bottom">
               <p>Artículo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20.- En caso de que no se exhiban los protestos o actualizaciones a que se refiere el artículo
 anterior, la Dirección General prevendrá al interesado para que en un plazo improrrogable de diez días
@@ -534,9 +534,9 @@ autorización respectiva; y, por existir deficiencias en la prestación del serv
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21.- Los prestadores de servicios que hayan obtenido la autorización o revalidación, podrán
 solicitar la modificación de las modalidades o el ámbito territorial en que se presta el servicio, siempre
@@ -546,9 +546,9 @@ hábiles siguientes a la presentación de la solicitud.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22.- La solicitud de autorización, revalidación o modificación, deberá presentarse
 acompañada del comprobante de pago que por concepto del estudio y trámite de la misma se encuentre
@@ -556,9 +556,9 @@ previsto en la Ley Federal de Derechos, en caso contrario, se tendrá por no pre
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23.- Transcurrida la vigencia de la autorización o su revalidación, el interesado deberá
 abstenerse de prestar el servicio de seguridad privada, hasta en tanto sea expedido un nuevo acto
@@ -566,9 +566,9 @@ administrativo que lo autorice para tal efecto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24.- El prestador de servicios solicitará a la Secretaría, su opinión para que el personal
 operativo pueda portar armas de fuego en el desempeño de sus funciones, como requisito previo a efecto
@@ -580,9 +580,9 @@ disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25.- Para obtener autorización para prestar servicios de seguridad privada en dos o más
 entidades federativas, los prestadores de servicios deberán presentar su solicitud ante la Dirección
@@ -657,33 +657,8 @@ que porte el elemento;
 XX. En caso de que se utilicen vehículos blindados en la prestación del servicio, independientemente
 de la modalidad de que se trate, se deberá exhibir constancia expedida por el proveedor del servicio de
 blindaje, con la que acredite el nivel del mismo, y
-XXI. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-25" placement="bottom">
-              <p>Inciso reformado DOF 05-08-2011</p>
-            </note>
-            <note placementBase="#art-25" placement="bottom">
-              <p>Inciso reformado DOF 05-08-2011</p>
-            </note>
-            <note placementBase="#art-25" placement="bottom">
-              <p>Inciso adicionado DOF 05-08-2011</p>
-            </note>
-            <note placementBase="#art-25" placement="bottom">
-              <p>Fracción reformada DOF 05-08-2011</p>
-            </note>
-            <note placementBase="#art-25" placement="bottom">
-              <p>Fracción reformada DOF 27-01-2011</p>
-            </note>
-            <note placementBase="#art-25" placement="bottom">
-              <p>Fracción reformada DOF 27-01-2011</p>
-            </note>
-          </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
-              <content>
-                <p>artículo 15 de la presente Ley, y específicamente para el traslado de valores, será indispensable contar
+XXI. Tratándose de prestadores de servicios que operen en la modalidad prevista en la fracción III del
+artículo 15 de la presente Ley, y específicamente para el traslado de valores, será indispensable contar
 con vehículos blindados, y exhibir constancia expedida por el proveedor del servicio de blindaje, con la
 que se acredite el nivel del mismo.
 XXII. Tratándose de prestadores de servicios que operen en la modalidad VII del artículo 15 de la
@@ -702,16 +677,34 @@ Salud aplicable.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
+              <p>Inciso reformado DOF 05-08-2011</p>
+            </note>
+            <note placementBase="#art-25." placement="bottom">
+              <p>Inciso reformado DOF 05-08-2011</p>
+            </note>
+            <note placementBase="#art-25." placement="bottom">
+              <p>Inciso adicionado DOF 05-08-2011</p>
+            </note>
+            <note placementBase="#art-25." placement="bottom">
+              <p>Fracción reformada DOF 05-08-2011</p>
+            </note>
+            <note placementBase="#art-25." placement="bottom">
+              <p>Fracción reformada DOF 27-01-2011</p>
+            </note>
+            <note placementBase="#art-25." placement="bottom">
+              <p>Fracción reformada DOF 27-01-2011</p>
+            </note>
+            <note placementBase="#art-25." placement="bottom">
               <p>Fracción adicionada DOF 17-10-2011</p>
             </note>
-            <note placementBase="#art-15" placement="bottom">
+            <note placementBase="#art-25." placement="bottom">
               <p>Fracción adicionada DOF 17-10-2011</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26.- De ser procedente la autorización, el solicitante deberá presentar dentro de los diez días
 hábiles siguientes a la notificación de procedencia:
@@ -733,9 +726,9 @@ IV. Original del comprobante de pago de derechos por la expedición de la autori
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27.- Para el desempeño de sus funciones, los directores, administradores, gerentes y
 personal administrativo de los prestadores de servicios deberán reunir los siguientes requisitos:
@@ -764,9 +757,9 @@ o de las Fuerzas Armadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28.- Para el desempeño de sus funciones, el personal operativo de los prestadores de
 servicios deberá reunir y acreditar los siguientes requisitos:
@@ -781,9 +774,9 @@ de las Fuerzas Armadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Los prestadores de servicios estarán obligados a capacitar a su personal operativo. Dicha
 capacitación podrá llevarse a cabo en las instituciones educativas de la Secretaría, en las academias
@@ -797,13 +790,13 @@ honradez señalados en la Ley General que Establece las Bases de Coordinación d
 de Seguridad Pública.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-29" placement="bottom">
+            <note placementBase="#art-29." placement="bottom">
               <p>Párrafo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La Dirección General podrá concertar acuerdos con los prestadores de servicios para
 colaborar en la instrumentación y modificación a sus planes y programas de capacitación y
@@ -811,13 +804,13 @@ adiestramiento.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-30" placement="bottom">
+            <note placementBase="#art-30." placement="bottom">
               <p>Artículo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31.- El prestador de servicios deberá registrar ante la Secretaría del Trabajo y Previsión
 Social los planes y programas de los cursos de capacitación, actualización o adiestramiento para el
@@ -825,9 +818,9 @@ personal operativo; posteriormente deberá entregar un ejemplar a la Secretaría
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Son obligaciones de los prestadores de servicios:
 
@@ -947,31 +940,31 @@ de Seguridad Privada contenidas en el Título Segundo, capítulo III de la prese
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo reformado DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción reformada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción reformada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción adicionada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción adicionada DOF 05-08-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Fracción adicionada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-32." placement="bottom">
               <p>Párrafo adicionado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33.- Son obligaciones del personal operativo de seguridad privada:
 I. Prestar los servicios en los términos establecidos en la autorización, revalidación o la modificación
@@ -1001,22 +994,22 @@ VIII. En caso de hacer uso de vehículos automotores, cumplir con las especifica
 dispongan los ordenamientos Federales, estatales y municipales.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-33" placement="bottom">
+            <note placementBase="#art-33." placement="bottom">
               <p>Fracción reformada DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34.- Las personas físicas deberán cumplir con los mismos requisitos y obligaciones
 establecidos en esta Ley para el personal de las empresas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35.- Además de las obligaciones previstas en la presente Ley, los prestadores de servicios
 deberán apegar su actuación a las disposiciones locales que rijan materias distintas a la regulación de la
@@ -1024,9 +1017,9 @@ seguridad privada en la entidad federativa que presten los servicios.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. La Dirección General podrá ordenar en cualquier momento la práctica de visitas de
 verificación, inclusive de manera previa para otorgar una autorización con el fin de comprobar que se
@@ -1037,13 +1030,13 @@ entidades federativas.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-36" placement="bottom">
+            <note placementBase="#art-36." placement="bottom">
               <p>Artículo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37.- El objeto de la verificación será comprobar el cumplimiento a las disposiciones legales y
 reglamentarias aplicables, así como de las obligaciones y restricciones a que se sujeta la autorización o
@@ -1060,18 +1053,18 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38.- Para la práctica de las visitas de verificación se estará a lo dispuesto en la Ley Federal
 de Procedimiento Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39.- La Dirección General de conformidad con las disposiciones de la presente Ley y su
 Reglamento, con el fin de salvaguardar a las personas, sus bienes, entorno, así como para proteger la
@@ -1090,9 +1083,9 @@ revalidación para la prestación de servicios de seguridad privada.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40.- Las resoluciones de la Secretaría, que apliquen sanciones administrativas, deberán
 estar debidamente fundadas y motivadas, tomando en consideración:
@@ -1114,9 +1107,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41.- La imposición de las sanciones por incumplimiento de las disposiciones contenidas en la
 presente Ley, será independiente de las penas que correspondan cuando la conducta u omisión
@@ -1124,9 +1117,9 @@ constituya uno o varios delitos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42.- Atendiendo al interés público o por el incumplimiento de los prestadores de servicios a
 las obligaciones establecidas en esta Ley y su Reglamento, se dará origen a la imposición de una o más
@@ -1142,15 +1135,8 @@ XIV, XVI, XVIII, XIX, XXIII, XXIV, XXV, XXVII, XXVIII, XXX, XXXI y XXXII del art
 esta Ley.
 b) Abstenerse de cumplir la sanción pecuniaria impuesta.
 c) No presentar en tiempo la solicitud de revalidación de autorización.
-d) Suspender la prestación del servicio sin dar el aviso a que se refiere la fracción XXIII del</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
-              <content>
-                <p>artículo 32 de esta Ley.
+d) Suspender la prestación del servicio sin dar el aviso a que se refiere la fracción XXIII del
+artículo 32 de esta Ley.
 La duración de la suspensión temporal no podrá exceder de 30 días hábiles y, en todo caso, el
 prestador del servicio o realizador de actividades deberá subsanar las irregularidades que la
 originaron, cuya omisión dará lugar a la continuación de la suspensión por un plazo igual y a la
@@ -1205,39 +1191,32 @@ Diario Oficial de la Federación y en uno de los diarios de mayor circulación n
 claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su
 establecimiento en su caso.
 En caso de que el prestador de servicios no dé cumplimiento a las resoluciones que impongan alguna
-de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refiere la fracción III del</p>
+de las sanciones anteriores, se procederá a hacer efectiva la fianza a que se refiere la fracción III del
+artículo 26 de esta Ley.</p>
               </content>
             </paragraph>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Fracción reformada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Fracción reformada DOF 27-01-2011</p>
             </note>
-            <note placementBase="#art-32" placement="bottom">
+            <note placementBase="#art-42." placement="bottom">
               <p>Párrafo reformado DOF 27-01-2011</p>
             </note>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
-              <content>
-                <p>artículo 26 de esta Ley.</p>
-              </content>
-            </paragraph>
-          </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43.- Las sanciones a que se refiere este capítulo, serán aplicadas por la Secretaría con base
 en las visitas de verificación practicadas, así como por las infracciones comprobadas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44.- Los afectados por los actos o resoluciones de la Secretaría, podrán interponer el
 Recurso de Revisión, el cual se tramitará y resolverá de acuerdo a lo dispuesto en la Ley Federal de
@@ -1245,9 +1224,9 @@ Procedimiento Administrativo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. Los prestadores de servicios deberán colocar en lugar visible y de acceso al público, en
 los inmuebles de los prestatarios y en los propios, de manera clara y permanente, la siguiente
@@ -1259,13 +1238,13 @@ IV. Número o registro de autorización oficial otorgado en favor de la empresa 
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-45" placement="bottom">
+            <note placementBase="#art-45." placement="bottom">
               <p>Artículo adicionado DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. La autorización otorgada por la Dirección General sólo es de operador del servicio de
 alarma y monitoreo electrónico, el prestador de servicio no cumple funciones de empresa de seguros de
@@ -1273,13 +1252,13 @@ bienes, en ninguno de sus tipos.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-46" placement="bottom">
+            <note placementBase="#art-46." placement="bottom">
               <p>Artículo adicionado DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. La central de monitoreo para la atención de las señales, deberá cumplir con los
 siguientes lineamientos:
@@ -1313,13 +1292,13 @@ c) La atención de llamadas del público en general.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-47" placement="bottom">
+            <note placementBase="#art-47." placement="bottom">
               <p>Artículo adicionado DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Los prestadores de servicio a que se refiere el presente Capítulo exhibirán ante la
 Dirección General copia certificada del modelo de contrato de servicios presentado ante la Procuraduría
@@ -1328,13 +1307,13 @@ renovación, y exhibir el nuevo contrato autorizado.
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-48" placement="bottom">
+            <note placementBase="#art-48." placement="bottom">
               <p>Artículo adicionado DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. En caso de que un prestador de servicios subcontrate el servicio de monitoreo, la
 responsabilidad recae sobre el prestador que contrató el prestatario.
@@ -1342,13 +1321,13 @@ El prestador de servicios subcontratado deberá cumplir con lo establecido en la
 </p>
               </content>
             </paragraph>
-            <note placementBase="#art-49" placement="bottom">
+            <note placementBase="#art-49." placement="bottom">
               <p>Artículo adicionado DOF 05-08-2011</p>
             </note>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. El prestador de servicios deberá informar por escrito en un plazo no mayor a cinco días
 hábiles, a la Dirección General, sobre cualquier suspensión temporal o definitiva de labores, así como de
@@ -1356,16 +1335,47 @@ la disolución o liquidación del prestador de servicios y de cualquier procedim
 pueda tener como consecuencia la interrupción de sus actividades, en perjuicio de los prestatarios de
 dicho servicio.
 
-TRANSITORIOS
-PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- La denominación de "Servicios privados de seguridad", que se encuentre contenida en
+TRANSITORIOS</p>
+              </content>
+            </paragraph>
+            <note placementBase="#art-50." placement="bottom">
+              <p>Artículo adicionado DOF 05-08-2011</p>
+            </note>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Diario
+Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>SEGUNDO.- La denominación de "Servicios privados de seguridad", que se encuentre contenida en
 reglamentos, leyes así como cualquier disposición jurídica o administrativa, se tendrá por entendida a los
-Servicios de Seguridad Privada.
-TERCERO.- El prestador de servicios, que no cuente con la autorización correspondiente dispondrá
+Servicios de Seguridad Privada.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>TERCERO.- El prestador de servicios, que no cuente con la autorización correspondiente dispondrá
 de un término noventa días naturales, contados a partir de la entrada en vigor de esta Ley, para
-regularizar su situación.
-CUARTO.- El prestador de servicios que a la fecha de entrada en vigor de esta Ley cuente con
+regularizar su situación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>CUARTO.- El prestador de servicios que a la fecha de entrada en vigor de esta Ley cuente con
 autorización o revalidación de la misma para prestar servicios de seguridad privada en dos o más
 entidades federativas, dispondrá de un término noventa días naturales, contados a partir de la entrada en
 vigor de esta Ley, para regularizar su situación de acuerdo a lo establecido en la misma.
@@ -1373,18 +1383,46 @@ vigor de esta Ley, para regularizar su situación de acuerdo a lo establecido en
 LEY FEDERAL DE SEGURIDAD PRIVADA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 17-10-2011
 Secretaría General
-Secretaría de Servicios Parlamentarios
-QUINTO.- El Reglamento de la presente Ley deberá expedirse dentro de un plazo no mayor de
-noventa días hábiles siguientes a la fecha en que ésta entre en vigor.
-SEXTO.- Los prestadores de servicios que a la fecha de entrada en vigor de esta Ley cuenten con
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>QUINTO.- El Reglamento de la presente Ley deberá expedirse dentro de un plazo no mayor de
+noventa días hábiles siguientes a la fecha en que ésta entre en vigor.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>SEXTO.- Los prestadores de servicios que a la fecha de entrada en vigor de esta Ley cuenten con
 autorización o revalidación otorgada por la Dirección, dispondrán del término de seis meses contados a
 partir de que entre en vigor esta Ley, para apegarse a las obligaciones previstas en la misma en materia
-de capacitación.
-SÉPTIMO.- Tratándose de personas físicas o morales que se dediquen a la instalación y
+de capacitación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>SÉPTIMO.- Tratándose de personas físicas o morales que se dediquen a la instalación y
 comercialización de sistemas de blindaje, serán reguladas en términos de la presente Ley y su
 Reglamento, sin importar el ámbito territorial en que operen, hasta en tanto las entidades federativas
-modifiquen su marco legal en materia de seguridad privada, a fin de normar dicha actividad.
-OCTAVO.- La Secretaría de Seguridad Pública deberá modificar el nombre de la Dirección General de
+modifiquen su marco legal en materia de seguridad privada, a fin de normar dicha actividad.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>OCTAVO.- La Secretaría de Seguridad Pública deberá modificar el nombre de la Dirección General de
 Registro y Supervisión a Empresas y Servicios de Seguridad Privada, por el de Dirección General de
 Seguridad Privada, dentro de un plazo no mayor a 30 días hábiles siguientes a la fecha en que la
 presente Ley entre en vigor.
@@ -1410,13 +1448,34 @@ y XVII; 29, primer párrafo; 30; 33, fracción II; 36; 42, fracciones III y V, y
 párrafo tercero al artículo 1; las fracciones XXXI y XXXII y un último párrafo al artículo 32 de la Ley
 Federal de Seguridad Privada, para quedar como siguen:
 ……….
-Transitorios
-Primero. El presente Decreto entrará en vigor a partir de los 30 días siguientes al de su publicación
-en el Diario Oficial de la Federación.
-Segundo. Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a
+Transitorios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero. El presente Decreto entrará en vigor a partir de los 30 días siguientes al de su publicación
+en el Diario Oficial de la Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo. Las personas físicas o morales dispondrán de un término de 60 días naturales, contados a
 partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas
-contenidas en éste.
-Tercero. El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en
+contenidas en éste.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero. El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en
 el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su
 entrada en vigor.
 México, D.F., a 28 de octubre de 2010.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio
@@ -1437,8 +1496,15 @@ de Seguridad Privada.
 Publicado en el Diario Oficial de la Federación el 5 de agosto de 2011
 Artículo Único. Se adicionan las fracciones XIV, XV, XVI y XVII del artículo 2; una fracción IV
 recorriéndose la numeración de las fracciones al artículo 15; se adiciona el inciso d) a la fracción IV y se
-reforma la fracción V del artículo 25; se adiciona al artículo 32 una fracción XXXI bis; se adiciona el Título
-Séptimo, con Capítulo Único denominado De los prestadores de servicios de alarma y monitoreo,
+reforma la fracción V del artículo 25; se adiciona al artículo 32 una fracción XXXI bis; se adiciona el Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo, con Capítulo Único denominado De los prestadores de servicios de alarma y monitoreo,
 artículos 45, 46, 47, 48, 49 y 50 de la Ley Federal de Seguridad Privada, para quedar como sigue:
 ……….
 Transitorio
@@ -1460,18 +1526,8 @@ Secretaría de Servicios Parlamentarios
 DECRETO por el que se reforman las fracciones XV y XVII, y se adicionan las fracciones
 XXII y XXIII al artículo 25 de la Ley Federal de Seguridad Privada.
 Publicado en el Diario Oficial de la Federación el 17 de octubre de 2011
-Artículo Único.- Se reforman las fracciones XV y XVII, y se adicionan las fracciones XXII y XXIII al</p>
-              </content>
-            </paragraph>
-            <note placementBase="#art-50" placement="bottom">
-              <p>Artículo adicionado DOF 05-08-2011</p>
-            </note>
-          </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
-              <content>
-                <p>artículo 25 de la Ley Federal de Seguridad Privada, para quedar como sigue:
+Artículo Único.- Se reforman las fracciones XV y XVII, y se adicionan las fracciones XXII y XXIII al
+artículo 25 de la Ley Federal de Seguridad Privada, para quedar como sigue:
 ………..
 TRANSITORIO
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de

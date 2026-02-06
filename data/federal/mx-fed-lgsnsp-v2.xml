@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/2025-07-16/lgsnsp/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/2025-07-16/lgsnsp/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -138,9 +138,9 @@
         </chapter>
         <chapter id="chapter-27">
           <num>Capítulo III Delitos contra el funcionamiento del Sistema Nacional de Seguridad Pública</num>
-          <article id="art-1">
-            <num>Artículo 1</num>
-            <paragraph id="art-1-para-1">
+          <article id="art-1.">
+            <num>Artículo 1.</num>
+            <paragraph id="art-1.-para-1">
               <content>
                 <p>Artículo 1. La presente Ley es de orden público, interés social y observancia general en todo el territorio
 nacional. Tiene por objeto regular la integración, organización y el funcionamiento del Sistema Nacional de Seguridad
@@ -150,9 +150,9 @@ los Estados Unidos Mexicanos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-2">
-            <num>Artículo 2</num>
-            <paragraph id="art-2-para-1">
+          <article id="art-2.">
+            <num>Artículo 2.</num>
+            <paragraph id="art-2.-para-1">
               <content>
                 <p>Artículo 2. La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas y
 los municipios, cuyos fines son salvaguardar la vida, los derechos, la integridad y el patrimonio de las personas, así
@@ -163,9 +163,9 @@ infracciones administrativas, en términos de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-3">
-            <num>Artículo 3</num>
-            <paragraph id="art-3-para-1">
+          <article id="art-3.">
+            <num>Artículo 3.</num>
+            <paragraph id="art-3.-para-1">
               <content>
                 <p>Artículo 3. El Sistema Nacional de Seguridad Pública es el conjunto orgánico y articulado de relaciones
 funcionales, principios, normas, instituciones, instalaciones, estructuras, técnicas, programas, políticas,
@@ -176,16 +176,23 @@ coordinación a que se refiere el Título Tercero de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-4">
-            <num>Artículo 4</num>
-            <paragraph id="art-4-para-1">
+          <article id="art-4.">
+            <num>Artículo 4.</num>
+            <paragraph id="art-4.-para-1">
               <content>
                 <p>Artículo 4. Para los efectos de esta Ley, se entenderá, en singular o plural, por:
 I. Academias o Institutos: A las instituciones de formación, capacitación, profesionalización,
 especialización y actualización de personas aspirantes y servidoras públicas en las funciones de
 seguridad pública, policial, ministerial, pericial y penitenciaria;
-II. Centros de Comando y Control: A las instalaciones de seguridad pública a que se refiere el Título
-Séptimo de esta Ley;
+II. Centros de Comando y Control: A las instalaciones de seguridad pública a que se refiere el Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo de esta Ley;
 III. Conferencias Nacionales: A las conferencias a las que se refiere el Título Tercero de esta Ley;
 1 de 48
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
@@ -213,9 +220,9 @@ XIII. Sistema: Al Sistema Nacional de Seguridad Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-5">
-            <num>Artículo 5</num>
-            <paragraph id="art-5-para-1">
+          <article id="art-5.">
+            <num>Artículo 5.</num>
+            <paragraph id="art-5.-para-1">
               <content>
                 <p>Artículo 5. La actuación de las Instituciones de Seguridad Pública y los órganos del Sistema, así como las
 políticas, los programas, mecanismos y las acciones en materia de seguridad pública, se regirán por los principios de
@@ -231,9 +238,9 @@ la legislación aplicable.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-6">
-            <num>Artículo 6</num>
-            <paragraph id="art-6-para-1">
+          <article id="art-6.">
+            <num>Artículo 6.</num>
+            <paragraph id="art-6.-para-1">
               <content>
                 <p>Artículo 6. El Estado desarrollará políticas en materia de prevención de las violencias y del delito con carácter
 integral, atención a las causas que los generan, así como programas y acciones para fomentar en la sociedad
@@ -244,9 +251,9 @@ esta materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-7">
-            <num>Artículo 7</num>
-            <paragraph id="art-7-para-1">
+          <article id="art-7.">
+            <num>Artículo 7.</num>
+            <paragraph id="art-7.-para-1">
               <content>
                 <p>Artículo 7. Las Instituciones de Seguridad Pública, en coadyuvancia y corresponsabilidad, deben promover la
 participación social a través del diseño, desarrollo, implementación y evaluación de mecanismos encaminados a
@@ -272,9 +279,9 @@ políticas y programas en materia de seguridad pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-8">
-            <num>Artículo 8</num>
-            <paragraph id="art-8-para-1">
+          <article id="art-8.">
+            <num>Artículo 8.</num>
+            <paragraph id="art-8.-para-1">
               <content>
                 <p>Artículo 8. Los fines de la presente Ley son:
 I. Establecer bases normativas para que las instituciones y los órganos que integran el Sistema puedan
@@ -312,9 +319,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-9">
-            <num>Artículo 9</num>
-            <paragraph id="art-9-para-1">
+          <article id="art-9.">
+            <num>Artículo 9.</num>
+            <paragraph id="art-9.-para-1">
               <content>
                 <p>Artículo 9. Corresponde a la Federación, a través de las instituciones competentes:
 3 de 48
@@ -346,9 +353,9 @@ XII. Las demás que establezcan otras disposiciones legales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-10">
-            <num>Artículo 10</num>
-            <paragraph id="art-10-para-1">
+          <article id="art-10.">
+            <num>Artículo 10.</num>
+            <paragraph id="art-10.-para-1">
               <content>
                 <p>Artículo 10. Corresponde a la Federación, las entidades federativas y los municipios, en el ámbito de sus
 respectivas competencias:
@@ -398,9 +405,9 @@ XV. Las demás atribuciones que se establezcan en esta Ley y en otras disposicio
               </content>
             </paragraph>
           </article>
-          <article id="art-11">
-            <num>Artículo 11</num>
-            <paragraph id="art-11-para-1">
+          <article id="art-11.">
+            <num>Artículo 11.</num>
+            <paragraph id="art-11.-para-1">
               <content>
                 <p>Artículo 11. Corresponde a las personas titulares de los poderes ejecutivos de las entidades federativas:
 I. Formular, dirigir y coordinar la estrategia de seguridad pública de la entidad federativa, en
@@ -425,9 +432,9 @@ Mexicanos, en esta Ley y en otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-12">
-            <num>Artículo 12</num>
-            <paragraph id="art-12-para-1">
+          <article id="art-12.">
+            <num>Artículo 12.</num>
+            <paragraph id="art-12.-para-1">
               <content>
                 <p>Artículo 12. Corresponde a las personas titulares de las presidencias municipales y las alcaldías de la Ciudad de
 México:
@@ -448,9 +455,9 @@ establezca el Secretariado Ejecutivo para tal fin.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-13">
-            <num>Artículo 13</num>
-            <paragraph id="art-13-para-1">
+          <article id="art-13.">
+            <num>Artículo 13.</num>
+            <paragraph id="art-13.-para-1">
               <content>
                 <p>Artículo 13. El Sistema se integrará por:
 I. El Consejo Nacional de Seguridad Pública;
@@ -465,9 +472,9 @@ IX. El Secretariado Ejecutivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-14">
-            <num>Artículo 14</num>
-            <paragraph id="art-14-para-1">
+          <article id="art-14.">
+            <num>Artículo 14.</num>
+            <paragraph id="art-14.-para-1">
               <content>
                 <p>Artículo 14. El Gabinete Federal será la instancia de decisión ejecutiva y de coordinación de las instituciones del
 gobierno federal en la materia.
@@ -486,9 +493,9 @@ prevalecer.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-15">
-            <num>Artículo 15</num>
-            <paragraph id="art-15-para-1">
+          <article id="art-15.">
+            <num>Artículo 15.</num>
+            <paragraph id="art-15.-para-1">
               <content>
                 <p>Artículo 15. El Poder Judicial de la Federación y los poderes judiciales de las entidades federativas colaborarán
 con las instancias que integran el Sistema en la formulación de estudios y en la implementación de acciones para el
@@ -496,9 +503,9 @@ cumplimiento de los fines de la seguridad pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-16">
-            <num>Artículo 16</num>
-            <paragraph id="art-16-para-1">
+          <article id="art-16.">
+            <num>Artículo 16.</num>
+            <paragraph id="art-16.-para-1">
               <content>
                 <p>Artículo 16. El Consejo Nacional estará integrado por las personas titulares de:
 I. La Presidencia de la República, quien lo presidirá;
@@ -526,9 +533,9 @@ Consejo Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-17">
-            <num>Artículo 17</num>
-            <paragraph id="art-17-para-1">
+          <article id="art-17.">
+            <num>Artículo 17.</num>
+            <paragraph id="art-17.-para-1">
               <content>
                 <p>Artículo 17. El Consejo Nacional funcionará en pleno, de acuerdo con las siguientes disposiciones:
 I. El pleno se reunirá de forma ordinaria por lo menos una vez al año, de manera presencial o virtual, a
@@ -543,9 +550,9 @@ mejor funcionamiento del Sistema.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-18">
-            <num>Artículo 18</num>
-            <paragraph id="art-18-para-1">
+          <article id="art-18.">
+            <num>Artículo 18.</num>
+            <paragraph id="art-18.-para-1">
               <content>
                 <p>Artículo 18. El pleno del Consejo Nacional tendrá las siguientes funciones:
 I. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables,
@@ -594,9 +601,9 @@ buen funcionamiento del Sistema.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-19">
-            <num>Artículo 19</num>
-            <paragraph id="art-19-para-1">
+          <article id="art-19.">
+            <num>Artículo 19.</num>
+            <paragraph id="art-19.-para-1">
               <content>
                 <p>Artículo 19. Para el ejercicio de las funciones establecidas en el artículo anterior, el pleno podrá auxiliarse de
 comisiones; para tal efecto, determinará su tipo, materia, temporalidad, objeto, integrantes, deberes y
@@ -607,9 +614,9 @@ agrupaciones de los sectores social y privado relacionadas con su objeto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-20">
-            <num>Artículo 20</num>
-            <paragraph id="art-20-para-1">
+          <article id="art-20.">
+            <num>Artículo 20.</num>
+            <paragraph id="art-20.-para-1">
               <content>
                 <p>Artículo 20. El Gabinete Federal es el órgano de decisión ejecutiva y de coordinación del gobierno federal en
 materia de seguridad y gobernabilidad del país. Sesionará de forma ordinaria los días hábiles y de forma
@@ -638,9 +645,9 @@ acuerdos e instrucciones que se den en dichas sesiones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-21">
-            <num>Artículo 21</num>
-            <paragraph id="art-21-para-1">
+          <article id="art-21.">
+            <num>Artículo 21.</num>
+            <paragraph id="art-21.-para-1">
               <content>
                 <p>Artículo 21. El Gabinete Federal tendrá las siguientes funciones:
 I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de
@@ -660,9 +667,9 @@ IX. Las demás necesarias para su funcionamiento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-22">
-            <num>Artículo 22</num>
-            <paragraph id="art-22-para-1">
+          <article id="art-22.">
+            <num>Artículo 22.</num>
+            <paragraph id="art-22.-para-1">
               <content>
                 <p>Artículo 22. Para la coordinación del ejercicio de las atribuciones en materia de seguridad pública, el Sistema
 contará con Conferencias Nacionales que tendrán por objeto establecer los mecanismos de coordinación que
@@ -712,9 +719,9 @@ buen funcionamiento del Sistema.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-23">
-            <num>Artículo 23</num>
-            <paragraph id="art-23-para-1">
+          <article id="art-23.">
+            <num>Artículo 23.</num>
+            <paragraph id="art-23.-para-1">
               <content>
                 <p>Artículo 23. Las Presidencias de las Conferencias Nacionales podrán, por sí o con el apoyo del Secretariado
 Ejecutivo, establecer espacios de diálogo entre ellas para la promoción y coordinación del trabajo que realizan, con
@@ -725,9 +732,9 @@ respectivas competencias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-24">
-            <num>Artículo 24</num>
-            <paragraph id="art-24-para-1">
+          <article id="art-24.">
+            <num>Artículo 24.</num>
+            <paragraph id="art-24.-para-1">
               <content>
                 <p>Artículo 24. Las Conferencias Nacionales podrán celebrar sesiones conjuntas a través de sus presidencias o
 mediante las personas representantes designadas para tales efectos, con la finalidad de proponer acuerdos, formular
@@ -737,9 +744,9 @@ Conferencia Nacional de Secretarías de Seguridad Pública</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-25">
-            <num>Artículo 25</num>
-            <paragraph id="art-25-para-1">
+          <article id="art-25.">
+            <num>Artículo 25.</num>
+            <paragraph id="art-25.-para-1">
               <content>
                 <p>Artículo 25. La Conferencia Nacional de Secretarías de Seguridad Pública estará integrada por las personas
 titulares de las secretarías del ramo de seguridad en las entidades federativas o sus equivalentes de la Federación,
@@ -753,9 +760,9 @@ que para tal efecto se establezcan.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-26">
-            <num>Artículo 26</num>
-            <paragraph id="art-26-para-1">
+          <article id="art-26.">
+            <num>Artículo 26.</num>
+            <paragraph id="art-26.-para-1">
               <content>
                 <p>Artículo 26. Son funciones de la Conferencia Nacional de Secretarías de Seguridad Pública:
 I. Impulsar la coordinación de las actuaciones de las dependencias y entidades encargadas de la
@@ -809,9 +816,9 @@ XIX. Las demás que le otorga esta Ley y otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-27">
-            <num>Artículo 27</num>
-            <paragraph id="art-27-para-1">
+          <article id="art-27.">
+            <num>Artículo 27.</num>
+            <paragraph id="art-27.-para-1">
               <content>
                 <p>Artículo 27. La Conferencia Nacional de Secretarías de Seguridad Pública sesionará de forma ordinaria una vez
 al año y, de forma extraordinaria, cada vez que la persona que la presida lo considere necesario, quien emitirá las
@@ -821,9 +828,9 @@ Conferencia Nacional de Procuración de Justicia</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-28">
-            <num>Artículo 28</num>
-            <paragraph id="art-28-para-1">
+          <article id="art-28.">
+            <num>Artículo 28.</num>
+            <paragraph id="art-28.-para-1">
               <content>
                 <p>Artículo 28. La Conferencia Nacional de Procuración de Justicia estará integrada por las personas titulares de las
 Instituciones de Procuración de Justicia de la Federación y de las entidades federativas, y será presidida por la
@@ -840,9 +847,9 @@ Procuración de Justicia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-29">
-            <num>Artículo 29</num>
-            <paragraph id="art-29-para-1">
+          <article id="art-29.">
+            <num>Artículo 29.</num>
+            <paragraph id="art-29.-para-1">
               <content>
                 <p>Artículo 29. Son funciones de la Conferencia Nacional de Procuración de Justicia:
 I. Formular políticas generales de procuración de justicia, así como ejecutar, dar seguimiento y evaluar
@@ -906,9 +913,9 @@ XXIV. Las demás que le otorga esta Ley y otras disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-30">
-            <num>Artículo 30</num>
-            <paragraph id="art-30-para-1">
+          <article id="art-30.">
+            <num>Artículo 30.</num>
+            <paragraph id="art-30.-para-1">
               <content>
                 <p>Artículo 30. La Conferencia Nacional de Procuración de Justicia sesionará de forma ordinaria una vez al año y de
 forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y
@@ -918,9 +925,9 @@ Conferencia Nacional del Sistema Penitenciario</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-31">
-            <num>Artículo 31</num>
-            <paragraph id="art-31-para-1">
+          <article id="art-31.">
+            <num>Artículo 31.</num>
+            <paragraph id="art-31.-para-1">
               <content>
                 <p>Artículo 31. La Conferencia Nacional del Sistema Penitenciario se integrará por las personas titulares de los
 órganos de prevención y de reinserción social o sus equivalentes de la Federación y de las entidades federativas, y
@@ -930,9 +937,9 @@ Sistema Penitenciario.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-32">
-            <num>Artículo 32</num>
-            <paragraph id="art-32-para-1">
+          <article id="art-32.">
+            <num>Artículo 32.</num>
+            <paragraph id="art-32.-para-1">
               <content>
                 <p>Artículo 32. Son funciones de la Conferencia Nacional del Sistema Penitenciario:
 I. Impulsar la coordinación del sistema penitenciario a nivel nacional;
@@ -968,9 +975,9 @@ X. Las demás que establezcan las disposiciones legales aplicables y el Consejo 
               </content>
             </paragraph>
           </article>
-          <article id="art-33">
-            <num>Artículo 33</num>
-            <paragraph id="art-33-para-1">
+          <article id="art-33.">
+            <num>Artículo 33.</num>
+            <paragraph id="art-33.-para-1">
               <content>
                 <p>Artículo 33. La Conferencia Nacional del Sistema Penitenciario sesionará de forma ordinaria una vez al año y de
 forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las convocatorias y
@@ -980,9 +987,9 @@ Conferencia Nacional de Seguridad Pública Municipal</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-34">
-            <num>Artículo 34</num>
-            <paragraph id="art-34-para-1">
+          <article id="art-34.">
+            <num>Artículo 34.</num>
+            <paragraph id="art-34.-para-1">
               <content>
                 <p>Artículo 34. En la Conferencia Nacional de Seguridad Pública Municipal estarán representados los municipios del
 país y las demarcaciones territoriales de la Ciudad de México. Sus personas titulares podrán participar mediante los
@@ -997,9 +1004,9 @@ Seguridad Pública Municipal.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-35">
-            <num>Artículo 35</num>
-            <paragraph id="art-35-para-1">
+          <article id="art-35.">
+            <num>Artículo 35.</num>
+            <paragraph id="art-35.-para-1">
               <content>
                 <p>Artículo 35. Son funciones de la Conferencia Nacional de Seguridad Pública Municipal:
 I. Proponer y aplicar políticas y programas de cooperación municipal en materia de seguridad pública y
@@ -1026,9 +1033,9 @@ X. Las demás que establezcan otras disposiciones legales o el Consejo Nacional.
               </content>
             </paragraph>
           </article>
-          <article id="art-36">
-            <num>Artículo 36</num>
-            <paragraph id="art-36-para-1">
+          <article id="art-36.">
+            <num>Artículo 36.</num>
+            <paragraph id="art-36.-para-1">
               <content>
                 <p>Artículo 36. La Conferencia Nacional de Seguridad Pública Municipal sesionará de forma ordinaria una vez al
 año y de forma extraordinaria cada vez que la persona que la presida lo considere necesario, quien emitirá las
@@ -1036,9 +1043,9 @@ convocatorias y el orden del día correspondientes a través de la persona que d
               </content>
             </paragraph>
           </article>
-          <article id="art-37">
-            <num>Artículo 37</num>
-            <paragraph id="art-37-para-1">
+          <article id="art-37.">
+            <num>Artículo 37.</num>
+            <paragraph id="art-37.-para-1">
               <content>
                 <p>Artículo 37. Las mesas de paz son las instancias de decisión ejecutiva y de coordinación inmediata de las
 instituciones de las entidades federativas en materia de seguridad pública.
@@ -1054,9 +1061,9 @@ Consejos locales</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-38">
-            <num>Artículo 38</num>
-            <paragraph id="art-38-para-1">
+          <article id="art-38.">
+            <num>Artículo 38.</num>
+            <paragraph id="art-38.-para-1">
               <content>
                 <p>Artículo 38. En las entidades federativas deben establecerse consejos locales encargados de la coordinación,
 planeación e implementación del Sistema en sus ámbitos de gobierno, los que se deben integrar de manera
@@ -1074,9 +1081,9 @@ a los temas a tratar, cuya participación será honorífica y, por lo tanto, sin
               </content>
             </paragraph>
           </article>
-          <article id="art-39">
-            <num>Artículo 39</num>
-            <paragraph id="art-39-para-1">
+          <article id="art-39.">
+            <num>Artículo 39.</num>
+            <paragraph id="art-39.-para-1">
               <content>
                 <p>Artículo 39. Las personas titulares de los poderes ejecutivos de las entidades federativas deberán designar a sus
 representantes permanentes ante el Secretariado Ejecutivo, quienes serán personas servidoras públicas con un nivel
@@ -1106,9 +1113,9 @@ Mesas de paz</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-40">
-            <num>Artículo 40</num>
-            <paragraph id="art-40-para-1">
+          <article id="art-40.">
+            <num>Artículo 40.</num>
+            <paragraph id="art-40.-para-1">
               <content>
                 <p>Artículo 40. Las personas titulares de los poderes ejecutivos de las entidades federativas podrán replicar el
 funcionamiento del Gabinete Federal en sus respectivos ámbitos de competencia a través de mesas de paz.
@@ -1138,9 +1145,9 @@ veces que convoque su presidencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-41">
-            <num>Artículo 41</num>
-            <paragraph id="art-41-para-1">
+          <article id="art-41.">
+            <num>Artículo 41.</num>
+            <paragraph id="art-41.-para-1">
               <content>
                 <p>Artículo 41. Las mesas de paz tendrán los siguientes objetivos:
 I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de
@@ -1169,9 +1176,9 @@ Modelos e instancias de coordinación</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-42">
-            <num>Artículo 42</num>
-            <paragraph id="art-42-para-1">
+          <article id="art-42.">
+            <num>Artículo 42.</num>
+            <paragraph id="art-42.-para-1">
               <content>
                 <p>Artículo 42. El mando único es el modelo de coordinación policial en el que se centralizan, dentro de una entidad
 federativa, las labores de seguridad pública en una sola institución, tanto en lo operativo como en lo administrativo.
@@ -1186,9 +1193,9 @@ así como los mecanismos de supervisión y evaluación.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-43">
-            <num>Artículo 43</num>
-            <paragraph id="art-43-para-1">
+          <article id="art-43.">
+            <num>Artículo 43.</num>
+            <paragraph id="art-43.-para-1">
               <content>
                 <p>Artículo 43. El mando coordinado es el modelo de organización policial en el que se centralizan las labores
 operativas de seguridad pública en una institución, mientras que las labores administrativas relacionadas con estas
@@ -1197,9 +1204,9 @@ El mando coordinado se podrá establecer a través de convenios entre la entidad
               </content>
             </paragraph>
           </article>
-          <article id="art-44">
-            <num>Artículo 44</num>
-            <paragraph id="art-44-para-1">
+          <article id="art-44.">
+            <num>Artículo 44.</num>
+            <paragraph id="art-44.-para-1">
               <content>
                 <p>Artículo 44. Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación de
 dos o más entidades federativas, o de dos o más municipios o demarcaciones territoriales de la Ciudad de México,
@@ -1221,9 +1228,9 @@ la seguridad pública, en el ámbito de sus competencias.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-45">
-            <num>Artículo 45</num>
-            <paragraph id="art-45-para-1">
+          <article id="art-45.">
+            <num>Artículo 45.</num>
+            <paragraph id="art-45.-para-1">
               <content>
                 <p>Artículo 45. El Secretariado Ejecutivo es el órgano operativo del Sistema y gozará de autonomía técnica, de
 gestión y presupuestal. Contará bajo su coordinación y subordinación con los centros nacionales y las unidades
@@ -1232,9 +1239,9 @@ reglamento.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-46">
-            <num>Artículo 46</num>
-            <paragraph id="art-46-para-1">
+          <article id="art-46.">
+            <num>Artículo 46.</num>
+            <paragraph id="art-46.-para-1">
               <content>
                 <p>Artículo 46. La persona titular del Secretariado Ejecutivo será designada y removida por la persona titular del
 Poder Ejecutivo Federal y deberá cumplir con los siguientes requisitos:
@@ -1246,9 +1253,9 @@ en las áreas correspondientes a su función.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-47">
-            <num>Artículo 47</num>
-            <paragraph id="art-47-para-1">
+          <article id="art-47.">
+            <num>Artículo 47.</num>
+            <paragraph id="art-47.-para-1">
               <content>
                 <p>Artículo 47. Corresponde a la persona titular del Secretariado Ejecutivo:
 I. Realizar los actos y emitir los instrumentos necesarios para el cumplimiento del objeto constitucional
@@ -1325,9 +1332,9 @@ demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-48">
-            <num>Artículo 48</num>
-            <paragraph id="art-48-para-1">
+          <article id="art-48.">
+            <num>Artículo 48.</num>
+            <paragraph id="art-48.-para-1">
               <content>
                 <p>Artículo 48. Las Instituciones de Seguridad Pública de los tres órdenes de gobierno deberán coordinarse entre sí
 para cumplir los fines de la seguridad pública, en los términos previstos en la Constitución Política de los Estados
@@ -1347,9 +1354,9 @@ Profesionalización emitido por el Secretariado Ejecutivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-49">
-            <num>Artículo 49</num>
-            <paragraph id="art-49-para-1">
+          <article id="art-49.">
+            <num>Artículo 49.</num>
+            <paragraph id="art-49.-para-1">
               <content>
                 <p>Artículo 49. Los cuerpos de policía de la Secretaría, de sus órganos administrativos desconcentrados, de la
 Fiscalía General de la República y de la Guardia Nacional se consideran Instituciones Policiales de la Federación, y
@@ -1377,9 +1384,9 @@ certificadas o acreditadas de conformidad a lo establecido en la presente Ley.</
               </content>
             </paragraph>
           </article>
-          <article id="art-50">
-            <num>Artículo 50</num>
-            <paragraph id="art-50-para-1">
+          <article id="art-50.">
+            <num>Artículo 50.</num>
+            <paragraph id="art-50.-para-1">
               <content>
                 <p>Artículo 50. Las Instituciones Policiales de las entidades federativas tendrán las siguientes funciones:
 I. Prevenir las violencias y los delitos en el ámbito de su competencia;
@@ -1416,9 +1423,9 @@ XII. Las establecidas en el Código Nacional de Procedimientos Penales y demás 
               </content>
             </paragraph>
           </article>
-          <article id="art-51">
-            <num>Artículo 51</num>
-            <paragraph id="art-51-para-1">
+          <article id="art-51.">
+            <num>Artículo 51.</num>
+            <paragraph id="art-51.-para-1">
               <content>
                 <p>Artículo 51. Las Instituciones Policiales de las entidades federativas contarán, de forma enunciativa más no
 limitativa, con las siguientes unidades administrativas:
@@ -1434,9 +1441,9 @@ IX. Consejo de honor y justicia u homólogo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-52">
-            <num>Artículo 52</num>
-            <paragraph id="art-52-para-1">
+          <article id="art-52.">
+            <num>Artículo 52.</num>
+            <paragraph id="art-52.-para-1">
               <content>
                 <p>Artículo 52. Las Instituciones Policiales de los municipios, cuando cuenten con ellas y de conformidad con la
 legislación local aplicable, tendrán las siguientes funciones:
@@ -1465,9 +1472,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-53">
-            <num>Artículo 53</num>
-            <paragraph id="art-53-para-1">
+          <article id="art-53.">
+            <num>Artículo 53.</num>
+            <paragraph id="art-53.-para-1">
               <content>
                 <p>Artículo 53. Las Instituciones Policiales de los municipios podrán ser evaluadas para la obtención de la
 certificación institucional cuando cumplan con los siguientes requisitos:
@@ -1482,9 +1489,9 @@ la institución cumple con los requisitos previamente señalados.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-54">
-            <num>Artículo 54</num>
-            <paragraph id="art-54-para-1">
+          <article id="art-54.">
+            <num>Artículo 54.</num>
+            <paragraph id="art-54.-para-1">
               <content>
                 <p>Artículo 54. Las unidades de policía de los tres órdenes de gobierno encargadas de la investigación de los
 delitos se deberán coordinar en los términos de esta Ley y demás disposiciones aplicables para el desempeño de
@@ -1497,9 +1504,9 @@ relativos al desarrollo policial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-55">
-            <num>Artículo 55</num>
-            <paragraph id="art-55-para-1">
+          <article id="art-55.">
+            <num>Artículo 55.</num>
+            <paragraph id="art-55.-para-1">
               <content>
                 <p>Artículo 55. Las policías que presten servicios en instituciones penitenciarias de la Federación y de las entidades
 federativas tendrán, al menos, las siguientes funciones:
@@ -1510,17 +1517,24 @@ IV. Garantizar, mantener y restablecer el orden y la paz en los centros de reins
 encuentren adscritos;
 V. Coordinarse con otras Instituciones de Seguridad Pública para el ejercicio de sus funciones, y
 VI. Las que determinen las demás disposiciones aplicables.
-Las policías que presten sus servicios en instituciones penitenciarias se sujetarán a lo dispuesto en el Título
-Quinto, quedando a cargo de dichas instituciones, en coordinación del Secretariado Ejecutivo, la aplicación de las
+Las policías que presten sus servicios en instituciones penitenciarias se sujetarán a lo dispuesto en el Título</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto, quedando a cargo de dichas instituciones, en coordinación del Secretariado Ejecutivo, la aplicación de las
 normas, así como la supervisión y operación de los procedimientos relativos al desarrollo policial.
 La certificación institucional de los centros penitenciarios, así como la certificación individual de sus integrantes se
 regirá por lo establecido en la Ley Nacional de Ejecución Penal y por el Secretariado Ejecutivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-56">
-            <num>Artículo 56</num>
-            <paragraph id="art-56-para-1">
+          <article id="art-56.">
+            <num>Artículo 56.</num>
+            <paragraph id="art-56.-para-1">
               <content>
                 <p>Artículo 56. Las Instituciones Policiales podrán contar con cuerpos de policía de carácter complementario o
 auxiliar de la función de seguridad pública y tendrán por objeto prestar servicios especializados de custodia,
@@ -1537,14 +1551,21 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nueva Ley DOF 16-07-2025
 Secretaría General
 Secretaría de Servicios Parlamentarios
 autoridades competentes de la Federación o las entidades federativas. La realización de estas tareas estará sujeta a
-la certificación individual de las personas integrantes de estos cuerpos policiales conforme a lo dispuesto en el Título
-Quinto.</p>
+la certificación individual de las personas integrantes de estos cuerpos policiales conforme a lo dispuesto en el Título</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-57">
-            <num>Artículo 57</num>
-            <paragraph id="art-57-para-1">
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-57.">
+            <num>Artículo 57.</num>
+            <paragraph id="art-57.-para-1">
               <content>
                 <p>Artículo 57. Las Instituciones de Procuración de Justicia tendrán como objetivo la investigación y persecución de
 delitos, garantizando en todo momento los derechos humanos. En el ejercicio de sus funciones se auxiliará de
@@ -1579,9 +1600,9 @@ Ejecutivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-58">
-            <num>Artículo 58</num>
-            <paragraph id="art-58-para-1">
+          <article id="art-58.">
+            <num>Artículo 58.</num>
+            <paragraph id="art-58.-para-1">
               <content>
                 <p>Artículo 58. Las Instituciones de Procuración de Justicia deberán contar, de forma enunciativa más no limitativa,
 con las siguientes áreas:
@@ -1605,9 +1626,9 @@ XI. Academia o Instituto.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-59">
-            <num>Artículo 59</num>
-            <paragraph id="art-59-para-1">
+          <article id="art-59.">
+            <num>Artículo 59.</num>
+            <paragraph id="art-59.-para-1">
               <content>
                 <p>Artículo 59. Las Instituciones de Procuración de Justicia se coordinarán en todo momento con las Instituciones
 Policiales para el ejercicio de sus funciones. Las obligaciones de las Instituciones de Procuración de Justicia que se
@@ -1616,9 +1637,9 @@ leyes aplicables no implican una afectación a su autonomía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-60">
-            <num>Artículo 60</num>
-            <paragraph id="art-60-para-1">
+          <article id="art-60.">
+            <num>Artículo 60.</num>
+            <paragraph id="art-60.-para-1">
               <content>
                 <p>Artículo 60. Las personas servidoras públicas adscritas a la Secretaría, al Secretariado Ejecutivo y a las demás
 Instituciones de Seguridad Pública, incluyendo sus titulares, en los tres órdenes de gobierno, serán consideradas
@@ -1636,9 +1657,9 @@ evaluaciones de control de confianza.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-61">
-            <num>Artículo 61</num>
-            <paragraph id="art-61-para-1">
+          <article id="art-61.">
+            <num>Artículo 61.</num>
+            <paragraph id="art-61.-para-1">
               <content>
                 <p>Artículo 61. Los servicios que preste el personal de seguridad pública deberán realizarse en condiciones dignas
 y socialmente útiles, sin discriminación por motivo alguno y tutelando el acceso a las mismas oportunidades,
@@ -1664,9 +1685,9 @@ Social para las Fuerzas Armadas Mexicanas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-62">
-            <num>Artículo 62</num>
-            <paragraph id="art-62-para-1">
+          <article id="art-62.">
+            <num>Artículo 62.</num>
+            <paragraph id="art-62.-para-1">
               <content>
                 <p>Artículo 62. El desarrollo de las Instituciones de Seguridad Pública es el conjunto de procesos dirigidos a su
 fortalecimiento y eficiencia de forma sostenible, con la finalidad de que prevengan, investiguen y persigan los delitos
@@ -1683,9 +1704,9 @@ evaluación, certificación y acreditación para garantizar el avance y desarrol
               </content>
             </paragraph>
           </article>
-          <article id="art-63">
-            <num>Artículo 63</num>
-            <paragraph id="art-63-para-1">
+          <article id="art-63.">
+            <num>Artículo 63.</num>
+            <paragraph id="art-63.-para-1">
               <content>
                 <p>Artículo 63. Todas las Instituciones de Seguridad Pública deberán emitir la normativa específica para el
 establecimiento de los procesos de desarrollo, la que deberá incluir, de manera enunciativa, más no limitativa:
@@ -1700,9 +1721,9 @@ registren todos los datos e incidencias relacionadas con el servicio profesional
               </content>
             </paragraph>
           </article>
-          <article id="art-64">
-            <num>Artículo 64</num>
-            <paragraph id="art-64-para-1">
+          <article id="art-64.">
+            <num>Artículo 64.</num>
+            <paragraph id="art-64.-para-1">
               <content>
                 <p>Artículo 64. El servicio profesional de carrera de las Instituciones de Seguridad Pública es el sistema integral de
 carácter obligatorio y permanente, conforme al que se establecen los lineamientos que definen los procedimientos de
@@ -1719,9 +1740,9 @@ distintos servicios de carrera de las Instituciones de Seguridad Pública.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-65">
-            <num>Artículo 65</num>
-            <paragraph id="art-65-para-1">
+          <article id="art-65.">
+            <num>Artículo 65.</num>
+            <paragraph id="art-65.-para-1">
               <content>
                 <p>Artículo 65. Los fines del servicio profesional de carrera son:
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema
@@ -1744,9 +1765,9 @@ V. Los demás que establezcan las disposiciones que deriven de esta Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-66">
-            <num>Artículo 66</num>
-            <paragraph id="art-66-para-1">
+          <article id="art-66.">
+            <num>Artículo 66.</num>
+            <paragraph id="art-66.-para-1">
               <content>
                 <p>Artículo 66. Las legislaciones de la Federación y de las entidades federativas establecerán que la antigüedad se
 clasificará y computará para cada una de las personas integrantes de las Instituciones Policiales, de la siguiente
@@ -1759,9 +1780,9 @@ Reclutamiento, selección e ingreso</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-67">
-            <num>Artículo 67</num>
-            <paragraph id="art-67-para-1">
+          <article id="art-67.">
+            <num>Artículo 67.</num>
+            <paragraph id="art-67.-para-1">
               <content>
                 <p>Artículo 67. El reclutamiento es el proceso a cargo de las Instituciones de Seguridad Pública, mediante el que, a
 través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar
@@ -1769,9 +1790,9 @@ las plazas vacantes dentro de estas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-68">
-            <num>Artículo 68</num>
-            <paragraph id="art-68-para-1">
+          <article id="art-68.">
+            <num>Artículo 68.</num>
+            <paragraph id="art-68.-para-1">
               <content>
                 <p>Artículo 68. La selección es el proceso que consiste en elegir, de entre las personas aspirantes que hayan
 aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las Instituciones de
@@ -1782,9 +1803,9 @@ tanto no sean admitidas, no tendrán ningún tipo o vínculo jurídico o adminis
               </content>
             </paragraph>
           </article>
-          <article id="art-69">
-            <num>Artículo 69</num>
-            <paragraph id="art-69-para-1">
+          <article id="art-69.">
+            <num>Artículo 69.</num>
+            <paragraph id="art-69.-para-1">
               <content>
                 <p>Artículo 69. El ingreso es el procedimiento de integración de las personas candidatas a la estructura institucional
 y tendrá verificativo al terminar la etapa de formación inicial o capacitación en las Academias o Institutos, el periodo
@@ -1795,9 +1816,9 @@ Promociones de grado, condecoraciones y reconocimientos</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-70">
-            <num>Artículo 70</num>
-            <paragraph id="art-70-para-1">
+          <article id="art-70.">
+            <num>Artículo 70.</num>
+            <paragraph id="art-70.-para-1">
               <content>
                 <p>Artículo 70. La promoción es el acto mediante el que se otorga a las personas integrantes de las Instituciones de
 Seguridad Pública, el grado o el rango inmediato superior al que ostenten, dentro del orden jerárquico previsto en las
@@ -1826,9 +1847,9 @@ establecidos por esta Ley y las disposiciones normativas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-71">
-            <num>Artículo 71</num>
-            <paragraph id="art-71-para-1">
+          <article id="art-71.">
+            <num>Artículo 71.</num>
+            <paragraph id="art-71.-para-1">
               <content>
                 <p>Artículo 71. El régimen de condecoraciones y reconocimientos es el mecanismo por el que las Instituciones de
 Seguridad Pública otorgan el reconocimiento público a sus integrantes por actos de servicio meritorios o por su
@@ -1842,9 +1863,9 @@ Organización jerárquica de las Instituciones de Seguridad Pública</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-72">
-            <num>Artículo 72</num>
-            <paragraph id="art-72-para-1">
+          <article id="art-72.">
+            <num>Artículo 72.</num>
+            <paragraph id="art-72.-para-1">
               <content>
                 <p>Artículo 72. Las legislaciones federales y de las entidades federativas deberán establecer la organización
 jerárquica de las Instituciones Policiales, considerando al menos las categorías siguientes:
@@ -1859,9 +1880,9 @@ establecerá en su propia ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-73">
-            <num>Artículo 73</num>
-            <paragraph id="art-73-para-1">
+          <article id="art-73.">
+            <num>Artículo 73.</num>
+            <paragraph id="art-73.-para-1">
               <content>
                 <p>Artículo 73. Las categorías previstas en el artículo anterior considerarán, al menos, las siguientes jerarquías:
 I. Comisarias o comisarios:
@@ -1884,9 +1905,9 @@ d) Policía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-74">
-            <num>Artículo 74</num>
-            <paragraph id="art-74-para-1">
+          <article id="art-74.">
+            <num>Artículo 74.</num>
+            <paragraph id="art-74.-para-1">
               <content>
                 <p>Artículo 74. Las Instituciones Policiales se organizarán bajo un esquema de jerarquización terciaria, cuya célula
 básica se compondrá invariablemente por tres personas.
@@ -1905,9 +1926,9 @@ en los diversos cargos o comisiones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-75">
-            <num>Artículo 75</num>
-            <paragraph id="art-75-para-1">
+          <article id="art-75.">
+            <num>Artículo 75.</num>
+            <paragraph id="art-75.-para-1">
               <content>
                 <p>Artículo 75. Se considera escala de rangos policiales a la relación que contiene a todas las personas integrantes
 de las Instituciones Policiales y los ordena en forma descendente de acuerdo con su categoría, jerarquía, división,
@@ -1915,9 +1936,9 @@ servicio, antigüedad y demás elementos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-76">
-            <num>Artículo 76</num>
-            <paragraph id="art-76-para-1">
+          <article id="art-76.">
+            <num>Artículo 76.</num>
+            <paragraph id="art-76.-para-1">
               <content>
                 <p>Artículo 76. Los niveles escalafonarios y procedimientos de ascenso dentro del servicio profesional de carrera de
 las Instituciones de Procuración de Justicia y de la Guardia Nacional se deberán establecer en sus propias leyes.
@@ -1926,9 +1947,9 @@ Permanencia</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-77">
-            <num>Artículo 77</num>
-            <paragraph id="art-77-para-1">
+          <article id="art-77.">
+            <num>Artículo 77.</num>
+            <paragraph id="art-77.-para-1">
               <content>
                 <p>Artículo 77. La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la
 presente Ley para continuar en el servicio activo de las Instituciones de Seguridad Pública. Tratándose de la Guardia
@@ -1938,9 +1959,9 @@ Terminación del Servicio Profesional de Carrera</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-78">
-            <num>Artículo 78</num>
-            <paragraph id="art-78-para-1">
+          <article id="art-78.">
+            <num>Artículo 78.</num>
+            <paragraph id="art-78.-para-1">
               <content>
                 <p>Artículo 78. La terminación comprenderá las causas ordinarias y extraordinarias de separación del servicio
 profesional de carrera, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a
@@ -1948,9 +1969,9 @@ lo establecido por las leyes y disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-79">
-            <num>Artículo 79</num>
-            <paragraph id="art-79-para-1">
+          <article id="art-79.">
+            <num>Artículo 79.</num>
+            <paragraph id="art-79.-para-1">
               <content>
                 <p>Artículo 79. La Federación y las entidades federativas establecerán en sus respectivas leyes los procedimientos
 de separación y remoción aplicables a las personas servidoras públicas de las Instituciones de Seguridad Pública,
@@ -1981,9 +2002,9 @@ Secretaría de Servicios Parlamentarios</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-80">
-            <num>Artículo 80</num>
-            <paragraph id="art-80-para-1">
+          <article id="art-80.">
+            <num>Artículo 80.</num>
+            <paragraph id="art-80.-para-1">
               <content>
                 <p>Artículo 80. Las personas integrantes de las Instituciones de Seguridad Pública que hayan alcanzado las edades
 límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, sin discriminación, a
@@ -1991,9 +2012,9 @@ consideración de las instancias, en otras áreas de los servicios de las propia
               </content>
             </paragraph>
           </article>
-          <article id="art-81">
-            <num>Artículo 81</num>
-            <paragraph id="art-81-para-1">
+          <article id="art-81.">
+            <num>Artículo 81.</num>
+            <paragraph id="art-81.-para-1">
               <content>
                 <p>Artículo 81. En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la
 separación o remoción es injustificada, la institución respectiva solo estará obligada a la indemnización y al
@@ -2006,9 +2027,9 @@ caso, deba cubrirse.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-82">
-            <num>Artículo 82</num>
-            <paragraph id="art-82-para-1">
+          <article id="art-82.">
+            <num>Artículo 82.</num>
+            <paragraph id="art-82.-para-1">
               <content>
                 <p>Artículo 82. Las solicitudes de reingreso al servicio profesional de carrera se analizarán y, en su caso, se
 concederán siempre y cuando el motivo de la baja haya sido por renuncia. En el caso de que el personal haya
@@ -2019,9 +2040,9 @@ requisitos de ingreso establecidos en el artículo 95.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-83">
-            <num>Artículo 83</num>
-            <paragraph id="art-83-para-1">
+          <article id="art-83.">
+            <num>Artículo 83.</num>
+            <paragraph id="art-83.-para-1">
               <content>
                 <p>Artículo 83. La profesionalización es el proceso permanente y progresivo de formación que se integra por las
 etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las
@@ -2034,9 +2055,9 @@ destrezas y actitudes necesarias para el desempeño del servicio público.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-84">
-            <num>Artículo 84</num>
-            <paragraph id="art-84-para-1">
+          <article id="art-84.">
+            <num>Artículo 84.</num>
+            <paragraph id="art-84.-para-1">
               <content>
                 <p>Artículo 84. El programa rector de profesionalización es el instrumento en el que se establecen los lineamientos,
 programas, las actividades y los contenidos mínimos para la profesionalización de las personas que integran las
@@ -2053,9 +2074,9 @@ públicas y valores inherentes a la seguridad pública, la procuración de justi
               </content>
             </paragraph>
           </article>
-          <article id="art-85">
-            <num>Artículo 85</num>
-            <paragraph id="art-85-para-1">
+          <article id="art-85.">
+            <num>Artículo 85.</num>
+            <paragraph id="art-85.-para-1">
               <content>
                 <p>Artículo 85. Para la adecuada profesionalización del personal de las Instituciones de Seguridad Pública de la
 Federación y las entidades federativas estarán obligadas a establecer Academias o Institutos que deberán contar con
@@ -2065,9 +2086,9 @@ Institutos, y para la conformación del registro de su personal docente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-86">
-            <num>Artículo 86</num>
-            <paragraph id="art-86-para-1">
+          <article id="art-86.">
+            <num>Artículo 86.</num>
+            <paragraph id="art-86.-para-1">
               <content>
                 <p>Artículo 86. El Secretariado Ejecutivo es el encargado de establecer la política nacional en materia de
 acreditación y certificación para las Instituciones de Seguridad Pública y de los Centros de Comando y Control de los
@@ -2083,9 +2104,9 @@ estándares establecidos por el Secretariado Ejecutivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-87">
-            <num>Artículo 87</num>
-            <paragraph id="art-87-para-1">
+          <article id="art-87.">
+            <num>Artículo 87.</num>
+            <paragraph id="art-87.-para-1">
               <content>
                 <p>Artículo 87. Las Instituciones de Seguridad Pública deberán cumplir con los estándares y las evaluaciones
 establecidas por el Secretariado Ejecutivo, así como con los procedimientos, protocolos, las metodologías y
@@ -2096,9 +2117,9 @@ certificación institucional que corresponda.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-88">
-            <num>Artículo 88</num>
-            <paragraph id="art-88-para-1">
+          <article id="art-88.">
+            <num>Artículo 88.</num>
+            <paragraph id="art-88.-para-1">
               <content>
                 <p>Artículo 88. La certificación individual es el proceso por el que las personas integrantes de las Instituciones de
 Seguridad Pública se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y
@@ -2107,9 +2128,9 @@ Ejecutivo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-89">
-            <num>Artículo 89</num>
-            <paragraph id="art-89-para-1">
+          <article id="art-89.">
+            <num>Artículo 89.</num>
+            <paragraph id="art-89.-para-1">
               <content>
                 <p>Artículo 89. El certificado individual de las personas integrantes de las Instituciones de Seguridad Pública será
 indispensable para los procesos de permanencia, desarrollo, promoción, profesionalización y especialización de sus
@@ -2125,9 +2146,9 @@ Evaluaciones de control de confianza</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-90">
-            <num>Artículo 90</num>
-            <paragraph id="art-90-para-1">
+          <article id="art-90.">
+            <num>Artículo 90.</num>
+            <paragraph id="art-90.-para-1">
               <content>
                 <p>Artículo 90. Las evaluaciones de control de confianza tienen por objeto:
 I. Reconocer habilidades, destrezas y actitudes, para que las personas integrantes de las Instituciones
@@ -2161,9 +2182,9 @@ La presente disposición será aplicable también al personal de los servicios d
               </content>
             </paragraph>
           </article>
-          <article id="art-91">
-            <num>Artículo 91</num>
-            <paragraph id="art-91-para-1">
+          <article id="art-91.">
+            <num>Artículo 91.</num>
+            <paragraph id="art-91.-para-1">
               <content>
                 <p>Artículo 91. Los lineamientos que se emitan para las evaluaciones de control de confianza deberán contener, al
 menos, lo siguiente:
@@ -2175,9 +2196,9 @@ inscribirse en el registro nacional correspondiente.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-92">
-            <num>Artículo 92</num>
-            <paragraph id="art-92-para-1">
+          <article id="art-92.">
+            <num>Artículo 92.</num>
+            <paragraph id="art-92.-para-1">
               <content>
                 <p>Artículo 92. Las evaluaciones de control de confianza perderán validez cuando las personas servidoras públicas:
 I. Sean separadas de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia
@@ -2190,9 +2211,9 @@ En cualquiera de los supuestos anteriores deberá actualizarse el registro nacio
               </content>
             </paragraph>
           </article>
-          <article id="art-93">
-            <num>Artículo 93</num>
-            <paragraph id="art-93-para-1">
+          <article id="art-93.">
+            <num>Artículo 93.</num>
+            <paragraph id="art-93.-para-1">
               <content>
                 <p>Artículo 93. Las personas integrantes de las Instituciones de Seguridad Pública deberán someterse y aprobar los
 procesos de evaluación de control de confianza y del desempeño con la periodicidad y en los casos que establezca
@@ -2204,9 +2225,9 @@ Ley.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-94">
-            <num>Artículo 94</num>
-            <paragraph id="art-94-para-1">
+          <article id="art-94.">
+            <num>Artículo 94.</num>
+            <paragraph id="art-94.-para-1">
               <content>
                 <p>Artículo 94. El servicio profesional de carrera de las Instituciones Policiales comprende el grado policial, la
 antigüedad, las insignias, condecoraciones, los estímulos y reconocimientos obtenidos, el resultado de los procesos
@@ -2254,9 +2275,9 @@ carrera de las Instituciones Policiales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-95">
-            <num>Artículo 95</num>
-            <paragraph id="art-95-para-1">
+          <article id="art-95.">
+            <num>Artículo 95.</num>
+            <paragraph id="art-95.-para-1">
               <content>
                 <p>Artículo 95. Las personas aspirantes o integrantes de las Instituciones Policiales deberán cumplir con los
 siguientes requisitos de ingreso y permanencia:
@@ -2323,9 +2344,9 @@ aplicables a las Instituciones Policiales.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-96">
-            <num>Artículo 96</num>
-            <paragraph id="art-96-para-1">
+          <article id="art-96.">
+            <num>Artículo 96.</num>
+            <paragraph id="art-96.-para-1">
               <content>
                 <p>Artículo 96. Las instancias responsables del Servicio Profesional de Carrera de las Instituciones Policiales
 fomentarán la vocación de servicio mediante la promoción y reconocimiento para satisfacer las expectativas de
@@ -2333,9 +2354,9 @@ desarrollo profesional de sus integrantes.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-97">
-            <num>Artículo 97</num>
-            <paragraph id="art-97-para-1">
+          <article id="art-97.">
+            <num>Artículo 97.</num>
+            <paragraph id="art-97.-para-1">
               <content>
                 <p>Artículo 97. El servicio profesional de carrera en las Instituciones de Procuración de Justicia comprenderá lo
 relativo a las personas Ministerios Públicos y a las y los peritos. Contará con un sistema de rotación del personal;
@@ -2350,9 +2371,9 @@ en materia policial.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-98">
-            <num>Artículo 98</num>
-            <paragraph id="art-98-para-1">
+          <article id="art-98.">
+            <num>Artículo 98.</num>
+            <paragraph id="art-98.-para-1">
               <content>
                 <p>Artículo 98. El ingreso al servicio profesional de carrera en las Instituciones de Procuración de Justicia se hará
 por convocatoria pública. Las personas aspirantes deberán cumplir, cuando menos, con los requisitos siguientes:
@@ -2417,9 +2438,9 @@ las entidades federativas, en sus respectivos ámbitos de competencia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-99">
-            <num>Artículo 99</num>
-            <paragraph id="art-99-para-1">
+          <article id="art-99.">
+            <num>Artículo 99.</num>
+            <paragraph id="art-99.-para-1">
               <content>
                 <p>Artículo 99. Son requisitos de permanencia para las personas agentes del Ministerio Público y las y los peritos,
 los siguientes:
@@ -2459,9 +2480,9 @@ Lo dispuesto en este artículo aplicará sin perjuicio de otros requisitos que e
               </content>
             </paragraph>
           </article>
-          <article id="art-100">
-            <num>Artículo 100</num>
-            <paragraph id="art-100-para-1">
+          <article id="art-100.">
+            <num>Artículo 100.</num>
+            <paragraph id="art-100.-para-1">
               <content>
                 <p>Artículo 100. El Sistema Nacional de Información es un conjunto integrado, organizado y sistematizado de
 registros y bases de datos nacionales. Se compone por elementos metodológicos y procedimentales que permiten a
@@ -2479,9 +2500,9 @@ conforman.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-101">
-            <num>Artículo 101</num>
-            <paragraph id="art-101-para-1">
+          <article id="art-101.">
+            <num>Artículo 101.</num>
+            <paragraph id="art-101.-para-1">
               <content>
                 <p>Artículo 101. Las Instituciones de Seguridad Pública de los tres órdenes de gobierno, ya sean policiales, de
 procuración de justicia, penitenciarias o cualquier otra, estarán obligadas a compartir y actualizar diariamente la
@@ -2514,9 +2535,9 @@ organismo autónomo.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-102">
-            <num>Artículo 102</num>
-            <paragraph id="art-102-para-1">
+          <article id="art-102.">
+            <num>Artículo 102.</num>
+            <paragraph id="art-102.-para-1">
               <content>
                 <p>Artículo 102. Las Instituciones de Seguridad Pública, ya sean policiales, de procuración de justicia o
 penitenciarias, tendrán acceso a la información contenida en los registros y bases de datos del Sistema Nacional de
@@ -2528,9 +2549,9 @@ generales, convenios y las demás disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-103">
-            <num>Artículo 103</num>
-            <paragraph id="art-103-para-1">
+          <article id="art-103.">
+            <num>Artículo 103.</num>
+            <paragraph id="art-103.-para-1">
               <content>
                 <p>Artículo 103. La Secretaría contará con las siguientes atribuciones en relación con el Sistema Nacional de
 Información:
@@ -2551,9 +2572,9 @@ VIII. Las demás que determinen las normativas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-104">
-            <num>Artículo 104</num>
-            <paragraph id="art-104-para-1">
+          <article id="art-104.">
+            <num>Artículo 104.</num>
+            <paragraph id="art-104.-para-1">
               <content>
                 <p>Artículo 104. El Secretariado Ejecutivo contará con las siguientes atribuciones en relación con el Sistema
 Nacional de Información:
@@ -2575,9 +2596,9 @@ VI. Las demás que determinen las normativas aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-105">
-            <num>Artículo 105</num>
-            <paragraph id="art-105-para-1">
+          <article id="art-105.">
+            <num>Artículo 105.</num>
+            <paragraph id="art-105.-para-1">
               <content>
                 <p>Artículo 105. El Sistema Nacional de Información se integrará, al menos, por los registros nacionales siguientes:
 37 de 48
@@ -2605,9 +2626,9 @@ Nacionales no implica una afectación a su autonomía.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-106">
-            <num>Artículo 106</num>
-            <paragraph id="art-106-para-1">
+          <article id="art-106.">
+            <num>Artículo 106.</num>
+            <paragraph id="art-106.-para-1">
               <content>
                 <p>Artículo 106. Las Instituciones de Procuración de Justicia deberán compartir al Sistema Nacional de Información
 la información necesaria para integrar el Registro Nacional de Eficiencia Ministerial de conformidad con los
@@ -2628,9 +2649,9 @@ jurídicas en la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-107">
-            <num>Artículo 107</num>
-            <paragraph id="art-107-para-1">
+          <article id="art-107.">
+            <num>Artículo 107.</num>
+            <paragraph id="art-107.-para-1">
               <content>
                 <p>Artículo 107. Las bases de datos constituyen subconjuntos sistematizados de la información contenida en el
 Sistema Nacional de Información que comparten las Instituciones de Seguridad Pública relativa a la incidencia
@@ -2640,9 +2661,9 @@ Consejo Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-108">
-            <num>Artículo 108</num>
-            <paragraph id="art-108-para-1">
+          <article id="art-108.">
+            <num>Artículo 108.</num>
+            <paragraph id="art-108.-para-1">
               <content>
                 <p>Artículo 108. Los Centros de Comando y Control son instalaciones de seguridad pública y atención de
 emergencias que integran tecnologías de videovigilancia, identificación vehicular, análisis de datos y coordinación
@@ -2661,9 +2682,9 @@ los tres órdenes de gobierno.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-109">
-            <num>Artículo 109</num>
-            <paragraph id="art-109-para-1">
+          <article id="art-109.">
+            <num>Artículo 109.</num>
+            <paragraph id="art-109.-para-1">
               <content>
                 <p>Artículo 109. Los Centros de Comando y Control de la Federación, las entidades federativas y los municipios se
 regirán por normas técnicas y protocolos de operación, administración y creación que para tal efecto emita el
@@ -2674,9 +2695,9 @@ sistemas de videovigilancia urbana, de integración con el Sistema Nacional de I
               </content>
             </paragraph>
           </article>
-          <article id="art-110">
-            <num>Artículo 110</num>
-            <paragraph id="art-110-para-1">
+          <article id="art-110.">
+            <num>Artículo 110.</num>
+            <paragraph id="art-110.-para-1">
               <content>
                 <p>Artículo 110. La Federación, las entidades federativas y los municipios a través de sus respectivos Centros de
 Comando y Control, son responsables de recibir las llamadas de la población sobre emergencias y denuncia
@@ -2704,9 +2725,9 @@ El incumplimiento de estas disposiciones será sancionado conforme a lo establec
               </content>
             </paragraph>
           </article>
-          <article id="art-111">
-            <num>Artículo 111</num>
-            <paragraph id="art-111-para-1">
+          <article id="art-111.">
+            <num>Artículo 111.</num>
+            <paragraph id="art-111.-para-1">
               <content>
                 <p>Artículo 111. El Secretariado Ejecutivo emitirá y publicará las normas técnicas y protocolos de operación
 relacionados a los Centros de Comando y Control sobre atención a llamadas de emergencia y de denuncia anónima,
@@ -2714,9 +2735,9 @@ de despacho de emergencias y de procesos y de definiciones técnicas para los si
               </content>
             </paragraph>
           </article>
-          <article id="art-112">
-            <num>Artículo 112</num>
-            <paragraph id="art-112-para-1">
+          <article id="art-112.">
+            <num>Artículo 112.</num>
+            <paragraph id="art-112.-para-1">
               <content>
                 <p>Artículo 112. Los Centros de Comando y Control, sea cual sea su denominación y área de adscripción, están
 obligados a compartir y actualizar diariamente las bases de datos de su sistema de gestión de incidentes, sin
@@ -2740,9 +2761,9 @@ de la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-113">
-            <num>Artículo 113</num>
-            <paragraph id="art-113-para-1">
+          <article id="art-113.">
+            <num>Artículo 113.</num>
+            <paragraph id="art-113.-para-1">
               <content>
                 <p>Artículo 113. Los Centros de Comando y Control de la Federación, las entidades federativas y los municipios
 deberán ser certificados y acreditados de conformidad a los estándares y las evaluaciones que emita el Secretariado
@@ -2754,9 +2775,9 @@ Ejecutivo, los que deberán apegarse a la normativa en materia de protección de
               </content>
             </paragraph>
           </article>
-          <article id="art-114">
-            <num>Artículo 114</num>
-            <paragraph id="art-114-para-1">
+          <article id="art-114.">
+            <num>Artículo 114.</num>
+            <paragraph id="art-114.-para-1">
               <content>
                 <p>Artículo 114. Los Fondos de Ayuda Federal para la seguridad pública a que se refiere el artículo 21 de la
 Constitución Política de los Estados Unidos Mexicanos, se componen con los recursos destinados a la seguridad
@@ -2777,9 +2798,9 @@ la situación del ejercicio de los recursos, su destino, así como los montos co
               </content>
             </paragraph>
           </article>
-          <article id="art-115">
-            <num>Artículo 115</num>
-            <paragraph id="art-115-para-1">
+          <article id="art-115.">
+            <num>Artículo 115.</num>
+            <paragraph id="art-115.-para-1">
               <content>
                 <p>Artículo 115. Corresponde al Secretariado Ejecutivo aprobar, en su caso, los proyectos de inversión financiados
 con recursos de los Fondos de Ayuda Federal; requerir a las entidades federativas, municipios, demarcaciones
@@ -2801,9 +2822,9 @@ eficiente de los recursos.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-116">
-            <num>Artículo 116</num>
-            <paragraph id="art-116-para-1">
+          <article id="art-116.">
+            <num>Artículo 116.</num>
+            <paragraph id="art-116.-para-1">
               <content>
                 <p>Artículo 116. Corresponde a la Auditoría Superior de la Federación auditar y fiscalizar los recursos federales que
 ejerzan la federación, las entidades federativas y los municipios en materia de seguridad pública, en términos de las
@@ -2811,9 +2832,9 @@ disposiciones aplicables.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-117">
-            <num>Artículo 117</num>
-            <paragraph id="art-117-para-1">
+          <article id="art-117.">
+            <num>Artículo 117.</num>
+            <paragraph id="art-117.-para-1">
               <content>
                 <p>Artículo 117. El Secretariado Ejecutivo puede realizar, en cualquier momento, visitas de verificación y, cuando
 dicte medidas, de comprobación, así como revisiones de gabinete a las entidades federativas, municipios y
@@ -2828,9 +2849,9 @@ medio procesable de almacenamiento de datos que les sea solicitado.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-118">
-            <num>Artículo 118</num>
-            <paragraph id="art-118-para-1">
+          <article id="art-118.">
+            <num>Artículo 118.</num>
+            <paragraph id="art-118.-para-1">
               <content>
                 <p>Artículo 118. Cuando, como resultado de las visitas de verificación o revisión de gabinete, se detecte un
 incumplimiento, el Secretariado Ejecutivo podrá decretar la suspensión de las ministraciones subsecuente, y deberá
@@ -2849,9 +2870,9 @@ Lo anterior, con independencia de las responsabilidades que otras leyes establez
               </content>
             </paragraph>
           </article>
-          <article id="art-119">
-            <num>Artículo 119</num>
-            <paragraph id="art-119-para-1">
+          <article id="art-119.">
+            <num>Artículo 119.</num>
+            <paragraph id="art-119.-para-1">
               <content>
                 <p>Artículo 119. Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles,
 construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las
@@ -2861,9 +2882,9 @@ Ley de Seguridad Nacional.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-120">
-            <num>Artículo 120</num>
-            <paragraph id="art-120-para-1">
+          <article id="art-120.">
+            <num>Artículo 120.</num>
+            <paragraph id="art-120.-para-1">
               <content>
                 <p>Artículo 120. Las entidades federativas y los municipios coadyuvarán en la protección y desarrollo de las
 acciones necesarias para la vigilancia de las instalaciones estratégicas y para garantizar su integridad y operación.
@@ -2875,9 +2896,9 @@ que expedirá, mediante acuerdos generales de observancia obligatoria, la normat
               </content>
             </paragraph>
           </article>
-          <article id="art-121">
-            <num>Artículo 121</num>
-            <paragraph id="art-121-para-1">
+          <article id="art-121.">
+            <num>Artículo 121.</num>
+            <paragraph id="art-121.-para-1">
               <content>
                 <p>Artículo 121. El Consejo Nacional establecerá, para los fines de seguridad pública, los casos, condiciones y
 requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y
@@ -2900,9 +2921,9 @@ Instituciones de Seguridad Pública que lo integran.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-122">
-            <num>Artículo 122</num>
-            <paragraph id="art-122-para-1">
+          <article id="art-122.">
+            <num>Artículo 122.</num>
+            <paragraph id="art-122.-para-1">
               <content>
                 <p>Artículo 122. Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, las
 personas físicas o morales que presten servicios de seguridad privada bajo las modalidades y submodalidades
@@ -2918,9 +2939,9 @@ que aquellos previstos en la normativa que regule la materia.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-123">
-            <num>Artículo 123</num>
-            <paragraph id="art-123-para-1">
+          <article id="art-123.">
+            <num>Artículo 123.</num>
+            <paragraph id="art-123.-para-1">
               <content>
                 <p>Artículo 123. Los servicios de seguridad privada son auxiliares a la función de seguridad pública. Las
 prestadoras de servicios de seguridad privada coadyuvarán con las autoridades y las Instituciones de Seguridad
@@ -2929,9 +2950,9 @@ gobierno, de acuerdo con sus capacidades y dentro del marco de su autorización.
               </content>
             </paragraph>
           </article>
-          <article id="art-124">
-            <num>Artículo 124</num>
-            <paragraph id="art-124-para-1">
+          <article id="art-124.">
+            <num>Artículo 124.</num>
+            <paragraph id="art-124.-para-1">
               <content>
                 <p>Artículo 124. Las personas físicas y morales que presten servicios de seguridad privada; se regirán, en lo
 conducente, por la presente Ley y la normativa que regule la materia, incluyendo los principios de actuación y
@@ -2942,9 +2963,9 @@ acreditarán las evaluaciones y, de ser el caso, los controles de confianza apli
               </content>
             </paragraph>
           </article>
-          <article id="art-125">
-            <num>Artículo 125</num>
-            <paragraph id="art-125-para-1">
+          <article id="art-125.">
+            <num>Artículo 125.</num>
+            <paragraph id="art-125.-para-1">
               <content>
                 <p>Artículo 125. Las responsabilidades administrativas de las personas servidoras públicas de las Instituciones de
 Seguridad Pública por los actos y omisiones que afecten la legalidad, honradez, lealtad, imparcialidad, eficiencia y el
@@ -2954,9 +2975,9 @@ Administrativas.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-126">
-            <num>Artículo 126</num>
-            <paragraph id="art-126-para-1">
+          <article id="art-126.">
+            <num>Artículo 126.</num>
+            <paragraph id="art-126.-para-1">
               <content>
                 <p>Artículo 126. Las responsabilidades civiles y penales en que incurran las personas servidoras públicas de las
 Instituciones de Seguridad Pública por el incumplimiento de lo dispuesto en la presente Ley serán determinadas y
@@ -2964,9 +2985,9 @@ sancionadas conforme las disposiciones legales aplicables y por las autoridades 
               </content>
             </paragraph>
           </article>
-          <article id="art-127">
-            <num>Artículo 127</num>
-            <paragraph id="art-127-para-1">
+          <article id="art-127.">
+            <num>Artículo 127.</num>
+            <paragraph id="art-127.-para-1">
               <content>
                 <p>Artículo 127. El régimen disciplinario es el conjunto de normas, principios y procedimientos que regulan la
 conducta del personal de las Instituciones de Seguridad Pública, con el propósito de garantizar el cumplimiento de
@@ -2983,9 +3004,9 @@ su propia legislación y las disposiciones que de esta deriven.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-128">
-            <num>Artículo 128</num>
-            <paragraph id="art-128-para-1">
+          <article id="art-128.">
+            <num>Artículo 128.</num>
+            <paragraph id="art-128.-para-1">
               <content>
                 <p>Artículo 128. La disciplina comprende el aprecio de sí mismo, la pulcritud, la cultura cívica, el amor a la patria, el
 rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el pleno respeto a las leyes y
@@ -3000,9 +3021,9 @@ Obligaciones de las personas servidoras públicas de las Instituciones de Seguri
               </content>
             </paragraph>
           </article>
-          <article id="art-129">
-            <num>Artículo 129</num>
-            <paragraph id="art-129-para-1">
+          <article id="art-129.">
+            <num>Artículo 129.</num>
+            <paragraph id="art-129.-para-1">
               <content>
                 <p>Artículo 129. Son obligaciones de las personas integrantes de las Instituciones de Seguridad Pública integrantes
 del servicio profesional de carrera:
@@ -3075,9 +3096,9 @@ servicio, conforme a lo establecido en el Título Quinto de esta Ley y demás di
               </content>
             </paragraph>
           </article>
-          <article id="art-130">
-            <num>Artículo 130</num>
-            <paragraph id="art-130-para-1">
+          <article id="art-130.">
+            <num>Artículo 130.</num>
+            <paragraph id="art-130.-para-1">
               <content>
                 <p>Artículo 130. El régimen disciplinario de todas las Instituciones de Seguridad Pública será el aplicable ante el
 incumplimiento de estas obligaciones o las que estén contenidas en otras normas.
@@ -3088,9 +3109,9 @@ Correctivos disciplinarios y sanciones</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-131">
-            <num>Artículo 131</num>
-            <paragraph id="art-131-para-1">
+          <article id="art-131.">
+            <num>Artículo 131.</num>
+            <paragraph id="art-131.-para-1">
               <content>
                 <p>Artículo 131. El incumplimiento de las obligaciones de las personas integrantes de las Instituciones de Seguridad
 Pública, señaladas en el presente título dará lugar a la imposición de:
@@ -3104,9 +3125,9 @@ II. Sanciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-132">
-            <num>Artículo 132</num>
-            <paragraph id="art-132-para-1">
+          <article id="art-132.">
+            <num>Artículo 132.</num>
+            <paragraph id="art-132.-para-1">
               <content>
                 <p>Artículo 132. Los correctivos disciplinarios son medidas impuestas de manera fundada y motivada por la persona
 superior jerárquica que ejerza el mando directo sobre personal que cometa faltas que, por su naturaleza, no ameriten
@@ -3125,9 +3146,9 @@ que se estimen relacionados con la naturaleza de la falta cometida.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-133">
-            <num>Artículo 133</num>
-            <paragraph id="art-133-para-1">
+          <article id="art-133.">
+            <num>Artículo 133.</num>
+            <paragraph id="art-133.-para-1">
               <content>
                 <p>Artículo 133. Las sanciones disciplinarias son medidas previstas por la ley para el personal integrante de las
 Instituciones de Seguridad Pública que incurra en las conductas sancionadas por el régimen disciplinario o en el
@@ -3145,9 +3166,9 @@ pudieran derivarse.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-134">
-            <num>Artículo 134</num>
-            <paragraph id="art-134-para-1">
+          <article id="art-134.">
+            <num>Artículo 134.</num>
+            <paragraph id="art-134.-para-1">
               <content>
                 <p>Artículo 134. Las faltas deberán clasificarse en graves y no graves, conforme a los criterios establecidos por la
 normativa interna de cada Institución de Seguridad Pública, la que deberá establecer de manera expresa y específica
@@ -3158,9 +3179,9 @@ incumplimiento de las conductas a que se refieren las fracciones XV, XVI, XVII, 
               </content>
             </paragraph>
           </article>
-          <article id="art-135">
-            <num>Artículo 135</num>
-            <paragraph id="art-135-para-1">
+          <article id="art-135.">
+            <num>Artículo 135.</num>
+            <paragraph id="art-135.-para-1">
               <content>
                 <p>Artículo 135. Las conductas vinculadas a la violencia de género, el acoso y el hostigamiento sexual, en
 cualquiera de sus modalidades, deberán ser investigadas y sancionadas con perspectiva de género, garantizando el
@@ -3174,9 +3195,9 @@ Ministerio Público sin dilación y aplicando en todo momento la perspectiva de 
               </content>
             </paragraph>
           </article>
-          <article id="art-136">
-            <num>Artículo 136</num>
-            <paragraph id="art-136-para-1">
+          <article id="art-136.">
+            <num>Artículo 136.</num>
+            <paragraph id="art-136.-para-1">
               <content>
                 <p>Artículo 136. El procedimiento sancionador deberá constar de las siguientes etapas:
 45 de 48
@@ -3197,9 +3218,9 @@ que procedan contra las resoluciones.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-137">
-            <num>Artículo 137</num>
-            <paragraph id="art-137-para-1">
+          <article id="art-137.">
+            <num>Artículo 137.</num>
+            <paragraph id="art-137.-para-1">
               <content>
                 <p>Artículo 137. En caso de remoción, las personas integrantes de las Instituciones de Seguridad Pública recibirán
 el pago de haberes, salarios y prestaciones efectivamente devengadas a la fecha en que esta surta sus efectos.
@@ -3210,9 +3231,9 @@ que surta efectos la notificación respectiva.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-138">
-            <num>Artículo 138</num>
-            <paragraph id="art-138-para-1">
+          <article id="art-138.">
+            <num>Artículo 138.</num>
+            <paragraph id="art-138.-para-1">
               <content>
                 <p>Artículo 138. La aplicación de los correctivos y sanciones disciplinarias deberá registrarse de manera oportuna y
 sistemática en el expediente personal de las personas servidoras públicas integrantes de las Instituciones de
@@ -3223,9 +3244,9 @@ procedimiento de evaluación del desempeño o trayectoria profesional del person
               </content>
             </paragraph>
           </article>
-          <article id="art-139">
-            <num>Artículo 139</num>
-            <paragraph id="art-139-para-1">
+          <article id="art-139.">
+            <num>Artículo 139.</num>
+            <paragraph id="art-139.-para-1">
               <content>
                 <p>Artículo 139. La prescripción extingue la facultad de la autoridad competente para imponer sanciones
 disciplinarias y comenzará a computarse a partir del día siguiente a aquel en que se haya cometido la infracción, o
@@ -3242,9 +3263,9 @@ Autoridades a cargo del régimen disciplinario</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-140">
-            <num>Artículo 140</num>
-            <paragraph id="art-140-para-1">
+          <article id="art-140.">
+            <num>Artículo 140.</num>
+            <paragraph id="art-140.-para-1">
               <content>
                 <p>Artículo 140. Las Instituciones de Seguridad Pública contarán con una unidad de asuntos internos que podrá
 especializarse por materia, grado o territorio. Tendrá facultades de supervisión y verificación de los servicios y del
@@ -3254,9 +3275,9 @@ responsabilidad a la autoridad sustanciadora.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-141">
-            <num>Artículo 141</num>
-            <paragraph id="art-141-para-1">
+          <article id="art-141.">
+            <num>Artículo 141.</num>
+            <paragraph id="art-141.-para-1">
               <content>
                 <p>Artículo 141. Las Instituciones de Seguridad Pública contarán con un órgano colegiado de honor y justicia,
 encargado de imponer las sanciones que correspondan a las personas integrantes de las Instituciones de Seguridad
@@ -3264,9 +3285,9 @@ Pública, para lo que deberán contar con las facultades que se estimen necesari
               </content>
             </paragraph>
           </article>
-          <article id="art-142">
-            <num>Artículo 142</num>
-            <paragraph id="art-142-para-1">
+          <article id="art-142.">
+            <num>Artículo 142.</num>
+            <paragraph id="art-142.-para-1">
               <content>
                 <p>Artículo 142. La unidad de asuntos internos y el órgano colegiado de honor y justicia podrán aplicar medidas
 precautorias y medidas cautelares, con los siguientes propósitos:
@@ -3282,9 +3303,9 @@ IV. Evitar un daño al patrimonio de la Institución de Seguridad Pública de qu
               </content>
             </paragraph>
           </article>
-          <article id="art-143">
-            <num>Artículo 143</num>
-            <paragraph id="art-143-para-1">
+          <article id="art-143.">
+            <num>Artículo 143.</num>
+            <paragraph id="art-143.-para-1">
               <content>
                 <p>Artículo 143. La autoridad encargada de sustanciar el procedimiento administrativo será distinta de aquella que
 investigue y de la que resuelva. Será responsable de dictar el acuerdo de inicio, así como de realizar el
@@ -3295,9 +3316,9 @@ de permanencia, la que estará a cargo de las instancias responsables del servic
               </content>
             </paragraph>
           </article>
-          <article id="art-144">
-            <num>Artículo 144</num>
-            <paragraph id="art-144-para-1">
+          <article id="art-144.">
+            <num>Artículo 144.</num>
+            <paragraph id="art-144.-para-1">
               <content>
                 <p>Artículo 144. Se sancionará de uno a cuatro años de prisión y de cien a seiscientas Unidades de Medida y
 Actualización a quien dolosa y reiteradamente se abstenga de proporcionar al Sistema Nacional de Información o al
@@ -3308,9 +3329,9 @@ desempeñarse en otro empleo, puesto, cargo o comisión en cualquier orden de go
               </content>
             </paragraph>
           </article>
-          <article id="art-145">
-            <num>Artículo 145</num>
-            <paragraph id="art-145-para-1">
+          <article id="art-145.">
+            <num>Artículo 145.</num>
+            <paragraph id="art-145.-para-1">
               <content>
                 <p>Artículo 145. Se sancionará con dos a ocho años de prisión y de quinientas a mil Unidades de Medida y
 Actualización a quien:
@@ -3332,9 +3353,9 @@ caso, la destitución.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-146">
-            <num>Artículo 146</num>
-            <paragraph id="art-146-para-1">
+          <article id="art-146.">
+            <num>Artículo 146.</num>
+            <paragraph id="art-146.-para-1">
               <content>
                 <p>Artículo 146. Se sancionará con cinco a doce años de prisión y de doscientas a ochocientas Unidades de Medida
 y Actualización a quien falsifique el certificado a que se refiere la presente Ley, lo altere, comercialice o use a
@@ -3342,9 +3363,9 @@ sabiendas de su ilicitud.</p>
               </content>
             </paragraph>
           </article>
-          <article id="art-147">
-            <num>Artículo 147</num>
-            <paragraph id="art-147-para-1">
+          <article id="art-147.">
+            <num>Artículo 147.</num>
+            <paragraph id="art-147.-para-1">
               <content>
                 <p>Artículo 147. Las sanciones previstas en este capítulo se impondrán sin perjuicio de las penas que correspondan
 por otros delitos previstos en los ordenamientos penales federal o de las entidades federativas, según corresponda.
@@ -3357,15 +3378,43 @@ Transitorios
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Nueva Ley DOF 16-07-2025
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la
-Federación.
-Segundo.- Se abroga la Ley General del Sistema Nacional de Seguridad Pública publicada en el Diario Oficial de
-la Federación el 2 de enero de 2009.
-Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que
+Secretaría de Servicios Parlamentarios</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-1">
+            <num>Artículo 1</num>
+            <paragraph id="art-1-para-1">
+              <content>
+                <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la
+Federación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-2">
+            <num>Artículo 2</num>
+            <paragraph id="art-2-para-1">
+              <content>
+                <p>Segundo.- Se abroga la Ley General del Sistema Nacional de Seguridad Pública publicada en el Diario Oficial de
+la Federación el 2 de enero de 2009.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-3">
+            <num>Artículo 3</num>
+            <paragraph id="art-3-para-1">
+              <content>
+                <p>Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que
 se hayan emitido como consecuencia de la ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto
-no se emita la normativa que las sustituya o las deje sin efectos.
-Cuarto.- El Poder Ejecutivo Federal contará con ciento veinte días naturales, a partir de la entrada en vigor de
+no se emita la normativa que las sustituya o las deje sin efectos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-4">
+            <num>Artículo 4</num>
+            <paragraph id="art-4-para-1">
+              <content>
+                <p>Cuarto.- El Poder Ejecutivo Federal contará con ciento veinte días naturales, a partir de la entrada en vigor de
 este Decreto, para publicar en el Diario Oficial de la Federación el Reglamento del Secretariado Ejecutivo del
 Sistema Nacional de Seguridad Pública.
 El citado Reglamento contemplará la creación, por lo menos, de tres centros nacionales encargados de las
@@ -3375,21 +3424,56 @@ persona titular de éste podrá asignar las referidas funciones a los centros na
 Una vez que se emita el nuevo reglamento y se autorice la nueva estructura orgánica del Secretariado Ejecutivo,
 los recursos humanos, financieros y materiales del Centro Nacional de Información, el Centro Nacional de
 Prevención del Delito y Participación Ciudadana, y el Centro de Certificación y Acreditación pasarán a los centros
-nacionales que se creen en términos del segundo párrafo de este transitorio.
-Quinto.- Los asuntos que, a la entrada en vigor de este Decreto, se encuentren a cargo del Centro Nacional de
+nacionales que se creen en términos del segundo párrafo de este transitorio.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-5">
+            <num>Artículo 5</num>
+            <paragraph id="art-5-para-1">
+              <content>
+                <p>Quinto.- Los asuntos que, a la entrada en vigor de este Decreto, se encuentren a cargo del Centro Nacional de
 Prevención del Delito y Participación Ciudadana pasarán a la competencia de la Secretaría, por conducto de las
 unidades administrativas que ésta determine. Para tal efecto, deberán entregarse a dicha Secretaría los expedientes,
-archivos, bases de datos y demás elementos vinculados con dichos asuntos.
-Sexto.- Las referencias que se hagan en otras disposiciones al Centro Nacional de Información y al Centro de
+archivos, bases de datos y demás elementos vinculados con dichos asuntos.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-6">
+            <num>Artículo 6</num>
+            <paragraph id="art-6-para-1">
+              <content>
+                <p>Sexto.- Las referencias que se hagan en otras disposiciones al Centro Nacional de Información y al Centro de
 Certificación y Acreditación se entenderán hechas al Secretariado Ejecutivo. Las que se hagan al Centro Nacional de
-Prevención del Delito y Participación Ciudadana se entenderán hechas a la Secretaría.
-Séptimo.- Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada
+Prevención del Delito y Participación Ciudadana se entenderán hechas a la Secretaría.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-7">
+            <num>Artículo 7</num>
+            <paragraph id="art-7-para-1">
+              <content>
+                <p>Séptimo.- Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada
 en vigor de este Decreto cuenten con un nivel de estudios inferior al establecido en este para su ingreso o
 permanencia deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el
-nivel de estudios que corresponda.
-Octavo.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán
-conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
-Noveno.- Dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, la Secretaría de
+nivel de estudios que corresponda.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-8">
+            <num>Artículo 8</num>
+            <paragraph id="art-8-para-1">
+              <content>
+                <p>Octavo.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán
+conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.</p>
+              </content>
+            </paragraph>
+          </article>
+          <article id="art-9">
+            <num>Artículo 9</num>
+            <paragraph id="art-9-para-1">
+              <content>
+                <p>Noveno.- Dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, la Secretaría de
 Gobernación expedirá el Acuerdo por el que se regulará la operación, funcionamiento e integración de las mesas de
 paz de las entidades federativas y regionales.
 Ciudad de México, a 1 de julio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo

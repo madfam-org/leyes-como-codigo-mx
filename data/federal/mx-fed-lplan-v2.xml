@@ -20,7 +20,7 @@
         <FRBRManifestation>
           <FRBRthis value="/mx/fed/ley/1983-01-05/lplan/spa@/main.xml"/>
           <FRBRuri value="/mx/fed/ley/1983-01-05/lplan/spa@/main.akn"/>
-          <FRBRdate date="2026-02-03" name="Generation"/>
+          <FRBRdate date="2026-02-05" name="Generation"/>
           <FRBRauthor href="#antigravity"/>
         </FRBRManifestation>
       </identification>
@@ -216,22 +216,15 @@ en el artículo 43 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria
               <p>Artículo 6o.- El Presidente de la República informará al Congreso de la Unión sobre el estado general
 que guarda la administración pública del país, haciendo mención expresa de las acciones y los resultados
 obtenidos relacionados con la ejecución del Plan Nacional de Desarrollo, los Programas Sectoriales y, en
-su caso, los programas especiales, así como lo concerniente al cumplimiento de las disposiciones del</p>
-            </content>
-          </paragraph>
-        </article>
-        <article id="art-2o">
-          <num>Artículo 2o</num>
-          <paragraph id="art-2o-para-1">
-            <content>
-              <p>artículo 2o. Constitucional en materia de derechos y cultura indígena.
+su caso, los programas especiales, así como lo concerniente al cumplimiento de las disposiciones del
+artículo 2o. Constitucional en materia de derechos y cultura indígena.
 El contenido de la Cuenta Pública Federal deberá relacionarse, en lo conducente, con la información a
 que alude este artículo, a fin de permitir a la Cámara de Diputados su análisis con relación a los objetivos
 y prioridades del Plan Nacional de Desarrollo y de los Programas Sectoriales.
 , 09-04-2012, 16-02-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-2o" placement="bottom">
+          <note placementBase="#art-6o" placement="bottom">
             <p>Artículo reformado DOF 13-06-2003</p>
           </note>
         </article>
@@ -316,9 +309,9 @@ acceso a la información pública.
             <p>Artículo reformado DOF 23-05-2002</p>
           </note>
         </article>
-        <article id="art-10">
-          <num>Artículo 10</num>
-          <paragraph id="art-10-para-1">
+        <article id="art-10.">
+          <num>Artículo 10.</num>
+          <paragraph id="art-10.-para-1">
             <content>
               <p>Artículo 10.- Los proyectos de iniciativas de leyes y los reglamentos, decretos y acuerdos que formule
 el Ejecutivo Federal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y
@@ -326,9 +319,9 @@ el Plan y los programas respectivos.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-11">
-          <num>Artículo 11</num>
-          <paragraph id="art-11-para-1">
+        <article id="art-11.">
+          <num>Artículo 11.</num>
+          <paragraph id="art-11.-para-1">
             <content>
               <p>Artículo 11.- En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo
 que resuelva para afectos administrativos, el Ejecutivo Federal, por conducto de la Secretaría de
@@ -336,13 +329,13 @@ Hacienda y Crédito Público.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-11" placement="bottom">
+          <note placementBase="#art-11." placement="bottom">
             <p>Artículo reformado DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-12">
-          <num>Artículo 12</num>
-          <paragraph id="art-12-para-1">
+        <article id="art-12.">
+          <num>Artículo 12.</num>
+          <paragraph id="art-12.-para-1">
             <content>
               <p>Artículo 12.- Los aspectos de la Planeación Nacional del Desarrollo que correspondan a las
 dependencias y entidades de la Administración Pública Federal se llevarán a cabo, en los términos de
@@ -353,9 +346,9 @@ propias dependencias y entidades.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-13">
-          <num>Artículo 13</num>
-          <paragraph id="art-13-para-1">
+        <article id="art-13.">
+          <num>Artículo 13.</num>
+          <paragraph id="art-13.-para-1">
             <content>
               <p>Artículo 13.- Las disposiciones reglamentarias de esta Ley establecerán las normas de organización
 y funcionamiento del Sistema Nacional de Planeación Democrática y el proceso de planeación a que
@@ -364,9 +357,9 @@ Plan y los programas a que se refiere este ordenamiento.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-14">
-          <num>Artículo 14</num>
-          <paragraph id="art-14-para-1">
+        <article id="art-14.">
+          <num>Artículo 14.</num>
+          <paragraph id="art-14.-para-1">
             <content>
               <p>Artículo 14.- La Secretaría de Hacienda y Crédito Público tendrá las siguientes atribuciones:
 
@@ -407,28 +400,28 @@ condición de discapacidad, tipo de localidad, entre otros.
 . Reformada DOF 16-02-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Párrafo reformado DOF 13-06-2003</p>
           </note>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Fracción reformada DOF 13-06-2003</p>
           </note>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Fracción reformada DOF 13-06-2003</p>
           </note>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Fracción reformada DOF 20-06-2011</p>
           </note>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Fracción reformada DOF 20-06-2011</p>
           </note>
-          <note placementBase="#art-14" placement="bottom">
+          <note placementBase="#art-14." placement="bottom">
             <p>Fracción adicionada DOF 20-06-2011</p>
           </note>
         </article>
-        <article id="art-15">
-          <num>Artículo 15</num>
-          <paragraph id="art-15-para-1">
+        <article id="art-15.">
+          <num>Artículo 15.</num>
+          <paragraph id="art-15.-para-1">
             <content>
               <p>Artículo 15.- A la Secretaría de Hacienda y Crédito Público le corresponde:
 I.- Participar en la elaboración del Plan Nacional de Desarrollo, respecto de la definición de las
@@ -451,13 +444,13 @@ bienes y servicios de la Administración Pública Federal, en el logro de los ob
 y los programas.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-15" placement="bottom">
+          <note placementBase="#art-15." placement="bottom">
             <p>Fracción reformada DOF 13-06-2003</p>
           </note>
         </article>
-        <article id="art-16">
-          <num>Artículo 16</num>
-          <paragraph id="art-16-para-1">
+        <article id="art-16.">
+          <num>Artículo 16.</num>
+          <paragraph id="art-16.-para-1">
             <content>
               <p>Artículo 16.- A las dependencias de la Administración Pública Federal les corresponde:
 , 16-02-2018
@@ -494,34 +487,34 @@ correspondan conforme a su ámbito de atribuciones.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Párrafo reformado DOF 23-05-2002</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 23-05-2002</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 23-05-2002</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-16" placement="bottom">
+          <note placementBase="#art-16." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-17.">
+          <num>Artículo 17.</num>
+          <paragraph id="art-17.-para-1">
             <content>
               <p>Artículo 17.- Las entidades paraestatales deberán:
 I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las
@@ -553,22 +546,22 @@ VI.- Verificar periódicamente la relación que guarden sus actividades, así co
 ejecución con los objetivos y prioridades del programa institucional.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Fracción reformada DOF 23-05-2002</p>
           </note>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Fracción reformada DOF 23-05-2002</p>
           </note>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-17" placement="bottom">
+          <note placementBase="#art-17." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-18">
-          <num>Artículo 18</num>
-          <paragraph id="art-18-para-1">
+        <article id="art-18.">
+          <num>Artículo 18.</num>
+          <paragraph id="art-18.-para-1">
             <content>
               <p>Artículo 18.- La Secretaría de la Función Pública realizará, en los términos de las disposiciones
 aplicables, el control interno y la evaluación de la gestión gubernamental, respecto de las acciones que
@@ -577,13 +570,13 @@ Plan y los programas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-18" placement="bottom">
+          <note placementBase="#art-18." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-19">
-          <num>Artículo 19</num>
-          <paragraph id="art-19-para-1">
+        <article id="art-19.">
+          <num>Artículo 19.</num>
+          <paragraph id="art-19.-para-1">
             <content>
               <p>Artículo 19. El Presidente de la República podrá establecer comisiones intersecretariales para la
 atención de actividades de la planeación nacional que deban desarrollar conjuntamente varias
@@ -595,13 +588,13 @@ Las entidades de la administración pública paraestatal podrán integrarse a di
 subcomisiones, cuando se trate de asuntos relacionados con su objeto.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-19" placement="bottom">
+          <note placementBase="#art-19." placement="bottom">
             <p>Párrafo reformado DOF 09-04-2012</p>
           </note>
         </article>
-        <article id="art-20">
-          <num>Artículo 20</num>
-          <paragraph id="art-20-para-1">
+        <article id="art-20.">
+          <num>Artículo 20.</num>
+          <paragraph id="art-20.-para-1">
             <content>
               <p>Artículo 20.- En el ámbito del Sistema Nacional de Planeación Democrática tendrá lugar la
 participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus
@@ -628,13 +621,13 @@ participación y consulta para la planeación nacional del desarrollo.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo reformado DOF 13-06-2003</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo adicionado DOF 13-06-2003</p>
           </note>
-          <note placementBase="#art-20" placement="bottom">
+          <note placementBase="#art-20." placement="bottom">
             <p>Párrafo reformado DOF 16-02-2018</p>
           </note>
         </article>
@@ -651,9 +644,9 @@ en forma previa, a las comunidades indígenas, para que éstas emitan la opinió
             <p>Artículo adicionado DOF 13-06-2003</p>
           </note>
         </article>
-        <article id="art-21">
-          <num>Artículo 21</num>
-          <paragraph id="art-21-para-1">
+        <article id="art-21.">
+          <num>Artículo 21.</num>
+          <paragraph id="art-21.-para-1">
             <content>
               <p>Artículo 21.- El Presidente de la República enviará el Plan Nacional de Desarrollo a la Cámara de
 Diputados del Congreso de la Unión para su aprobación, a más tardar el último día hábil de febrero del
@@ -688,7 +681,7 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-21" placement="bottom">
+          <note placementBase="#art-21." placement="bottom">
             <p>Artículo reformado DOF 23-05-2002</p>
           </note>
         </article>
@@ -740,9 +733,9 @@ VI.- Los demás elementos que se establezcan en las disposiciones jurídicas apl
             <p>Artículo adicionado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-22">
-          <num>Artículo 22</num>
-          <paragraph id="art-22-para-1">
+        <article id="art-22.">
+          <num>Artículo 22.</num>
+          <paragraph id="art-22.-para-1">
             <content>
               <p>Artículo 22.- El Plan indicará los programas sectoriales, institucionales, regionales y especiales que
 deberán ser elaborados conforme a este capítulo, sin perjuicio de aquellos cuya elaboración se encuentre
@@ -753,13 +746,13 @@ constitucional de la gestión gubernamental en que se aprueben, aunque sus previ
 se refieran a un plazo mayor.</p>
             </content>
           </paragraph>
-          <note placementBase="#art-22" placement="bottom">
+          <note placementBase="#art-22." placement="bottom">
             <p>Párrafo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-23">
-          <num>Artículo 23</num>
-          <paragraph id="art-23-para-1">
+        <article id="art-23.">
+          <num>Artículo 23.</num>
+          <paragraph id="art-23.-para-1">
             <content>
               <p>Artículo 23.- Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan y
 especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector
@@ -773,9 +766,9 @@ Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-24">
-          <num>Artículo 24</num>
-          <paragraph id="art-24-para-1">
+        <article id="art-24.">
+          <num>Artículo 24.</num>
+          <paragraph id="art-24.-para-1">
             <content>
               <p>Artículo 24.- Los programas institucionales se sujetarán a las previsiones contenidas en el Plan y en
 el programa sectorial correspondiente. Las entidades, al elaborar sus programas institucionales, se
@@ -785,13 +778,13 @@ funcionamiento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-24" placement="bottom">
+          <note placementBase="#art-24." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-25">
-          <num>Artículo 25</num>
-          <paragraph id="art-25-para-1">
+        <article id="art-25.">
+          <num>Artículo 25.</num>
+          <paragraph id="art-25.-para-1">
             <content>
               <p>Artículo 25.- Los programas regionales se referirán a las regiones que se consideren prioritarias o
 estratégicas, en función de los objetivos nacionales fijados en el Plan, y cuya extensión territorial rebase
@@ -800,13 +793,13 @@ responsable de coordinar la elaboración y ejecución de cada uno de estos progr
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-25" placement="bottom">
+          <note placementBase="#art-25." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-26">
-          <num>Artículo 26</num>
-          <paragraph id="art-26-para-1">
+        <article id="art-26.">
+          <num>Artículo 26.</num>
+          <paragraph id="art-26.-para-1">
             <content>
               <p>Artículo 26.- Los programas especiales se referirán a las prioridades del desarrollo integral del país,
 fijados en el Plan o a las actividades relacionadas con dos o más dependencias coordinadoras de sector.
@@ -815,7 +808,7 @@ cada uno de estos programas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-26" placement="bottom">
+          <note placementBase="#art-26." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
@@ -847,9 +840,9 @@ VI.- Los demás que se establezcan en las disposiciones jurídicas aplicables.
             <p>Artículo adicionado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-27">
-          <num>Artículo 27</num>
-          <paragraph id="art-27-para-1">
+        <article id="art-27.">
+          <num>Artículo 27.</num>
+          <paragraph id="art-27.-para-1">
             <content>
               <p>Artículo 27.- Para la ejecución del Plan y los programas sectoriales, institucionales, regionales y
 especiales, las dependencias, entidades y el Consejo Nacional de Humanidades, Ciencias y Tecnologías
@@ -859,13 +852,13 @@ tecnologías e innovación correspondientes.
 , 27-01-2012, 16-02-2018, 08-05-2023</p>
             </content>
           </paragraph>
-          <note placementBase="#art-27" placement="bottom">
+          <note placementBase="#art-27." placement="bottom">
             <p>Artículo reformado DOF 23-05-2002</p>
           </note>
         </article>
-        <article id="art-28">
-          <num>Artículo 28</num>
-          <paragraph id="art-28-para-1">
+        <article id="art-28.">
+          <num>Artículo 28.</num>
+          <paragraph id="art-28.-para-1">
             <content>
               <p>Artículo 28.- El Plan y los programas a que se refieren los artículos anteriores especificarán las
 acciones que serán objeto de coordinación con los gobiernos de las entidades federativas y de inducción
@@ -878,13 +871,13 @@ Secretaría General
 Secretaría de Servicios Parlamentarios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-28" placement="bottom">
+          <note placementBase="#art-28." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-29">
-          <num>Artículo 29</num>
-          <paragraph id="art-29-para-1">
+        <article id="art-29.">
+          <num>Artículo 29.</num>
+          <paragraph id="art-29.-para-1">
             <content>
               <p>Artículo 29.- Los programas regionales y especiales deberán ser sometidos por la Secretaría de
 Hacienda y Crédito Público a la consideración y aprobación del Presidente de la República.
@@ -901,19 +894,19 @@ anterior corresponderá a la Secretaría de Hacienda y Crédito Público.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 13-06-2003</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 09-04-2012</p>
           </note>
-          <note placementBase="#art-29" placement="bottom">
+          <note placementBase="#art-29." placement="bottom">
             <p>Párrafo reformado DOF 13-06-2003</p>
           </note>
         </article>
-        <article id="art-30">
-          <num>Artículo 30</num>
-          <paragraph id="art-30-para-1">
+        <article id="art-30.">
+          <num>Artículo 30.</num>
+          <paragraph id="art-30.-para-1">
             <content>
               <p>Artículo 30.- Los programas sectoriales, regionales, especiales e institucionales deberán ser
 publicados en el Diario Oficial de la Federación, en los plazos previstos por las disposiciones que al
@@ -922,13 +915,13 @@ el Ejecutivo Federal, deberán publicarse dentro de los seis meses posteriores a
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-30" placement="bottom">
+          <note placementBase="#art-30." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-31">
-          <num>Artículo 31</num>
-          <paragraph id="art-31-para-1">
+        <article id="art-31.">
+          <num>Artículo 31.</num>
+          <paragraph id="art-31.-para-1">
             <content>
               <p>Artículo 31.- Los programas serán revisados por el Ejecutivo Federal en los términos que determinen
 las disposiciones reglamentarias, considerando la participación social, incluyendo la de los pueblos y
@@ -941,13 +934,13 @@ funcionamiento.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-31" placement="bottom">
+          <note placementBase="#art-31." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-32">
-          <num>Artículo 32</num>
-          <paragraph id="art-32-para-1">
+        <article id="art-32.">
+          <num>Artículo 32.</num>
+          <paragraph id="art-32.-para-1">
             <content>
               <p>Artículo 32.- Una vez aprobados el Plan y los programas, serán obligatorios para las dependencias
 de la Administración Pública Federal, en el ámbito de sus respectivas competencias.
@@ -965,13 +958,13 @@ entidades federativas o a los órganos constitucionales autónomos, a través de
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-32" placement="bottom">
+          <note placementBase="#art-32." placement="bottom">
             <p>Párrafo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-33">
-          <num>Artículo 33</num>
-          <paragraph id="art-33-para-1">
+        <article id="art-33.">
+          <num>Artículo 33.</num>
+          <paragraph id="art-33.-para-1">
             <content>
               <p>Artículo 33.- El Ejecutivo Federal podrá convenir con los órganos constitucionales autónomos y los
 gobiernos de las entidades federativas, satisfaciendo las formalidades que en cada caso procedan, la
@@ -983,13 +976,13 @@ considerar la participación que corresponda a los municipios y demarcaciones te
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-33" placement="bottom">
+          <note placementBase="#art-33." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-34">
-          <num>Artículo 34</num>
-          <paragraph id="art-34-para-1">
+        <article id="art-34.">
+          <num>Artículo 34.</num>
+          <paragraph id="art-34.-para-1">
             <content>
               <p>Artículo 34.- Para los efectos del artículo anterior, el Ejecutivo Federal podrá convenir con los
 gobiernos de las entidades federativas:
@@ -1015,22 +1008,22 @@ señalen las dependencias coordinadoras de sector, conforme a sus atribuciones.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Fracción reformada DOF 16-02-2018</p>
           </note>
-          <note placementBase="#art-34" placement="bottom">
+          <note placementBase="#art-34." placement="bottom">
             <p>Párrafo reformado DOF 13-06-2003</p>
           </note>
         </article>
-        <article id="art-35">
-          <num>Artículo 35</num>
-          <paragraph id="art-35-para-1">
+        <article id="art-35.">
+          <num>Artículo 35.</num>
+          <paragraph id="art-35.-para-1">
             <content>
               <p>Artículo 35.- En la celebración de los convenios a que se refiere este capítulo, el Ejecutivo Federal
 definirá la participación de los órganos de la Administración Pública centralizada que actúen en las
@@ -1039,18 +1032,18 @@ entidades.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-36">
-          <num>Artículo 36</num>
-          <paragraph id="art-36-para-1">
+        <article id="art-36.">
+          <num>Artículo 36.</num>
+          <paragraph id="art-36.-para-1">
             <content>
               <p>Artículo 36.- El Ejecutivo Federal ordenará la publicación, en el Diario Oficial de la Federación, de
 los convenios que se suscriban con los gobiernos de las entidades federativas.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-37">
-          <num>Artículo 37</num>
-          <paragraph id="art-37-para-1">
+        <article id="art-37.">
+          <num>Artículo 37.</num>
+          <paragraph id="art-37.-para-1">
             <content>
               <p>Artículo 37.- El Ejecutivo Federal, por sí o a través de sus dependencias, y las entidades
 paraestatales, podrán concertar la realización de las acciones previstas en el Plan y los programas, con
@@ -1068,16 +1061,16 @@ en las leyes que rijan en la materia de que se trate.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo reformado DOF 15-01-2026</p>
           </note>
-          <note placementBase="#art-37" placement="bottom">
+          <note placementBase="#art-37." placement="bottom">
             <p>Párrafo adicionado DOF 13-06-2003</p>
           </note>
         </article>
-        <article id="art-38">
-          <num>Artículo 38</num>
-          <paragraph id="art-38-para-1">
+        <article id="art-38.">
+          <num>Artículo 38.</num>
+          <paragraph id="art-38.-para-1">
             <content>
               <p>Artículo 38.- La concertación a que se refiere el artículo anterior será objeto de contratos o convenios
 de cumplimiento obligatorio para las partes que lo celebren, en los cuales se establecerán las
@@ -1086,9 +1079,9 @@ garantizar su ejecución en tiempo y forma.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-39">
-          <num>Artículo 39</num>
-          <paragraph id="art-39-para-1">
+        <article id="art-39.">
+          <num>Artículo 39.</num>
+          <paragraph id="art-39.-para-1">
             <content>
               <p>Artículo 39.- Los contratos y convenios que se celebren conforme a este capítulo se consideran de
 Derecho Público.
@@ -1097,9 +1090,9 @@ convenios, serán resueltos por los tribunales federales.</p>
             </content>
           </paragraph>
         </article>
-        <article id="art-40">
-          <num>Artículo 40</num>
-          <paragraph id="art-40-para-1">
+        <article id="art-40.">
+          <num>Artículo 40.</num>
+          <paragraph id="art-40.-para-1">
             <content>
               <p>Artículo 40.- Los proyectos de Presupuesto de Egresos de la Federación; las iniciativas de las leyes
 de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir
@@ -1111,13 +1104,13 @@ sociales o con los particulares interesados.
 , 27-01-2012, 09-04-2012, 16-02-2018</p>
             </content>
           </paragraph>
-          <note placementBase="#art-40" placement="bottom">
+          <note placementBase="#art-40." placement="bottom">
             <p>Artículo reformado DOF 23-05-2002</p>
           </note>
         </article>
-        <article id="art-41">
-          <num>Artículo 41</num>
-          <paragraph id="art-41-para-1">
+        <article id="art-41.">
+          <num>Artículo 41.</num>
+          <paragraph id="art-41.-para-1">
             <content>
               <p>Artículo 41.- Las políticas que normen el ejercicio de las atribuciones que las leyes confieran al
 Ejecutivo Federal para fomentar, promover, regular, restringir, orientar, prohibir, y, en general, inducir
@@ -1128,13 +1121,13 @@ CAPITULO SEPTIMO
 Responsabilidades</p>
             </content>
           </paragraph>
-          <note placementBase="#art-41" placement="bottom">
+          <note placementBase="#art-41." placement="bottom">
             <p>Artículo reformado DOF 23-05-2002</p>
           </note>
         </article>
-        <article id="art-42">
-          <num>Artículo 42</num>
-          <paragraph id="art-42-para-1">
+        <article id="art-42.">
+          <num>Artículo 42.</num>
+          <paragraph id="art-42.-para-1">
             <content>
               <p>Artículo 42.- A los servidores públicos de la Administración Pública Federal, que en el ejercicio de sus
 funciones contravengan las disposiciones de esta Ley, se les sancionará en términos de la Ley General
@@ -1142,26 +1135,26 @@ de Responsabilidades Administrativas.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-42" placement="bottom">
+          <note placementBase="#art-42." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-43">
-          <num>Artículo 43</num>
-          <paragraph id="art-43-para-1">
+        <article id="art-43.">
+          <num>Artículo 43.</num>
+          <paragraph id="art-43.-para-1">
             <content>
               <p>Artículo 43.- Las responsabilidades a que se refiere el artículo anterior, son independientes de las de
 orden penal o político que se puedan derivar de los mismos hechos.
 </p>
             </content>
           </paragraph>
-          <note placementBase="#art-43" placement="bottom">
+          <note placementBase="#art-43." placement="bottom">
             <p>Artículo reformado DOF 16-02-2018</p>
           </note>
         </article>
-        <article id="art-44">
-          <num>Artículo 44</num>
-          <paragraph id="art-44-para-1">
+        <article id="art-44.">
+          <num>Artículo 44.</num>
+          <paragraph id="art-44.-para-1">
             <content>
               <p>Artículo 44.- Se deroga.
 
@@ -1209,15 +1202,46 @@ ARTÍCULO ÚNICO.- Se reforman los artículos 2, párrafo primero y fracción II
 9, párrafo primero; 16, fracciones I y III; 17, fracciones I y II; 21, párrafo segundo; 27; 40, párrafo primero
 y 41 de la Ley de Planeación para quedar como sigue:
 ..........
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO.- Se derogan todas las disposiciones de carácter legal que se contrapongan con el
-presente Decreto; y se dejan sin efecto las disposiciones de carácter administrativo que lo contravengan.
-TERCERO.- Hasta en tanto no se emitan las disposiciones reglamentarias correspondientes, se
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+          <note placementBase="#art-44." placement="bottom">
+            <p>Artículo derogado DOF 16-02-2018</p>
+          </note>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Se derogan todas las disposiciones de carácter legal que se contrapongan con el
+presente Decreto; y se dejan sin efecto las disposiciones de carácter administrativo que lo contravengan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO.- Hasta en tanto no se emitan las disposiciones reglamentarias correspondientes, se
 seguirán aplicando las vigentes a la fecha de entrada del presente Decreto en cuanto no se le
-contrapongan.
-CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposiciones del presente
+contrapongan.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposiciones del presente
 Decreto para la elaboración del Plan Nacional de Desarrollo para el periodo presidencial 2000-2006; e
 instruirá a las dependencias de la administración pública centralizada y paraestatal, para que en la
 elaboración de los programas sectoriales respectivos a dicho periodo, se apliquen estrictamente los
@@ -1310,10 +1334,24 @@ ARTÍCULO ÚNICO.- Se reforman los artículos 2, fracciones IV, VI y VII; 3, seg
 segundo párrafo; 21, segundo párrafo; 27, y 40, primer párrafo; y se adiciona una fracción VIII al artículo
 2, todos de la Ley de Planeación, para quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
-Oficial de la Federación.
-SEGUNDO.- Los Estados deberán adecuar sus leyes de la materia conforme a lo dispuesto en este
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO.- Los Estados deberán adecuar sus leyes de la materia conforme a lo dispuesto en este
 Decreto.
 México, D.F., a 14 de diciembre de 2011.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Balfre Vargas Cortez, Secretario.- Sen. Adrián Rivera Pérez,
@@ -1338,10 +1376,24 @@ ARTÍCULO DÉCIMO NOVENO. Se reforman los artículos 6o, tercer párrafo; 8o, pr
 segundo párrafo; 11; 18; 19, primer párrafo; 29, segundo párrafo; y 40, primer párrafo, de la Ley de
 Planeación, para quedar como sigue:
 ……….
-TRANSITORIOS
-Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
-la Federación.
-Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las
 disposiciones que contravengan o se opongan al mismo.
 México, D.F., a 21 de febrero de 2012.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. José
 González Morfín, Presidente.- Dip. Laura Arizmendi Campos, Secretaria.- Sen. Renán Cleominio
@@ -1363,34 +1415,76 @@ Publicado en el Diario Oficial de la Federación el 6 de mayo de 2015
 ARTÍCULO SEGUNDO.- Se adiciona un artículo 21 Bis a la Ley de Planeación, para quedar como
 sigue:
 ………
-TRANSITORIOS
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- Durante la presente Administración del Ejecutivo Federal, la política nacional de fomento
 económico se implementará a través del Programa para Democratizar la Productividad 2013 – 2018,
 aprobado por Decreto publicado en el Diario Oficial de la Federación el 30 de agosto de 2013, sin
 perjuicio de que, en su caso, éste pueda modificarse en términos de la Ley de Planeación, previa opinión
-del Comité Nacional de Productividad.
-Tercero.- El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el
+del Comité Nacional de Productividad.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el
 Decreto por el que se establece el Comité Nacional de Productividad, publicado en el Diario Oficial de la
 Federación el 17 de mayo de 2013, en tanto no se reforme el mismo, salvo en lo que dicho instrumento
 se oponga a la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la
 Economía Nacional.
 Las designaciones de los integrantes del Comité Nacional de Productividad que se hayan realizado de
-conformidad con el Decreto antes señalado, se mantendrán en sus términos.
-Cuarto.- Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del
+conformidad con el Decreto antes señalado, se mantendrán en sus términos.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del
 presente Decreto, el Comité Nacional de Productividad deberá, en su caso, hacer las adecuaciones
 correspondientes a sus lineamientos de operación, a efecto de dar cumplimiento a las disposiciones
 establecidas en la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de
-la Economía Nacional.
-Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los
+la Economía Nacional.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los
 que hace referencia el artículo 19, párrafo segundo, de la Ley para Impulsar el Incremento Sostenido de
 la Productividad y la Competitividad de la Economía Nacional, a más tardar 60 días naturales después de
 haber concluido el primer semestre posterior a la entrada en vigor del presente Decreto.
 La Secretaría contará con un plazo de seis meses contados a partir de la entrada en vigor del
 presente Decreto, para cumplir con lo establecido en el artículo 18, párrafo primero de la Ley para
-Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.
-Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
+Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto
 deberán cubrirse con cargo al presupuesto aprobado a las dependencias y entidades de la
 Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que
 corresponda.
@@ -1398,8 +1492,15 @@ corresponda.
 LEY DE PLANEACIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Séptimo.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este
 Decreto.
 México, D.F., a 19 de marzo de 2015.- Dip. Julio César Moreno Rivera, Presidente.- Sen. Miguel
 Barbosa Huerta, Presidente.- Dip. Javier Orozco Gómez, Secretario.- Sen. Lucero Saldaña Pérez,
@@ -1421,25 +1522,60 @@ Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2016
 ARTÍCULO SEGUNDO.- Se reforma el primer párrafo del artículo 3o. de la Ley de Planeación, para
 quedar como sigue:
 ……….
-TRANSITORIOS
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
-de la Federación.
-SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la
+TRANSITORIOS</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>SEGUNDO. Se abroga la Ley General de Asentamientos Humanos publicada en el Diario Oficial de la
 Federación el 21 de julio de 1993 y se derogan todas las disposiciones legales y reglamentarias que se
-opongan a lo establecido en la presente Ley.
-TERCERO. En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las
+opongan a lo establecido en la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>TERCERO. En un plazo de un año contado a partir de la entrada en vigor del presente Decreto, las
 autoridades de los tres órdenes de gobierno deberán crear o adecuar todas las disposiciones legales y
 reglamentarias relacionadas con los contenidos de este instrumento.
 En el caso de la Ciudad de México, la Legislatura de la Ciudad de México, las autoridades del
 gobierno central y de las Demarcaciones Territoriales correspondientes, deberán efectuar las
 adecuaciones legislativas y reglamentarias de conformidad con lo dispuesto en el artículo 122 de la
 Constitución Política de los Estados Unidos Mexicanos y con las disposiciones de la Constitución de la
-Ciudad de México una vez que entren en vigor.
-CUARTO. En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el
+Ciudad de México una vez que entren en vigor.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>CUARTO. En un plazo de seis meses contado a partir de la entrada en vigor de este Decreto, el
 Congreso de la Unión deberá reformar las disposiciones legales correspondientes con el objeto de
 ampliar las facultades de la Procuraduría Agraria, a fin de garantizar la procuración de la defensa de los
-derechos humanos vinculados al ordenamiento territorial.
-QUINTO. En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se
+derechos humanos vinculados al ordenamiento territorial.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>QUINTO. En un plazo de dos años contado a partir de la entrada en vigor de este Decreto, se
 formularán, o adecuarán los planes y programas de Desarrollo Urbano de los Centros de Población
 mayores a cien mil habitantes, así como los planes nacional, estatales y metropolitanos, incluyendo todos
 los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los
@@ -1447,8 +1583,15 @@ instrumentos de participación democrática y ciudadana contenidos en el Título
 que se expide.
 Los registros públicos de la propiedad, los catastros y el Registro Agrario Nacional estarán a lo
 señalado en los artículos 60, 111 y 112 del presente Decreto, una vez que sean adecuados los planes y
-programas mencionados en el párrafo anterior.
-SEXTO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la
+programas mencionados en el párrafo anterior.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>SEXTO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, el titular de la
 Secretaría, por conducto de la Secretaría de Desarrollo Agrario, Territorial y Urbano deberá convocar a la
 sesión de instalación del Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano.
 Los gobiernos locales y municipales, convocarán en el mismo plazo a las sesiones de instalación de
@@ -1457,42 +1600,105 @@ los Consejos Locales y Municipales de Ordenamiento Territorial, Desarrollo Urban
 LEY DE PLANEACIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
 Secretaría General
-Secretaría de Servicios Parlamentarios
-SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>SÉPTIMO. En un plazo no mayor de seis meses a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los lineamientos para la integración y
-funcionamiento del Consejo Nacional.
-OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
+funcionamiento del Consejo Nacional.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>OCTAVO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, expedirá los lineamientos en materia de
 equipamiento, infraestructura y vinculación con el entorno, a que se sujetarán las acciones de suelo
 financiadas con recursos federales, así como las de los organismos que financien vivienda para los
-trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.
-NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
+trabajadores de acuerdo con el artículo 8, fracción IV de la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>NOVENO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, emitirá los criterios y lineamientos normativos para
 la delimitación territorial de las zonas metropolitanas y conurbaciones. Asimismo, en el mismo plazo, la
 Secretaría emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos
 para medir y asegurar que los proyectos y acciones vinculados con las materias de interés metropolitano,
-cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.
-DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e
+cumplan con su objetivo, de acuerdo con los artículos 8, fracción XVI y 35 de la Ley que se expide.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO. En un plazo de seis meses, la Secretaría de Desarrollo Agrario, Territorial y Urbano creará e
 iniciará las operaciones del sistema de información territorial y urbano de acuerdo al artículo 97 de la Ley
-que se expide.
-DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la
+que se expide.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO PRIMERO. En un plazo de seis meses a partir de la entrada en vigor de este Decreto, la
 Secretaría de Desarrollo Agrario, Territorial y Urbano, establecerá los lineamientos para la certificación de
 especialistas en gestión territorial, que coadyuven y tengan una participación responsable en el proceso
 de evaluación del impacto territorial, así como en otros temas para el cumplimiento y aplicación del
-presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.
-DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto,
+presente ordenamiento, de acuerdo con el artículo 95 de la Ley que se expide.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO SEGUNDO. En un plazo de un año contado a partir de la entrada en vigor de este Decreto,
 las legislaturas locales adecuarán sus códigos penales para que se configuren como delitos las
 conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular
-de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.
-DÉCIMO TERCERO. En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto,
+de áreas o predios de conformidad con los artículos 10, fracción XII y 118 de la Ley que se expide.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO TERCERO. En un plazo no mayor a un año a partir de la entrada en vigor de este Decreto,
 el Congreso de la Unión deberá adecuar las disposiciones legales para establecer las sanciones a
 quienes autoricen, ordenen, edifiquen o realicen obras de infraestructura y asentamientos humanos en
-zonas de riesgo.
-DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de este
+zonas de riesgo.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO CUARTO. En un plazo no mayor a seis meses a partir de la entrada en vigor de este
 Decreto, el Congreso de la Unión deberá realizar las adecuaciones a la Ley del Sistema Nacional de
 Información Estadística y Geográfica que incorpore el Subsistema Nacional de Ordenamiento Territorial y
-Urbano.
-DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente
+Urbano.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente
 Decreto para la Secretaría de Desarrollo Agrario, Territorial y Urbano, se cubrirán con cargo a su
 presupuesto aprobado para el presente ejercicio fiscal y los subsecuentes.
 Asimismo, las entidades federativas deberán realizar las previsiones y adecuaciones presupuestales
@@ -1525,10 +1731,24 @@ párrafo; 30; 31; 32, quinto párrafo; 33; 34, fracciones II y IV; 40; 42, y 43;
 con una fracción IV, recorriéndose las subsecuentes en su orden; 21 Ter, y 26 Bis, y se derogan la
 fracción VI del artículo 14 y el artículo 44, de la Ley de Planeación, para quedar como sigue:
 ………
-Transitorios
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
-de la Federación.
-Segundo.- La reforma al artículo 6o. entrará en vigor el 1o. de abril de 2018.
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial
+de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo.- La reforma al artículo 6o. entrará en vigor el 1o. de abril de 2018.
 Asimismo, la reforma al primer párrafo del artículo 21 entrará en vigor el 1o. de octubre de 2024, por lo
 que el Presidente de la República que comience su mandato el 1o. de diciembre de 2018 enviará el Plan
 Nacional de Desarrollo a la Cámara de Diputados del Congreso de la Unión para su aprobación, a más
@@ -1536,20 +1756,48 @@ tardar el último día hábil de abril del año siguiente a su toma de posesión
 Para efectos de lo previsto en el párrafo anterior, la Comisión Permanente del Congreso de la Unión
 convocará, en caso de ser necesario, a un periodo extraordinario de sesiones de la Cámara de Diputados
 para que ésta apruebe dicho Plan, en un plazo máximo de dos meses, contado a partir de que haya
-recibido el referido Plan por parte del Ejecutivo Federal.
-Tercero.- El Ejecutivo Federal deberá expedir el Reglamento de esta Ley en un plazo no mayor a 180
-días naturales contados a partir de la entrada en vigor del presente Decreto.
-Cuarto.- La Secretaría de Hacienda y Crédito Público deberá implementar un sistema informático para
+recibido el referido Plan por parte del Ejecutivo Federal.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero.- El Ejecutivo Federal deberá expedir el Reglamento de esta Ley en un plazo no mayor a 180
+días naturales contados a partir de la entrada en vigor del presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto.- La Secretaría de Hacienda y Crédito Público deberá implementar un sistema informático para
 dar seguimiento a los avances de las dependencias y entidades de la Administración Pública Federal, en
 el logro de los objetivos y metas del Plan Nacional de Desarrollo y sus programas, conforme lo previsto
-en el artículo 9o. de la Ley y en el reglamento de la misma.
-Quinto.- Las Administraciones Públicas Federales correspondientes a los períodos 2018-2024 y 2024-
+en el artículo 9o. de la Ley y en el reglamento de la misma.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto.- Las Administraciones Públicas Federales correspondientes a los períodos 2018-2024 y 2024-
 2030 podrán considerar en su contenido las estrategias para el logro de los Objetivos de Desarrollo
 Sostenible y sus metas, contenidos en la Agenda 2030 para el Desarrollo Sostenible.
 Para efectos de lo anterior, en los procesos de elaboración de los proyectos de dichos planes se
 considerarán las propuestas que, en su caso, elabore el Consejo Nacional de la Agenda 2030 para el
-Desarrollo Sostenible.
-Sexto.- Se derogan las disposiciones que sean contrarias a lo previsto en el presente Decreto.
+Desarrollo Sostenible.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto.- Se derogan las disposiciones que sean contrarias a lo previsto en el presente Decreto.
 Ciudad de México, a 13 de diciembre de 2017.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Sen.
 Ernesto Cordero Arroyo, Presidente.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Sen. Juan G.
 Flores Ramírez, Secretario.- Rúbricas."
@@ -1572,43 +1820,89 @@ DECRETO por el que se expide la Ley General en Materia de Humanidades, Ciencias,
 Tecnologías e Innovación, y se reforman y adicionan diversas disposiciones de la Ley
 Federal de las Entidades Paraestatales y de la Ley de Planeación.
 Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023
-Artículo Tercero. Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adiciona al</p>
+Artículo Tercero. Se reforman los artículos 17, fracción I; 27 y 29, párrafo segundo y se adiciona al
+artículo 17, fracción I, el párrafo segundo, de la Ley de Planeación, para quedar como sigue:
+……..
+Transitorios</p>
             </content>
           </paragraph>
-          <note placementBase="#art-44" placement="bottom">
-            <p>Artículo derogado DOF 16-02-2018</p>
-          </note>
         </article>
-        <article id="art-17">
-          <num>Artículo 17</num>
-          <paragraph id="art-17-para-1">
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
             <content>
-              <p>artículo 17, fracción I, el párrafo segundo, de la Ley de Planeación, para quedar como sigue:
-……..
-Transitorios
-Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
-la Federación.
-Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de
-Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.
-Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-Cuarto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos,
+              <p>Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de
+la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de
+Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos,
 normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley
 de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, se
-entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.
-Quinto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos,
+entenderán hechas a la Ley General en materia de Humanidades, Ciencias, Tecnologías e Innovación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. A partir de la entrada en vigor de esta Ley, todas las referencias en otros ordenamientos,
 normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo Nacional de
 Ciencia y Tecnología se entenderán hechas al Consejo Nacional de Humanidades, Ciencias y
-Tecnologías.
-Sexto. En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo
+Tecnologías.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. En un plazo de un año, contado a partir de la entrada en vigor de esta Ley, el Consejo
 Nacional expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento
-legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
-Séptimo. Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de
+legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. Las atribuciones con que cuentan las unidades administrativas del Consejo Nacional de
 Ciencia y Tecnología y que en virtud de la presente ley deban ser modificadas, continuarán vigentes en
 términos de la normativa aplicable hasta que entren en vigor las nuevas disposiciones. Hasta que esto
 suceda, en caso de controversia y con el propósito de dar cumplimiento a los principios y reglas previstos
 en esta Ley, la persona titular de la Dirección General del Consejo Nacional definirá la distribución
-necesaria de facultades.
-Octavo. En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de
+necesaria de facultades.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-8">
+          <num>Artículo 8</num>
+          <paragraph id="art-8-para-1">
+            <content>
+              <p>Octavo. En el plazo de un año, contado a partir de la entrada en vigor del presente Decreto y de
 conformidad con lo previsto en esta Ley, los poderes legislativos de las entidades federativas, en el
 ámbito de su competencia, deberán emitir las disposiciones legales necesarias para armonizar su marco
 jurídico y regular las atribuciones de las autoridades locales, así como de los municipios y de las
@@ -1620,48 +1914,118 @@ Investigación.
 LEY DE PLANEACIÓN
 CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
 Secretaría General
-Secretaría de Servicios Parlamentarios
-Noveno. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con
+Secretaría de Servicios Parlamentarios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-9">
+          <num>Artículo 9</num>
+          <paragraph id="art-9-para-1">
+            <content>
+              <p>Noveno. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con
 anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán
 de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron
-iniciados.
-Décimo. Las autoridades competentes deberán realizar las acciones necesarias para terminar
+iniciados.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo. Las autoridades competentes deberán realizar las acciones necesarias para terminar
 anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés
-público.
-Décimo Primero. El Consejo Nacional, las autoridades y las instancias competentes realizarán las
+público.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Primero. El Consejo Nacional, las autoridades y las instancias competentes realizarán las
 gestiones necesarias para adecuar la normativa aplicable a los mecanismos e instrumentos públicos de
-fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.
-Décimo Segundo. A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos,
+fomento y apoyo a que se refiere esta Ley, en los términos que ésta prevé.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Segundo. A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos,
 normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Integrado de
 Información sobre Investigación Científica, Desarrollo Tecnológico e Innovación se entenderán hechas al
-Sistema Nacional de Información.
-Décimo Tercero. A las constancias de inscripción definitiva y cualquier otra que haya emitido el
+Sistema Nacional de Información.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Tercero. A las constancias de inscripción definitiva y cualquier otra que haya emitido el
 Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas
 Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les
 reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.
 Al término del plazo señalado en el párrafo anterior, sólo se reconocerá el registro que para el efecto
-se realice en el Sistema Nacional de Información.
-Décimo Cuarto. A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos,
+se realice en el Sistema Nacional de Información.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Cuarto. A partir de la entrada en vigor de esta Ley, las referencias en otros ordenamientos,
 normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Repositorio Nacional de
 Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés
 Social y Cultural, se entenderán hechas al Repositorio Nacional en Materia de Humanidades, Ciencias,
-Tecnologías e Innovación.
-Décimo Quinto. En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley,
+Tecnologías e Innovación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Quinto. En un plazo no mayor a un año, contado a partir de la entrada en vigor de esta Ley,
 los Órganos de Gobierno de los Centros Públicos de Investigación previstos y regulados en las leyes que
 se abrogan conforme al transitorio segundo, aprobarán las modificaciones necesarias en su normativa
 para cumplir con los principios y reglas de esta Ley. Transcurrido dicho plazo sin que se hubieren
 realizado las modificaciones señaladas, el Consejo Nacional, a través de su Junta de Gobierno, quedará
-facultado para realizarlas directamente.
-Décimo Sexto. En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros
+facultado para realizarlas directamente.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Sexto. En un plazo no mayor a ciento ochenta días, el Consejo Nacional y los Centros
 Públicos llevarán a cabo las gestiones necesarias para terminar anticipadamente los convenios de
 administración por resultados que hubieren celebrado el Consejo Nacional de Ciencia y Tecnología y los
 Centros Públicos de Investigación, respectivamente.
 Asimismo, en un plazo igual, los Centros Públicos realizarán las gestiones necesarias para elaborar
-los Programas Institucionales a que se refiere esta Ley.
-Décimo Séptimo. La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de
+los Programas Institucionales a que se refiere esta Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Séptimo. La entrada en vigor de esta Ley no afectará el régimen ni los derechos laborales de
 los trabajadores del Consejo Nacional de Ciencia y Tecnología y de los Centros Públicos de
-Investigación.
-Décimo Octavo. En un plazo no mayor a ciento ochenta días, las instancias competentes deberán
+Investigación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Octavo. En un plazo no mayor a ciento ochenta días, las instancias competentes deberán
 adecuar el Programa Especial de Ciencia, Tecnología e Innovación a lo dispuesto en la presente Ley. A
 29 de 32
 LEY DE PLANEACIÓN
@@ -1669,22 +2033,50 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Última Reforma DOF 15-01-2026
 Secretaría General
 Secretaría de Servicios Parlamentarios
 partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro
-de un plazo de ciento ochenta días.
-Décimo Noveno. Las erogaciones que se generen con motivo de la entrada en vigor de la presente
+de un plazo de ciento ochenta días.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-10">
+          <num>Artículo 10</num>
+          <paragraph id="art-10-para-1">
+            <content>
+              <p>Décimo Noveno. Las erogaciones que se generen con motivo de la entrada en vigor de la presente
 Ley, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo Nacional de Ciencia y
 Tecnología (ahora Consejo Nacional de Humanidades, Ciencias y Tecnologías), así como de las
 entidades paraestatales reconocidas como Centros Públicos de Investigación, y demás entes de la
 Administración Pública Federal involucrados en la implementación de la presente Ley, por lo que no se
 autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y
 subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante
-movimientos compensados conforme a las disposiciones jurídicas aplicables.
-Vigésimo. Las legislaturas de las entidades federativas, en los términos de la legislación aplicable,
+movimientos compensados conforme a las disposiciones jurídicas aplicables.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-20">
+          <num>Artículo 20</num>
+          <paragraph id="art-20-para-1">
+            <content>
+              <p>Vigésimo. Las legislaturas de las entidades federativas, en los términos de la legislación aplicable,
 deberán destinar los recursos para el cumplimiento de las obligaciones que les compete en términos de
-la presente Ley.
-Vigésimo Primero. Las entidades paraestatales reconocidas como Centros Públicos de Investigación
+la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-20">
+          <num>Artículo 20</num>
+          <paragraph id="art-20-para-1">
+            <content>
+              <p>Vigésimo Primero. Las entidades paraestatales reconocidas como Centros Públicos de Investigación
 con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo
-dispuesto en la presente Ley.
-Vigésimo Segundo. Los Centros Públicos sin estructura propia constituirán los órganos de gobierno,
+dispuesto en la presente Ley.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-20">
+          <num>Artículo 20</num>
+          <paragraph id="art-20-para-1">
+            <content>
+              <p>Vigésimo Segundo. Los Centros Públicos sin estructura propia constituirán los órganos de gobierno,
 dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de
 creación y la demás normativa que les resulte aplicable.
 Ciudad de México, a 28 de abril de 2023.- Dip. Santiago Creel Miranda, Presidente.- Sen.
@@ -1717,26 +2109,75 @@ Artículo Décimo Segundo.- Se reforman los artículos 2o., fracción VII; 8o., 
 párrafos; 9o., primer párrafo; 26 Bis, fracción V y 37, primer párrafo, de la Ley de Planeación, para quedar
 como sigue:
 …….
-Transitorios
-Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario
-Oficial de la Federación.
-Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la
+Transitorios</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-1">
+          <num>Artículo 1</num>
+          <paragraph id="art-1-para-1">
+            <content>
+              <p>Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario
+Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-2">
+          <num>Artículo 2</num>
+          <paragraph id="art-2-para-1">
+            <content>
+              <p>Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la
 Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en
-el presente Decreto.
-Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
+el presente Decreto.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-3">
+          <num>Artículo 3</num>
+          <paragraph id="art-3-para-1">
+            <content>
+              <p>Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
 General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley
-General de Acceso de las Mujeres a una Vida Libre de Violencias.
-Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las
+General de Acceso de las Mujeres a una Vida Libre de Violencias.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-4">
+          <num>Artículo 4</num>
+          <paragraph id="art-4-para-1">
+            <content>
+              <p>Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las
 demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y
 reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar
-cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
-Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
+cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-5">
+          <num>Artículo 5</num>
+          <paragraph id="art-5-para-1">
+            <content>
+              <p>Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se
 realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo
-que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
-Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este
+que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-6">
+          <num>Artículo 6</num>
+          <paragraph id="art-6-para-1">
+            <content>
+              <p>Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este
 Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto
-publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
-Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
+publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.</p>
+            </content>
+          </paragraph>
+        </article>
+        <article id="art-7">
+          <num>Artículo 7</num>
+          <paragraph id="art-7-para-1">
+            <content>
+              <p>Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley
 General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la
 Igualdad Sustantiva entre Mujeres y Hombres.
 31 de 32
