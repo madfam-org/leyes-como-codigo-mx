@@ -30,6 +30,7 @@ requests = "^2.31"
 drf-spectacular = "^0.29.0"
 django-celery-beat = "^2.8.1"
 pdfplumber = "^0.11.9"
+psycopg2-binary = "^2.9.11"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.0"

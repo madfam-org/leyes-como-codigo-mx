@@ -17,6 +17,7 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     pkg-config \
     libgmp-dev \
+    libpq-dev \
     libxml2-dev \
     libxslt-dev \
     wget \

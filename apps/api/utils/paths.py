@@ -15,6 +15,22 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 ES_HOST = os.getenv("ES_HOST", "http://localhost:9200")
 
 
+def _strip_host_prefix(path_str: str) -> str:
+    """Strip absolute host project root from paths embedded in metadata JSON.
+
+    Metadata files may contain absolute paths like
+    ``/Users/.../leyes-como-codigo-mx/data/state_laws/...``.  Inside Docker the
+    project root is ``/app/``, so we extract the relative portion (e.g.
+    ``data/state_laws/...``) to allow the normal candidate logic to find them.
+    """
+    # Common host-side project root markers
+    marker = "leyes-como-codigo-mx/"
+    idx = path_str.find(marker)
+    if idx != -1:
+        return path_str[idx + len(marker) :]
+    return path_str
+
+
 def resolve_data_path(relative_path: str) -> Path:
     """
     Resolve a data path to an absolute path.
@@ -23,6 +39,7 @@ def resolve_data_path(relative_path: str) -> Path:
     - Absolute paths (returned as-is if they exist)
     - /app/ prefixed paths (Docker)
     - Relative paths (checked against BASE_DIR then cwd)
+    - Absolute host paths embedded in metadata (stripped to relative)
 
     Args:
         relative_path: Path to resolve (absolute or relative)
@@ -35,6 +52,8 @@ def resolve_data_path(relative_path: str) -> Path:
         abs_path = Path(relative_path)
         if abs_path.exists():
             return abs_path
+        # Try stripping host project root prefix
+        relative_path = _strip_host_prefix(relative_path)
 
     # Strip leading slashes to normalize
     clean_path = relative_path.lstrip("/")
@@ -69,6 +88,8 @@ def resolve_data_path_or_none(relative_path: str) -> Path | None:
         abs_path = Path(relative_path)
         if abs_path.exists():
             return abs_path
+        # Try stripping host project root prefix
+        relative_path = _strip_host_prefix(relative_path)
 
     clean_path = relative_path.lstrip("/")
     if clean_path.startswith("app/"):
