@@ -20,6 +20,7 @@ from .law_views import (
     law_structure,
     municipalities_list,
     states_list,
+    suggest,
 )
 from .search_views import SearchView
 from .views import CalculationView, IngestionView
@@ -50,4 +51,5 @@ urlpatterns = [
     path("laws/<str:law_id>/references/", law_cross_references, name="law-references"),
     path("states/", states_list, name="states-list"),
     path("municipalities/", municipalities_list, name="municipalities-list"),
+    path("suggest/", suggest, name="law-suggest"),
 ]

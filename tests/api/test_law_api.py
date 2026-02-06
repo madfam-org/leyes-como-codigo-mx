@@ -634,3 +634,75 @@ class TestMunicipalitiesList:
         data = response.json()
         assert len(data) == 1
         assert data[0]["municipality"] == "Guadalajara"
+
+
+@pytest.mark.django_db
+class TestSuggestEndpoint:
+    def setup_method(self):
+        self.client = APIClient()
+
+    def test_returns_empty_for_short_query(self):
+        """Query with less than 2 chars returns empty list."""
+        url = reverse("law-suggest")
+        response = self.client.get(url, {"q": "a"})
+        assert response.status_code == 200
+        assert response.json() == []
+
+    def test_returns_matching_laws(self):
+        """Returns laws whose name contains the query substring."""
+        Law.objects.create(
+            official_id="ley_amparo",
+            name="Ley de Amparo",
+            tier="federal",
+            category="ley",
+        )
+        Law.objects.create(
+            official_id="ley_trabajo",
+            name="Ley Federal del Trabajo",
+            tier="federal",
+            category="ley",
+        )
+        Law.objects.create(
+            official_id="codigo_civil",
+            name="Código Civil Federal",
+            tier="federal",
+            category="codigo",
+        )
+
+        url = reverse("law-suggest")
+        response = self.client.get(url, {"q": "ley"})
+        assert response.status_code == 200
+        data = response.json()
+        assert len(data) == 2
+        names = [d["name"] for d in data]
+        assert "Ley de Amparo" in names
+        assert "Ley Federal del Trabajo" in names
+
+    def test_limits_to_8_results(self):
+        """Response never exceeds 8 suggestions."""
+        for i in range(10):
+            Law.objects.create(
+                official_id=f"ley_{i}",
+                name=f"Ley Ejemplo {i}",
+                tier="federal",
+                category="ley",
+            )
+
+        url = reverse("law-suggest")
+        response = self.client.get(url, {"q": "ley"})
+        assert response.status_code == 200
+        data = response.json()
+        assert len(data) == 8
+
+    def test_case_insensitive(self):
+        """Search is case insensitive."""
+        Law.objects.create(
+            official_id="amparo", name="Ley de Amparo", tier="federal", category="ley"
+        )
+
+        url = reverse("law-suggest")
+        response = self.client.get(url, {"q": "AMPARO"})
+        assert response.status_code == 200
+        data = response.json()
+        assert len(data) == 1
+        assert data[0]["name"] == "Ley de Amparo"

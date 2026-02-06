@@ -304,6 +304,26 @@ def municipalities_list(request):
     return Response(list(municipalities))
 
 
+@api_view(["GET"])
+def suggest(request):
+    """Lightweight law-name autocomplete. Returns top 8 matches."""
+    q = request.query_params.get("q", "").strip()
+    if len(q) < 2:
+        return Response([])
+
+    laws = (
+        Law.objects.filter(name__icontains=q)
+        .values("official_id", "name", "tier")
+        .order_by("name")[:8]
+    )
+    return Response(
+        [
+            {"id": law["official_id"], "name": law["name"], "tier": law["tier"]}
+            for law in laws
+        ]
+    )
+
+
 def _safe_pct(count, universe):
     """Calculate coverage percentage, returning None if universe is None or 0."""
     if not universe:

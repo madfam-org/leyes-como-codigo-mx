@@ -191,6 +191,16 @@ export const api = {
     },
 
     /**
+     * Law-name autocomplete suggestions
+     */
+    suggest: async (q: string): Promise<{ id: string; name: string; tier: string }[]> => {
+        if (q.length < 2) return [];
+        const res = await fetch(`${API_BASE_URL}/suggest/?q=${encodeURIComponent(q)}`);
+        if (!res.ok) return [];
+        return res.json();
+    },
+
+    /**
      * Admin Dashboard endpoints
      */
     getAdminMetrics: async () => {

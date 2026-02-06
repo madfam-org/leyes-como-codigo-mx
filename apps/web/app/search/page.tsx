@@ -5,8 +5,9 @@ import DOMPurify from 'isomorphic-dompurify';
 import { Search as SearchIcon, Loader2, Filter as FilterIcon } from 'lucide-react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { Input, Button, Card, CardContent, Badge } from "@leyesmx/ui";
+import { Button, Card, CardContent, Badge } from "@leyesmx/ui";
 import { SearchFilters, type SearchFilterState } from '@/components/SearchFilters';
+import { SearchAutocomplete } from '@/components/SearchAutocomplete';
 import { Pagination } from '@/components/Pagination';
 import { api } from '@/lib/api';
 import type { SearchResult } from "@leyesmx/lib";
@@ -108,11 +109,10 @@ function SearchContent() {
         }
     };
 
-    const handleSubmit = (e: React.FormEvent) => {
-        e.preventDefault();
-        if (query.trim()) {
-            // Update URL with query params
-            const params = new URLSearchParams({ q: query });
+    const handleSubmitQuery = (q: string) => {
+        if (q.trim()) {
+            setQuery(q);
+            const params = new URLSearchParams({ q });
             if (filters.jurisdiction.length) params.set('jurisdiction', filters.jurisdiction.join(','));
             if (filters.category) params.set('category', filters.category);
             if (filters.state) params.set('state', filters.state);
@@ -124,9 +124,8 @@ function SearchContent() {
 
             router.push(`/search?${params}`);
 
-            // Reset to page 1 when new search
             setCurrentPage(1);
-            performSearch(query, filters, 1);
+            performSearch(q, filters, 1);
         }
     };
 
@@ -155,25 +154,27 @@ function SearchContent() {
                         Buscar Leyes
                     </h1>
                     {/* Search Bar */}
-                    <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 sm:gap-2">
+                    <div className="flex flex-col sm:flex-row gap-3 sm:gap-2">
                         <div className="relative flex-1">
-                            <SearchIcon className="absolute left-3 top-1/2 h-4 w-4 sm:h-5 sm:w-5 -translate-y-1/2 text-muted-foreground" />
-                            <Input
-                                type="text"
-                                value={query}
-                                onChange={(e) => setQuery(e.target.value)}
+                            <SearchIcon className="absolute left-3 top-1/2 h-4 w-4 sm:h-5 sm:w-5 -translate-y-1/2 text-muted-foreground z-10" />
+                            <SearchAutocomplete
+                                onSearch={(q) => {
+                                    setQuery(q);
+                                    handleSubmitQuery(q);
+                                }}
                                 placeholder="Buscar por artículo, título, contenido..."
                                 className="pl-10 bg-background text-sm sm:text-base"
+                                defaultValue={initialQuery}
                             />
                         </div>
-                        <Button type="submit" disabled={loading} className="w-full sm:w-auto">
+                        <Button disabled={loading} className="w-full sm:w-auto" onClick={() => handleSubmitQuery(query)}>
                             {loading ? (
                                 <Loader2 className="h-4 w-4 sm:h-5 sm:w-5 animate-spin" />
                             ) : (
                                 'Buscar'
                             )}
                         </Button>
-                    </form>
+                    </div>
                 </div>
             </div>
 
@@ -229,6 +230,20 @@ function SearchContent() {
                                 <p className="mt-2 text-sm text-muted-foreground">
                                     Intenta con otros términos de búsqueda o ajusta los filtros
                                 </p>
+                                <div className="mt-6">
+                                    <p className="text-xs text-muted-foreground mb-3">Sugerencias:</p>
+                                    <div className="flex flex-wrap justify-center gap-2">
+                                        {['constitución', 'código penal', 'trabajo', 'amparo'].map((term) => (
+                                            <button
+                                                key={term}
+                                                onClick={() => handleSubmitQuery(term)}
+                                                className="inline-flex items-center rounded-full border border-border px-3 py-1 text-sm text-foreground hover:bg-accent hover:text-accent-foreground transition-colors"
+                                            >
+                                                {term}
+                                            </button>
+                                        ))}
+                                    </div>
+                                </div>
                             </div>
                         )}
 
