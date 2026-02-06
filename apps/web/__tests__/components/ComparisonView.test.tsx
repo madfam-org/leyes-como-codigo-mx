@@ -2,6 +2,7 @@ import { render, screen, waitFor, act } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import ComparisonView from '@/components/ComparisonView';
 import { api } from '@/lib/api';
+import type { Law } from '@leyesmx/lib';
 
 // Mock API
 vi.mock('@/lib/api', () => ({
@@ -58,8 +59,8 @@ describe('ComparisonView', () => {
 
     function setupMocks() {
         vi.mocked(api.getLaw).mockImplementation(async (id) => {
-            if (id === '1') return mockLaw1 as any;
-            if (id === '2') return mockLaw2 as any;
+            if (id === '1') return mockLaw1 as unknown as Law;
+            if (id === '2') return mockLaw2 as unknown as Law;
             throw new Error('Not found');
         });
         vi.mocked(api.getLawArticles).mockImplementation(async (id) => {
