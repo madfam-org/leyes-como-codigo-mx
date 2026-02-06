@@ -1,7 +1,6 @@
 import type { Law, LawListItem, SearchResponse, DashboardStats, LawArticleResponse, IngestionStatus } from "@leyesmx/lib";
 import {
     LawSchema,
-    LawListItemSchema,
     SearchResponseSchema,
     DashboardStatsSchema,
     LawArticleResponseSchema,
