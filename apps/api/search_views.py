@@ -8,12 +8,15 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 
 from .schema import SEARCH_PARAMETERS, ErrorSchema, SearchResponseSchema
+from .throttles import SearchRateThrottle
 
 ES_HOST = os.getenv("ES_HOST", "http://elasticsearch:9200")
 INDEX_NAME = "articles"
 
 
 class SearchView(APIView):
+    throttle_classes = [SearchRateThrottle]
+
     @extend_schema(
         tags=["Search"],
         summary="Search articles",

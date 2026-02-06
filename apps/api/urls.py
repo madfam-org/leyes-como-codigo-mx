@@ -18,6 +18,7 @@ from .law_views import (
     LawDetailView,
     LawListView,
     law_articles,
+    law_search,
     law_stats,
     law_structure,
     municipalities_list,
@@ -62,6 +63,7 @@ urlpatterns = [
     path("stats/", law_stats, name="law-stats"),
     path("laws/", LawListView.as_view(), name="law-list"),
     path("laws/<str:law_id>/", LawDetailView.as_view(), name="law-detail"),
+    path("laws/<str:law_id>/search/", law_search, name="law-search"),
     path("laws/<str:law_id>/articles/", law_articles, name="law-articles"),
     path(
         "laws/<str:law_id>/articles/<str:article_id>/references/",

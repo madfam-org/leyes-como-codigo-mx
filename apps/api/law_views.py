@@ -8,6 +8,7 @@ from drf_spectacular.utils import extend_schema
 from elasticsearch import Elasticsearch
 from rest_framework import status
 from rest_framework.decorators import api_view
+from rest_framework.pagination import PageNumberPagination
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
@@ -64,6 +65,7 @@ class LawDetailView(APIView):
             "category": law.category,
             "tier": law.tier,
             "state": state,
+            "status": law.status,
             "versions": [
                 {
                     "publication_date": v.publication_date,
@@ -84,24 +86,121 @@ class LawDetailView(APIView):
         return Response(data)
 
 
+class LawListPagination(PageNumberPagination):
+    page_size = 50
+    page_size_query_param = "page_size"
+    max_page_size = 200
+
+
 class LawListView(APIView):
+    pagination_class = LawListPagination
+
     @extend_schema(
         tags=["Laws"],
         summary="List all laws",
-        description="Returns all laws with basic metadata.",
+        description="Returns paginated list of laws with basic metadata. Supports filtering by tier, state, category, status, and name search.",
         responses={200: LawListItemSchema(many=True)},
     )
     def get(self, request):
-        laws = Law.objects.all().order_by("official_id")
+        qs = Law.objects.all().order_by("official_id")
+
+        # Filtering
+        tier = request.query_params.get("tier")
+        if tier:
+            qs = qs.filter(tier=tier)
+
+        state = request.query_params.get("state")
+        if state:
+            qs = qs.filter(state__iexact=state)
+
+        category = request.query_params.get("category")
+        if category:
+            qs = qs.filter(category__iexact=category)
+
+        law_status = request.query_params.get("status")
+        if law_status:
+            qs = qs.filter(status=law_status)
+
+        q = request.query_params.get("q")
+        if q:
+            qs = qs.filter(name__icontains=q)
+
+        paginator = self.pagination_class()
+        page = paginator.paginate_queryset(qs, request)
+
         data = [
             {
                 "id": law.official_id,
                 "name": law.short_name or law.name,
+                "tier": law.tier,
+                "category": law.category,
+                "status": law.status,
                 "versions": law.versions.count(),
             }
-            for law in laws
+            for law in page
         ]
-        return Response(data)
+        return paginator.get_paginated_response(data)
+
+
+@extend_schema(
+    tags=["Laws"],
+    summary="Search within a law",
+    description="Full-text search within a specific law's articles, with highlighting.",
+    responses={200: dict, 404: ErrorSchema, 500: ErrorSchema},
+)
+@api_view(["GET"])
+def law_search(request, law_id):
+    """Search within a specific law's articles."""
+    q = request.query_params.get("q", "").strip()
+    if not q:
+        return Response(
+            {"error": "Query parameter 'q' is required"},
+            status=status.HTTP_400_BAD_REQUEST,
+        )
+
+    law = get_object_or_404(Law, official_id=law_id)
+
+    try:
+        es = Elasticsearch([ES_HOST])
+        body = {
+            "query": {
+                "bool": {
+                    "must": [
+                        {"match_phrase": {"law_id": law.official_id}},
+                        {"match": {"text": {"query": q, "fuzziness": "AUTO"}}},
+                    ]
+                }
+            },
+            "highlight": {"fields": {"text": {"fragment_size": 200}}},
+            "size": 50,
+        }
+
+        res = es.search(index=INDEX_NAME, body=body)
+
+        results = []
+        for hit in res["hits"]["hits"]:
+            source = hit["_source"]
+            highlights = hit.get("highlight", {}).get("text", [])
+            results.append(
+                {
+                    "article_id": source.get("article"),
+                    "snippet": (
+                        highlights[0] if highlights else source.get("text", "")[:200]
+                    ),
+                    "score": hit["_score"],
+                }
+            )
+
+        return Response(
+            {
+                "law_id": law_id,
+                "query": q,
+                "total": res["hits"]["total"]["value"],
+                "results": results,
+            }
+        )
+    except Exception as e:
+        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
 @extend_schema(

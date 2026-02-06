@@ -4,6 +4,9 @@ import type { Law, LawVersion } from './types';
 import { Badge } from '@/components/ui/badge';
 import { ExternalLink, Calendar } from 'lucide-react';
 import { useLang } from '@/components/providers/LanguageContext';
+import { BookmarkButton } from '@/components/BookmarkButton';
+import { PDFExportButton } from '@/components/PDFExportButton';
+import { ShareButtons } from '@/components/ShareButtons';
 
 const content = {
     es: {
@@ -69,6 +72,9 @@ export function LawHeader({ law, version }: LawHeaderProps) {
 
 
                     <div className="flex flex-wrap gap-2">
+                        <BookmarkButton lawId={law.id || ''} lawName={law.name} />
+                        <PDFExportButton />
+
                         {version.xml_file && (
                             <a
                                 href={`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/media/xml/${version.xml_file}`}
@@ -92,6 +98,10 @@ export function LawHeader({ law, version }: LawHeaderProps) {
                             </a>
                         )}
                     </div>
+                </div>
+
+                <div className="mt-4 pt-4 border-t border-border/50">
+                    <ShareButtons title={law.name} />
                 </div>
             </div>
         </header>

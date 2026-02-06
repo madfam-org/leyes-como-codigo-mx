@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import DOMPurify from 'isomorphic-dompurify';
 import { Search as SearchIcon, Loader2, Filter as FilterIcon } from 'lucide-react';
+import { SearchResultsSkeleton } from '@/components/skeletons/SearchResultsSkeleton';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Button, Card, CardContent, Badge } from "@leyesmx/ui";
@@ -266,11 +267,7 @@ function SearchContent() {
                             </div>
                         )}
 
-                        {loading && (
-                            <div className="flex items-center justify-center py-16">
-                                <Loader2 className="h-8 w-8 animate-spin text-primary-500" />
-                            </div>
-                        )}
+                        {loading && <SearchResultsSkeleton />}
 
                         {!loading && results.length === 0 && initialQuery && (
                             <div className="py-16 text-center">

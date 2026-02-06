@@ -294,3 +294,35 @@ html {
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
+
+/* PRINT STYLES */
+@media print {
+  nav,
+  footer,
+  .print\\:hidden,
+  [class*="fixed"],
+  [class*="sticky"] {
+    display: none !important;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  main {
+    padding: 0 !important;
+  }
+
+  a {
+    text-decoration: underline;
+    color: inherit;
+  }
+
+  .bg-card,
+  .bg-background {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+}

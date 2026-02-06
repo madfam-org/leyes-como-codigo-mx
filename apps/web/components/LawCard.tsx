@@ -5,6 +5,7 @@ import { Badge, Card } from "@leyesmx/ui";
 import Link from 'next/link';
 import { useComparison } from './providers/ComparisonContext';
 import { useLang } from '@/components/providers/LanguageContext';
+import { ComparisonHint } from '@/components/ComparisonHint';
 
 const content = {
     es: {
@@ -67,6 +68,7 @@ export default function LawCard({ law }: LawCardProps) {
                     aria-label={t.selectCompare}
                     tabIndex={0}
                 >
+                    <ComparisonHint />
                     <div className={`w-5 h-5 rounded border flex items-center justify-center transition-colors ${isSelected ? 'bg-primary border-primary' : 'border-input bg-background/50'}`}>
                         {isSelected && <span className="text-primary-foreground text-xs">✓</span>}
                     </div>

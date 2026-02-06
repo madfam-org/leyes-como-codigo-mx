@@ -36,10 +36,17 @@ jobs:
     - name: Check File Sizes
       run: poetry run python scripts/utils/audit_file_sizes.py
 
-    - name: Run Pytest
-      run: poetry run pytest tests/ -v
+    - name: Run Pytest with coverage
+      run: poetry run pytest tests/ -v --cov=apps --cov-report=xml --cov-report=term
       env:
         PYTHONPATH: apps:.
+
+    - name: Upload backend coverage
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: backend-coverage
+        path: coverage.xml
 
   test-frontend:
     name: Frontend Tests (Vitest)
@@ -69,5 +76,45 @@ jobs:
     - name: Build admin
       run: npm run build --workspace=admin
 
-    - name: Run Vitest
-      run: npm run test --workspace=web
+    - name: Run Vitest with coverage
+      run: npx vitest run --coverage
+      working-directory: apps/web
+
+    - name: Upload frontend coverage
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: frontend-coverage
+        path: apps/web/coverage/
+
+  test-e2e:
+    name: E2E Tests (Playwright)
+    runs-on: ubuntu-latest
+    needs: test-frontend
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Install Playwright Chromium
+      run: npx playwright install chromium --with-deps
+      working-directory: apps/web
+
+    - name: Run Playwright tests
+      run: npx playwright test --project=chromium
+      working-directory: apps/web
+
+    - name: Upload Playwright report
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: playwright-report
+        path: apps/web/playwright-report/

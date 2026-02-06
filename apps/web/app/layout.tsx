@@ -38,12 +38,15 @@ export const viewport: Viewport = {
 };
 
 import { ThemeProvider } from "@/components/theme-provider";
-import { ModeToggle } from "@/components/mode-toggle";
 import { ComparisonProvider } from "@/components/providers/ComparisonContext";
 import { LanguageProvider } from "@/components/providers/LanguageContext";
+import { BookmarksProvider } from "@/components/providers/BookmarksContext";
 import ComparisonFloatingBar from "@/components/ComparisonFloatingBar";
 import { Footer } from "@/components/Footer";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
+import { Navbar } from "@/components/Navbar";
+import { ReadingProgressBar } from "@/components/ReadingProgressBar";
+import { BackToTop } from "@/components/BackToTop";
 
 export default function RootLayout({
   children,
@@ -69,14 +72,16 @@ export default function RootLayout({
         >
           <ErrorBoundary>
             <LanguageProvider>
-              <ComparisonProvider>
-                <div className="fixed top-3 right-3 sm:top-4 sm:right-4 z-50">
-                  <ModeToggle />
-                </div>
-                <main id="main-content" className="flex-1">{children}</main>
-                <Footer />
-                <ComparisonFloatingBar />
-              </ComparisonProvider>
+              <BookmarksProvider>
+                <ComparisonProvider>
+                  <ReadingProgressBar />
+                  <Navbar />
+                  <main id="main-content" className="flex-1">{children}</main>
+                  <Footer />
+                  <ComparisonFloatingBar />
+                  <BackToTop />
+                </ComparisonProvider>
+              </BookmarksProvider>
             </LanguageProvider>
           </ErrorBoundary>
         </ThemeProvider>
@@ -84,4 +89,3 @@ export default function RootLayout({
     </html>
   );
 }
-

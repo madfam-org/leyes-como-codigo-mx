@@ -41,6 +41,10 @@ ENV NEXT_PUBLIC_JANUA_PUBLISHABLE_KEY=$NEXT_PUBLIC_JANUA_PUBLISHABLE_KEY
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build --workspace=apps/admin
 
+# Verify standalone output exists at expected path
+RUN test -f apps/admin/.next/standalone/apps/admin/server.js || \
+    (echo "ERROR: server.js not found at expected path" && ls -la apps/admin/.next/standalone/ && exit 1)
+
 # ── Stage 3: Runtime ─────────────────────────────────────────────────
 FROM node:20-alpine AS runner
 WORKDIR /app

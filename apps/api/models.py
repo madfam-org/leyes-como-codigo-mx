@@ -4,6 +4,12 @@ from django.db import models
 class Law(models.Model):
     OFFICIAL_ID_MAX_LENGTH = 50
 
+    class Status(models.TextChoices):
+        VIGENTE = "vigente", "Vigente"
+        ABROGADA = "abrogada", "Abrogada"
+        DEROGADA = "derogada", "Derogada"
+        UNKNOWN = "unknown", "Unknown"
+
     official_id = models.CharField(
         max_length=OFFICIAL_ID_MAX_LENGTH,
         unique=True,
@@ -35,6 +41,13 @@ class Law(models.Model):
         null=True,
         blank=True,
         help_text="Last time this law's source was verified as still available",
+    )
+    status = models.CharField(
+        max_length=20,
+        choices=Status.choices,
+        default=Status.UNKNOWN,
+        db_index=True,
+        help_text="Legal status: vigente, abrogada, derogada, unknown",
     )
 
     created_at = models.DateTimeField(auto_now_add=True)

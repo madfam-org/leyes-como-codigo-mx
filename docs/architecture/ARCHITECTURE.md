@@ -127,19 +127,33 @@ Code in this layer is **derived** from Layer 1. It is not the law; it is a *repr
 
 The API does not store data; it queries the XML and executes the Engines.
 
-* **Endpoint A: Content** (`GET /law/{id}`)
-* Returns the Akoma Ntoso XML or rendered HTML.
+* **Endpoint A: Content** (`GET /laws/{id}/`)
+* Returns law metadata, articles (natural-sorted), and cross-references.
 
+* **Endpoint B: Law Listing** (`GET /laws/`)
+* Paginated (50/page, max 200). Response: `{ count, next, previous, results }`.
+* Filters: `?tier=`, `?state=`, `?category=`, `?status=`, `?q=` (name search).
 
-* **Endpoint B: Calculation** (`POST /calculate/{law_id}`)
+* **Endpoint C: Smart Search** (`GET /search/`)
+* Powered by Elasticsearch.
+* Supports **Structural Filtering**: Query by `jurisdiction`, `state`, `title`, and `chapter`.
+* Rate-limited: 30 requests/minute (anonymous).
+* *Example:* `GET /search?q=impuestos&jurisdiction=federal` returns matching articles.
+
+* **Endpoint D: Search Within Law** (`GET /laws/{id}/search/?q=`)
+* Searches articles of a specific law in Elasticsearch with highlight extraction.
+
+* **Endpoint E: Autocomplete** (`GET /suggest/?q=`)
+* Returns top 8 law name matches (case-insensitive, no ES dependency).
+
+* **Endpoint F: Calculation** (`POST /calculate/{law_id}`) — *Disabled*
 * Accepts a JSON payload of variables (e.g., Income, Expenses).
 * Routes the request to the compiled Catala/OpenFisca module.
 * Returns the result + a "Trace" explaining which articles were applied.
+* *Status:* Blocked on Catala/OpenFisca runtime (see Layer 2).
 
-* **Endpoint C: Smart Search** (`GET /search`)
-* Powered by Elasticsearch.
-* Supports **Structural Filtering**: Query by `jurisdiction`, `state`, `title`, and `chapter`.
-* *Example:* `GET /search?q=impuestos&title=TÍTULO I` returns articles about taxes specifically within Title I.
+* **Rate Limiting:** 100 requests/hour (anonymous), 30/minute (search).
+* **OpenAPI Docs:** Swagger UI at `/api/docs/`, ReDoc at `/api/redoc/`.
 
 
 

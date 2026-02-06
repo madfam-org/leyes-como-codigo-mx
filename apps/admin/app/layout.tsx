@@ -9,10 +9,9 @@ export const metadata: Metadata = {
     description: "Administrative console for tezca.mx",
 };
 
-import { JanuaProvider } from "@janua/nextjs";
+import { JanuaProvider, UserButton } from "@/lib/auth";
 import { ThemeProvider } from "@/components/theme-provider";
 import { ModeToggle } from "@/components/mode-toggle";
-import { UserButton } from "@janua/nextjs";
 
 export default function RootLayout({
     children,

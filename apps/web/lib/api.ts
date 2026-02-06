@@ -15,6 +15,13 @@ interface LawStructureNode {
     children: LawStructureNode[];
 }
 
+interface PaginatedResponse<T> {
+    count: number;
+    next: string | null;
+    previous: string | null;
+    results: T[];
+}
+
 interface AdminMetricsResponse {
     total_laws: number;
     counts: { federal: number; state: number };
@@ -79,10 +86,27 @@ async function fetcher<T>(endpoint: string, options?: RequestInit, schema?: z.Zo
 
 export const api = {
     /**
-     * Get all laws
+     * Get paginated laws with optional filters
      */
-    getLaws: async (): Promise<LawListItem[]> => {
-        return fetcher<LawListItem[]>('/laws/', undefined, z.array(LawListItemSchema));
+    getLaws: async (options?: {
+        page?: number;
+        page_size?: number;
+        tier?: string;
+        state?: string;
+        category?: string;
+        status?: string;
+        q?: string;
+    }): Promise<PaginatedResponse<LawListItem>> => {
+        const params = new URLSearchParams();
+        if (options?.page) params.set('page', options.page.toString());
+        if (options?.page_size) params.set('page_size', options.page_size.toString());
+        if (options?.tier) params.set('tier', options.tier);
+        if (options?.state) params.set('state', options.state);
+        if (options?.category) params.set('category', options.category);
+        if (options?.status) params.set('status', options.status);
+        if (options?.q) params.set('q', options.q);
+        const qs = params.toString();
+        return fetcher<PaginatedResponse<LawListItem>>(`/laws/${qs ? `?${qs}` : ''}`);
     },
 
     /**

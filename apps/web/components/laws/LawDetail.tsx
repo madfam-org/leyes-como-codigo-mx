@@ -5,15 +5,17 @@ import { LawHeader } from './LawHeader';
 import { TableOfContents } from './TableOfContents';
 import { ArticleViewer } from './ArticleViewer';
 import type { LawDetailData } from './types';
-import { Loader2 } from 'lucide-react';
 import { useLang } from '@/components/providers/LanguageContext';
+import { Breadcrumbs } from '@/components/Breadcrumbs';
+import { FontSizeControl } from '@/components/FontSizeControl';
+import type { FontSize } from '@/components/FontSizeControl';
+import { LawDetailSkeleton } from '@/components/skeletons/LawDetailSkeleton';
 
 const content = {
     es: {
         loadLawError: 'No se pudo cargar la ley',
         loadArticlesError: 'No se pudieron cargar los artículos',
         unknownError: 'Error desconocido',
-        loading: 'Cargando ley...',
         errorTitle: 'Error al cargar la ley',
         notFound: 'No se encontró la información solicitada',
         backToSearch: 'Volver al buscador',
@@ -22,7 +24,6 @@ const content = {
         loadLawError: 'Could not load the law',
         loadArticlesError: 'Could not load the articles',
         unknownError: 'Unknown error',
-        loading: 'Loading law...',
         errorTitle: 'Error loading the law',
         notFound: 'The requested information was not found',
         backToSearch: 'Back to search',
@@ -40,6 +41,7 @@ export function LawDetail({ lawId }: LawDetailProps) {
     const [activeArticle, setActiveArticle] = useState<string | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
+    const [fontSize, setFontSize] = useState<FontSize>('text-base');
 
     useEffect(() => {
         async function fetchLaw() {
@@ -79,12 +81,7 @@ export function LawDetail({ lawId }: LawDetailProps) {
     }, [lawId]);
 
     if (loading) {
-        return (
-            <div className="flex flex-col items-center justify-center min-h-screen bg-background gap-4">
-                <Loader2 className="h-10 w-10 animate-spin text-primary" />
-                <p className="text-muted-foreground">{t.loading}</p>
-            </div>
-        );
+        return <LawDetailSkeleton />;
     }
 
     if (error || !data) {
@@ -132,11 +129,17 @@ export function LawDetail({ lawId }: LawDetailProps) {
 
                 {/* Main content: Articles */}
                 <main className="flex-1 min-w-0">
-                    <ArticleViewer
-                        articles={data.articles}
-                        activeArticle={activeArticle}
-                        lawId={lawId}
-                    />
+                    <div className="flex items-center justify-between mb-4 flex-wrap gap-2">
+                        <Breadcrumbs lawName={data.law.name} />
+                        <FontSizeControl onChange={setFontSize} />
+                    </div>
+                    <div className={fontSize}>
+                        <ArticleViewer
+                            articles={data.articles}
+                            activeArticle={activeArticle}
+                            lawId={lawId}
+                        />
+                    </div>
                 </main>
             </div>
         </div>

@@ -42,6 +42,10 @@ ENV NEXT_PUBLIC_AUTH_URL=$NEXT_PUBLIC_AUTH_URL
 ENV NEXT_TELEMETRY_DISABLED=1
 RUN npm run build --workspace=apps/web
 
+# Verify standalone output exists at expected path
+RUN test -f apps/web/.next/standalone/apps/web/server.js || \
+    (echo "ERROR: server.js not found at expected path" && ls -la apps/web/.next/standalone/ && exit 1)
+
 # ── Stage 3: Runtime ─────────────────────────────────────────────────
 FROM node:20-alpine AS runner
 WORKDIR /app

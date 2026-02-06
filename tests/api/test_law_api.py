@@ -311,21 +311,27 @@ class TestLawApi:
         assert response.status_code == 200
         data = response.json()
 
+        # Paginated response structure
+        assert "count" in data
+        assert "results" in data
+        results = data["results"]
+
         # Should contain all laws (2 from setup + 1 new)
-        assert len(data) == 3
+        assert data["count"] == 3
+        assert len(results) == 3
 
         # Verify sorted by official_id
-        ids = [item["id"] for item in data]
+        ids = [item["id"] for item in results]
         assert ids == sorted(ids)
 
         # Verify item structure
-        first = data[0]
+        first = results[0]
         assert "id" in first
         assert "name" in first
         assert "versions" in first
 
         # Verify alpha_law has 1 version
-        alpha_item = next(item for item in data if item["id"] == "alpha_law")
+        alpha_item = next(item for item in results if item["id"] == "alpha_law")
         assert alpha_item["versions"] == 1
 
     def test_article_cross_references(self):

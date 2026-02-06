@@ -110,15 +110,28 @@ Code cannot merge to `main` unless:
 
 ### Backend (Pytest)
 - **Location:** `tests/`
-- **Tests:** 203 tests (201 passed, 2 skipped — CalculationApiTests blocked on OpenFisca)
+- **Tests:** 201 passed, 2 skipped (CalculationApiTests blocked on OpenFisca)
 - **Run:** `poetry run pytest tests/ -v`
+- **Coverage:** `poetry run pytest tests/ --cov=apps --cov-report=term`
 - **Lint:** `poetry run black --check apps/ tests/ scripts/` + `poetry run isort --check-only apps/ tests/ scripts/`
 
 ### Frontend (Vitest)
 - **Location:** `apps/web/__tests__/`
-- **Tests:** 89 tests across 14 files
+- **Tests:** 101 tests across 17 files
 - **Run:** `cd apps/web && npx vitest run`
+- **Coverage:** `cd apps/web && npx vitest run --coverage` (uses @vitest/coverage-v8)
 - **Framework:** Vitest + @testing-library/react
+
+### E2E (Playwright)
+- **Location:** `apps/web/e2e/`
+- **Tests:** 13 tests (3 search, 5 law-detail, 5 comparison)
+- **Run:** `cd apps/web && npx playwright test`
+- **Browser:** Chromium (auto-starts dev server, mocks API via `page.route()`)
+
+### CI Pipeline (`.github/workflows/ci.yml`)
+- **Jobs:** `test-backend` → `test-frontend` → `test-e2e`
+- **Coverage artifacts:** pytest XML + vitest JSON uploaded per run
+- **E2E artifacts:** Playwright HTML report uploaded on failure
 
 > **Note:** The computational law testing layers (Catala proofs, Oracle validation, Legislative Trace) described above are aspirational design targets. The current test suite covers API endpoints, parser functionality, scraper logic, and React components.
 

@@ -58,9 +58,9 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Quality Validation** - 5 automated checks, A-F grading
 - ✅ **Full-Text Search** - 860,000+ articles indexed in Elasticsearch
 - ✅ **Version History** - Track legal evolution over time
-- ✅ **REST API** - Machine-readable access for legal tech
+- ✅ **REST API** - Machine-readable access for legal tech (paginated, filtered, rate-limited)
 - ✅ **Batch Processing** - Parallel ingestion with 4-8 workers
-- ✅ **Production Ready** - Full-stack testing (Backend + Frontend w/ Vitest)
+- ✅ **Production Ready** - Full-stack testing (101 Vitest + 201 Pytest)
 - ✅ **OpenAPI Documentation** - Swagger UI, ReDoc at `/api/docs/`
 - ✅ **Background Processing** - Celery + Redis for ingestion jobs
 - ✅ **Cross-References** - Automatic detection and linking between laws
@@ -69,8 +69,13 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Disclaimer Banner** - Dismissable one-time homepage notice (localStorage persistence)
 - ✅ **Full Bilingual UI** - ES/EN language toggle across all components (law content remains Spanish)
 - ✅ **Tezca Manifesto** - `/acerca-de` brand page with mission statement
-- ✅ **Article Display Fixes** - Corrected popular law links, double heading bugs, and unreadable content
-- ✅ **Accessibility** - Set-state-in-effect lint fixes, improved component patterns
+- ✅ **Persistent Navbar** - Sticky navigation with mobile hamburger menu, transparent-on-homepage
+- ✅ **Bookmarks** - Heart toggle, localStorage persistence, `/favoritos` page
+- ✅ **Reading UX** - Progress bar, font size control, back-to-top, breadcrumbs
+- ✅ **Share & Export** - Social sharing (Twitter, LinkedIn, WhatsApp), copy link, PDF print export
+- ✅ **Loading Skeletons** - Shaped placeholders for law detail, search results, dashboard
+- ✅ **API Hardening** - Rate limiting (100/hr), pagination (50/page), law status field, search-within-law
+- ✅ **Accessibility** - WCAG 2.1 AA (skip-to-content, aria-labels, keyboard nav, 44px touch targets)
 
 ## Architecture
 
@@ -126,12 +131,14 @@ This project uses a monorepo architecture managed by NPM Workspaces.
 
 **Phase 3: UI/UX Transformation** - ✅ COMPLETE
 - ✅ Dynamic Homepage Dashboard
-- ✅ Law Detail Page 2.0
+- ✅ Law Detail Page 2.0 (breadcrumbs, font control, progress bar)
 - ✅ Advanced Search with Autocomplete Typeahead
 - ✅ Legal Pages (Terms, Disclaimer, Privacy) — bilingual ES/EN
-- ✅ Site Footer + Disclaimer Banner
+- ✅ Persistent Navbar + Site Footer + Disclaimer Banner
 - ✅ Comparison Tool (side-by-side, sync scroll, mobile tabs)
-- ✅ Visual QA (sticky footer, 44px touch targets, loading spinners, WCAG 2.1 AA)
+- ✅ Bookmarks, Share Buttons, PDF Export, Loading Skeletons
+- ✅ API Hardening (pagination, filtering, rate limiting, search-within-law)
+- ✅ CI/CD (coverage, E2E in CI, Dockerfile verification)
 
 **Phase 4: Municipal Laws** - 📋 PLANNED (Q2 2026)
 - 📋 Tier 1: 10 largest cities

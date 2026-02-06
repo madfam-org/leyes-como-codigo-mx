@@ -1,6 +1,6 @@
 "use client";
 
-import { SignInForm } from "@janua/nextjs";
+import { SignInForm } from "@/lib/auth";
 
 export default function SignInPage() {
     return (

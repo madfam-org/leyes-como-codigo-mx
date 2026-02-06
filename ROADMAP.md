@@ -21,7 +21,7 @@
 - **98.9% parser accuracy** (world-class quality)
 - **860,000+ articles** indexed and searchable
 - **Production-ready** backend infrastructure
-- **Full-stack Testing** (89 Vitest + 203 Pytest)
+- **Full-stack Testing** (101 Vitest + 201 Pytest + 13 E2E)
 
 ### 🔄 In Progress
 - Tezca production deployment
@@ -94,6 +94,25 @@
 - ✅ **Mobile**: Fully responsive design (44px touch targets, responsive tabs, stacked layouts)
 - ✅ **Dark Mode**: Complete theme support
 - ✅ **Visual QA**: Sticky footer, Suspense fallback spinners, tab tooltips, WCAG 2.1 AA touch targets
+- ✅ **Persistent Navbar**: Sticky nav with brand, bilingual links, mobile hamburger, transparent-on-homepage
+- ✅ **Reading UX**: Progress bar, font size control (A-/A/A+), back-to-top button, breadcrumbs
+- ✅ **Bookmarks**: Heart toggle, localStorage persistence, `/favoritos` page
+- ✅ **Share & Export**: Social sharing (Twitter, LinkedIn, WhatsApp), copy link, PDF print export
+- ✅ **Loading Skeletons**: Shaped placeholders for law detail, search results, dashboard
+- ✅ **Comparison Hint**: One-time onboarding tooltip for checkbox discovery
+
+### API Hardening
+- ✅ **Rate Limiting**: 100/hr anon, 30/min search (DRF throttling)
+- ✅ **Pagination**: `/laws/` paginated (50/page, max 200) with `{ count, next, previous, results }`
+- ✅ **Filtering**: `/laws/?tier=&state=&category=&status=&q=` query params
+- ✅ **Legal Status**: `Law.status` field (vigente/abrogada/derogada/unknown) with migration
+- ✅ **Search-within-Law**: `GET /laws/<id>/search/?q=` with ES highlight extraction
+
+### CI/CD Improvements
+- ✅ **Coverage**: `pytest --cov` + `vitest --coverage` in CI with artifact upload
+- ✅ **E2E in CI**: Playwright Chromium job with report artifacts
+- ✅ **@janua/nextjs Fix**: Optional dependency with stub fallback for CI builds
+- ✅ **Dockerfile Verification**: Build-time assertion that `server.js` exists
 
 ### Admin Dashboard
 - Real-time job monitoring
