@@ -1,6 +1,6 @@
 # Mexican Legal Universe: Complete Taxonomy
 
-**Last Updated**: 2026-02-06
+**Last Updated**: 2026-02-07
 **Methodology**: Counts verified from official government sources. Confidence levels reflect data provenance quality.
 
 ---
@@ -29,12 +29,12 @@ The principle of **jerarquía normativa** means higher-tier instruments prevail 
 |------|----------|----------------|-----|-------------|-----------|-----|------------|-------|
 | 1 | Federal Leyes Vigentes | Cámara de Diputados | diputados.gob.mx/LeyesBiblio/ | 336 | 333 | 3 (0.9%) | High | Complete catalog of federal laws and codes in force |
 | 2 | State Legislativo (Poder 2) | OJN - SEGOB | compilacion.ordenjuridico.gob.mx | 12,120 | 11,363 | 757 + 782 dead | High | 32 states, Poder Legislativo only |
-| 3 | State Non-Legislativo (Poderes 1/3/4) | OJN - SEGOB | compilacion.ordenjuridico.gob.mx | 23,660 | 0 | 23,660 (100%) | High | Ejecutivo, Judicial, Organismos Autónomos |
+| 3 | State Non-Legislativo (Poderes 1/3/4) | OJN - SEGOB | compilacion.ordenjuridico.gob.mx | 23,660 | 18,416 | 5,244 (22.2%) | High | Ejecutivo, Judicial, Organismos Autónomos |
 | 4 | Municipal | City government portals | Various | ~20,000+ est. | 217 | ~99% | Low | No authoritative census exists; INEGI: 2,468 municipalities |
-| 5 | Federal Secondary (reglamentos, NOMs, decretos) | CONAMER CNARTyS | cnartys.conamer.gob.mx | ~113,373 | 0 | 100% | Medium | National regulatory catalog |
+| 5 | Federal Secondary (reglamentos, NOMs, decretos) | CONAMER CNARTyS | cnartys.conamer.gob.mx | ~113,373 | 150 | ~99.9% | Medium | 150 reglamentos from Cámara de Diputados |
 | 6 | Judicial (jurisprudencia + tesis) | SCJN SJF | sjf.scjn.gob.mx | ~500,000+ | 0 | 100% | Medium | Binding precedent + isolated theses |
 | 7 | International Treaties | SRE + Senado | tratados.sre.gob.mx | ~1,500+ | 0 | 100% | Medium | Bilateral + multilateral treaties ratified by Mexico |
-| | **TOTAL** | | | **~670,000+** | **~11,913** | **~98.2%** | | |
+| | **TOTAL** | | | **~670,000+** | **~30,479** | **~95.5%** | | |
 
 ---
 
@@ -125,7 +125,7 @@ The principle of **jerarquía normativa** means higher-tier instruments prevail 
 **Source**: OJN - SEGOB (same portal as Tier 2)
 **URL**: https://compilacion.ordenjuridico.gob.mx/
 **Known count**: 23,660 across 32 states
-**Our count**: 0 (not yet scraped)
+**Our count**: 18,416 scraped and parsed (77.8%)
 
 ### Power Breakdown
 
@@ -139,12 +139,14 @@ The principle of **jerarquía normativa** means higher-tier instruments prevail 
 
 These are **state-level** instruments from non-legislative branches — NOT municipal laws. The OJN probe (2026-02-03) confirmed that powers 1/3/4 return state executive orders, judicial administrative rules, and autonomous body regulations.
 
-### Scraping Status
+### Scraping & Parsing Status (Updated 2026-02-07)
 
-- **Infrastructure**: `OJNScraper.scrape_state_comprehensive()` already supports `power_ids=[1, 2, 3, 4]`
-- **Deduplication**: Built-in by `file_id`
-- **Highest-ROI expansion**: +23,660 laws with zero infrastructure changes
-- **Script**: `scripts/scraping/bulk_non_legislative_scraper.py`
+- **Scraped**: 18,439 files across 29 states (3 states empty: CDMX, Durango, Zacatecas)
+- **Parsed to AKN XML**: 18,416 (99.9% success rate, 23 failures)
+- **Articles extracted**: 398,806
+- **Infrastructure**: `OJNScraper.scrape_state_comprehensive()` with `power_ids=[1, 2, 3, 4]`
+- **Parser**: `scripts/ingestion/parse_state_laws.py --non-legislative --all`
+- **Remaining gap**: ~5,244 laws (mostly from states with OJN data quality issues)
 
 ---
 
@@ -214,8 +216,9 @@ These are **state-level** instruments from non-legislative branches — NOT muni
 
 **URL**: https://www.diputados.gob.mx/LeyesBiblio/regla.htm
 **Format**: PDF/DOC
-**Count**: ~800
+**Count**: ~800 (150 discovered and processed as of 2026-02-07)
 **Accessibility**: Good — same portal as Tier 1
+**Status**: Spider (`apps/scraper/federal/reglamentos_spider.py`) discovered 150, all ingested via bulk pipeline
 
 ### DOF (Diario Oficial de la Federación)
 
@@ -326,9 +329,9 @@ Per SCJN interpretation of Art. 133 and the 1999 amparo en revisión 1475/98, in
 
 | Priority | Tier | Action | Laws Gained | Effort | ROI |
 |----------|------|--------|-------------|--------|-----|
-| 1 | 3 | Scrape OJN poderes 1/3/4 | +23,660 | Low (existing infra) | Highest |
+| 1 | 3 | ~~Scrape OJN poderes 1/3/4~~ | ~~+23,660~~ | ~~Low~~ | **DONE** (18,416 parsed) |
 | 2 | 2 | Fix low-count states (BC, DGO, QR, HGO) | +1,039 | Medium (investigation) | High |
-| 3 | 5 | Scrape Cámara reglamentos page | +800 | Low (similar portal) | High |
+| 3 | 5 | ~~Scrape Cámara reglamentos page~~ | ~~+800~~ | ~~Low~~ | **DONE** (150 ingested) |
 | 4 | 2 | Resolve 782 dead links via SEGOB | +782 max | Medium (institutional) | Medium |
 | 5 | 5 | CONAMER CNARTyS integration | +113,373 | High (new scraper) | Medium |
 | 6 | 4 | Municipal Tier-2 expansion (state capitals) | +1,000 est. | High (32 scrapers) | Medium |

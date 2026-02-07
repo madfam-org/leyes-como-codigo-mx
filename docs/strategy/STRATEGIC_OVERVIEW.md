@@ -1,9 +1,9 @@
 # Leyes Como Código - Strategic Overview & Vision
 
-**Date**: 2026-02-05
+**Date**: 2026-02-07
 **Current Coverage**: 93.9% of Legislative Laws (11,696 of 12,456)
-**Total Laws in DB**: ~11,904 (333 federal + 11,363 state + 208 municipal)
-**Coverage Source**: `data/universe_registry.json`
+**Total Laws Processed**: ~30,520 (333 federal + 150 reglamentos + 11,363 state legislative + 18,416 state non-legislative + 208 municipal)
+**Coverage Source**: `data/universe_registry.json`, pipeline run logs
 
 ---
 
@@ -22,10 +22,12 @@ All numbers sourced from `data/universe_registry.json`.
 | Level | Laws | Universe | Coverage | Source |
 |-------|------|----------|----------|--------|
 | **Federal** | 333 | 336 | 99.1% | Cámara de Diputados |
+| **Federal Reglamentos** | 150 | ~800 | ~19% | Cámara de Diputados (regla.htm) |
 | **State (Legislativo)** | 11,363 | 12,120 | 93.7% | OJN Poder Legislativo |
-| **State (Other Powers)** | 0 | 23,660 | 0% | OJN Poderes 1/3/4 |
+| **State (Other Powers)** | 18,416 | 23,660 | 77.8% | OJN Poderes 1/3/4 |
 | **Municipal** | 208 | Unknown | N/A | 5 city portals |
 | **Leyes Vigentes** | **11,696** | **12,456** | **93.9%** | Federal + State Legislativo |
+| **Total Processed** | **~30,520** | | | All tiers combined |
 
 ### Quality Metrics
 
@@ -33,6 +35,8 @@ All numbers sourced from `data/universe_registry.json`.
 |--------|-------|-------|
 | **Federal Coverage** | 99.1% (333/336) | Cámara de Diputados catalog |
 | **State Legislative Coverage** | 93.7% (11,363/12,120) | OJN Poder Legislativo |
+| **State Non-Legislative** | 77.8% (18,416/23,660) | OJN Poderes 1/3/4 |
+| **Federal Reglamentos** | 150 processed | Cámara de Diputados |
 | **Schema Compliance** | 100% | Akoma Ntoso validation |
 | **Permanent OJN Gaps** | 782 dead links | Michoacán 504, EDOMEX 141, SLP 47 |
 
@@ -41,7 +45,7 @@ All numbers sourced from `data/universe_registry.json`.
 ```
 Backend (Django):  ✅ Stable (production-hardened: HSTS, secure cookies, structured logging)
 Database:          ✅ PostgreSQL production-ready (shared MADFAM cluster)
-Search:            ✅ Elasticsearch operational (860K+ articles, resilient client: retry/timeout/pooling)
+Search:            ✅ Elasticsearch operational (1.25M+ articles, resilient client: retry/timeout/pooling)
 Scraping:          ✅ OJN pipeline functional, DOF daily wired to Celery Beat
 Frontend (Next):   ✅ Phase 3 UI/UX complete (comparison tool, mobile, dark mode, visual QA, search autocomplete)
 Admin Panel:       ✅ Functional (Janua auth integrated, 4 dashboard pages)
@@ -104,7 +108,7 @@ Deployment:        🔄 Infrastructure ready, pending manual provisioning (see b
         ┌────────▼──┐    ┌────▼────────┐
         │PostgreSQL │    │Elasticsearch│  Port 9200
         │   DB      │    │   Search    │  Full-text
-        │ 11,904    │    │ 860,000+    │  index
+        │ ~30,520   │    │ 1,250,000+  │  index
         │  laws     │    │  articles   │
         └───────────┘    └─────────────┘
 
@@ -315,10 +319,10 @@ Legislative Laws (Federal + State Legislativo):
   Coverage:   93.9%
   Gaps:       782 permanent OJN dead links
 
-Full Legal Framework (including non-legislative state laws):
-  Universe:   36,116 (adds 23,660 from OJN poderes 1/3/4)
-  We have:    11,696
-  Coverage:   32.4%
+Full Legal Framework (including non-legislative state laws + reglamentos):
+  Universe:   36,916 (adds 23,660 from OJN poderes 1/3/4 + ~800 reglamentos)
+  We have:    30,520
+  Coverage:   82.7%
 
 Municipal:
   Universe:   Unknown (2,468 municipalities, no census of laws)
@@ -328,9 +332,11 @@ Municipal:
 #### Breakdown by Jurisdiction
 
 **Federal Level**: 333/336 (99.1%) — Source: Cámara de Diputados
+**Federal Reglamentos**: 150 processed (of ~800) — Source: Cámara de Diputados
 **State Legislativo**: 11,363/12,120 (93.7%) — Source: OJN Poder Legislativo
-**State Other Powers**: 0/23,660 (0%) — Source: OJN Poderes 1/3/4 (Ejecutivo/Judicial/Autónomos)
+**State Other Powers**: 18,416/23,660 (77.8%) — Source: OJN Poderes 1/3/4 (Ejecutivo/Judicial/Autónomos)
 **Municipal**: 208 laws from 5 cities — No known universe
+**Articles**: ~1,258,000+ (860K legislative + 398K non-legislative)
 
 ### 6-Month Projection (Aug 2026)
 
@@ -368,7 +374,7 @@ Leyes Vigentes:  12,133 laws  (97.4% of 12,456)
 ║     El Sistema Legal Mexicano, Digitalizado          ║
 ║                                                       ║
 ║   ┌─────────────────────────────────────────┐       ║
-║   │  🔍  Buscar en 11,900+ leyes...          │       ║
+║   │  🔍  Buscar en 30,000+ leyes...          │       ║
 ║   └─────────────────────────────────────────┘       ║
 ║                                                       ║
 ║    ✨ Cobertura: 93.9% de leyes legislativas vigentes ║
@@ -388,10 +394,10 @@ Leyes Vigentes:  12,133 laws  (97.4% of 12,456)
 └──────────────────────────────────────────────────────┘
 
 📊 Estadísticas en Vivo
-• ~11,900 leyes procesadas
-• Artículos indexados en Elasticsearch
+• ~30,500 leyes procesadas
+• 1.25M+ artículos indexados en Elasticsearch
 • 93.9% cobertura de leyes legislativas
-• Actualizado: 2026-02-03
+• Actualizado: 2026-02-07
 ```
 
 **Design Principles**:
@@ -781,7 +787,7 @@ Vigentes:   ██████████████████░░░  93.
 
 **Leyes Como Código is positioned to become the definitive platform for Mexican legal research.**
 
-**Current Status**: Strong foundation (93.9% legislative coverage, production-ready backend)
+**Current Status**: Strong foundation (93.9% legislative coverage, 30K+ total laws processed, 1.25M+ articles, production-ready backend)
 
 **Next Steps**: UI/UX polish + state law completion = world-class platform
 
@@ -795,6 +801,6 @@ Vigentes:   ██████████████████░░░  93.
 
 ---
 
-**Document Version**: 1.2
+**Document Version**: 1.3
 **Last Updated**: 2026-02-07
 **Next Review**: 2026-03-07
