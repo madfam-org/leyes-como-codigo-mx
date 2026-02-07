@@ -69,7 +69,10 @@ class LawDetailView(APIView):
                 es_degraded = True
         except Exception:
             import logging
-            logging.getLogger(__name__).warning("ES unavailable for law detail %s", law_id, exc_info=True)
+
+            logging.getLogger(__name__).warning(
+                "ES unavailable for law detail %s", law_id, exc_info=True
+            )
             es_degraded = True
 
         # 5. Format Response
@@ -123,7 +126,9 @@ class LawListView(APIView):
         responses={200: LawListItemSchema(many=True)},
     )
     def get(self, request):
-        qs = Law.objects.annotate(version_count=Count("versions")).order_by("official_id")
+        qs = Law.objects.annotate(version_count=Count("versions")).order_by(
+            "official_id"
+        )
 
         # Filtering
         tier = request.query_params.get("tier")
@@ -222,6 +227,7 @@ def law_search(request, law_id):
         )
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("law_search failed for %s", law_id)
         return Response(
             {"error": "An internal error occurred while searching."},
@@ -289,6 +295,7 @@ def law_articles(request, law_id):
 
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("law_articles failed for %s", law_id)
         return Response(
             {"error": "An internal error occurred while retrieving articles."},
@@ -362,6 +369,7 @@ def law_structure(request, law_id):
 
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("law_structure failed for %s", law_id)
         return Response(
             {"error": "An internal error occurred while retrieving structure."},
@@ -495,7 +503,10 @@ def law_stats(request):
             es_degraded = True
     except Exception:
         import logging
-        logging.getLogger(__name__).warning("ES unavailable for law_stats", exc_info=True)
+
+        logging.getLogger(__name__).warning(
+            "ES unavailable for law_stats", exc_info=True
+        )
         es_degraded = True
 
     # Load universe registry for honest coverage numbers

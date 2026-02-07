@@ -21,7 +21,11 @@ export const LawSchema = z.object({
     short_name: z.string().optional(),
     fullName: z.string().optional(),
     category: z.string().optional(),
-    tier: z.union([z.number(), z.string()]).optional(),
+    tier: z.string().optional(),
+    state: z.string().optional(),
+    status: z.string().optional(),
+    last_verified: z.string().optional(),
+    source_url: z.string().optional(),
     versions: z.array(LawVersionSchema).optional(),
     articles: z.number().optional(),
     transitorios: z.number().optional(),
@@ -29,6 +33,7 @@ export const LawSchema = z.object({
     score: z.number().optional(),
     priority: z.number().optional(),
     file: z.string().optional(),
+    degraded: z.boolean().optional(),
 });
 
 export const LawListItemSchema = z.object({

@@ -71,7 +71,9 @@ def system_metrics(request):
     try:
         # Aggregate counts in a single query
         tier_counts = dict(
-            Law.objects.values_list("tier").annotate(count=Count("id")).values_list("tier", "count")
+            Law.objects.values_list("tier")
+            .annotate(count=Count("id"))
+            .values_list("tier", "count")
         )
         federal_count = tier_counts.get("federal", 0)
         state_count = tier_counts.get("state", 0)
@@ -104,6 +106,7 @@ def system_metrics(request):
         )
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("system_metrics failed")
         return Response(
             {"error": "An internal error occurred while fetching metrics."},
@@ -128,6 +131,7 @@ def job_status(request):
         return Response(status_data)
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("job_status failed")
         return Response(
             {
@@ -159,6 +163,7 @@ def list_jobs(request):
         return Response({"jobs": jobs})
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("list_jobs failed")
         return Response(
             {"error": "An internal error occurred while listing jobs."},
@@ -257,6 +262,7 @@ def pipeline_status(request):
         return Response(data)
     except Exception:
         import logging
+
         logging.getLogger(__name__).exception("pipeline_status failed")
         return Response(
             {"error": "An internal error occurred while fetching pipeline status."},

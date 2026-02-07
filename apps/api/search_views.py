@@ -232,11 +232,14 @@ class SearchView(APIView):
 
         except ValueError:
             return Response(
-                {"error": "Invalid parameter value. Check page and page_size are valid numbers."},
+                {
+                    "error": "Invalid parameter value. Check page and page_size are valid numbers."
+                },
                 status=status.HTTP_400_BAD_REQUEST,
             )
         except Exception:
             import logging
+
             logging.getLogger(__name__).exception("SearchView failed")
             return Response(
                 {"error": "An internal error occurred while searching."},
