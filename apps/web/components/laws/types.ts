@@ -10,7 +10,10 @@ export interface Law {
 
 export interface LawVersion {
     publication_date: string | null;
+    valid_from?: string;
+    valid_to?: string | null;
     dof_url: string | null;
+    change_summary?: string | null;
     xml_file?: string | null;
 }
 
@@ -23,6 +26,7 @@ export interface Article {
 export interface LawDetailData {
     law: Law;
     version: LawVersion;
+    versions: LawVersion[];
     articles: Article[];
     total: number;
 }

@@ -21,10 +21,21 @@ const jetbrainsMono = JetBrains_Mono({
   display: "swap",
 });
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: "Tezca — El Espejo de la Ley",
-  description: "Plataforma de legislación mexicana abierta. 11,900+ leyes federales, estatales y municipales en formato digital con búsqueda avanzada y referencias cruzadas. Open Mexican law platform.",
+  description: "Plataforma de legislación mexicana abierta. 30,000+ leyes federales, estatales y municipales en formato digital con búsqueda avanzada y referencias cruzadas. Open Mexican law platform.",
   keywords: ["leyes mexicanas", "legislación mexicana", "leyes federales", "leyes estatales", "código civil", "Akoma Ntoso", "México", "Mexican law", "Tezca"],
+  alternates: {
+    canonical: SITE_URL,
+    languages: {
+      'es': SITE_URL,
+      'en': `${SITE_URL}?lang=en`,
+      'x-default': SITE_URL,
+    },
+  },
 };
 
 export const viewport: Viewport = {
@@ -41,6 +52,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { ComparisonProvider } from "@/components/providers/ComparisonContext";
 import { LanguageProvider } from "@/components/providers/LanguageContext";
 import { BookmarksProvider } from "@/components/providers/BookmarksContext";
+import { AuthProvider } from "@/components/providers/AuthContext";
 import ComparisonFloatingBar from "@/components/ComparisonFloatingBar";
 import { Footer } from "@/components/Footer";
 import { ErrorBoundary } from "@/components/ErrorBoundary";
@@ -72,16 +84,18 @@ export default function RootLayout({
         >
           <ErrorBoundary>
             <LanguageProvider>
-              <BookmarksProvider>
-                <ComparisonProvider>
-                  <ReadingProgressBar />
-                  <Navbar />
-                  <main id="main-content" className="flex-1">{children}</main>
-                  <Footer />
-                  <ComparisonFloatingBar />
-                  <BackToTop />
-                </ComparisonProvider>
-              </BookmarksProvider>
+              <AuthProvider>
+                <BookmarksProvider>
+                  <ComparisonProvider>
+                    <ReadingProgressBar />
+                    <Navbar />
+                    <main id="main-content" className="flex-1">{children}</main>
+                    <Footer />
+                    <ComparisonFloatingBar />
+                    <BackToTop />
+                  </ComparisonProvider>
+                </BookmarksProvider>
+              </AuthProvider>
             </LanguageProvider>
           </ErrorBoundary>
         </ThemeProvider>

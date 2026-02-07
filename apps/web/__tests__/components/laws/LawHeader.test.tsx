@@ -1,5 +1,14 @@
 import { render, screen } from '@testing-library/react';
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi } from 'vitest';
+
+vi.mock('@/components/providers/AuthContext', () => ({
+    useAuth: vi.fn(() => ({
+        isAuthenticated: false,
+        tier: 'anon',
+        loginUrl: '/auth/login',
+    })),
+}));
+
 import { LawHeader } from '@/components/laws/LawHeader';
 import { LanguageProvider } from '@/components/providers/LanguageContext';
 import { BookmarksProvider } from '@/components/providers/BookmarksContext';

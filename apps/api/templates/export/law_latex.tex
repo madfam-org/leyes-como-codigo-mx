@@ -1,0 +1,60 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\small\textcolor{gray}{Tezca --- El Espejo de la Ley}}
+\fancyfoot[L]{\footnotesize\textcolor{gray}{\VAR{law_name|latex_escape|truncate(60, True)}}}
+\fancyfoot[R]{\footnotesize\textcolor{gray}{Pág. \thepage}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\usepackage{xcolor}
+\definecolor{articlecolor}{HTML}{2a2a6e}
+\definecolor{gray}{HTML}{666666}
+
+\titleformat{\section}{\normalfont\large\bfseries\color{articlecolor}}{}{0em}{}
+
+\begin{document}
+
+% ── Title page ──────────────────────────────────────────────────────
+\begin{center}
+{\LARGE\bfseries \VAR{law_name|latex_escape}}\\[0.5cm]
+{\large \VAR{tier_label|latex_escape}
+\BLOCK{ if category } | \VAR{category|latex_escape}\BLOCK{ endif }
+\BLOCK{ if state } | \VAR{state|latex_escape}\BLOCK{ endif }}\\[0.3cm]
+\BLOCK{ if publication_date }
+{\normalsize Publicado: \VAR{publication_date|latex_escape}}\\[0.2cm]
+\BLOCK{ endif }
+\BLOCK{ if status and status != "vigente" }
+{\normalsize\color{red} Estado: \VAR{status|latex_escape|upper}}\\[0.2cm]
+\BLOCK{ endif }
+{\normalsize \VAR{article_count} artículos}
+\end{center}
+
+\vspace{1cm}
+\noindent\rule{\textwidth}{0.4pt}
+\vspace{0.5cm}
+
+% ── Articles ────────────────────────────────────────────────────────
+\BLOCK{ for article in articles }
+\section*{\VAR{article.article_id|latex_escape}}
+
+\VAR{article.text|latex_escape}
+
+\BLOCK{ endfor }
+
+% ── Footer ──────────────────────────────────────────────────────────
+\vspace{1cm}
+\noindent\rule{\textwidth}{0.4pt}
+\begin{center}
+{\footnotesize\textcolor{gray}{Generado por Tezca --- El Espejo de la Ley | \VAR{generation_date} | tezca.mx}}
+\end{center}
+
+\end{document}

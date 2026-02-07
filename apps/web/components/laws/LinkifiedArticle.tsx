@@ -41,6 +41,7 @@ interface LinkifiedArticleProps {
     lawId: string;
     articleId: string;
     text: string;
+    minConfidence?: number;
 }
 
 /**
@@ -48,14 +49,14 @@ interface LinkifiedArticleProps {
  *
  * Fetches cross-references from API and makes legal references clickable.
  */
-export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedArticleProps) {
+export function LinkifiedArticle({ lawId, articleId, text: rawText, minConfidence = 0.6 }: LinkifiedArticleProps) {
     const { lang } = useLang();
     const t = content[lang];
 
     // Strip leading "Artículo N." from body since the heading already shows it
     const text = rawText.replace(/^(?:Art[ií]culo|ARTÍCULO)\s+\d+[\w]*\.?\s*/i, '').trim();
 
-    const [references, setReferences] = useState<CrossReference[]>([]);
+    const [allReferences, setAllReferences] = useState<CrossReference[]>([]);
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
@@ -64,7 +65,7 @@ export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedA
         fetch(`${apiUrl}/laws/${lawId}/articles/${articleId}/references/`)
             .then(r => r.ok ? r.json() : { outgoing: [] })
             .then(data => {
-                setReferences(data.outgoing || []);
+                setAllReferences(data.outgoing || []);
                 setLoading(false);
             })
             .catch(err => {
@@ -72,6 +73,9 @@ export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedA
                 setLoading(false);
             });
     }, [lawId, articleId]);
+
+    // Filter by confidence threshold
+    const references = allReferences.filter(ref => ref.confidence >= minConfidence);
 
     const buildLinkifiedText = () => {
         if (!references.length || loading) {

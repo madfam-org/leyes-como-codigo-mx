@@ -1,10 +1,20 @@
 import { Metadata } from 'next';
 import { StatesGrid } from './StatesGrid';
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
+
 export const metadata: Metadata = {
-    title: 'Estados \u2014 Tezca',
+    title: 'Estados — Tezca',
     description:
-        'Explora la legislaci\u00f3n mexicana por estado. Browse Mexican laws by state. Xictlaixmati tenahuatilli ic altepetl.',
+        'Explora la legislación mexicana por estado. Browse Mexican laws by state. Xictlaixmati tenahuatilli ic altepetl.',
+    alternates: {
+        canonical: `${SITE_URL}/estados`,
+        languages: {
+            'es': `${SITE_URL}/estados`,
+            'en': `${SITE_URL}/estados?lang=en`,
+            'x-default': `${SITE_URL}/estados`,
+        },
+    },
 };
 
 /**

@@ -17,6 +17,15 @@ from .admin_views import (
     system_metrics,
 )
 from .cross_reference_views import article_cross_references, law_cross_references
+from .export_views import (
+    export_docx,
+    export_epub,
+    export_json,
+    export_latex,
+    export_pdf,
+    export_quota,
+    export_txt,
+)
 from .law_views import (
     LawDetailView,
     LawListView,
@@ -84,6 +93,13 @@ urlpatterns = [
     path("laws/<str:law_id>/structure/", law_structure, name="law-structure"),
     path("laws/<str:law_id>/references/", law_cross_references, name="law-references"),
     path("laws/<str:law_id>/related/", RelatedLawsView.as_view(), name="law-related"),
+    path("laws/<str:law_id>/export/pdf/", export_pdf, name="law-export-pdf"),
+    path("laws/<str:law_id>/export/txt/", export_txt, name="law-export-txt"),
+    path("laws/<str:law_id>/export/latex/", export_latex, name="law-export-latex"),
+    path("laws/<str:law_id>/export/docx/", export_docx, name="law-export-docx"),
+    path("laws/<str:law_id>/export/epub/", export_epub, name="law-export-epub"),
+    path("laws/<str:law_id>/export/json/", export_json, name="law-export-json"),
+    path("laws/<str:law_id>/export/quota/", export_quota, name="law-export-quota"),
     path("categories/", categories_list, name="categories-list"),
     path("states/", states_list, name="states-list"),
     path("municipalities/", municipalities_list, name="municipalities-list"),

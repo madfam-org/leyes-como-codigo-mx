@@ -159,3 +159,23 @@ class CrossReference(models.Model):
             url += f"#article-{self.target_article_num}"
 
         return url
+
+
+class ExportLog(models.Model):
+    """Tracks export requests for quota enforcement."""
+
+    user_id = models.CharField(max_length=255, blank=True, default="")
+    ip_address = models.GenericIPAddressField()
+    law_id = models.CharField(max_length=50)
+    format = models.CharField(max_length=10)
+    tier = models.CharField(max_length=20, default="anon")
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        indexes = [
+            models.Index(fields=["user_id", "created_at"]),
+            models.Index(fields=["ip_address", "created_at"]),
+        ]
+
+    def __str__(self):
+        return f"{self.tier}:{self.format} {self.law_id} ({self.created_at})"

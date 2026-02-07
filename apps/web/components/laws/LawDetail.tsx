@@ -14,6 +14,8 @@ import { LawDetailSkeleton } from '@/components/skeletons/LawDetailSkeleton';
 import { ArticleSearch } from './ArticleSearch';
 import { KeyboardShortcuts } from './KeyboardShortcuts';
 import { RelatedLaws } from './RelatedLaws';
+import { CrossReferencePanel } from './CrossReferencePanel';
+import { VersionTimeline } from './VersionTimeline';
 import { recordLawView } from '@/components/RecentlyViewed';
 
 const content = {
@@ -72,9 +74,11 @@ export function LawDetail({ lawId }: LawDetailProps) {
                 const articlesData = await articlesRes.json();
 
                 const law = lawData.law || lawData;
+                const allVersions = lawData.versions || [];
                 setData({
                     law,
-                    version: lawData.version || (lawData.versions && lawData.versions[0]) || {},
+                    version: lawData.version || (allVersions[0]) || {},
+                    versions: allVersions,
                     articles: articlesData.articles || [],
                     total: articlesData.total || 0,
                 });
@@ -180,6 +184,8 @@ export function LawDetail({ lawId }: LawDetailProps) {
                         onFocusSearch={() => searchInputRef.current?.focus()}
                         lawId={lawId}
                     />
+                    <CrossReferencePanel lawId={lawId} />
+                    <VersionTimeline versions={data.versions} />
                     <RelatedLaws lawId={lawId} />
                 </main>
             </div>

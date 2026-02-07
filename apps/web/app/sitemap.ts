@@ -3,6 +3,28 @@ import { API_BASE_URL } from '@/lib/config';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
 
+// Known categories (matches API /categories/ response keys)
+const CATEGORIES = [
+  'Códigos',
+  'Constituciones',
+  'Leyes Generales',
+  'Leyes Orgánicas',
+  'Leyes Reglamentarias',
+  'Reglamentos',
+  'Otras',
+];
+
+// 32 Mexican states (slug form for URLs)
+const STATES = [
+  'aguascalientes', 'baja_california', 'baja_california_sur', 'campeche',
+  'chiapas', 'chihuahua', 'ciudad_de_mexico', 'coahuila', 'colima',
+  'durango', 'estado_de_mexico', 'guanajuato', 'guerrero', 'hidalgo',
+  'jalisco', 'michoacan', 'morelos', 'nayarit', 'nuevo_leon', 'oaxaca',
+  'puebla', 'queretaro', 'quintana_roo', 'san_luis_potosi', 'sinaloa',
+  'sonora', 'tabasco', 'tamaulipas', 'tlaxcala', 'veracruz', 'yucatan',
+  'zacatecas',
+];
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Static routes
   const staticRoutes: MetadataRoute.Sitemap = [
@@ -46,6 +68,34 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.4,
   }));
 
+  // Browse routes: /categorias and /estados index pages + individual pages
+  const browseRoutes: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE_URL}/categorias`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    },
+    ...CATEGORIES.map((cat) => ({
+      url: `${BASE_URL}/categorias/${encodeURIComponent(cat)}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    })),
+    {
+      url: `${BASE_URL}/estados`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.8,
+    },
+    ...STATES.map((state) => ({
+      url: `${BASE_URL}/estados/${encodeURIComponent(state)}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+    })),
+  ];
+
   // Dynamic law routes — paginate through API
   const lawRoutes: MetadataRoute.Sitemap = [];
   try {
@@ -71,5 +121,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     // API unavailable at build time — skip dynamic routes
   }
 
-  return [...staticRoutes, ...contentRoutes, ...lawRoutes];
+  return [...staticRoutes, ...contentRoutes, ...browseRoutes, ...lawRoutes];
 }

@@ -91,7 +91,9 @@ class LawDetailView(APIView):
                 {
                     "publication_date": v.publication_date,
                     "valid_from": v.valid_from,
+                    "valid_to": v.valid_to,
                     "dof_url": v.dof_url,
+                    "change_summary": v.change_summary,
                     "xml_file": (
                         v.xml_file_path.split("/")[-1] if v.xml_file_path else None
                     ),

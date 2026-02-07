@@ -255,6 +255,20 @@ export const api = {
     },
 
     /**
+     * Get cross-reference statistics for a law
+     */
+    getLawReferences: async (lawId: string): Promise<{
+        statistics: {
+            total_outgoing: number;
+            total_incoming: number;
+            most_referenced_laws: { slug: string; count: number }[];
+            most_citing_laws: { slug: string; count: number }[];
+        };
+    }> => {
+        return fetcher(`/laws/${lawId}/references/`);
+    },
+
+    /**
      * Admin Dashboard endpoints
      */
     getAdminMetrics: async () => {

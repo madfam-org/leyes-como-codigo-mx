@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { useLang, LOCALE_MAP } from '@/components/providers/LanguageContext';
 import { BookmarkButton } from '@/components/BookmarkButton';
 import { PDFExportButton } from '@/components/PDFExportButton';
+import { ExportDropdown } from './ExportDropdown';
 import { ShareButtons } from '@/components/ShareButtons';
 
 const content = {
@@ -105,6 +106,7 @@ export function LawHeader({ law, version }: LawHeaderProps) {
 
                     <div className="flex flex-wrap gap-2">
                         <BookmarkButton lawId={law.official_id || ''} lawName={law.name} />
+                        <ExportDropdown lawId={law.official_id || ''} />
                         <PDFExportButton />
                         <Link
                             href={`/compare?laws=${encodeURIComponent(law.official_id || '')}`}

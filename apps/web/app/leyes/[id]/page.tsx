@@ -72,14 +72,24 @@ export async function generateMetadata({
         const tierLabel = law.tier === 'state' ? 'Estatal' : law.tier === 'municipal' ? 'Municipal' : 'Federal';
         const description = `${law.name} — ${tierLabel}${law.category ? ` · ${law.category}` : ''}. Texto completo en formato digital.`;
 
+        const canonicalUrl = `${siteUrl}/leyes/${lawId}`;
+
         return {
             title: `${law.name || law.official_id} — Tezca`,
             description,
+            alternates: {
+                canonical: canonicalUrl,
+                languages: {
+                    'es': canonicalUrl,
+                    'en': `${canonicalUrl}?lang=en`,
+                    'x-default': canonicalUrl,
+                },
+            },
             openGraph: {
                 title: law.name || law.official_id,
                 description,
                 type: 'article',
-                url: `${siteUrl}/leyes/${lawId}`,
+                url: canonicalUrl,
                 siteName: 'Tezca',
             },
             twitter: {

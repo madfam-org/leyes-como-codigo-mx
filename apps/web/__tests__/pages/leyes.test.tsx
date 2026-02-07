@@ -70,8 +70,8 @@ const mockLawsResponse = {
     next: null,
     previous: null,
     results: [
-        { id: 'ley-amparo', name: 'Ley de Amparo', grade: 'A', priority: 1, articles: 271, score: 98.5, transitorios: 12 },
-        { id: 'codigo-civil', name: 'Codigo Civil Federal', grade: 'B', priority: 2, articles: 450, score: 85.0, transitorios: 5 },
+        { id: 'ley-amparo', name: 'Ley de Amparo', grade: 'A', priority: 1, articles: 271, score: 98.5, transitorios: 12, versions: 1 },
+        { id: 'codigo-civil', name: 'Codigo Civil Federal', grade: 'B', priority: 2, articles: 450, score: 85.0, transitorios: 5, versions: 2 },
     ],
 };
 

@@ -67,6 +67,10 @@ SPECTACULAR_SETTINGS = {
             "name": "Admin",
             "description": "System health, metrics, and ingestion management",
         },
+        {
+            "name": "Export",
+            "description": "Download laws in multiple formats (TXT, PDF, LaTeX, DOCX, EPUB, JSON) with tiered access",
+        },
     ],
 }
 

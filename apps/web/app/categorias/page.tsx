@@ -4,39 +4,26 @@ import type { Metadata } from 'next';
 import { API_BASE_URL } from '@/lib/config';
 
 export function generateMetadata(): Metadata {
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
+  const canonicalUrl = `${siteUrl}/categorias`;
   return {
     title: 'Categorias — Tezca',
     description:
       'Explora la legislacion mexicana por categoria: civil, penal, mercantil, fiscal, laboral, administrativo, constitucional.',
+    alternates: {
+      canonical: canonicalUrl,
+      languages: {
+        'es': canonicalUrl,
+        'en': `${canonicalUrl}?lang=en`,
+        'x-default': canonicalUrl,
+      },
+    },
     openGraph: {
       title: 'Categorias — Tezca',
       description:
         'Explora la legislacion mexicana por categoria juridica.',
       type: 'website',
       siteName: 'Tezca',
-    },
-    other: {
-      'script:ld+json': JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          {
-            '@type': 'ListItem',
-            position: 1,
-            name: 'Inicio',
-            item:
-              (process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx') + '/',
-          },
-          {
-            '@type': 'ListItem',
-            position: 2,
-            name: 'Categorias',
-            item:
-              (process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx') +
-              '/categorias',
-          },
-        ],
-      }),
     },
   };
 }

@@ -5,7 +5,7 @@ import { useEffect, useState, useMemo, useRef, useCallback } from 'react';
 import { api } from '@/lib/api';
 import { Button } from "@tezca/ui";
 import Link from 'next/link';
-import { ArrowLeft, Loader2, Map } from 'lucide-react';
+import { ArrowLeft, Loader2, Map as MapIcon } from 'lucide-react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { ComparisonPane } from './comparison/ComparisonPane';
 import { ComparisonMetadataPanel } from './comparison/ComparisonMetadataPanel';
@@ -114,6 +114,19 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
         return intersection;
     }, [data]);
 
+    // Build article text maps for diff highlighting
+    const articleMaps = useMemo((): [Map<string, string>, Map<string, string>] => {
+        if (data.length < 2) {
+            const empty = new Map() as Map<string, string>;
+            return [empty, new Map() as Map<string, string>];
+        }
+        const mapA = new Map() as Map<string, string>;
+        const mapB = new Map() as Map<string, string>;
+        for (const a of data[0].details.articles) mapA.set(a.article_id, a.text);
+        for (const a of data[1].details.articles) mapB.set(a.article_id, a.text);
+        return [mapA, mapB];
+    }, [data]);
+
     // Synced scroll handler using scroll ratio
     const handleScroll = useCallback((source: 'a' | 'b') => {
         if (!syncScroll || isSyncing.current) return;
@@ -173,7 +186,7 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
                 </Button>
                 <div>
                     <h1 className="text-base sm:text-xl font-bold flex items-center gap-2">
-                        <Map className="h-4 w-4 sm:h-5 sm:w-5 text-primary" />
+                        <MapIcon className="h-4 w-4 sm:h-5 sm:w-5 text-primary" />
                         <span className="hidden sm:inline">{t.titleFull}</span>
                         <span className="sm:hidden">{t.titleShort}</span>
                     </h1>
@@ -198,6 +211,8 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
                             key={law.details.law_id}
                             law={law}
                             matchedIds={matchedIds}
+                            otherArticles={articleMaps[i === 0 ? 1 : 0]}
+                            side={i === 0 ? 'left' : 'right'}
                             scrollRef={i === 0 ? scrollRefA : scrollRefB}
                             onScroll={() => handleScroll(i === 0 ? 'a' : 'b')}
                         />
@@ -214,9 +229,14 @@ export default function ComparisonView({ lawIds }: ComparisonViewProps) {
                                 </TabsTrigger>
                             ))}
                         </TabsList>
-                        {data.map((law) => (
+                        {data.map((law, i) => (
                             <TabsContent key={law.details.law_id} value={law.details.law_id} className="flex-1 overflow-hidden mt-0">
-                                <ComparisonPane law={law} matchedIds={matchedIds} />
+                                <ComparisonPane
+                                    law={law}
+                                    matchedIds={matchedIds}
+                                    otherArticles={articleMaps[i === 0 ? 1 : 0]}
+                                    side={i === 0 ? 'left' : 'right'}
+                                />
                             </TabsContent>
                         ))}
                     </Tabs>
