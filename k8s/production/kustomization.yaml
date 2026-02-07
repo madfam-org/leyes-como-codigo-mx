@@ -4,18 +4,22 @@ kind: Kustomization
 namespace: tezca
 
 resources:
-  - namespace.yaml
-  - tezca-api-deployment.yaml
-  - tezca-api-service.yaml
-  - tezca-web-deployment.yaml
-  - tezca-web-service.yaml
-  - tezca-admin-deployment.yaml
-  - tezca-admin-service.yaml
-  - tezca-worker-deployment.yaml
-  - tezca-beat-deployment.yaml
-  - tezca-redis-deployment.yaml
-  - tezca-redis-service.yaml
-  - tezca-redis-pvc.yaml
-  - tezca-es-deployment.yaml
-  - tezca-es-service.yaml
-  - tezca-es-pvc.yaml
+- namespace.yaml
+- tezca-api-deployment.yaml
+- tezca-api-service.yaml
+- tezca-web-deployment.yaml
+- tezca-web-service.yaml
+- tezca-admin-deployment.yaml
+- tezca-admin-service.yaml
+- tezca-worker-deployment.yaml
+- tezca-beat-deployment.yaml
+- tezca-redis-deployment.yaml
+- tezca-redis-service.yaml
+- tezca-redis-pvc.yaml
+- tezca-es-deployment.yaml
+- tezca-es-service.yaml
+- tezca-es-pvc.yaml
+images:
+- digest: sha256:a22b2d8907c3c23bcab6c0041944066942ddefb9dfba650e1a0c57fea4e60728
+  name: ghcr.io/madfam-org/tezca/admin
+  newName: ghcr.io/madfam-org/tezca/admin
