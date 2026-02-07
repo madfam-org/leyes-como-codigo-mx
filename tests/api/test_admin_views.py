@@ -14,13 +14,16 @@ class TestAdminViews:
 
         # Create some test data for metrics
         Law.objects.create(
-            official_id="law-1", name="Federal Law", tier="0", category="ley"
+            official_id="law-1", name="Federal Law", tier="federal", category="ley"
         )
         Law.objects.create(
-            official_id="law-2", name="State Law", tier="1", category="codigo"
+            official_id="law-2", name="State Law", tier="state", category="codigo"
         )
         Law.objects.create(
-            official_id="law-3", name="Muni Law", tier="2", category="reglamento"
+            official_id="law-3",
+            name="Muni Law",
+            tier="municipal",
+            category="reglamento",
         )
 
     def test_health_check(self):
@@ -84,15 +87,14 @@ class TestAdminViews:
         assert len(data["jobs"]) == 1
         assert data["jobs"][0]["status"] == "idle"
 
-    @patch("elasticsearch.Elasticsearch")
+    @patch("apps.api.admin_views.es_client")
     @patch("apps.api.admin_views.connection")
-    def test_system_config(self, mock_connection, mock_es_class):
+    def test_system_config(self, mock_connection, mock_es):
         """Test GET /admin/config/ returns all config sections."""
         # Mock database connection check
         mock_connection.ensure_connection.return_value = None
 
-        # Mock Elasticsearch ping success (imported locally inside system_config)
-        mock_es = mock_es_class.return_value
+        # Mock Elasticsearch ping success
         mock_es.ping.return_value = True
 
         url = reverse("admin-config")
@@ -129,18 +131,17 @@ class TestAdminViews:
 
         # Verify mocks were called
         mock_connection.ensure_connection.assert_called_once()
-        mock_es_class.assert_called_once()
         mock_es.ping.assert_called_once()
 
-    @patch("elasticsearch.Elasticsearch")
+    @patch("apps.api.admin_views.es_client")
     @patch("apps.api.admin_views.connection")
-    def test_system_config_es_unavailable(self, mock_connection, mock_es_class):
+    def test_system_config_es_unavailable(self, mock_connection, mock_es):
         """Test /admin/config/ when Elasticsearch raises an exception."""
         # Mock database connection check (succeeds)
         mock_connection.ensure_connection.return_value = None
 
-        # Mock Elasticsearch to raise an exception on instantiation (imported locally)
-        mock_es_class.side_effect = Exception("Connection refused")
+        # Mock Elasticsearch ping to raise an exception
+        mock_es.ping.side_effect = Exception("Connection refused")
 
         url = reverse("admin-config")
         response = self.client.get(url)

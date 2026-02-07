@@ -64,11 +64,10 @@ class TestLawApi:
         assert response.status_code == 200
         assert response.data["state"] == "Colima"
 
-    @patch("apps.api.law_views.Elasticsearch")
-    def test_law_articles(self, mock_es_class):
+    @patch("apps.api.law_views.es_client")
+    def test_law_articles(self, mock_es):
         """Test retrieving law articles."""
         # Mock Elasticsearch response
-        mock_es = mock_es_class.return_value
         mock_es.search.return_value = {
             "hits": {
                 "hits": [
@@ -87,7 +86,7 @@ class TestLawApi:
         assert len(response.data["articles"]) == 2
 
         # Verify ES call
-        mock_es_class.assert_called_once()
+        mock_es.search.assert_called_once()
 
     def test_states_list(self):
         """Test verifying state list generation."""
@@ -140,10 +139,9 @@ class TestLawApi:
         assert data["results"] == []
         assert data["total"] == 0
 
-    @patch("apps.api.search_views.Elasticsearch")
-    def test_search_with_results(self, mock_es_class):
+    @patch("apps.api.search_views.es_client")
+    def test_search_with_results(self, mock_es):
         """Test GET /search/?q=articulo returns paginated results."""
-        mock_es = mock_es_class.return_value
         mock_es.ping.return_value = True
         mock_es.search.return_value = {
             "hits": {
@@ -216,14 +214,12 @@ class TestLawApi:
         assert first["score"] == 5.2
 
         # Verify ES was queried
-        mock_es_class.assert_called_once()
         mock_es.ping.assert_called_once()
         mock_es.search.assert_called_once()
 
-    @patch("apps.api.law_views.Elasticsearch")
-    def test_law_structure_natural_sort(self, mock_es_class):
+    @patch("apps.api.law_views.es_client")
+    def test_law_structure_natural_sort(self, mock_es):
         """Test GET /laws/{id}/structure/ builds sorted tree from hierarchy."""
-        mock_es = mock_es_class.return_value
         mock_es.search.return_value = {
             "hits": {
                 "hits": [
@@ -395,9 +391,9 @@ class TestLawApi:
         assert incoming[0]["sourceArticle"] == "103"
         assert incoming[0]["confidence"] == 0.90
 
-    @patch("apps.api.law_views.Elasticsearch")
+    @patch("apps.api.law_views.es_client")
     @patch("apps.api.law_views.REGISTRY_PATH")
-    def test_stats_coverage_field(self, mock_registry_path, mock_es_class):
+    def test_stats_coverage_field(self, mock_registry_path, mock_es):
         """Test that /stats/ returns the coverage breakdown from universe registry."""
         # Create a temp registry file
         registry = {
@@ -435,7 +431,6 @@ class TestLawApi:
             lv._registry_cache["data"] = None
             lv._registry_cache["mtime"] = 0
 
-            mock_es = mock_es_class.return_value
             mock_es.ping.return_value = True
             mock_es.count.return_value = {"count": 500000}
 
@@ -652,7 +647,7 @@ class TestSuggestEndpoint:
         url = reverse("law-suggest")
         response = self.client.get(url, {"q": "a"})
         assert response.status_code == 200
-        assert response.json() == []
+        assert response.json() == {"suggestions": []}
 
     def test_returns_matching_laws(self):
         """Returns laws whose name contains the query substring."""
@@ -678,7 +673,7 @@ class TestSuggestEndpoint:
         url = reverse("law-suggest")
         response = self.client.get(url, {"q": "ley"})
         assert response.status_code == 200
-        data = response.json()
+        data = response.json()["suggestions"]
         assert len(data) == 2
         names = [d["name"] for d in data]
         assert "Ley de Amparo" in names
@@ -697,7 +692,7 @@ class TestSuggestEndpoint:
         url = reverse("law-suggest")
         response = self.client.get(url, {"q": "ley"})
         assert response.status_code == 200
-        data = response.json()
+        data = response.json()["suggestions"]
         assert len(data) == 8
 
     def test_case_insensitive(self):
@@ -709,6 +704,6 @@ class TestSuggestEndpoint:
         url = reverse("law-suggest")
         response = self.client.get(url, {"q": "AMPARO"})
         assert response.status_code == 200
-        data = response.json()
+        data = response.json()["suggestions"]
         assert len(data) == 1
         assert data[0]["name"] == "Ley de Amparo"
