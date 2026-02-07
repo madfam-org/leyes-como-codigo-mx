@@ -35,6 +35,18 @@ const staticLaws: Law[] = [
         priority: 1,
         tier: 'constitutional',
         file: 'mx-fed-amparo-v2.xml'
+    },
+    {
+        id: 'ley-federal-del-trabajo',
+        name: 'Ley Federal del Trabajo',
+        fullName: 'Ley Federal del Trabajo',
+        articles: 1010,
+        transitorios: 14,
+        grade: 'B',
+        score: 92.0,
+        priority: 1,
+        tier: 'federal',
+        file: 'mx-fed-lft-v2.xml'
     }
 ];
 

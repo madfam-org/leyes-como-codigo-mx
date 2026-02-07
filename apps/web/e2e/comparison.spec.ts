@@ -5,7 +5,7 @@ test.describe('Comparison flow', () => {
         await page.goto('/laws');
 
         // Law cards render with comparison checkboxes
-        const checkboxes = page.locator('[title="Comparar ley"]');
+        const checkboxes = page.getByRole('checkbox', { name: /comparar|compare/i });
         await expect(checkboxes.first()).toBeVisible();
 
         // Click first checkbox
@@ -19,7 +19,7 @@ test.describe('Comparison flow', () => {
     test('clear button resets selection', async ({ page }) => {
         await page.goto('/laws');
 
-        const checkboxes = page.locator('[title="Comparar ley"]');
+        const checkboxes = page.getByRole('checkbox', { name: /comparar|compare/i });
         await expect(checkboxes.first()).toBeVisible();
 
         await checkboxes.nth(0).click();
