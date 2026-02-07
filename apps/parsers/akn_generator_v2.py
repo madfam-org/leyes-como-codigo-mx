@@ -188,7 +188,12 @@ class AkomaNtosoGeneratorV2:
                     suffix = match.group(2).strip().rstrip(".")
                     art_num = f"{base}-{suffix}"
                     # Normalise for dedup: "27-A" → "art-27a", "5-Bis 1" → "art-5bis1"
-                    norm = art_num.lower().replace(".", "").replace(" ", "").replace("-", "")
+                    norm = (
+                        art_num.lower()
+                        .replace(".", "")
+                        .replace(" ", "")
+                        .replace("-", "")
+                    )
                     art_id = f"art-{norm}"
                 else:
                     # Standard numeric article

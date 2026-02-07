@@ -29,7 +29,9 @@ class LawRegistry:
         fiscal_laws = registry.filter_by_tier('fiscal')
     """
 
-    def __init__(self, registry_path: Optional[Path] = None, include_reglamentos: bool = False):
+    def __init__(
+        self, registry_path: Optional[Path] = None, include_reglamentos: bool = False
+    ):
         """
         Initialize law registry.
 

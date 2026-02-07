@@ -107,7 +107,9 @@ class DofScraper:
             logger.error("Request timed out for DOF index at %s", index_url)
             return []
         except requests.HTTPError as exc:
-            logger.error("HTTP %s for DOF index: %s", exc.response.status_code, index_url)
+            logger.error(
+                "HTTP %s for DOF index: %s", exc.response.status_code, index_url
+            )
             return []
         except requests.RequestException as exc:
             logger.error("Unexpected request error for DOF index: %s", exc)
@@ -321,7 +323,9 @@ class DofScraper:
                     continue
 
             # Look for entry links within this row.
-            links = row.xpath('.//a[contains(@href, "nota_detalle") or contains(@href, "nota_to_doc")]')
+            links = row.xpath(
+                './/a[contains(@href, "nota_detalle") or contains(@href, "nota_to_doc")]'
+            )
             for link in links:
                 title = _clean_text(link.text_content())
                 href = link.get("href", "")
@@ -529,9 +533,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    target_date = (
-        datetime.date.fromisoformat(args.date) if args.date else None
-    )
+    target_date = datetime.date.fromisoformat(args.date) if args.date else None
 
     known_laws: Optional[List[str]] = None
     if args.laws_file:

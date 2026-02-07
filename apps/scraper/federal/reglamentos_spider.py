@@ -24,9 +24,7 @@ def fetch_reglamentos(local_file=None):
 
     # Find all links to PDFs in regley/ or Regla/ folders
     # The reglamentos page may use different PDF path conventions
-    links = tree.xpath(
-        '//a[contains(@href, "regley/") or contains(@href, "Regla/")]'
-    )
+    links = tree.xpath('//a[contains(@href, "regley/") or contains(@href, "Regla/")]')
 
     seen_urls = set()
 

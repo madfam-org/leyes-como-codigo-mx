@@ -74,7 +74,9 @@ def test_reglamento_slug_prefix(regla_html_file):
 
     results = fetch_reglamentos(local_file=regla_html_file)
     for item in results:
-        assert item["id"].startswith("reg_"), f"Slug should start with reg_: {item['id']}"
+        assert item["id"].startswith(
+            "reg_"
+        ), f"Slug should start with reg_: {item['id']}"
 
 
 def test_reglamento_pdf_urls(regla_html_file):

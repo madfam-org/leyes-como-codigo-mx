@@ -222,7 +222,9 @@ def format_table(results: List[LawResult]) -> str:
 
     for r in results:
         if not r.file_found:
-            lines.append(f"{r.name:<38} {'--':>5} {'--':>6} {'--':>7} {'--':>20} {'--':>6} {'SKIP':>8}")
+            lines.append(
+                f"{r.name:<38} {'--':>5} {'--':>6} {'--':>7} {'--':>20} {'--':>6} {'SKIP':>8}"
+            )
             continue
 
         struct_summary = ", ".join(
@@ -252,9 +254,7 @@ def compute_accuracy_metrics(results: List[LawResult]) -> Dict:
 
     total = len(evaluated)
     passed = sum(1 for r in evaluated if r.passed)
-    article_pass = sum(
-        1 for r in evaluated if r.delta_pct <= TOLERANCE_PCT
-    )
+    article_pass = sum(1 for r in evaluated if r.delta_pct <= TOLERANCE_PCT)
     structure_pass = sum(1 for r in evaluated if r.structure_pass)
     trans_pass = sum(1 for r in evaluated if r.transitorios_pass)
     avg_confidence = sum(r.confidence for r in evaluated) / total
@@ -350,7 +350,9 @@ def main() -> int:
 
     art = metrics.get("article_accuracy", {})
     print(f"  Avg article delta:     {art.get('average_delta_pct', 0)}%")
-    print(f"  Article accuracy:      {art.get('within_tolerance', 0)}/{metrics.get('evaluated', 0)}")
+    print(
+        f"  Article accuracy:      {art.get('within_tolerance', 0)}/{metrics.get('evaluated', 0)}"
+    )
 
     struct = metrics.get("structure_accuracy", {})
     print(f"  Structure accuracy:    {struct.get('rate_pct', 0)}%")

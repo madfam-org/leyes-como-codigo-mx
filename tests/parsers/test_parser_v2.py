@@ -366,7 +366,9 @@ class TestTransitoriosDetection:
         assert len(transitorios) == 2
 
     def test_no_transitorios_produces_warning(self):
-        text = "Articulo 1.- Unica disposicion con contenido suficiente para confianza.\n"
+        text = (
+            "Articulo 1.- Unica disposicion con contenido suficiente para confianza.\n"
+        )
         parser = AkomaNtosoGeneratorV2()
         result = parser.parse_structure_v2(text)
 
@@ -521,9 +523,7 @@ class TestFullParseCycle:
         assert len(ids) == len(set(ids)), f"Duplicate IDs found: {ids}"
 
     def test_article_content_preserved(self):
-        art1 = next(
-            (e for e in self.result.elements if e.get("id") == "art-1"), None
-        )
+        art1 = next((e for e in self.result.elements if e.get("id") == "art-1"), None)
         assert art1 is not None
         assert "regular las actividades" in art1["content"]
 
@@ -555,9 +555,7 @@ class TestFullParseCycleMinimal:
         assert self.result.metadata["structure"]["chapter"] >= 1
 
     def test_derogated_article_detected(self):
-        art3 = next(
-            (e for e in self.result.elements if e.get("id") == "art-3"), None
-        )
+        art3 = next((e for e in self.result.elements if e.get("id") == "art-3"), None)
         assert art3 is not None
         assert art3["derogated"] is True
 
@@ -644,9 +642,7 @@ class TestXMLGeneration:
         from lxml import etree
 
         parser = AkomaNtosoGeneratorV2()
-        metadata = parser.create_frbr_metadata(
-            "ley", "2024-01-01", "test", "Test Law"
-        )
+        metadata = parser.create_frbr_metadata("ley", "2024-01-01", "test", "Test Law")
         output_path = tmp_path / "out" / "test.xml"
         xml_path, _ = parser.generate_xml(MINIMAL_LAW_TEXT, metadata, output_path)
 
