@@ -74,6 +74,20 @@ spec:
               value: "redis://tezca-redis:6379/0"
             - name: ES_HOST
               value: "http://tezca-es:9200"
+          livenessProbe:
+            exec:
+              command: ["python", "-c", "import celery; print('ok')"]
+            initialDelaySeconds: 30
+            periodSeconds: 60
+            timeoutSeconds: 10
+            failureThreshold: 3
+          readinessProbe:
+            exec:
+              command: ["python", "-c", "import celery; print('ok')"]
+            initialDelaySeconds: 15
+            periodSeconds: 30
+            timeoutSeconds: 10
+            failureThreshold: 3
           resources:
             requests:
               cpu: 250m
