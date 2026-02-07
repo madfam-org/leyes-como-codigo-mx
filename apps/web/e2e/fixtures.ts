@@ -117,23 +117,18 @@ export async function mockApiRoutes(page: Page) {
         route.fulfill({ json: MOCK_SEARCH_RESULTS })
     );
 
-    // Laws list (paginated) — must be before individual law routes
-    await page.route(`${API}/laws/`, (route) => {
-        const url = new URL(route.request().url());
-        // Only intercept the list endpoint (no sub-path like /laws/some-id/)
-        if (url.pathname.endsWith('/laws/') || url.pathname.endsWith('/laws')) {
-            return route.fulfill({ json: {
-                count: 2,
-                next: null,
-                previous: null,
-                results: [
-                    { id: MOCK_LAW.id, name: MOCK_LAW.name, tier: MOCK_LAW.tier, versions: 1 },
-                    { id: MOCK_LAW_2.id, name: MOCK_LAW_2.name, tier: MOCK_LAW_2.tier, versions: 1 },
-                ],
-            } });
-        }
-        return route.fallback();
-    });
+    // Laws list (paginated) — matches /laws/ and /laws/?page_size=50 etc.
+    await page.route(new RegExp(`/api/v1/laws/(\\?|$)`), (route) =>
+        route.fulfill({ json: {
+            count: 2,
+            next: null,
+            previous: null,
+            results: [
+                { id: MOCK_LAW.id, name: MOCK_LAW.name, tier: MOCK_LAW.tier, versions: 1 },
+                { id: MOCK_LAW_2.id, name: MOCK_LAW_2.name, tier: MOCK_LAW_2.tier, versions: 1 },
+            ],
+        } })
+    );
 
     await page.route(`${API}/laws/ley-federal-del-trabajo/`, (route) =>
         route.fulfill({ json: MOCK_LAW })
