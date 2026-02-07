@@ -272,3 +272,65 @@ class AcquisitionLog(models.Model):
         if total == 0:
             return None
         return round((self.downloaded - self.failed) / total * 100, 1)
+
+
+class RoadmapItem(models.Model):
+    """Tracks expansion roadmap items across phases."""
+
+    PHASE_CHOICES = [
+        (1, "Quick Wins"),
+        (2, "Institutional Outreach"),
+        (3, "New Scrapers"),
+        (4, "Partnerships"),
+    ]
+
+    STATUS_CHOICES = [
+        ("planned", "Planned"),
+        ("in_progress", "In Progress"),
+        ("blocked", "Blocked"),
+        ("completed", "Completed"),
+        ("deferred", "Deferred"),
+    ]
+
+    CATEGORY_CHOICES = [
+        ("fix", "Fix"),
+        ("scraper", "New Scraper"),
+        ("outreach", "Outreach"),
+        ("investigation", "Investigation"),
+        ("partnership", "Partnership"),
+        ("infrastructure", "Infrastructure"),
+    ]
+
+    EFFORT_CHOICES = [
+        ("low", "Low"),
+        ("medium", "Medium"),
+        ("high", "High"),
+    ]
+
+    phase = models.IntegerField(choices=PHASE_CHOICES)
+    title = models.CharField(max_length=300)
+    description = models.TextField(blank=True)
+    category = models.CharField(max_length=20, choices=CATEGORY_CHOICES)
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default="planned")
+    estimated_laws = models.IntegerField(default=0)
+    estimated_effort = models.CharField(
+        max_length=20, blank=True, choices=EFFORT_CHOICES
+    )
+    priority = models.IntegerField(default=5)
+    sort_order = models.IntegerField(default=0)
+    progress_pct = models.IntegerField(default=0)
+    notes = models.TextField(blank=True)
+    related_gaps = models.ManyToManyField("GapRecord", blank=True)
+    related_source = models.ForeignKey(
+        "DataSource", null=True, blank=True, on_delete=models.SET_NULL
+    )
+    started_at = models.DateTimeField(null=True, blank=True)
+    completed_at = models.DateTimeField(null=True, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        ordering = ["phase", "sort_order", "priority"]
+
+    def __str__(self):
+        return f"[Phase {self.phase}] {self.title} ({self.get_status_display()})"

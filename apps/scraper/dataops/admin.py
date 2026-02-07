@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import AcquisitionLog, DataSource, GapRecord
+from .models import AcquisitionLog, DataSource, GapRecord, RoadmapItem
 
 
 @admin.register(DataSource)
@@ -63,3 +63,20 @@ class AcquisitionLogAdmin(admin.ModelAdmin):
     list_filter = ["operation"]
     search_fields = ["operation", "error_summary"]
     readonly_fields = ["started_at"]
+
+
+@admin.register(RoadmapItem)
+class RoadmapItemAdmin(admin.ModelAdmin):
+    list_display = [
+        "title",
+        "phase",
+        "category",
+        "status",
+        "progress_pct",
+        "estimated_laws",
+        "priority",
+    ]
+    list_editable = ["status", "progress_pct"]
+    list_filter = ["phase", "status", "category"]
+    search_fields = ["title", "description", "notes"]
+    readonly_fields = ["created_at", "updated_at"]

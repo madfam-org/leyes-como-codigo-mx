@@ -260,3 +260,189 @@ class CoverageDashboard:
             "municipal": municipal,
             "gaps": gap_stats,
         }
+
+    def dashboard_report(self):
+        """Consolidated dashboard report combining universe registry, DB counts, gaps, and health."""
+        from apps.api.models import Law
+
+        from .gap_registry import GapRegistry
+        from .health_monitor import HealthMonitor
+        from .models import DataSource, GapRecord
+
+        # Load universe registry
+        registry_path = DATA_DIR / "universe_registry.json"
+        registry = _load_json(registry_path)
+        sources = registry.get("sources", {})
+        views_def = registry.get("coverage_views", {})
+
+        # ── Tier Progress ──────────────────────────────────────────
+        tier_db_queries = {
+            "federal_leyes_vigentes": Law.objects.filter(tier="federal").count(),
+            "state_legislativo": Law.objects.filter(tier="state")
+            .exclude(official_id__contains="_nl_")
+            .count(),
+            "state_non_legislativo": Law.objects.filter(
+                tier="state", official_id__contains="_nl_"
+            ).count(),
+            "municipal": Law.objects.filter(tier="municipal").count(),
+        }
+
+        tier_progress = []
+        for key, src in sources.items():
+            known = src.get("known_count")
+            scraped = src.get("scraped_count", 0)
+            in_db = tier_db_queries.get(key, 0)
+            perm_gaps = src.get("permanent_gaps", 0)
+            pct = round(scraped / known * 100, 1) if known and known > 0 else 0
+            tier_progress.append(
+                {
+                    "key": key,
+                    "label": src.get("source_name", key),
+                    "known_universe": known,
+                    "scraped": scraped,
+                    "in_db": in_db,
+                    "permanent_gaps": perm_gaps,
+                    "coverage_pct": pct,
+                    "confidence": src.get("confidence", "unknown"),
+                    "source_name": src.get("source_name", ""),
+                    "source_url": src.get("source_url", ""),
+                }
+            )
+
+        # ── Coverage Views ─────────────────────────────────────────
+        coverage_views = {}
+        for view_key, view_def in views_def.items():
+            captured = 0
+            for comp in view_def.get("components", []):
+                src_key = comp["key"]
+                field = comp.get("count_field", "scraped_count")
+                captured += sources.get(src_key, {}).get(field, 0)
+            universe = view_def.get("universe", 0)
+            pct = round(captured / universe * 100, 1) if universe > 0 else 0
+            coverage_views[view_key] = {
+                "label": view_def.get("label", view_key),
+                "universe": universe,
+                "captured": captured,
+                "pct": pct,
+            }
+
+        # ── State Coverage ─────────────────────────────────────────
+        LOW_COUNT_STATES = {
+            "Durango": 1,
+            "Quintana Roo": 1,
+            "Baja California": 1,
+            "Hidalgo": 38,
+        }
+
+        state_qs = (
+            Law.objects.filter(tier="state")
+            .exclude(state__isnull=True)
+            .exclude(state="")
+            .values("state")
+            .annotate(
+                legislative=Count("id", filter=~Q(official_id__contains="_nl_")),
+                non_legislative=Count("id", filter=Q(official_id__contains="_nl_")),
+                total=Count("id"),
+            )
+            .order_by("state")
+        )
+
+        state_coverage = []
+        for row in state_qs:
+            st = row["state"]
+            anomaly = None
+            if st in LOW_COUNT_STATES:
+                anomaly = (
+                    f"Suspiciously low: only {LOW_COUNT_STATES[st]} on OJN power=2"
+                )
+            state_coverage.append(
+                {
+                    "state": st,
+                    "legislative_in_db": row["legislative"],
+                    "non_legislative_in_db": row["non_legislative"],
+                    "total_in_db": row["total"],
+                    "anomaly": anomaly,
+                }
+            )
+
+        # ── Gap Summary ────────────────────────────────────────────
+        gap_registry = GapRegistry()
+        gap_stats = gap_registry.get_dashboard_stats()
+        top_gaps = list(
+            GapRecord.objects.filter(status__in=["open", "in_progress"])
+            .order_by("priority", "current_tier")
+            .values(
+                "id", "level", "state", "gap_type", "description", "status", "priority"
+            )[:10]
+        )
+        gap_stats["top_gaps"] = top_gaps
+
+        # ── Expansion Priorities ───────────────────────────────────
+        expansion_priorities = [
+            {
+                "rank": 1,
+                "action": "Fix 4,438 non-legislative parse failures (retry + OCR)",
+                "estimated_gain": 4438,
+                "effort": "medium",
+                "roi_score": 9.5,
+            },
+            {
+                "rank": 2,
+                "action": "Build Camara reglamentos scraper (~800 instruments)",
+                "estimated_gain": 800,
+                "effort": "medium",
+                "roi_score": 8.0,
+            },
+            {
+                "rank": 3,
+                "action": "Investigate low-count states (BC, Durango, QR, Hidalgo)",
+                "estimated_gain": 1150,
+                "effort": "low",
+                "roi_score": 7.5,
+            },
+            {
+                "rank": 4,
+                "action": "CONAMER CNARTyS API scraper (113K+ regulations)",
+                "estimated_gain": 113373,
+                "effort": "high",
+                "roi_score": 7.0,
+            },
+            {
+                "rank": 5,
+                "action": "Municipal tier-2 expansion (15 cities)",
+                "estimated_gain": 2000,
+                "effort": "high",
+                "roi_score": 5.0,
+            },
+        ]
+
+        # ── Health Status ──────────────────────────────────────────
+        monitor = HealthMonitor()
+        health_summary = monitor.get_summary()
+        health_sources = list(
+            DataSource.objects.all().values(
+                "id",
+                "name",
+                "source_type",
+                "level",
+                "status",
+                "last_check",
+                "last_success",
+                "response_time_ms",
+            )
+        )
+
+        from django.utils import timezone as tz
+
+        return {
+            "generated_at": tz.now().isoformat(),
+            "tier_progress": tier_progress,
+            "coverage_views": coverage_views,
+            "state_coverage": state_coverage,
+            "gap_summary": gap_stats,
+            "expansion_priorities": expansion_priorities,
+            "health_status": {
+                "summary": health_summary,
+                "sources": health_sources,
+            },
+        }

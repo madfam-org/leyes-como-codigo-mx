@@ -3,225 +3,124 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { api } from '@/lib/api';
-import { Button, Card, CardHeader, CardTitle, CardContent, Badge } from "@leyesmx/ui";
-import { ArrowLeft, RefreshCw, Database, Activity, AlertTriangle } from 'lucide-react';
-
-interface CoverageData {
-    summary: { total_in_db: number; total_scraped: number; total_gaps: number; actionable_gaps: number };
-    federal: { laws_in_db: number; laws_scraped: number };
-    state: { total_in_db: number; total_scraped: number; total_permanent_gaps: number };
-    municipal: { total_in_db: number; total_scraped: number; cities_covered: number };
-    gaps: { total: number; open: number; in_progress: number; resolved: number; permanent: number };
-}
-
-interface HealthData {
-    total_sources: number;
-    healthy: number;
-    degraded: number;
-    down: number;
-    unknown: number;
-    never_checked: number;
-}
-
-interface GapData {
-    total: number;
-    by_status: Record<string, number>;
-    by_tier: Record<string, number>;
-    by_level: Record<string, number>;
-    actionable: number;
-    overdue: number;
-}
+import { Button, Card, CardContent } from "@leyesmx/ui";
+import { ArrowLeft } from 'lucide-react';
+import type { DashboardData } from '@/components/dataops/types';
+import { CoverageHeader } from '@/components/dataops/CoverageHeader';
+import { CoverageViewSelector } from '@/components/dataops/CoverageViewSelector';
+import { TierProgressList } from '@/components/dataops/TierProgressList';
+import { StateCoverageTable } from '@/components/dataops/StateCoverageTable';
+import { GapSummaryPanel } from '@/components/dataops/GapSummaryPanel';
+import { ExpansionPriorities } from '@/components/dataops/ExpansionPriorities';
+import { HealthStatusGrid } from '@/components/dataops/HealthStatusGrid';
 
 export default function DataOpsPage() {
-    const [coverage, setCoverage] = useState<CoverageData | null>(null);
-    const [health, setHealth] = useState<HealthData | null>(null);
-    const [gaps, setGaps] = useState<GapData | null>(null);
+    const [data, setData] = useState<DashboardData | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
+    const [activeView, setActiveView] = useState('leyes_vigentes');
 
-    const fetchAll = async () => {
+    const fetchDashboard = async () => {
         setLoading(true);
         setError(null);
         try {
-            const [covData, healthData, gapData] = await Promise.all([
-                api.getCoverage(),
-                api.getHealthSources(),
-                api.getGaps(),
-            ]);
-            setCoverage(covData as unknown as CoverageData);
-            setHealth(healthData as unknown as HealthData);
-            setGaps(gapData as unknown as GapData);
+            const result = await api.getCoverageDashboard();
+            setData(result);
         } catch (err) {
-            setError(err instanceof Error ? err.message : 'Error al cargar datos de DataOps');
+            setError(err instanceof Error ? err.message : 'Error al cargar el dashboard');
         } finally {
             setLoading(false);
         }
     };
 
-    useEffect(() => { fetchAll(); }, []);
+    useEffect(() => { fetchDashboard(); }, []);
 
     return (
         <div className="space-y-6">
-            <div className="flex items-center justify-between">
-                <div className="flex items-center gap-4">
-                    <Button asChild variant="ghost" size="sm">
-                        <Link href="/">
-                            <ArrowLeft className="w-4 h-4 mr-2" />
-                            Volver
-                        </Link>
-                    </Button>
-                    <h1 className="text-3xl font-bold tracking-tight">DataOps</h1>
-                </div>
-                <Button variant="outline" size="sm" onClick={fetchAll} disabled={loading}>
-                    <RefreshCw className={`w-4 h-4 mr-2 ${loading ? 'animate-spin' : ''}`} />
-                    Actualizar
+            {/* Nav */}
+            <div className="flex items-center gap-4">
+                <Button asChild variant="ghost" size="sm">
+                    <Link href="/">
+                        <ArrowLeft className="w-4 h-4 mr-2" />
+                        Volver
+                    </Link>
                 </Button>
             </div>
 
+            {/* Header + refresh */}
+            <CoverageHeader data={data} loading={loading} onRefresh={fetchDashboard} />
+
+            {/* Error */}
             {error && (
                 <div className="p-4 bg-destructive/10 text-destructive rounded-lg border border-destructive/20">
                     <p>{error}</p>
-                    <Button variant="outline" size="sm" className="mt-2" onClick={fetchAll}>
+                    <Button variant="outline" size="sm" className="mt-2" onClick={fetchDashboard}>
                         Reintentar
                     </Button>
                 </div>
             )}
 
-            {loading && !coverage ? (
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                    {[1, 2, 3].map(i => (
+            {/* Loading skeleton */}
+            {loading && !data ? (
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    {[1, 2, 3, 4].map(i => (
                         <Card key={i} className="animate-pulse">
-                            <CardContent className="pt-6"><div className="h-24 bg-muted rounded" /></CardContent>
+                            <CardContent className="pt-6"><div className="h-32 bg-muted rounded" /></CardContent>
                         </Card>
                     ))}
                 </div>
-            ) : (
+            ) : data && (
                 <>
-                    {/* Coverage Cards */}
-                    {coverage && (
-                        <div>
-                            <h2 className="text-lg font-semibold mb-3 flex items-center gap-2">
-                                <Database className="w-5 h-5" />
-                                Cobertura de Datos
-                            </h2>
-                            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-                                <Card>
-                                    <CardContent className="pt-6 text-center">
-                                        <p className="text-sm text-muted-foreground">Federal</p>
-                                        <p className="text-3xl font-bold">{coverage.federal.laws_in_db.toLocaleString()}</p>
-                                        <p className="text-xs text-muted-foreground mt-1">
-                                            {coverage.federal.laws_scraped.toLocaleString()} scrapeadas
-                                        </p>
-                                    </CardContent>
-                                </Card>
-                                <Card>
-                                    <CardContent className="pt-6 text-center">
-                                        <p className="text-sm text-muted-foreground">Estatal</p>
-                                        <p className="text-3xl font-bold">{coverage.state.total_in_db.toLocaleString()}</p>
-                                        <p className="text-xs text-muted-foreground mt-1">
-                                            {coverage.state.total_permanent_gaps} brechas permanentes
-                                        </p>
-                                    </CardContent>
-                                </Card>
-                                <Card>
-                                    <CardContent className="pt-6 text-center">
-                                        <p className="text-sm text-muted-foreground">Municipal</p>
-                                        <p className="text-3xl font-bold">{coverage.municipal.total_in_db.toLocaleString()}</p>
-                                        <p className="text-xs text-muted-foreground mt-1">
-                                            {coverage.municipal.cities_covered} ciudades cubiertas
-                                        </p>
-                                    </CardContent>
-                                </Card>
-                            </div>
-                        </div>
+                    {/* Coverage view selector */}
+                    {data.coverage_views && (
+                        <CoverageViewSelector
+                            views={data.coverage_views}
+                            activeView={activeView}
+                            onSelect={setActiveView}
+                        />
                     )}
 
-                    {/* Source Health */}
-                    {health && (
+                    {/* Active view summary card */}
+                    {data.coverage_views[activeView] && (
                         <Card>
-                            <CardHeader>
-                                <CardTitle className="text-lg flex items-center gap-2">
-                                    <Activity className="w-5 h-5" />
-                                    Salud de Fuentes
-                                </CardTitle>
-                            </CardHeader>
-                            <CardContent>
-                                <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-3 text-center">
+                            <CardContent className="pt-6">
+                                <div className="flex items-center justify-between">
                                     <div>
-                                        <p className="text-2xl font-bold">{health.total_sources}</p>
-                                        <p className="text-xs text-muted-foreground">Total</p>
+                                        <p className="text-sm text-muted-foreground">
+                                            {data.coverage_views[activeView].label}
+                                        </p>
+                                        <p className="text-4xl font-bold tabular-nums">
+                                            {data.coverage_views[activeView].captured.toLocaleString()}
+                                            <span className="text-lg text-muted-foreground font-normal">
+                                                {' '}/ {data.coverage_views[activeView].universe.toLocaleString()}
+                                            </span>
+                                        </p>
                                     </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-green-600">{health.healthy}</p>
-                                        <p className="text-xs text-muted-foreground">Saludables</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-yellow-600">{health.degraded}</p>
-                                        <p className="text-xs text-muted-foreground">Degradadas</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-red-600">{health.down}</p>
-                                        <p className="text-xs text-muted-foreground">Caídas</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-gray-500">{health.unknown}</p>
-                                        <p className="text-xs text-muted-foreground">Desconocido</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-gray-400">{health.never_checked}</p>
-                                        <p className="text-xs text-muted-foreground">Sin verificar</p>
+                                    <div className="text-right">
+                                        <p className="text-4xl font-bold tabular-nums">
+                                            {data.coverage_views[activeView].pct}%
+                                        </p>
+                                        <p className="text-xs text-muted-foreground">cobertura</p>
                                     </div>
                                 </div>
                             </CardContent>
                         </Card>
                     )}
 
-                    {/* Gap Summary */}
-                    {gaps && (
-                        <Card>
-                            <CardHeader>
-                                <CardTitle className="text-lg flex items-center gap-2">
-                                    <AlertTriangle className="w-5 h-5" />
-                                    Brechas de Datos
-                                </CardTitle>
-                            </CardHeader>
-                            <CardContent className="space-y-4">
-                                <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
-                                    <div>
-                                        <p className="text-2xl font-bold">{gaps.total}</p>
-                                        <p className="text-xs text-muted-foreground">Total</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-green-600">
-                                            {gaps.by_status?.resolved ?? 0}
-                                        </p>
-                                        <p className="text-xs text-muted-foreground">Resueltas</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-orange-600">{gaps.actionable}</p>
-                                        <p className="text-xs text-muted-foreground">Accionables</p>
-                                    </div>
-                                    <div>
-                                        <p className="text-2xl font-bold text-red-600">{gaps.overdue}</p>
-                                        <p className="text-xs text-muted-foreground">Vencidas</p>
-                                    </div>
-                                </div>
+                    {/* Tier progress */}
+                    <TierProgressList tiers={data.tier_progress} />
 
-                                {Object.keys(gaps.by_status).length > 0 && (
-                                    <div>
-                                        <p className="text-sm font-medium mb-2">Por estado</p>
-                                        <div className="flex flex-wrap gap-2">
-                                            {Object.entries(gaps.by_status).map(([status, count]) => (
-                                                <Badge key={status} variant="secondary">
-                                                    {status}: {count}
-                                                </Badge>
-                                            ))}
-                                        </div>
-                                    </div>
-                                )}
-                            </CardContent>
-                        </Card>
-                    )}
+                    {/* State coverage table */}
+                    <StateCoverageTable states={data.state_coverage} />
+
+                    {/* Two-column grid: gaps + priorities */}
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                        <GapSummaryPanel gaps={data.gap_summary} />
+                        <ExpansionPriorities priorities={data.expansion_priorities} />
+                    </div>
+
+                    {/* Health status */}
+                    <HealthStatusGrid health={data.health_status} />
                 </>
             )}
         </div>

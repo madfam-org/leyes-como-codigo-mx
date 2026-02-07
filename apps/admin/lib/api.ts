@@ -1,4 +1,5 @@
 import type { IngestionStatus } from "@leyesmx/lib";
+import type { DashboardData, RoadmapData } from "@/components/dataops/types";
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
 
@@ -108,6 +109,21 @@ export const api = {
 
     getGaps: async () => {
         return fetcher<Record<string, unknown>>('/admin/gaps/');
+    },
+
+    getCoverageDashboard: async (): Promise<DashboardData> => {
+        return fetcher<DashboardData>('/admin/coverage/dashboard/');
+    },
+
+    getRoadmap: async (): Promise<RoadmapData> => {
+        return fetcher<RoadmapData>('/admin/roadmap/');
+    },
+
+    updateRoadmapItem: async (data: { id: number; status?: string; progress_pct?: number; notes?: string }) => {
+        return fetcher<{ ok: boolean; id: number; status: string; progress_pct: number }>('/admin/roadmap/', {
+            method: 'PATCH',
+            body: JSON.stringify(data),
+        });
     },
 };
 

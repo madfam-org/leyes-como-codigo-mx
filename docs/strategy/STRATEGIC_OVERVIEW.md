@@ -573,13 +573,14 @@ Vigentes:   ██████████████████░░░  93.
 [🔄 Reintentar Fallos]  [📥 Ingestar Nueva Ley]  [🔍 Reindexar Todo]
 ```
 
-**Features**:
-- Real-time job monitoring
+**Features** (5-card dashboard: Ingestion, Metrics, DataOps, Roadmap, Settings):
+- Real-time job monitoring (Ingestion)
+- System metrics and jurisdiction breakdown (Metrics)
+- Coverage dashboard with tier progress, state table, gap summary, health grid (DataOps)
+- Expansion roadmap with phase tracking and status updates (Roadmap)
 - Manual trigger controls
 - Error log viewing
-- Quality dashboard
-- User management
-- System health metrics
+- System health metrics and configuration (Settings)
 
 ---
 

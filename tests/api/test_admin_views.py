@@ -229,3 +229,185 @@ class TestAdminViews:
         data = response.json()
         assert data["total"] == 53
         assert data["actionable"] == 30
+
+    @patch("apps.scraper.dataops.coverage_dashboard.CoverageDashboard")
+    def test_coverage_dashboard_returns_200(self, mock_class):
+        """Test GET /admin/coverage/dashboard/ returns full dashboard report."""
+        mock_instance = mock_class.return_value
+        mock_instance.dashboard_report.return_value = {
+            "generated_at": "2026-02-06T00:00:00Z",
+            "tier_progress": [
+                {
+                    "key": "federal",
+                    "label": "Federal",
+                    "known_universe": 336,
+                    "scraped": 333,
+                    "in_db": 333,
+                    "permanent_gaps": 0,
+                    "coverage_pct": 99.1,
+                    "confidence": "high",
+                    "source_name": "Diputados",
+                    "source_url": "https://example.com",
+                }
+            ],
+            "coverage_views": {
+                "leyes_vigentes": {
+                    "label": "Leyes Vigentes",
+                    "universe": 12456,
+                    "captured": 11699,
+                    "pct": 93.9,
+                }
+            },
+            "state_coverage": [],
+            "gap_summary": {"total": 53, "actionable": 30, "overdue": 5},
+            "expansion_priorities": [],
+            "health_status": {"summary": {}, "sources": []},
+        }
+
+        url = reverse("admin-coverage-dashboard")
+        response = self.client.get(url)
+
+        assert response.status_code == 200
+        data = response.json()
+        assert "tier_progress" in data
+        assert "coverage_views" in data
+        assert "state_coverage" in data
+        assert "gap_summary" in data
+        assert "expansion_priorities" in data
+        assert "health_status" in data
+        assert data["tier_progress"][0]["key"] == "federal"
+
+
+@pytest.mark.django_db
+class TestRoadmapEndpoint:
+    def setup_method(self):
+        self.client = APIClient()
+
+    def test_roadmap_get_empty(self):
+        """Test GET /admin/roadmap/ with no items."""
+        from apps.scraper.dataops.models import RoadmapItem
+
+        RoadmapItem.objects.all().delete()
+
+        url = reverse("admin-roadmap")
+        response = self.client.get(url)
+
+        assert response.status_code == 200
+        data = response.json()
+        assert "summary" in data
+        assert "phases" in data
+        assert data["summary"]["total_items"] == 0
+        assert data["phases"] == []
+
+    def test_roadmap_get_with_items(self):
+        """Test GET /admin/roadmap/ returns seeded roadmap items."""
+        from apps.scraper.dataops.models import RoadmapItem
+
+        RoadmapItem.objects.all().delete()
+        RoadmapItem.objects.create(
+            phase=1,
+            title="Test item 1",
+            category="fix",
+            estimated_laws=100,
+            sort_order=1,
+        )
+        RoadmapItem.objects.create(
+            phase=2,
+            title="Test item 2",
+            category="scraper",
+            estimated_laws=500,
+            sort_order=1,
+        )
+
+        url = reverse("admin-roadmap")
+        response = self.client.get(url)
+
+        assert response.status_code == 200
+        data = response.json()
+        assert data["summary"]["total_items"] == 2
+        assert data["summary"]["total_estimated_laws"] == 600
+        assert len(data["phases"]) == 2
+        assert data["phases"][0]["phase"] == 1
+        assert data["phases"][0]["items"][0]["title"] == "Test item 1"
+
+    def test_roadmap_patch_status(self):
+        """Test PATCH /admin/roadmap/ updates item status."""
+        from apps.scraper.dataops.models import RoadmapItem
+
+        RoadmapItem.objects.all().delete()
+        item = RoadmapItem.objects.create(
+            phase=1,
+            title="Patchable item",
+            category="fix",
+            sort_order=1,
+        )
+
+        url = reverse("admin-roadmap")
+        response = self.client.patch(
+            url,
+            {"id": item.id, "status": "in_progress"},
+            format="json",
+        )
+
+        assert response.status_code == 200
+        data = response.json()
+        assert data["ok"] is True
+        assert data["status"] == "in_progress"
+
+        item.refresh_from_db()
+        assert item.status == "in_progress"
+        assert item.started_at is not None
+
+    def test_roadmap_patch_completed(self):
+        """Test PATCH completed sets progress to 100 and completed_at."""
+        from apps.scraper.dataops.models import RoadmapItem
+
+        RoadmapItem.objects.all().delete()
+        item = RoadmapItem.objects.create(
+            phase=1,
+            title="Completable",
+            category="fix",
+            sort_order=1,
+        )
+
+        url = reverse("admin-roadmap")
+        response = self.client.patch(
+            url,
+            {"id": item.id, "status": "completed"},
+            format="json",
+        )
+
+        assert response.status_code == 200
+        item.refresh_from_db()
+        assert item.status == "completed"
+        assert item.progress_pct == 100
+        assert item.completed_at is not None
+
+    def test_roadmap_patch_invalid_id(self):
+        """Test PATCH with non-existent id returns 404."""
+        url = reverse("admin-roadmap")
+        response = self.client.patch(
+            url, {"id": 99999, "status": "blocked"}, format="json"
+        )
+        assert response.status_code == 404
+
+    def test_roadmap_patch_missing_id(self):
+        """Test PATCH without id returns 400."""
+        url = reverse("admin-roadmap")
+        response = self.client.patch(url, {"status": "blocked"}, format="json")
+        assert response.status_code == 400
+
+    def test_roadmap_patch_invalid_status(self):
+        """Test PATCH with invalid status returns 400."""
+        from apps.scraper.dataops.models import RoadmapItem
+
+        RoadmapItem.objects.all().delete()
+        item = RoadmapItem.objects.create(
+            phase=1, title="Invalid status test", category="fix", sort_order=1
+        )
+
+        url = reverse("admin-roadmap")
+        response = self.client.patch(
+            url, {"id": item.id, "status": "nonexistent"}, format="json"
+        )
+        assert response.status_code == 400

@@ -111,6 +111,7 @@ Code cannot merge to `main` unless:
 ### Backend (Pytest)
 - **Location:** `tests/`
 - **Tests:** 201 passed, 2 skipped (CalculationApiTests blocked on OpenFisca)
+- **Key test files:** test_admin_views.py (17 tests incl. coverage dashboard + roadmap CRUD), test_law_api.py (18 tests), parser tests (50+), scraper tests (40+)
 - **Run:** `poetry run pytest tests/ -v`
 - **Coverage:** `poetry run pytest tests/ --cov=apps --cov-report=term`
 - **Lint:** `poetry run black --check apps/ tests/ scripts/` + `poetry run isort --check-only apps/ tests/ scripts/`

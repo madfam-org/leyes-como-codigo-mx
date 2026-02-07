@@ -222,3 +222,21 @@ class HealthMonitor:
             "unknown": sources.filter(status="unknown").count(),
             "never_checked": sources.filter(last_check__isnull=True).count(),
         }
+
+    def get_detail(self):
+        """Get detailed health info per source."""
+        summary = self.get_summary()
+        sources = list(
+            DataSource.objects.all().values(
+                "id",
+                "name",
+                "source_type",
+                "level",
+                "status",
+                "last_check",
+                "last_success",
+                "response_time_ms",
+                "base_url",
+            )
+        )
+        return {"summary": summary, "sources": sources}

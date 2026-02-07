@@ -3,6 +3,7 @@ from rest_framework.decorators import authentication_classes, permission_classes
 from rest_framework.permissions import IsAuthenticated
 
 from .admin_views import (
+    coverage_dashboard,
     coverage_summary,
     gap_records,
     health_check,
@@ -10,6 +11,7 @@ from .admin_views import (
     job_status,
     list_jobs,
     pipeline_status,
+    roadmap,
     system_config,
     system_metrics,
 )
@@ -56,6 +58,12 @@ urlpatterns = [
         "admin/health-sources/", _protected(health_sources), name="admin-health-sources"
     ),
     path("admin/gaps/", _protected(gap_records), name="admin-gaps"),
+    path(
+        "admin/coverage/dashboard/",
+        _protected(coverage_dashboard),
+        name="admin-coverage-dashboard",
+    ),
+    path("admin/roadmap/", _protected(roadmap), name="admin-roadmap"),
     path("ingest/", _protected(IngestionView.as_view()), name="ingest"),
     # ── Public endpoints (no auth) ────────────────────────────────────
     path("calculate/", CalculationView.as_view(), name="calculate"),

@@ -275,3 +275,122 @@ def gap_records(request):
 
     registry = GapRegistry()
     return Response(registry.get_dashboard_stats())
+
+
+@api_view(["GET"])
+def coverage_dashboard(request):
+    """Consolidated coverage dashboard with tier progress, state coverage, gaps, and health."""
+    from apps.scraper.dataops.coverage_dashboard import CoverageDashboard
+
+    dashboard = CoverageDashboard()
+    return Response(dashboard.dashboard_report())
+
+
+@api_view(["GET", "PATCH"])
+def roadmap(request):
+    """Expansion roadmap: GET returns all phases/items, PATCH updates a single item."""
+    from django.utils import timezone
+
+    from apps.scraper.dataops.models import RoadmapItem
+
+    if request.method == "PATCH":
+        item_id = request.data.get("id")
+        if not item_id:
+            return Response(
+                {"error": "Missing 'id' field"}, status=status.HTTP_400_BAD_REQUEST
+            )
+        try:
+            item = RoadmapItem.objects.get(id=item_id)
+        except RoadmapItem.DoesNotExist:
+            return Response(
+                {"error": "Item not found"}, status=status.HTTP_404_NOT_FOUND
+            )
+
+        update_fields = ["updated_at"]
+        if "status" in request.data:
+            new_status = request.data["status"]
+            if new_status not in dict(RoadmapItem.STATUS_CHOICES):
+                return Response(
+                    {"error": f"Invalid status: {new_status}"},
+                    status=status.HTTP_400_BAD_REQUEST,
+                )
+            item.status = new_status
+            update_fields.append("status")
+            if new_status == "in_progress" and not item.started_at:
+                item.started_at = timezone.now()
+                update_fields.append("started_at")
+            elif new_status == "completed":
+                item.completed_at = timezone.now()
+                item.progress_pct = 100
+                update_fields.extend(["completed_at", "progress_pct"])
+
+        if "progress_pct" in request.data:
+            item.progress_pct = max(0, min(100, int(request.data["progress_pct"])))
+            if "progress_pct" not in update_fields:
+                update_fields.append("progress_pct")
+
+        if "notes" in request.data:
+            item.notes = request.data["notes"]
+            update_fields.append("notes")
+
+        item.save(update_fields=update_fields)
+        return Response(
+            {
+                "ok": True,
+                "id": item.id,
+                "status": item.status,
+                "progress_pct": item.progress_pct,
+            }
+        )
+
+    # GET — return all phases
+    items = RoadmapItem.objects.all()
+    phase_labels = dict(RoadmapItem.PHASE_CHOICES)
+    phases = {}
+    for item in items:
+        p = item.phase
+        if p not in phases:
+            phases[p] = {
+                "phase": p,
+                "label": phase_labels.get(p, f"Phase {p}"),
+                "items": [],
+                "total": 0,
+                "completed": 0,
+                "in_progress": 0,
+                "estimated_laws": 0,
+            }
+        phases[p]["items"].append(
+            {
+                "id": item.id,
+                "title": item.title,
+                "description": item.description,
+                "category": item.category,
+                "status": item.status,
+                "estimated_laws": item.estimated_laws,
+                "estimated_effort": item.estimated_effort,
+                "priority": item.priority,
+                "progress_pct": item.progress_pct,
+                "notes": item.notes,
+                "started_at": item.started_at.isoformat() if item.started_at else None,
+                "completed_at": (
+                    item.completed_at.isoformat() if item.completed_at else None
+                ),
+            }
+        )
+        phases[p]["total"] += 1
+        phases[p]["estimated_laws"] += item.estimated_laws
+        if item.status == "completed":
+            phases[p]["completed"] += 1
+        elif item.status == "in_progress":
+            phases[p]["in_progress"] += 1
+
+    phase_list = sorted(phases.values(), key=lambda x: x["phase"])
+
+    summary = {
+        "total_items": items.count(),
+        "completed": items.filter(status="completed").count(),
+        "in_progress": items.filter(status="in_progress").count(),
+        "total_estimated_laws": sum(i.estimated_laws for i in items),
+    }
+
+    return Response({"summary": summary, "phases": phase_list})

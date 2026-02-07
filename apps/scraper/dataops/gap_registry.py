@@ -281,4 +281,19 @@ class GapRegistry:
                 status__in=["open", "in_progress"],
             ).count(),
         }
+        # Top 10 actionable gaps by priority
+        stats["top_gaps"] = list(
+            GapRecord.objects.filter(status__in=["open", "in_progress"])
+            .order_by("priority", "current_tier")
+            .values(
+                "id",
+                "level",
+                "state",
+                "gap_type",
+                "description",
+                "status",
+                "priority",
+                "current_tier",
+            )[:10]
+        )
         return stats
