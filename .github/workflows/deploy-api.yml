@@ -91,12 +91,28 @@ jobs:
       - name: Report lifecycle event
         if: always()
         run: |
-          curl -sf -X POST "https://api.enclii.dev/v1/lifecycle/deploy" \
+          STATUS="${{ job.status }}"
+          if [ "$STATUS" = "success" ]; then
+            EVENT_TYPE="image_pushed"
+          else
+            EVENT_TYPE="build_failed"
+          fi
+          curl -s -X POST "https://api.enclii.dev/v1/callbacks/lifecycle-event" \
             -H "Authorization: Bearer ${{ secrets.ENCLII_CALLBACK_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d "{
-              \"service\": \"tezca-api\",
-              \"sha\": \"${{ github.sha }}\",
-              \"status\": \"${{ job.status }}\",
-              \"actor\": \"${{ github.actor }}\"
+              \"repo_full_name\": \"madfam-org/tezca\",
+              \"commit_sha\": \"${{ github.sha }}\",
+              \"branch\": \"${{ github.ref_name }}\",
+              \"ref\": \"${{ github.ref }}\",
+              \"event_type\": \"${EVENT_TYPE}\",
+              \"source\": \"ci_callback\",
+              \"message\": \"tezca-api ${STATUS} (digest: ${{ steps.build.outputs.digest }})\",
+              \"metadata\": {
+                \"service\": \"tezca-api\",
+                \"image\": \"${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}\",
+                \"digest\": \"${{ steps.build.outputs.digest }}\",
+                \"workflow\": \"deploy-api\",
+                \"actor\": \"${{ github.actor }}\"
+              }
             }" || true
