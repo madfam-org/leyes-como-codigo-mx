@@ -1,7 +1,7 @@
 'use client';
 
 import { RefreshCw, Database, TrendingUp } from 'lucide-react';
-import { Button, Badge } from "@leyesmx/ui";
+import { Button } from "@leyesmx/ui";
 import type { DashboardData } from './types';
 
 interface CoverageHeaderProps {

@@ -38,8 +38,9 @@ export function StateCoverageTable({ states }: StateCoverageTableProps) {
     }
   };
 
-  const SortHeader = ({ label, colKey }: { label: string; colKey: SortKey }) => (
+  const sortTh = (label: string, colKey: SortKey) => (
     <th
+      key={colKey}
       className="py-2 px-3 text-xs font-medium text-muted-foreground cursor-pointer select-none hover:text-foreground transition-colors"
       onClick={() => toggleSort(colKey)}
     >
@@ -75,9 +76,9 @@ export function StateCoverageTable({ states }: StateCoverageTableProps) {
                     Estado <ArrowUpDown className="w-3 h-3" />
                   </span>
                 </th>
-                <SortHeader label="Legislativo" colKey="legislative_in_db" />
-                <SortHeader label="No Legislativo" colKey="non_legislative_in_db" />
-                <SortHeader label="Total" colKey="total_in_db" />
+                {sortTh("Legislativo", "legislative_in_db")}
+                {sortTh("No Legislativo", "non_legislative_in_db")}
+                {sortTh("Total", "total_in_db")}
                 <th className="py-2 px-3 text-xs font-medium text-muted-foreground">Anomalia</th>
               </tr>
             </thead>
