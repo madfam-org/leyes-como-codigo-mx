@@ -83,6 +83,9 @@ spec:
             httpGet:
               path: /api/v1/admin/health/
               port: 8000
+              httpHeaders:
+                - name: Host
+                  value: api.tezca.mx
             initialDelaySeconds: 30
             periodSeconds: 30
             timeoutSeconds: 5
@@ -91,6 +94,9 @@ spec:
             httpGet:
               path: /api/v1/admin/health/
               port: 8000
+              httpHeaders:
+                - name: Host
+                  value: api.tezca.mx
             initialDelaySeconds: 10
             periodSeconds: 10
             timeoutSeconds: 5
