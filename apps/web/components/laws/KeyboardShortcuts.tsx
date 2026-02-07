@@ -9,8 +9,8 @@ import type { Article } from '@tezca/lib';
 const content = {
     es: {
         title: 'Atajos de teclado',
-        next: 'Siguiente articulo',
-        prev: 'Articulo anterior',
+        next: 'Siguiente artículo',
+        prev: 'Artículo anterior',
         search: 'Buscar en esta ley',
         bookmark: 'Agregar/quitar favorito',
         close: 'Cerrar panel',
@@ -134,7 +134,7 @@ export function KeyboardShortcuts({
                             ['Esc', t.close],
                         ].map(([key, desc]) => (
                             <div key={key} className="flex items-center justify-between">
-                                <kbd className="px-1.5 py-0.5 rounded bg-muted font-mono text-[10px]">{key}</kbd>
+                                <kbd className="px-1.5 py-0.5 rounded bg-muted font-mono text-xs">{key}</kbd>
                                 <span className="text-muted-foreground">{desc}</span>
                             </div>
                         ))}

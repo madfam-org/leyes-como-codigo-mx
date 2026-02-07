@@ -18,26 +18,26 @@ const content = {
     es: {
         searchError: 'Error al buscar',
         pageTitle: 'Buscar Leyes',
-        searchPlaceholder: 'Buscar por articulo, titulo, contenido...',
+        searchPlaceholder: 'Buscar por artículo, título, contenido...',
         searchButton: 'Buscar',
         hideFilters: 'Ocultar Filtros',
         showFilters: 'Mostrar Filtros',
         results: 'resultados',
         noResultsFor: 'No se encontraron resultados para',
-        tryDifferent: 'Intenta con otros terminos de busqueda o ajusta los filtros',
+        tryDifferent: 'Intenta con otros términos de búsqueda o ajusta los filtros',
         suggestions: 'Sugerencias:',
-        enterSearchTerm: 'Ingresa un termino de busqueda para comenzar',
+        enterSearchTerm: 'Ingresa un término de búsqueda para comenzar',
         showing: 'Mostrando',
         of: 'de',
         result: 'resultado',
         resultPlural: 'resultados',
-        page: 'Pagina',
+        page: 'Página',
         pageOf: 'de',
-        published: 'Publicacion:',
+        published: 'Publicación:',
         relevance: 'Relevancia',
         dateLocale: 'es-MX' as const,
-        shareSearch: 'Compartir busqueda',
-        copied: 'Copiado!',
+        shareSearch: 'Compartir búsqueda',
+        copied: '¡Copiado!',
     },
     en: {
         searchError: 'Search error',
@@ -274,7 +274,7 @@ function SearchContent() {
                     {/* Results */}
                     <main className="flex-1 min-w-0">
                         {error && (
-                            <div className="mb-6 rounded-lg bg-error-50 p-4 text-error-700 dark:bg-error-900 dark:text-error-100">
+                            <div className="mb-6 rounded-lg bg-destructive/10 p-4 text-destructive">
                                 {error}
                             </div>
                         )}

@@ -1,5 +1,3 @@
-'use client';
-
 import { Card, CardHeader, CardTitle, CardContent } from "@tezca/ui";
 import { AlertTriangle } from 'lucide-react';
 import type { GapSummary } from './types';

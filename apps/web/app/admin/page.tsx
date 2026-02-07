@@ -64,7 +64,6 @@ export default function AdminDashboard() {
                         <SystemMetrics key={refreshKey} />
                     </section>
 
-                    {/* Job Queue Section (Placeholder for future) */}
                     <section>
                         <h2 className="text-lg sm:text-xl font-semibold mb-4">
                             Trabajos Recientes

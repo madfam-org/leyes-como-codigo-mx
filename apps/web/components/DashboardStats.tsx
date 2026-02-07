@@ -2,10 +2,9 @@
 
 import { useEffect, useState } from 'react';
 import { api } from '@/lib/api';
-import type { DashboardStats } from '@/lib/types';
-import { Card, CardContent } from '@/components/ui/card';
+import type { DashboardStats } from '@tezca/lib';
+import { Card, CardContent, Badge } from '@tezca/ui';
 import { BookOpen, Scale, Building2, Calendar, FileText, ArrowRight } from 'lucide-react';
-import { Badge } from '@/components/ui/badge';
 import Link from 'next/link';
 import { useLang } from '@/components/providers/LanguageContext';
 

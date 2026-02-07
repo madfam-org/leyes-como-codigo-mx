@@ -1,5 +1,3 @@
-'use client';
-
 import { Badge } from "@tezca/ui";
 import type { TierProgress } from './types';
 
@@ -16,7 +14,7 @@ function pctColor(pct: number): string {
 
 function confidenceBadge(c: string) {
   const variant = c === 'high' ? 'default' : c === 'medium' ? 'secondary' : 'outline';
-  return <Badge variant={variant} className="text-[10px] px-1.5 py-0">{c}</Badge>;
+  return <Badge variant={variant} className="text-xs px-1.5 py-0">{c}</Badge>;
 }
 
 export function TierProgressBar({ tier }: TierProgressBarProps) {

@@ -43,6 +43,10 @@ export function StateCoverageTable({ states }: StateCoverageTableProps) {
       key={colKey}
       className="py-2 px-3 text-xs font-medium text-muted-foreground cursor-pointer select-none hover:text-foreground transition-colors"
       onClick={() => toggleSort(colKey)}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSort(colKey); } }}
+      tabIndex={0}
+      role="columnheader"
+      aria-sort={sortKey === colKey ? (sortAsc ? 'ascending' : 'descending') : 'none'}
     >
       <span className="flex items-center gap-1 justify-end">
         {label}
@@ -71,6 +75,10 @@ export function StateCoverageTable({ states }: StateCoverageTableProps) {
                 <th
                   className="py-2 px-3 text-xs font-medium text-muted-foreground cursor-pointer select-none hover:text-foreground"
                   onClick={() => toggleSort('state')}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleSort('state'); } }}
+                  tabIndex={0}
+                  role="columnheader"
+                  aria-sort={sortKey === 'state' ? (sortAsc ? 'ascending' : 'descending') : 'none'}
                 >
                   <span className="flex items-center gap-1">
                     Estado <ArrowUpDown className="w-3 h-3" />
@@ -79,7 +87,7 @@ export function StateCoverageTable({ states }: StateCoverageTableProps) {
                 {sortTh("Legislativo", "legislative_in_db")}
                 {sortTh("No Legislativo", "non_legislative_in_db")}
                 {sortTh("Total", "total_in_db")}
-                <th className="py-2 px-3 text-xs font-medium text-muted-foreground">Anomalia</th>
+                <th className="py-2 px-3 text-xs font-medium text-muted-foreground">Anomalía</th>
               </tr>
             </thead>
             <tbody>

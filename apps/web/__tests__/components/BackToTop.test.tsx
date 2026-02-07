@@ -11,7 +11,7 @@ describe('BackToTop', () => {
 
     it('is not visible initially when scrollY is 0', () => {
         render(<BackToTop />);
-        expect(screen.queryByRole('button', { name: 'Back to top' })).not.toBeInTheDocument();
+        expect(screen.queryByRole('button', { name: 'Volver arriba' })).not.toBeInTheDocument();
     });
 
     it('becomes visible when scrollY exceeds 400', () => {
@@ -22,7 +22,7 @@ describe('BackToTop', () => {
             fireEvent.scroll(window);
         });
 
-        expect(screen.getByRole('button', { name: 'Back to top' })).toBeInTheDocument();
+        expect(screen.getByRole('button', { name: 'Volver arriba' })).toBeInTheDocument();
     });
 
     it('hides again when scrollY drops below 400', () => {
@@ -33,14 +33,14 @@ describe('BackToTop', () => {
             fireEvent.scroll(window);
         });
 
-        expect(screen.getByRole('button', { name: 'Back to top' })).toBeInTheDocument();
+        expect(screen.getByRole('button', { name: 'Volver arriba' })).toBeInTheDocument();
 
         act(() => {
             Object.defineProperty(window, 'scrollY', { value: 100, writable: true });
             fireEvent.scroll(window);
         });
 
-        expect(screen.queryByRole('button', { name: 'Back to top' })).not.toBeInTheDocument();
+        expect(screen.queryByRole('button', { name: 'Volver arriba' })).not.toBeInTheDocument();
     });
 
     it('calls window.scrollTo on click', () => {
@@ -51,13 +51,13 @@ describe('BackToTop', () => {
             fireEvent.scroll(window);
         });
 
-        const button = screen.getByRole('button', { name: 'Back to top' });
+        const button = screen.getByRole('button', { name: 'Volver arriba' });
         fireEvent.click(button);
 
         expect(window.scrollTo).toHaveBeenCalledWith({ top: 0, behavior: 'smooth' });
     });
 
-    it('has aria-label "Back to top"', () => {
+    it('has aria-label "Volver arriba"', () => {
         render(<BackToTop />);
 
         act(() => {
@@ -65,7 +65,7 @@ describe('BackToTop', () => {
             fireEvent.scroll(window);
         });
 
-        const button = screen.getByLabelText('Back to top');
+        const button = screen.getByLabelText('Volver arriba');
         expect(button).toBeInTheDocument();
     });
 });

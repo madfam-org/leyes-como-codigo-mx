@@ -57,7 +57,7 @@ function RoadmapItemRow({
             <div className="flex-1 min-w-0 space-y-1">
                 <div className="flex items-center gap-2 flex-wrap">
                     <p className="text-sm font-medium">{item.title}</p>
-                    <Badge variant="outline" className={`text-[10px] px-1.5 py-0 ${CATEGORY_STYLES[item.category] ?? ''}`}>
+                    <Badge variant="outline" className={`text-xs px-1.5 py-0 ${CATEGORY_STYLES[item.category] ?? ''}`}>
                         {item.category}
                     </Badge>
                 </div>
@@ -84,6 +84,7 @@ function RoadmapItemRow({
                     value={item.status}
                     onChange={(e) => onStatusChange(item.id, e.target.value)}
                     disabled={updating === item.id}
+                    aria-label={`Estado de ${item.title}`}
                     className={`text-xs rounded-md px-2 py-1 border border-muted cursor-pointer ${STATUS_STYLES[item.status] ?? ''}`}
                 >
                     {STATUS_OPTIONS.map(s => (
@@ -100,6 +101,7 @@ export default function RoadmapPage() {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
     const [updating, setUpdating] = useState<number | null>(null);
+    const [updateError, setUpdateError] = useState<string | null>(null);
     const [collapsed, setCollapsed] = useState<Record<number, boolean>>({});
 
     const fetchRoadmap = async () => {
@@ -118,11 +120,12 @@ export default function RoadmapPage() {
 
     const handleStatusChange = async (id: number, newStatus: string) => {
         setUpdating(id);
+        setUpdateError(null);
         try {
             await api.updateRoadmapItem({ id, status: newStatus });
             await fetchRoadmap();
-        } catch {
-            // Silently fail — status will revert on refetch
+        } catch (err) {
+            setUpdateError(err instanceof Error ? err.message : 'Error al actualizar estado');
         } finally {
             setUpdating(null);
         }
@@ -145,7 +148,7 @@ export default function RoadmapPage() {
                     </Button>
                     <h1 className="text-3xl font-bold tracking-tight flex items-center gap-3">
                         <Rocket className="w-8 h-8" />
-                        Expansion Roadmap
+                        Hoja de Ruta de Expansión
                     </h1>
                 </div>
                 <Button variant="outline" size="sm" onClick={fetchRoadmap} disabled={loading}>
@@ -164,13 +167,20 @@ export default function RoadmapPage() {
                 </div>
             )}
 
+            {/* Update error */}
+            {updateError && (
+                <div role="alert" className="p-3 bg-destructive/10 text-destructive text-sm rounded-lg border border-destructive/20">
+                    {updateError}
+                </div>
+            )}
+
             {/* Summary cards */}
             {data && (
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
                     <Card>
                         <CardContent className="pt-6 text-center">
                             <p className="text-3xl font-bold tabular-nums">{data.summary.total_items}</p>
-                            <p className="text-xs text-muted-foreground">Total Items</p>
+                            <p className="text-xs text-muted-foreground">Total</p>
                         </CardContent>
                     </Card>
                     <Card>
@@ -213,6 +223,10 @@ export default function RoadmapPage() {
                     <CardHeader
                         className="pb-3 cursor-pointer select-none"
                         onClick={() => togglePhase(phase.phase)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); togglePhase(phase.phase); } }}
+                        tabIndex={0}
+                        role="button"
+                        aria-expanded={!collapsed[phase.phase]}
                     >
                         <div className="flex items-center gap-3">
                             {collapsed[phase.phase]

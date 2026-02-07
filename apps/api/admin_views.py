@@ -10,6 +10,7 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
+from .config import ES_HOST, es_client
 from .ingestion_manager import IngestionManager
 from .models import Law, LawVersion
 from .schema import (
@@ -40,8 +41,8 @@ def health_check(request):
         # Simple DB check
         Law.objects.first()
         db_status = "connected"
-    except Exception as e:
-        db_status = f"error: {str(e)}"
+    except Exception:
+        db_status = "error"
         return Response(
             {"status": "unhealthy", "database": db_status},
             status=status.HTTP_503_SERVICE_UNAVAILABLE,
@@ -68,16 +69,14 @@ def system_metrics(request):
     Returns aggregated system metrics for the dashboard.
     """
     try:
-        # Total laws
-        total_laws = Law.objects.count()
-
-        # Breakdown by jurisdiction (tier)
-        # Federal (tier=0/federal), State (tier=1/state), Municipal (tier=2/municipal)
-        # Note: Model uses string values for 'tier' typically
-
-        federal_count = Law.objects.filter(tier__in=["0", "federal"]).count()
-        state_count = Law.objects.filter(tier__in=["1", "state"]).count()
-        municipal_count = Law.objects.filter(tier__in=["2", "municipal"]).count()
+        # Aggregate counts in a single query
+        tier_counts = dict(
+            Law.objects.values_list("tier").annotate(count=Count("id")).values_list("tier", "count")
+        )
+        federal_count = tier_counts.get("federal", 0)
+        state_count = tier_counts.get("state", 0)
+        municipal_count = tier_counts.get("municipal", 0)
+        total_laws = sum(tier_counts.values())
 
         # Breakdown by category (top 5)
         categories = list(
@@ -103,8 +102,13 @@ def system_metrics(request):
                 "last_updated": timezone.now().isoformat(),
             }
         )
-    except Exception as e:
-        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("system_metrics failed")
+        return Response(
+            {"error": "An internal error occurred while fetching metrics."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        )
 
 
 @extend_schema(
@@ -122,11 +126,13 @@ def job_status(request):
     try:
         status_data = IngestionManager.get_status()
         return Response(status_data)
-    except Exception as e:
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("job_status failed")
         return Response(
             {
                 "status": "error",
-                "message": str(e),
+                "message": "An internal error occurred while fetching job status.",
                 "timestamp": timezone.now().isoformat(),
             },
             status=status.HTTP_500_INTERNAL_SERVER_ERROR,
@@ -151,8 +157,13 @@ def list_jobs(request):
         # Mocking a 'list' format for the frontend
         jobs = [{"id": "current", **current}]
         return Response({"jobs": jobs})
-    except Exception as e:
-        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("list_jobs failed")
+        return Response(
+            {"error": "An internal error occurred while listing jobs."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        )
 
 
 @extend_schema(
@@ -169,12 +180,10 @@ def system_config(request):
     db_engine = django_settings.DATABASES["default"]["ENGINE"]
 
     # Elasticsearch status
-    es_host = os.getenv("ES_HOST", "http://elasticsearch:9200")
+    es_host = ES_HOST
     es_status = "unknown"
     try:
-        from elasticsearch import Elasticsearch
-
-        es = Elasticsearch([es_host])
+        es = es_client
         if es.ping():
             es_status = "connected"
         else:
@@ -246,8 +255,13 @@ def pipeline_status(request):
             data = json.load(f)
 
         return Response(data)
-    except Exception as e:
-        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("pipeline_status failed")
+        return Response(
+            {"error": "An internal error occurred while fetching pipeline status."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        )
 
 
 @api_view(["GET"])

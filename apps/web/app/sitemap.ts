@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import { API_BASE_URL } from '@/lib/config';
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
 
@@ -48,7 +49,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Dynamic law routes — paginate through API
   const lawRoutes: MetadataRoute.Sitemap = [];
   try {
-    const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
+    const apiUrl = API_BASE_URL;
     let nextUrl: string | null = `${apiUrl}/laws/?page_size=200`;
 
     while (nextUrl) {

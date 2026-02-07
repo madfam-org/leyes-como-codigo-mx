@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Badge } from '@/components/ui/badge';
+import { Badge } from '@tezca/ui';
 import { useLang } from '@/components/providers/LanguageContext';
 
 const content = {

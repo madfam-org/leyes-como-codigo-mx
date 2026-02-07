@@ -29,7 +29,7 @@ interface AdminMetricsResponse {
     last_updated: string;
 }
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
+import { API_BASE_URL } from './config';
 
 class APIError extends Error {
     constructor(public status: number, message: string) {
@@ -228,7 +228,8 @@ export const api = {
         if (q.length < 2) return [];
         const res = await fetch(`${API_BASE_URL}/suggest/?q=${encodeURIComponent(q)}`);
         if (!res.ok) return [];
-        return res.json();
+        const data = await res.json();
+        return data.suggestions ?? data;
     },
 
     /**

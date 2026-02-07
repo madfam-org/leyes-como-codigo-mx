@@ -36,7 +36,7 @@ export function ComparisonHint() {
         <div className="absolute -top-10 left-1/2 -translate-x-1/2 z-20 whitespace-nowrap animate-fade-in">
             <div className="relative bg-primary text-primary-foreground text-xs px-3 py-1.5 rounded-md shadow-lg">
                 {labels[lang]}
-                <button onClick={dismiss} className="ml-2 opacity-70 hover:opacity-100" aria-label="Dismiss">
+                <button onClick={dismiss} className="ml-2 opacity-70 hover:opacity-100" aria-label="Cerrar">
                     <X className="h-3 w-3 inline" />
                 </button>
                 {/* Arrow pointing down */}

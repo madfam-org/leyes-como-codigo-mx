@@ -1,7 +1,7 @@
 'use client';
 
 import { useComparison } from './providers/ComparisonContext';
-import { Button } from '@/components/ui/button';
+import { Button } from '@tezca/ui';
 import Link from 'next/link';
 import { X } from 'lucide-react';
 import { useLang } from '@/components/providers/LanguageContext';

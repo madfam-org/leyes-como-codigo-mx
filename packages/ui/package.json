@@ -11,7 +11,7 @@
         "lucide-react": "^0.563.0",
         "@tezca/lib": "*",
         "class-variance-authority": "^0.7.1",
-        "@radix-ui/react-slot": "^1.0.0"
+        "radix-ui": "^1.0.0"
     },
     "devDependencies": {
         "@tezca/tsconfig": "*",

@@ -1,5 +1,3 @@
-'use client';
-
 import { Card, CardHeader, CardTitle, CardContent } from "@tezca/ui";
 import { Activity } from 'lucide-react';
 import type { HealthStatus } from './types';
@@ -25,27 +23,27 @@ export function HealthStatusGrid({ health }: HealthStatusGridProps) {
         <div className="grid grid-cols-3 sm:grid-cols-6 gap-3 text-center">
           <div>
             <p className="text-xl font-bold tabular-nums">{summary.total_sources}</p>
-            <p className="text-[10px] text-muted-foreground">Total</p>
+            <p className="text-xs text-muted-foreground">Total</p>
           </div>
           <div>
             <p className="text-xl font-bold text-green-600 tabular-nums">{summary.healthy}</p>
-            <p className="text-[10px] text-muted-foreground">OK</p>
+            <p className="text-xs text-muted-foreground">OK</p>
           </div>
           <div>
             <p className="text-xl font-bold text-yellow-600 tabular-nums">{summary.degraded}</p>
-            <p className="text-[10px] text-muted-foreground">Degradadas</p>
+            <p className="text-xs text-muted-foreground">Degradadas</p>
           </div>
           <div>
             <p className="text-xl font-bold text-red-600 tabular-nums">{summary.down}</p>
-            <p className="text-[10px] text-muted-foreground">Caidas</p>
+            <p className="text-xs text-muted-foreground">Caidas</p>
           </div>
           <div>
             <p className="text-xl font-bold text-gray-500 tabular-nums">{summary.unknown}</p>
-            <p className="text-[10px] text-muted-foreground">Desconocido</p>
+            <p className="text-xs text-muted-foreground">Desconocido</p>
           </div>
           <div>
             <p className="text-xl font-bold text-gray-400 tabular-nums">{summary.never_checked}</p>
-            <p className="text-[10px] text-muted-foreground">Sin verificar</p>
+            <p className="text-xs text-muted-foreground">Sin verificar</p>
           </div>
         </div>
 

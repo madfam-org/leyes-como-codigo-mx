@@ -18,7 +18,7 @@ class Law(models.Model):
     name = models.CharField(max_length=500, help_text="Full name of the law")
     short_name = models.CharField(max_length=200, blank=True, null=True)
     category = models.CharField(max_length=100, blank=True, null=True)
-    tier = models.CharField(max_length=50, blank=True, null=True)
+    tier = models.CharField(max_length=50, blank=True, null=True, db_index=True)
     municipality = models.CharField(
         max_length=100,
         blank=True,
@@ -138,7 +138,7 @@ class CrossReference(models.Model):
             f"{self.source_law_slug}:{self.source_article_id} -> {self.reference_text}"
         )
 
-    def target_url(self) -> str:
+    def target_url(self) -> str | None:
         """Generate URL for the target reference."""
         if not self.target_law_slug:
             return None

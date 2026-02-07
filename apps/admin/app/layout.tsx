@@ -5,8 +5,11 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Admin Console - Tezca",
-    description: "Administrative console for tezca.mx",
+    title: {
+        default: "Admin Console - Tezca",
+        template: "%s — Tezca Admin",
+    },
+    description: "Consola administrativa para tezca.mx",
 };
 
 import { JanuaProvider, UserButton } from "@/lib/auth";
@@ -19,7 +22,7 @@ export default function RootLayout({
     children: React.ReactNode;
 }>) {
     return (
-        <html lang="en" suppressHydrationWarning>
+        <html lang="es" suppressHydrationWarning>
             <body className={inter.className}>
                 <JanuaProvider>
                     <ThemeProvider

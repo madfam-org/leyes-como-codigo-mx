@@ -19,38 +19,26 @@ interface SystemMetrics {
 export function SystemMetrics() {
     const [metrics, setMetrics] = useState<SystemMetrics | null>(null);
     const [loading, setLoading] = useState(true);
-    const [, setError] = useState<string | null>(null);
+    const [error, setError] = useState<string | null>(null);
 
     const fetchMetrics = async () => {
         try {
             const data = await api.getAdminMetrics();
             
-            // Transform API data to component format
-            // API returns: { total_laws, counts: { federal, state }, top_categories, quality_distribution, last_updated }
             setMetrics({
                 totalLaws: data.total_laws,
                 federalLaws: data.counts.federal,
                 stateLaws: data.counts.state,
-                gradeA: 65, // Mocked in backend for now
-                gradeB: 20, // Mocked in backend for now
-                activeJobs: 0, // We'll get this from separate call or include in metrics later
+                gradeA: 0,
+                gradeB: 0,
+                activeJobs: 0,
                 lastUpdate: data.last_updated,
-                lawsTrend: '+0', // Not yet implemented in backend
+                lawsTrend: '+0',
             });
             setError(null);
-        } catch (err) {
-            console.warn('Using fallback metrics data:', err);
-            // Fallback to mock data for development
-            setMetrics({
-                totalLaws: 11667,
-                federalLaws: 330,
-                stateLaws: 11337,
-                gradeA: 87,
-                gradeB: 11,
-                activeJobs: 0,
-                lastUpdate: new Date().toISOString(),
-                lawsTrend: '+120',
-            });
+        } catch {
+            setError('Error al cargar métricas');
+            setMetrics(null);
         } finally {
             setLoading(false);
         }
@@ -70,6 +58,14 @@ export function SystemMetrics() {
                 {[...Array(4)].map((_, i) => (
                     <div key={i} className="h-32 bg-muted animate-pulse rounded-lg" />
                 ))}
+            </div>
+        );
+    }
+
+    if (error) {
+        return (
+            <div className="p-4 bg-destructive/10 text-destructive rounded-lg">
+                {error}
             </div>
         );
     }

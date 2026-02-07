@@ -1,5 +1,3 @@
-'use client';
-
 import { Badge } from "@tezca/ui";
 import type { HealthSource } from './types';
 
@@ -28,7 +26,7 @@ export function SourceHealthCard({ source }: SourceHealthCardProps) {
     <div className={`rounded-lg border-2 p-3 space-y-1 ${borderClass}`}>
       <div className="flex items-center justify-between">
         <p className="text-sm font-medium truncate">{source.name}</p>
-        <Badge variant={STATUS_BADGE[source.status] ?? 'outline'} className="text-[10px] shrink-0">
+        <Badge variant={STATUS_BADGE[source.status] ?? 'outline'} className="text-xs shrink-0">
           {source.status}
         </Badge>
       </div>
@@ -39,7 +37,7 @@ export function SourceHealthCard({ source }: SourceHealthCardProps) {
         )}
       </div>
       {source.last_check && (
-        <p className="text-[10px] text-muted-foreground">
+        <p className="text-xs text-muted-foreground">
           Verificado: {new Date(source.last_check).toLocaleDateString('es-MX')}
         </p>
       )}

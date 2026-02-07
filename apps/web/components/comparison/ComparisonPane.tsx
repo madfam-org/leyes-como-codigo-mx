@@ -30,7 +30,7 @@ export function ComparisonPane({ law, matchedIds, scrollRef, onScroll }: Compari
             <div className="flex-1 overflow-hidden flex">
                 {/* Structure Sidebar */}
                 <div className="w-1/3 border-r overflow-y-auto bg-muted/10 p-2 hidden xl:block text-xs">
-                    <h3 className="font-semibold mb-2 text-muted-foreground uppercase tracking-wider text-[10px]">
+                    <h3 className="font-semibold mb-2 text-muted-foreground uppercase tracking-wider text-xs">
                         Estructura
                     </h3>
                     <StructureTree nodes={law.structure} />

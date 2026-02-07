@@ -19,7 +19,7 @@ export interface RecentLawEntry {
 const content = {
     es: {
         title: 'Consultadas recientemente',
-        empty: 'Aun no has consultado leyes.',
+        empty: 'Aún no has consultado leyes.',
         viewAll: 'Ver todo',
     },
     en: {
@@ -89,7 +89,7 @@ export function RecentlyViewed() {
                 {items.slice(0, 6).map((item) => (
                     <Link key={item.id} href={`/laws/${item.id}`} className="flex-shrink-0 w-56">
                         <Card className="p-3 h-full hover:shadow-md hover:border-primary/30 transition-all">
-                            <Badge variant="outline" className="text-[10px] mb-1.5">
+                            <Badge variant="outline" className="text-xs mb-1.5">
                                 {tierLabel(item.tier)}
                             </Badge>
                             <p className="text-sm font-medium line-clamp-2 text-foreground">

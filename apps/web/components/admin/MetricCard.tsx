@@ -28,6 +28,13 @@ export function MetricCard({
         info: 'text-blue-600 dark:text-blue-400',
     };
 
+    const iconBgColors = {
+        success: 'bg-green-100 dark:bg-green-900/20',
+        warning: 'bg-yellow-100 dark:bg-yellow-900/20',
+        error: 'bg-red-100 dark:bg-red-900/20',
+        info: 'bg-blue-100 dark:bg-blue-900/20',
+    };
+
     const trendColor = trend?.startsWith('+') 
         ? 'text-green-600 dark:text-green-400' 
         : trend?.startsWith('-') 
@@ -64,7 +71,7 @@ export function MetricCard({
                     {Icon && (
                         <div className={cn(
                             "p-2 sm:p-3 rounded-lg",
-                            status ? `bg-${status === 'success' ? 'green' : status === 'warning' ? 'yellow' : status === 'error' ? 'red' : 'blue'}-100 dark:bg-${status === 'success' ? 'green' : status === 'warning' ? 'yellow' : status === 'error' ? 'red' : 'blue'}-900/20` : 'bg-muted'
+                            status ? iconBgColors[status] : 'bg-muted'
                         )}>
                             <Icon className={cn(
                                 "h-4 w-4 sm:h-5 sm:w-5",

@@ -11,8 +11,8 @@ from pathlib import Path
 # Project root: 3 levels up from this file (utils/ -> api/ -> apps/ -> project root)
 BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 
-# Elasticsearch host: env var with sensible default for local dev
-ES_HOST = os.getenv("ES_HOST", "http://localhost:9200")
+# Re-export from centralized config for backward compat
+from apps.api.config import ES_HOST  # noqa: F401, E402
 
 
 def _strip_host_prefix(path_str: str) -> str:

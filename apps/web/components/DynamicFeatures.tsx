@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { api } from '@/lib/api';
-import type { DashboardStats } from '@/lib/types';
+import type { DashboardStats } from '@tezca/lib';
 import { useLang } from '@/components/providers/LanguageContext';
 
 const content = {

@@ -2,10 +2,10 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from '@tezca/ui';
 import { Building2, Scale, Home } from 'lucide-react';
 import { api } from '@/lib/api';
-import type { DashboardStats, CoverageItem } from '@/lib/types';
+import type { DashboardStats, CoverageItem } from '@tezca/lib';
 import { useLang, type Lang } from '@/components/providers/LanguageContext';
 
 const content = {
@@ -46,7 +46,7 @@ const jurisdictionConfig = [
         coverageField: 'federal' as const,
         colorClass: 'primary',
         gradient: 'from-primary-500 to-primary-600',
-        href: '/laws/federal',
+        href: '/laws?jurisdiction=federal',
     },
     {
         id: 'state' as const,
@@ -57,7 +57,7 @@ const jurisdictionConfig = [
         coverageField: 'state' as const,
         colorClass: 'secondary',
         gradient: 'from-secondary-500 to-secondary-600',
-        href: '/laws/state',
+        href: '/laws?jurisdiction=state',
     },
     {
         id: 'municipal' as const,
@@ -68,7 +68,7 @@ const jurisdictionConfig = [
         coverageField: 'municipal' as const,
         colorClass: 'accent',
         gradient: 'from-accent-500 to-accent-600',
-        href: '/laws/municipal',
+        href: '/laws?jurisdiction=municipal',
     },
 ];
 

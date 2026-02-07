@@ -1,5 +1,3 @@
-'use client';
-
 import { Badge } from "@tezca/ui";
 import type { ExpansionPriority } from './types';
 
@@ -22,7 +20,7 @@ export function PriorityRow({ item }: PriorityRowProps) {
       <div className="flex-1 min-w-0">
         <p className="text-sm truncate">{item.action}</p>
         <div className="flex items-center gap-2 mt-0.5">
-          <Badge variant="outline" className={`text-[10px] px-1.5 py-0 ${EFFORT_COLORS[item.effort] ?? ''}`}>
+          <Badge variant="outline" className={`text-xs px-1.5 py-0 ${EFFORT_COLORS[item.effort] ?? ''}`}>
             {item.effort}
           </Badge>
           {item.estimated_gain > 0 && (
@@ -34,7 +32,7 @@ export function PriorityRow({ item }: PriorityRowProps) {
       </div>
       <div className="text-right shrink-0">
         <p className="text-sm font-semibold">{item.roi_score}</p>
-        <p className="text-[10px] text-muted-foreground">ROI</p>
+        <p className="text-xs text-muted-foreground">ROI</p>
       </div>
     </div>
   );

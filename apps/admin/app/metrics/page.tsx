@@ -1,8 +1,8 @@
 'use client';
 
-import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { api, type SystemMetrics } from '@/lib/api';
+import { useApiData } from '@/hooks/useApiData';
 import { Button, Card, CardHeader, CardTitle, CardContent } from "@tezca/ui";
 import { ArrowLeft, BarChart3, Scale, Building2, Landmark, RefreshCw } from 'lucide-react';
 
@@ -25,24 +25,10 @@ function MetricCard({ label, value, icon: Icon }: { label: string; value: string
 }
 
 export default function MetricsPage() {
-    const [metrics, setMetrics] = useState<SystemMetrics | null>(null);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState<string | null>(null);
-
-    const fetchMetrics = async () => {
-        setLoading(true);
-        setError(null);
-        try {
-            const data = await api.getMetrics();
-            setMetrics(data);
-        } catch (err) {
-            setError(err instanceof Error ? err.message : 'Error al cargar métricas');
-        } finally {
-            setLoading(false);
-        }
-    };
-
-    useEffect(() => { fetchMetrics(); }, []);
+    const { data: metrics, loading, error, refresh: fetchMetrics } = useApiData<SystemMetrics>(
+        api.getMetrics,
+        'Error al cargar métricas',
+    );
 
     return (
         <div className="space-y-6">
@@ -63,7 +49,7 @@ export default function MetricsPage() {
             </div>
 
             {error && (
-                <div className="p-4 bg-error-50 text-error-700 rounded-lg border border-error-500/20">
+                <div className="p-4 bg-destructive/10 text-destructive rounded-lg border border-destructive/20">
                     {error}
                 </div>
             )}

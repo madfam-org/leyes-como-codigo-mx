@@ -1,5 +1,6 @@
 import { LawDetail } from '@/components/laws/LawDetail';
 import { Metadata } from 'next';
+import { API_BASE_URL } from '@/lib/config';
 
 /**
  * Generate dynamic metadata for law pages with Open Graph support.
@@ -12,7 +13,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
     const { id } = await params;
     const lawId = decodeURIComponent(id);
-    const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
+    const apiUrl = API_BASE_URL;
     const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://tezca.mx';
 
     try {

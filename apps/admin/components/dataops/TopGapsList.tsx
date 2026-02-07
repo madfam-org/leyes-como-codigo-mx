@@ -1,5 +1,3 @@
-'use client';
-
 import { Badge } from "@tezca/ui";
 import type { TopGap } from './types';
 
@@ -23,7 +21,7 @@ export function TopGapsList({ gaps }: TopGapsListProps) {
           <div key={gap.id} className="flex items-start gap-2 text-xs p-1.5 rounded hover:bg-muted/50">
             <Badge
               variant="outline"
-              className={`shrink-0 text-[10px] px-1.5 py-0 ${STATUS_COLORS[gap.status] ?? ''}`}
+              className={`shrink-0 text-xs px-1.5 py-0 ${STATUS_COLORS[gap.status] ?? ''}`}
             >
               P{gap.priority}
             </Badge>

@@ -16,6 +16,7 @@ async function fetcher<T>(endpoint: string, options?: RequestInit): Promise<T> {
     try {
         const response = await fetch(url, {
             ...options,
+            credentials: 'include',
             headers: {
                 'Content-Type': 'application/json',
                 ...options?.headers,
@@ -97,18 +98,6 @@ export const api = {
 
     getHealth: async (): Promise<HealthCheck> => {
         return fetcher<HealthCheck>('/admin/health/');
-    },
-
-    getCoverage: async () => {
-        return fetcher<Record<string, unknown>>('/admin/coverage/');
-    },
-
-    getHealthSources: async () => {
-        return fetcher<Record<string, unknown>>('/admin/health-sources/');
-    },
-
-    getGaps: async () => {
-        return fetcher<Record<string, unknown>>('/admin/gaps/');
     },
 
     getCoverageDashboard: async (): Promise<DashboardData> => {

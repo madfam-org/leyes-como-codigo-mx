@@ -2,23 +2,34 @@
 
 import React from "react";
 
-// Stub components used when @janua/nextjs is not installed (e.g. CI builds)
+// Flag indicating whether real auth is available
+let isAuthConfigured = false;
+
+// Stub components used when @janua/nextjs is not installed
 function StubJanuaProvider({ children }: { children: React.ReactNode }) {
-    return <>{children}</>;
+    return (
+        <>
+            <div className="bg-destructive/10 border-b border-destructive/20 px-4 py-2 text-center text-sm text-destructive">
+                Authentication is not configured. Set up @janua/nextjs for production use.
+            </div>
+            {children}
+        </>
+    );
 }
 
 function StubUserButton() {
     return (
         <div className="h-8 w-8 rounded-full bg-muted flex items-center justify-center text-xs font-medium text-muted-foreground">
-            A
+            ?
         </div>
     );
 }
 
 function StubSignInForm() {
     return (
-        <div className="rounded-lg border bg-card p-6 text-center text-sm text-muted-foreground">
-            Authentication is not configured. Set up @janua/nextjs for production.
+        <div className="rounded-lg border border-destructive/20 bg-card p-6 text-center text-sm text-muted-foreground">
+            <p className="font-medium text-destructive mb-2">Authentication Not Configured</p>
+            <p>Install and configure <code className="bg-muted px-1 rounded">@janua/nextjs</code> to enable authentication for the admin console.</p>
         </div>
     );
 }
@@ -34,8 +45,9 @@ try {
     if (janua.JanuaProvider) JanuaProvider = janua.JanuaProvider;
     if (janua.UserButton) UserButton = janua.UserButton;
     if (janua.SignInForm) SignInForm = janua.SignInForm;
+    isAuthConfigured = true;
 } catch {
     // @janua/nextjs not installed — stubs are already set
 }
 
-export { JanuaProvider, UserButton, SignInForm };
+export { JanuaProvider, UserButton, SignInForm, isAuthConfigured };

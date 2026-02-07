@@ -1,8 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { Card } from '@/components/ui/card';
-import { Input } from '@/components/ui/input';
+import { Card, Input } from '@tezca/ui';
 import { useLang } from '@/components/providers/LanguageContext';
 
 const content = {
@@ -75,10 +74,10 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
         return (
             <Card className="p-8 text-center">
                 <div className="animate-pulse">
-                    <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-3/4 mx-auto mb-4"></div>
-                    <div className="h-4 bg-gray-200 dark:bg-gray-700 rounded w-1/2 mx-auto"></div>
+                    <div className="h-4 bg-muted rounded w-3/4 mx-auto mb-4"></div>
+                    <div className="h-4 bg-muted rounded w-1/2 mx-auto"></div>
                 </div>
-                <p className="text-gray-600 dark:text-gray-400 mt-4">
+                <p className="text-muted-foreground mt-4">
                     {t.loading}
                 </p>
             </Card>
@@ -87,8 +86,8 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
 
     if (!lawData) {
         return (
-            <Card className="p-8 text-center bg-red-50 dark:bg-red-950/30">
-                <p className="text-red-600 dark:text-red-400">
+            <Card className="p-8 text-center bg-destructive/10">
+                <p className="text-destructive">
                     {t.loadError}
                 </p>
             </Card>
@@ -126,8 +125,8 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                         <button
                             onClick={() => setShowTransitorios(!showTransitorios)}
                             className={`px-4 py-2 rounded-lg font-medium transition-colors ${showTransitorios
-                                    ? 'bg-blue-600 text-white'
-                                    : 'bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300'
+                                    ? 'bg-primary text-primary-foreground'
+                                    : 'bg-muted text-muted-foreground hover:text-foreground'
                                 }`}
                         >
                             {showTransitorios ? t.viewArticles : t.viewTransitorios(transitorios.length)}
@@ -136,7 +135,7 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                 </div>
 
                 {searchQuery && (
-                    <div className="mt-3 text-sm text-gray-600 dark:text-gray-400">
+                    <div className="mt-3 text-sm text-muted-foreground">
                         {t.resultsFound(filteredArticles.length)}
                     </div>
                 )}
@@ -155,20 +154,20 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
                         <Card key={article.id} className="p-6 hover:shadow-lg transition-all duration-300 glass border-transparent hover:border-primary/20">
                             <div className="flex gap-4">
                                 <div className="flex-shrink-0">
-                                    <div className="w-12 h-12 rounded-xl bg-primary-100 dark:bg-primary-900/30 flex items-center justify-center shadow-inner">
-                                        <span className="text-primary-600 dark:text-primary-300 font-bold font-display text-sm">
+                                    <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center shadow-inner">
+                                        <span className="text-primary font-bold font-display text-sm">
                                             {index + 1}
                                         </span>
                                     </div>
                                 </div>
 
                                 <div className="flex-1 min-w-0">
-                                    <h3 className="text-lg font-bold font-display text-primary-700 dark:text-primary-300 mb-3">
+                                    <h3 className="text-lg font-bold font-display text-primary mb-3">
                                         {article.number}
                                     </h3>
 
                                     {article.content ? (
-                                        <div className="text-neutral-700 dark:text-neutral-300 leading-relaxed whitespace-pre-wrap font-serif">
+                                        <div className="text-foreground leading-relaxed whitespace-pre-wrap font-serif">
                                             {searchQuery ? (
                                                 <HighlightedText text={article.content} query={searchQuery} />
                                             ) : (
@@ -193,13 +192,14 @@ export default function LawArticles({ lawId }: LawArticlesProps) {
 function HighlightedText({ text, query }: { text: string; query: string }) {
     if (!query) return <>{text}</>;
 
-    const parts = text.split(new RegExp(`(${query})`, 'gi'));
+    const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const parts = text.split(new RegExp(`(${escaped})`, 'gi'));
 
     return (
         <>
             {parts.map((part, i) => (
                 part.toLowerCase() === query.toLowerCase() ? (
-                    <mark key={i} className="bg-yellow-200 dark:bg-yellow-800">
+                    <mark key={i} className="bg-accent text-accent-foreground">
                         {part}
                     </mark>
                 ) : (

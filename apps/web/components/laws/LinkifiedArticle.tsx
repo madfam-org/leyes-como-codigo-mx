@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useLang } from '@/components/providers/LanguageContext';
+import { API_BASE_URL } from '@/lib/config';
 
 const content = {
     es: {
@@ -52,7 +53,7 @@ export function LinkifiedArticle({ lawId, articleId, text: rawText }: LinkifiedA
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
+        const apiUrl = API_BASE_URL;
 
         fetch(`${apiUrl}/laws/${lawId}/articles/${articleId}/references/`)
             .then(r => r.ok ? r.json() : { outgoing: [] })

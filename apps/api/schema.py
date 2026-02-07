@@ -24,15 +24,22 @@ class LawDetailSchema(serializers.Serializer):
     category = serializers.CharField()
     tier = serializers.CharField()
     state = serializers.CharField(allow_null=True)
+    status = serializers.CharField(allow_null=True)
+    last_verified = serializers.DateTimeField(allow_null=True)
+    source_url = serializers.URLField(allow_null=True)
     versions = LawVersionSchema(many=True)
     articles = serializers.IntegerField()
     grade = serializers.CharField(allow_null=True)
     score = serializers.FloatField(allow_null=True)
+    degraded = serializers.BooleanField(required=False)
 
 
 class LawListItemSchema(serializers.Serializer):
     id = serializers.CharField()
     name = serializers.CharField()
+    tier = serializers.CharField(allow_null=True)
+    category = serializers.CharField(allow_null=True)
+    status = serializers.CharField(allow_null=True)
     versions = serializers.IntegerField()
 
 
@@ -74,8 +81,16 @@ class LawStatsSchema(serializers.Serializer):
     total_laws = serializers.IntegerField()
     federal_count = serializers.IntegerField()
     state_count = serializers.IntegerField()
+    municipal_count = serializers.IntegerField()
+    total_articles = serializers.IntegerField()
+    federal_coverage = serializers.FloatField()
+    state_coverage = serializers.FloatField()
+    municipal_coverage = serializers.FloatField()
+    total_coverage = serializers.FloatField()
     last_update = serializers.DateField(allow_null=True)
     recent_laws = RecentLawSchema(many=True)
+    coverage = serializers.DictField(required=False, allow_null=True)
+    degraded = serializers.BooleanField(required=False)
 
 
 # ── Search endpoint ──────────────────────────────────────────────────────
@@ -129,7 +144,7 @@ SEARCH_PARAMETERS = [
         "date_range",
         str,
         description="Date range filter",
-        enum=["all", "2024", "2023", "last_5_years", "older"],
+        enum=["all", "this_year", "last_year", "last_5_years", "older"],
     ),
     OpenApiParameter("title", str, description="Filter by structural title"),
     OpenApiParameter("chapter", str, description="Filter by structural chapter"),
@@ -269,11 +284,6 @@ class IngestionRequestSchema(serializers.Serializer):
 class IngestionResponseSchema(serializers.Serializer):
     status = serializers.CharField()
     message = serializers.CharField()
-
-
-class CalculationDisabledSchema(serializers.Serializer):
-    message = serializers.CharField()
-    data = serializers.DictField()
 
 
 # ── Pipeline endpoints ─────────────────────────────────────────────────

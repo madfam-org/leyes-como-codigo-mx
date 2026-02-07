@@ -8,6 +8,7 @@ import type { LawDetailData } from './types';
 import { useLang } from '@/components/providers/LanguageContext';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { FontSizeControl } from '@/components/FontSizeControl';
+import { API_BASE_URL } from '@/lib/config';
 import type { FontSize } from '@/components/FontSizeControl';
 import { LawDetailSkeleton } from '@/components/skeletons/LawDetailSkeleton';
 import { ArticleSearch } from './ArticleSearch';
@@ -51,7 +52,7 @@ export function LawDetail({ lawId }: LawDetailProps) {
         async function fetchLaw() {
             try {
                 setLoading(true);
-                const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api/v1';
+                const apiUrl = API_BASE_URL;
 
                 const lawRes = await fetch(`${apiUrl}/laws/${lawId}/`);
                 if (!lawRes.ok) throw new Error(t.loadLawError);

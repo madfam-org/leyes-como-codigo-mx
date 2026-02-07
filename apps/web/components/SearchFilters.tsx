@@ -49,7 +49,8 @@ const content = {
         chapterPlaceholder: 'Filtrar por cap\u00edtulo...',
         publicationDate: 'Fecha de publicaci\u00f3n',
         anyDate: 'Cualquier fecha',
-        thisYear: '2024 (Este a\u00f1o)',
+        thisYear: 'Este a\u00f1o',
+        lastYear: 'A\u00f1o pasado',
         last5Years: '\u00daltimos 5 a\u00f1os',
         older: 'M\u00e1s antiguos',
         sortBy: 'Ordenar por',
@@ -78,7 +79,8 @@ const content = {
         chapterPlaceholder: 'Filter by chapter...',
         publicationDate: 'Publication date',
         anyDate: 'Any date',
-        thisYear: '2024 (This year)',
+        thisYear: 'This year',
+        lastYear: 'Last year',
         last5Years: 'Last 5 years',
         older: 'Older',
         sortBy: 'Sort by',
@@ -395,8 +397,8 @@ export function SearchFilters({ filters, onFiltersChange, resultCount }: SearchF
                         </SelectTrigger>
                         <SelectContent>
                             <SelectItem value="all">{t.anyDate}</SelectItem>
-                            <SelectItem value="2024">{t.thisYear}</SelectItem>
-                            <SelectItem value="2023">2023</SelectItem>
+                            <SelectItem value="this_year">{t.thisYear}</SelectItem>
+                            <SelectItem value="last_year">{t.lastYear}</SelectItem>
                             <SelectItem value="last_5_years">{t.last5Years}</SelectItem>
                             <SelectItem value="older">{t.older}</SelectItem>
                         </SelectContent>

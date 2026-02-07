@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
 let middleware: (req: NextRequest) => ReturnType<typeof NextResponse.next>;
+let januaAvailable = false;
 
 try {
     // eslint-disable-next-line @typescript-eslint/no-require-imports
@@ -10,9 +11,19 @@ try {
         publicRoutes: ["/sign-in", "/api/health"],
         signInUrl: "/sign-in",
     });
+    januaAvailable = true;
 } catch {
-    // @janua/nextjs not installed — allow all requests through
-    middleware = () => NextResponse.next();
+    // @janua/nextjs not installed — redirect non-public routes to setup notice
+    middleware = (req: NextRequest) => {
+        const { pathname } = req.nextUrl;
+        // Allow health check and static assets through
+        if (pathname === "/api/health" || pathname === "/sign-in") {
+            return NextResponse.next();
+        }
+        // Redirect to sign-in which shows the "auth not configured" message
+        const signInUrl = new URL("/sign-in", req.url);
+        return NextResponse.redirect(signInUrl);
+    };
 }
 
 export default function handler(req: NextRequest) {
@@ -24,3 +35,5 @@ export const config = {
         "/((?!_next|[^?]*\\.(?:html?|css|js(?!on)|jpe?g|webp|png|gif|svg|ttf|woff2?|ico|csv|docx?|xlsx?|zip|webmanifest)).*)",
     ],
 };
+
+export { januaAvailable };

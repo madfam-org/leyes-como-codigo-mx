@@ -29,7 +29,7 @@ from .law_views import (
 )
 from .middleware.janua_auth import JanuaJWTAuthentication
 from .search_views import SearchView
-from .views import CalculationView, IngestionView
+from .views import IngestionView
 
 
 def _protected(view_func):
@@ -66,7 +66,6 @@ urlpatterns = [
     path("admin/roadmap/", _protected(roadmap), name="admin-roadmap"),
     path("ingest/", _protected(IngestionView.as_view()), name="ingest"),
     # ── Public endpoints (no auth) ────────────────────────────────────
-    path("calculate/", CalculationView.as_view(), name="calculate"),
     path("search/", SearchView.as_view(), name="search"),
     path("stats/", law_stats, name="law-stats"),
     path("laws/", LawListView.as_view(), name="law-list"),

@@ -1,5 +1,3 @@
-'use client';
-
 const TYPE_LABELS: Record<string, string> = {
   dead_link: 'Dead Link',
   missing_source: 'Sin Fuente',

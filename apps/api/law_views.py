@@ -5,7 +5,6 @@ import re
 from django.db.models import Count
 from django.shortcuts import get_object_or_404
 from drf_spectacular.utils import extend_schema
-from elasticsearch import Elasticsearch
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.pagination import PageNumberPagination
@@ -33,9 +32,7 @@ def _natural_sort_key(text: str):
     return [int(p) if p.isdigit() else p.lower() for p in parts]
 
 
-# Elasticsearch config
-ES_HOST = os.getenv("ES_HOST", "http://elasticsearch:9200")
-INDEX_NAME = "articles"
+from .config import ES_HOST, INDEX_NAME, es_client
 
 
 class LawDetailView(APIView):
@@ -59,16 +56,21 @@ class LawDetailView(APIView):
 
         # 4. Get article count from Elasticsearch
         article_count = 0
+        es_degraded = False
         try:
-            es = Elasticsearch([ES_HOST])
+            es = es_client
             if es.ping():
                 count_res = es.count(
                     index=INDEX_NAME,
                     body={"query": {"match_phrase": {"law_id": law.official_id}}},
                 )
                 article_count = count_res.get("count", 0)
+            else:
+                es_degraded = True
         except Exception:
-            pass
+            import logging
+            logging.getLogger(__name__).warning("ES unavailable for law detail %s", law_id, exc_info=True)
+            es_degraded = True
 
         # 5. Format Response
         data = {
@@ -97,6 +99,9 @@ class LawDetailView(APIView):
             "score": None,
         }
 
+        if es_degraded:
+            data["degraded"] = True
+
         response = Response(data)
         response["Cache-Control"] = "public, max-age=3600"
         return response
@@ -118,7 +123,7 @@ class LawListView(APIView):
         responses={200: LawListItemSchema(many=True)},
     )
     def get(self, request):
-        qs = Law.objects.all().order_by("official_id")
+        qs = Law.objects.annotate(version_count=Count("versions")).order_by("official_id")
 
         # Filtering
         tier = request.query_params.get("tier")
@@ -151,7 +156,7 @@ class LawListView(APIView):
                 "tier": law.tier,
                 "category": law.category,
                 "status": law.status,
-                "versions": law.versions.count(),
+                "versions": law.version_count,
             }
             for law in page
         ]
@@ -177,7 +182,7 @@ def law_search(request, law_id):
     law = get_object_or_404(Law, official_id=law_id)
 
     try:
-        es = Elasticsearch([ES_HOST])
+        es = es_client
         body = {
             "query": {
                 "bool": {
@@ -215,8 +220,13 @@ def law_search(request, law_id):
                 "results": results,
             }
         )
-    except Exception as e:
-        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("law_search failed for %s", law_id)
+        return Response(
+            {"error": "An internal error occurred while searching."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        )
 
 
 @extend_schema(
@@ -232,15 +242,19 @@ def law_articles(request, law_id):
         # Verify law exists
         law = get_object_or_404(Law, official_id=law_id)
 
-        # Query Elasticsearch
-        es = Elasticsearch([ES_HOST])
+        # Pagination params
+        page = max(1, int(request.query_params.get("page", 1)))
+        page_size = min(max(1, int(request.query_params.get("page_size", 500))), 1000)
+        offset = (page - 1) * page_size
 
-        # Query all articles for this law using canonical ID
-        # Use match_phrase on text field to handle unicode normalization differences
+        # Query Elasticsearch
+        es = es_client
+
         body = {
             "query": {"match_phrase": {"law_id": law.official_id}},
             "sort": [{"article": {"order": "asc"}}],
-            "size": 10000,  # Max articles per law
+            "from": offset,
+            "size": page_size,
         }
 
         res = es.search(index=INDEX_NAME, body=body)
@@ -273,8 +287,13 @@ def law_articles(request, law_id):
         response["Cache-Control"] = "public, max-age=3600"
         return response
 
-    except Exception as e:
-        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("law_articles failed for %s", law_id)
+        return Response(
+            {"error": "An internal error occurred while retrieving articles."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        )
 
 
 @extend_schema(
@@ -291,7 +310,7 @@ def law_structure(request, law_id):
     """
     try:
         law = get_object_or_404(Law, official_id=law_id)
-        es = Elasticsearch([ES_HOST])
+        es = es_client
 
         # Fetch all articles with hierarchy data
         # Sort by metadata order if available, otherwise we rely on ES default which is not reliable for order.
@@ -341,8 +360,13 @@ def law_structure(request, law_id):
         response["Cache-Control"] = "public, max-age=3600"
         return response
 
-    except Exception as e:
-        return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+    except Exception:
+        import logging
+        logging.getLogger(__name__).exception("law_structure failed for %s", law_id)
+        return Response(
+            {"error": "An internal error occurred while retrieving structure."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR,
+        )
 
 
 @extend_schema(
@@ -354,41 +378,7 @@ def law_structure(request, law_id):
 @api_view(["GET"])
 def states_list(request):
     """Get list of all states with law counts."""
-    # Known state slugs and their proper names
-    KNOWN_STATES = {
-        "aguascalientes": "Aguascalientes",
-        "baja_california_sur": "Baja California Sur",
-        "baja_california": "Baja California",
-        "campeche": "Campeche",
-        "chiapas": "Chiapas",
-        "chihuahua": "Chihuahua",
-        "ciudad_de_mexico": "Ciudad de México",
-        "coahuila": "Coahuila",
-        "colima": "Colima",
-        "durango": "Durango",
-        "estado_de_mexico": "Estado de México",
-        "guanajuato": "Guanajuato",
-        "guerrero": "Guerrero",
-        "hidalgo": "Hidalgo",
-        "jalisco": "Jalisco",
-        "michoacan": "Michoacán",
-        "morelos": "Morelos",
-        "nayarit": "Nayarit",
-        "nuevo_leon": "Nuevo León",
-        "oaxaca": "Oaxaca",
-        "puebla": "Puebla",
-        "queretaro": "Querétaro",
-        "quintana_roo": "Quintana Roo",
-        "san_luis_potosi": "San Luis Potosí",
-        "sinaloa": "Sinaloa",
-        "sonora": "Sonora",
-        "tabasco": "Tabasco",
-        "tamaulipas": "Tamaulipas",
-        "tlaxcala": "Tlaxcala",
-        "veracruz": "Veracruz",
-        "yucatan": "Yucatán",
-        "zacatecas": "Zacatecas",
-    }
+    from .constants import KNOWN_STATES
 
     # Get all state law IDs
     state_law_ids = Law.objects.filter(tier="state").values_list(
@@ -428,7 +418,7 @@ def suggest(request):
     """Lightweight law-name autocomplete. Returns top 8 matches."""
     q = request.query_params.get("q", "").strip()
     if len(q) < 2:
-        return Response([])
+        return Response({"suggestions": []})
 
     laws = (
         Law.objects.filter(name__icontains=q)
@@ -436,10 +426,12 @@ def suggest(request):
         .order_by("name")[:8]
     )
     response = Response(
-        [
-            {"id": law["official_id"], "name": law["name"], "tier": law["tier"]}
-            for law in laws
-        ]
+        {
+            "suggestions": [
+                {"id": law["official_id"], "name": law["name"], "tier": law["tier"]}
+                for law in laws
+            ]
+        }
     )
     response["Cache-Control"] = "public, max-age=300"
     return response
@@ -493,13 +485,18 @@ def law_stats(request):
 
     # Article count from Elasticsearch
     total_articles = 0
+    es_degraded = False
     try:
-        es = Elasticsearch([ES_HOST])
+        es = es_client
         if es.ping():
             count_res = es.count(index=INDEX_NAME)
             total_articles = count_res.get("count", 0)
+        else:
+            es_degraded = True
     except Exception:
-        pass
+        import logging
+        logging.getLogger(__name__).warning("ES unavailable for law_stats", exc_info=True)
+        es_degraded = True
 
     # Load universe registry for honest coverage numbers
     registry = _load_universe_registry()
@@ -605,5 +602,8 @@ def law_stats(request):
 
     if coverage is not None:
         response_data["coverage"] = coverage
+
+    if es_degraded:
+        response_data["degraded"] = True
 
     return Response(response_data)

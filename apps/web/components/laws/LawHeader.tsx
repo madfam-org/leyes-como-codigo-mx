@@ -1,7 +1,7 @@
 'use client';
 
 import type { Law, LawVersion } from './types';
-import { Badge } from '@/components/ui/badge';
+import { Badge } from '@tezca/ui';
 import { ExternalLink, Calendar, GitCompareArrows, AlertTriangle } from 'lucide-react';
 import Link from 'next/link';
 import { useLang } from '@/components/providers/LanguageContext';

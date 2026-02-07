@@ -1,5 +1,3 @@
-'use client';
-
 import { Badge } from "@tezca/ui";
 import type { StateCoverage } from './types';
 
@@ -13,7 +11,7 @@ export function StateCoverageRow({ row }: StateCoverageRowProps) {
       <td className="py-2 px-3 text-sm font-medium">
         {row.state}
         {row.anomaly && (
-          <Badge variant="destructive" className="ml-2 text-[10px] px-1.5 py-0">
+          <Badge variant="destructive" className="ml-2 text-xs px-1.5 py-0">
             anomalia
           </Badge>
         )}

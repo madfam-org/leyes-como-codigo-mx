@@ -1,5 +1,3 @@
-'use client';
-
 import { Card, CardHeader, CardTitle, CardContent } from "@tezca/ui";
 import { Layers } from 'lucide-react';
 import type { TierProgress } from './types';

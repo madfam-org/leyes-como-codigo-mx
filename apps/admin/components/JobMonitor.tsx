@@ -15,8 +15,8 @@ export default function JobMonitor() {
         try {
             const data = await api.getIngestionStatus();
             setStatus(data);
-        } catch (error) {
-            console.error(error);
+        } catch {
+            // Silently handle — polling will retry
         } finally {
             setLoading(false);
         }
@@ -31,7 +31,18 @@ export default function JobMonitor() {
         };
     }, []);
 
-    if (loading && !status) return <div>Cargando monitor...</div>;
+    if (loading && !status) return (
+        <Card className="h-full animate-pulse">
+            <CardHeader className="flex flex-row items-center justify-between pb-2">
+                <div className="h-5 w-40 bg-muted rounded" />
+                <div className="h-5 w-20 bg-muted rounded" />
+            </CardHeader>
+            <CardContent className="space-y-4">
+                <div className="h-4 w-full bg-muted rounded" />
+                <div className="h-24 w-full bg-muted rounded" />
+            </CardContent>
+        </Card>
+    );
 
     const isRunning = status?.status === 'running';
 

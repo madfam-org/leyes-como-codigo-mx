@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useCallback, useSyncExternalStore } from 'react';
+import { useState, useCallback, useEffect, useSyncExternalStore } from 'react';
 
 const SIZES = ['text-sm', 'text-base', 'text-lg'] as const;
 type FontSize = (typeof SIZES)[number];
@@ -29,10 +29,13 @@ export function FontSizeControl({ onChange }: FontSizeControlProps) {
         onChange(newSize);
     };
 
-    // Sync on first render (client only)
-    if (typeof window !== 'undefined' && size !== 'text-base') {
-        onChange(size);
-    }
+    // Sync stored preference on mount (client only)
+    useEffect(() => {
+        if (size !== 'text-base') {
+            onChange(size);
+        }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, []);
 
     return (
         <div className="inline-flex items-center rounded-md border border-border bg-muted/50 p-0.5" role="group" aria-label="Font size">

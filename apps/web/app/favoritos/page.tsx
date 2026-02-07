@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { Heart, Trash2, BookOpen } from 'lucide-react';
 import { useBookmarks } from '@/components/providers/BookmarksContext';
 import { useLang } from '@/components/providers/LanguageContext';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from '@tezca/ui';
 
 const content = {
     es: {

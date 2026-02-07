@@ -1,17 +1,13 @@
 import math
-import os
 
 from drf_spectacular.utils import extend_schema
-from elasticsearch import Elasticsearch
 from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
+from .config import INDEX_NAME, es_client
 from .schema import SEARCH_PARAMETERS, ErrorSchema, SearchResponseSchema
 from .throttles import SearchRateThrottle
-
-ES_HOST = os.getenv("ES_HOST", "http://elasticsearch:9200")
-INDEX_NAME = "articles"
 
 
 class SearchView(APIView):
@@ -30,7 +26,7 @@ class SearchView(APIView):
             return Response({"results": [], "total": 0})
 
         try:
-            es = Elasticsearch([ES_HOST])
+            es = es_client
             if not es.ping():
                 # Fallback for dev/demo if ES is down
                 return Response(
@@ -43,8 +39,8 @@ class SearchView(APIView):
             category = request.query_params.get("category", None)
             search_status = request.query_params.get("status", "all")
             sort_by = request.query_params.get("sort", "relevance")
-            page = int(request.query_params.get("page", 1))
-            page_size = int(request.query_params.get("page_size", 10))
+            page = max(1, int(request.query_params.get("page", 1)))
+            page_size = min(max(1, int(request.query_params.get("page_size", 10))), 100)
 
             # Build Elasticsearch query
             must_clauses = [
@@ -114,11 +110,10 @@ class SearchView(APIView):
 
                 now = timezone.now()
 
-                if date_range == "2024":
-                    # Current Year (Assuming 2024 context, or generic current year)
-                    # Ideally dynamically get current year if "this_year"
-                    start_date = "2024-01-01"
-                    end_date = "2024-12-31"
+                if date_range == "this_year":
+                    current_year = now.year
+                    start_date = f"{current_year}-01-01"
+                    end_date = f"{current_year}-12-31"
                     filter_clauses.append(
                         {
                             "range": {
@@ -127,9 +122,10 @@ class SearchView(APIView):
                         }
                     )
 
-                elif date_range == "2023":
-                    start_date = "2023-01-01"
-                    end_date = "2023-12-31"
+                elif date_range == "last_year":
+                    last_year = now.year - 1
+                    start_date = f"{last_year}-01-01"
+                    end_date = f"{last_year}-12-31"
                     filter_clauses.append(
                         {
                             "range": {
@@ -234,12 +230,15 @@ class SearchView(APIView):
             response["Cache-Control"] = "public, max-age=300"
             return response
 
-        except ValueError as e:
+        except ValueError:
             return Response(
-                {"error": f"Invalid parameter: {str(e)}"},
+                {"error": "Invalid parameter value. Check page and page_size are valid numbers."},
                 status=status.HTTP_400_BAD_REQUEST,
             )
-        except Exception as e:
+        except Exception:
+            import logging
+            logging.getLogger(__name__).exception("SearchView failed")
             return Response(
-                {"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR
+                {"error": "An internal error occurred while searching."},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR,
             )

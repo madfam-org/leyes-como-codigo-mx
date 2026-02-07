@@ -6,8 +6,8 @@ import { useLang } from '@/components/providers/LanguageContext';
 
 const content = {
     es: {
-        title: 'Pagina no encontrada',
-        description: 'La pagina que buscas no existe o fue movida.',
+        title: 'Página no encontrada',
+        description: 'La página que buscas no existe o fue movida.',
         goHome: 'Ir al inicio',
         goSearch: 'Buscar leyes',
         goBack: 'Volver',

@@ -25,6 +25,7 @@ export function ReadingProgressBar() {
             className="fixed top-0 left-0 z-50 h-[3px] bg-primary transition-[width] duration-75"
             style={{ width: `${progress}%`, willChange: 'width' }}
             role="progressbar"
+            aria-label="Progreso de lectura"
             aria-valuenow={Math.round(progress)}
             aria-valuemin={0}
             aria-valuemax={100}

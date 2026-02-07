@@ -13,7 +13,11 @@ export interface Law {
     short_name?: string;
     fullName?: string;
     category?: string;
-    tier?: number | string;
+    tier?: string;
+    state?: string;
+    status?: string;
+    last_verified?: string;
+    source_url?: string;
     versions?: LawVersion[];
     articles?: number;
     transitorios?: number;
@@ -21,6 +25,7 @@ export interface Law {
     score?: number;
     priority?: number;
     file?: string;
+    degraded?: boolean;
 }
 
 export type Article = LawArticle;
@@ -28,6 +33,9 @@ export type Article = LawArticle;
 export interface LawListItem {
     id: string;
     name: string;
+    tier?: string;
+    category?: string;
+    status?: string;
     versions: number;
 }
 
@@ -39,7 +47,12 @@ export interface SearchResult {
     snippet: string;
     score: number;
     date?: string;
+    state?: string;
     municipality?: string;
+    hierarchy?: string[];
+    book?: string;
+    title?: string;
+    chapter?: string;
 }
 
 export interface SearchResponse {
@@ -96,6 +109,7 @@ export interface DashboardStats {
         category: string;
     }[];
     coverage?: CoverageBreakdown;
+    degraded?: boolean;
 }
 
 export interface LawArticle {

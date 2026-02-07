@@ -43,21 +43,21 @@ describe('ComparisonHint', () => {
 
     it('renders dismiss button with aria-label', () => {
         render(<ComparisonHint />);
-        expect(screen.getByLabelText('Dismiss')).toBeInTheDocument();
+        expect(screen.getByLabelText('Cerrar')).toBeInTheDocument();
     });
 
     it('hides hint after dismiss button is clicked', () => {
         render(<ComparisonHint />);
         expect(screen.getByText('Selecciona leyes para compararlas')).toBeInTheDocument();
 
-        fireEvent.click(screen.getByLabelText('Dismiss'));
+        fireEvent.click(screen.getByLabelText('Cerrar'));
 
         expect(screen.queryByText('Selecciona leyes para compararlas')).not.toBeInTheDocument();
     });
 
     it('sets localStorage key on dismiss', () => {
         render(<ComparisonHint />);
-        fireEvent.click(screen.getByLabelText('Dismiss'));
+        fireEvent.click(screen.getByLabelText('Cerrar'));
         expect(localStorageMock.setItem).toHaveBeenCalledWith('comparison-hint-dismissed', '1');
     });
 

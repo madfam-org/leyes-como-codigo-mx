@@ -91,10 +91,10 @@ def law_cross_references(request, law_id):
     Example: GET /api/v1/laws/amparo/references/
     """
     # Get all outgoing references for this law
-    outgoing = CrossReference.objects.filter(source_law_slug=law_id).select_related()
+    outgoing = CrossReference.objects.filter(source_law_slug=law_id)
 
     # Get all incoming references to this law
-    incoming = CrossReference.objects.filter(target_law_slug=law_id).select_related()
+    incoming = CrossReference.objects.filter(target_law_slug=law_id)
 
     # Calculate statistics
     total_outgoing = outgoing.count()
