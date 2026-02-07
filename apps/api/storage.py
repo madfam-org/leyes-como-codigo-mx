@@ -130,8 +130,7 @@ class R2StorageBackend(StorageBackend):
             import boto3
         except ImportError:
             raise ImportError(
-                "boto3 is required for R2 storage. "
-                "Install with: pip install boto3"
+                "boto3 is required for R2 storage. " "Install with: pip install boto3"
             )
 
         self.bucket_name = os.environ.get("R2_BUCKET_NAME", "tezca-documents")

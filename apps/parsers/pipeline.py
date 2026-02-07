@@ -85,7 +85,9 @@ class IngestionPipeline:
             print(f"❌ {result.law_id}: {result.error}")
     """
 
-    def __init__(self, data_dir: Path = None, skip_download: bool = False, storage=None):
+    def __init__(
+        self, data_dir: Path = None, skip_download: bool = False, storage=None
+    ):
         """
         Initialize pipeline.
 
