@@ -20,6 +20,12 @@ const content = {
     readMore: 'Read more',
     dismiss: 'Dismiss notice',
   },
+  nah: {
+    message:
+      'Tlahtōlnahuatilli: In tlamachiliztli inīn tlahcuilōlpan zan tēmachtilistli ihuan ahmo tenahuatiliz tlanōnōtzaliztli. Nochipa xiquitta tēuctlahtōlpialōyan.',
+    readMore: 'Xipohua achi',
+    dismiss: 'Xictlatzacua tlahtōlnahuatilli',
+  },
 };
 
 function getSnapshot(): boolean {

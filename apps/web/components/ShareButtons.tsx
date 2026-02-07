@@ -7,6 +7,7 @@ import { useLang } from '@/components/providers/LanguageContext';
 const labels = {
     es: { copied: 'Copiado!', copy: 'Copiar enlace', share: 'Compartir' },
     en: { copied: 'Copied!', copy: 'Copy link', share: 'Share' },
+    nah: { copied: 'Ōmotēcac!', copy: 'Xictēcpana tlahcuilōlli', share: 'Xictēmaca' },
 };
 
 interface ShareButtonsProps {

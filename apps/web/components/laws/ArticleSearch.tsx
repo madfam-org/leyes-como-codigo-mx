@@ -21,6 +21,13 @@ const content = {
         noResults: 'No results',
         clear: 'Clear search',
     },
+    nah: {
+        placeholder: 'Xictlatemo inīn tenahuatilli...',
+        results: 'tlanextīliztli',
+        result: 'tlanextīliztli',
+        noResults: 'Ahmo tlanextīliztli',
+        clear: 'Xicchīpahua tlatemoliztli',
+    },
 };
 
 interface ArticleSearchResult {

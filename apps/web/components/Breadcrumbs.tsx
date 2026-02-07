@@ -12,6 +12,7 @@ interface BreadcrumbItem {
 const labels = {
     es: { home: 'Inicio', explore: 'Explorar' },
     en: { home: 'Home', explore: 'Explore' },
+    nah: { home: 'Caltenco', explore: 'Tlaixmatiliztli' },
 };
 
 interface BreadcrumbsProps {

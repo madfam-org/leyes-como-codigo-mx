@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { api } from '@/lib/api';
 import type { DashboardStats } from '@tezca/lib';
-import { useLang } from '@/components/providers/LanguageContext';
+import { useLang, LOCALE_MAP } from '@/components/providers/LanguageContext';
 
 const content = {
     es: {
@@ -28,12 +28,23 @@ const content = {
         statesTitle: '32 States Covered',
         statesDesc: 'Legislation from all states in the country',
     },
+    nah: {
+        coverageFallback: 'Tenahuatiliz Tlanextīliztli',
+        coverageWithPct: (pct: number) => `${pct}% Tenahuatiliz Tlanextīliztli`,
+        coverageDesc: (count: string, universe: string, pct: number) =>
+            `${count} ipan ${universe} tenahuatilli (${pct}%)`,
+        coverageDescFallback: (count: string) => `${count} tenahuatilli tēpōzmachiyōtīlli`,
+        searchTitle: 'Mochi Tlahcuilōlli Tlatemoliztli',
+        searchDesc: (n: string) => `${n} tlanahuatilli tlatemoliztli`,
+        statesTitle: '32 Altepetl',
+        statesDesc: 'Tenahuatilli mochi altepetl in tlālticpac',
+    },
 };
 
 export function DynamicFeatures() {
     const { lang } = useLang();
     const t = content[lang];
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
     const [stats, setStats] = useState<DashboardStats | null>(null);
 
     useEffect(() => {

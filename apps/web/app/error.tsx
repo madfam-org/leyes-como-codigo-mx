@@ -16,6 +16,12 @@ const content = {
         retry: 'Retry',
         goHome: 'Go home',
     },
+    nah: {
+        title: 'Itlah ahmo cualli ōmochiuh',
+        message: 'Ahmo tēmachīlli tlahtlacōlli ōmochiuh. Huelīz xicyancuīlia in āmatl.',
+        retry: 'Xicyancuīlia',
+        goHome: 'Caltenco',
+    },
 };
 
 export default function Error({

@@ -9,6 +9,7 @@ const STORAGE_KEY = 'comparison-hint-dismissed';
 const labels = {
     es: 'Selecciona leyes para compararlas',
     en: 'Select laws to compare them',
+    nah: 'Xictlapēpeni tenahuatilli ic motlanānamiqui',
 };
 
 function useIsDismissed() {

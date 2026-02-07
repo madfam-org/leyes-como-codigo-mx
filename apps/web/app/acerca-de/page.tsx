@@ -78,6 +78,42 @@ const content = {
     cta: 'Welcome to Tezca',
     ctaSub: 'The Mexican legal system, reflected with clarity.',
   },
+  nah: {
+    back: 'Xicmocuepa caltenco',
+    hero: {
+      title: 'Tezca',
+      subtitle: 'In Tezcatl in Tenahuatilli',
+    },
+    sections: [
+      {
+        numeral: 'I',
+        title: 'In Ēcahuīlli',
+        body: 'In tenahuatilli quiīxnāmiqui mochi tlamantli in mēxihcatl āltepēyōtl, macihuī motzacua tēpōzmachiyōtīlpan ahmo huelīz moquīxtia. PDF āmatl mochāntia mīlah tēuctlahtōlpialōyan. Gacetas tlahtōltin pōlihuih ihcuāc yancuīc tēuctlahtoāni. Inīn ahmo cualli zan cē tlahtlacōlli: cē tlachīhualli ahmo cuallōtl. Cē tlācatl ahmo huelīz quipohua in tenahuatilli tēch quināhuatia, nemi ēcahuīlco in tēyācanaliztli.',
+      },
+      {
+        numeral: 'II',
+        title: 'In Tezcatl',
+        body: 'Ic nāhuatl, tezcatl ītōca itztli tezcatl — in tlamantli ic motēixīmati ca nelli. Tezca inīn tezcatl ic mēxihcatl tenahuatiliz tēyācanaliztli. Ahmo tiquicuiloa in tenahuatilli; tictēzcahuia. Mochi tenahuatilli tlahcuilōlli mocuepa tēpōzmachiyōtl ic mopiya ītōca, ītēyācanal, ihuan ītlanōnōtz mochi tenahuatiliz tlamachiliztli. In tēpōzmachiyōtl ahmo quipātia tlācatl tlanēxtiliztli: quihuelīlia ic monextia in achtopa ichtac.',
+      },
+      {
+        numeral: 'III',
+        title: 'In Tlapatiliztli',
+        body: 'Totlachihuaz motēnēhua isomorfismo: cē tlanānamiquiliztli in tenahuatilli tlahcuilōlli ihuan ītēpōzmachiyōtīl. Tictēquitiltia Akoma Ntoso ic mopiya in tlanahuatilli, fracción, ihuan transitorio. Ahmo ticchīcāhua, ahmo ticpōhua, ahmo ticpōloa. Mochi tenahuatilli mopiya nelli ic ītēuctlahtōlpialōyan. In tlanextīliztli cē āmoxcalli cāmpa in tenahuatilli motemoa, motlanānamiqui, ihuan motlachiya ica in Diario Oficial de la Federación.',
+      },
+      {
+        numeral: 'IV',
+        title: 'Tlachihualiztli, ahmo Tlanēmilīlli',
+        body: 'Tezca ahmo cē tlanamacaliztli. Cē tēpōzmachiyōtl āltepēyōtl tlachihualiztli. Quēmeh cē tlālticpac monequi ōhtli ic nēnemi ihuan tlahcuilōltzintli ic tlamachiliztli, monequi cē tēpōzmachiyōtl ic tenahuatilli mochihua. Ticchihua in monequi quēmeh āltepēyōtl cualli: cē API in mēxihcatl tēuctlahtoāni cāmpa mochi tlācatl huelīz quitemoa in tenahuatilli ic tēpōzmachiyōtl, neltiliztli, ihuan ahmo tlaxtlahualli.',
+      },
+      {
+        numeral: 'V',
+        title: 'In Mōztla',
+        body: 'Ticcēmana cē tlālticpac cāmpa in tenahuatilli ahmo zan mopohua, zan mocompila. Cāmpa cē tlanāmacāni huelīz motēixīmati in tenahuatilli ītequiuh. Cāmpa cē tlācatl huelīz quimati ītenahuatil tequitl ahtlē ic tlaxtlahualli tlanōnōtzqui. Cāmpa cē tlamatini huelīz quitlachiya in tenahuatilli ōmocuep mīlah xihuitl. In tenahuatilli quēmeh tlahcuilōlli ahmo cē tlahcuilōltzintli: in nelli ōhui mochi tenahuatiliz tēyācanaliztli. Tezca in achto caquiliztli.',
+      },
+    ],
+    cta: 'Ximopanōlti Tezca',
+    ctaSub: 'In mēxihcatl tenahuatiliz tēyācanaliztli, tēzcahuīlli ica nelli.',
+  },
 };
 
 export default function AcercaDePage() {

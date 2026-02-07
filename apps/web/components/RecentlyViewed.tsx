@@ -27,6 +27,11 @@ const content = {
         empty: 'You haven\'t viewed any laws yet.',
         viewAll: 'View all',
     },
+    nah: {
+        title: 'Yancuīc tlachiyaliztli',
+        empty: 'Ayāmo ticpiya tenahuatilli tlachiyaliztli.',
+        viewAll: 'Xiquitta mochi',
+    },
 };
 
 /** Call on law detail mount to record a visit */
@@ -71,10 +76,12 @@ export function RecentlyViewed() {
     const items: RecentLawEntry[] = JSON.parse(raw);
 
     const tierLabel = useCallback((tier: string) => {
-        if (tier === 'federal') return 'Federal';
-        if (tier === 'state') return lang === 'es' ? 'Estatal' : 'State';
-        if (tier === 'municipal') return 'Municipal';
-        return tier;
+        const tierLabels: Record<string, Record<string, string>> = {
+            federal: { es: 'Federal', en: 'Federal', nah: 'Federal' },
+            state: { es: 'Estatal', en: 'State', nah: 'Altepetl' },
+            municipal: { es: 'Municipal', en: 'Municipal', nah: 'Calpulli' },
+        };
+        return tierLabels[tier]?.[lang] ?? tier;
     }, [lang]);
 
     if (items.length === 0) return null;

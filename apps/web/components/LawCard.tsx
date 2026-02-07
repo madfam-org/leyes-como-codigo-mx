@@ -24,6 +24,14 @@ const content = {
         quality: 'quality',
         transitory: 'transitory',
     },
+    nah: {
+        selectCompare: 'Xicpēpena ic tlanānamiquiliztli',
+        grade: 'Tlachiyaliztli',
+        priority: 'Tlaiyōcāyōtl',
+        articles: 'tlanahuatilli',
+        quality: 'cuallōtl',
+        transitory: 'tlanquiliztli',
+    },
 };
 
 interface LawCardProps {

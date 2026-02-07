@@ -8,6 +8,7 @@ import type { Lang } from '@/components/providers/LanguageContext';
 const tierLabels: Record<Lang, Record<string, string>> = {
     es: { federal: 'Federal', state: 'Estatal', municipal: 'Municipal', unknown: 'Desconocido' },
     en: { federal: 'Federal', state: 'State', municipal: 'Municipal', unknown: 'Unknown' },
+    nah: { federal: 'Federal', state: 'Altepetl', municipal: 'Calpulli', unknown: 'Ahmo mati' },
 };
 
 const content = {
@@ -18,6 +19,10 @@ const content = {
     en: {
         articlesInCommon: (n: number) => n === 1 ? 'article in common' : 'articles in common',
         articles: 'articles',
+    },
+    nah: {
+        articlesInCommon: (n: number) => n === 1 ? 'tlanahuatilli tlanānamiquiliztli' : 'tlanahuatilli tlanānamiquiliztli',
+        articles: 'tlanahuatilli',
     },
 };
 

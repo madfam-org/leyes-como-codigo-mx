@@ -13,6 +13,10 @@ const content = {
         title: 'Popular Laws',
         subtitle: 'Quick access to the most consulted laws',
     },
+    nah: {
+        title: 'Tenahuatilli Tlahtōltin',
+        subtitle: 'Īciuhca tlaixmatiliztli in tenahuatilli achi tlahtōltin',
+    },
 };
 
 const popularLaws = [

@@ -1,8 +1,14 @@
 'use client';
 
-import React, { createContext, useContext, useState, useCallback, useSyncExternalStore } from 'react';
+import React, { createContext, useContext, useState, useCallback, useEffect, useSyncExternalStore } from 'react';
 
-export type Lang = 'es' | 'en';
+export type Lang = 'es' | 'en' | 'nah';
+
+export const LOCALE_MAP: Record<Lang, string> = {
+  es: 'es-MX',
+  en: 'en-US',
+  nah: 'es-MX', // Nahuatl uses MX locale for number/date formatting
+};
 
 interface LanguageContextType {
   lang: Lang;
@@ -15,7 +21,9 @@ const STORAGE_KEY = 'preferred-lang';
 
 function getSnapshot(): Lang {
   try {
-    return localStorage.getItem(STORAGE_KEY) === 'en' ? 'en' : 'es';
+    const stored = localStorage.getItem(STORAGE_KEY);
+    if (stored === 'en' || stored === 'nah') return stored;
+    return 'es';
   } catch {
     return 'es';
   }
@@ -43,6 +51,10 @@ export function LanguageProvider({ children }: { children: React.ReactNode }) {
       // localStorage unavailable
     }
   }, []);
+
+  useEffect(() => {
+    document.documentElement.lang = lang === 'nah' ? 'nci' : lang;
+  }, [lang]);
 
   return (
     <LanguageContext.Provider value={{ lang, setLang }}>

@@ -19,6 +19,12 @@ const content = {
         selectAnother: 'Select another to compare',
         compare: 'Compare Laws',
     },
+    nah: {
+        selected: (n: number) => `${n} tenahuatilli ōmopēpen`,
+        clear: 'Xicchīpahua',
+        selectAnother: 'Xicpēpena ōc cē ic tlanānamiquiliztli',
+        compare: 'Tlanānamiquiliztli Tenahuatilli',
+    },
 };
 
 export default function ComparisonFloatingBar() {

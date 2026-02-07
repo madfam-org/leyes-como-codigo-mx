@@ -27,6 +27,15 @@ const content = {
         openMenu: 'Open menu',
         closeMenu: 'Close menu',
     },
+    nah: {
+        home: 'Caltenco',
+        search: 'Tlatemoliztli',
+        explore: 'Tlaixmatiliztli',
+        favorites: 'Tlapepenilistli',
+        about: 'Tlen Tezca',
+        openMenu: 'Xictlapo tlahcuilōlli',
+        closeMenu: 'Xictlatzacua tlahcuilōlli',
+    },
 };
 
 const NAV_LINKS = [

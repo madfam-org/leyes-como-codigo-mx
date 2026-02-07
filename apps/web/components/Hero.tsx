@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 import { Button } from "@tezca/ui";
 import { api } from '@/lib/api';
 import { SearchAutocomplete } from '@/components/SearchAutocomplete';
-import { useLang } from '@/components/providers/LanguageContext';
+import { useLang, LOCALE_MAP } from '@/components/providers/LanguageContext';
 
 const content = {
     es: {
@@ -21,6 +21,13 @@ const content = {
         searchPlaceholder: 'Search laws...',
         searchPlaceholderWithCount: (count: string) => `Search across ${count} laws...`,
         tagline: 'Real-time intelligent search • Updated daily',
+    },
+    nah: {
+        subtitle: 'In Tezcatl in Tenahuatilli',
+        searchButton: 'Xictlatemo',
+        searchPlaceholder: 'Xictlatemo tenahuatilli...',
+        searchPlaceholderWithCount: (count: string) => `Xictlatemo ipan ${count} tenahuatilli...`,
+        tagline: 'Tlatemoliztli tlamatiliztli \u2022 M\u014dztla yancu\u012bc',
     },
 };
 
@@ -41,7 +48,7 @@ export function Hero() {
         }
     };
 
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
     const placeholder = totalLaws
         ? t.searchPlaceholderWithCount(totalLaws.toLocaleString(locale))
         : t.searchPlaceholder;

@@ -54,6 +54,30 @@ const content = {
     ],
     termsLink: 'View Terms and Conditions',
   },
+  nah: {
+    back: 'Xicmocuepa caltenco',
+    title: 'Ichtacayōtl Tlanāhuatilli',
+    lastUpdated: 'Tlāmian yancuīliztli: 6 de febrero de 2026',
+    sections: [
+      {
+        title: 'Tlamachiliztli Tlacēntīliztli',
+        body: 'Āxcān, Tezca ahmo quicēntīlia tlamachiliztli in tetlahtōlpialōyan. Ahmo monequi moīxcuīlia, monemītia, ahnōzo cuenta ic tlahcuilōlpan quīxtia. Ahmo tictēquitiltia cookies ahnōzo tlamachiliztli tēpōzmachiyōtl.',
+      },
+      {
+        title: 'Tlahcuilōlpan Tlapiyaliztli',
+        body: 'In tlahcuilōlpan tictēquitiltia localStorage zan ic tlapepenilistli quēmeh tema (tlāhuīlli/tlīlli) ihuan tlahtōlli. Inīn tlamachiliztli ahmo quīza totēpōzmachiyōtl ahnōzo tlateōchīhualli.',
+      },
+      {
+        title: 'Tenahuatiliz Neltilīliztli',
+        body: 'Macihuī āxcān ahmo ticēntīlia tlamachiliztli, timonāhuatia ticneltilia in LFPDPPP ihuan ītlanahuatilli intlā mōztla monequi tlamachiliztli. Ihcuāc, inīn tlanāhuatilli moyancuīlia.',
+      },
+      {
+        title: 'Tlanōnōtzaliztli',
+        body: 'Ic mochi tlatlanīliztli ichtacayōtl: contacto@tezca.mx',
+      },
+    ],
+    termsLink: 'Xiquitta Tlanahuatilli ihuan Tlahtōltzin',
+  },
 };
 
 export default function PrivacidadPage() {

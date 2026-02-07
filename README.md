@@ -60,14 +60,14 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Version History** - Track legal evolution over time
 - ✅ **REST API** - Machine-readable access for legal tech (paginated, filtered, rate-limited)
 - ✅ **Batch Processing** - Parallel ingestion with 4-8 workers
-- ✅ **Production Ready** - Full-stack testing (152 Vitest + 201 Pytest + 8 E2E specs)
+- ✅ **Production Ready** - Full-stack testing (156 Vitest + 201 Pytest + 8 E2E specs)
 - ✅ **OpenAPI Documentation** - Swagger UI, ReDoc at `/api/docs/`
 - ✅ **Background Processing** - Celery + Redis for ingestion jobs
 - ✅ **Cross-References** - Automatic detection and linking between laws
-- ✅ **Legal Pages** - Terms & Conditions, Legal Disclaimer, Privacy Policy (bilingual ES/EN)
+- ✅ **Legal Pages** - Terms & Conditions, Legal Disclaimer, Privacy Policy (trilingual ES/EN/NAH)
 - ✅ **Site Footer** - Persistent navigation, official source links, disclaimer bar
 - ✅ **Disclaimer Banner** - Dismissable one-time homepage notice (localStorage persistence)
-- ✅ **Full Bilingual UI** - ES/EN language toggle across all components (law content remains Spanish)
+- ✅ **Trilingual UI** - ES/EN/NAH (Classical Nahuatl) language toggle across all components (law content remains Spanish)
 - ✅ **Tezca Manifesto** - `/acerca-de` brand page with mission statement
 - ✅ **Persistent Navbar** - Sticky navigation with mobile hamburger menu, transparent-on-homepage
 - ✅ **Bookmarks** - Heart toggle, localStorage persistence, `/favoritos` page
@@ -79,7 +79,7 @@ All numbers sourced from `data/universe_registry.json` with links to official so
 - ✅ **Search-Within-Law** - Elasticsearch-powered article search with highlighted snippets
 - ✅ **Keyboard Shortcuts** - j/k article navigation, / search, b bookmark, ? help panel
 - ✅ **Recently Viewed** - Homepage section showing last 10 visited laws (localStorage)
-- ✅ **SEO Foundation** - Dynamic sitemap, robots.txt, OG metadata, bilingual 404 page
+- ✅ **SEO Foundation** - Dynamic sitemap, robots.txt, OG metadata, trilingual 404 page
 - ✅ **URL-Synced Search** - Pagination, filters, and query persisted in URL (shareable/bookmarkable)
 
 ## Architecture
@@ -138,7 +138,7 @@ This project uses a monorepo architecture managed by NPM Workspaces.
 - ✅ Dynamic Homepage Dashboard
 - ✅ Law Detail Page 2.0 (breadcrumbs, font control, progress bar)
 - ✅ Advanced Search with Autocomplete Typeahead
-- ✅ Legal Pages (Terms, Disclaimer, Privacy) — bilingual ES/EN
+- ✅ Legal Pages (Terms, Disclaimer, Privacy) — trilingual ES/EN/NAH
 - ✅ Persistent Navbar + Site Footer + Disclaimer Banner
 - ✅ Comparison Tool (side-by-side, sync scroll, mobile tabs)
 - ✅ Bookmarks, Share Buttons, PDF Export, Loading Skeletons

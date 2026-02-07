@@ -19,6 +19,13 @@ const content = {
         goSearch: 'Search laws',
         goBack: 'Go back',
     },
+    nah: {
+        title: 'Āmatl ahmo monextia',
+        description: 'In āmatl in tictēmoa ahmo oncah.',
+        goHome: 'Caltenco',
+        goSearch: 'Xictlatemo tenahuatilli',
+        goBack: 'Xicmocuepa',
+    },
 };
 
 export default function NotFound() {

@@ -100,6 +100,53 @@ const content = {
       },
     ],
   },
+  nah: {
+    back: 'Xicmocuepa caltenco',
+    title: 'Tlanahuatilli ihuan Tlahtōltzin',
+    lastUpdated: 'Tlāmian yancuīliztli: 6 de febrero de 2026',
+    sections: [
+      {
+        title: '1. Tequitl Tlamantli',
+        body: 'Tezca cē tlamachiliztli tēpōzmachiyōtl ic mēxihcatl tenahuatilli tēpōzmachiyōtīlpan. In tlamachiliztli "quēmeh yez" (as is), ahtlē tlaneltilīliztli. Ahmo ticneltilia in nelli, mochi, āxcān ahnōzo cualli ic itlah.',
+      },
+      {
+        title: '2. Ahmo Tēuctlahtōlpialōyan',
+        body: 'Inīn tlahcuilōlpan ahmo tēuctlahtōlpialōyan in mēxihcatl tēuctlahtoāni. In tenahuatilli monextia ipan DOF ihuan OJN, macihuī huelīz quipiya tlahtlacōlli. Ic tenahuatiliz, nochipa xiquitta tēuctlahtōlpialōyan.',
+      },
+      {
+        title: '3. Ahmo Tlanōnōtzaliztli',
+        body: 'In tlamachiliztli ahmo tlanōnōtzaliztli, ahmo tenahuatiliz tlanēmilīlli. Ic itlah monequi tenahuatiliz, xictlatlanili cē tenahuatilizmatini.',
+      },
+      {
+        title: '4. Ahtlē Tenahuatiliz Tlanāhuatilli',
+        body: 'In tictēquitiltia ahmo quichihua tlanōnōtzaliztli tetlahtōlpialōyan ihuan Tezca. In tictēquitiltia tetlahtōlpialōyan ītechcopa.',
+      },
+      {
+        title: '5. Tlaixiptlaliztli Tenahuatilli',
+        body: 'In tenahuatilli āltepēyōtl āmatl quēmeh artículo 14 LFDA. Macihuī, in tlaixiptlaliztli, tlahcuilōlli, tēpōzmachiyōtl ihuan tlachihualiztli intēch in tlachihuanih.',
+      },
+      {
+        title: '6. Ahmo Tlanāhuatilli Tēchcopa',
+        body: 'Ahmo quēmān Tezca quināhuatia tlaxtlahualiztli ic tlahtlacōlli, ahmo tictēquitiltia ahnōzo itlah ahmo cualli.',
+      },
+      {
+        title: '7. Cualli Tēquitiliztli',
+        body: 'In tetlahtōlpialōyan monāhuatia cualli tēquitiliztli. Ahmo huelīz: (a) mīlah tlatemoliztli tlanāmacaliztli; (b) monextia quēmeh tēuctlahtōlpialōyan; (c) tlanāmacaliztli ahtlē tōcāitl; (d) itlah ahmo cualli tēquitiliztli.',
+      },
+      {
+        title: '8. Tēquitiliztli Monextia',
+        body: 'In tēquitiliztli "tlanēmilīlli cualli". Ahmo ticneltilia nochipa, ahmo tlanquiliztli, ahmo ahtlē tlahtlacōlli.',
+      },
+      {
+        title: '9. Tenahuatilli Mochihua',
+        body: 'Inīn tlanahuatilli mochihua ic tenahuatilli mēxihcatl. Ic mochi tlahtōlli, tetlahtōlpialōyan monāhuatia México Āltepētl.',
+      },
+      {
+        title: '10. Tlapatiliztli ihuan Tlanōnōtzaliztli',
+        body: 'Huelīz ticpātia inīn tlanahuatilli. In tlapatiliztli mochihua ihcuāc monextia. Ic tlatlanīliztli: contacto@tezca.mx',
+      },
+    ],
+  },
 };
 
 function LegalSection({ title, body }: { title: string; body: string }) {

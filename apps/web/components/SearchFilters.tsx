@@ -85,43 +85,96 @@ const content = {
         older: 'Older',
         sortBy: 'Sort by',
     },
+    nah: {
+        filters: 'Tlachiyaliztli',
+        activeSingular: 'mochihua',
+        activePlural: 'mochihua',
+        clear: 'Xicchīpahua',
+        resultSingular: 'tlanextīliztli',
+        resultPlural: 'tlanextīliztli',
+        foundSingular: 'monextia',
+        foundPlural: 'monextia',
+        jurisdiction: 'Tenahuatilizpan',
+        stateLabel: 'Altepetl',
+        allStates: 'Mochi altepetl',
+        municipality: 'Calpulli',
+        allMunicipalities: 'Mochi calpulli',
+        category: 'Tlamantli',
+        selectCategory: 'Xicpēpena cē tlamantli',
+        statusValidity: 'Tlaneltilīliztli',
+        structure: 'Tlachihualiztli',
+        titleLabel: 'Tōcāitl',
+        titlePlaceholder: 'Xictlatemo tōcāitl...',
+        chapterLabel: 'Capitulo',
+        chapterPlaceholder: 'Xictlatemo capitulo...',
+        publicationDate: 'Tlanextīliliztli',
+        anyDate: 'Mochi tōnalli',
+        thisYear: 'Inīn xihuitl',
+        lastYear: 'Achtopa xihuitl',
+        last5Years: 'Tlāmian 5 xihuitl',
+        older: 'Huēhcāuh',
+        sortBy: 'Xictlalia ic',
+    },
 } as const;
 
 function getJurisdictions(lang: Lang) {
+    const names: Record<Lang, Record<string, string>> = {
+        es: { federal: 'Federal', state: 'Estatal', municipal: 'Municipal' },
+        en: { federal: 'Federal', state: 'State', municipal: 'Municipal' },
+        nah: { federal: 'Federal', state: 'Altepetl', municipal: 'Calpulli' },
+    };
     return [
-        { id: 'federal', name: 'Federal', icon: '\u{1F3DB}\uFE0F' },
-        { id: 'state', name: lang === 'es' ? 'Estatal' : 'State', icon: '\u{1F3E2}' },
-        { id: 'municipal', name: lang === 'es' ? 'Municipal' : 'Municipal', icon: '\u{1F3D8}\uFE0F' },
+        { id: 'federal', name: names[lang].federal, icon: '\u{1F3DB}\uFE0F' },
+        { id: 'state', name: names[lang].state, icon: '\u{1F3E2}' },
+        { id: 'municipal', name: names[lang].municipal, icon: '\u{1F3D8}\uFE0F' },
     ];
 }
 
 function getCategories(lang: Lang) {
+    const labels: Record<Lang, Record<string, string>> = {
+        es: { all: 'Todas las categor\u00edas', penal: 'Penal', mercantil: 'Mercantil', fiscal: 'Fiscal', laboral: 'Laboral', administrativo: 'Administrativo', constitucional: 'Constitucional' },
+        en: { all: 'All categories', penal: 'Criminal', mercantil: 'Commercial', fiscal: 'Tax', laboral: 'Labor', administrativo: 'Administrative', constitucional: 'Constitutional' },
+        nah: { all: 'Mochi tlamantli', penal: 'Tēīxnāmiquiliztli', mercantil: 'Tlanāmacaliztli', fiscal: 'Tequitl', laboral: 'Tequipanōliztli', administrativo: 'Tēuctlahtoāni', constitucional: 'Tenahuatilli' },
+    };
+    const l = labels[lang];
     return [
-        { value: 'all', label: lang === 'es' ? 'Todas las categor\u00edas' : 'All categories' },
+        { value: 'all', label: l.all },
         { value: 'civil', label: 'Civil' },
-        { value: 'penal', label: lang === 'es' ? 'Penal' : 'Criminal' },
-        { value: 'mercantil', label: lang === 'es' ? 'Mercantil' : 'Commercial' },
-        { value: 'fiscal', label: lang === 'es' ? 'Fiscal' : 'Tax' },
-        { value: 'laboral', label: lang === 'es' ? 'Laboral' : 'Labor' },
-        { value: 'administrativo', label: lang === 'es' ? 'Administrativo' : 'Administrative' },
-        { value: 'constitucional', label: lang === 'es' ? 'Constitucional' : 'Constitutional' },
+        { value: 'penal', label: l.penal },
+        { value: 'mercantil', label: l.mercantil },
+        { value: 'fiscal', label: l.fiscal },
+        { value: 'laboral', label: l.laboral },
+        { value: 'administrativo', label: l.administrativo },
+        { value: 'constitucional', label: l.constitucional },
     ];
 }
 
 function getStatusOptions(lang: Lang) {
+    const labels: Record<Lang, Record<string, string>> = {
+        es: { all: 'Todos', vigente: 'Vigente', abrogado: 'Abrogado' },
+        en: { all: 'All', vigente: 'In force', abrogado: 'Repealed' },
+        nah: { all: 'Mochi', vigente: 'Mochihua', abrogado: 'Ōmopōuh' },
+    };
+    const l = labels[lang];
     return [
-        { value: 'all', label: lang === 'es' ? 'Todos' : 'All' },
-        { value: 'vigente', label: lang === 'es' ? 'Vigente' : 'In force' },
-        { value: 'abrogado', label: lang === 'es' ? 'Abrogado' : 'Repealed' },
+        { value: 'all', label: l.all },
+        { value: 'vigente', label: l.vigente },
+        { value: 'abrogado', label: l.abrogado },
     ];
 }
 
 function getSortOptions(lang: Lang) {
+    const labels: Record<Lang, Record<string, string>> = {
+        es: { relevance: 'Relevancia', date_desc: 'M\u00e1s recientes', date_asc: 'M\u00e1s antiguos', name: 'Nombre (A-Z)' },
+        en: { relevance: 'Relevance', date_desc: 'Most recent', date_asc: 'Oldest', name: 'Name (A-Z)' },
+        nah: { relevance: 'Tlaiyōcāyōtl', date_desc: 'Yancuīc', date_asc: 'Huēhcāuh', name: 'Tōcāitl (A-Z)' },
+    };
+    const l = labels[lang];
     return [
-        { value: 'relevance', label: lang === 'es' ? 'Relevancia' : 'Relevance' },
-        { value: 'date_desc', label: lang === 'es' ? 'M\u00e1s recientes' : 'Most recent' },
-        { value: 'date_asc', label: lang === 'es' ? 'M\u00e1s antiguos' : 'Oldest' },
-        { value: 'name', label: lang === 'es' ? 'Nombre (A-Z)' : 'Name (A-Z)' },
+        { value: 'relevance', label: l.relevance },
+        { value: 'date_desc', label: l.date_desc },
+        { value: 'date_asc', label: l.date_asc },
+        { value: 'name', label: l.name },
     ];
 }
 

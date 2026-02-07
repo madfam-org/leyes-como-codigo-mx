@@ -42,6 +42,24 @@ const content = {
     copyright: `© ${new Date().getFullYear()} Tezca. All rights reserved.`,
     ip: 'The laws are in the public domain. The presentation and code of this platform are the property of their authors.',
   },
+  nah: {
+    disclaimer:
+      'Inīn tlahcuilōlpan ahmo tēuctlahcuilōlli in mēxihcatl tēuctlahtoāni. Zan tēmachtilistli.',
+    dofLink: 'Xiquitta in Diario Oficial de la Federación ic tēuctlahcuilōlli.',
+    explore: 'Tlaixmatiliztli',
+    home: 'Caltenco',
+    search: 'Xictlatemo Tenahuatilli',
+    catalog: 'Amatlapalōlli',
+    legal: 'Tenahuatilizpan',
+    terms: 'Tlanahuatilli ihuan Tlahtōltzin',
+    notice: 'Tenahuatilizpan Tlanahuatilli',
+    privacy: 'Ichtacayōtl',
+    sources: 'Tlahtōlpialōyan',
+    about: 'Tlen Tezca',
+    tagline: 'In Tezcatl in Tenahuatilli',
+    copyright: `© ${new Date().getFullYear()} Tezca. Mochi tlanahuatilli motlapiā.`,
+    ip: 'In tenahuatilli mochi tlācameh impan. In tlaixiptlaliztli ihuan tlahcuilōlli intēch in tlachihuanih.',
+  },
 };
 
 export function Footer() {

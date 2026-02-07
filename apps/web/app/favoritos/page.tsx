@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { Heart, Trash2, BookOpen } from 'lucide-react';
 import { useBookmarks } from '@/components/providers/BookmarksContext';
-import { useLang } from '@/components/providers/LanguageContext';
+import { useLang, LOCALE_MAP } from '@/components/providers/LanguageContext';
 import { Card, CardContent } from '@tezca/ui';
 
 const content = {
@@ -24,6 +24,15 @@ const content = {
         browse: 'Browse laws',
         remove: 'Remove',
         saved: 'Saved',
+    },
+    nah: {
+        title: 'Tlapepenilistli',
+        description: 'Tenahuatilli ōticpix ic īciuhca tlaixmatiliztli',
+        empty: 'Ahmo ticpiya tenahuatilli tlapiyaliztli',
+        emptyHint: 'Xictēqui in yōllōtl ic tenahuatilli xicpiya nicān',
+        browse: 'Xictlaixmati tenahuatilli',
+        remove: 'Xicpōhua',
+        saved: 'Ōmopix',
     },
 };
 
@@ -67,7 +76,7 @@ export default function FavoritosPage() {
                                             {bm.name}
                                         </h3>
                                         <p className="text-xs text-muted-foreground mt-1">
-                                            {t.saved}: {new Date(bm.bookmarkedAt).toLocaleDateString(lang === 'es' ? 'es-MX' : 'en-US')}
+                                            {t.saved}: {new Date(bm.bookmarkedAt).toLocaleDateString(LOCALE_MAP[lang])}
                                         </p>
                                     </Link>
                                     <button

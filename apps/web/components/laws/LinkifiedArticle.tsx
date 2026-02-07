@@ -18,6 +18,12 @@ const content = {
         referenceSingular: 'reference detected',
         referencePlural: 'references detected',
     },
+    nah: {
+        viewRef: (text: string) => `Xiquitta ${text}`,
+        refLabel: (text: string) => `Tlanōnōtzaliztli: ${text}`,
+        referenceSingular: 'tlanōnōtzaliztli monextia',
+        referencePlural: 'tlanōnōtzaliztli monextia',
+    },
 };
 
 interface CrossReference {

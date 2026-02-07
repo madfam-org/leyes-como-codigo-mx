@@ -6,7 +6,7 @@ import type { DashboardStats } from '@tezca/lib';
 import { Card, CardContent, Badge } from '@tezca/ui';
 import { BookOpen, Scale, Building2, Calendar, FileText, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
-import { useLang } from '@/components/providers/LanguageContext';
+import { useLang, LOCALE_MAP } from '@/components/providers/LanguageContext';
 
 const content = {
     es: {
@@ -35,6 +35,19 @@ const content = {
         tierFederal: 'Federal',
         viewAll: 'View all updates →',
     },
+    nah: {
+        loadError: 'Ahmo huelītic in tlanextīliztli.',
+        totalLaws: 'Mochi Tenahuatilli',
+        federal: 'Federal',
+        state: 'Altepetl',
+        lastUpdate: 'Tlāmian Yancuīliztli',
+        recentTitle: 'Yancuīc Tlanemilīlli',
+        recentDesc: 'Tlāmian tenahuatilli ōmopātih DOF/Gacetas',
+        new: 'YANCUĪC',
+        tierState: 'Altepetl',
+        tierFederal: 'Federal',
+        viewAll: 'Xiquitta mochi yancuīliztli →',
+    },
 };
 
 export function DashboardStatsGrid() {
@@ -42,7 +55,7 @@ export function DashboardStatsGrid() {
     const t = content[lang];
     const [stats, setStats] = useState<DashboardStats | null>(null);
     const [loading, setLoading] = useState(true);
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
 
     useEffect(() => {
         api.getStats()
@@ -109,7 +122,7 @@ function StatCard({ label, value, icon }: { label: string; value: string; icon: 
 export function RecentLawsList() {
     const { lang } = useLang();
     const t = content[lang];
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
     const [stats, setStats] = useState<DashboardStats | null>(null);
     const [loading, setLoading] = useState(true);
 

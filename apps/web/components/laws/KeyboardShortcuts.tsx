@@ -25,6 +25,15 @@ const content = {
         close: 'Close panel',
         toggle: 'Show/hide shortcuts',
     },
+    nah: {
+        title: 'Tēpōztlateconi tlanāhuatilli',
+        next: 'Niman tlanahuatilli',
+        prev: 'Achtopa tlanahuatilli',
+        search: 'Xictlatemo inīn tenahuatilli',
+        bookmark: 'Xicpiya/xicpōhua tlapepenilistli',
+        close: 'Xictlatzacua',
+        toggle: 'Xicnēxtia/xictlātia tlanāhuatilli',
+    },
 };
 
 interface KeyboardShortcutsProps {

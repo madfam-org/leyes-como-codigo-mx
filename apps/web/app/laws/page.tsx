@@ -31,6 +31,17 @@ const content = {
         noLaws: 'No laws found.',
         compareHint: 'Select laws with \u2611 to compare',
     },
+    nah: {
+        subtitle: 'Xictlachia in m\u0113xihcatl tenahuatilli',
+        home: '\u2190 Caltenco',
+        lawsAvailable: 'Tenahuatilli Oncah',
+        browseLaws: 'Tenahuatilli',
+        loading: 'Mot\u0113moa tenahuatilli...',
+        loadError: 'Ahmo huel\u012Bz mot\u0113moa tenahuatilli. Xicy\u0113yec\u014Dlti occ\u0113ppa.',
+        retry: 'Occ\u0113ppa',
+        noLaws: 'Ahmo oncah tenahuatilli.',
+        compareHint: 'Xictlap\u0113peni tenahuatilli ic \u2611 ic motlan\u0101namiqui',
+    },
 };
 
 export default function LawsPage() {

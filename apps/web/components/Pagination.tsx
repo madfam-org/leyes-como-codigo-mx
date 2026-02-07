@@ -17,6 +17,12 @@ const content = {
         nextPage: 'Next page',
         lastPage: 'Last page',
     },
+    nah: {
+        firstPage: 'Achto āmatl',
+        prevPage: 'Achtopa āmatl',
+        nextPage: 'Niman āmatl',
+        lastPage: 'Tlāmian āmatl',
+    },
 };
 
 interface PaginationProps {

@@ -4,7 +4,7 @@ import type { Law, LawVersion } from './types';
 import { Badge } from '@tezca/ui';
 import { ExternalLink, Calendar, GitCompareArrows, AlertTriangle } from 'lucide-react';
 import Link from 'next/link';
-import { useLang } from '@/components/providers/LanguageContext';
+import { useLang, LOCALE_MAP } from '@/components/providers/LanguageContext';
 import { BookmarkButton } from '@/components/BookmarkButton';
 import { PDFExportButton } from '@/components/PDFExportButton';
 import { ShareButtons } from '@/components/ShareButtons';
@@ -30,6 +30,16 @@ const content = {
         derogada: 'This law may be abrogated',
         lastVerified: 'Verified:',
     },
+    nah: {
+        tierState: 'Altepetl',
+        tierFederal: 'Federal',
+        published: 'Tlanextīlli:',
+        viewOriginal: 'Xiquitta achto āmatl',
+        compare: 'Tlanānamiquiliztli',
+        abrogada: 'Inīn tenahuatilli huelīz ōmopōuh',
+        derogada: 'Inīn tenahuatilli huelīz ōmocuep',
+        lastVerified: 'Tlaneltilīlli:',
+    },
 };
 
 interface LawHeaderProps {
@@ -40,7 +50,7 @@ interface LawHeaderProps {
 export function LawHeader({ law, version }: LawHeaderProps) {
     const { lang } = useLang();
     const t = content[lang];
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
 
     return (
         <header className="border-b bg-card">

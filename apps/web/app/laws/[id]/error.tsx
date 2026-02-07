@@ -16,6 +16,12 @@ const content = {
         retry: 'Retry',
         viewAll: 'View all laws',
     },
+    nah: {
+        title: 'Tlahtlacōlli ic motēmoa tenahuatilli',
+        message: 'Ahmo huelīz motēmoa in tenahuatilli. Huelīz in tēquitiliztli ahmo āxcān.',
+        retry: 'Occēppa',
+        viewAll: 'Xiquitta mochi tenahuatilli',
+    },
 };
 
 export default function LawDetailError({

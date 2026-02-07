@@ -6,13 +6,14 @@ import type { Lang } from '@/components/providers/LanguageContext';
 export function LanguageToggle() {
   const { lang, setLang } = useLang();
 
-  const options: { value: Lang; label: string }[] = [
-    { value: 'es', label: 'ES' },
-    { value: 'en', label: 'EN' },
+  const options: { value: Lang; label: string; ariaLabel: string }[] = [
+    { value: 'es', label: 'ES', ariaLabel: 'Cambiar a español' },
+    { value: 'en', label: 'EN', ariaLabel: 'Switch to English' },
+    { value: 'nah', label: 'NAH', ariaLabel: 'Xicpati nāhuatl' },
   ];
 
   return (
-    <div className="inline-flex items-center rounded-md border border-border bg-muted/50 p-0.5">
+    <div className="inline-flex items-center rounded-md border border-border bg-muted/50 p-0.5" role="group" aria-label="Language">
       {options.map((opt) => (
         <button
           key={opt.value}
@@ -22,7 +23,7 @@ export function LanguageToggle() {
               ? 'bg-primary-600 text-white shadow-sm'
               : 'text-muted-foreground hover:text-foreground'
           }`}
-          aria-label={opt.value === 'es' ? 'Cambiar a español' : 'Switch to English'}
+          aria-label={opt.ariaLabel}
           aria-pressed={lang === opt.value}
         >
           {opt.label}

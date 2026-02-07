@@ -7,7 +7,7 @@ import { Card } from "@tezca/ui";
 import { cn } from "@tezca/lib";
 import { useInView } from 'react-intersection-observer';
 import { LinkifiedArticle } from './LinkifiedArticle';
-import { useLang } from '@/components/providers/LanguageContext';
+import { useLang, type Lang } from '@/components/providers/LanguageContext';
 
 const content = {
     es: {
@@ -23,6 +23,13 @@ const content = {
         articlePrefix: 'Article',
         copyLink: 'Copy direct link to article',
         copyLinkShort: 'Copy direct link',
+    },
+    nah: {
+        noArticles: 'Ahmo oncah tlanahuatilli ic tlachiyaliztli.',
+        fullText: 'Mochi Tlahcuilōlli',
+        articlePrefix: 'Tlanahuatilli',
+        copyLink: 'Xiccopīna tlanahuatilli tlahcuilōltzintli',
+        copyLinkShort: 'Xiccopīna tlahcuilōltzintli',
     },
 };
 
@@ -90,7 +97,7 @@ function SingleArticle({
     lawId: string;
     isActive: boolean;
     setRef: (el: HTMLElement | null) => void;
-    lang: 'es' | 'en';
+    lang: Lang;
 }) {
     const t = content[lang];
     const [copied, setCopied] = useState(false);

@@ -32,6 +32,14 @@ const content = {
         notFound: 'The requested information was not found',
         backToSearch: 'Back to search',
     },
+    nah: {
+        loadLawError: 'Ahmo huelītic in tenahuatilli',
+        loadArticlesError: 'Ahmo huelītic in tlanahuatilli',
+        unknownError: 'Ahmo mati tlahtlacōlli',
+        errorTitle: 'Tlahtlacōlli ic tenahuatilli',
+        notFound: 'Ahmo monextiā in tlamachiliztli',
+        backToSearch: 'Xicmocuepa tlatemoliztli',
+    },
 };
 
 interface LawDetailProps {

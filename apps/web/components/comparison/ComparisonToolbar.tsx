@@ -18,6 +18,12 @@ const content = {
         copied: 'Copied!',
         copyLink: 'Copy link',
     },
+    nah: {
+        syncOn: 'Tlanānamiquiliztli tlaōlinaliztli',
+        syncOff: 'Xictlanānamiqui tlaōlinaliztli',
+        copied: 'Ōmocopi!',
+        copyLink: 'Xiccopīna tlahcuilōltzintli',
+    },
 };
 
 interface ComparisonToolbarProps {

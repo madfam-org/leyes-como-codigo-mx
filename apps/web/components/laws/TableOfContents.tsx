@@ -22,6 +22,14 @@ const content = {
         articlePrefix: 'Article',
         elements: 'elements',
     },
+    nah: {
+        navLabel: 'Tlanahuatilli amatlahcuilōlli',
+        heading: 'Tlanahuatilli Amatlahcuilōlli',
+        noArticles: 'Ahmo monextiā tlanahuatilli.',
+        fullText: 'Mochi Tlahcuilōlli',
+        articlePrefix: 'Tlanahuatilli',
+        elements: 'tlamantli',
+    },
 };
 
 interface TableOfContentsProps {

@@ -25,6 +25,16 @@ const content = {
         noResults: 'No articles matched your search.',
         contentUnavailable: 'Content not available',
     },
+    nah: {
+        loading: 'Motēmoa tlanahuatilli...',
+        loadError: 'Tlahtlacōlli ic motēmoa tlanahuatilli. Xicyēyecōlti occēppa.',
+        searchPlaceholder: 'Xictēmoa tlanahuatilli...',
+        viewArticles: 'Xiquitta Tlanahuatilli',
+        viewTransitorios: (n: number) => `Xiquitta Transitorios (${n})`,
+        resultsFound: (n: number) => `${n} tlanextīliztli`,
+        noResults: 'Ahmo oncah tlanahuatilli ic motlatemoliztli.',
+        contentUnavailable: 'Tlamachiliztli ahmo oncah',
+    },
 };
 
 interface Article {

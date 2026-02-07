@@ -12,10 +12,12 @@ interface State {
   error: Error | null;
 }
 
-function getPreferredLang(): 'es' | 'en' {
+function getPreferredLang(): 'es' | 'en' | 'nah' {
   if (typeof window === 'undefined') return 'es';
   try {
-    return (localStorage.getItem('preferred-lang') as 'es' | 'en') || 'es';
+    const stored = localStorage.getItem('preferred-lang');
+    if (stored === 'en' || stored === 'nah') return stored;
+    return 'es';
   } catch {
     return 'es';
   }
@@ -31,6 +33,11 @@ const content = {
     title: 'Something went wrong',
     message: 'An unexpected error occurred. Try reloading the page.',
     retry: 'Retry',
+  },
+  nah: {
+    title: 'Itlah ahmo cualli ōmochiuh',
+    message: 'Ahmo tēmachīlli tlahtlacōlli ōmochiuh. Xicyancuīlia in āmatl.',
+    retry: 'Xicyancuīlia',
   },
 };
 

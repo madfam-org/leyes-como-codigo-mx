@@ -16,10 +16,11 @@ describe('LanguageToggle', () => {
         vi.mocked(useLang).mockReturnValue({ lang: 'es', setLang: mockSetLang });
     });
 
-    it('renders ES and EN buttons', () => {
+    it('renders ES, EN, and NAH buttons', () => {
         render(<LanguageToggle />);
         expect(screen.getByText('ES')).toBeInTheDocument();
         expect(screen.getByText('EN')).toBeInTheDocument();
+        expect(screen.getByText('NAH')).toBeInTheDocument();
     });
 
     it('clicking EN calls setLang with "en"', () => {
@@ -64,5 +65,30 @@ describe('LanguageToggle', () => {
         render(<LanguageToggle />);
         expect(screen.getByLabelText('Cambiar a español')).toBeInTheDocument();
         expect(screen.getByLabelText('Switch to English')).toBeInTheDocument();
+        expect(screen.getByLabelText('Xicpati nāhuatl')).toBeInTheDocument();
+    });
+
+    it('clicking NAH calls setLang with "nah"', () => {
+        render(<LanguageToggle />);
+        fireEvent.click(screen.getByText('NAH'));
+        expect(mockSetLang).toHaveBeenCalledWith('nah');
+    });
+
+    it('NAH button has aria-pressed true when lang is nah', () => {
+        vi.mocked(useLang).mockReturnValue({ lang: 'nah', setLang: mockSetLang });
+        render(<LanguageToggle />);
+        const nahButton = screen.getByLabelText('Xicpati nāhuatl');
+        expect(nahButton).toHaveAttribute('aria-pressed', 'true');
+    });
+
+    it('NAH button has aria-pressed false when lang is es', () => {
+        render(<LanguageToggle />);
+        const nahButton = screen.getByLabelText('Xicpati nāhuatl');
+        expect(nahButton).toHaveAttribute('aria-pressed', 'false');
+    });
+
+    it('wrapper has role="group" with aria-label', () => {
+        render(<LanguageToggle />);
+        expect(screen.getByRole('group', { name: 'Language' })).toBeInTheDocument();
     });
 });

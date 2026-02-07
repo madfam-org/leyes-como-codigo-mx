@@ -66,6 +66,35 @@ const content = {
     dofDesc: 'Official publication of federal laws, decrees, and agreements.',
     ojnDesc: 'Official compilation of Mexican federal and state legislation.',
   },
+  nah: {
+    back: 'Xicmocuepa caltenco',
+    title: 'Tenahuatilizpan Tlanahuatilli',
+    lastUpdated: 'Tlāmian yancuīliztli: 6 de febrero de 2026',
+    alertTitle: 'Tlahtōlnahuatilli',
+    alertBody: 'Inīn tlahcuilōlpan ahmo tēuctlahtōlpialōyan in mēxihcatl tēuctlahtoāni. In tenahuatilli zan tēmachtilistli.',
+    sections: [
+      {
+        title: 'Tēmachtilistli Tlamantli',
+        body: 'Tezca cē tlamachiliztli tēpōzmachiyōtl ic mēxihcatl tenahuatilli tēpōzmachiyōtīlpan. Mochi tenahuatilli monextia zan tēmachtilistli. Ahmo quipātia, ahmo quicuepīlia, ahmo quipōhua in tēuctlahtōlpialōyan DOF, gacetas, ahnōzo itlah tēuctlahtōlpialōyan.',
+      },
+      {
+        title: 'Tlahtōlpialōyan ihuan Yancuīliztli',
+        body: 'In tenahuatilli monextia ic tēpōzmachiyōtl tlachihualiztli in āltepēyōtl tlahtōlpialōyan. Inīn huelīz quipiya tlahtlacōlli. Ahmo ticneltilia in tenahuatilli nelli āxcān. In tōnalli tlāmian monextia ihcuāc oncah.',
+      },
+      {
+        title: 'Ahmo Tlanāhuatilli Tēchcopa',
+        body: 'Tezca ahmo quināhuatia: (a) tlahtlacōlli tenahuatilli; (b) tlahcuilōlli tlanēmilīlli; (c) itlah ahmo cualli; (d) tlanēmilīlli ic inīn tlamachiliztli. Ic itlah monequi neltilīliztli, xiquitta tēuctlahtōlpialōyan ihuan tenahuatilizmatini.',
+      },
+      {
+        title: 'Xicneltili Tēuctlahtōlpialōyan',
+        body: 'Ticnāhuatia xicneltili mochi tenahuatilli inīn tēuctlahtōlpialōyan:',
+      },
+    ],
+    termsLink: 'Xiquitta mochi Tlanahuatilli ihuan Tlahtōltzin',
+    officialSources: 'Tēuctlahtōlpialōyan',
+    dofDesc: 'Tēuctlahtōlpialōyan in federal tenahuatilli, decretos ihuan acuerdos.',
+    ojnDesc: 'Tēuctlahtōlpialōyan mēxihcatl tenahuatilli federal ihuan altepetl.',
+  },
 };
 
 export default function AvisoLegalPage() {

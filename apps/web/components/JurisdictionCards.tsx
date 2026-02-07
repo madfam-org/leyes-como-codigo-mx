@@ -6,7 +6,7 @@ import { Card, CardContent } from '@tezca/ui';
 import { Building2, Scale, Home } from 'lucide-react';
 import { api } from '@/lib/api';
 import type { DashboardStats, CoverageItem } from '@tezca/lib';
-import { useLang, type Lang } from '@/components/providers/LanguageContext';
+import { useLang, LOCALE_MAP, type Lang } from '@/components/providers/LanguageContext';
 
 const content = {
     es: {
@@ -29,11 +29,22 @@ const content = {
         ofMunicipalities: (total: string) => `of ${total} municipalities in the country`,
         ofUniverse: (universe: string) => `of ${universe}`,
     },
+    nah: {
+        heading: 'Tlanextīliztli Altepetl',
+        subtitle: 'Xictlaixmati federal, altepetl, ihuan calpulli tenahuatilli',
+        loadError: 'Ahmo huelītic in tlanextīliztli.',
+        laws: 'tenahuatilli',
+        coverage: 'Tlanextīliztli',
+        municipalitiesCovered: 'calpulli tlanextīlli',
+        ofMunicipalities: (total: string) => `ipan ${total} calpulli in tlālticpac`,
+        ofUniverse: (universe: string) => `ipan ${universe}`,
+    },
 };
 
 const jurisdictionNames: Record<Lang, Record<string, string>> = {
     es: { federal: 'Federal', state: 'Estatal', municipal: 'Municipal' },
     en: { federal: 'Federal', state: 'State', municipal: 'Municipal' },
+    nah: { federal: 'Federal', state: 'Altepetl', municipal: 'Calpulli' },
 };
 
 const jurisdictionConfig = [
@@ -86,7 +97,7 @@ function CoverageDisplay({
     lang: Lang;
 }) {
     const t = content[lang];
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
 
     // Municipal has no known universe — show descriptive text instead of percentage bar
     if (jurisdictionId === 'municipal' && coverageItem) {
@@ -130,7 +141,7 @@ export function JurisdictionCards() {
     const { lang } = useLang();
     const t = content[lang];
     const names = jurisdictionNames[lang];
-    const locale = lang === 'es' ? 'es-MX' : 'en-US';
+    const locale = LOCALE_MAP[lang];
     const [stats, setStats] = useState<DashboardStats | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(false);

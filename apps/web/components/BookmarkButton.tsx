@@ -7,6 +7,7 @@ import { useLang } from '@/components/providers/LanguageContext';
 const labels = {
     es: { add: 'Agregar a favoritos', remove: 'Quitar de favoritos' },
     en: { add: 'Add to favorites', remove: 'Remove from favorites' },
+    nah: { add: 'Xictlālia tlapepenilistli', remove: 'Xicquīxtia tlapepenilistli' },
 };
 
 interface BookmarkButtonProps {

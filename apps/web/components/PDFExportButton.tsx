@@ -6,6 +6,7 @@ import { useLang } from '@/components/providers/LanguageContext';
 const labels = {
     es: 'Imprimir / PDF',
     en: 'Print / PDF',
+    nah: 'Tēpōztlahcuilōlli / PDF',
 };
 
 export function PDFExportButton() {

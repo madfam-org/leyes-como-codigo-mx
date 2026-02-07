@@ -38,6 +38,18 @@ const content = {
         titleFull: 'Structural Comparison',
         titleShort: 'Compare',
     },
+    nah: {
+        loadError: 'Ahmo huelītic in tenahuatilli.',
+        analyzing: 'Tlanānamiquiliztli tenahuatilli tlachiyaliztli...',
+        comparing: (n: number) => `Tlanānamiquiliztli ${n} āmatl`,
+        selectTitle: 'Xicpēpena tenahuatilli ic tlanānamiquiliztli',
+        selectDesc: 'Monequi ōmē tenahuatilli ic tlanānamiquiliztli.',
+        goToSearch: 'Tlatemoliztli',
+        backFull: 'Xicmocuepa',
+        backShort: 'Mocuepa',
+        titleFull: 'Tlanānamiquiliztli Tenahuatilli',
+        titleShort: 'Tlanānamiquiliztli',
+    },
 };
 
 interface ComparisonViewProps {

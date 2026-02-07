@@ -24,6 +24,7 @@ interface SearchAutocompleteProps {
 const TIER_LABELS: Record<Lang, Record<string, string>> = {
     es: { federal: 'Federal', state: 'Estatal', municipal: 'Municipal' },
     en: { federal: 'Federal', state: 'State', municipal: 'Municipal' },
+    nah: { federal: 'Federal', state: 'Altepetl', municipal: 'Calpulli' },
 };
 
 export function SearchAutocomplete({ onSearch, placeholder, className, defaultValue = '' }: SearchAutocompleteProps) {
