@@ -150,6 +150,7 @@ class TestPipelineTaskStructure:
         names = [p["name"] for p in phases]
 
         assert "Scrape federal catalog" in names
+        assert "Scrape federal reglamentos" in names
         assert "Scrape state laws" in names
         assert "Scrape municipal laws" in names
         assert "Scrape municipal laws (OJN)" in names
@@ -158,10 +159,11 @@ class TestPipelineTaskStructure:
         assert "Parse state laws to AKN XML" in names
         assert "Parse municipal laws to AKN XML" in names
         assert "Ingest federal laws" in names
+        assert "Ingest federal reglamentos" in names
         assert "Ingest state laws" in names
         assert "Ingest municipal laws" in names
         assert "Index to Elasticsearch" in names
-        assert len(phases) == 12
+        assert len(phases) == 14
 
     def test_skip_scrape(self):
         """--skip-scrape removes all scraping phases."""
@@ -184,11 +186,13 @@ class TestPipelineTaskStructure:
         names = [p["name"] for p in phases]
 
         assert "Scrape federal catalog" in names
+        assert "Scrape federal reglamentos" in names
         assert "Scrape state laws" not in names
         assert "Scrape municipal laws" in names
         assert "Parse state laws to AKN XML" not in names
         assert "Parse municipal laws to AKN XML" in names
-        assert len(phases) == 10
+        assert "Ingest federal reglamentos" in names
+        assert len(phases) == 12
 
     def test_skip_municipal(self):
         """--skip-municipal removes municipal scraping, consolidation, ingestion."""
@@ -203,8 +207,10 @@ class TestPipelineTaskStructure:
         assert "Parse municipal laws to AKN XML" not in names
         assert "Ingest municipal laws" not in names
         assert "Scrape state laws" in names
+        assert "Scrape federal reglamentos" in names
         assert "Parse state laws to AKN XML" in names
-        assert len(phases) == 7
+        assert "Ingest federal reglamentos" in names
+        assert len(phases) == 9
 
     def test_skip_index(self):
         """--skip-index removes ES indexing phase."""
@@ -214,7 +220,8 @@ class TestPipelineTaskStructure:
         names = [p["name"] for p in phases]
 
         assert "Index to Elasticsearch" not in names
-        assert len(phases) == 11
+        assert "Ingest federal reglamentos" in names
+        assert len(phases) == 13
 
     def test_skip_all(self):
         """Skip scrape + index leaves consolidate + ingest only."""
@@ -247,7 +254,8 @@ class TestPipelineTaskStructure:
 
         assert "Scrape municipal laws" in names
         assert "Scrape municipal laws (OJN)" not in names
-        assert len(phases) == 11
+        assert "Ingest federal reglamentos" in names
+        assert len(phases) == 13
 
     def test_workers_param(self):
         """Workers param flows through to ingest federal command."""
