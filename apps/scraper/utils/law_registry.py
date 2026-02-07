@@ -29,13 +29,14 @@ class LawRegistry:
         fiscal_laws = registry.filter_by_tier('fiscal')
     """
 
-    def __init__(self, registry_path: Optional[Path] = None):
+    def __init__(self, registry_path: Optional[Path] = None, include_reglamentos: bool = False):
         """
         Initialize law registry.
 
         Args:
             registry_path: Path to law_registry.json file.
                           Defaults to data/law_registry.json
+            include_reglamentos: Also load discovered_reglamentos.json entries.
         """
         if registry_path is None:
             registry_path = (
@@ -48,6 +49,9 @@ class LawRegistry:
         self.data = self._load_registry()
         self.laws = self.data.get("federal_laws", [])
 
+        if include_reglamentos:
+            self.laws.extend(self._load_reglamentos())
+
     def _load_registry(self) -> Dict:
         """Load registry from JSON file."""
         if not self.registry_path.exists():
@@ -55,6 +59,36 @@ class LawRegistry:
 
         with open(self.registry_path, "r", encoding="utf-8") as f:
             return json.load(f)
+
+    def _load_reglamentos(self) -> List[Dict]:
+        """Load discovered reglamentos and normalise to registry format."""
+        reglamentos_path = self.registry_path.parent / "discovered_reglamentos.json"
+        if not reglamentos_path.exists():
+            return []
+
+        with open(reglamentos_path, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+
+        entries = []
+        for item in raw:
+            entries.append(
+                {
+                    "id": item["id"],
+                    "name": item["name"],
+                    "short_name": item["name"][:60],
+                    "type": "reglamento",
+                    "slug": item["id"],
+                    "expected_articles": 0,
+                    "publication_date": "",
+                    "source": "chamber",
+                    "url": item["url"],
+                    "priority": 2,
+                    "tier": "federal",
+                    "status": "active",
+                    "category": "reglamento",
+                }
+            )
+        return entries
 
     def all(self) -> List[Dict]:
         """Get all laws in registry."""
@@ -98,6 +132,18 @@ class LawRegistry:
             List of law metadata dicts
         """
         return [law.copy() for law in self.laws if law.get("tier") == tier]
+
+    def filter_by_category(self, category: str) -> List[Dict]:
+        """
+        Get laws by category.
+
+        Args:
+            category: Law category (e.g., 'reglamento', 'constitutional', 'fiscal')
+
+        Returns:
+            List of law metadata dicts
+        """
+        return [law.copy() for law in self.laws if law.get("category") == category]
 
     def filter_by_status(self, status: str = "active") -> List[Dict]:
         """

@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "2026-02-06",
+  "last_updated": "2026-02-07",
   "methodology": "Only includes counts verified from official government sources. Each source entry includes the URL, institution name, and date of last verification. 'known_count' is null when no official census exists for that category.",
   "sources": {
     "federal_leyes_vigentes": {
@@ -20,7 +20,17 @@
       "source_name": "OJN - Poder Legislativo (poder=2)",
       "last_verified": "2026-02-03",
       "confidence": "high",
-      "notes": "State-level legislation from all 32 states via OJN. 782 permanent dead links (Michoacán 504, EDOMEX 141, SLP 47, others <30 each). Remaining 975 gap = 12120 - 11363 - 782 = difference likely in low-count states."
+      "notes": "State-level legislation from all 32 states via OJN. 782 permanent dead links (Michoacán 504, EDOMEX 141, SLP 47, others <30 each). Remaining 975 gap = 12120 - 11363 - 782 = difference likely in low-count states.",
+      "gap_investigation": {
+        "date": "2026-02-07",
+        "findings": "OJN severely undercounts 3 states. State congress portals confirmed: BC ~340 laws (vs OJN 3), Durango ~160 (vs 1), QR ~356 (vs 1). Hidalgo OJN shows 38 but 740+ already scraped. Recovery requires state-specific scrapers.",
+        "recovery_potential": 856,
+        "recovery_states": {
+          "Baja California": {"ojn": 3, "portal": 340, "url": "https://www.congresobc.gob.mx/Trabajolegislativo/Leyes"},
+          "Durango": {"ojn": 1, "portal": 160, "url": "https://congresodurango.gob.mx/trabajo-legislativo/legislacion-estatal/"},
+          "Quintana Roo": {"ojn": 1, "portal": 356, "url": "https://www.congresoqroo.gob.mx/leyes/"}
+        }
+      }
     },
     "state_non_legislativo": {
       "known_count": 23660,
@@ -44,13 +54,13 @@
       "notes": "No authoritative census of municipal legislation exists. INEGI reports 2,468 municipalities. Only 5 tier-1 city portals have been scraped so far."
     },
     "federal_reglamentos": {
-      "known_count": 800,
+      "known_count": 137,
       "scraped_count": 0,
       "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regla.htm",
       "source_name": "Cámara de Diputados - Reglamentos",
       "last_verified": "2026-02-06",
-      "confidence": "medium",
-      "notes": "Federal regulations implementing specific laws. Published on the same Cámara de Diputados portal as Tier 1 laws."
+      "confidence": "high",
+      "notes": "Federal regulations implementing specific laws. Published on the same Cámara de Diputados portal as Tier 1 laws. Page lists 137 reglamentos (previously estimated at 800)."
     },
     "federal_noms": {
       "known_count": null,

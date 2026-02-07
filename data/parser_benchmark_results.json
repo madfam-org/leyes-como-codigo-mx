@@ -1,0 +1,144 @@
+{
+  "benchmark": "v2_parser_accuracy",
+  "tolerance_pct": 5.0,
+  "laws": [
+    {
+      "name": "Ley de Amparo",
+      "slug": "ley_amparo",
+      "file_found": true,
+      "expected_articles": 272,
+      "found_articles": 272,
+      "delta_pct": 0.0,
+      "structure_found": {
+        "book": 0,
+        "title": 5,
+        "chapter": 31,
+        "section": 14
+      },
+      "structure_pass": true,
+      "transitorios_found": 8,
+      "transitorios_pass": true,
+      "confidence": 0.998529411764706,
+      "warnings": [
+        "No BOOK elements found - verify structure"
+      ],
+      "parse_time_ms": 110.64223900029901,
+      "passed": true,
+      "failure_reasons": []
+    },
+    {
+      "name": "Ley del IVA (LIVA)",
+      "slug": "liva",
+      "file_found": true,
+      "expected_articles": 59,
+      "found_articles": 59,
+      "delta_pct": 0.0,
+      "structure_found": {
+        "book": 0,
+        "title": 1,
+        "chapter": 18,
+        "section": 2
+      },
+      "structure_pass": true,
+      "transitorios_found": 27,
+      "transitorios_pass": true,
+      "confidence": 0.9966101694915254,
+      "warnings": [
+        "No BOOK elements found - verify structure"
+      ],
+      "parse_time_ms": 68.07618899620138,
+      "passed": true,
+      "failure_reasons": []
+    },
+    {
+      "name": "Ley Federal del Trabajo (LFT)",
+      "slug": "lft",
+      "file_found": true,
+      "expected_articles": 1246,
+      "found_articles": 1246,
+      "delta_pct": 0.0,
+      "structure_found": {
+        "book": 0,
+        "title": 11,
+        "chapter": 95,
+        "section": 13
+      },
+      "structure_pass": true,
+      "transitorios_found": 33,
+      "transitorios_pass": true,
+      "confidence": 0.9960674157303363,
+      "warnings": [
+        "No BOOK elements found - verify structure"
+      ],
+      "parse_time_ms": 382.2452040039934,
+      "passed": true,
+      "failure_reasons": []
+    },
+    {
+      "name": "Codigo Civil Federal (CCF)",
+      "slug": "ccf",
+      "file_found": true,
+      "expected_articles": 3080,
+      "found_articles": 3080,
+      "delta_pct": 0.0,
+      "structure_found": {
+        "book": 4,
+        "title": 37,
+        "chapter": 220,
+        "section": 4
+      },
+      "structure_pass": true,
+      "transitorios_found": 50,
+      "transitorios_pass": true,
+      "confidence": 0.9954545454545486,
+      "warnings": [],
+      "parse_time_ms": 285.780041012913,
+      "passed": true,
+      "failure_reasons": []
+    },
+    {
+      "name": "Ley de Instituciones de Credito (LIC)",
+      "slug": "lic",
+      "file_found": true,
+      "expected_articles": 480,
+      "found_articles": 480,
+      "delta_pct": 0.0,
+      "structure_found": {
+        "book": 0,
+        "title": 11,
+        "chapter": 22,
+        "section": 10
+      },
+      "structure_pass": true,
+      "transitorios_found": 39,
+      "transitorios_pass": true,
+      "confidence": 0.9995833333333334,
+      "warnings": [
+        "No BOOK elements found - verify structure"
+      ],
+      "parse_time_ms": 246.63912599498872,
+      "passed": true,
+      "failure_reasons": []
+    }
+  ],
+  "metrics": {
+    "evaluated": 5,
+    "passed": 5,
+    "pass_rate_pct": 100.0,
+    "article_accuracy": {
+      "within_tolerance": 5,
+      "tolerance_pct": 5.0,
+      "average_delta_pct": 0.0
+    },
+    "structure_accuracy": {
+      "passed": 5,
+      "rate_pct": 100.0
+    },
+    "transitorios_accuracy": {
+      "passed": 5,
+      "rate_pct": 100.0
+    },
+    "average_confidence": 0.9972,
+    "average_parse_time_ms": 218.7
+  }
+}

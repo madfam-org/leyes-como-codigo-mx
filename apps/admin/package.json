@@ -6,10 +6,14 @@
         "dev": "next dev -p 3001",
         "build": "next build",
         "start": "next start -p 3001",
-        "lint": "eslint"
+        "lint": "eslint",
+        "test": "vitest run",
+        "test:watch": "vitest"
     },
     "dependencies": {
         "@radix-ui/react-slot": "^1.2.4",
+        "@tezca/lib": "*",
+        "@tezca/ui": "*",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "lucide-react": "^0.563.0",
@@ -18,21 +22,25 @@
         "radix-ui": "^1.4.3",
         "react": "19.2.3",
         "react-dom": "19.2.3",
-        "tailwind-merge": "^3.4.0",
-        "@tezca/ui": "*",
-        "@tezca/lib": "*"
+        "tailwind-merge": "^3.4.0"
     },
     "optionalDependencies": {
         "@janua/nextjs": "^1.0.0"
     },
     "devDependencies": {
         "@tailwindcss/postcss": "^4",
+        "@testing-library/jest-dom": "^6.9.1",
+        "@testing-library/react": "^16.3.2",
+        "@testing-library/user-event": "^14.6.1",
         "@types/node": "^20",
         "@types/react": "^19",
         "@types/react-dom": "^19",
+        "@vitejs/plugin-react": "^5.1.3",
         "eslint": "^9",
         "eslint-config-next": "16.1.6",
+        "jsdom": "^28.0.0",
         "tailwindcss": "^4",
-        "typescript": "^5"
+        "typescript": "^5",
+        "vitest": "^4.0.18"
     }
 }

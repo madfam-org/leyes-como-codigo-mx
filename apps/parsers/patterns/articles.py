@@ -11,21 +11,38 @@ def compile_article_patterns() -> List[Pattern]:
     """
     Compile list of regex patterns for article detection.
 
+    Patterns ordered from most specific to least specific so that
+    ``_try_patterns`` returns the best match first.
+
     Returns:
         List of compiled regex objects
     """
     patterns = [
-        # Standard: Artículo 5, Artículo 5., Artículo 1o
-        r"^Art[íi]culo\s+(\d+[o\.]?)",
-        # Lettered with dash: Artículo 27-A
+        # Bis with optional number: Artículo 5 Bis, Artículo 5o. Bis 1
+        r"^Art[íi]culo\s+(\d+[o]?\.?)\s+(Bis\s*\d*)",
+        # Lettered with dash: Artículo 27-A, Artículo 45-A.
         r"^Art[íi]culo\s+(\d+)-([A-Z])\.?",
-        # Lettered with space: Artículo 27 A
-        r"^Art[íi]culo\s+(\d+)\s+([A-Z])\.?",
+        # Standard: Artículo 5, Artículo 5., Artículo 1o.-, Artículo 5o
+        r"^Art[íi]culo\s+(\d+[o]?\.?)",
+        # Uppercase Bis: ARTICULO 5 Bis
+        r"^ART[ÍI]CULO\s+(\d+[o]?\.?)\s+(Bis\s*\d*)",
         # Uppercase: ARTICULO 5
-        r"^ART[ÍI]CULO\s+(\d+[o\.]?)",
+        r"^ART[ÍI]CULO\s+(\d+[o]?\.?)",
         # Abbreviated: Art. 5
         r"^Art\.\s+(\d+)",
-        # Municipal ordinal articles: Primero., Segundo., Tercero., etc.
+    ]
+
+    return [re.compile(p, re.MULTILINE) for p in patterns]
+
+
+def compile_ordinal_article_patterns() -> List[Pattern]:
+    """
+    Compile ordinal article patterns for municipal regulations.
+
+    Separated from main article patterns because ordinals (Primero, Segundo)
+    collide with TRANSITORIOS entries in federal/state laws.
+    """
+    patterns = [
         r"^(PRIMER[OA]|Primer[oa])\.?\s*-?\s*",
         r"^(SEGUND[OA]|Segund[oa])\.?\s*-?\s*",
         r"^(TERCER[OA]|Tercer[oa])\.?\s*-?\s*",

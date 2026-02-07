@@ -5,6 +5,7 @@ from rest_framework.permissions import IsAuthenticated
 from .admin_views import (
     coverage_dashboard,
     coverage_summary,
+    dof_summary,
     gap_records,
     health_check,
     health_sources,
@@ -63,6 +64,7 @@ urlpatterns = [
         _protected(coverage_dashboard),
         name="admin-coverage-dashboard",
     ),
+    path("admin/dof/", _protected(dof_summary), name="admin-dof-summary"),
     path("admin/roadmap/", _protected(roadmap), name="admin-roadmap"),
     path("ingest/", _protected(IngestionView.as_view()), name="ingest"),
     # ── Public endpoints (no auth) ────────────────────────────────────

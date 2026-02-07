@@ -215,4 +215,8 @@ CELERY_BEAT_SCHEDULE = {
         "task": "dataops.generate_coverage_report",
         "schedule": crontab(hour=6, minute=0, day_of_month="1"),
     },
+    "dof-daily-check": {
+        "task": "dataops.check_dof_daily",
+        "schedule": crontab(hour=7, minute=0),
+    },
 }

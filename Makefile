@@ -1,4 +1,4 @@
-.PHONY: help up down restart status logs clean test dev build
+.PHONY: help up down restart status logs clean test dev build lint format test-all test-pytest test-vitest test-e2e
 
 # Default target
 help:
@@ -13,7 +13,13 @@ help:
 	@echo "  make clean        - Clean up containers, volumes, and build artifacts"
 	@echo "  make dev          - Start development environment"
 	@echo "  make build        - Build Docker images"
-	@echo "  make test         - Run test suite"
+	@echo "  make test         - Run pytest suite"
+	@echo "  make test-all     - Run all tests (vitest + pytest + e2e)"
+	@echo "  make test-pytest  - Run Python tests only"
+	@echo "  make test-vitest  - Run Vitest frontend tests only"
+	@echo "  make test-e2e     - Run Playwright E2E tests only"
+	@echo "  make lint         - Run all linters"
+	@echo "  make format       - Auto-format code"
 	@echo "  make ingest       - Run law ingestion pipeline"
 	@echo "  make viewer       - Open law viewer in browser"
 	@echo ""
@@ -67,6 +73,7 @@ clean:
 	@echo "🧹 Cleaning up..."
 	@docker-compose down -v
 	@rm -rf apps/web/.next
+	@rm -rf apps/admin/.next
 	@rm -rf apps/web/node_modules/.cache
 	@rm -rf .pytest_cache
 	@rm -rf htmlcov
@@ -89,12 +96,71 @@ build:
 	@docker-compose build
 	@echo "✅ Build complete"
 
-# Run tests
-test:
-	@echo "🧪 Running test suite..."
+# ── Testing ────────────────────────────────────────────────────────────
+
+# Run Python tests (default test target)
+test: test-pytest
+
+# Run all tests sequentially: vitest → pytest → e2e
+test-all:
+	@echo "🧪 Running full test suite..."
+	@echo ""
+	@echo "── Vitest (frontend) ──"
+	@npx vitest run || echo "⚠️  Vitest tests failed"
+	@echo ""
+	@echo "── Pytest (backend) ──"
+	@python -m pytest tests/ -v --cov=apps --cov-report=term || echo "⚠️  Pytest tests failed"
+	@echo ""
+	@echo "── Playwright (E2E) ──"
+	@npx playwright test || echo "⚠️  E2E tests failed"
+	@echo ""
+	@echo "✅ Full test suite complete"
+
+# Python tests only
+test-pytest:
+	@echo "🧪 Running Python tests..."
 	@python -m pytest tests/ -v --cov=apps --cov-report=html --cov-report=term
 	@echo "✅ Tests complete"
 	@echo "📊 Coverage report: htmlcov/index.html"
+
+# Vitest frontend tests only
+test-vitest:
+	@echo "🧪 Running Vitest tests..."
+	@npx vitest run
+	@echo "✅ Vitest complete"
+
+# Playwright E2E tests only
+test-e2e:
+	@echo "🧪 Running E2E tests..."
+	@npx playwright test
+	@echo "✅ E2E tests complete"
+
+# ── Linting & Formatting ──────────────────────────────────────────────
+
+# Run all linters
+lint:
+	@echo "🔍 Running linters..."
+	@echo ""
+	@echo "── Python (ruff) ──"
+	@python -m ruff check apps/ tests/ scripts/ || echo "⚠️  Ruff found issues"
+	@echo ""
+	@echo "── TypeScript (eslint) ──"
+	@npm run lint:web || echo "⚠️  Web lint failed"
+	@npm run lint:admin || echo "⚠️  Admin lint failed"
+	@echo ""
+	@echo "✅ Lint complete"
+
+# Auto-format code
+format:
+	@echo "🎨 Formatting code..."
+	@echo ""
+	@echo "── Python (ruff format) ──"
+	@python -m ruff format apps/ tests/ scripts/
+	@python -m ruff check --fix apps/ tests/ scripts/ || true
+	@echo ""
+	@echo "✅ Format complete"
+
+# ── Data Operations ───────────────────────────────────────────────────
 
 # Run law ingestion
 ingest:

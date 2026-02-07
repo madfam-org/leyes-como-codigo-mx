@@ -196,6 +196,13 @@ def _build_pipeline_phases(params):
                 "cwd": str(BASE_DIR),
             }
         )
+        phases.append(
+            {
+                "name": "Scrape federal reglamentos",
+                "cmd": ["python", "scripts/scraping/scrape_federal_reglamentos.py"],
+                "cwd": str(BASE_DIR),
+            }
+        )
         if not skip_states:
             phases.append(
                 {
@@ -293,6 +300,23 @@ def _build_pipeline_phases(params):
             "cwd": str(BASE_DIR),
         }
     )
+
+    # Federal reglamentos ingestion
+    if not skip_scrape:
+        phases.append(
+            {
+                "name": "Ingest federal reglamentos",
+                "cmd": [
+                    "python",
+                    "scripts/ingestion/bulk_ingest.py",
+                    "--reglamentos",
+                    "--force",
+                    "--workers",
+                    str(workers),
+                ],
+                "cwd": str(BASE_DIR),
+            }
+        )
 
     # State ingestion (now reads AKN paths from metadata)
     phases.append(

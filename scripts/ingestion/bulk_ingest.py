@@ -73,6 +73,11 @@ def main():
     group.add_argument(
         "--laws", type=str, help="Comma-separated law IDs (e.g., amparo,iva,lft)"
     )
+    group.add_argument(
+        "--reglamentos",
+        action="store_true",
+        help="Ingest federal reglamentos from discovered_reglamentos.json",
+    )
 
     # Options
     parser.add_argument(
@@ -90,12 +95,16 @@ def main():
 
     # Load registry
     print("📚 Loading law registry...")
-    registry = LawRegistry()
+    include_reglamentos = getattr(args, "reglamentos", False)
+    registry = LawRegistry(include_reglamentos=include_reglamentos)
 
     # Select laws
     if args.all:
         laws = registry.all()
         selection_desc = "all laws"
+    elif include_reglamentos:
+        laws = registry.filter_by_category("reglamento")
+        selection_desc = "federal reglamentos"
     elif args.priority:
         laws = registry.filter_by_priority(args.priority)
         selection_desc = f"priority {args.priority} laws"

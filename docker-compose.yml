@@ -14,7 +14,7 @@ services:
     command: python manage.py runserver 0.0.0.0:8000
     environment:
       - DEBUG=${DEBUG:-False}
-      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:?Set DJANGO_SECRET_KEY in .env}
+      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:-django-insecure-local-dev-key}
       - ALLOWED_HOSTS=${ALLOWED_HOSTS:-*}
       - CORS_ALLOWED_ORIGINS=${CORS_ALLOWED_ORIGINS:-http://localhost:3000,http://localhost:3001}
       - DB_ENGINE=django.db.backends.postgresql
@@ -27,9 +27,12 @@ services:
       - CELERY_RESULT_BACKEND=redis://redis:6379/0
       - ES_HOST=http://elasticsearch:9200
     depends_on:
-      - postgres
-      - redis
-      - elasticsearch
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
 
   # Celery Worker
   celery:
@@ -42,7 +45,7 @@ services:
     command: celery -A apps.indigo worker --loglevel=info --concurrency=4
     environment:
       - DEBUG=${DEBUG:-False}
-      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:?Set DJANGO_SECRET_KEY in .env}
+      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:-django-insecure-local-dev-key}
       - DB_ENGINE=django.db.backends.postgresql
       - DB_NAME=${DB_NAME:-leyes_mx}
       - DB_USER=${DB_USER:-leyes_mx}
@@ -67,7 +70,7 @@ services:
     command: celery -A apps.indigo beat --loglevel=info --scheduler django_celery_beat.schedulers:DatabaseScheduler
     environment:
       - DEBUG=${DEBUG:-False}
-      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:?Set DJANGO_SECRET_KEY in .env}
+      - DJANGO_SECRET_KEY=${DJANGO_SECRET_KEY:-django-insecure-local-dev-key}
       - DB_ENGINE=django.db.backends.postgresql
       - DB_NAME=${DB_NAME:-leyes_mx}
       - DB_USER=${DB_USER:-leyes_mx}
@@ -119,6 +122,11 @@ services:
       - "5432:5432"
     volumes:
       - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-leyes_mx}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
   # Message Broker: Redis
   redis:
@@ -128,6 +136,11 @@ services:
       - "6379:6379"
     volumes:
       - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
 
   # Search Engine: Elasticsearch
   elasticsearch:
@@ -147,6 +160,11 @@ services:
         hard: -1
     volumes:
       - es_data:/usr/share/elasticsearch/data
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fs http://localhost:9200/_cluster/health || exit 1"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
 
 volumes:
   pg_data:

@@ -306,6 +306,44 @@ def coverage_dashboard(request):
     return Response(dashboard.dashboard_report())
 
 
+@api_view(["GET"])
+def dof_summary(request):
+    """DOF daily summary: latest entries and detected law changes."""
+    from apps.scraper.dataops.models import AcquisitionLog
+
+    latest_dof = (
+        AcquisitionLog.objects.filter(operation="dof_daily_check")
+        .order_by("-started_at")
+        .first()
+    )
+
+    if not latest_dof:
+        return Response(
+            {
+                "status": "no_data",
+                "message": "No DOF checks have been run yet.",
+                "timestamp": timezone.now().isoformat(),
+            }
+        )
+
+    return Response(
+        {
+            "status": "ok",
+            "date": (
+                latest_dof.parameters.get("date") if latest_dof.parameters else None
+            ),
+            "total_entries": latest_dof.found,
+            "law_changes_summary": latest_dof.error_summary or "No changes detected",
+            "checked_at": (
+                latest_dof.started_at.isoformat() if latest_dof.started_at else None
+            ),
+            "finished_at": (
+                latest_dof.finished_at.isoformat() if latest_dof.finished_at else None
+            ),
+        }
+    )
+
+
 @api_view(["GET", "PATCH"])
 def roadmap(request):
     """Expansion roadmap: GET returns all phases/items, PATCH updates a single item."""

@@ -17,12 +17,52 @@ from .models import DataSource, GapRecord
 
 logger = logging.getLogger(__name__)
 
-# States with suspiciously low counts in OJN power=2
+# States with suspiciously low counts in OJN power=2.
+# Investigation (2026-02-07) confirmed OJN has severely incomplete data for these
+# states. State congress portals have the real catalogs:
 LOW_COUNT_STATES = {
     "Durango": 1,
     "Quintana Roo": 1,
     "Baja California": 1,
     "Hidalgo": 38,
+}
+
+# State congress portal investigation results (2026-02-07).
+# OJN returns near-zero for these states; the actual catalogs live on the
+# state congress portals and have downloadable PDF/DOCX files.
+STATE_PORTAL_INVESTIGATION = {
+    "Baja California": {
+        "ojn_count": 3,
+        "portal_count": 340,
+        "portal_url": "https://www.congresobc.gob.mx/Trabajolegislativo/Leyes",
+        "formats": ["pdf", "doc"],
+        "status": "scraper_needed",
+        "notes": "OJN has only 3 entries (1 successful). State portal lists ~340 laws with PDF+DOC.",
+    },
+    "Durango": {
+        "ojn_count": 1,
+        "portal_count": 160,
+        "portal_url": "https://congresodurango.gob.mx/trabajo-legislativo/legislacion-estatal/",
+        "formats": ["pdf", "docx"],
+        "status": "scraper_needed",
+        "notes": "OJN has 1 entry. State portal lists ~160 laws with PDF+DOCX downloads.",
+    },
+    "Quintana Roo": {
+        "ojn_count": 1,
+        "portal_count": 356,
+        "portal_url": "https://www.congresoqroo.gob.mx/leyes/",
+        "formats": ["pdf", "csv", "xls"],
+        "status": "scraper_needed",
+        "notes": "OJN has 1 entry. State portal lists 356 laws with export APIs (csv/xls/xlsx).",
+    },
+    "Hidalgo": {
+        "ojn_count": 38,
+        "portal_count": 740,
+        "portal_url": "https://www.congreso-hidalgo.gob.mx/biblioteca_legislativa/leyes.html",
+        "formats": ["pdf"],
+        "status": "mostly_covered",
+        "notes": "OJN shows 38 but actual scraped data has 740+ docs. Non-legislative at 99.9%.",
+    },
 }
 
 # Known missing source categories
@@ -32,6 +72,7 @@ MISSING_SOURCES = [
         "gap_type": "missing_source",
         "description": "Federal Reglamentos from diputados.gob.mx (separate page)",
         "priority": 2,
+        "status_note": "Spider built (reglamentos_spider.py), pipeline integrated. Pending first run.",
     },
     {
         "level": "federal",
@@ -176,20 +217,34 @@ class GapRegistry:
         ojn_source = DataSource.objects.filter(name__icontains="OJN").first()
 
         for state_name, count in LOW_COUNT_STATES.items():
+            investigation = STATE_PORTAL_INVESTIGATION.get(state_name, {})
+            portal_count = investigation.get("portal_count")
+            portal_url = investigation.get("portal_url", "")
+
+            if portal_count:
+                desc = (
+                    f"OJN has only {count} law(s) for power=2. "
+                    f"State portal has ~{portal_count} laws."
+                )
+                action = f"Build scraper for {portal_url}"
+            else:
+                desc = (
+                    f"Only {count} law(s) found on OJN power=2. "
+                    f"Likely incomplete OJN data."
+                )
+                action = "Search state congress portal for full catalog"
+
             _, was_created = GapRecord.objects.get_or_create(
                 level="state",
                 state=state_name,
                 gap_type="low_count",
                 defaults={
-                    "description": (
-                        f"Only {count} law(s) found on OJN power=2. "
-                        f"Likely incomplete OJN data."
-                    ),
+                    "description": desc,
                     "status": "open",
                     "current_tier": 1,
                     "priority": 2,
                     "source": ojn_source,
-                    "next_action": "Search state congress portal for full catalog",
+                    "next_action": action,
                 },
             )
             if was_created:

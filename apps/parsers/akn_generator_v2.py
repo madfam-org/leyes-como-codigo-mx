@@ -149,48 +149,68 @@ class AkomaNtosoGeneratorV2:
 
         return elements
 
+    # Regex for detecting TRANSITORIOS headers (compiled once at class level)
+    _TRANSITORIOS_RE = re.compile(
+        r"^\s*(ART[ÍI]CULOS?\s+)?TRANSITORIOS?\s*$", re.IGNORECASE
+    )
+
     def _find_articles(self, lines: List[str]) -> List[Dict]:
         """
         Find articles with enhanced pattern matching.
+
+        Stops scanning at the first TRANSITORIOS header so that reform
+        decrees appended after the main body are not double-counted.
 
         Returns:
             List of article dicts
         """
         articles = []
+        seen_ids: set = set()
         i = 0
 
         while i < len(lines):
             line = lines[i].strip()
 
+            # Stop at TRANSITORIOS boundary — those are parsed separately
+            if self._TRANSITORIOS_RE.match(line):
+                break
+
             # Try all article patterns
             matched, match = self._try_patterns(line, self.article_patterns)
 
             if matched:
-                # Extract article number (could be 5, 5A, 27-A, ordinals like "Primero", etc.)
-                art_num = match.group(1)
+                raw_num = match.group(1)
 
-                # Check if this is an ordinal article (e.g., "Primero", "Segundo")
-                numeric_num = (
-                    ordinal_to_number(art_num) if not art_num.isdigit() else None
-                )
-
-                if numeric_num:
-                    # Municipal ordinal article
-                    art_num = str(numeric_num)
-                    art_id = f"art-{numeric_num}"
-                elif match.lastindex > 1 and match.group(2):  # Lettered article
-                    art_num = f"{art_num}-{match.group(2)}"
-                    art_id = f"art-{art_num.lower().replace('-', '')}"
+                # Build article number and ID based on which pattern matched
+                if match.lastindex and match.lastindex >= 2 and match.group(2):
+                    # Bis or lettered article (groups: base_num, suffix)
+                    base = raw_num.rstrip(".o")
+                    suffix = match.group(2).strip().rstrip(".")
+                    art_num = f"{base}-{suffix}"
+                    # Normalise for dedup: "27-A" → "art-27a", "5-Bis 1" → "art-5bis1"
+                    norm = art_num.lower().replace(".", "").replace(" ", "").replace("-", "")
+                    art_id = f"art-{norm}"
                 else:
                     # Standard numeric article
-                    art_id = f"art-{art_num.lower().replace('-', '')}"
+                    art_num = raw_num
+                    clean_num = raw_num.rstrip(".o")
+                    art_id = f"art-{clean_num}"
 
-                # Collect content until next article/structure
+                # Deduplicate — keep first occurrence only
+                if art_id in seen_ids:
+                    i += 1
+                    continue
+                seen_ids.add(art_id)
+
+                # Collect content until next article/structure/transitorios
                 content_lines = [line]
                 j = i + 1
                 while j < len(lines):
                     next_line = lines[j].strip()
 
+                    # Stop at TRANSITORIOS
+                    if self._TRANSITORIOS_RE.match(next_line):
+                        break
                     # Stop at next article or major structure
                     if self._try_patterns(next_line, self.article_patterns)[0]:
                         break

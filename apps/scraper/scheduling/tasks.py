@@ -100,3 +100,62 @@ def generate_coverage_report():
         summary["actionable_gaps"],
     )
     return summary
+
+
+@shared_task(name="dataops.check_dof_daily")
+def check_dof_daily():
+    """Check today's DOF edition for law changes.
+
+    Runs daily at 7 AM via Celery Beat. Fetches the DOF index,
+    detects reforms/new laws/abrogations, and logs findings.
+    """
+    import datetime
+
+    from apps.scraper.federal.dof_daily import DofScraper
+
+    scraper = DofScraper(date=datetime.date.today())
+    results = scraper.run()
+
+    entries = results.get("entries", [])
+    changes = results.get("changes", [])
+
+    # Log to AcquisitionLog
+    try:
+        from apps.scraper.dataops.models import AcquisitionLog
+
+        log_entry = AcquisitionLog.objects.create(
+            operation="dof_daily_check",
+            parameters={"date": str(datetime.date.today())},
+            found=len(entries),
+            downloaded=0,
+            failed=0,
+            ingested=0,
+        )
+        if changes:
+            log_entry.error_summary = (
+                f"{len(changes)} law changes detected: "
+                + ", ".join(c.get("change_type", "unknown") for c in changes[:5])
+            )
+        log_entry.finish()
+    except Exception:
+        pass
+
+    if changes:
+        logger.warning(
+            "DOF daily: %d entries, %d law changes detected",
+            len(entries),
+            len(changes),
+        )
+        for change in changes[:10]:
+            logger.warning(
+                "  [%s] %s", change.get("change_type", "?"), change.get("title", "?")
+            )
+    else:
+        logger.info("DOF daily: %d entries, no law changes detected", len(entries))
+
+    return {
+        "date": str(datetime.date.today()),
+        "total_entries": len(entries),
+        "law_changes": len(changes),
+        "changes": changes[:20],
+    }
