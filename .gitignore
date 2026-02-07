@@ -124,6 +124,11 @@ data/state_laws_non_legislative/**/*.pdf
 data/state_laws_non_legislative/**/*.docx
 data/state_laws_non_legislative/**/*.txt
 
+# Non-legislative processing outputs (large generated files)
+data/state_laws_non_legislative_processed/
+data/conversion_results_non_legislative.json
+data/state_laws_non_legislative_metadata.json
+
 # Logs
 logs/
 *.log
