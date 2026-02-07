@@ -91,4 +91,77 @@ describe('SearchFilters', () => {
             }));
         });
     });
+
+    describe('Facets', () => {
+        const facets = {
+            by_tier: [
+                { key: 'federal', count: 333 },
+                { key: 'state', count: 11363 },
+                { key: 'municipal', count: 0 },
+            ],
+            by_category: [
+                { key: 'civil', count: 120 },
+                { key: 'penal', count: 85 },
+            ],
+            by_status: [
+                { key: 'vigente', count: 400 },
+                { key: 'abrogado', count: 15 },
+            ],
+            by_law_type: [
+                { key: 'legislative', count: 250 },
+                { key: 'non_legislative', count: 150 },
+            ],
+        };
+
+        it('displays facet counts next to jurisdiction buttons', async () => {
+            await act(async () => {
+                renderWithLang(
+                    <SearchFilters
+                        filters={mockFilters}
+                        onFiltersChange={mockOnChange}
+                        resultCount={10}
+                        facets={facets}
+                    />
+                );
+            });
+
+            // Facet counts are rendered as (N) next to jurisdiction names
+            expect(screen.getByText('(333)')).toBeInTheDocument();
+            expect(screen.getByText('(11,363)')).toBeInTheDocument();
+            expect(screen.getByText('(0)')).toBeInTheDocument();
+        });
+
+        it('applies opacity-50 class to jurisdiction button with zero count', async () => {
+            await act(async () => {
+                renderWithLang(
+                    <SearchFilters
+                        filters={mockFilters}
+                        onFiltersChange={mockOnChange}
+                        resultCount={10}
+                        facets={facets}
+                    />
+                );
+            });
+
+            // Municipal has count 0, its button should have opacity-50
+            const municipalButton = screen.getByRole('button', { name: /Municipal/i });
+            expect(municipalButton.className).toContain('opacity-50');
+        });
+
+        it('does not show facet counts when facets prop is not provided', async () => {
+            await act(async () => {
+                renderWithLang(
+                    <SearchFilters
+                        filters={mockFilters}
+                        onFiltersChange={mockOnChange}
+                        resultCount={10}
+                    />
+                );
+            });
+
+            // Without facets, no parenthesized counts should appear next to jurisdictions
+            expect(screen.queryByText('(333)')).not.toBeInTheDocument();
+            expect(screen.queryByText('(0)')).not.toBeInTheDocument();
+        });
+    });
 });

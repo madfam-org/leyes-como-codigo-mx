@@ -17,13 +17,23 @@ The citizen-facing web application for searching and reading Mexican laws.
 | Route | Description |
 |-------|-------------|
 | `/` | Homepage with dashboard, search, and jurisdiction cards |
-| `/search` | Advanced law search with filters |
-| `/laws` | Law catalog |
-| `/laws/[id]` | Individual law detail page |
-| `/compare` | Side-by-side law comparison |
+| `/busqueda` | Advanced law search with filters |
+| `/leyes` | Law catalog |
+| `/leyes/[id]` | Individual law detail page |
+| `/comparar` | Side-by-side law comparison |
+| `/categorias` | Browse laws by legal category |
+| `/categorias/[category]` | Laws in a specific category |
+| `/estados` | Browse laws by Mexican state |
+| `/estados/[state]` | Laws in a specific state |
+| `/favoritos` | Bookmarked laws |
+| `/acerca-de` | About page |
 | `/terminos` | Terms & Conditions (trilingual) |
 | `/aviso-legal` | Legal Disclaimer (trilingual) |
 | `/privacidad` | Privacy Policy (trilingual) |
+
+### Route Redirects
+
+As of Phase 9, all primary routes use Spanish paths. The old English routes (`/search`, `/laws`, `/laws/[id]`, `/compare`) return **301 permanent redirects** to their Spanish equivalents (`/busqueda`, `/leyes`, `/leyes/[id]`, `/comparar`). Existing bookmarks and external links will continue to work.
 
 ## Tech Stack
 - **Framework**: Next.js 15 (App Router)

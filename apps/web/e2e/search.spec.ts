@@ -11,15 +11,15 @@ test.describe('Search flow', () => {
         await page.getByPlaceholder(/Buscar en/).fill('ley federal');
         await page.getByPlaceholder(/Buscar en/).press('Enter');
 
-        // Should navigate to /search?q=ley+federal
-        await expect(page).toHaveURL(/\/search\?q=ley/);
+        // Should navigate to /busqueda?q=ley+federal
+        await expect(page).toHaveURL(/\/busqueda\?q=ley/);
 
         // Search page renders with heading
         await expect(page.getByRole('heading', { name: 'Buscar Leyes' })).toBeVisible();
     });
 
     test('search page shows results from API', async ({ page }) => {
-        await page.goto('/search?q=ley');
+        await page.goto('/busqueda?q=ley');
 
         // Wait for results to render
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
@@ -30,15 +30,15 @@ test.describe('Search flow', () => {
     });
 
     test('clicking a search result navigates to law detail', async ({ page }) => {
-        await page.goto('/search?q=ley');
+        await page.goto('/busqueda?q=ley');
 
         // Wait for results
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
 
-        // Click the first result (it's a link to /laws/ley-federal-del-trabajo)
+        // Click the first result (it's a link to /leyes/ley-federal-del-trabajo)
         await page.getByText('Ley Federal del Trabajo').first().click();
 
         // Should navigate to the law detail page
-        await expect(page).toHaveURL(/\/laws\/ley-federal-del-trabajo/);
+        await expect(page).toHaveURL(/\/leyes\/ley-federal-del-trabajo/);
     });
 });

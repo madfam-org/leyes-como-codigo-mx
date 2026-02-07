@@ -2,7 +2,7 @@ import { test, expect } from './fixtures';
 
 test.describe('Language toggle', () => {
     test('toggling from ES to EN changes heading text on search page', async ({ page }) => {
-        await page.goto('/search?q=ley');
+        await page.goto('/busqueda?q=ley');
 
         // Default language is Spanish
         await expect(page.getByRole('heading', { name: 'Buscar Leyes' })).toBeVisible();
@@ -23,7 +23,7 @@ test.describe('Language toggle', () => {
 
     test('language persists across navigation', async ({ page }) => {
         // Start on search page, switch to English
-        await page.goto('/search?q=ley');
+        await page.goto('/busqueda?q=ley');
         await expect(page.getByRole('heading', { name: 'Buscar Leyes' })).toBeVisible();
 
         const enButton = page.getByRole('button', { name: 'Switch to English' }).first();
@@ -36,7 +36,7 @@ test.describe('Language toggle', () => {
         await expect(page.getByText('You have no saved laws')).toBeVisible();
 
         // Navigate to law detail — English error text if law loads (or header text)
-        await page.goto('/laws/ley-federal-del-trabajo');
+        await page.goto('/leyes/ley-federal-del-trabajo');
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
         // The "Compare" button label should be in English
         await expect(page.getByText('Compare').first()).toBeVisible();

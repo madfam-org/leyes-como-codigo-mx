@@ -2,7 +2,7 @@ import { test, expect } from './fixtures';
 
 test.describe('Comparison flow', () => {
     test('selecting a law on /laws page shows floating bar', async ({ page }) => {
-        await page.goto('/laws');
+        await page.goto('/leyes');
 
         // Law cards render with comparison checkboxes
         const checkboxes = page.getByRole('checkbox', { name: /comparar|compare/i });
@@ -17,7 +17,7 @@ test.describe('Comparison flow', () => {
     });
 
     test('clear button resets selection', async ({ page }) => {
-        await page.goto('/laws');
+        await page.goto('/leyes');
 
         const checkboxes = page.getByRole('checkbox', { name: /comparar|compare/i });
         await expect(checkboxes.first()).toBeVisible();
@@ -33,7 +33,7 @@ test.describe('Comparison flow', () => {
     });
 
     test('compare page renders dual pane with metadata', async ({ page }) => {
-        await page.goto('/compare?laws=ley-federal-del-trabajo,codigo-civil-federal');
+        await page.goto('/comparar?laws=ley-federal-del-trabajo,codigo-civil-federal');
 
         // Header — use first() since both responsive spans exist in DOM
         await expect(page.getByText('Comparación Estructural').first()).toBeVisible();
@@ -50,7 +50,7 @@ test.describe('Comparison flow', () => {
     });
 
     test('compare page toolbar has sync and copy buttons', async ({ page }) => {
-        await page.goto('/compare?laws=ley-federal-del-trabajo,codigo-civil-federal');
+        await page.goto('/comparar?laws=ley-federal-del-trabajo,codigo-civil-federal');
 
         // Wait for comparison to load
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
@@ -61,7 +61,7 @@ test.describe('Comparison flow', () => {
     });
 
     test('compare page with insufficient laws shows empty state', async ({ page }) => {
-        await page.goto('/compare?laws=ley-federal-del-trabajo');
+        await page.goto('/comparar?laws=ley-federal-del-trabajo');
 
         await expect(page.getByText('Selecciona leyes para comparar')).toBeVisible();
         await expect(page.getByRole('link', { name: 'Ir al Buscador' })).toBeVisible();

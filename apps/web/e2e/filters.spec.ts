@@ -9,7 +9,7 @@ test.describe('Search filters', () => {
     });
 
     test('changing jurisdiction filter updates URL', async ({ page }) => {
-        await page.goto('/search?q=ley');
+        await page.goto('/busqueda?q=ley');
 
         // Wait for results to render
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
@@ -24,7 +24,7 @@ test.describe('Search filters', () => {
 
     test('clear filters resets URL to query only', async ({ page }) => {
         // Start with a non-default filter in URL
-        await page.goto('/search?q=ley&jurisdiction=federal,state');
+        await page.goto('/busqueda?q=ley&jurisdiction=federal,state');
 
         // Wait for results to render
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
@@ -43,7 +43,7 @@ test.describe('Search filters', () => {
     });
 
     test('filter state persists in URL across page reload', async ({ page }) => {
-        await page.goto('/search?q=ley');
+        await page.goto('/busqueda?q=ley');
 
         // Wait for results
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();

@@ -10,7 +10,7 @@ test.describe('Navbar', () => {
         await expect(brandLink).toHaveAttribute('href', '/');
     });
 
-    test('clicking Buscar navigates to /search', async ({ page }) => {
+    test('clicking Buscar navigates to /busqueda', async ({ page }) => {
         await page.goto('/');
 
         // Desktop nav has a "Buscar" link
@@ -19,12 +19,12 @@ test.describe('Navbar', () => {
 
         await searchLink.click();
 
-        await expect(page).toHaveURL('/search');
+        await expect(page).toHaveURL('/busqueda');
         await expect(page.getByRole('heading', { name: 'Buscar Leyes' })).toBeVisible();
     });
 
-    test('active nav link has active styling on /search', async ({ page }) => {
-        await page.goto('/search');
+    test('active nav link has active styling on /busqueda', async ({ page }) => {
+        await page.goto('/busqueda');
 
         // The "Buscar" link should have active class (bg-primary/10 text-primary)
         const searchLink = page.getByRole('link', { name: 'Buscar' }).first();
@@ -40,11 +40,11 @@ test.describe('Navbar', () => {
     test('navbar links navigate correctly', async ({ page }) => {
         await page.goto('/');
 
-        // Click "Explorar" to go to /laws
+        // Click "Explorar" to go to /leyes
         const exploreLink = page.getByRole('link', { name: 'Explorar' }).first();
         await expect(exploreLink).toBeVisible();
         await exploreLink.click();
-        await expect(page).toHaveURL('/laws');
+        await expect(page).toHaveURL('/leyes');
 
         // Click "Favoritos" to go to /favoritos
         const favoritesLink = page.getByRole('link', { name: 'Favoritos' }).first();

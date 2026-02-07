@@ -2,7 +2,7 @@ import { test, expect } from './fixtures';
 
 test.describe('Bookmarks flow', () => {
     test('bookmark button toggles on law detail page', async ({ page }) => {
-        await page.goto('/laws/ley-federal-del-trabajo');
+        await page.goto('/leyes/ley-federal-del-trabajo');
 
         // Wait for law to load
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
@@ -34,7 +34,7 @@ test.describe('Bookmarks flow', () => {
         await expect(page.getByText('Explorar leyes')).toBeVisible();
 
         // Now bookmark a law via the detail page
-        await page.goto('/laws/ley-federal-del-trabajo');
+        await page.goto('/leyes/ley-federal-del-trabajo');
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
 
         await page.locator('button[title="Agregar a favoritos"]').click();
@@ -49,7 +49,7 @@ test.describe('Bookmarks flow', () => {
 
     test('bookmark persists across navigation (localStorage)', async ({ page }) => {
         // Bookmark a law
-        await page.goto('/laws/ley-federal-del-trabajo');
+        await page.goto('/leyes/ley-federal-del-trabajo');
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
 
         await page.locator('button[title="Agregar a favoritos"]').click();
@@ -60,7 +60,7 @@ test.describe('Bookmarks flow', () => {
         await expect(page.getByText('Tezca').first()).toBeVisible();
 
         // Navigate back to same law detail page
-        await page.goto('/laws/ley-federal-del-trabajo');
+        await page.goto('/leyes/ley-federal-del-trabajo');
         await expect(page.getByText('Ley Federal del Trabajo').first()).toBeVisible();
 
         // Bookmark should still be active
