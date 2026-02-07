@@ -99,7 +99,17 @@ class TestLocalStorageBackend:
 # R2StorageBackend (mocked boto3)
 # ---------------------------------------------------------------------------
 
+try:
+    import boto3 as _boto3  # noqa: F401
 
+    _has_boto3 = True
+except ImportError:
+    _has_boto3 = False
+
+_skip_no_boto3 = pytest.mark.skipif(not _has_boto3, reason="boto3 not installed")
+
+
+@_skip_no_boto3
 class TestR2StorageBackend:
     @patch.dict(
         os.environ,
@@ -216,6 +226,7 @@ class TestGetStorageBackend:
             backend = get_storage_backend()
             assert isinstance(backend, LocalStorageBackend)
 
+    @_skip_no_boto3
     @patch("boto3.client")
     def test_r2_backend(self, mock_boto_client):
         mock_boto_client.return_value = MagicMock()
