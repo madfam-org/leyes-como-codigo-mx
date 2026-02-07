@@ -19,6 +19,7 @@ spec:
     spec:
       securityContext:
         runAsNonRoot: true
+        fsGroup: 1000
         seccompProfile:
           type: RuntimeDefault
       containers:
@@ -43,7 +44,7 @@ spec:
             - name: discovery.type
               value: "single-node"
             - name: bootstrap.memory_lock
-              value: "true"
+              value: "false"
             - name: ES_JAVA_OPTS
               value: "-Xms1g -Xmx1g"
           livenessProbe:

@@ -22,8 +22,6 @@ WORKDIR /app
 
 COPY --from=deps /app/node_modules ./node_modules
 COPY --from=deps /app/apps/admin/node_modules ./apps/admin/node_modules
-COPY --from=deps /app/packages/ui/node_modules ./packages/ui/node_modules 2>/dev/null || true
-COPY --from=deps /app/packages/lib/node_modules ./packages/lib/node_modules 2>/dev/null || true
 
 # Copy source code
 COPY package.json package-lock.json ./
@@ -58,7 +56,6 @@ RUN addgroup --system --gid 1001 nodejs && \
 # Copy standalone build output
 COPY --from=builder /app/apps/admin/.next/standalone ./
 COPY --from=builder /app/apps/admin/.next/static ./apps/admin/.next/static
-COPY --from=builder /app/apps/admin/public ./apps/admin/public 2>/dev/null || true
 
 USER nextjs
 
