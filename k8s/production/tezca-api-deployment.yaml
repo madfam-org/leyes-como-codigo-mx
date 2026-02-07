@@ -30,6 +30,7 @@ spec:
             privileged: false
             allowPrivilegeEscalation: false
             readOnlyRootFilesystem: false
+            runAsUser: 1001
             capabilities:
               drop: ["ALL"]
           ports:
