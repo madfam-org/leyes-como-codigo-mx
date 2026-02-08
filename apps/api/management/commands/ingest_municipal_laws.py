@@ -8,14 +8,11 @@ Usage:
     python manage.py ingest_municipal_laws --all --dry-run
 """
 
-import json
-from pathlib import Path
-
 from django.core.management.base import BaseCommand
 from django.db import transaction
 
 from apps.api.models import Law, LawVersion
-from apps.api.utils.paths import resolve_data_path_or_none, resolve_metadata_file
+from apps.api.utils.paths import data_exists, read_metadata_json
 
 
 class Command(BaseCommand):
@@ -64,8 +61,8 @@ class Command(BaseCommand):
             # Determine best file path for xml_file_path:
             # Prefer AKN XML if it exists, fall back to raw text
             akn_file = metadata.get("akn_file_path", "")
-            akn_path = resolve_data_path_or_none(akn_file) if akn_file else None
-            stored_path = akn_file if akn_path else (text_file or "")
+            akn_found = data_exists(akn_file) if akn_file else False
+            stored_path = akn_file if akn_found else (text_file or "")
 
             # Check if law already exists
             existing_law = Law.objects.filter(official_id=official_id).first()
@@ -126,17 +123,18 @@ class Command(BaseCommand):
             }
 
     def handle(self, *args, **options):
-        self.stdout.write("🏘️  Loading municipal law metadata...")
-        metadata_file = resolve_metadata_file("municipal_laws_metadata.json")
+        self.stdout.write("Loading municipal law metadata...")
+        metadata = read_metadata_json("municipal_laws_metadata.json")
 
-        if not metadata_file.exists():
+        if not metadata:
             self.stdout.write(
-                self.style.ERROR(f"Metadata file not found: {metadata_file}")
+                self.style.ERROR(
+                    "Metadata file not found: municipal_laws_metadata.json"
+                )
             )
             self.stdout.write("   Run consolidate_municipal_metadata.py first!")
             return
 
-        metadata = json.loads(metadata_file.read_text())
         all_laws = metadata.get("laws", [])
 
         # Filter by municipality if requested

@@ -11,14 +11,13 @@ Usage:
 """
 
 import re
-from pathlib import Path
 
 from django.core.management.base import BaseCommand
 from elasticsearch import Elasticsearch, helpers
 from lxml import etree
 
 from apps.api.models import Law
-from apps.api.utils.paths import ES_HOST, resolve_data_path_or_none
+from apps.api.utils.paths import ES_HOST, read_data_content
 
 INDEX_LAWS = "laws"
 INDEX_ARTICLES = "articles"
@@ -287,18 +286,15 @@ class Command(BaseCommand):
         if not version or not version.xml_file_path:
             return 0
 
-        file_path = resolve_data_path_or_none(version.xml_file_path)
+        text = read_data_content(version.xml_file_path)
 
-        if not file_path:
+        if not text:
             self.stdout.write(
                 self.style.WARNING(
                     f"File not found for {law.official_id}: {version.xml_file_path}"
                 )
             )
             return 0
-
-        # Read file content
-        text = file_path.read_text(encoding="utf-8")
 
         # Check if this is AKN XML or raw text
         is_akn = text.strip().startswith("<?xml") or "<akomaNtoso" in text[:500]

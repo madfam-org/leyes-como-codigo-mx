@@ -5,6 +5,7 @@ Resolves relative data paths (from metadata JSON files) to absolute paths,
 checking Docker prefix (/app/) first, then project BASE_DIR, then cwd.
 """
 
+import json
 import os
 from pathlib import Path
 
@@ -119,3 +120,100 @@ def resolve_metadata_file(filename: str) -> Path:
         Absolute Path to the metadata file
     """
     return resolve_data_path(f"data/{filename}")
+
+
+def data_exists(relative_path: str) -> bool:
+    """Check if a data file exists locally or in R2 storage.
+
+    Args:
+        relative_path: Relative data path (e.g. "state_laws/colima/law.txt")
+
+    Returns:
+        True if file exists in local filesystem or R2.
+    """
+    if not relative_path:
+        return False
+
+    # Check local first
+    if resolve_data_path_or_none(relative_path) is not None:
+        return True
+
+    # Check R2 if configured
+    if os.environ.get("STORAGE_BACKEND") == "r2":
+        from apps.api.storage import get_storage_backend
+
+        storage = get_storage_backend()
+        key = relative_path.lstrip("/")
+        if key.startswith("data/"):
+            key = key[5:]
+        return storage.exists(key)
+
+    return False
+
+
+def read_metadata_json(filename: str) -> dict | None:
+    """Load a metadata JSON file from local filesystem or R2 storage.
+
+    Tries local resolution first via resolve_metadata_file(). If the file
+    doesn't exist locally and STORAGE_BACKEND=r2, falls back to R2.
+
+    Args:
+        filename: e.g. "state_laws_metadata.json"
+
+    Returns:
+        Parsed JSON dict, or None if not found.
+    """
+    # Try local first
+    local_path = resolve_metadata_file(filename)
+    if local_path.exists():
+        return json.loads(local_path.read_text(encoding="utf-8"))
+
+    # Fall back to R2
+    content = read_data_content(f"data/{filename}")
+    if content:
+        return json.loads(content)
+
+    return None
+
+
+def read_data_content(relative_path: str, encoding: str = "utf-8") -> str | None:
+    """
+    Read file content from local filesystem or R2 storage backend.
+
+    Tries local resolution first (resolve_data_path_or_none). If the file
+    is not found locally and STORAGE_BACKEND=r2, falls back to reading
+    from R2 using the storage backend.
+
+    Args:
+        relative_path: Relative data path (e.g. "federal/mx-fed-103.xml")
+        encoding: Text encoding (default utf-8)
+
+    Returns:
+        File content as string, or None if not found anywhere.
+    """
+    if not relative_path:
+        return None
+
+    # Try local filesystem first
+    local_path = resolve_data_path_or_none(relative_path)
+    if local_path:
+        return local_path.read_text(encoding=encoding, errors="ignore")
+
+    # Fall back to R2 storage if configured
+    if os.environ.get("STORAGE_BACKEND") == "r2":
+        from apps.api.storage import get_storage_backend
+
+        storage = get_storage_backend()
+        # Normalize the key: strip leading data/ prefix if present,
+        # since R2 keys mirror the data/ directory structure
+        key = relative_path.lstrip("/")
+        if key.startswith("data/"):
+            key = key[5:]
+
+        try:
+            data = storage.get(key)
+            return data.decode(encoding, errors="ignore")
+        except (FileNotFoundError, Exception):
+            return None
+
+    return None

@@ -16,14 +16,11 @@ Usage:
     python apps/manage.py ingest_non_legislative_laws --all --dry-run
 """
 
-import json
-from pathlib import Path
-
 from django.core.management.base import BaseCommand
 from django.db import transaction
 
 from apps.api.models import Law, LawVersion
-from apps.api.utils.paths import resolve_data_path_or_none, resolve_metadata_file
+from apps.api.utils.paths import data_exists, read_data_content, read_metadata_json
 
 
 class Command(BaseCommand):
@@ -60,16 +57,14 @@ class Command(BaseCommand):
             publication_date = metadata.get("publication_date")
             text_file = metadata.get("text_file")
 
-            # Read law text
-            text_path = resolve_data_path_or_none(text_file) if text_file else None
-            if not text_path:
+            # Read law text (local filesystem or R2)
+            text_content = read_data_content(text_file) if text_file else None
+            if not text_content:
                 return {
                     "success": False,
                     "official_id": official_id,
                     "error": f"Text file not found: {text_file}",
                 }
-
-            text_content = text_path.read_text(encoding="utf-8", errors="ignore")
 
             if dry_run:
                 return {
@@ -82,8 +77,8 @@ class Command(BaseCommand):
 
             # Determine best file path for xml_file_path
             akn_file = metadata.get("akn_file_path", "")
-            akn_path = resolve_data_path_or_none(akn_file) if akn_file else None
-            stored_path = akn_file if akn_path else (text_file or "")
+            akn_found = data_exists(akn_file) if akn_file else False
+            stored_path = akn_file if akn_found else (text_file or "")
 
             # Check if law already exists
             existing_law = Law.objects.filter(official_id=official_id).first()
@@ -146,18 +141,17 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         self.stdout.write("Loading non-legislative state law metadata...")
-        metadata_file = resolve_metadata_file(
-            "state_laws_non_legislative_metadata.json"
-        )
+        metadata = read_metadata_json("state_laws_non_legislative_metadata.json")
 
-        if not metadata_file.exists():
+        if not metadata:
             self.stdout.write(
-                self.style.ERROR(f"Metadata file not found: {metadata_file}")
+                self.style.ERROR(
+                    "Metadata file not found: state_laws_non_legislative_metadata.json"
+                )
             )
             self.stdout.write("   Run consolidate_non_legislative_metadata.py first!")
             return
 
-        metadata = json.loads(metadata_file.read_text())
         all_laws = metadata.get("laws", [])
 
         if options["state"]:
