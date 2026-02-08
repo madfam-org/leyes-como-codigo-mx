@@ -79,6 +79,31 @@ spec:
               value: "https://auth.madfam.io"
             - name: JANUA_AUDIENCE
               value: "tezca-api"
+            - name: STORAGE_BACKEND
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-r2-credentials
+                  key: STORAGE_BACKEND
+            - name: R2_ACCESS_KEY_ID
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-r2-credentials
+                  key: R2_ACCESS_KEY_ID
+            - name: R2_SECRET_ACCESS_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-r2-credentials
+                  key: R2_SECRET_ACCESS_KEY
+            - name: R2_ENDPOINT_URL
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-r2-credentials
+                  key: R2_ENDPOINT_URL
+            - name: R2_BUCKET_NAME
+              valueFrom:
+                secretKeyRef:
+                  name: tezca-r2-credentials
+                  key: R2_BUCKET_NAME
           livenessProbe:
             httpGet:
               path: /api/v1/admin/health/
