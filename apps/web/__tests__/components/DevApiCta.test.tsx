@@ -1,15 +1,16 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 const mockUseAuth = vi.fn(() => mockAuth({ tier: 'anon' }));
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 vi.mock('@/lib/billing', () => ({
@@ -50,7 +51,7 @@ import { DevApiCta } from '@/components/DevApiCta';
 describe('DevApiCta', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
     });
 
     it('renders for anon users', () => {
@@ -93,7 +94,7 @@ describe('DevApiCta', () => {
     });
 
     it('renders English content', () => {
-        mockUseLang.mockReturnValue({ lang: 'en' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         mockUseAuth.mockReturnValue(mockAuth({ tier: 'anon' }));
         render(<DevApiCta />);
         expect(screen.getByText('Get API access')).toBeDefined();

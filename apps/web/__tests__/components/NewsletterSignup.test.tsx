@@ -1,5 +1,7 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
+import type { Mock } from 'vitest';
+import { mockFetchResponse } from '../fixtures/mockFactories';
 
 // Mock LanguageContext
 vi.mock('@/components/providers/LanguageContext', () => ({
@@ -21,13 +23,15 @@ import { NewsletterSignup } from '@/components/NewsletterSignup';
 import { useLang } from '@/components/providers/LanguageContext';
 
 describe('NewsletterSignup', () => {
-    let fetchSpy: ReturnType<typeof vi.fn>;
+    // Typed as a mock *of fetch* so assigning it to `global.fetch` type-checks;
+    // `ReturnType<typeof vi.fn>` is the untyped `Mock<Procedure>` and is not.
+    let fetchSpy: Mock<typeof fetch>;
 
     beforeEach(() => {
         vi.clearAllMocks();
         // Reset useLang to Spanish after any test that changes it
         (useLang as ReturnType<typeof vi.fn>).mockReturnValue({ lang: 'es', setLang: vi.fn() });
-        fetchSpy = vi.fn();
+        fetchSpy = vi.fn<typeof fetch>();
         global.fetch = fetchSpy;
     });
 
@@ -67,10 +71,7 @@ describe('NewsletterSignup', () => {
     // 4. Submits email on form submit
     // ---------------------------------------------------------------
     it('submits email to API on form submit', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -92,10 +93,7 @@ describe('NewsletterSignup', () => {
     // 5. Shows success message
     // ---------------------------------------------------------------
     it('shows success message after successful subscription', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -111,10 +109,7 @@ describe('NewsletterSignup', () => {
     // 6. Shows already subscribed message
     // ---------------------------------------------------------------
     it('shows already subscribed message', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'already_subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'already_subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -130,10 +125,7 @@ describe('NewsletterSignup', () => {
     // 7. Shows error message on API failure
     // ---------------------------------------------------------------
     it('shows error message when API returns error', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: false,
-            json: () => Promise.resolve({ error: 'Internal error' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ error: 'Internal error' }, { ok: false, status: 500 }));
 
         render(<NewsletterSignup />);
 
@@ -217,10 +209,7 @@ describe('NewsletterSignup', () => {
     // 13. Clears email on success
     // ---------------------------------------------------------------
     it('clears email input after successful subscription', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -237,10 +226,7 @@ describe('NewsletterSignup', () => {
     // 14. Status message has proper role
     // ---------------------------------------------------------------
     it('status message has proper aria role', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -258,10 +244,7 @@ describe('NewsletterSignup', () => {
     // 15. PostHog tracking on submit
     // ---------------------------------------------------------------
     it('tracks newsletter.submitted on form submit', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -277,10 +260,7 @@ describe('NewsletterSignup', () => {
     // 16. PostHog tracking on success
     // ---------------------------------------------------------------
     it('tracks newsletter.subscribed on success', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -296,10 +276,7 @@ describe('NewsletterSignup', () => {
     // 17. PostHog tracking on already subscribed
     // ---------------------------------------------------------------
     it('tracks newsletter.already_subscribed when already subscribed', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: true,
-            json: () => Promise.resolve({ status: 'already_subscribed' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ status: 'already_subscribed' }));
 
         render(<NewsletterSignup />);
 
@@ -315,10 +292,7 @@ describe('NewsletterSignup', () => {
     // 18. PostHog tracking on error
     // ---------------------------------------------------------------
     it('tracks newsletter.error on API failure', async () => {
-        fetchSpy.mockResolvedValue({
-            ok: false,
-            json: () => Promise.resolve({ error: 'Internal error' }),
-        });
+        fetchSpy.mockResolvedValue(mockFetchResponse({ error: 'Internal error' }, { ok: false, status: 500 }));
 
         render(<NewsletterSignup />);
 

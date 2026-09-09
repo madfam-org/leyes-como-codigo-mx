@@ -1,15 +1,16 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 const mockUseAuth = vi.fn(() => mockAuth({ tier: 'anon' }));
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 vi.mock('@/lib/billing', () => ({
@@ -64,7 +65,7 @@ import { ConversionBanner } from '@/components/ConversionBanner';
 describe('ConversionBanner', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
     });
 
     it('renders for anon users', () => {
@@ -105,7 +106,7 @@ describe('ConversionBanner', () => {
     });
 
     it('renders English content', () => {
-        mockUseLang.mockReturnValue({ lang: 'en' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         mockUseAuth.mockReturnValue(mockAuth({ tier: 'anon' }));
         render(<ConversionBanner />);
         expect(screen.getByText('Try any plan free for 3 days')).toBeDefined();
@@ -113,7 +114,7 @@ describe('ConversionBanner', () => {
     });
 
     it('renders Nahuatl content', () => {
-        mockUseLang.mockReturnValue({ lang: 'nah' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('nah'));
         mockUseAuth.mockReturnValue(mockAuth({ tier: 'anon' }));
         render(<ConversionBanner />);
         expect(screen.getByText('Xicyeyeco tlaxtlahuilli 3 tonalli')).toBeDefined();

@@ -1,9 +1,10 @@
 import { fireEvent, render, screen } from '@testing-library/react';
 import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { makeLangMock, langState } from '../../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 import { GraphStats } from '@/components/graph/GraphStats';
@@ -24,7 +25,7 @@ const SAMPLE: any = {
 describe('GraphStats', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
     });
 
     it('renders the toggle button collapsed by default', () => {
@@ -72,7 +73,7 @@ describe('GraphStats', () => {
     });
 
     it('renders English labels', () => {
-        mockUseLang.mockReturnValue({ lang: 'en', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         render(<GraphStats data={SAMPLE} />);
         fireEvent.click(screen.getByText('Statistics'));
         expect(screen.getByText('Nodes')).toBeInTheDocument();
