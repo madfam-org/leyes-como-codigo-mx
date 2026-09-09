@@ -1,6 +1,7 @@
 import { render, screen, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import DataOpsPage from '@/app/dataops/page';
+import type { DashboardData } from '@/components/dataops/types';
 
 vi.mock('next/link', () => ({
     default: ({ href, children, ...props }: { href: string; children: React.ReactNode }) => (
@@ -20,15 +21,38 @@ vi.mock('lucide-react', () => ({
     ArrowLeft: () => <span data-testid="arrow-left" />,
 }));
 
-const mockDashboardData = {
+// `gap_summary` and `health_status` are objects on DashboardData, not arrays —
+// the empty-array placeholders were the wrong shape. Typed here so the fixture
+// keeps matching the API contract the page consumes.
+const mockDashboardData: DashboardData = {
+    generated_at: '2026-01-15T00:00:00Z',
     coverage_views: {
         leyes_vigentes: { label: 'Leyes Vigentes', captured: 11904, universe: 12456, pct: 95.6 },
     },
     tier_progress: [],
     state_coverage: [],
-    gap_summary: [],
+    gap_summary: {
+        total: 0,
+        by_status: {},
+        by_tier: {},
+        by_level: {},
+        by_type: {},
+        actionable: 0,
+        overdue: 0,
+        top_gaps: [],
+    },
     expansion_priorities: [],
-    health_status: [],
+    health_status: {
+        summary: {
+            total_sources: 0,
+            healthy: 0,
+            degraded: 0,
+            down: 0,
+            unknown: 0,
+            never_checked: 0,
+        },
+        sources: [],
+    },
 };
 
 vi.mock('@/lib/api', async (importOriginal) => {

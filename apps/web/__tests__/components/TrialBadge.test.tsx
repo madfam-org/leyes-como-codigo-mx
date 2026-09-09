@@ -1,15 +1,16 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
 import { mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 const mockUseAuth = vi.fn(() => mockAuth({ isOnTrial: false }));
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 const mockTrackEvent = vi.fn();
@@ -34,7 +35,7 @@ describe('TrialBadge', () => {
         vi.useFakeTimers();
         vi.setSystemTime(new Date('2026-03-10T12:00:00Z'));
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
     });
 
     afterEach(() => {
@@ -100,7 +101,7 @@ describe('TrialBadge', () => {
     });
 
     it('shows "Trial" in English', () => {
-        mockUseLang.mockReturnValue({ lang: 'en' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         const trialEndsAt = new Date('2026-03-12T12:00:00Z');
         mockUseAuth.mockReturnValue(mockAuth({
             isOnTrial: true,
@@ -112,7 +113,7 @@ describe('TrialBadge', () => {
     });
 
     it('shows "Yeyecoliztli" in Nahuatl', () => {
-        mockUseLang.mockReturnValue({ lang: 'nah' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('nah'));
         const trialEndsAt = new Date('2026-03-12T12:00:00Z');
         mockUseAuth.mockReturnValue(mockAuth({
             isOnTrial: true,

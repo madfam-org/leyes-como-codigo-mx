@@ -1,6 +1,7 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { defaultAuthState, mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
 // Mock next/navigation
 vi.mock('next/navigation', () => ({
@@ -24,15 +25,15 @@ vi.mock('@tezca/ui', () => ({
 }));
 
 // Mock LanguageContext
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 // Mock AuthContext
 const mockUseAuth = vi.fn(() => mockAuth({ isAuthenticated: true, tier: 'academic' }));
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 // Mock auth token
@@ -69,7 +70,7 @@ import ApiKeysPage from '@/app/cuenta/apikeys/page';
 describe('ApiKeysPage', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
         mockUseAuth.mockReturnValue(mockAuth({ isAuthenticated: true, tier: 'academic' }));
         mockGetUserApiKeys.mockResolvedValue({ keys: [], total: 0 });
     });
@@ -211,7 +212,7 @@ describe('ApiKeysPage', () => {
     });
 
     it('renders English content', async () => {
-        mockUseLang.mockReturnValue({ lang: 'en' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         render(<ApiKeysPage />);
         expect(screen.getByText('API Keys')).toBeDefined();
         await waitFor(() => {

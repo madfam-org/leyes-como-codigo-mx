@@ -1,5 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
+import { makeCrossRef } from '../../fixtures/mockFactories';
 import { LinkifiedArticle } from '@/components/laws/LinkifiedArticle';
 import { LanguageProvider } from '@/components/providers/LanguageContext';
 
@@ -45,7 +46,7 @@ describe('LinkifiedArticle', () => {
             <LinkifiedArticle
                 text="De acuerdo con la Ley de Amparo vigente en la materia."
                 preloadedRefs={[
-                    {
+                    makeCrossRef({
                         text: 'Ley de Amparo',
                         targetLawSlug: 'amparo',
                         targetArticle: '5',
@@ -53,7 +54,7 @@ describe('LinkifiedArticle', () => {
                         startPos: 18,
                         endPos: 32,
                         targetUrl: '/leyes/amparo#article-5',
-                    },
+                    }),
                 ]}
             />
         );
@@ -67,7 +68,7 @@ describe('LinkifiedArticle', () => {
             <LinkifiedArticle
                 text="En el articulo 27 se establece lo anterior."
                 preloadedRefs={[
-                    {
+                    makeCrossRef({
                         text: 'articulo 27',
                         targetLawSlug: null,
                         targetArticle: '27',
@@ -75,7 +76,7 @@ describe('LinkifiedArticle', () => {
                         startPos: 5,
                         endPos: 16,
                         targetUrl: null,
-                    },
+                    }),
                 ]}
             />
         );
@@ -90,8 +91,8 @@ describe('LinkifiedArticle', () => {
             <LinkifiedArticle
                 text="ref1 text ref2 more text"
                 preloadedRefs={[
-                    { text: 'ref1', startPos: 0, endPos: 4, confidence: 0.9, targetUrl: '/a' },
-                    { text: 'ref2', startPos: 10, endPos: 14, confidence: 0.9, targetUrl: '/b' },
+                    makeCrossRef({ text: 'ref1', startPos: 0, endPos: 4, confidence: 0.9, targetUrl: '/a' }),
+                    makeCrossRef({ text: 'ref2', startPos: 10, endPos: 14, confidence: 0.9, targetUrl: '/b' }),
                 ]}
             />
         );
@@ -107,8 +108,8 @@ describe('LinkifiedArticle', () => {
                 text="alpha bravo charlie delta echo"
                 minConfidence={0.7}
                 preloadedRefs={[
-                    { text: 'alpha', startPos: 0, endPos: 5, confidence: 0.9, targetUrl: '/a' },
-                    { text: 'bravo', startPos: 6, endPos: 11, confidence: 0.5, targetUrl: '/b' }, // filtered
+                    makeCrossRef({ text: 'alpha', startPos: 0, endPos: 5, confidence: 0.9, targetUrl: '/a' }),
+                    makeCrossRef({ text: 'bravo', startPos: 6, endPos: 11, confidence: 0.5, targetUrl: '/b' }), // filtered
                 ]}
             />
         );
@@ -124,7 +125,7 @@ describe('LinkifiedArticle', () => {
             <LinkifiedArticle
                 text="anything"
                 preloadedRefs={[
-                    { text: 'anything', startPos: 0, endPos: 8, confidence: 0.9, targetUrl: '/x' },
+                    makeCrossRef({ text: 'anything', startPos: 0, endPos: 8, confidence: 0.9, targetUrl: '/x' }),
                 ]}
             />
         );

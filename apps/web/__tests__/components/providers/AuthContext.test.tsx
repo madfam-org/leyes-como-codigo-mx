@@ -1,12 +1,22 @@
 import { render, screen, act } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
 
-// Mock @janua/nextjs — control auth state per test
-const mockJanuaAuth = vi.fn(() => ({
-    isAuthenticated: false,
-    user: null,
-    isLoading: false,
-}));
+// Mock @janua/nextjs — control auth state per test.
+// `user` is typed as the claims bag AuthContext actually consumes (it reads
+// it as `Record<string, unknown>` and pulls sub/user_id/email/name/tier out),
+// so per-test claim shapes stay assignable instead of narrowing to `null`.
+interface MockJanuaAuth {
+    isAuthenticated: boolean;
+    user: Record<string, unknown> | null;
+    isLoading: boolean;
+}
+const mockJanuaAuth = vi.fn(
+    (): MockJanuaAuth => ({
+        isAuthenticated: false,
+        user: null,
+        isLoading: false,
+    }),
+);
 const mockSignOut = vi.fn();
 const mockJanuaClient = { signOut: mockSignOut };
 

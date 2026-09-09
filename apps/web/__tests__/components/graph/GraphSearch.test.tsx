@@ -1,9 +1,10 @@
 import { fireEvent, render, screen } from '@testing-library/react';
 import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { makeLangMock, langState } from '../../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 const mockTrackEvent = vi.fn();
@@ -22,7 +23,7 @@ const NODES = [
 describe('GraphSearch', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
     });
 
     it('renders the input with i18n placeholder', () => {
@@ -99,7 +100,7 @@ describe('GraphSearch', () => {
     });
 
     it('uses English placeholder when lang is en', () => {
-        mockUseLang.mockReturnValue({ lang: 'en', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         render(<GraphSearch nodes={NODES} onFocus={() => {}} onClear={() => {}} />);
         expect(screen.getByPlaceholderText('Search law...')).toBeInTheDocument();
     });
