@@ -1,6 +1,7 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { defaultAuthState, mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
 // Mock next/navigation
 const mockReplace = vi.fn();
@@ -18,15 +19,15 @@ vi.mock('@janua/nextjs', () => ({
 }));
 
 // Mock LanguageContext
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 // Mock AuthContext
 const mockUseAuth = vi.fn(() => defaultAuthState);
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 // Mock PostHog
@@ -40,7 +41,7 @@ import LoginPage from '@/app/login/page';
 describe('LoginPage', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
         mockUseAuth.mockReturnValue(defaultAuthState);
     });
 
@@ -64,13 +65,13 @@ describe('LoginPage', () => {
     });
 
     it('renders English content', () => {
-        mockUseLang.mockReturnValue({ lang: 'en' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         render(<LoginPage />);
         expect(screen.getByText('Sign in')).toBeDefined();
     });
 
     it('renders Nahuatl content', () => {
-        mockUseLang.mockReturnValue({ lang: 'nah' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('nah'));
         render(<LoginPage />);
         expect(screen.getByText('Xicalaqui')).toBeDefined();
     });

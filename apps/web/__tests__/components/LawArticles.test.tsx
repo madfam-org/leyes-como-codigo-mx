@@ -1,9 +1,10 @@
 import { fireEvent, render, screen, waitFor } from '@testing-library/react';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 import LawArticles from '@/components/LawArticles';
@@ -23,7 +24,7 @@ const SAMPLE_DATA = {
 
 beforeEach(() => {
     vi.clearAllMocks();
-    mockUseLang.mockReturnValue({ lang: 'es', setLang: vi.fn() });
+    mockUseLang.mockReturnValue(langState('es'));
 });
 
 afterEach(() => {
@@ -114,7 +115,7 @@ describe('LawArticles', () => {
     });
 
     it('renders articles in English when lang is en', async () => {
-        mockUseLang.mockReturnValue({ lang: 'en', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         global.fetch = vi.fn().mockResolvedValue({
             ok: true,
             json: async () => SAMPLE_DATA,

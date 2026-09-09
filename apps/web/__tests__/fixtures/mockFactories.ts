@@ -3,6 +3,8 @@
  * Generates realistic data matching actual API response shapes.
  */
 
+import type { CrossReferenceData } from '@/lib/api';
+
 // --- Constants ---
 
 /** 200 realistic article IDs including roman numerals, Bis/Ter, Transitorios */
@@ -32,7 +34,14 @@ export const MULTILINE_ARTICLE =
 
 // --- Factories ---
 
+/**
+ * Shape returned by `GET /laws/:id/` (`api.getLawDetail`), whose declared
+ * return type is the untyped JSON envelope `Record<string, unknown>`.
+ * The index signature keeps this fixture assignable to that envelope while
+ * still checking every field the tests actually read.
+ */
 export interface MockLawApiResponse {
+    [key: string]: unknown;
     official_id: string;
     id: string;
     name: string;
@@ -60,7 +69,12 @@ export interface MockArticle {
     has_structure?: boolean;
 }
 
+/**
+ * Shape returned by `GET /laws/:id/articles/`. Index-signed for the same
+ * reason as `MockLawApiResponse` — the API facade types it as a JSON envelope.
+ */
 export interface MockArticlesApiResponse {
+    [key: string]: unknown;
     law_id: string;
     law_name: string;
     total: number;
@@ -230,4 +244,46 @@ export function makeComparisonLawData(articleCount = 50) {
             { label: 'T\u00edtulo Primero', children: [{ label: 'Cap\u00edtulo I', children: [] }] },
         ],
     };
+}
+
+/**
+ * Build a complete `CrossReferenceData`. Every optional-looking field on that
+ * interface is `T | null` rather than `T | undefined`, so a partial literal is
+ * not a valid cross-reference — this factory fills the unset ones with `null`
+ * so fixtures match the shape the API actually returns.
+ */
+export function makeCrossRef(overrides: Partial<CrossReferenceData> = {}): CrossReferenceData {
+    return {
+        text: 'Ley de Amparo',
+        targetLawSlug: null,
+        targetArticle: null,
+        fraction: null,
+        confidence: 0.9,
+        startPos: 0,
+        endPos: 13,
+        targetUrl: null,
+        ...overrides,
+    };
+}
+
+/**
+ * Build a `Response`-shaped stub for a mocked `fetch`.
+ *
+ * Only the members components/`api.ts` actually touch are real (`ok`,
+ * `status`, `statusText`, `headers`, `json`); the single cast to `Response`
+ * is contained here instead of being repeated at every call site, so a typed
+ * `vi.fn<typeof fetch>()` mock accepts it.
+ */
+export function mockFetchResponse(
+    body: unknown,
+    init: { status?: number; ok?: boolean; headers?: Record<string, string> } = {},
+): Response {
+    const status = init.status ?? 200;
+    return {
+        ok: init.ok ?? (status >= 200 && status < 300),
+        status,
+        statusText: status === 429 ? 'Too Many Requests' : 'OK',
+        headers: new Headers(init.headers ?? {}),
+        json: async () => body,
+    } as unknown as Response;
 }

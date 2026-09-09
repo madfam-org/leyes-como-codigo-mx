@@ -1,6 +1,7 @@
 import { render, screen, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import RoadmapPage from '@/app/roadmap/page';
+import type { RoadmapData } from '@/components/dataops/types';
 
 vi.mock('next/link', () => ({
     default: ({ href, children, ...props }: { href: string; children: React.ReactNode }) => (
@@ -29,7 +30,7 @@ vi.mock('lucide-react', () => ({
     ChevronRight: () => <span data-testid="chevron-right" />,
 }));
 
-const mockRoadmapData = {
+const mockRoadmapData: RoadmapData = {
     summary: {
         total_items: 15,
         completed: 5,
@@ -51,7 +52,7 @@ const mockRoadmapData = {
                     estimated_effort: '2 weeks',
                     priority: 1,
                     progress_pct: 100,
-                    notes: null,
+                    notes: '',
                     started_at: '2026-01-01T00:00:00Z',
                     completed_at: '2026-01-15T00:00:00Z',
                 },

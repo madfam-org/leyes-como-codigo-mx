@@ -13,19 +13,12 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 
 import { api } from '@/lib/api';
+import { mockFetchResponse } from '../fixtures/mockFactories';
 
 const ORIGINAL_FETCH = global.fetch;
 
-// Helper: build a mock fetch response
-function mockResponse(body: unknown, init: { status?: number; headers?: Record<string, string> } = {}) {
-    return {
-        ok: (init.status ?? 200) >= 200 && (init.status ?? 200) < 300,
-        status: init.status ?? 200,
-        statusText: init.status === 429 ? 'Too Many Requests' : 'OK',
-        headers: new Headers(init.headers ?? {}),
-        json: async () => body,
-    } as unknown as Response;
-}
+// Helper: build a mock fetch response (shared with the component tests)
+const mockResponse = mockFetchResponse;
 
 beforeEach(() => {
     vi.restoreAllMocks();
@@ -73,7 +66,10 @@ describe('api — read endpoints', () => {
 
         const result = await api.getLaw('cpeum');
         expect(fetchMock.mock.calls[0][0]).toMatch(/\/laws\/cpeum\/$/);
-        expect((result as Record<string, unknown>).official_id).toBe('cpeum');
+        // `getLaw` is declared `Promise<Law>`, but this test asserts the raw
+        // envelope passes through — and `official_id` is not a field on `Law`.
+        // Go through `unknown` rather than pretending `Law` is index-signed.
+        expect((result as unknown as Record<string, unknown>).official_id).toBe('cpeum');
     });
 
     it('getLawDetail() returns the raw response shape', async () => {

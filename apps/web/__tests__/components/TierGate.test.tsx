@@ -20,7 +20,7 @@ vi.mock('@/components/providers/LanguageContext', () => ({
 const mockUseAuth = vi.fn(() => defaultAuthState);
 
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 // Mock billing

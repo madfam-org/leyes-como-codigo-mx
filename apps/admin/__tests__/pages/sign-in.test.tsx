@@ -1,7 +1,7 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 
 const mockReplace = vi.fn();
-const mockGet = vi.fn(() => null);
+const mockGet = vi.fn((_key: string): string | null => null);
 const mockUseAuth = vi.fn(() => ({
     isAuthenticated: false,
     isLoading: false,
@@ -83,9 +83,14 @@ describe('SignInPage', () => {
         process.env = { ...originalEnv, NEXT_PUBLIC_JANUA_PUBLISHABLE_KEY: 'jnc_test_key' };
 
         const originalLocation = window.location;
-        // @ts-expect-error — override for test
-        delete window.location;
-        window.location = { ...originalLocation, origin: 'http://localhost:3000', href: '' } as Location;
+        // jsdom's `location` is not configurable-assignable; replace the whole
+        // descriptor so `href` is a plain writable string the component can set.
+        Reflect.deleteProperty(window as unknown as Record<string, unknown>, 'location');
+        Object.defineProperty(window, 'location', {
+            configurable: true,
+            writable: true,
+            value: { ...originalLocation, origin: 'http://localhost:3000', href: '' },
+        });
 
         const { default: SignInPage } = await import('@/app/sign-in/page');
         render(<SignInPage />);
@@ -94,7 +99,11 @@ describe('SignInPage', () => {
 
         expect(window.location.href).toBe('/api/auth/sso');
 
-        window.location = originalLocation;
+        Object.defineProperty(window, 'location', {
+            configurable: true,
+            writable: true,
+            value: originalLocation,
+        });
     });
 
     it('shows SSO error from query parameter', async () => {

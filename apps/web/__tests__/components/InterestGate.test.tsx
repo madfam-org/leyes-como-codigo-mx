@@ -1,6 +1,7 @@
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { defaultAuthState, mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
 // Mock next/link
 vi.mock('next/link', () => ({
@@ -10,15 +11,15 @@ vi.mock('next/link', () => ({
 }));
 
 // Mock LanguageContext
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 // Mock AuthContext
 const mockUseAuth = vi.fn(() => defaultAuthState);
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 // Mock config
@@ -72,7 +73,7 @@ import { InterestGate } from '@/components/InterestGate';
 describe('InterestGate', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
         mockUseAuth.mockReturnValue(defaultAuthState);
         global.fetch = vi.fn();
     });
@@ -238,7 +239,7 @@ describe('InterestGate', () => {
 
     describe('i18n', () => {
         it('renders English content', () => {
-            mockUseLang.mockReturnValue({ lang: 'en' as const, setLang: vi.fn() });
+            mockUseLang.mockReturnValue(langState('en'));
             render(<InterestGate variant="inline" featureKey="latex_export" />);
             expect(screen.getByText('Coming soon')).toBeDefined();
             expect(screen.getByText('Notify me')).toBeDefined();
@@ -246,7 +247,7 @@ describe('InterestGate', () => {
         });
 
         it('renders Nahuatl content', () => {
-            mockUseLang.mockReturnValue({ lang: 'nah' as const, setLang: vi.fn() });
+            mockUseLang.mockReturnValue(langState('nah'));
             render(<InterestGate variant="inline" featureKey="latex_export" />);
             expect(screen.getByText('Hualaz niman')).toBeDefined();
             expect(screen.getByText('Xinechtlanonotza')).toBeDefined();

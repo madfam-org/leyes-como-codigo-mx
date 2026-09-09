@@ -1,9 +1,10 @@
 import { fireEvent, render, screen, waitFor } from '@testing-library/react';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
+import { makeLangMock, langState } from '../../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 const mockGetStates = vi.fn();
@@ -17,7 +18,7 @@ import { StatesGrid } from '@/app/estados/StatesGrid';
 
 beforeEach(() => {
     vi.clearAllMocks();
-    mockUseLang.mockReturnValue({ lang: 'es', setLang: vi.fn() });
+    mockUseLang.mockReturnValue(langState('es'));
 });
 
 afterEach(() => {
@@ -76,7 +77,7 @@ describe('StatesGrid', () => {
     });
 
     it('renders English labels when lang is en', async () => {
-        mockUseLang.mockReturnValue({ lang: 'en', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         mockGetStates.mockResolvedValue({ states: ['Jalisco'] });
         render(<StatesGrid />);
         await waitFor(() => screen.getByText(/States of Mexico/i));

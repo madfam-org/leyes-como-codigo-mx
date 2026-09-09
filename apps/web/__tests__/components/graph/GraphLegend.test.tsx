@@ -1,9 +1,10 @@
 import { fireEvent, render, screen } from '@testing-library/react';
 import { beforeEach, describe, expect, it, vi } from 'vitest';
+import { makeLangMock, langState } from '../../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 import { GraphLegend } from '@/components/graph/GraphLegend';
@@ -11,7 +12,7 @@ import { GraphLegend } from '@/components/graph/GraphLegend';
 describe('GraphLegend', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
     });
 
     it('renders the color-mode toggle', () => {
@@ -61,7 +62,7 @@ describe('GraphLegend', () => {
     });
 
     it('renders English labels when lang is en', () => {
-        mockUseLang.mockReturnValue({ lang: 'en', setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('en'));
         render(
             <GraphLegend colorMode="category" onColorModeChange={() => {}} />,
         );

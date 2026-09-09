@@ -1,10 +1,11 @@
 import { render, screen } from '@testing-library/react';
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { mockAuth } from '../helpers/auth-mock';
+import { makeLangMock, langState } from '../helpers/lang-mock';
 
-const mockUseLang = vi.fn(() => ({ lang: 'es' as const, setLang: vi.fn() }));
+const mockUseLang = makeLangMock();
 vi.mock('@/components/providers/LanguageContext', () => ({
-    useLang: (...args: any[]) => mockUseLang(...args),
+    useLang: () => mockUseLang(),
 }));
 
 const mockUseAuth = vi.fn(() => mockAuth({
@@ -13,7 +14,7 @@ const mockUseAuth = vi.fn(() => mockAuth({
     isAuthenticated: true,
 }));
 vi.mock('@/components/providers/AuthContext', () => ({
-    useAuth: (...args: any[]) => mockUseAuth(...args),
+    useAuth: () => mockUseAuth(),
 }));
 
 vi.mock('@/lib/billing', () => ({
@@ -61,7 +62,7 @@ import { TierComparison } from '@/components/TierComparison';
 describe('TierComparison', () => {
     beforeEach(() => {
         vi.clearAllMocks();
-        mockUseLang.mockReturnValue({ lang: 'es' as const, setLang: vi.fn() });
+        mockUseLang.mockReturnValue(langState('es'));
         mockUseAuth.mockReturnValue(mockAuth({
             tier: 'essentials',
             userId: 'user-123',
